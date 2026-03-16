@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "You shall bind them as a sign on your hand, and it shall be immovable before your eyes;",
   "pericope": {
     "id": "DEU.P016",
@@ -20,7 +20,16 @@
       "line_number": 1173,
       "raw_match": "[[DEU.6:8]]",
       "reference_type": "wikilink",
-      "context": "A parody of God's seal of 7:3, even alluding to the Hebrew phylactery of [[DEU.6:8]]-- where God's Law is kept on the forehead and the left hand--and to chrismation (but not the same word as \"sealed\"). The mark is gained by worshiping the beast (v. 17); it signifies the beast is the owner of those who wear it--their protector and the one to whom they owe their livelihoods. This mark is not necessarily a visible and physical mark on the person, but it is required to do business. There is then an economic bias against those who do not bear the beast's mark (the faithful who will not render demonic worship to the state)."
+      "context": "A parody of God's seal of 7:3, even alluding to the Hebrew phylactery of [[DEU.6:8]]-- where God's Law is kept on the forehead and the left hand--and to chrismation (but not the same word as \"sealed\"). The mark is gained by worshiping the beast (v. 17); it signifies the beast is the owner of those who wear it--their protector and the one to whom they owe their livelihoods. This mark is not necessarily a visible and physical mark on the person, but it is required to do business. There is then an economic bias against those who do not bear the beast's mark (the faithful who will not render demonic worship to the state).",
+      "edge_type": "instantiates",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

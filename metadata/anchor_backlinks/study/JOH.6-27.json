@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Do not labor for the food which perishes, but for the food which endures to everlasting life, which the Son of Man will give you, because God the Father has set His seal on Him.'",
   "pericope": {
     "id": "JOH.P017",
@@ -12,7 +12,14 @@
     "range": "JOH.6:21-6:28",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "eucharist",
+    "kingdom",
+    "logos",
+    "prayer",
+    "suffering"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,28 +27,81 @@
       "line_number": 893,
       "raw_match": "[[JOH.6:27]]",
       "reference_type": "wikilink",
-      "context": "Christ looked up to heaven \"not as receiving power from elsewhere, but as honoring the Father who begot Him.\" That Christ blessed and broke the bread teaches us \"not to touch any meal until we have given thanks to Him who gives us food\" (JohnChr). This blessing also presents a clear eucharistic image and directs us to pursue spiritual food greater than that which is earthly (see [[JOH.6:26]], [[JOH.6:27]])."
+      "context": "Christ looked up to heaven \"not as receiving power from elsewhere, but as honoring the Father who begot Him.\" That Christ blessed and broke the bread teaches us \"not to touch any meal until we have given thanks to Him who gives us food\" (JohnChr). This blessing also presents a clear eucharistic image and directs us to pursue spiritual food greater than that which is earthly (see [[JOH.6:26]], [[JOH.6:27]]).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology",
+        "eucharist"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 5,
+        "title": "Heaven and Earth: A Spiritual Perspective",
+        "polarity": "generation",
+        "operation": "inform",
+        "scale": "individual"
+      }
     },
     {
       "source_file": "study/footnotes/NT/MAT_footnotes.md",
       "line_number": 327,
       "raw_match": "[[JOH.6:27]]",
       "reference_type": "wikilink",
-      "context": "By rejecting the first temptation, Jesus rejects an earthly kingdom and shows us not to pursue earthly comfort in the \"food which perishes\" ([[JOH.6:27]]). While Adam disregarded the divine word in order to pursue the passions of the body (Gn 3), the New Adam-- Christ-- conquers all temptation by the divine word, giving human nature the power to conquer Satan."
+      "context": "By rejecting the first temptation, Jesus rejects an earthly kingdom and shows us not to pursue earthly comfort in the \"food which perishes\" ([[JOH.6:27]]). While Adam disregarded the divine word in order to pursue the passions of the body (Gn 3), the New Adam-- Christ-- conquers all temptation by the divine word, giving human nature the power to conquer Satan.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology",
+        "logos",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/NT/MAT_footnotes.md",
       "line_number": 665,
       "raw_match": "[[JOH.6:27]]-58",
       "reference_type": "wikilink_range",
-      "context": "Daily is a misleading translation of the Greek epiousios, which is literally \"above the essence,\" or \"supersubstantial.\" The expression daily bread indicates not merely bread for this day, for earthly nourishment; it is the bread for the eternal day of the Kingdom of God, for the nourishment of our immortal soul. This living, supersubstantial bread is Christ Himself. In the Lord's Prayer, then, we are not asking merely for material bread for physical health, but for the spiritual bread of eternal life ([[JOH.6:27]]-58)."
+      "context": "Daily is a misleading translation of the Greek epiousios, which is literally \"above the essence,\" or \"supersubstantial.\" The expression daily bread indicates not merely bread for this day, for earthly nourishment; it is the bread for the eternal day of the Kingdom of God, for the nourishment of our immortal soul. This living, supersubstantial bread is Christ Himself. In the Lord's Prayer, then, we are not asking merely for material bread for physical health, but for the spiritual bread of eternal life ([[JOH.6:27]]-58).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology",
+        "kingdom",
+        "prayer"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/RUT_footnotes.md",
       "line_number": 32,
       "raw_match": "[[JOH.6:27]]",
       "reference_type": "wikilink",
-      "context": "Naomi's question, \"Why do you desire to go with me?\" is intended not to prevent them from following her to the Lord, but to challenge their sincerity (see [[JOH.6:26]], [[JOH.6:27]])."
+      "context": "Naomi's question, \"Why do you desire to go with me?\" is intended not to prevent them from following her to the Lord, but to challenge their sincerity (see [[JOH.6:26]], [[JOH.6:27]]).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

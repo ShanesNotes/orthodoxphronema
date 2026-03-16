@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "For God has not given us a spirit of fear, but of power and of love and of a sound mind.",
   "pericope": {
     "id": "2TI.P003",
@@ -20,7 +20,16 @@
       "line_number": 569,
       "raw_match": "[[2TI.1:7]]",
       "reference_type": "wikilink",
-      "context": "The Lord gave the enemy a spirit of fear, in contrast to the spirit \"of power and of love and of a sound mind\" that He gives the faithful ([[2TI.1:7]]; JohnChr)."
+      "context": "The Lord gave the enemy a spirit of fear, in contrast to the spirit \"of power and of love and of a sound mind\" that He gives the faithful ([[2TI.1:7]]; JohnChr).",
+      "edge_type": "opposes",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

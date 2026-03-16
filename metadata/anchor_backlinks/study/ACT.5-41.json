@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "So they departed from the presence of the council, rejoicing that they were counted worthy to suffer shame for His name.",
   "pericope": {
     "id": "ACT.P020",
@@ -12,7 +12,11 @@
     "range": "ACT.5:39-5:41",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "faith",
+    "suffering"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,14 +24,40 @@
       "line_number": 26,
       "raw_match": "[[ACT.5:41]]",
       "reference_type": "wikilink",
-      "context": "Trials, the world's oppression, take place by God's permission. The issue is not trials but our response to them. Properly received, trials reveal where our hearts are. They are food for faith, which must grow or die. The godly reaction to trials is joy and perseverance ([[MAT.5:11]], [[MAT.5:12]]; [[ACT.5:41]]; [[ROM.5:2]], [[ROM.5:3]]; 8:18; [[HEB.12:11]]; [[1PE.2:19]]). Though unkind circumstances are from the evil one, to get angry at circumstances is to get angry at God, who permits them."
+      "context": "Trials, the world's oppression, take place by God's permission. The issue is not trials but our response to them. Properly received, trials reveal where our hearts are. They are food for faith, which must grow or die. The godly reaction to trials is joy and perseverance ([[MAT.5:11]], [[MAT.5:12]]; [[ACT.5:41]]; [[ROM.5:2]], [[ROM.5:3]]; 8:18; [[HEB.12:11]]; [[1PE.2:19]]). Though unkind circumstances are from the evil one, to get angry at circumstances is to get angry at God, who permits them.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "faith",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/NT/MAT_footnotes.md",
       "line_number": 477,
       "raw_match": "[[ACT.5:41]]",
       "reference_type": "wikilink",
-      "context": "Those who suffer persecution for Christ walk the road of the prophets, saints, and martyrs. The Greek for be exceedingly glad means to \"leap exceedingly with joy.\" (See [[ACT.5:40]], [[ACT.5:41]].)"
+      "context": "Those who suffer persecution for Christ walk the road of the prophets, saints, and martyrs. The Greek for be exceedingly glad means to \"leap exceedingly with joy.\" (See [[ACT.5:40]], [[ACT.5:41]].)",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

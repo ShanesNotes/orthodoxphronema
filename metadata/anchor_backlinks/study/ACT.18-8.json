@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Then Crispus, the ruler of the synagogue, believed on the Lord with all his household. And many of the Corinthians, hearing, believed and were baptized.",
   "pericope": {
     "id": "ACT.P066",
@@ -12,7 +12,10 @@
     "range": "ACT.18:4-18:10",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "baptism",
+    "faith"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 90,
       "raw_match": "[[ACT.18:8]]",
       "reference_type": "wikilink",
-      "context": "Crispus had been the ruler of the synagogue at Corinth ([[ACT.18:8]]). Converted through the preaching of Paul, then baptized, he was apparently succeeded as ruler by Sosthenes ([[ACT.18:17]]). Gaius was a resident of Corinth with whom Paul was staying when he wrote the Epistle to the Romans ([[ROM.16:23]]). The third epistle of John (see 3Jn 1) seems to have been directed to this same Gaius."
+      "context": "Crispus had been the ruler of the synagogue at Corinth ([[ACT.18:8]]). Converted through the preaching of Paul, then baptized, he was apparently succeeded as ruler by Sosthenes ([[ACT.18:17]]). Gaius was a resident of Corinth with whom Paul was staying when he wrote the Epistle to the Romans ([[ROM.16:23]]). The third epistle of John (see 3Jn 1) seems to have been directed to this same Gaius.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "baptism",
+        "faith"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

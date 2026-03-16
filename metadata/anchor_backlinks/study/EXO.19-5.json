@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Now therefore, if you will indeed obey My voice and keep My covenant, you shall be a special people to Me above all nations; for all the earth is Mine.",
   "pericope": {
     "id": "EXO.P035",
@@ -12,7 +12,18 @@
     "range": "EXO.18:27-19:24",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "baptism",
+    "christology",
+    "covenant",
+    "eucharist",
+    "israel_church",
+    "mercy",
+    "praise",
+    "priesthood",
+    "repentance",
+    "temple"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,21 +31,70 @@
       "line_number": 147,
       "raw_match": "[[EXO.19:5]]",
       "reference_type": "wikilink",
-      "context": "Peter likens the growth of the Church to the OT temple with its attending priesthood and its sacrifice and worship, Christ Himself being the fulfillment of this imagery. Thus, in Christ we become living stones, a spiritual house, a royal priesthood (v. 5; see [[EXO.19:5]], [[EXO.19:6]]), the people of God who have obtained mercy (v. 10; see [[EPH.2:19]]-22; [[1CO.3:16]], [[1CO.3:17]]; [[2CO.6:16]]). This is salvation in all its fullness."
+      "context": "Peter likens the growth of the Church to the OT temple with its attending priesthood and its sacrifice and worship, Christ Himself being the fulfillment of this imagery. Thus, in Christ we become living stones, a spiritual house, a royal priesthood (v. 5; see [[EXO.19:5]], [[EXO.19:6]]), the people of God who have obtained mercy (v. 10; see [[EPH.2:19]]-22; [[1CO.3:16]], [[1CO.3:17]]; [[2CO.6:16]]). This is salvation in all its fullness.",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "covenant",
+        "israel_church",
+        "mercy",
+        "priesthood",
+        "temple"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/NT/MAT_footnotes.md",
       "line_number": 393,
       "raw_match": "[[EXO.19:3]]-13",
       "reference_type": "wikilink_range",
-      "context": "Note that the crowds do not swarm Jesus when He commands repentance (v. 17), but only when He begins to heal and work miracles. This fact shows that the people misunderstand the true nature of His Kingdom. It also shows Christ's concession \"to give credibility to what He teaches\" among the fickle multitudes (Theoph). 5:1, 2 In the OT, only a select few were chosen to hear God directly (see [[EXO.19:3]]-13). Here, God Incarnate speaks to the multitudes face to face. The mountain is a place where divine action enters human history, the place where God reveals Himself to man (17:1; [[GEN.22:2]]; [[EXO.3:1]]; 19:2; 3Kg 18:20). Seated is the traditional Jewish position for teaching with authority. Some early Christian preachers (for example, St. John Chrysostom) sat while the people stood. Matthew mentioning that Jesus opened his mouth emphasizes this teaching is \"one-way,\" that Jesus has come to speak with authority (7:29), and the disciples are there not to discuss or debate, but to listen."
+      "context": "Note that the crowds do not swarm Jesus when He commands repentance (v. 17), but only when He begins to heal and work miracles. This fact shows that the people misunderstand the true nature of His Kingdom. It also shows Christ's concession \"to give credibility to what He teaches\" among the fickle multitudes (Theoph). 5:1, 2 In the OT, only a select few were chosen to hear God directly (see [[EXO.19:3]]-13). Here, God Incarnate speaks to the multitudes face to face. The mountain is a place where divine action enters human history, the place where God reveals Himself to man (17:1; [[GEN.22:2]]; [[EXO.3:1]]; 19:2; 3Kg 18:20). Seated is the traditional Jewish position for teaching with authority. Some early Christian preachers (for example, St. John Chrysostom) sat while the people stood. Matthew mentioning that Jesus opened his mouth emphasizes this teaching is \"one-way,\" that Jesus has come to speak with authority (7:29), and the disciples are there not to discuss or debate, but to listen.",
+      "edge_type": "descends_to",
+      "topic_threads": [
+        "christology",
+        "covenant",
+        "israel_church",
+        "repentance"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/NT/REV_footnotes.md",
       "line_number": 80,
       "raw_match": "[[EXO.19:5]]",
       "reference_type": "wikilink",
-      "context": "Those joined to the body of Christ in baptism comprise the messianic royal priesthood promised of old (see [[EXO.19:5]], [[EXO.19:6]]; Is 61:6; [[1PE.2:9]]; and the Anaphora of the Liturgy of St. Basil). This priestly ministry is to offer the world back to God in a sacrifice of praise and thanksgiving--eucharistically--as in the Orthodox Church's Divine Liturgy. The universe itself thus becomes hallowed, transfigured, and sacramental. Amen is Semitic. It signifies ratification: an acknowledgment of something trustworthy."
+      "context": "Those joined to the body of Christ in baptism comprise the messianic royal priesthood promised of old (see [[EXO.19:5]], [[EXO.19:6]]; Is 61:6; [[1PE.2:9]]; and the Anaphora of the Liturgy of St. Basil). This priestly ministry is to offer the world back to God in a sacrifice of praise and thanksgiving--eucharistically--as in the Orthodox Church's Divine Liturgy. The universe itself thus becomes hallowed, transfigured, and sacramental. Amen is Semitic. It signifies ratification: an acknowledgment of something trustworthy.",
+      "edge_type": "echoes",
+      "topic_threads": [
+        "baptism",
+        "christology",
+        "covenant",
+        "eucharist",
+        "praise",
+        "priesthood"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

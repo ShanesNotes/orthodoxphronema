@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "For thus says the Lord Almighty: 'He has sent Me out after glory to the nations that plundered you, for the one who assails you is as one who assails the apple of His eye.",
   "pericope": {
     "id": "ZEC.P004",
@@ -12,7 +12,10 @@
     "range": "ZEC.2:4-2:16",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "logos"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 145,
       "raw_match": "[[ZEC.2:12]]",
       "reference_type": "wikilink",
-      "context": "The Bride now speaks, exalting the Bridegroom. Of all the trees of the woods, the apple tree gives nourishment with sweet fruit. In Scripture, the apple is a symbol of favor ([[DEU.32:10]]; [[PSA.16:8]]; [[ZEC.2:12]]). Christ the beloved far surpasses in glory the sons, the righteous, for they become by grace what He is by nature. His commandments are sweet to those who thirst for the living Word ([[PSA.118:103]])."
+      "context": "The Bride now speaks, exalting the Bridegroom. Of all the trees of the woods, the apple tree gives nourishment with sweet fruit. In Scripture, the apple is a symbol of favor ([[DEU.32:10]]; [[PSA.16:8]]; [[ZEC.2:12]]). Christ the beloved far surpasses in glory the sons, the righteous, for they become by grace what He is by nature. His commandments are sweet to those who thirst for the living Word ([[PSA.118:103]]).",
+      "edge_type": "ascends_from",
+      "topic_threads": [
+        "christology",
+        "logos"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

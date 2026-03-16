@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "So the people stood afar off, but Moses drew near the thick darkness where God was.",
   "pericope": {
     "id": "EXO.P038",
@@ -12,7 +12,10 @@
     "range": "EXO.20:21-20:25",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "covenant"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 23,
       "raw_match": "[[EXO.20:1]]-26",
       "reference_type": "wikilink_range",
-      "context": "Christ and Moses were friends and conversed as friends. The pre-incarnate Christ gave Moses the Law; in turn, Moses gave it to Israel ([[EXO.20:1]]-26). As the Lawgiver, Christ, not Moses, was the Author of the Law. Moses was His servant. In the New Testament, Moses and Elijah appeared with Christ on the Mount of Transfiguration, and they conversed with Him as friend with friend ([[MAT.17:1]]-8). The presence of Moses shows Christ as the fulfillment of the Law. The presence of Elijah shows Christ as the fulfillment of the Prophets. #### Contrast Between Christ And Moses"
+      "context": "Christ and Moses were friends and conversed as friends. The pre-incarnate Christ gave Moses the Law; in turn, Moses gave it to Israel ([[EXO.20:1]]-26). As the Lawgiver, Christ, not Moses, was the Author of the Law. Moses was His servant. In the New Testament, Moses and Elijah appeared with Christ on the Mount of Transfiguration, and they conversed with Him as friend with friend ([[MAT.17:1]]-8). The presence of Moses shows Christ as the fulfillment of the Law. The presence of Elijah shows Christ as the fulfillment of the Prophets. #### Contrast Between Christ And Moses",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "covenant"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

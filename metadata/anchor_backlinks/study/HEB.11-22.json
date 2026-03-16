@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "By faith Joseph, when he was dying, made mention of the departure of the children of Israel, and gave instructions concerning his bones.",
   "pericope": {
     "id": "HEB.P030",
@@ -12,7 +12,10 @@
     "range": "HEB.11:22-11:30",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "faith",
+    "resurrection"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,14 +23,40 @@
       "line_number": 1452,
       "raw_match": "[[HEB.11:22]]",
       "reference_type": "wikilink",
-      "context": "Joseph was a true prophet, for the Holy Spirit spoke by him. Thus, his prophecies concerning Jacob and his sons came to pass. His long-term prophecy concerning the general resurrection will also come to pass (50:25; [[HEB.11:22]]). Therefore, his prophecies are trustworthy."
+      "context": "Joseph was a true prophet, for the Holy Spirit spoke by him. Thus, his prophecies concerning Jacob and his sons came to pass. His long-term prophecy concerning the general resurrection will also come to pass (50:25; [[HEB.11:22]]). Therefore, his prophecies are trustworthy.",
+      "edge_type": "ascends_from",
+      "topic_threads": [
+        "faith",
+        "resurrection"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/GEN_footnotes.md",
       "line_number": 1608,
       "raw_match": "[[HEB.11:22]]",
       "reference_type": "wikilink",
-      "context": "The Holy Spirit spoke by Jacob and predicted that God would bring Joseph back to Canaan. Joseph's bones were later taken to Canaan, prefiguring the resurrection from the dead ([[HEB.11:22]])."
+      "context": "The Holy Spirit spoke by Jacob and predicted that God would bring Joseph back to Canaan. Joseph's bones were later taken to Canaan, prefiguring the resurrection from the dead ([[HEB.11:22]]).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "faith",
+        "resurrection"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

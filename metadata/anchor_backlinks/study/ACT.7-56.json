@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "and said, 'Look! I see the heavens opened and the Son of Man standing at the right hand of God!'",
   "pericope": {
     "id": "ACT.P024",
@@ -12,7 +12,14 @@
     "range": "ACT.7:52-7:59",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "covenant",
+    "eschatology",
+    "kingdom",
+    "priesthood",
+    "temple"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,14 +27,43 @@
       "line_number": 128,
       "raw_match": "[[ACT.7:56]]",
       "reference_type": "wikilink",
-      "context": "One like the Son of Man recalls Daniel's messianic figure ([[DAN.7:13]]--repeated by Stephen at his martyrdom, [[ACT.7:56]]). Christ called Himself Son of Man (see especially [[MAT.24:30]]ff.), for He is the fulfillment of Daniel's prophecy. Additional parallels may be seen in both the Old and New Testaments ([[DAN.10:6]]; [[MAT.17:2]]; [[EPH.6:17]]; [[HEB.4:12]]). We also see Him vested in high-priestly garments (see [[EXO.28:4]]; 29:5; Lv 16:4; WSol 18:24; [[ZEC.3:4]], [[ZEC.3:5]]). The gold with which He is girded is both royal (1Mc 10:89) and priestly."
+      "context": "One like the Son of Man recalls Daniel's messianic figure ([[DAN.7:13]]--repeated by Stephen at his martyrdom, [[ACT.7:56]]). Christ called Himself Son of Man (see especially [[MAT.24:30]]ff.), for He is the fulfillment of Daniel's prophecy. Additional parallels may be seen in both the Old and New Testaments ([[DAN.10:6]]; [[MAT.17:2]]; [[EPH.6:17]]; [[HEB.4:12]]). We also see Him vested in high-priestly garments (see [[EXO.28:4]]; 29:5; Lv 16:4; WSol 18:24; [[ZEC.3:4]], [[ZEC.3:5]]). The gold with which He is girded is both royal (1Mc 10:89) and priestly.",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "covenant",
+        "priesthood"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 9,
+        "title": "Example: The Cherubim of Ezekiel I",
+        "polarity": "generation",
+        "operation": "inform",
+        "scale": "intercommunal"
+      }
     },
     {
       "source_file": "study/footnotes/NT/REV_footnotes.md",
       "line_number": 502,
       "raw_match": "[[ACT.7:56]]",
       "reference_type": "wikilink",
-      "context": "After this does not refer to a chronological order within the text of chs. 1-4, but instead connects this next sequence with the initial vision, a vision that beholds past, present, and future as one whole. St. John writes, as it were, from inside the eye of an apocalyptic tornado, recording glimpses of the eschatological events that whirl by. The single open door through the vaulted firmament (see [[GEN.1:7]], [[GEN.1:8]]) allows vision into the depths of all mysteries, the celestial throne. Since earthly events have their origin in heaven, true insight into history can be attained only from that vantage point (see Gn 28:17; [[EZK.1:1]]; [[MRK.1:10]]; [[ACT.7:56]]; see also 1En 14:14; TLev 5:1). Come up, reminiscent of Moses' invitation from God to ascend Mt. Sinai ([[EXO.19:24]]), is a command with liturgical overtones: to enter God's sanctuary, His \"high place.\""
+      "context": "After this does not refer to a chronological order within the text of chs. 1-4, but instead connects this next sequence with the initial vision, a vision that beholds past, present, and future as one whole. St. John writes, as it were, from inside the eye of an apocalyptic tornado, recording glimpses of the eschatological events that whirl by. The single open door through the vaulted firmament (see [[GEN.1:7]], [[GEN.1:8]]) allows vision into the depths of all mysteries, the celestial throne. Since earthly events have their origin in heaven, true insight into history can be attained only from that vantage point (see Gn 28:17; [[EZK.1:1]]; [[MRK.1:10]]; [[ACT.7:56]]; see also 1En 14:14; TLev 5:1). Come up, reminiscent of Moses' invitation from God to ascend Mt. Sinai ([[EXO.19:24]]), is a command with liturgical overtones: to enter God's sanctuary, His \"high place.\"",
+      "edge_type": "witnesses",
+      "topic_threads": [
+        "christology",
+        "eschatology",
+        "kingdom",
+        "temple"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

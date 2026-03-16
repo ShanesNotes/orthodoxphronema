@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "David also separated them into divisions among the sons of Levi: Gershon, Kohath, and Merari.",
   "pericope": {
     "id": "1CH.P057",
@@ -12,7 +12,10 @@
     "range": "1CH.22:19-23:31",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "priesthood",
+    "temple"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 47,
       "raw_match": "[[1CH.23:3]]-11",
       "reference_type": "wikilink_range",
-      "context": "Each priest was assigned to a division (see [[1CH.23:3]]-11; 28:13). There were twenty-four divisions in all, each serving a week at a time in rotation. The responsibilities in the division were decided by lot; Zacharias is here assigned the duties of the high priest. This event takes place at the time of the Atonement, when the high priest would enter the temple and make offerings for the sins of the people."
+      "context": "Each priest was assigned to a division (see [[1CH.23:3]]-11; 28:13). There were twenty-four divisions in all, each serving a week at a time in rotation. The responsibilities in the division were decided by lot; Zacharias is here assigned the duties of the high priest. This event takes place at the time of the Atonement, when the high priest would enter the temple and make offerings for the sins of the people.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "priesthood",
+        "temple"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

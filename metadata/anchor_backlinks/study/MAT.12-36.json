@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "But I say to you that for every idle word men may speak, they will give account of it in the day of judgment.",
   "pericope": {
     "id": "MAT.P036",
@@ -12,7 +12,11 @@
     "range": "MAT.12:21-12:44",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "judgment",
+    "logos"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +24,20 @@
       "line_number": 1389,
       "raw_match": "[[MAT.12:31]]-37",
       "reference_type": "wikilink_range",
-      "context": "The Lord Jesus Christ elaborated on this thought ([[MAT.12:31]]-37)."
+      "context": "The Lord Jesus Christ elaborated on this thought ([[MAT.12:31]]-37).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "judgment"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

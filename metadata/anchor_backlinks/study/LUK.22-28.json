@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "'But you are those who have continued with Me in My trials.",
   "pericope": {
     "id": "LUK.P108",
@@ -12,7 +12,13 @@
     "range": "LUK.22:27-22:29",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "baptism",
+    "christology",
+    "eschatology",
+    "eucharist",
+    "kingdom"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,14 +26,42 @@
       "line_number": 313,
       "raw_match": "[[LUK.22:28]]-30",
       "reference_type": "wikilink_range",
-      "context": "Hidden manna is an allusion to the bread of heaven (or the bread of angels), the bread of the Almighty ([[EXO.16:4]]; [[PSA.77:24]], [[PSA.77:25]]; [[JOH.6:31]]-35, 48-51). To eat it is to partake of the messianic banquet in the Kingdom ([[LUK.22:28]]-30), the Eucharist of the age to come. In sharp contrast to communion with the pagan cult, it restores our original communion with God. The white stone on which a new name is inscribed indicates a new identity with Christ. Unlike pagan amulets inscribed with mysterious formulae, the new name of Christ is received by His faithful at their baptismal rebirth."
+      "context": "Hidden manna is an allusion to the bread of heaven (or the bread of angels), the bread of the Almighty ([[EXO.16:4]]; [[PSA.77:24]], [[PSA.77:25]]; [[JOH.6:31]]-35, 48-51). To eat it is to partake of the messianic banquet in the Kingdom ([[LUK.22:28]]-30), the Eucharist of the age to come. In sharp contrast to communion with the pagan cult, it restores our original communion with God. The white stone on which a new name is inscribed indicates a new identity with Christ. Unlike pagan amulets inscribed with mysterious formulae, the new name of Christ is received by His faithful at their baptismal rebirth.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "baptism",
+        "christology",
+        "eschatology",
+        "eucharist"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/NT/REV_footnotes.md",
       "line_number": 479,
       "raw_match": "[[LUK.22:28]]-30",
       "reference_type": "wikilink_range",
-      "context": "I will... dine with him if there is cooperation, the synergy of an open door. God does not force anyone to cooperate with Him. He keeps knocking, awaiting a response. This promise looks toward both the messianic banquet, the wedding supper of the Lamb of God (19:9; [[LUK.22:30]]), and the Holy Eucharist, which is a foretaste of the heavenly feast. Faithful disciples are promised they will eat and drink at table with Him ([[LUK.22:28]]-30) in the ultimate reality of the Kingdom of heaven. Note the parallels with the parable of the bridegroom ([[MAT.25:1]]-13) and with the teaching about those who will shut themselves out of the feast of the Kingdom ([[LUK.13:25]]-30)."
+      "context": "I will... dine with him if there is cooperation, the synergy of an open door. God does not force anyone to cooperate with Him. He keeps knocking, awaiting a response. This promise looks toward both the messianic banquet, the wedding supper of the Lamb of God (19:9; [[LUK.22:30]]), and the Holy Eucharist, which is a foretaste of the heavenly feast. Faithful disciples are promised they will eat and drink at table with Him ([[LUK.22:28]]-30) in the ultimate reality of the Kingdom of heaven. Note the parallels with the parable of the bridegroom ([[MAT.25:1]]-13) and with the teaching about those who will shut themselves out of the feast of the Kingdom ([[LUK.13:25]]-30).",
+      "edge_type": "echoes",
+      "topic_threads": [
+        "eucharist",
+        "kingdom"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

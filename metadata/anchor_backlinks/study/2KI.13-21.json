@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "And it came to pass, as they were burying a man, they beheld a lightly armed band of raiders, and cast the man into the tomb of Elisha. When the man touched the bones of Elisha, he revived and stood up on his feet.",
   "pericope": {
     "id": "2KI.P034",
@@ -12,7 +12,12 @@
     "range": "2KI.13:21-13:24",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "creation_theology",
+    "faith",
+    "mercy"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,21 +25,57 @@
       "line_number": 1173,
       "raw_match": "[[2KI.13:21]]",
       "reference_type": "wikilink",
-      "context": "The miracles performed here follow those performed by Christ and show that Christ lives and works through His followers. Of particular significance is the way physical objects (handkerchiefs and aprons, v. 12) become instruments of grace when touched by people of great faith. That God works wonders both through His saints and through created objects shows that creation itself is being renewed. (For other examples of objects bestowing grace, see 5:15; [[NUM.21:8]], [[NUM.21:9]]; [[2KI.13:20]], [[2KI.13:21]]; [[MRK.6:12]], [[MRK.6:13]]; [[LUK.8:41]]-48; [[JOH.9:6]], [[JOH.9:7]].)"
+      "context": "The miracles performed here follow those performed by Christ and show that Christ lives and works through His followers. Of particular significance is the way physical objects (handkerchiefs and aprons, v. 12) become instruments of grace when touched by people of great faith. That God works wonders both through His saints and through created objects shows that creation itself is being renewed. (For other examples of objects bestowing grace, see 5:15; [[NUM.21:8]], [[NUM.21:9]]; [[2KI.13:20]], [[2KI.13:21]]; [[MRK.6:12]], [[MRK.6:13]]; [[LUK.8:41]]-48; [[JOH.9:6]], [[JOH.9:7]].)",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology",
+        "creation_theology",
+        "faith"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/NT/MRK_footnotes.md",
       "line_number": 150,
       "raw_match": "[[2KI.13:21]]",
       "reference_type": "wikilink",
-      "context": "Anointing the sick with oil has not only medicinal value but sacramental value as well. As God's healing power is bestowed through creation (5:27; [[NUM.21:8]], [[NUM.21:9]]; [[2KI.13:21]]; [[JOH.9:6]], [[JOH.9:7]]; [[ACT.5:15]]; 19:11, 12), so oil is a vehicle of God's mercy and healing in the Church ([[JAS.5:14]])."
+      "context": "Anointing the sick with oil has not only medicinal value but sacramental value as well. As God's healing power is bestowed through creation (5:27; [[NUM.21:8]], [[NUM.21:9]]; [[2KI.13:21]]; [[JOH.9:6]], [[JOH.9:7]]; [[ACT.5:15]]; 19:11, 12), so oil is a vehicle of God's mercy and healing in the Church ([[JAS.5:14]]).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "creation_theology",
+        "mercy"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/SIR_footnotes.md",
       "line_number": 1657,
       "raw_match": "[[2KI.13:21]]",
       "reference_type": "wikilink",
-      "context": "Elisha's dead body prophesied in the sense that it worked the miracle of a dead man being restored to life when he was hastily placed in the tomb on Elisha's bones (see [[2KI.13:21]]). The Bible teaches there is power in holy relics."
+      "context": "Elisha's dead body prophesied in the sense that it worked the miracle of a dead man being restored to life when he was hastily placed in the tomb on Elisha's bones (see [[2KI.13:21]]). The Bible teaches there is power in holy relics.",
+      "edge_type": "instantiates",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

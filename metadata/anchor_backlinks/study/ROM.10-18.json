@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "But I say, have they not heard? Yes indeed: 'Their sound has gone out to all the earth, And their words to the ends of the world.'",
   "pericope": {
     "id": "ROM.P028",
@@ -12,7 +12,11 @@
     "range": "ROM.10:18-11:9",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "divine_word",
+    "faith",
+    "logos"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +24,21 @@
       "line_number": 1141,
       "raw_match": "[[ROM.10:18]]",
       "reference_type": "wikilink",
-      "context": "These verses are read on most feasts of the Virgin Mary. Jesus corrects the woman from the crowd, not by denouncing his mother, but by emphasizing her faith. People are blessed in God's eyes if, like Mary, they hear the word of God and keep it. The Greek word menounge, here rendered more than that, is translated \"Yes indeed\" in [[ROM.10:18]]. This word corrects by amplifying, not by negating."
+      "context": "These verses are read on most feasts of the Virgin Mary. Jesus corrects the woman from the crowd, not by denouncing his mother, but by emphasizing her faith. People are blessed in God's eyes if, like Mary, they hear the word of God and keep it. The Greek word menounge, here rendered more than that, is translated \"Yes indeed\" in [[ROM.10:18]]. This word corrects by amplifying, not by negating.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "divine_word",
+        "faith",
+        "logos"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

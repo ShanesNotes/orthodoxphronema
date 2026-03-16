@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "lest there be any fornicator or profane person like Esau, who for one morsel of food sold his birthright.",
   "pericope": {
     "id": "HEB.P034",
@@ -12,7 +12,11 @@
     "range": "HEB.12:1-12:26",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "faith",
+    "judgment",
+    "repentance"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,14 +24,40 @@
       "line_number": 994,
       "raw_match": "[[HEB.12:16]]",
       "reference_type": "wikilink",
-      "context": "Esau was the older son, so the right of the firstborn was his. This right taught the firstborn to embrace Abraham's faith. But he despised this faith, because of his fear of death (v. 32). He despised the very faith that could save him from death ([[HEB.12:16]], [[HEB.12:17]])."
+      "context": "Esau was the older son, so the right of the firstborn was his. This right taught the firstborn to embrace Abraham's faith. But he despised this faith, because of his fear of death (v. 32). He despised the very faith that could save him from death ([[HEB.12:16]], [[HEB.12:17]]).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "faith"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/GEN_footnotes.md",
       "line_number": 1081,
       "raw_match": "[[HEB.12:16]]",
       "reference_type": "wikilink",
-      "context": "The blessing of the firstborn was denied Esau because he despised the faith of Abraham. Because of this, he could find no place of repentance in order to inherit the blessing of the firstborn son ([[HEB.12:16]], [[HEB.12:17]]). Likewise, in the Day of Judgment, people who in this life reject the offer of the future inheritance will be unable to find repentance in that day."
+      "context": "The blessing of the firstborn was denied Esau because he despised the faith of Abraham. Because of this, he could find no place of repentance in order to inherit the blessing of the firstborn son ([[HEB.12:16]], [[HEB.12:17]]). Likewise, in the Day of Judgment, people who in this life reject the offer of the future inheritance will be unable to find repentance in that day.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "faith",
+        "judgment",
+        "repentance"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

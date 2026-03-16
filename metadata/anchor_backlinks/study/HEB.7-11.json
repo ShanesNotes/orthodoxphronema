@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Therefore, if perfection were through the Levitical priesthood (for under it the people received the law), what further need was there that another priest should rise according to the order of Melchizedek, and not be called according to the order of Aaron?",
   "pericope": {
     "id": "HEB.P015",
@@ -12,7 +12,11 @@
     "range": "HEB.6:20-7:27",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "eucharist",
+    "priesthood"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,14 +24,41 @@
       "line_number": 469,
       "raw_match": "[[HEB.7:11]]",
       "reference_type": "wikilink",
-      "context": "Melchizedek brought out bread and wine to Abraham. His priesthood typified the High Priesthood of Christ, who gives His precious body and blood to the faithful in the bread and wine of the Eucharist (CypC). Christ's priesthood is called \"the order of Melchizedek\" ([[PSA.109:4]]; [[HEB.5:6]]), and it is superior to the order of Aaron in the Mosaic Law ([[HEB.7:11]]). The Book of Hebrews gives numerous reasons for this superiority."
+      "context": "Melchizedek brought out bread and wine to Abraham. His priesthood typified the High Priesthood of Christ, who gives His precious body and blood to the faithful in the bread and wine of the Eucharist (CypC). Christ's priesthood is called \"the order of Melchizedek\" ([[PSA.109:4]]; [[HEB.5:6]]), and it is superior to the order of Aaron in the Mosaic Law ([[HEB.7:11]]). The Book of Hebrews gives numerous reasons for this superiority.",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "eucharist",
+        "priesthood"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/GEN_footnotes.md",
       "line_number": 1145,
       "raw_match": "[[HEB.7:11]]",
       "reference_type": "wikilink",
-      "context": ", 35 Levi was the forefather of the levitical priesthood, also known as the order of Aaron, for Aaron came from Levi ([[HEB.7:11]]). But the Christ could not be part of this order, because He would descend from Judah ([[HEB.7:14]]). However, the prophecy said Christ would be the High Priest of the order of Melchizedek ([[PSA.109:4]]). Thus, both orders cannot coexist as the way to be perfected. The order of Aaron became obsolete because Levi and his offspring are still dead, whereas Christ is alive from the dead. Therefore, Jews are not made children of God through the order of Aaron. Both Jews and Gentiles become the children of God only through the order of Melchizedek, in the one body of Christ, the Church, which is also called \"the Israel of God\" ([[GAL.6:16]])."
+      "context": ", 35 Levi was the forefather of the levitical priesthood, also known as the order of Aaron, for Aaron came from Levi ([[HEB.7:11]]). But the Christ could not be part of this order, because He would descend from Judah ([[HEB.7:14]]). However, the prophecy said Christ would be the High Priest of the order of Melchizedek ([[PSA.109:4]]). Thus, both orders cannot coexist as the way to be perfected. The order of Aaron became obsolete because Levi and his offspring are still dead, whereas Christ is alive from the dead. Therefore, Jews are not made children of God through the order of Aaron. Both Jews and Gentiles become the children of God only through the order of Melchizedek, in the one body of Christ, the Church, which is also called \"the Israel of God\" ([[GAL.6:16]]).",
+      "edge_type": "opposes",
+      "topic_threads": [
+        "christology",
+        "priesthood"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

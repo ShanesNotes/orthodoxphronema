@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Then he said to Him, 'If You Yourself do not go up with us, do not bring us up from here.",
   "pericope": {
     "id": "EXO.P072",
@@ -12,7 +12,11 @@
     "range": "EXO.33:11-33:22",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "covenant",
+    "exodus_typology"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +24,21 @@
       "line_number": 1104,
       "raw_match": "[[EXO.33:12]]-17",
       "reference_type": "wikilink_range",
-      "context": "[[EXO.33:3]], [[EXO.33:12]]-17: My Angel is the Son of the Father, and He sent Him to lead Israel to the promised land (GrgNy). \"Angel\" means \"messenger,\" for the Son is the Will and Word of the Father (AthanG). He is the Angel who appeared to Moses in Exodus 3 and said, \"I AM the Existing One\" (3:2, 14). The Father also sent Him to become incarnate for the salvation of the world ([[1JN.4:14]])."
+      "context": "[[EXO.33:3]], [[EXO.33:12]]-17: My Angel is the Son of the Father, and He sent Him to lead Israel to the promised land (GrgNy). \"Angel\" means \"messenger,\" for the Son is the Will and Word of the Father (AthanG). He is the Angel who appeared to Moses in Exodus 3 and said, \"I AM the Existing One\" (3:2, 14). The Father also sent Him to become incarnate for the salvation of the world ([[1JN.4:14]]).",
+      "edge_type": "descends_to",
+      "topic_threads": [
+        "christology",
+        "covenant",
+        "exodus_typology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

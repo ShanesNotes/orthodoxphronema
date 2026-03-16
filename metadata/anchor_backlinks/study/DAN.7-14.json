@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Then dominion, honor, and the kingdom were given to Him, and all peoples, tribes, and languages served Him. His authority is an everlasting authority which shall not pass away, and His kingdom shall not be destroyed.",
   "pericope": {
     "id": "DAN.P024",
@@ -12,7 +12,10 @@
     "range": "DAN.7:14-7:27",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "kingdom"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 221,
       "raw_match": "[[DAN.7:14]]",
       "reference_type": "wikilink",
-      "context": "The title Son of Man is a title of the Messiah that had a level of mystery in its meaning, indicating a man of heavenly origin who would usher in the Kingdom of God ([[DAN.7:13]], [[DAN.7:14]]). In an OT prophecy, Jacob dreamed of a ladder connecting earth to heaven, upon which the angels of God were ascending and descending ([[GEN.28:12]]-15). Jesus is this \"ladder\" who unites earth to heaven, and therefore is this Son of Man."
+      "context": "The title Son of Man is a title of the Messiah that had a level of mystery in its meaning, indicating a man of heavenly origin who would usher in the Kingdom of God ([[DAN.7:13]], [[DAN.7:14]]). In an OT prophecy, Jacob dreamed of a ladder connecting earth to heaven, upon which the angels of God were ascending and descending ([[GEN.28:12]]-15). Jesus is this \"ladder\" who unites earth to heaven, and therefore is this Son of Man.",
+      "edge_type": "ascends_from",
+      "topic_threads": [
+        "christology",
+        "kingdom"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Or is it only Barnabas and I who have no right to refrain from working?",
   "pericope": {
     "id": "1CO.P020",
@@ -12,7 +12,9 @@
     "range": "1CO.8:13-9:13",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,14 +22,35 @@
       "line_number": 453,
       "raw_match": "[[1CO.9:4]]-18",
       "reference_type": "wikilink_range",
-      "context": "Pure doctrine is taught out of pure motives. A mark of apostolic authenticity is the refusal of excessive money. The clergy draw their living from the Church, but not to the point of getting rich (see [[1CO.9:4]]-18; [[1TI.6:3]]-10; [[TIT.1:11]]). Paul's opponents dared not make this claim."
+      "context": "Pure doctrine is taught out of pure motives. A mark of apostolic authenticity is the refusal of excessive money. The clergy draw their living from the Church, but not to the point of getting rich (see [[1CO.9:4]]-18; [[1TI.6:3]]-10; [[TIT.1:11]]). Paul's opponents dared not make this claim.",
+      "edge_type": "instantiates",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/NT/ACT_footnotes.md",
       "line_number": 1292,
       "raw_match": "[[1CO.9:1]]-23",
       "reference_type": "wikilink_range",
-      "context": "While St. Paul teaches the clergy should be supported materially by the faithful ([[1CO.9:1]]-23), he has not required this for himself from the communities he established. This allowed Paul to preach all the more freely and took away any opportunity for others to question his motives (compare with [[NEH.5:14]]-19; 13:10-13). The quotation from Christ (v. 35) is not recorded in the four Gospels (see [[JOH.21:25]])."
+      "context": "While St. Paul teaches the clergy should be supported materially by the faithful ([[1CO.9:1]]-23), he has not required this for himself from the communities he established. This allowed Paul to preach all the more freely and took away any opportunity for others to question his motives (compare with [[NEH.5:14]]-19; 13:10-13). The quotation from Christ (v. 35) is not recorded in the four Gospels (see [[JOH.21:25]]).",
+      "edge_type": "witnesses",
+      "topic_threads": [
+        "christology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

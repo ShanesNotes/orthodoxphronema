@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "For here we have no continuing city, but we seek the one to come.",
   "pericope": {
     "id": "HEB.P037",
@@ -12,7 +12,13 @@
     "range": "HEB.13:8-13:15",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "faith",
+    "praise",
+    "suffering",
+    "temple"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,21 +26,60 @@
       "line_number": 1116,
       "raw_match": "[[HEB.13:12]]-14",
       "reference_type": "wikilink_range",
-      "context": "Moses pitched the tabernacle outside the camp, far from the camp. Everyone who sought the Lord went outside the camp. When the Lord became incarnate, He suffered on the Cross outside Jerusalem. Those who wish to find Him must leave the earthly Jerusalem to find Him in the heavenly Jerusalem ([[HEB.13:12]]-14; AmbM)."
+      "context": "Moses pitched the tabernacle outside the camp, far from the camp. Everyone who sought the Lord went outside the camp. When the Lord became incarnate, He suffered on the Cross outside Jerusalem. Those who wish to find Him must leave the earthly Jerusalem to find Him in the heavenly Jerusalem ([[HEB.13:12]]-14; AmbM).",
+      "edge_type": "descends_to",
+      "topic_threads": [
+        "christology",
+        "suffering",
+        "temple"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/EZK_footnotes.md",
       "line_number": 546,
       "raw_match": "[[HEB.13:10]]-19",
       "reference_type": "wikilink_range",
-      "context": "Here the vision concerns the heavenly altar (v. 46), imaged in the Divine Liturgy, where the saints offer their whole being to God in praise and worship. See [[HEB.13:10]]-19 and notes. The court is the foursquare fullness of the Church, which operates in faith, hope, charity, and good works."
+      "context": "Here the vision concerns the heavenly altar (v. 46), imaged in the Divine Liturgy, where the saints offer their whole being to God in praise and worship. See [[HEB.13:10]]-19 and notes. The court is the foursquare fullness of the Church, which operates in faith, hope, charity, and good works.",
+      "edge_type": "echoes",
+      "topic_threads": [
+        "faith",
+        "praise"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/EZK_footnotes.md",
       "line_number": 707,
       "raw_match": "[[HEB.13:14]]",
       "reference_type": "wikilink",
-      "context": "The name of the city is the New Jerusalem ([[REV.3:12]]), the Church, which has been and is now \"continuing\" ([[HEB.13:14]]) from the day on which Christ took His place in her midst. On the final day, when the Lord comes for His Bride, those who overcome will receive a \"new name\" ([[REV.2:17]])--the name of Christ revealed--on their foreheads ([[REV.22:4]])."
+      "context": "The name of the city is the New Jerusalem ([[REV.3:12]]), the Church, which has been and is now \"continuing\" ([[HEB.13:14]]) from the day on which Christ took His place in her midst. On the final day, when the Lord comes for His Bride, those who overcome will receive a \"new name\" ([[REV.2:17]])--the name of Christ revealed--on their foreheads ([[REV.22:4]]).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

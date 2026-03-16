@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "And He said to him, 'Most assuredly, I say to you, hereafter you shall see heaven open, and the angels of God ascending and descending upon the Son of Man.'",
   "pericope": {
     "id": "JOH.P007",
@@ -12,7 +12,11 @@
     "range": "JOH.1:51-2:11",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "divine_word",
+    "logos"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +24,21 @@
       "line_number": 1645,
       "raw_match": "[[JOH.1:51]]",
       "reference_type": "wikilink",
-      "context": "Heaven is opened: A standard revelatory formula (4:1; [[EZK.1:1]]; [[MAT.3:16]]; [[JOH.1:51]]; [[ACT.7:57]]). Christ is presented as the Warrior-Messiah, a triumphant King. In Semitic thought, name expressed being. Some of the names of the rider are understandable: Faithful and True (see 3:13), Word of God (v. 13; see [[JOH.1:1]], [[JOH.1:14]]), KING OF KINGS (v. 16; see 17:14) AND LORD OF LORDS (see [[DEU.10:17]]; [[1TI.6:15]]). But He also has a secret name only He can understand (v. 12; see 2:17; [[DAN.2:47]]), for He is God, and only God can comprehend God ([[JOH.1:18]])."
+      "context": "Heaven is opened: A standard revelatory formula (4:1; [[EZK.1:1]]; [[MAT.3:16]]; [[JOH.1:51]]; [[ACT.7:57]]). Christ is presented as the Warrior-Messiah, a triumphant King. In Semitic thought, name expressed being. Some of the names of the rider are understandable: Faithful and True (see 3:13), Word of God (v. 13; see [[JOH.1:1]], [[JOH.1:14]]), KING OF KINGS (v. 16; see 17:14) AND LORD OF LORDS (see [[DEU.10:17]]; [[1TI.6:15]]). But He also has a secret name only He can understand (v. 12; see 2:17; [[DAN.2:47]]), for He is God, and only God can comprehend God ([[JOH.1:18]]).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology",
+        "divine_word",
+        "logos"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

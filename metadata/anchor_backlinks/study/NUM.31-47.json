@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "and from the children of Israel's half Moses took one of every fifty, from men to cattle, and gave them to the Levites who kept charge of the tabernacle of the Lord, in the manner the Lord commanded Moses.",
   "pericope": {
     "id": "NUM.P072",
@@ -12,7 +12,10 @@
     "range": "NUM.31:24-31:53",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "priesthood",
+    "temple"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 489,
       "raw_match": "[[NUM.31:47]]",
       "reference_type": "wikilink",
-      "context": "See [[NUM.31:47]]; 35:1-8; [[1CO.9:14]]. The teacher and the taught form a bond, and the sharing here is in material blessings."
+      "context": "See [[NUM.31:47]]; 35:1-8; [[1CO.9:14]]. The teacher and the taught form a bond, and the sharing here is in material blessings.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "priesthood",
+        "temple"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "The voice of the Lord cuts through fiery flames;",
   "pericope": {
     "id": "PSA.P028",
@@ -12,7 +12,10 @@
     "range": "PSA.28:1-28:11",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "judgment",
+    "praise"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 903,
       "raw_match": "[[PSA.28:3]]-9",
       "reference_type": "wikilink_range",
-      "context": "The angel's voice, like a lion's roar, reminds us of God readying Himself for judgment ([[JER.27:44]]; [[AMO.1:2]]; Joel 4:16). The seven thunders probably refer to the divine voice ([[PSA.28:3]]-9; [[JOH.12:27]]-33), a fullness of terror, power, and magnificence. In [[DAN.12:4]], God tells the prophet to seal up (v. 4) what has been written in his book. So, too, St. John is told, regarding what the seven thunders have revealed. This command not to write down the utterance shows John's revelation does not exhaust divine decrees for humanity: undisclosed mysteries remain ([[2CO.12:4]])."
+      "context": "The angel's voice, like a lion's roar, reminds us of God readying Himself for judgment ([[JER.27:44]]; [[AMO.1:2]]; Joel 4:16). The seven thunders probably refer to the divine voice ([[PSA.28:3]]-9; [[JOH.12:27]]-33), a fullness of terror, power, and magnificence. In [[DAN.12:4]], God tells the prophet to seal up (v. 4) what has been written in his book. So, too, St. John is told, regarding what the seven thunders have revealed. This command not to write down the utterance shows John's revelation does not exhaust divine decrees for humanity: undisclosed mysteries remain ([[2CO.12:4]]).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "judgment",
+        "praise"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

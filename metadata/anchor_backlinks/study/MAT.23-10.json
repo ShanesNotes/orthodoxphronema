@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "And do not be called teachers; for One is your Teacher, the Christ.",
   "pericope": {
     "id": "MAT.P075",
@@ -12,7 +12,9 @@
     "range": "MAT.22:46-24:1",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 298,
       "raw_match": "[[MAT.23:10]]",
       "reference_type": "wikilink",
-      "context": "Paul soothes the soreness of his rebuke by reminding them of his fatherhood (see the note on [[MAT.23:9]], [[MAT.23:10]]). As in a family, so in the Church, maturing children need parental guidance. The apostle to the Gentiles--thus to most Christians--writes imitate me because he imitates Christ (11:1)."
+      "context": "Paul soothes the soreness of his rebuke by reminding them of his fatherhood (see the note on [[MAT.23:9]], [[MAT.23:10]]). As in a family, so in the Church, maturing children need parental guidance. The apostle to the Gentiles--thus to most Christians--writes imitate me because he imitates Christ (11:1).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

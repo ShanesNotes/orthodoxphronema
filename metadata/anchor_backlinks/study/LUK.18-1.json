@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Then He spoke a parable to them, that men always ought to pray and not lose heart,",
   "pericope": {
     "id": "LUK.P082",
@@ -12,7 +12,12 @@
     "range": "LUK.18:1-18:7",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "eucharist",
+    "praise",
+    "prayer"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +25,22 @@
       "line_number": 635,
       "raw_match": "[[LUK.18:1]]",
       "reference_type": "wikilink",
-      "context": "The hypocrites miss the spirit of prayer, which is an intimate, personal communion with God that leads to the vision of His glory ([[1CO.2:9]]). Hypocrisy blocks out this communion and this vision. Vain repetitions cannot establish this communion, for God does not need our \"babble.\" To partake of this communion, both silence and words are necessary. Therefore, we pray always ([[LUK.18:1]]) and without ceasing ([[1TH.5:17]]). Christ does not condemn the use of many words per se, but teaches that words must express the desire for communion with God. Jesus gives us specific words to repeat (vv. 9-13). It is not repetition itself that is condemned, but vain repetition. Many psalms, prayers, and hymns of the Church have been repeated for countless generations in the worship of God \"in spirit and truth\" ([[JOH.4:23]]). True prayer is not telling God what He already knows and then telling Him what to do about it, nor is it appearing pious in front of others. True prayer is (1) humble (go into your room, v. 6), (2) personal (pray to your Father, v. 6), and (3) sincere (do not use vain repetitions, v. 7)."
+      "context": "The hypocrites miss the spirit of prayer, which is an intimate, personal communion with God that leads to the vision of His glory ([[1CO.2:9]]). Hypocrisy blocks out this communion and this vision. Vain repetitions cannot establish this communion, for God does not need our \"babble.\" To partake of this communion, both silence and words are necessary. Therefore, we pray always ([[LUK.18:1]]) and without ceasing ([[1TH.5:17]]). Christ does not condemn the use of many words per se, but teaches that words must express the desire for communion with God. Jesus gives us specific words to repeat (vv. 9-13). It is not repetition itself that is condemned, but vain repetition. Many psalms, prayers, and hymns of the Church have been repeated for countless generations in the worship of God \"in spirit and truth\" ([[JOH.4:23]]). True prayer is not telling God what He already knows and then telling Him what to do about it, nor is it appearing pious in front of others. True prayer is (1) humble (go into your room, v. 6), (2) personal (pray to your Father, v. 6), and (3) sincere (do not use vain repetitions, v. 7).",
+      "edge_type": "descends_to",
+      "topic_threads": [
+        "christology",
+        "eucharist",
+        "praise",
+        "prayer"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

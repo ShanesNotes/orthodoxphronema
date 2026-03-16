@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "But to the Son He says: 'Your throne, O God, is forever and ever; A scepter of righteousness is the scepter of Your kingdom.",
   "pericope": {
     "id": "HEB.P001",
@@ -12,7 +12,13 @@
     "range": "HEB.1:1-1:9",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "covenant",
+    "creation_theology",
+    "kingdom",
+    "logos"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,14 +26,44 @@
       "line_number": 35,
       "raw_match": "[[HEB.1:8]]-10",
       "reference_type": "wikilink_range",
-      "context": "[[JOH.1:1]]-3-The Word is the Son of God, who was present with the Father at the beginning of creation. He was Co-worker with the Father in creating the world. [[JOH.8:58]]-Jesus identifies Himself as having existed before Abraham. Before His coming in the flesh as Man, Jesus existed as the eternal Son of the Father, for He is begotten from the Father before all time and ages. He appeared to Moses in the burning bush and proclaimed Himself as 'I Am' ([[EXO.3:1]]). [[ACT.2:17]]-The Holy Spirit's descent at Pentecost affirms His presence in the Old Testament ([[JOL.2:28]]-32). [[HEB.1:8]]-10-This Scripture affirms the Father is speaking to the Son in [[PSA.44:7]] and 101:26-28, in which the Father acknowledges the Son as God and Creator of the world. For the Son was the Father's Co-worker in creation. #### The Incarnate Son Fully Reveals The Holy Trinity"
+      "context": "[[JOH.1:1]]-3-The Word is the Son of God, who was present with the Father at the beginning of creation. He was Co-worker with the Father in creating the world. [[JOH.8:58]]-Jesus identifies Himself as having existed before Abraham. Before His coming in the flesh as Man, Jesus existed as the eternal Son of the Father, for He is begotten from the Father before all time and ages. He appeared to Moses in the burning bush and proclaimed Himself as 'I Am' ([[EXO.3:1]]). [[ACT.2:17]]-The Holy Spirit's descent at Pentecost affirms His presence in the Old Testament ([[JOL.2:28]]-32). [[HEB.1:8]]-10-This Scripture affirms the Father is speaking to the Son in [[PSA.44:7]] and 101:26-28, in which the Father acknowledges the Son as God and Creator of the world. For the Son was the Father's Co-worker in creation. #### The Incarnate Son Fully Reveals The Holy Trinity",
+      "edge_type": "echoes",
+      "topic_threads": [
+        "christology",
+        "covenant",
+        "creation_theology",
+        "kingdom",
+        "logos"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/PSA_footnotes.md",
       "line_number": 542,
       "raw_match": "[[HEB.1:8]]",
       "reference_type": "wikilink",
-      "context": "Ps 44 is a prophetic description of the Word Incarnate, the Lord Jesus Christ (the End), and His Church, composed of both Jews and Gentiles. The Beloved One is the Word Himself, and His Incarnation brought about changes (things that shall be changed, v. 1). For He established His Church (the peoples), and even changed His enemies into friends (v. 6). Thus, vv. 2-9 describe Him (see also [[HEB.1:8]], [[HEB.1:9]]); and vv. 10- 18 describe His Mother, the Mother of God, who is both His queen (v. 10) and His daughter (vv. 11, 14). These verses also describe the Church begotten from her (daughters, v. 10; the daughters of Tyre, v. 13--the Gentiles; the virgins, v. 15; sons, v. 17). Myrrh and stacte (v. 9) are sweet-smelling fragrances or incense. Cassia was used in ancient medicines, a reference to healing."
+      "context": "Ps 44 is a prophetic description of the Word Incarnate, the Lord Jesus Christ (the End), and His Church, composed of both Jews and Gentiles. The Beloved One is the Word Himself, and His Incarnation brought about changes (things that shall be changed, v. 1). For He established His Church (the peoples), and even changed His enemies into friends (v. 6). Thus, vv. 2-9 describe Him (see also [[HEB.1:8]], [[HEB.1:9]]); and vv. 10- 18 describe His Mother, the Mother of God, who is both His queen (v. 10) and His daughter (vv. 11, 14). These verses also describe the Church begotten from her (daughters, v. 10; the daughters of Tyre, v. 13--the Gentiles; the virgins, v. 15; sons, v. 17). Myrrh and stacte (v. 9) are sweet-smelling fragrances or incense. Cassia was used in ancient medicines, a reference to healing.",
+      "edge_type": "descends_to",
+      "topic_threads": [
+        "christology",
+        "kingdom",
+        "logos"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

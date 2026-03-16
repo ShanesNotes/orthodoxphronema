@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "He who overcomes, I will make him a pillar in the temple of My God, and he shall go out no more. I will write on him the name of My God and the name of the city of My God, the New Jerusalem, which comes down out of heaven from My God. And I will write on him My new name.",
   "pericope": {
     "id": "REV.P008",
@@ -12,7 +12,16 @@
     "range": "REV.3:6-3:12",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "eschatology",
+    "faith",
+    "israel_church",
+    "judgment",
+    "praise",
+    "priesthood",
+    "temple"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,21 +29,65 @@
       "line_number": 1903,
       "raw_match": "[[REV.3:12]]",
       "reference_type": "wikilink",
-      "context": "The face of God is that of the glorified Christ (see [[JOH.14:9]]; [[1JN.3:2]]). The face which cannot be seen is the hidden essence of God ([[JOH.1:18]]; [[1TI.6:16]]). Normally, even to see His energy is not possible in this life ([[EXO.33:20]]-23; [[MAT.5:8]]; [[JOH.1:18]]; [[1CO.13:12]]; [[HEB.12:14]]; [[1JN.3:2]]). But in the age to come the faithful, who bear Jesus' name... on their foreheads, may see Him ceaselessly. In the OT only the high priest bore the unspeakable name of God on his forehead, and that he did externally, on a golden headband around his turban ([[EXO.28:31]]-33; see [[EZK.9:4]]-6; [[REV.3:12]]; 7:3). In the NT, all who believe are granted His name."
+      "context": "The face of God is that of the glorified Christ (see [[JOH.14:9]]; [[1JN.3:2]]). The face which cannot be seen is the hidden essence of God ([[JOH.1:18]]; [[1TI.6:16]]). Normally, even to see His energy is not possible in this life ([[EXO.33:20]]-23; [[MAT.5:8]]; [[JOH.1:18]]; [[1CO.13:12]]; [[HEB.12:14]]; [[1JN.3:2]]). But in the age to come the faithful, who bear Jesus' name... on their foreheads, may see Him ceaselessly. In the OT only the high priest bore the unspeakable name of God on his forehead, and that he did externally, on a golden headband around his turban ([[EXO.28:31]]-33; see [[EZK.9:4]]-6; [[REV.3:12]]; 7:3). In the NT, all who believe are granted His name.",
+      "edge_type": "ascends_from",
+      "topic_threads": [
+        "christology",
+        "eschatology",
+        "faith",
+        "praise",
+        "priesthood",
+        "temple"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/EZK_footnotes.md",
       "line_number": 706,
       "raw_match": "[[REV.3:12]]",
       "reference_type": "wikilink",
-      "context": "The name of the city is the New Jerusalem ([[REV.3:12]]), the Church, which has been and is now \"continuing\" ([[HEB.13:14]]) from the day on which Christ took His place in her midst. On the final day, when the Lord comes for His Bride, those who overcome will receive a \"new name\" ([[REV.2:17]])--the name of Christ revealed--on their foreheads ([[REV.22:4]])."
+      "context": "The name of the city is the New Jerusalem ([[REV.3:12]]), the Church, which has been and is now \"continuing\" ([[HEB.13:14]]) from the day on which Christ took His place in her midst. On the final day, when the Lord comes for His Bride, those who overcome will receive a \"new name\" ([[REV.2:17]])--the name of Christ revealed--on their foreheads ([[REV.22:4]]).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "temple"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 5,
+        "title": "Heaven and Earth: A Spiritual Perspective",
+        "polarity": "generation",
+        "operation": "inform",
+        "scale": "individual"
+      }
     },
     {
       "source_file": "study/footnotes/OT/SIR_footnotes.md",
       "line_number": 348,
       "raw_match": "[[REV.3:12]]",
       "reference_type": "wikilink",
-      "context": "God intended Israel (v. 14) to be a tight-knit, unified nation. But He also intended her to have open and honorable relations with every nation (v. 14), that is, the Gentiles, ultimately becoming the instrument of their salvation. However, as a nation they did not fulfill this divine intent. Their unity became centered in their ethnicity rather than their relationship with God. They even grew to despise the Gentiles with no concern for their salvation. It is extremely important for us within the Church, the new Israel, not to fall into this same sin and incur the same judgment (see [[ROM.11:11]]-36). For the fulfillment of God's promises to Israel in the Church, see the following passages: [[ROM.4:9]]-16; 9:6, 8, 23-27; 11:7; [[1CO.10:18]]; [[GAL.6:16]]; [[1PE.2:4]]-12; [[REV.3:12]]; 21:2, 10."
+      "context": "God intended Israel (v. 14) to be a tight-knit, unified nation. But He also intended her to have open and honorable relations with every nation (v. 14), that is, the Gentiles, ultimately becoming the instrument of their salvation. However, as a nation they did not fulfill this divine intent. Their unity became centered in their ethnicity rather than their relationship with God. They even grew to despise the Gentiles with no concern for their salvation. It is extremely important for us within the Church, the new Israel, not to fall into this same sin and incur the same judgment (see [[ROM.11:11]]-36). For the fulfillment of God's promises to Israel in the Church, see the following passages: [[ROM.4:9]]-16; 9:6, 8, 23-27; 11:7; [[1CO.10:18]]; [[GAL.6:16]]; [[1PE.2:4]]-12; [[REV.3:12]]; 21:2, 10.",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "israel_church",
+        "judgment",
+        "temple"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

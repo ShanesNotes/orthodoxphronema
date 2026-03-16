@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "(for not the hearers of the law are just in the sight of God, but the doers of the law will be justified;",
   "pericope": {
     "id": "ROM.P006",
@@ -12,7 +12,9 @@
     "range": "ROM.2:1-2:16",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "faith"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,14 +22,35 @@
       "line_number": 672,
       "raw_match": "[[ROM.2:13]]",
       "reference_type": "wikilink",
-      "context": "Cornelius's obedience to God shows the true state of his heart, for it is those who not only hear but also do the will of God that are the true believers ([[MAT.7:21]]; [[ROM.2:13]]; Jam 1:22)."
+      "context": "Cornelius's obedience to God shows the true state of his heart, for it is those who not only hear but also do the will of God that are the true believers ([[MAT.7:21]]; [[ROM.2:13]]; Jam 1:22).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "faith"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/EXO_footnotes.md",
       "line_number": 715,
       "raw_match": "[[ROM.2:13]]",
       "reference_type": "wikilink",
-      "context": "They said they would obey but did not, \"for not the hearers of the law are just in the sight of God, but the doers of the law will be justified\" ([[ROM.2:13]]; JohnChr)."
+      "context": "They said they would obey but did not, \"for not the hearers of the law are just in the sight of God, but the doers of the law will be justified\" ([[ROM.2:13]]; JohnChr).",
+      "edge_type": "fulfills",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

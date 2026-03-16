@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Therefore, my beloved, as you have always obeyed, not as in my presence only, but now much more in my absence, work out your own salvation with fear and trembling;",
   "pericope": {
     "id": "PHP.P006",
@@ -12,7 +12,9 @@
     "range": "PHP.2:11-2:14",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "shepherd"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 1583,
       "raw_match": "[[PHP.2:12]]",
       "reference_type": "wikilink",
-      "context": "The servant plowing is mentioned first and the one tending sheep second, showing that one must first work out his own salvation ([[PHP.2:12]]) before he can become a shepherd of others."
+      "context": "The servant plowing is mentioned first and the one tending sheep second, showing that one must first work out his own salvation ([[PHP.2:12]]) before he can become a shepherd of others.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "shepherd"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 6,
+        "title": "The Universe As a Language",
+        "polarity": "generation",
+        "operation": "descend",
+        "scale": "communal"
+      }
     }
   ]
 }

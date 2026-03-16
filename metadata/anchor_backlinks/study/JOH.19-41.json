@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Now in the place where He was crucified there was a garden, and in the garden new tomb in which no one had yet been laid.",
   "pericope": {
     "id": "JOH.P070",
@@ -12,7 +12,9 @@
     "range": "JOH.19:37-19:41",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "suffering"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 101,
       "raw_match": "[[JOH.19:39]]-41",
       "reference_type": "wikilink_range",
-      "context": "This passage was fulfilled by Nicodemus and Joseph of Arimathea ([[JOH.19:39]]-41) when the Lord was anointed again after his death, covered with myrrh and bundled in linen. He will take rest in the Church."
+      "context": "This passage was fulfilled by Nicodemus and Joseph of Arimathea ([[JOH.19:39]]-41) when the Lord was anointed again after his death, covered with myrrh and bundled in linen. He will take rest in the Church.",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

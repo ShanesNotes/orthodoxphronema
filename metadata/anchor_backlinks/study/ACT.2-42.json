@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "And they continued steadfastly in the apostles' doctrine and fellowship, in the breaking of bread, and in prayers.",
   "pericope": {
     "id": "ACT.P010",
@@ -12,7 +12,17 @@
     "range": "ACT.2:41-2:45",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "baptism",
+    "christology",
+    "covenant",
+    "creation_theology",
+    "eucharist",
+    "faith",
+    "logos",
+    "prayer",
+    "repentance"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,14 +30,47 @@
       "line_number": 23,
       "raw_match": "[[ACT.2:42]]-47",
       "reference_type": "wikilink_range",
-      "context": "O ne of the tragic aberrations of so-called modern religion is 'Churchless Christianity.' The assertion is that it is Christ who saves us, not the Church, so 'all you need is Jesus.' Few who claim to be Christians would argue against the statement that it is Christ who saves. For He is the eternal Son of God who has assumed human flesh, and has done so 'for us and for our salvation' (Nicene Creed). Thus Paul writes, 'For there is one God and one Mediator between God and men, the Man Christ Jesus' ([[1TI.2:5]]). But because this Mediator established the Church which is His body, we who are joined to Him are joined to His Church as well. To say we love Christ, who is Head of the Church, and at the same time reject His body is to deny New Testament teaching. The Gospel and Acts. The first use of the word 'church' (Gr. ecclesia) in the New Testament comes in the Gospel of Matthew, when our Lord gives His approval of Peter's confession of faith and promises, 'I will build My church' ([[MAT.16:18]]). Jesus Christ builds, and we cooperate with Him. The Book of Acts amplifies what Jesus meant in Matthew 16. When Peter's sermon on the Day of Pentecost concludes, those present ask for guidance toward salvation: 'What shall we do?' ([[ACT.2:37]]). Following Peter's word, they are baptized and join with the other believers, three thousand of them ([[ACT.2:38]], [[ACT.2:41]]). Having been joined to Christ and His Church, these baptized believers begin living as the body of Christ. We find them looking after each other, using their personal resources for one another's care, continuing together in prayer and in the Eucharist ([[ACT.2:42]]-47). From this point on 'the Lord added to the church daily those who were being saved' ([[ACT.2:47]]), and throughout Acts, we see the Church being built as the Gospel of Christ spreads. The Epistles. Paul's instructions in his letters to the churches throughout the eastern Mediterranean clearly show what it means to be members of Christ: to be the Church and to be in the Church. Nowhere in the New Testament is Paul's teaching on the Church more fully disclosed than in Ephesians 4. He instructs us that: 1 The Church is one, 'endeavoring to keep the unity of the Spirit in the bond of peace' (4:3). There is one Church, one God, one doctrine, one baptism. 2 The Church is people, men and women who are energized by the Holy Spirit. For 'to each one of us grace was given according to the measure of Christ's gift' (4:7). We are not all given the same gifts, but together we are equipped to do God's will. 3 The Head of the Church is Christ, 'from whom the whole body [is] joined and knit together' (4:16). 4 The Church is 'the new man ' (4:24), the new creation, made to be righteous and holy. We are no longer alienated from God (4:18); we are being renewed together (4:23), 'members of one another' (4:25). The Church, then, is that place established by Christ where we each may become what we are created to be, maturing and being perfected, while the Church receives what it needs from each of us, so that it too is being perfected. The Church as the body of Christ carries us beyond our petty and worldly personal concerns, stretching our vision to the eternal and the heavenly as we ascend together to worship the Father, the Son, and the Holy Spirit."
+      "context": "O ne of the tragic aberrations of so-called modern religion is 'Churchless Christianity.' The assertion is that it is Christ who saves us, not the Church, so 'all you need is Jesus.' Few who claim to be Christians would argue against the statement that it is Christ who saves. For He is the eternal Son of God who has assumed human flesh, and has done so 'for us and for our salvation' (Nicene Creed). Thus Paul writes, 'For there is one God and one Mediator between God and men, the Man Christ Jesus' ([[1TI.2:5]]). But because this Mediator established the Church which is His body, we who are joined to Him are joined to His Church as well. To say we love Christ, who is Head of the Church, and at the same time reject His body is to deny New Testament teaching. The Gospel and Acts. The first use of the word 'church' (Gr. ecclesia) in the New Testament comes in the Gospel of Matthew, when our Lord gives His approval of Peter's confession of faith and promises, 'I will build My church' ([[MAT.16:18]]). Jesus Christ builds, and we cooperate with Him. The Book of Acts amplifies what Jesus meant in Matthew 16. When Peter's sermon on the Day of Pentecost concludes, those present ask for guidance toward salvation: 'What shall we do?' ([[ACT.2:37]]). Following Peter's word, they are baptized and join with the other believers, three thousand of them ([[ACT.2:38]], [[ACT.2:41]]). Having been joined to Christ and His Church, these baptized believers begin living as the body of Christ. We find them looking after each other, using their personal resources for one another's care, continuing together in prayer and in the Eucharist ([[ACT.2:42]]-47). From this point on 'the Lord added to the church daily those who were being saved' ([[ACT.2:47]]), and throughout Acts, we see the Church being built as the Gospel of Christ spreads. The Epistles. Paul's instructions in his letters to the churches throughout the eastern Mediterranean clearly show what it means to be members of Christ: to be the Church and to be in the Church. Nowhere in the New Testament is Paul's teaching on the Church more fully disclosed than in Ephesians 4. He instructs us that: 1 The Church is one, 'endeavoring to keep the unity of the Spirit in the bond of peace' (4:3). There is one Church, one God, one doctrine, one baptism. 2 The Church is people, men and women who are energized by the Holy Spirit. For 'to each one of us grace was given according to the measure of Christ's gift' (4:7). We are not all given the same gifts, but together we are equipped to do God's will. 3 The Head of the Church is Christ, 'from whom the whole body [is] joined and knit together' (4:16). 4 The Church is 'the new man ' (4:24), the new creation, made to be righteous and holy. We are no longer alienated from God (4:18); we are being renewed together (4:23), 'members of one another' (4:25). The Church, then, is that place established by Christ where we each may become what we are created to be, maturing and being perfected, while the Church receives what it needs from each of us, so that it too is being perfected. The Church as the body of Christ carries us beyond our petty and worldly personal concerns, stretching our vision to the eternal and the heavenly as we ascend together to worship the Father, the Son, and the Holy Spirit.",
+      "edge_type": "echoes",
+      "topic_threads": [
+        "baptism",
+        "christology",
+        "covenant",
+        "creation_theology",
+        "eucharist",
+        "faith",
+        "logos",
+        "prayer",
+        "repentance"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/NT/1PE_footnotes.md",
       "line_number": 135,
       "raw_match": "[[ACT.2:42]]",
       "reference_type": "wikilink",
-      "context": "The pure milk of the word is apostolic doctrine ([[ACT.2:42]]), the basic teaching of the Church--both written (1:10-12) and spoken (1:25). These lead us to the meat of the word ([[1CO.3:2]]), the sacraments of the Church, and continual growth in the Christian life. We have tasted that the Lord is gracious and should long for this spiritual nourishment."
+      "context": "The pure milk of the word is apostolic doctrine ([[ACT.2:42]]), the basic teaching of the Church--both written (1:10-12) and spoken (1:25). These lead us to the meat of the word ([[1CO.3:2]]), the sacraments of the Church, and continual growth in the Christian life. We have tasted that the Lord is gracious and should long for this spiritual nourishment.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology",
+        "logos"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

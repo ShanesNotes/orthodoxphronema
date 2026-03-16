@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "So the men marveled, saying, 'Who can this be, that even the winds and the sea obey Him?'",
   "pericope": {
     "id": "MAT.P019",
@@ -12,7 +12,10 @@
     "range": "MAT.8:27-9:7",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "creation_theology"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 554,
       "raw_match": "[[MAT.8:23]]-27",
       "reference_type": "wikilink_range",
-      "context": ", 7 God uses the random winter storms and the rain and snow to show man his weakness in the face of God's overwhelming power. Indeed, Christ taught this lesson to His disciples when he calmed the storm ([[MAT.8:23]]-27). \"He has created man to be weak, and yet man thinks himself to be strong; and thereby he becomes even more feeble\" (JohnChr)."
+      "context": ", 7 God uses the random winter storms and the rain and snow to show man his weakness in the face of God's overwhelming power. Indeed, Christ taught this lesson to His disciples when he calmed the storm ([[MAT.8:23]]-27). \"He has created man to be weak, and yet man thinks himself to be strong; and thereby he becomes even more feeble\" (JohnChr).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "creation_theology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

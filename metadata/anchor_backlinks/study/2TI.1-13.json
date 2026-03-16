@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Hold fast the pattern of sound words which you have heard from me, in faith and love which are in Christ Jesus.",
   "pericope": {
     "id": "2TI.P004",
@@ -12,7 +12,11 @@
     "range": "2TI.1:12-1:17",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "baptism",
+    "christology",
+    "faith"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +24,21 @@
       "line_number": 534,
       "raw_match": "[[2TI.1:13]]",
       "reference_type": "wikilink",
-      "context": "Baptism frees us from being slaves of sin if we continue in obedience to God. The form of doctrine refers to the apostolic teachings of the Church (see [[2TI.1:13]])."
+      "context": "Baptism frees us from being slaves of sin if we continue in obedience to God. The form of doctrine refers to the apostolic teachings of the Church (see [[2TI.1:13]]).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "baptism",
+        "christology",
+        "faith"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

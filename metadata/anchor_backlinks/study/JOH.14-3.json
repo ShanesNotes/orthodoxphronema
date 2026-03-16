@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "And if I go and prepare a place for you, I will come again and receive you to Myself; that where I am, there you may be also.",
   "pericope": {
     "id": "JOH.P051",
@@ -12,7 +12,15 @@
     "range": "JOH.13:38-14:13",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "baptism",
+    "christology",
+    "eucharist",
+    "faith",
+    "repentance",
+    "suffering",
+    "theosis"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,14 +28,44 @@
       "line_number": 217,
       "raw_match": "[[JOH.14:1]]-6",
       "reference_type": "wikilink_range",
-      "context": "The Orthodox Faith teaches that salvation in Christ includes: (1) a passage from death to life, from darkness to light ([[JOH.3:1]]-6; [[COL.1:13]], [[COL.1:14]]), through repentance, faith, and baptism (\"I have been saved\"); (2) a process of spiritual growth and maturation (2Pt 1:2-8) through ongoing repentance, faith, and communion, often called deification (\"I am being saved\"); and (3) a promise of eternal life (5:9-11; [[JOH.14:1]]-6), calling us to perseverance and righteousness (\"I shall be saved\"). It is this second element, the process of our salvation, that Paul describes here, saying that our inner life is being renewed day by day."
+      "context": "The Orthodox Faith teaches that salvation in Christ includes: (1) a passage from death to life, from darkness to light ([[JOH.3:1]]-6; [[COL.1:13]], [[COL.1:14]]), through repentance, faith, and baptism (\"I have been saved\"); (2) a process of spiritual growth and maturation (2Pt 1:2-8) through ongoing repentance, faith, and communion, often called deification (\"I am being saved\"); and (3) a promise of eternal life (5:9-11; [[JOH.14:1]]-6), calling us to perseverance and righteousness (\"I shall be saved\"). It is this second element, the process of our salvation, that Paul describes here, saying that our inner life is being renewed day by day.",
+      "edge_type": "opposes",
+      "topic_threads": [
+        "baptism",
+        "christology",
+        "eucharist",
+        "faith",
+        "repentance",
+        "theosis"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 10,
+        "title": "Light and Darkness: A Spiritual Perspective",
+        "polarity": "vertical",
+        "operation": "ascend",
+        "scale": "communal"
+      }
     },
     {
       "source_file": "study/footnotes/OT/SNG_footnotes.md",
       "line_number": 580,
       "raw_match": "[[JOH.14:3]]",
       "reference_type": "wikilink",
-      "context": ", 14 The conversation between Bridegroom and Bride is coming to a close. The Bridegroom speaks across time and space to those who dwell in the gardens of the Church to give heed to her voice. Many see escape, my beloved as a prophetic encouragement of the Ascension, after which Christ will come again to receive us to Himself ([[JOH.14:3]])."
+      "context": ", 14 The conversation between Bridegroom and Bride is coming to a close. The Bridegroom speaks across time and space to those who dwell in the gardens of the Church to give heed to her voice. Many see escape, my beloved as a prophetic encouragement of the Ascension, after which Christ will come again to receive us to Himself ([[JOH.14:3]]).",
+      "edge_type": "ascends_from",
+      "topic_threads": [
+        "christology",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

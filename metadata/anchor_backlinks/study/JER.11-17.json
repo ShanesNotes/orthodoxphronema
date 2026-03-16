@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-15T23:42:04+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "O Lord, teach me, and I will know. Then I saw their purpose.",
   "pericope": {
     "id": "JER.P022",
@@ -20,7 +20,8 @@
       "line_number": 12,
       "raw_match": "[[JER.11:17]]",
       "reference_type": "wikilink",
-      "context": "**11:17-5** \u2014 [[JER.11:17]]\u201312:5, 9\u201311, 14, 15: This passage is read on Holy Thursday and Holy Friday."
+      "context": "**11:17-5** \u2014 [[JER.11:17]]\u201312:5, 9\u201311, 14, 15: This passage is read on Holy Thursday and Holy Friday.",
+      "edge_type": "echoes"
     }
   ]
 }

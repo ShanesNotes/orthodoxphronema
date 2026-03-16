@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Now in the fourteenth year, Chedorlaomer and the kings with him came and cut down the giants in Ashteroth Karnaim and strong nations with them: the Zuzim in Ham, the Emim in Shaveh Kiriathaim,",
   "pericope": {
     "id": "GEN.P018",
@@ -20,7 +20,16 @@
       "line_number": 699,
       "raw_match": "[[GEN.14:5]]",
       "reference_type": "wikilink",
-      "context": "Again, this is set in the early years of David's kingship, when he was still at war, perhaps either 5:18-21 or 5:22-26. Regarding giants, see [[GEN.14:5]]. The lamp of Israel (v. 17) refers to the royal lineage (see 14:7)."
+      "context": "Again, this is set in the early years of David's kingship, when he was still at war, perhaps either 5:18-21 or 5:22-26. Regarding giants, see [[GEN.14:5]]. The lamp of Israel (v. 17) refers to the royal lineage (see 14:7).",
+      "edge_type": "instantiates",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

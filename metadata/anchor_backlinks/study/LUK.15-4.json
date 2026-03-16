@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "'What man of you, having a hundred sheep, if he loses one of them, does not leave the ninety-nine in the wilderness, and go after the one which is lost until he finds it?",
   "pericope": {
     "id": "LUK.P073",
@@ -12,7 +12,10 @@
     "range": "LUK.14:24-15:6",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "shepherd"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 389,
       "raw_match": "[[LUK.15:4]]-7",
       "reference_type": "wikilink_range",
-      "context": "It is appropriate that immediately after regaining his voice, the prophet condemns the false shepherds and prophesies the coming of the Good Shepherd, Christ, and the establishment of His sheep (v. 31), the Church. Compare Jn 10; [[LUK.15:4]]-7; 19:17."
+      "context": "It is appropriate that immediately after regaining his voice, the prophet condemns the false shepherds and prophesies the coming of the Good Shepherd, Christ, and the establishment of His sheep (v. 31), the Church. Compare Jn 10; [[LUK.15:4]]-7; 19:17.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology",
+        "shepherd"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 2,
+        "title": "Coming Full Circle: The Copernican Revolution",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

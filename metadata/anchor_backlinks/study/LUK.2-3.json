@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "So all went to be registered, everyone to his own city.",
   "pericope": {
     "id": "LUK.P007",
@@ -12,7 +12,9 @@
     "range": "LUK.1:79-2:19",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,14 +22,35 @@
       "line_number": 795,
       "raw_match": "[[LUK.2:1]]-7",
       "reference_type": "wikilink_range",
-      "context": "We know where this Man is from: The crowds are mistaken, both in an earthly sense and in a divine sense. Humanly speaking, they think of Jesus as being from Nazareth of Galilee; they are not aware that He was actually born in Bethlehem (v. 42; see [[LUK.2:1]]-7). Beyond this, they cannot comprehend that He has come from the Father in Heaven, eternally begotten before all ages, and thus His divine \"origin\" remains unknown to them as well."
+      "context": "We know where this Man is from: The crowds are mistaken, both in an earthly sense and in a divine sense. Humanly speaking, they think of Jesus as being from Nazareth of Galilee; they are not aware that He was actually born in Bethlehem (v. 42; see [[LUK.2:1]]-7). Beyond this, they cannot comprehend that He has come from the Father in Heaven, eternally begotten before all ages, and thus His divine \"origin\" remains unknown to them as well.",
+      "edge_type": "instantiates",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/3MA_footnotes.md",
       "line_number": 304,
       "raw_match": "[[LUK.2:1]]-4",
       "reference_type": "wikilink_range",
-      "context": "Such an unusual command can only demonstrate Ptolemy's irrational rage at the Jews. Recall that at the time of the Nativity of Christ, the Jews were called to be registered and enrolled, each with his own tribe ([[LUK.2:1]]-4)."
+      "context": "Such an unusual command can only demonstrate Ptolemy's irrational rage at the Jews. Recall that at the time of the Nativity of Christ, the Jews were called to be registered and enrolled, each with his own tribe ([[LUK.2:1]]-4).",
+      "edge_type": "echoes",
+      "topic_threads": [
+        "christology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

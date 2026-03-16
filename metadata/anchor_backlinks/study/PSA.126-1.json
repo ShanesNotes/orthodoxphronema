@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "An ode of ascents; for Solomon. Unless the Lord builds the house, Those who build it labor in vain; Unless the Lord guard the city, Those who guard it stay awake in vain.",
   "pericope": {
     "id": "PSA.P126",
@@ -12,7 +12,13 @@
     "range": "PSA.126:1-126:5",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "divine_word",
+    "kingdom",
+    "logos",
+    "temple"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,14 +26,41 @@
       "line_number": 656,
       "raw_match": "[[PSA.126:1]]",
       "reference_type": "wikilink",
-      "context": "When I Am becomes incarnate in Christ, the Gentiles will recognize the truth, and they shall not be moved. The Church will be put together well, for \"unless the Lord builds the house, / Those who build it labor in vain\" ([[PSA.126:1]])."
+      "context": "When I Am becomes incarnate in Christ, the Gentiles will recognize the truth, and they shall not be moved. The Church will be put together well, for \"unless the Lord builds the house, / Those who build it labor in vain\" ([[PSA.126:1]]).",
+      "edge_type": "descends_to",
+      "topic_threads": [
+        "christology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 9,
+        "title": "Example: The Cherubim of Ezekiel I",
+        "polarity": "generation",
+        "operation": "inform",
+        "scale": "intercommunal"
+      }
     },
     {
       "source_file": "study/footnotes/OT/ZEC_footnotes.md",
       "line_number": 226,
       "raw_match": "[[PSA.126:1]]",
       "reference_type": "wikilink",
-      "context": "The word of the Lord declares to Zerubbabel through Zechariah, 'Not by mighty power nor by strength, but by My Spirit,' says the Lord Almighty. The power of God, not human power, will rebuild the Jerusalem temple (see [[PSA.126:1]]). The divine and human synergy is thus affirmed here. Human labor is necessary, for God will not make the temple appear magically. Even so, the human efforts of the attempt to rebuild the temple thirteen years previously failed because the people did not depend on the Holy Spirit. Human efforts alone achieve nothing in the Kingdom of God. Human efforts under the power of God the Holy Spirit yield everything God wills."
+      "context": "The word of the Lord declares to Zerubbabel through Zechariah, 'Not by mighty power nor by strength, but by My Spirit,' says the Lord Almighty. The power of God, not human power, will rebuild the Jerusalem temple (see [[PSA.126:1]]). The divine and human synergy is thus affirmed here. Human labor is necessary, for God will not make the temple appear magically. Even so, the human efforts of the attempt to rebuild the temple thirteen years previously failed because the people did not depend on the Holy Spirit. Human efforts alone achieve nothing in the Kingdom of God. Human efforts under the power of God the Holy Spirit yield everything God wills.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "divine_word",
+        "kingdom",
+        "logos",
+        "temple"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

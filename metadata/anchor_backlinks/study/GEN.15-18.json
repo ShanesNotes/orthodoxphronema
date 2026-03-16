@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "On the same day, the Lord made a covenant with Abram, saying, 'I will give this land to your seed, from the river of Egypt to the great river, the River Euphrates-",
   "pericope": {
     "id": "GEN.P020",
@@ -12,7 +12,13 @@
     "range": "GEN.14:23-15:20",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "covenant",
+    "eschatology",
+    "exodus_typology",
+    "suffering"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +26,23 @@
       "line_number": 415,
       "raw_match": "[[GEN.15:18]]-21",
       "reference_type": "wikilink_range",
-      "context": "The second half of the Book of Zechariah consists of two burdens or oracles. Both burdens are related to the Messianic Age. The first burden (9:1-11:17) focuses on the Passion of Christ, while the second burden (12:1-14:21) focuses on the Second Coming of Christ. 9:1-8 The cities mentioned here are pagan cities of Syria and Philistia falling within the limits of the promised land ([[GEN.15:18]]-21; [[EXO.23:31]]). This prophecy may point to Alexander's conquests after 333 BC. The destruction of Judah's enemies precedes the Messianic Age. The restoration, Messianic Age, and coming day of the Lord are the themes of chs. 9-14."
+      "context": "The second half of the Book of Zechariah consists of two burdens or oracles. Both burdens are related to the Messianic Age. The first burden (9:1-11:17) focuses on the Passion of Christ, while the second burden (12:1-14:21) focuses on the Second Coming of Christ. 9:1-8 The cities mentioned here are pagan cities of Syria and Philistia falling within the limits of the promised land ([[GEN.15:18]]-21; [[EXO.23:31]]). This prophecy may point to Alexander's conquests after 333 BC. The destruction of Judah's enemies precedes the Messianic Age. The restoration, Messianic Age, and coming day of the Lord are the themes of chs. 9-14.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology",
+        "covenant",
+        "eschatology",
+        "exodus_typology",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

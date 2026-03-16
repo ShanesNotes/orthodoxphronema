@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Finally, the Holy Trinity is manifest here, for Christ is transfigured, the Father speaks from heaven testifying to Jesus' divine sonship (17:5), and the Spirit is present in the form of a dazzling light surrounding Christ's person, overshadowing the whole mountain (17:5). While he was still speaking, behold, a bright cloud overshadowed them; and suddenly a voice came out of the cloud, saying, 'This is My beloved Son, in whom I am well pleased. Hear Him!'",
   "pericope": {
     "id": "MAT.P055",
@@ -12,7 +12,21 @@
     "range": "MAT.16:28-17:12",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "baptism",
+    "christology",
+    "covenant",
+    "creation_theology",
+    "divine_light",
+    "eschatology",
+    "eucharist",
+    "exodus_typology",
+    "faith",
+    "israel_church",
+    "logos",
+    "praise",
+    "temple"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,35 +34,109 @@
       "line_number": 61,
       "raw_match": "[[MAT.17:5]]",
       "reference_type": "wikilink",
-      "context": "' A nd He was transfigured before them. His face shone like the sun, and His clothes became as white as the light' (17:2). The Transfiguration is a theophany -a manifestation of God, especially of the divinity of Christ, through a display of His uncreated, divine energy. Therefore, the Orthodox Church celebrates the Transfiguration of the Lord as a major feast day. Several elements of the Transfiguration show that Christ is Messiah and God. 1 Because God is light ([[1JN.1:5]]), the bright cloud, the shining of Jesus' face like the sun, and the whiteness of His garment ([[MAT.17:2]], [[MAT.17:5]]) all demonstrate that Jesus is God. (In some icons this light is shown as beyond white, a blue-white, ineffable color, indicating its spiritual origin.) 2 The Father bears witness from heaven concerning His Son. He does not say, 'This has become My beloved Son,' but 'This is My beloved Son' (17:5), indicating that this divine glory is Christ's by nature. From eternity past, infinitely before Jesus' Baptism and Transfiguration, He is God's Son, fully sharing in the essence of the Father: Jesus Christ is God of God. 3 The Transfiguration not only proclaims Christ's divine sonship, but foreshadows His future glory when He as the Messiah will usher in the long-awaited Kingdom. The bright cloud recalls temple worship and the cloud that went before the Israelites in the wilderness, the visible sign of God being extraordinarily present. Peter sees this as a sign that the Kingdom has come. Knowing that the Feast of Tabernacles is the feast of the coming Kingdom, he asks to build booths (17:4), as was done at that feast, to serve as symbols of God's dwelling among the just in the Kingdom. 4 Moses represents the law and all those who have died. Elijah represents the prophets and -since he did not experience death-all those who are alive in Christ. Their presence shows that the law and the prophets, the living and the dead, all bear witness to Jesus as the Messiah, the fulfillment of the whole Old Testament. The presence of Moses and Elijah also manifests the communion of the saints ([[HEB.12:1]]). Both men are immediately recognizable and talk with the Lord. The disciples are now able to understand Jesus' words that 'Elijah has come already' (17:12) referring to John the Baptist. Their eyes have been opened to the fact that Malachi's prophecy (4:5, 6) refers to one coming 'in the spirit and power of Elijah' ([[LUK.1:17]]), rather than to Elijah himself."
+      "context": "' A nd He was transfigured before them. His face shone like the sun, and His clothes became as white as the light' (17:2). The Transfiguration is a theophany -a manifestation of God, especially of the divinity of Christ, through a display of His uncreated, divine energy. Therefore, the Orthodox Church celebrates the Transfiguration of the Lord as a major feast day. Several elements of the Transfiguration show that Christ is Messiah and God. 1 Because God is light ([[1JN.1:5]]), the bright cloud, the shining of Jesus' face like the sun, and the whiteness of His garment ([[MAT.17:2]], [[MAT.17:5]]) all demonstrate that Jesus is God. (In some icons this light is shown as beyond white, a blue-white, ineffable color, indicating its spiritual origin.) 2 The Father bears witness from heaven concerning His Son. He does not say, 'This has become My beloved Son,' but 'This is My beloved Son' (17:5), indicating that this divine glory is Christ's by nature. From eternity past, infinitely before Jesus' Baptism and Transfiguration, He is God's Son, fully sharing in the essence of the Father: Jesus Christ is God of God. 3 The Transfiguration not only proclaims Christ's divine sonship, but foreshadows His future glory when He as the Messiah will usher in the long-awaited Kingdom. The bright cloud recalls temple worship and the cloud that went before the Israelites in the wilderness, the visible sign of God being extraordinarily present. Peter sees this as a sign that the Kingdom has come. Knowing that the Feast of Tabernacles is the feast of the coming Kingdom, he asks to build booths (17:4), as was done at that feast, to serve as symbols of God's dwelling among the just in the Kingdom. 4 Moses represents the law and all those who have died. Elijah represents the prophets and -since he did not experience death-all those who are alive in Christ. Their presence shows that the law and the prophets, the living and the dead, all bear witness to Jesus as the Messiah, the fulfillment of the whole Old Testament. The presence of Moses and Elijah also manifests the communion of the saints ([[HEB.12:1]]). Both men are immediately recognizable and talk with the Lord. The disciples are now able to understand Jesus' words that 'Elijah has come already' (17:12) referring to John the Baptist. Their eyes have been opened to the fact that Malachi's prophecy (4:5, 6) refers to one coming 'in the spirit and power of Elijah' ([[LUK.1:17]]), rather than to Elijah himself.",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "baptism",
+        "christology",
+        "covenant",
+        "creation_theology",
+        "eucharist",
+        "temple"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 5,
+        "title": "Heaven and Earth: A Spiritual Perspective",
+        "polarity": "generation",
+        "operation": "inform",
+        "scale": "individual"
+      }
     },
     {
       "source_file": "study/articles/OT/DAN_articles.md",
       "line_number": 31,
       "raw_match": "[[MAT.17:1]]-9",
       "reference_type": "wikilink_range",
-      "context": "When God the Son became incarnate, this can be called an everlasting theophany. For having assumed human nature, Christ not only manifests God to the world during His earthly life ([[JOH.1:14]]; see also 14:9; [[COL.2:9]]; [[1JN.1:1]]-3), but He ascends into heaven in the same glorified flesh in which He will return at His Second Coming (see [[ACT.1:9]]-11). At the baptism of Christ ([[MAT.3:13]]-17), a further theophany occurs, as all three Persons of the Holy Trinity are made known: the Father in the voice from heaven, the Holy Spirit in the form of a dove, and the Incarnate Son. Hence, the feast day commemorating this event is known as Holy Theophany. On this day the Church sings, 'When Thou, O Lord, wast baptized in the Jordan, the worship of the Trinity was made manifest.' Additionally, at Christ's Transfiguration on Mt. Tabor ([[MAT.17:1]]-9), the Father again is heard, the Holy Spirit is present in the brightness of the cloud, and the Son shines with the gleaming radiance of His Divinity. ### Apocalyptic Literature *(after DAN.7:8)*"
+      "context": "When God the Son became incarnate, this can be called an everlasting theophany. For having assumed human nature, Christ not only manifests God to the world during His earthly life ([[JOH.1:14]]; see also 14:9; [[COL.2:9]]; [[1JN.1:1]]-3), but He ascends into heaven in the same glorified flesh in which He will return at His Second Coming (see [[ACT.1:9]]-11). At the baptism of Christ ([[MAT.3:13]]-17), a further theophany occurs, as all three Persons of the Holy Trinity are made known: the Father in the voice from heaven, the Holy Spirit in the form of a dove, and the Incarnate Son. Hence, the feast day commemorating this event is known as Holy Theophany. On this day the Church sings, 'When Thou, O Lord, wast baptized in the Jordan, the worship of the Trinity was made manifest.' Additionally, at Christ's Transfiguration on Mt. Tabor ([[MAT.17:1]]-9), the Father again is heard, the Holy Spirit is present in the brightness of the cloud, and the Son shines with the gleaming radiance of His Divinity. ### Apocalyptic Literature *(after DAN.7:8)*",
+      "edge_type": "echoes",
+      "topic_threads": [
+        "baptism",
+        "christology",
+        "divine_light",
+        "eschatology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/articles/OT/EXO_articles.md",
       "line_number": 24,
       "raw_match": "[[MAT.17:1]]-8",
       "reference_type": "wikilink_range",
-      "context": "Christ and Moses were friends and conversed as friends. The pre-incarnate Christ gave Moses the Law; in turn, Moses gave it to Israel ([[EXO.20:1]]-26). As the Lawgiver, Christ, not Moses, was the Author of the Law. Moses was His servant. In the New Testament, Moses and Elijah appeared with Christ on the Mount of Transfiguration, and they conversed with Him as friend with friend ([[MAT.17:1]]-8). The presence of Moses shows Christ as the fulfillment of the Law. The presence of Elijah shows Christ as the fulfillment of the Prophets. #### Contrast Between Christ And Moses"
+      "context": "Christ and Moses were friends and conversed as friends. The pre-incarnate Christ gave Moses the Law; in turn, Moses gave it to Israel ([[EXO.20:1]]-26). As the Lawgiver, Christ, not Moses, was the Author of the Law. Moses was His servant. In the New Testament, Moses and Elijah appeared with Christ on the Mount of Transfiguration, and they conversed with Him as friend with friend ([[MAT.17:1]]-8). The presence of Moses shows Christ as the fulfillment of the Law. The presence of Elijah shows Christ as the fulfillment of the Prophets. #### Contrast Between Christ And Moses",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "covenant"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/NT/2PE_footnotes.md",
       "line_number": 97,
       "raw_match": "[[MAT.17:1]]-8",
       "reference_type": "wikilink_range",
-      "context": "Peter has been an eyewitness to the majesty of Christ in many ways--and here reminds us especially that he was one of those present with the Lord on the Mount of Transfiguration ([[MAT.17:1]]-8). What Peter is going to repeat about the second coming is the common apostolic tradition, which is buttressed by the eyewitness testimony of the apostles. It is not an elaborate scheme of fables, such as the Gnostics propounded. In all the Gospel accounts, the Transfiguration is a proof and foretaste of the coming of Christ in glory."
+      "context": "Peter has been an eyewitness to the majesty of Christ in many ways--and here reminds us especially that he was one of those present with the Lord on the Mount of Transfiguration ([[MAT.17:1]]-8). What Peter is going to repeat about the second coming is the common apostolic tradition, which is buttressed by the eyewitness testimony of the apostles. It is not an elaborate scheme of fables, such as the Gnostics propounded. In all the Gospel accounts, the Transfiguration is a proof and foretaste of the coming of Christ in glory.",
+      "edge_type": "echoes",
+      "topic_threads": [
+        "christology",
+        "eschatology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/NT/JOH_footnotes.md",
       "line_number": 46,
       "raw_match": "[[MAT.17:1]]-5",
       "reference_type": "wikilink_range",
-      "context": "Only God has life in Himself. Thus, the Word, being God, is the source of life, together with the Father and the Holy Spirit. The life was the light of men: John now introduces mankind as receiver of the divine light. By participating in the life of the Son, believers themselves become children of the light (12:36; [[EPH.5:8]]; [[1TH.5:5]]). Moses saw the divine light in the burning bush ([[EXO.3:2]]); the whole nation saw it at the Red Sea (Ex 13:21); Isaiah saw it in his heavenly vision (Is 6:1-5); and three apostles saw it at the Transfiguration ([[MAT.17:1]]-5)."
+      "context": "Only God has life in Himself. Thus, the Word, being God, is the source of life, together with the Father and the Holy Spirit. The life was the light of men: John now introduces mankind as receiver of the divine light. By participating in the life of the Son, believers themselves become children of the light (12:36; [[EPH.5:8]]; [[1TH.5:5]]). Moses saw the divine light in the burning bush ([[EXO.3:2]]); the whole nation saw it at the Red Sea (Ex 13:21); Isaiah saw it in his heavenly vision (Is 6:1-5); and three apostles saw it at the Transfiguration ([[MAT.17:1]]-5).",
+      "edge_type": "echoes",
+      "topic_threads": [
+        "christology",
+        "divine_light",
+        "exodus_typology",
+        "faith",
+        "logos"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

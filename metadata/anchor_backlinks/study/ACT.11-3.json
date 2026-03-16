@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "saying, 'You went in to uncircumcised men and ate with them!'",
   "pericope": {
     "id": "ACT.P037",
@@ -12,7 +12,11 @@
     "range": "ACT.10:48-11:17",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "covenant",
+    "resurrection"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +24,21 @@
       "line_number": 1022,
       "raw_match": "[[ACT.11:3]]",
       "reference_type": "wikilink",
-      "context": "The disciples' mission is like Christ's: to preach (v. 7) and to heal (v. 8). Note that Jesus sends them only to the Jews. Christ's earthly ministry was focused on the Jews (15:24) so that, after the Resurrection, the Jews could not blame the disciples for going \"to uncircumcised men\" ([[ACT.11:3]]). Jesus prepares them to be single-minded in their mission to preach and heal: (1) He reminds them that His power is free--a gift from God (v. 8); and (2) He instructs them to carry no money (v. 9) so that they could not be accused of greed, and so they would learn dependence on God."
+      "context": "The disciples' mission is like Christ's: to preach (v. 7) and to heal (v. 8). Note that Jesus sends them only to the Jews. Christ's earthly ministry was focused on the Jews (15:24) so that, after the Resurrection, the Jews could not blame the disciples for going \"to uncircumcised men\" ([[ACT.11:3]]). Jesus prepares them to be single-minded in their mission to preach and heal: (1) He reminds them that His power is free--a gift from God (v. 8); and (2) He instructs them to carry no money (v. 9) so that they could not be accused of greed, and so they would learn dependence on God.",
+      "edge_type": "ascends_from",
+      "topic_threads": [
+        "christology",
+        "covenant",
+        "resurrection"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

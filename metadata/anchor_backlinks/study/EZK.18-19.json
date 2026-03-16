@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "'Yet you say, 'Why does a son not bear the wrongdoing of his father?' Because the son practiced righteousness, showed mercy, kept all My commandments and did them. Thus he will surely live.",
   "pericope": {
     "id": "EZK.P022",
@@ -12,7 +12,10 @@
     "range": "EZK.17:24-18:31",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "mercy",
+    "suffering"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 989,
       "raw_match": "[[EZK.18:19]]-21",
       "reference_type": "wikilink_range",
-      "context": "The Savior rejects the assumption (common in the ancient world) that all troubles and maladies are necessarily the consequence of personal sin or even the sins of one's parents (see [[EXO.20:5]]; [[DEU.5:9]]; contrast [[EZK.18:19]]-21). Though suffering can be the direct result of personal sin, this is certainly not always the case (see note at 5:14). In this instance, the man's blindness provided the occasion for the works of God to be revealed; it was not related directly to the man's personal sins."
+      "context": "The Savior rejects the assumption (common in the ancient world) that all troubles and maladies are necessarily the consequence of personal sin or even the sins of one's parents (see [[EXO.20:5]]; [[DEU.5:9]]; contrast [[EZK.18:19]]-21). Though suffering can be the direct result of personal sin, this is certainly not always the case (see note at 5:14). In this instance, the man's blindness provided the occasion for the works of God to be revealed; it was not related directly to the man's personal sins.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "mercy",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

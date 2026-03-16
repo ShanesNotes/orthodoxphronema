@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Jesus spoke these words, lifted up His eyes to heaven, and said: 'Father, the hour has come. Glorify Your Son, that Your Son also may glorify You,",
   "pericope": {
     "id": "JOH.P059",
@@ -12,7 +12,12 @@
     "range": "JOH.16:33-17:4",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "praise",
+    "prayer",
+    "priesthood"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +25,21 @@
       "line_number": 348,
       "raw_match": "[[JOH.17:1]]",
       "reference_type": "wikilink",
-      "context": "Consider the ways in which Joshua's address is fulfilled in Christ's high priestly prayer in Jn 17. For example: Joshua says, \"I am old\" (v. 2); Christ prays, \"the hour has come\" ([[JOH.17:1]]). Joshua says, \"you shall inherit their land... therefore... love the Lord\" (vv. 5, 11); Christ prays, \"this is eternal life, that they may know You, the only true God, and Jesus Christ whom You have sent\" ([[JOH.17:3]]). Joshua says, \"I am going... not one word has failed\" (v. 14); Christ prays, \"I have finished the work... none of them is lost\" ([[JOH.17:4]], [[JOH.17:12]])."
+      "context": "Consider the ways in which Joshua's address is fulfilled in Christ's high priestly prayer in Jn 17. For example: Joshua says, \"I am old\" (v. 2); Christ prays, \"the hour has come\" ([[JOH.17:1]]). Joshua says, \"you shall inherit their land... therefore... love the Lord\" (vv. 5, 11); Christ prays, \"this is eternal life, that they may know You, the only true God, and Jesus Christ whom You have sent\" ([[JOH.17:3]]). Joshua says, \"I am going... not one word has failed\" (v. 14); Christ prays, \"I have finished the work... none of them is lost\" ([[JOH.17:4]], [[JOH.17:12]]).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "prayer",
+        "priesthood"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

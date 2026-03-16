@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Now to Abraham and his Seed were the promises made. He does not say, 'And to seeds,' as of many, but as of one, 'And to your Seed,' who is Christ.",
   "pericope": {
     "id": "GAL.P011",
@@ -12,7 +12,15 @@
     "range": "GAL.3:14-3:17",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "creation_theology",
+    "faith",
+    "israel_church",
+    "logos",
+    "resurrection",
+    "suffering"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,49 +28,142 @@
       "line_number": 869,
       "raw_match": "[[GAL.3:16]]",
       "reference_type": "wikilink",
-      "context": "The Lord swore to give the land Moses saw to Abraham, Isaac, and Jacob as an inheritance. Yet they never received it, nor did Moses. Therefore, what is this land, and when will they receive it, and who is the seed? The seed is Christ and those who believe in Him ([[GAL.3:16]]). The land is \"the world to come\" (Creed; [[ROM.4:13]]). They, and those of like faith, will receive this world at \"the resurrection of the dead\" (Creed; Heb 11). The world to come is this present creation redeemed along with the children of God (Rom 8:21, 22)."
+      "context": "The Lord swore to give the land Moses saw to Abraham, Isaac, and Jacob as an inheritance. Yet they never received it, nor did Moses. Therefore, what is this land, and when will they receive it, and who is the seed? The seed is Christ and those who believe in Him ([[GAL.3:16]]). The land is \"the world to come\" (Creed; [[ROM.4:13]]). They, and those of like faith, will receive this world at \"the resurrection of the dead\" (Creed; Heb 11). The world to come is this present creation redeemed along with the children of God (Rom 8:21, 22).",
+      "edge_type": "ascends_from",
+      "topic_threads": [
+        "christology",
+        "creation_theology",
+        "faith",
+        "resurrection"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/GEN_footnotes.md",
       "line_number": 126,
       "raw_match": "[[GAL.3:16]]",
       "reference_type": "wikilink",
-      "context": "The woman's seed is first Christ, and second His Church ([[GAL.3:16]], [[GAL.3:26]]). The serpent's seed are those who reject Christ and follow the devil ([[1JN.3:8]]-10). Christ destroyed the devil through the cross (bruise your head)."
+      "context": "The woman's seed is first Christ, and second His Church ([[GAL.3:16]], [[GAL.3:26]]). The serpent's seed are those who reject Christ and follow the devil ([[1JN.3:8]]-10). Christ destroyed the devil through the cross (bruise your head).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/GEN_footnotes.md",
       "line_number": 508,
       "raw_match": "[[GAL.3:16]]",
       "reference_type": "wikilink",
-      "context": "The seed is first Christ, then His Church ([[GAL.3:16]]; [[ROM.4:16]]). The stars are a type of all the members of His body ([[PHP.2:15]]). Their number is countless, and consists of both Jews and Gentiles ([[EPH.2:11]]-16)."
+      "context": "The seed is first Christ, then His Church ([[GAL.3:16]]; [[ROM.4:16]]). The stars are a type of all the members of His body ([[PHP.2:15]]). Their number is countless, and consists of both Jews and Gentiles ([[EPH.2:11]]-16).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/GEN_footnotes.md",
       "line_number": 777,
       "raw_match": "[[GAL.3:16]]",
       "reference_type": "wikilink",
-      "context": "Thus, Sarah conceived, based on the word of promise. She did not conceive based on the power of the flesh, for both she and Abraham were past the time of childbearing. Therefore, it is not the children of the flesh--that is, Abraham's offspring through procreation--who are the children of God. Rather, the children of this promise are counted as Abraham's seed ([[ROM.9:8]]). These children are those who embrace Abraham's faith through the Lord Jesus Christ ([[GAL.3:16]])."
+      "context": "Thus, Sarah conceived, based on the word of promise. She did not conceive based on the power of the flesh, for both she and Abraham were past the time of childbearing. Therefore, it is not the children of the flesh--that is, Abraham's offspring through procreation--who are the children of God. Rather, the children of this promise are counted as Abraham's seed ([[ROM.9:8]]). These children are those who embrace Abraham's faith through the Lord Jesus Christ ([[GAL.3:16]]).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "creation_theology",
+        "faith",
+        "logos"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/GEN_footnotes.md",
       "line_number": 850,
       "raw_match": "[[GAL.3:16]]",
       "reference_type": "wikilink",
-      "context": "Abraham's seed would be as the stars of heaven and as the sand on the seashore. These are Abraham's seed based on the word of promise. This seed is Christ and His Church begotten from Him ([[GAL.3:16]]). It does not refer to Israel according to the flesh. It refers to both Jews and Gentiles who are the children of the promise."
+      "context": "Abraham's seed would be as the stars of heaven and as the sand on the seashore. These are Abraham's seed based on the word of promise. This seed is Christ and His Church begotten from Him ([[GAL.3:16]]). It does not refer to Israel according to the flesh. It refers to both Jews and Gentiles who are the children of the promise.",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "logos"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/GEN_footnotes.md",
       "line_number": 1018,
       "raw_match": "[[GAL.3:16]]",
       "reference_type": "wikilink",
-      "context": "The phrase your seed includes both Jews and Gentiles (all the nations) who embrace the promise given to Abraham. The phrase \"in your seed\" is a reference to Christ ([[GAL.3:16]]). For both Jews and Gentiles who believe are joined together as one body in Christ, that is, in Christ and His Church."
+      "context": "The phrase your seed includes both Jews and Gentiles (all the nations) who embrace the promise given to Abraham. The phrase \"in your seed\" is a reference to Christ ([[GAL.3:16]]). For both Jews and Gentiles who believe are joined together as one body in Christ, that is, in Christ and His Church.",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "faith"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/GEN_footnotes.md",
       "line_number": 1267,
       "raw_match": "[[GAL.3:16]]",
       "reference_type": "wikilink",
-      "context": "Your seed is a reference to Christ ([[GAL.3:16]]), and together with Him, the Church, composed of both Jews and Gentiles. It is not a reference to the Jews based on physical lineage."
+      "context": "Your seed is a reference to Christ ([[GAL.3:16]]), and together with Him, the Church, composed of both Jews and Gentiles. It is not a reference to the Jews based on physical lineage.",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

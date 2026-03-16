@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "'But the Lord disregarded me on your account, and would not listen to me. So the Lord said to me, 'Enough of that. Speak no more to Me of this matter.",
   "pericope": {
     "id": "DEU.P009",
@@ -12,7 +12,10 @@
     "range": "DEU.3:19-3:28",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "divine_word",
+    "logos"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 1879,
       "raw_match": "[[DEU.3:26]]",
       "reference_type": "wikilink",
-      "context": "The sword (v. 36) is not to be understood literally (compare vv. 49-51), but refers to the living word of God in the battle against sin ([[EPH.6:17]]; [[HEB.4:12]]). St. Ambrose adds an additional meaning: that giving up one's garment and buying a sword refers to surrendering the body to the sword of martyrdom. Because the disciples were thinking of swords literally, Jesus abruptly ends the discussion with the words, \"It is enough,\" or better translated, \"Enough of this!\" (see [[DEU.3:26]]; [[MRK.14:41]])."
+      "context": "The sword (v. 36) is not to be understood literally (compare vv. 49-51), but refers to the living word of God in the battle against sin ([[EPH.6:17]]; [[HEB.4:12]]). St. Ambrose adds an additional meaning: that giving up one's garment and buying a sword refers to surrendering the body to the sword of martyrdom. Because the disciples were thinking of swords literally, Jesus abruptly ends the discussion with the words, \"It is enough,\" or better translated, \"Enough of this!\" (see [[DEU.3:26]]; [[MRK.14:41]]).",
+      "edge_type": "witnesses",
+      "topic_threads": [
+        "divine_word",
+        "logos"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

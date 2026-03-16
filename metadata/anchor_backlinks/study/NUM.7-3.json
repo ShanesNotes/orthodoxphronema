@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "They brought their gifts before the Lord: six covered carts and twelve oxen, a cart for every two of the rulers, and for each one a young bull; and they presented them before the tabernacle.",
   "pericope": {
     "id": "NUM.P016",
@@ -12,7 +12,11 @@
     "range": "NUM.6:26-7:8",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "covenant",
+    "priesthood",
+    "temple"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +24,21 @@
       "line_number": 191,
       "raw_match": "[[NUM.7:2]]-5",
       "reference_type": "wikilink_range",
-      "context": "[[NUM.7:2]]-5, 84: The twelve rulers brought gifts, including sacrificial animals, to the Lord for the dedication of the altar of whole burnt offering. These gifts would be used in the liturgical service of the Levites in the tabernacle. In the new covenant liturgical service of worship, we are to offer our whole lives as whole burnt offerings to God. Rom"
+      "context": "[[NUM.7:2]]-5, 84: The twelve rulers brought gifts, including sacrificial animals, to the Lord for the dedication of the altar of whole burnt offering. These gifts would be used in the liturgical service of the Levites in the tabernacle. In the new covenant liturgical service of worship, we are to offer our whole lives as whole burnt offerings to God. Rom",
+      "edge_type": "echoes",
+      "topic_threads": [
+        "covenant",
+        "priesthood",
+        "temple"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

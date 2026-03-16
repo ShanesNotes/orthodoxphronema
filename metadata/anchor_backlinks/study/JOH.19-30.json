@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "So when Jesus had received the sour wine, He said, 'It is finished!' And bowing His head, He gave up His spirit.",
   "pericope": {
     "id": "JOH.P069",
@@ -12,7 +12,16 @@
     "range": "JOH.19:30-19:36",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "faith",
+    "judgment",
+    "kingdom",
+    "praise",
+    "prayer",
+    "repentance",
+    "suffering"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,21 +29,63 @@
       "line_number": 1428,
       "raw_match": "[[JOH.19:30]]",
       "reference_type": "wikilink",
-      "context": "The last bowl is a conclusive act of judgment; a loud voice from God's throne declares, \"It is done!\" (repeated at 21:6; see [[JOH.19:30]]). Cosmic signs of God's presence are manifest--evoking Mt. Sinai and other theophanies (see 4:5; 8:5; 11:10), quite similar to those of the last trumpet (11:19)--especially great earthquakes, causing worldwide destruction (v. 20). Yet even 75-pound (the equivalent of one talent) hailstones (v. 21) fail to induce repentance. The great city (v. 19) is probably Jerusalem (see 11:8) in that Rome is mentioned separately as great Babylon."
+      "context": "The last bowl is a conclusive act of judgment; a loud voice from God's throne declares, \"It is done!\" (repeated at 21:6; see [[JOH.19:30]]). Cosmic signs of God's presence are manifest--evoking Mt. Sinai and other theophanies (see 4:5; 8:5; 11:10), quite similar to those of the last trumpet (11:19)--especially great earthquakes, causing worldwide destruction (v. 20). Yet even 75-pound (the equivalent of one talent) hailstones (v. 21) fail to induce repentance. The great city (v. 19) is probably Jerusalem (see 11:8) in that Rome is mentioned separately as great Babylon.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "judgment",
+        "kingdom",
+        "repentance"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/GEN_footnotes.md",
       "line_number": 63,
       "raw_match": "[[JOH.19:30]]",
       "reference_type": "wikilink",
-      "context": "God finished the making of heaven and earth for man's sake. He rested from His creative activity on the seventh day to show His love and providential care for man, and to invite man to enjoy this Sabbath-rest. For as Jesus said, \"The Sabbath was made for man, and not man for the Sabbath\" ([[MRK.2:27]]). Man failed to keep this Sabbath-rest. But Jesus fulfilled it for man by resting in the tomb on Great and Holy Saturday, after He said on the cross, \"It is finished\" ([[JOH.19:30]]). For He destroyed sin and death, and rose again on the first day of the week. Through His saving work on man's behalf, He is man's Sabbath-rest, and He now invites all to find rest in Himself ([[MAT.11:28]]-30)."
+      "context": "God finished the making of heaven and earth for man's sake. He rested from His creative activity on the seventh day to show His love and providential care for man, and to invite man to enjoy this Sabbath-rest. For as Jesus said, \"The Sabbath was made for man, and not man for the Sabbath\" ([[MRK.2:27]]). Man failed to keep this Sabbath-rest. But Jesus fulfilled it for man by resting in the tomb on Great and Holy Saturday, after He said on the cross, \"It is finished\" ([[JOH.19:30]]). For He destroyed sin and death, and rose again on the first day of the week. Through His saving work on man's behalf, He is man's Sabbath-rest, and He now invites all to find rest in Himself ([[MAT.11:28]]-30).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/PSA_footnotes.md",
       "line_number": 788,
       "raw_match": "[[JOH.19:28]]-30",
       "reference_type": "wikilink_range",
-      "context": "Ps 68 prophesies the Passion of the Lord Jesus Christ (the End, v. 1) and the changes it would bring about (concerning things that shall be changed, v. 1). The changes His Passion would bring are noted throughout the psalm. Examples are: (1) the Church would become a house of prayer for all peoples (v. 10; see also [[JOH.2:19]]; [[MAT.21:13]]; Mk 11:17; [[LUK.19:46]]); (2) the cross would bear our reproaches against God (v. 10; see also Rom 15:3); (3) the cross would destroy death (gall and vinegar, v. 22; see also [[MAT.27:34]], [[MAT.27:48]]; [[MRK.15:23]], [[MRK.15:36]]; [[LUK.23:36]]; [[JOH.19:28]]-30); and (4) the Jews would be rejected for their unbelief, and the believing Gentiles brought to salvation (vv. 23, 24; [[ROM.9:9]]-11)."
+      "context": "Ps 68 prophesies the Passion of the Lord Jesus Christ (the End, v. 1) and the changes it would bring about (concerning things that shall be changed, v. 1). The changes His Passion would bring are noted throughout the psalm. Examples are: (1) the Church would become a house of prayer for all peoples (v. 10; see also [[JOH.2:19]]; [[MAT.21:13]]; Mk 11:17; [[LUK.19:46]]); (2) the cross would bear our reproaches against God (v. 10; see also Rom 15:3); (3) the cross would destroy death (gall and vinegar, v. 22; see also [[MAT.27:34]], [[MAT.27:48]]; [[MRK.15:23]], [[MRK.15:36]]; [[LUK.23:36]]; [[JOH.19:28]]-30); and (4) the Jews would be rejected for their unbelief, and the believing Gentiles brought to salvation (vv. 23, 24; [[ROM.9:9]]-11).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology",
+        "faith",
+        "praise",
+        "prayer",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

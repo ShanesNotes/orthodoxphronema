@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Let not, however, any one be persuaded That, if he is evil, he will be held innocent. Let not those who provoke the Lord Be persuaded there will be no trial for them.",
   "pericope": {
     "id": "JOB.P019",
@@ -20,7 +20,16 @@
       "line_number": 365,
       "raw_match": "[[JOB.12:6]]",
       "reference_type": "wikilink",
-      "context": "Here Jeremiah takes up a theme dealt with far more extensively in Job (see, for example, [[JOB.12:6]])."
+      "context": "Here Jeremiah takes up a theme dealt with far more extensively in Job (see, for example, [[JOB.12:6]]).",
+      "edge_type": "instantiates",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 6,
+        "title": "The Universe As a Language",
+        "polarity": "generation",
+        "operation": "descend",
+        "scale": "communal"
+      }
     }
   ]
 }

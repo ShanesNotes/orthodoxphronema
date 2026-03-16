@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "The Lord of hosts is with us; The God of Jacob is our protector. (Pause)",
   "pericope": {
     "id": "PSA.P045",
@@ -12,7 +12,11 @@
     "range": "PSA.45:1-45:12",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "faith",
+    "suffering"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +24,21 @@
       "line_number": 1803,
       "raw_match": "[[PSA.45:5]]-8",
       "reference_type": "wikilink_range",
-      "context": "The holy city, New Jerusalem is the city built by God ([[HEB.11:10]]). It is the perfected Church, the bride ready for her husband, Christ, the abode of the righteous eternally. The OT prophesied a restored and exalted Jerusalem (Is 2:1-4; 54:11-15; 60:1- 22; 62:1-12; 65:17-25; Ezk 40-48). 21:3, 4 The OT also prophesied that God would dwell with His people. The Immanuel prophecy (Is 7:14; see also [[PSA.45:5]]-8) is fulfilled in the Incarnation ([[JOH.1:14]]; 17:22), but comes to completion in the messianic age, when God will fully dwell (lit., \"in-tent\") with His people, restoring the paradise of old (Gn 2; Lv 26:11, 12; [[EZK.37:26]], [[EZK.37:27]]; [[JER.38:33]]; 2Co 6:16). Therefore joy displaces sorrows and sufferings, a great consolation for persecuted believers."
+      "context": "The holy city, New Jerusalem is the city built by God ([[HEB.11:10]]). It is the perfected Church, the bride ready for her husband, Christ, the abode of the righteous eternally. The OT prophesied a restored and exalted Jerusalem (Is 2:1-4; 54:11-15; 60:1- 22; 62:1-12; 65:17-25; Ezk 40-48). 21:3, 4 The OT also prophesied that God would dwell with His people. The Immanuel prophecy (Is 7:14; see also [[PSA.45:5]]-8) is fulfilled in the Incarnation ([[JOH.1:14]]; 17:22), but comes to completion in the messianic age, when God will fully dwell (lit., \"in-tent\") with His people, restoring the paradise of old (Gn 2; Lv 26:11, 12; [[EZK.37:26]], [[EZK.37:27]]; [[JER.38:33]]; 2Co 6:16). Therefore joy displaces sorrows and sufferings, a great consolation for persecuted believers.",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "faith",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

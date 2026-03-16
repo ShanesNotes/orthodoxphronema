@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "He who receives a prophet in the name of a prophet shall receive a prophet's reward. And he who receives a righteous man in the name of a righteous man shall receive a righteous man's reward.",
   "pericope": {
     "id": "MAT.P029",
@@ -12,7 +12,11 @@
     "range": "MAT.10:23-10:41",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "baptism",
+    "christology",
+    "suffering"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +24,21 @@
       "line_number": 37,
       "raw_match": "[[MAT.10:41]]",
       "reference_type": "wikilink",
-      "context": "One way we may participate in ministry is by giving material help to those with spiritual gifts. The donor becomes a coworker in spiritual things (see [[MAT.10:41]]). 1:9, 10 Diotrephes means \"nursed or nourished by Zeus.\" Early Christians kept their original name after their baptism. Diotrephes loved being preeminent--not the first among equals but peerless, with a passion for personal aggrandizement. This sin results in insubordination: Diotrephes slanders John, the last of the twelve apostles, by refusing to accept him as either an apostle or a presbyter. By rejecting John's missionaries he rejects John himself. And he disdains the apostolic, catholic ways of the Church, setting himself up as a petty tyrant."
+      "context": "One way we may participate in ministry is by giving material help to those with spiritual gifts. The donor becomes a coworker in spiritual things (see [[MAT.10:41]]). 1:9, 10 Diotrephes means \"nursed or nourished by Zeus.\" Early Christians kept their original name after their baptism. Diotrephes loved being preeminent--not the first among equals but peerless, with a passion for personal aggrandizement. This sin results in insubordination: Diotrephes slanders John, the last of the twelve apostles, by refusing to accept him as either an apostle or a presbyter. By rejecting John's missionaries he rejects John himself. And he disdains the apostolic, catholic ways of the Church, setting himself up as a petty tyrant.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "baptism",
+        "christology",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 11,
+        "title": "The Spiritual and Material Dimensions",
+        "polarity": "luminosity",
+        "operation": "express",
+        "scale": "communal"
+      }
     }
   ]
 }

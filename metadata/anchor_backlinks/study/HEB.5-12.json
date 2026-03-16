@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "For though by this time you ought to be teachers, you need someone to teach you again the first principles of the oracles of God; and you have come to need milk and not solid food.",
   "pericope": {
     "id": "HEB.P012",
@@ -12,7 +12,11 @@
     "range": "HEB.5:6-6:7",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "faith",
+    "wisdom"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +24,21 @@
       "line_number": 352,
       "raw_match": "[[HEB.5:12]]",
       "reference_type": "wikilink",
-      "context": "Milk signifies teachings acceptable for children and immature Christians ([[HEB.5:12]]). Honey signifies wisdom (Pr 24:13), food for the mature believer."
+      "context": "Milk signifies teachings acceptable for children and immature Christians ([[HEB.5:12]]). Honey signifies wisdom (Pr 24:13), food for the mature believer.",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "faith",
+        "wisdom"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "They laid me in the lowest pit, In dark places and in the shadow of death.",
   "pericope": {
     "id": "PSA.P087",
@@ -12,7 +12,11 @@
     "range": "PSA.87:1-87:19",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "judgment",
+    "praise",
+    "prayer"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,14 +24,39 @@
       "line_number": 1691,
       "raw_match": "[[PSA.87:7]]",
       "reference_type": "wikilink",
-      "context": "The bottomless pit (abyss) is the great nether regions ([[PSA.87:7]]) where the disobedient are confined awaiting final judgment. The demons fear it (see [[LUK.8:31]]; Jude 6). It is reached through a chasm, the key to which is in the hand of the angel. The great chain binds Satan ([[MRK.5:3]])."
+      "context": "The bottomless pit (abyss) is the great nether regions ([[PSA.87:7]]) where the disobedient are confined awaiting final judgment. The demons fear it (see [[LUK.8:31]]; Jude 6). It is reached through a chasm, the key to which is in the hand of the angel. The great chain binds Satan ([[MRK.5:3]]).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "judgment"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/JON_footnotes.md",
       "line_number": 82,
       "raw_match": "[[PSA.87:7]]",
       "reference_type": "wikilink",
-      "context": "To the Hebrews, the sea was a frightening place, full of chaos and death. To be cast into the sea was to sink down into Hades. See [[PSA.87:7]], [[PSA.87:8]]. 2:3-10 Jonah's prayer echoes the language and imagery of the Psalms. See especially Ps 17:5, 7; 30:23; 41:8; 49:14; 68:2, 3; 119:1."
+      "context": "To the Hebrews, the sea was a frightening place, full of chaos and death. To be cast into the sea was to sink down into Hades. See [[PSA.87:7]], [[PSA.87:8]]. 2:3-10 Jonah's prayer echoes the language and imagery of the Psalms. See especially Ps 17:5, 7; 30:23; 41:8; 49:14; 68:2, 3; 119:1.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "praise",
+        "prayer"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

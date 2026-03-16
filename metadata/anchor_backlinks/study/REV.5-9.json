@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "And they sang new song, saying: 'You are worthy to take the scroll, And to open its seals; For You were slain, And have redeemed us to God by Your blood Out of every tribe and tongue and people and nation,",
   "pericope": {
     "id": "REV.P011",
@@ -12,7 +12,20 @@
     "range": "REV.4:10-5:13",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "baptism",
+    "christology",
+    "covenant",
+    "creation_theology",
+    "exodus_typology",
+    "faith",
+    "israel_church",
+    "kingdom",
+    "mercy",
+    "praise",
+    "resurrection",
+    "suffering"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,35 +33,111 @@
       "line_number": 18,
       "raw_match": "[[REV.5:6]]-14",
       "reference_type": "wikilink_range",
-      "context": "Passover, the central rite and symbol of Judaism, is based on the experience of the liberation of the Hebrew people from bondage in Egypt ([[EXO.12:1]]-15:21). It is called Passover both because the Lord passed over the homes of the Hebrews, sparing them from the death that came to the first-born in Egypt, and because the Hebrews passed over the Red Sea as if it were dry land. Passover celebrates God's steadfast love and devotion to His people and their freedom in Him. Throughout the rest of the Old Testament, Passover preeminently signifies God's rescue and forging together of His chosen people, Israel. The Lord repeatedly brings this event to mind as He encourages and exhorts His people to return to their covenantal responsibilities ([[JDG.6:7]]-10; [[1SA.10:17]]-19; [[PSA.80:10]], [[PSA.80:11]]; [[JER.11:1]]-8; [[MIC.6:1]]-8). Through His saving work, Christ becomes our Passover ( pascha in Greek). Through Him we experience liberation from sin, death, and the devil. St. Paul exclaims, 'Christ, our Passover, was sacrificed for us. Therefore let us keep the feast' ([[1CO.5:7]], [[1CO.5:8]]). He is the Paschal Lamb ([[ISA.53:7]]; [[JOH.1:29]]; [[REV.5:6]]-14) who gave Himself up in sacrifice 'once for all' ([[HEB.10:10]]-14) to reconcile us with God. At every Pascha-'Easter'-the Church sings: Today a sacred Pascha is revealed to us, a new and holy Pascha, a mystical Pascha, a Pascha worthy of veneration, a Pascha which is Christ the Redeemer. In many typological details, the Passover of the Jews clearly points towards Christ as our Passover. 1 The Passover lamb, whose blood was smeared by the Hebrews on their doorposts in the sign of the Cross, was a male without blemish; Jesus was a male without blemish who died on the Cross. 2 The blood of the Passover lamb saved the first-born of the Hebrews from death; the blood of Christ saves all those believing in Him from eternal death ([[ROM.5:8]]-10; [[1PE.1:17]]-19). 3 The Passover lamb had none of its bones broken ([[EXO.12:10]], [[EXO.12:46]]); Jesus also had no bones broken as He was sacrificed ([[JOH.19:31]]-36). 4 The Hebrews escaped from the burden of slavery in Egypt by passing through the Red Sea; Christians pass 'from Egypt, from the burden of sin,' being set free and saved' through the waters of Holy Baptism (GrgNy). For in the waters of Baptism, we are 'baptized into His death,' 'crucified with Him,' and raised up 'in the likeness of His resurrection' to 'walk in newness of life' ([[ROM.6:3]]-11). #### St. John Chrysostom marvels at the power of Christ's blood: If the type of it had such great power... in the midst of Egypt, when smeared on the doorposts, much more the reality.... if death so shuddered at the shadow, tell me how would it not have dreaded the very reality? This blood is the salvation of our souls; by it the soul is washed, and made beautiful and... more gleaming than gold (see [[REV.7:13]], [[REV.7:14]]). Sustained and strengthened by the blood of Christ our Passover, we resume daily our journey to the eternal promised land, the promised kingdom to come. ### The Grace Of Christ and The Law Of Moses *(after EXO.20:6)*"
+      "context": "Passover, the central rite and symbol of Judaism, is based on the experience of the liberation of the Hebrew people from bondage in Egypt ([[EXO.12:1]]-15:21). It is called Passover both because the Lord passed over the homes of the Hebrews, sparing them from the death that came to the first-born in Egypt, and because the Hebrews passed over the Red Sea as if it were dry land. Passover celebrates God's steadfast love and devotion to His people and their freedom in Him. Throughout the rest of the Old Testament, Passover preeminently signifies God's rescue and forging together of His chosen people, Israel. The Lord repeatedly brings this event to mind as He encourages and exhorts His people to return to their covenantal responsibilities ([[JDG.6:7]]-10; [[1SA.10:17]]-19; [[PSA.80:10]], [[PSA.80:11]]; [[JER.11:1]]-8; [[MIC.6:1]]-8). Through His saving work, Christ becomes our Passover ( pascha in Greek). Through Him we experience liberation from sin, death, and the devil. St. Paul exclaims, 'Christ, our Passover, was sacrificed for us. Therefore let us keep the feast' ([[1CO.5:7]], [[1CO.5:8]]). He is the Paschal Lamb ([[ISA.53:7]]; [[JOH.1:29]]; [[REV.5:6]]-14) who gave Himself up in sacrifice 'once for all' ([[HEB.10:10]]-14) to reconcile us with God. At every Pascha-'Easter'-the Church sings: Today a sacred Pascha is revealed to us, a new and holy Pascha, a mystical Pascha, a Pascha worthy of veneration, a Pascha which is Christ the Redeemer. In many typological details, the Passover of the Jews clearly points towards Christ as our Passover. 1 The Passover lamb, whose blood was smeared by the Hebrews on their doorposts in the sign of the Cross, was a male without blemish; Jesus was a male without blemish who died on the Cross. 2 The blood of the Passover lamb saved the first-born of the Hebrews from death; the blood of Christ saves all those believing in Him from eternal death ([[ROM.5:8]]-10; [[1PE.1:17]]-19). 3 The Passover lamb had none of its bones broken ([[EXO.12:10]], [[EXO.12:46]]); Jesus also had no bones broken as He was sacrificed ([[JOH.19:31]]-36). 4 The Hebrews escaped from the burden of slavery in Egypt by passing through the Red Sea; Christians pass 'from Egypt, from the burden of sin,' being set free and saved' through the waters of Holy Baptism (GrgNy). For in the waters of Baptism, we are 'baptized into His death,' 'crucified with Him,' and raised up 'in the likeness of His resurrection' to 'walk in newness of life' ([[ROM.6:3]]-11). #### St. John Chrysostom marvels at the power of Christ's blood: If the type of it had such great power... in the midst of Egypt, when smeared on the doorposts, much more the reality.... if death so shuddered at the shadow, tell me how would it not have dreaded the very reality? This blood is the salvation of our souls; by it the soul is washed, and made beautiful and... more gleaming than gold (see [[REV.7:13]], [[REV.7:14]]). Sustained and strengthened by the blood of Christ our Passover, we resume daily our journey to the eternal promised land, the promised kingdom to come. ### The Grace Of Christ and The Law Of Moses *(after EXO.20:6)*",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "baptism",
+        "christology",
+        "covenant",
+        "exodus_typology",
+        "faith",
+        "israel_church",
+        "mercy",
+        "resurrection",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/articles/OT/EXO_articles.md",
       "line_number": 26,
       "raw_match": "[[REV.5:9]]",
       "reference_type": "wikilink",
-      "context": "Christ is incomparably greater than Moses, for Christ, the Son of God, who brought all creation into existence from nonexistence, is building His Church. When Christ gave Moses and Israel the Law, He spoke as the Lord their God. Moses, however, spoke to Israel in the name of the Lord their God, not in his own name ([[EXO.20:22]]). When the Son of God became incarnate, He continued to speak to Israel, but now directly and not through a prophet. Although during His three-year ministry in Israel, He did works and spoke words in His almighty power, Israel refused to believe Him, their own Lord God. But to those Jews who did believe, He gave authority to become His children ([[JOH.1:11]], [[JOH.1:12]]). Christ also gave authority to believing Gentiles to become His children. In the Old Testament, He made it clear through Moses and His prophets the Gentiles would be included in promises to Israel (for example, [[GEN.12:1]]-3; [[ISA.49:5]], 6). Both would be in His Church. Race is not the issue, but rather faith in Christ. His Church is one, composed of every nation, tongue and tribe ([[REV.5:9]]). #### Harmony between Law And Grace"
+      "context": "Christ is incomparably greater than Moses, for Christ, the Son of God, who brought all creation into existence from nonexistence, is building His Church. When Christ gave Moses and Israel the Law, He spoke as the Lord their God. Moses, however, spoke to Israel in the name of the Lord their God, not in his own name ([[EXO.20:22]]). When the Son of God became incarnate, He continued to speak to Israel, but now directly and not through a prophet. Although during His three-year ministry in Israel, He did works and spoke words in His almighty power, Israel refused to believe Him, their own Lord God. But to those Jews who did believe, He gave authority to become His children ([[JOH.1:11]], [[JOH.1:12]]). Christ also gave authority to believing Gentiles to become His children. In the Old Testament, He made it clear through Moses and His prophets the Gentiles would be included in promises to Israel (for example, [[GEN.12:1]]-3; [[ISA.49:5]], 6). Both would be in His Church. Race is not the issue, but rather faith in Christ. His Church is one, composed of every nation, tongue and tribe ([[REV.5:9]]). #### Harmony between Law And Grace",
+      "edge_type": "descends_to",
+      "topic_threads": [
+        "christology",
+        "covenant",
+        "creation_theology",
+        "faith",
+        "israel_church"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/ISA_footnotes.md",
       "line_number": 691,
       "raw_match": "[[REV.5:9]]",
       "reference_type": "wikilink",
-      "context": "In Christ, the glorified Church will sing... a new song (see [[REV.5:9]])."
+      "context": "In Christ, the glorified Church will sing... a new song (see [[REV.5:9]]).",
+      "edge_type": "ascends_from",
+      "topic_threads": [
+        "christology",
+        "praise"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/JOS_footnotes.md",
       "line_number": 282,
       "raw_match": "[[REV.5:9]]",
       "reference_type": "wikilink",
-      "context": "Note how the tribe of Joseph refers to itself first in the plural (us) and then in the singular (I, me). Israel is one in belief, purpose, and worship, yet it is divided into twelve tribes, each of which receives its own inheritance. So the Church is one body, the body of Christ ([[EPH.1:22]], [[EPH.1:23]]); yet it is composed of a great many people of every nation, tongue, and tribe ([[REV.5:9]]; 14:6)."
+      "context": "Note how the tribe of Joseph refers to itself first in the plural (us) and then in the singular (I, me). Israel is one in belief, purpose, and worship, yet it is divided into twelve tribes, each of which receives its own inheritance. So the Church is one body, the body of Christ ([[EPH.1:22]], [[EPH.1:23]]); yet it is composed of a great many people of every nation, tongue, and tribe ([[REV.5:9]]; 14:6).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "israel_church"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/SIR_footnotes.md",
       "line_number": 223,
       "raw_match": "[[REV.5:9]]",
       "reference_type": "wikilink",
-      "context": "Everything in creation loves its like! Thus, we have nations, tongues, and tribes (see [[REV.5:9]]), and that is natural. But for Christians, we do not first identify ourselves as Greek or Russian or American. Rather our allegiance is first to \"a holy nation\" ([[1PE.2:9]]), which is the Kingdom of God."
+      "context": "Everything in creation loves its like! Thus, we have nations, tongues, and tribes (see [[REV.5:9]]), and that is natural. But for Christians, we do not first identify ourselves as Greek or Russian or American. Rather our allegiance is first to \"a holy nation\" ([[1PE.2:9]]), which is the Kingdom of God.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology",
+        "creation_theology",
+        "kingdom"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

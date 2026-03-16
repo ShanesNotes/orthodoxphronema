@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "and saw Him saying to me, 'Make haste and get out of Jerusalem quickly, for they will not receive your testimony concerning Me.'",
   "pericope": {
     "id": "ACT.P080",
@@ -20,7 +20,16 @@
       "line_number": 181,
       "raw_match": "[[ACT.22:3]]-21",
       "reference_type": "wikilink_range",
-      "context": "God's revelation to Paul began on the road to Damascus ([[ACT.22:3]]-21). God was gracious to Paul not for his own sake but for others (see [[ACT.9:15]], [[ACT.9:16]])."
+      "context": "God's revelation to Paul began on the road to Damascus ([[ACT.22:3]]-21). God was gracious to Paul not for his own sake but for others (see [[ACT.9:15]], [[ACT.9:16]]).",
+      "edge_type": "instantiates",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

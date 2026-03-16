@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Jesus Cleanses a Leper And it happened when He was in a certain city, that behold, a man who was full of leprosy saw Jesus; and he fell on his face and implored Him, saying, 'Lord, if You are willing, You can make me clean.'",
   "pericope": {
     "id": "LUK.P023",
@@ -20,7 +20,16 @@
       "line_number": 53,
       "raw_match": "[[LUK.5:12]]-16",
       "reference_type": "wikilink_range",
-      "context": "On the cleansing of the leper, see notes at [[MAT.8:1]]-4 and [[LUK.5:12]]-16."
+      "context": "On the cleansing of the leper, see notes at [[MAT.8:1]]-4 and [[LUK.5:12]]-16.",
+      "edge_type": "instantiates",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 2,
+        "title": "Coming Full Circle: The Copernican Revolution",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

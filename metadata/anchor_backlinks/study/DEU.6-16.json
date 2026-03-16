@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "'You shall not tempt the Lord your God, as you tempted Him in the Temptation.",
   "pericope": {
     "id": "DEU.P017",
@@ -12,7 +12,11 @@
     "range": "DEU.6:9-6:24",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "faith",
+    "suffering"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +24,21 @@
       "line_number": 561,
       "raw_match": "[[DEU.6:16]]",
       "reference_type": "wikilink",
-      "context": "To take up serpents refers primarily to spiritual battle against demons ([[LUK.10:19]]). Thus, Christ is promising to deliver believers from the powers of sin. Furthermore, this would include certain physical protection as well. St. Paul was bitten by a serpent and suffered no harm ([[ACT.28:3]]-6), and according to tradition, Barsabas Justus ([[ACT.1:23]]) was forced by unbelievers to drink poison and survived. Nevertheless, while God's grace can protect believers from both physical and spiritual harm, to test God by deliberately committing harmful acts against oneself is a grave sin ([[DEU.6:16]]; [[MAT.4:7]])."
+      "context": "To take up serpents refers primarily to spiritual battle against demons ([[LUK.10:19]]). Thus, Christ is promising to deliver believers from the powers of sin. Furthermore, this would include certain physical protection as well. St. Paul was bitten by a serpent and suffered no harm ([[ACT.28:3]]-6), and according to tradition, Barsabas Justus ([[ACT.1:23]]) was forced by unbelievers to drink poison and survived. Nevertheless, while God's grace can protect believers from both physical and spiritual harm, to test God by deliberately committing harmful acts against oneself is a grave sin ([[DEU.6:16]]; [[MAT.4:7]]).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology",
+        "faith",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

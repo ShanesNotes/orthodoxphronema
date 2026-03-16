@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "I am He who lives, and was dead, and behold, I am alive forevermore. Amen. And I have the keys of Hades and of Death.",
   "pericope": {
     "id": "REV.P003",
@@ -12,7 +12,13 @@
     "range": "REV.1:8-1:19",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "creation_theology",
+    "israel_church",
+    "resurrection",
+    "temple"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,14 +26,42 @@
       "line_number": 286,
       "raw_match": "[[REV.1:18]]",
       "reference_type": "wikilink",
-      "context": "Ps 23 is a prophecy of the Resurrection of the Lord Jesus Christ (the first day of the week, v. 1; see also [[MAT.28:1]]; [[MRK.16:2]]; [[LUK.24:1]]; [[JOH.20:1]]). His Resurrection proves (1) He is the Creator of the world, which He owns (vv. 1, 2); (2) He is worthy to ascend on high as the Forerunner of the Church (vv. 3-6; see also Heb 6:19, 20; 7:26; 9:24); (3) He is the King of glory, who destroyed death and Hades (vv. 7- 10; see also [[REV.1:18]]; 4:8-11)."
+      "context": "Ps 23 is a prophecy of the Resurrection of the Lord Jesus Christ (the first day of the week, v. 1; see also [[MAT.28:1]]; [[MRK.16:2]]; [[LUK.24:1]]; [[JOH.20:1]]). His Resurrection proves (1) He is the Creator of the world, which He owns (vv. 1, 2); (2) He is worthy to ascend on high as the Forerunner of the Church (vv. 3-6; see also Heb 6:19, 20; 7:26; 9:24); (3) He is the King of glory, who destroyed death and Hades (vv. 7- 10; see also [[REV.1:18]]; 4:8-11).",
+      "edge_type": "ascends_from",
+      "topic_threads": [
+        "christology",
+        "creation_theology",
+        "resurrection"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/ZEC_footnotes.md",
       "line_number": 212,
       "raw_match": "[[REV.1:12]]-20",
       "reference_type": "wikilink_range",
-      "context": ", 2 Awakened from a dream by an angel, Zechariah asks him to explain its meaning. Zechariah sees a golden lampstand, a seven-branched candlestick called a menorah. The menorah is a symbol for Israel. It appeared in Solomon's temple and appears still in the Jewish synagogue. St. John the Theologian saw Christ in the midst of seven lampstands ([[REV.1:12]]-20), which are seven churches."
+      "context": ", 2 Awakened from a dream by an angel, Zechariah asks him to explain its meaning. Zechariah sees a golden lampstand, a seven-branched candlestick called a menorah. The menorah is a symbol for Israel. It appeared in Solomon's temple and appears still in the Jewish synagogue. St. John the Theologian saw Christ in the midst of seven lampstands ([[REV.1:12]]-20), which are seven churches.",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "israel_church",
+        "temple"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "he shall separate himself from wine and intoxicants, and shall not drink any wine and vinegar made from wine, and any vinegar made from intoxicants; neither shall he drink anything made from grapes, nor eat fresh grapes or raisins.",
   "pericope": {
     "id": "NUM.P014",
@@ -20,7 +20,16 @@
       "line_number": 1117,
       "raw_match": "[[NUM.6:1]]-21",
       "reference_type": "wikilink_range",
-      "context": "The vow Paul makes is likely a form of the Nazirite vow ([[NUM.6:1]]-21) given in thanksgiving for deliverance from danger."
+      "context": "The vow Paul makes is likely a form of the Nazirite vow ([[NUM.6:1]]-21) given in thanksgiving for deliverance from danger.",
+      "edge_type": "instantiates",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Behold, He shall look upon her as an eagle, and spread forth His wings over her stronghold. In that day, the heart of the strong men of Edom shall be as the heart of a woman with pains of childbirth.",
   "pericope": {
     "id": "JER.P050",
@@ -20,7 +20,16 @@
       "line_number": 137,
       "raw_match": "[[JER.30:1]]-16",
       "reference_type": "wikilink_range",
-      "context": "For the punishment of Edom, see [[JER.30:1]]-16."
+      "context": "For the punishment of Edom, see [[JER.30:1]]-16.",
+      "edge_type": "instantiates",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 6,
+        "title": "The Universe As a Language",
+        "polarity": "generation",
+        "operation": "descend",
+        "scale": "communal"
+      }
     }
   ]
 }

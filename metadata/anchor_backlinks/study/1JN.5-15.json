@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "And if we know that He hears us, whatever we ask, we know that we have the petitions that we have asked of Him.",
   "pericope": {
     "id": "1JN.P015",
@@ -12,7 +12,10 @@
     "range": "1JN.5:13-5:16",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "prayer"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 140,
       "raw_match": "[[1JN.5:15]]",
       "reference_type": "wikilink",
-      "context": "Ask what you will: As the Father gives all things to the Son, so Christ gives all things to those who ask according to His will ([[MAT.21:22]]; [[JOH.14:14]]; [[1JN.5:15]])."
+      "context": "Ask what you will: As the Father gives all things to the Son, so Christ gives all things to those who ask according to His will ([[MAT.21:22]]; [[JOH.14:14]]; [[1JN.5:15]]).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "prayer"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Then the priest shall make one a sin offering and the other a whole burnt offering and make atonement for him, concerning which he sinned in regard to the corpse; and he shall sanctify his head that day.",
   "pericope": {
     "id": "NUM.P014",
@@ -12,7 +12,9 @@
     "range": "NUM.5:31-6:20",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "priesthood"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 1117,
       "raw_match": "[[NUM.6:1]]-21",
       "reference_type": "wikilink_range",
-      "context": "The vow Paul makes is likely a form of the Nazirite vow ([[NUM.6:1]]-21) given in thanksgiving for deliverance from danger."
+      "context": "The vow Paul makes is likely a form of the Nazirite vow ([[NUM.6:1]]-21) given in thanksgiving for deliverance from danger.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "priesthood"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

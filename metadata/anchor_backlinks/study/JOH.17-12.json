@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "While I was with them in the world, I kept them in Your name. Those whom You gave Me I have kept; and none of them is lost except the son of perdition, that the Scripture might be fulfilled.",
   "pericope": {
     "id": "JOH.P060",
@@ -12,7 +12,11 @@
     "range": "JOH.17:5-17:18",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "prayer",
+    "priesthood"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +24,21 @@
       "line_number": 352,
       "raw_match": "[[JOH.17:12]]",
       "reference_type": "wikilink",
-      "context": "Consider the ways in which Joshua's address is fulfilled in Christ's high priestly prayer in Jn 17. For example: Joshua says, \"I am old\" (v. 2); Christ prays, \"the hour has come\" ([[JOH.17:1]]). Joshua says, \"you shall inherit their land... therefore... love the Lord\" (vv. 5, 11); Christ prays, \"this is eternal life, that they may know You, the only true God, and Jesus Christ whom You have sent\" ([[JOH.17:3]]). Joshua says, \"I am going... not one word has failed\" (v. 14); Christ prays, \"I have finished the work... none of them is lost\" ([[JOH.17:4]], [[JOH.17:12]])."
+      "context": "Consider the ways in which Joshua's address is fulfilled in Christ's high priestly prayer in Jn 17. For example: Joshua says, \"I am old\" (v. 2); Christ prays, \"the hour has come\" ([[JOH.17:1]]). Joshua says, \"you shall inherit their land... therefore... love the Lord\" (vv. 5, 11); Christ prays, \"this is eternal life, that they may know You, the only true God, and Jesus Christ whom You have sent\" ([[JOH.17:3]]). Joshua says, \"I am going... not one word has failed\" (v. 14); Christ prays, \"I have finished the work... none of them is lost\" ([[JOH.17:4]], [[JOH.17:12]]).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "prayer",
+        "priesthood"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 9,
+        "title": "Example: The Cherubim of Ezekiel I",
+        "polarity": "generation",
+        "operation": "inform",
+        "scale": "intercommunal"
+      }
     }
   ]
 }

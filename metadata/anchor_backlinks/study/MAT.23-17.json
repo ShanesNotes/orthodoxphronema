@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Fools and blind! For which is greater, the gold or the temple that sanctifies the gold?",
   "pericope": {
     "id": "MAT.P075",
@@ -12,7 +12,13 @@
     "range": "MAT.22:46-24:1",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "eucharist",
+    "faith",
+    "kingdom",
+    "temple"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,14 +26,43 @@
       "line_number": 849,
       "raw_match": "[[MAT.23:17]]",
       "reference_type": "wikilink",
-      "context": "\"Who touched Me?\" does not simply mean a physical touch, but rather, \"Who touched me in faith?\" Just as \"the temple sanctifies the gold\" ([[MAT.23:17]]), so also matter is sanctified by Christ's Incarnation, and the power of Christ works through even His garment. To touch Christ's garment in faith is to touch Him. In the Church, we touch Christ through icons, oil, water, bread, wine, etc. When this is done in faith, the power of Christ is received."
+      "context": "\"Who touched Me?\" does not simply mean a physical touch, but rather, \"Who touched me in faith?\" Just as \"the temple sanctifies the gold\" ([[MAT.23:17]]), so also matter is sanctified by Christ's Incarnation, and the power of Christ works through even His garment. To touch Christ's garment in faith is to touch Him. In the Church, we touch Christ through icons, oil, water, bread, wine, etc. When this is done in faith, the power of Christ is received.",
+      "edge_type": "descends_to",
+      "topic_threads": [
+        "christology",
+        "eucharist",
+        "faith",
+        "temple"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/ECC_footnotes.md",
       "line_number": 261,
       "raw_match": "[[MAT.23:17]]",
       "reference_type": "wikilink",
-      "context": "The city can be seen as an image of the Kingdom of heaven, ruled by Christ the king and His princes (v. 16), the faithful. Christ calls the scribes and Pharisees fools (v. 15) for being too blind to see the truth ([[MAT.23:17]], [[MAT.23:19]])."
+      "context": "The city can be seen as an image of the Kingdom of heaven, ruled by Christ the king and His princes (v. 16), the faithful. Christ calls the scribes and Pharisees fools (v. 15) for being too blind to see the truth ([[MAT.23:17]], [[MAT.23:19]]).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "kingdom",
+        "temple"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

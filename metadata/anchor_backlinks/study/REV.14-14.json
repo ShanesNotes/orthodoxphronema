@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "'Yes,' says the Spirit, 'that they may rest from their labors, and their works follow them.' Then I looked, and behold, a white cloud, and on the cloud sat One like the Son of Man, having on His head a golden crown, and in His hand a sharp sickle.",
   "pericope": {
     "id": "REV.P040",
@@ -12,7 +12,11 @@
     "range": "REV.14:14-14:19",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "baptism",
+    "christology",
+    "divine_light"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +24,21 @@
       "line_number": 422,
       "raw_match": "[[REV.14:14]]",
       "reference_type": "wikilink",
-      "context": "In the richness of poetic language, the bride extols the beauty and grace of her beloved. Applying these words to Christ, the Bridegroom of the Church, we see that He is: (1) a shining... light (v. 10), \"the light of the world\" ([[JOH.8:12]]); (2) chosen from countless thousands (v. 10): \"Therefore, peoples shall give thanks to you / Forever and unto ages of ages\" ([[PSA.44:18]]); (3) like refined gold (v. 11), \"on His head a golden crown\" ([[REV.14:14]]); (4) seen with eyes... like... doves (v. 12): \"The eyes of the Lord are in every place\" (Pr 15:3); (5) revealed with glorious cheeks and lips (v. 13): \"His voice as the sound of many waters\" ([[REV.1:15]]); (6) beautiful in hands and stomach (v. 14): \"Then Jesus put out His hand and touched him\" ([[MAT.8:3]]); (7) strong of legs and feet (v. 15): \"His feet were like fine brass\" ([[REV.1:15]]); (8) altogether desirable (v. 16), \"more beautiful than the sons of men\" ([[PSA.44:3]])."
+      "context": "In the richness of poetic language, the bride extols the beauty and grace of her beloved. Applying these words to Christ, the Bridegroom of the Church, we see that He is: (1) a shining... light (v. 10), \"the light of the world\" ([[JOH.8:12]]); (2) chosen from countless thousands (v. 10): \"Therefore, peoples shall give thanks to you / Forever and unto ages of ages\" ([[PSA.44:18]]); (3) like refined gold (v. 11), \"on His head a golden crown\" ([[REV.14:14]]); (4) seen with eyes... like... doves (v. 12): \"The eyes of the Lord are in every place\" (Pr 15:3); (5) revealed with glorious cheeks and lips (v. 13): \"His voice as the sound of many waters\" ([[REV.1:15]]); (6) beautiful in hands and stomach (v. 14): \"Then Jesus put out His hand and touched him\" ([[MAT.8:3]]); (7) strong of legs and feet (v. 15): \"His feet were like fine brass\" ([[REV.1:15]]); (8) altogether desirable (v. 16), \"more beautiful than the sons of men\" ([[PSA.44:3]]).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "baptism",
+        "christology",
+        "divine_light"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

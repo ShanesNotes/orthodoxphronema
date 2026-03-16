@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Thus the Lord was roused to anger against Israel, and He delivered them into the hand of Hazael king of Syria, and into the hand of the son of Hadad, the son of Hazael, for all their days.",
   "pericope": {
     "id": "2KI.P031",
@@ -20,7 +20,16 @@
       "line_number": 725,
       "raw_match": "[[2KI.13:3]]",
       "reference_type": "wikilink",
-      "context": "Ben-Hadad is a king in Damascus who plundered Israel ([[2KI.13:3]])."
+      "context": "Ben-Hadad is a king in Damascus who plundered Israel ([[2KI.13:3]]).",
+      "edge_type": "instantiates",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

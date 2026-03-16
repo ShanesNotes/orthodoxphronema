@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "He who sins is of the devil, for the devil has sinned from the beginning. For this purpose the Son of God was manifested, that He might destroy the works of the devil.",
   "pericope": {
     "id": "1JN.P005",
@@ -12,7 +12,11 @@
     "range": "1JN.2:27-3:8",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "creation_theology",
+    "suffering"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +24,21 @@
       "line_number": 127,
       "raw_match": "[[1JN.3:8]]-10",
       "reference_type": "wikilink_range",
-      "context": "The woman's seed is first Christ, and second His Church ([[GAL.3:16]], [[GAL.3:26]]). The serpent's seed are those who reject Christ and follow the devil ([[1JN.3:8]]-10). Christ destroyed the devil through the cross (bruise your head)."
+      "context": "The woman's seed is first Christ, and second His Church ([[GAL.3:16]], [[GAL.3:26]]). The serpent's seed are those who reject Christ and follow the devil ([[1JN.3:8]]-10). Christ destroyed the devil through the cross (bruise your head).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "creation_theology",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

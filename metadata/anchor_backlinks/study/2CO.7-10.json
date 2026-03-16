@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "For godly sorrow produces repentance leading to salvation, not to be regretted; but the sorrow of the world produces death.",
   "pericope": {
     "id": "2CO.P022",
@@ -12,7 +12,13 @@
     "range": "2CO.7:4-7:15",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "eschatology",
+    "mercy",
+    "praise",
+    "repentance",
+    "suffering"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,21 +26,62 @@
       "line_number": 171,
       "raw_match": "[[2CO.7:10]]",
       "reference_type": "wikilink",
-      "context": "These words are not just for the false teachers, but for us all. We are granted more time primarily to grant us fuller repentance. (See v. 15; [[2CO.7:9]], [[2CO.7:10]].)"
+      "context": "These words are not just for the false teachers, but for us all. We are granted more time primarily to grant us fuller repentance. (See v. 15; [[2CO.7:9]], [[2CO.7:10]].)",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "repentance"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/NT/MAT_footnotes.md",
       "line_number": 418,
       "raw_match": "[[2CO.7:10]]",
       "reference_type": "wikilink",
-      "context": "Those who mourn sorrow over the sufferings of this life (9:23), the sufferings of others ([[JOH.11:35]]), the state of the world ([[LUK.19:41]]), and their own sins ([[LUK.7:36]]-38). All of these are comforted by the power of God both in this world and in the age to come. Holy sorrow is part of repentance, conversion, and virtuous action, and is the firstfruit of infinite joy. It is to be distinguished from ungodly sorrow, a sadness that leads to despair (see [[2CO.7:10]])."
+      "context": "Those who mourn sorrow over the sufferings of this life (9:23), the sufferings of others ([[JOH.11:35]]), the state of the world ([[LUK.19:41]]), and their own sins ([[LUK.7:36]]-38). All of these are comforted by the power of God both in this world and in the age to come. Holy sorrow is part of repentance, conversion, and virtuous action, and is the firstfruit of infinite joy. It is to be distinguished from ungodly sorrow, a sadness that leads to despair (see [[2CO.7:10]]).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "eschatology",
+        "repentance",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/PSA_footnotes.md",
       "line_number": 152,
       "raw_match": "[[2CO.7:10]]",
       "reference_type": "wikilink",
-      "context": "Ps 12 teaches the Church how to attain to an exceedingly joyful heart in singing to the Lord (v. 6b), who is the End (v. 1): (1) by godly sorrow and repentance over sins committed, lest the devil and sinful passions (my enemy) be victorious (vv. 3, 5; see also [[2CO.7:10]]); (2) by petitioning the Lord to enlighten the eyes of the heart, lest the sleep in death overtake one (v. 4; see also [[EPH.1:18]]; 5:14); and (3) by hoping in the Lord's mercy (v. 6a)."
+      "context": "Ps 12 teaches the Church how to attain to an exceedingly joyful heart in singing to the Lord (v. 6b), who is the End (v. 1): (1) by godly sorrow and repentance over sins committed, lest the devil and sinful passions (my enemy) be victorious (vv. 3, 5; see also [[2CO.7:10]]); (2) by petitioning the Lord to enlighten the eyes of the heart, lest the sleep in death overtake one (v. 4; see also [[EPH.1:18]]; 5:14); and (3) by hoping in the Lord's mercy (v. 6a).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "mercy",
+        "praise",
+        "repentance",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

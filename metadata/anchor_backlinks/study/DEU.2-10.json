@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "(The Emim dwelt there in times past, a people as great and numerous and strong as the Anakim.",
   "pericope": {
     "id": "DEU.P005",
@@ -12,7 +12,12 @@
     "range": "DEU.1:46-2:24",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "baptism",
+    "christology",
+    "israel_church",
+    "suffering"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +25,22 @@
       "line_number": 256,
       "raw_match": "[[DEU.2:10]]",
       "reference_type": "wikilink",
-      "context": "The sons of Anak (v. 14) were known as Anakim, and they were giants in size ([[DEU.2:10]], [[DEU.2:11]]). Othniel was the nephew of Caleb and also had his spirit. Thus, he subdued the Anakim. He would also be the first to deliver Israel in the time of the Judges (Jdg 3:9), and therefore was a type of Christ. Achsah, his wife, was Caleb's daughter, and Caleb gave her the upper and lower springs of water (v. 19; see also [[JDG.1:13]]-15). She was a type of the Church with its springs of water, the divine life of Christ. Therefore, through Christ and His life in the Church, one is able to fight against the giants of the passions and to live a God-honoring manner of life."
+      "context": "The sons of Anak (v. 14) were known as Anakim, and they were giants in size ([[DEU.2:10]], [[DEU.2:11]]). Othniel was the nephew of Caleb and also had his spirit. Thus, he subdued the Anakim. He would also be the first to deliver Israel in the time of the Judges (Jdg 3:9), and therefore was a type of Christ. Achsah, his wife, was Caleb's daughter, and Caleb gave her the upper and lower springs of water (v. 19; see also [[JDG.1:13]]-15). She was a type of the Church with its springs of water, the divine life of Christ. Therefore, through Christ and His life in the Church, one is able to fight against the giants of the passions and to live a God-honoring manner of life.",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "baptism",
+        "christology",
+        "israel_church",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

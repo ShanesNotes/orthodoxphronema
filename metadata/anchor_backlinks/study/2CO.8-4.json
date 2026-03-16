@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "imploring us with much urgency that we would receive the gift and the fellowship of the ministering to the saints.",
   "pericope": {
     "id": "2CO.P023",
@@ -12,7 +12,9 @@
     "range": "2CO.7:16-8:8",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "prayer"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 405,
       "raw_match": "[[2CO.8:4]]",
       "reference_type": "wikilink",
-      "context": "To minister is to serve someone else's will. It has a liturgical dimension. In part, ministry flows out of liturgical worship (see [[2CO.9:12]], where \"the administration of this service\" is more literally translated \"the service of this worship\"). Prayer leads to action: the supreme NT example is the collection for the church in Jerusalem ([[ROM.15:25]], [[ROM.15:31]]; [[2CO.8:4]])."
+      "context": "To minister is to serve someone else's will. It has a liturgical dimension. In part, ministry flows out of liturgical worship (see [[2CO.9:12]], where \"the administration of this service\" is more literally translated \"the service of this worship\"). Prayer leads to action: the supreme NT example is the collection for the church in Jerusalem ([[ROM.15:25]], [[ROM.15:31]]; [[2CO.8:4]]).",
+      "edge_type": "echoes",
+      "topic_threads": [
+        "prayer"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

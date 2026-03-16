@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Also, to Joseph in the land of Egypt were born Manasseh and Ephraim, whom Ase-nath, the daughter of Poti-Pherah priest of On, bore to him. Sons were also born to Manasseh: Machir, whom his Syrian concubine bore to him; and Machir begot Gilead. Also, the sons of Ephraim, Ma-nasseh's brother, were Shuthelah and Tahan.",
   "pericope": {
     "id": "GEN.P074",
@@ -12,7 +12,10 @@
     "range": "GEN.45:28-46:26",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "exodus_typology",
+    "priesthood"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 96,
       "raw_match": "[[GEN.46:20]]",
       "reference_type": "wikilink",
-      "context": "House of Joseph refers to Joseph's two sons, Ephraim and Manasseh ([[GEN.46:20]]) and their descendants, who were the main tribes of the Northern Kingdom of Israel. By extension, it refers to all of Israel."
+      "context": "House of Joseph refers to Joseph's two sons, Ephraim and Manasseh ([[GEN.46:20]]) and their descendants, who were the main tribes of the Northern Kingdom of Israel. By extension, it refers to all of Israel.",
+      "edge_type": "descends_to",
+      "topic_threads": [
+        "exodus_typology",
+        "priesthood"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

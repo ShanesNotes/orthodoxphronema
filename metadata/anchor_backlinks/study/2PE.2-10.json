@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "and especially those who walk according to the flesh in the lust of uncleanness and despise authority. They are presumptuous, self-willed. They are not afraid to speak evil of dignitaries,",
   "pericope": {
     "id": "2PE.P007",
@@ -12,7 +12,9 @@
     "range": "2PE.2:9-2:16",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "suffering"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 56,
       "raw_match": "[[2PE.2:10]]",
       "reference_type": "wikilink",
-      "context": "Authority (lit., \"lordships\"; also translated \"dominion\"; see [[EPH.1:21]]; [[COL.1:16]]) and dignitaries (lit., \"glories\") refer to angels, perhaps in this case to fallen angels (see the parallel in [[2PE.2:10]]). Although, they are hostile to God, they are nonetheless to be treated dispassionately."
+      "context": "Authority (lit., \"lordships\"; also translated \"dominion\"; see [[EPH.1:21]]; [[COL.1:16]]) and dignitaries (lit., \"glories\") refer to angels, perhaps in this case to fallen angels (see the parallel in [[2PE.2:10]]). Although, they are hostile to God, they are nonetheless to be treated dispassionately.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

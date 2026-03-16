@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "'O Jerusalem, Jerusalem, the one who kills the prophets and stones those who are sent to her! How often I wanted to gather your children together, as ahen gathers her brood under her wings, but you were not willing!",
   "pericope": {
     "id": "LUK.P068",
@@ -12,7 +12,10 @@
     "range": "LUK.13:30-13:34",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "exodus_typology",
+    "suffering"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 986,
       "raw_match": "[[LUK.13:34]]",
       "reference_type": "wikilink",
-      "context": "The great city... where also our Lord was crucified, is clearly Jerusalem (which kills the prophets; [[LUK.13:34]]). Like Sodom and Egypt, Jerusalem becomes selfsufficient and rebels against God."
+      "context": "The great city... where also our Lord was crucified, is clearly Jerusalem (which kills the prophets; [[LUK.13:34]]). Like Sodom and Egypt, Jerusalem becomes selfsufficient and rebels against God.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "exodus_typology",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

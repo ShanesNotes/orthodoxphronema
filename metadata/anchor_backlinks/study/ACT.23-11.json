@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "But the following night the Lord stood by him and said, 'Be of good cheer, Paul; for as you have testified for Me in Jerusalem, so you must also bear witness at Rome.'",
   "pericope": {
     "id": "ACT.P083",
@@ -20,7 +20,16 @@
       "line_number": 1096,
       "raw_match": "[[ACT.23:11]]",
       "reference_type": "wikilink",
-      "context": "Paul recognizes that his lengthy letter to Rome--a church he did not found--is bold in teaching and counsel. He seeks to soften possible offense by expressing confidence in the Romans' own gifts, and by referring to his special commission from God to be the apostle to the Gentiles, including those at Rome (see 1:13-15; [[ACT.23:11]])."
+      "context": "Paul recognizes that his lengthy letter to Rome--a church he did not found--is bold in teaching and counsel. He seeks to soften possible offense by expressing confidence in the Romans' own gifts, and by referring to his special commission from God to be the apostle to the Gentiles, including those at Rome (see 1:13-15; [[ACT.23:11]]).",
+      "edge_type": "instantiates",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

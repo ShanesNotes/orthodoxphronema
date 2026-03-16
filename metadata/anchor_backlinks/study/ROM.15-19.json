@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "in mighty signs and wonders, by the power of the Spirit of God, so that from Jerusalem and round about to Illyricum I have fully preached the gospel of Christ.",
   "pericope": {
     "id": "ROM.P042",
@@ -12,7 +12,9 @@
     "range": "ROM.15:13-15:20",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 504,
       "raw_match": "[[ROM.15:19]]",
       "reference_type": "wikilink",
-      "context": "By signs of an apostle (v. 12; see [[ROM.15:19]]; [[1CO.2:4]]; 4:20; 12:28, 29; [[HEB.2:4]]) Paul seems to be referring to miracles that lead men to God and the Church, for with these signs and wonders (v. 12) the Corinthians are greatly impressed."
+      "context": "By signs of an apostle (v. 12; see [[ROM.15:19]]; [[1CO.2:4]]; 4:20; 12:28, 29; [[HEB.2:4]]) Paul seems to be referring to miracles that lead men to God and the Church, for with these signs and wonders (v. 12) the Corinthians are greatly impressed.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

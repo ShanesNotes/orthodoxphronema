@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "For I say to you, among those born of women there is not agreater prophet than John the Baptist; but he who is least in the kingdom of God is greater than he.'",
   "pericope": {
     "id": "LUK.P032",
@@ -12,7 +12,10 @@
     "range": "LUK.7:10-7:34",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "covenant",
+    "kingdom"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 1108,
       "raw_match": "[[LUK.7:28]]",
       "reference_type": "wikilink",
-      "context": "In terms of the OT Law, John the Baptist is the greatest prophet. The New Covenant is of such incomparable value that those who share in the New Covenant are greater than John was without it (see note at [[LUK.7:28]])."
+      "context": "In terms of the OT Law, John the Baptist is the greatest prophet. The New Covenant is of such incomparable value that those who share in the New Covenant are greater than John was without it (see note at [[LUK.7:28]]).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "covenant",
+        "kingdom"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Then he knelt down and cried out with a loud voice, 'Lord, do not charge them with this sin.' And when he had said this, he fell asleep.",
   "pericope": {
     "id": "ACT.P025",
@@ -12,7 +12,10 @@
     "range": "ACT.7:60-8:2",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "judgment",
+    "suffering"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,14 +23,36 @@
       "line_number": 1231,
       "raw_match": "[[ACT.7:60]]",
       "reference_type": "wikilink",
-      "context": "Sleeps: Compare to [[ACT.7:60]]; [[1CO.11:30]]; 15:6."
+      "context": "Sleeps: Compare to [[ACT.7:60]]; [[1CO.11:30]]; 15:6.",
+      "edge_type": "instantiates",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 5,
+        "title": "Heaven and Earth: A Spiritual Perspective",
+        "polarity": "generation",
+        "operation": "inform",
+        "scale": "individual"
+      }
     },
     {
       "source_file": "study/footnotes/NT/REV_footnotes.md",
       "line_number": 1282,
       "raw_match": "[[ACT.7:58]]-60",
       "reference_type": "wikilink_range",
-      "context": "The trampling of the wicked who were gathered outside the city recalls the bloodshed (the crucifixion, [[HEB.13:12]]; the martyrdom of Stephen, [[ACT.7:58]]-60) that took place outside the walls of Jerusalem. The whole world is judged as the Jews would judge the Gentiles (Joel 4:2, 12; [[ZEC.14:2]]-12; see also 1En 5:31). The absurdly large amount of blood (one thousand six hundred furlongs is about 184 miles) suggests the severity and completeness (1600 = 4 x 4 x 100) of God's judgment. 14:14-20 Two images of judgment, a grain harvest (vv. 14-16) and a grape harvest, complete with the treading of a winepress (vv. 17-20)."
+      "context": "The trampling of the wicked who were gathered outside the city recalls the bloodshed (the crucifixion, [[HEB.13:12]]; the martyrdom of Stephen, [[ACT.7:58]]-60) that took place outside the walls of Jerusalem. The whole world is judged as the Jews would judge the Gentiles (Joel 4:2, 12; [[ZEC.14:2]]-12; see also 1En 5:31). The absurdly large amount of blood (one thousand six hundred furlongs is about 184 miles) suggests the severity and completeness (1600 = 4 x 4 x 100) of God's judgment. 14:14-20 Two images of judgment, a grain harvest (vv. 14-16) and a grape harvest, complete with the treading of a winepress (vv. 17-20).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "judgment",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 6,
+        "title": "The Universe As a Language",
+        "polarity": "generation",
+        "operation": "descend",
+        "scale": "communal"
+      }
     }
   ]
 }

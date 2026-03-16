@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "So Moses cried out to the Lord, saying, 'What shall I do with this people? They are almost ready to stone me.'",
   "pericope": {
     "id": "EXO.P032",
@@ -12,7 +12,10 @@
     "range": "EXO.16:36-17:6",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "exodus_typology",
+    "temple"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 770,
       "raw_match": "[[EXO.17:1]]-7",
       "reference_type": "wikilink_range",
-      "context": "The Feast of Tabernacles (Heb. succoth) is an eight-day autumn harvest festival commemorating the time when Israel wandered in the wilderness of Sinai and the people lived in tents, or tabernacles. Along with Passover and Pentecost, this was one of the three most important festivals of the ancient Jews; it included numerous sacrifices and celebrations (Lv 23:33-43). In later times, the final day of this feast also included drawing water from the pool of Siloam to be mixed with wine and poured at the foot of the altar, both as a purification and in remembrance of the water flowing from the rock that Moses struck ([[EXO.17:1]]-7). It further included the lighting of great lamps in the outer court of the temple (see notes for vv. 37-39; 8:12; see also 2Mc 10:5-9)."
+      "context": "The Feast of Tabernacles (Heb. succoth) is an eight-day autumn harvest festival commemorating the time when Israel wandered in the wilderness of Sinai and the people lived in tents, or tabernacles. Along with Passover and Pentecost, this was one of the three most important festivals of the ancient Jews; it included numerous sacrifices and celebrations (Lv 23:33-43). In later times, the final day of this feast also included drawing water from the pool of Siloam to be mixed with wine and poured at the foot of the altar, both as a purification and in remembrance of the water flowing from the rock that Moses struck ([[EXO.17:1]]-7). It further included the lighting of great lamps in the outer court of the temple (see notes for vv. 37-39; 8:12; see also 2Mc 10:5-9).",
+      "edge_type": "echoes",
+      "topic_threads": [
+        "exodus_typology",
+        "temple"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

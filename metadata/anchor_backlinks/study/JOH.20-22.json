@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "And when He had said this, He breathed on them, and said to them, 'Receive the Holy Spirit.",
   "pericope": {
     "id": "JOH.P073",
@@ -12,7 +12,9 @@
     "range": "JOH.20:18-20:28",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "resurrection"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 79,
       "raw_match": "[[JOH.20:22]]",
       "reference_type": "wikilink",
-      "context": "God formed Adam's body out of dust from the ground. The breath of life is the grace of the Holy Spirit, the Giver of Life (the Creed). God breathed the breath of life into man's body, and he became a living soul. Therefore, Adam was a living soul because he possessed a body, a soul, and the grace of the Holy Spirit. After He rose from the dead, Jesus breathed on His disciples, and said, \"Receive the Holy Spirit\" ([[JOH.20:22]]). For man failed to keep the grace of the Spirit, but through His Resurrection Jesus supplies His disciples abundantly with the life-giving grace of the Spirit. A disciple's responsibility is to live by this grace."
+      "context": "God formed Adam's body out of dust from the ground. The breath of life is the grace of the Holy Spirit, the Giver of Life (the Creed). God breathed the breath of life into man's body, and he became a living soul. Therefore, Adam was a living soul because he possessed a body, a soul, and the grace of the Holy Spirit. After He rose from the dead, Jesus breathed on His disciples, and said, \"Receive the Holy Spirit\" ([[JOH.20:22]]). For man failed to keep the grace of the Spirit, but through His Resurrection Jesus supplies His disciples abundantly with the life-giving grace of the Spirit. A disciple's responsibility is to live by this grace.",
+      "edge_type": "ascends_from",
+      "topic_threads": [
+        "resurrection"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Then the sorcerers of Egypt did the same with their sorceries; and Pharaoh's heart was hardened, and he did not heed them, as the Lord said.",
   "pericope": {
     "id": "EXO.P010",
@@ -12,7 +12,9 @@
     "range": "EXO.7:13-7:24",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "exodus_typology"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 801,
       "raw_match": "[[EXO.7:14]]-25",
       "reference_type": "wikilink_range",
-      "context": "As in the first plague of Egypt ([[EXO.7:14]]-25), the sea, marine life, and maritime commerce are affected."
+      "context": "As in the first plague of Egypt ([[EXO.7:14]]-25), the sea, marine life, and maritime commerce are affected.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "exodus_typology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

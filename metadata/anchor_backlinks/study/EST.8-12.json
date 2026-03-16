@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "This was to take effect beginning on one day throughout all the kingdom of Artaxerxes-the thirteenth day of the twelfth month, which is Adar.",
   "pericope": {
     "id": "EST.P020",
@@ -12,7 +12,9 @@
     "range": "EST.8:12-8:12",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "creation_theology"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 210,
       "raw_match": "[[EST.8:12]]",
       "reference_type": "wikilink",
-      "context": "a-12k This section is in the Greek LXX text; it does not appear in the Hebrew manuscripts. 8:12c They undertake to plot against their own benefactors: To plot against the Jews, from whom the Savior of the world would come, is to plot against hope for oneself. The same can be said of persecutors of the Church, where the Savior dwells. 8:12r This new decree gives royal authority to the Jews to destroy those under Haman's influence and those who would destroy the Jews (see [[EPH.6:12]]). 8:12s [[EST.8:12]]s, 12t: Victory is already assumed, and deliverance will be received by both the Jews and the well-inclined Persians."
+      "context": "a-12k This section is in the Greek LXX text; it does not appear in the Hebrew manuscripts. 8:12c They undertake to plot against their own benefactors: To plot against the Jews, from whom the Savior of the world would come, is to plot against hope for oneself. The same can be said of persecutors of the Church, where the Savior dwells. 8:12r This new decree gives royal authority to the Jews to destroy those under Haman's influence and those who would destroy the Jews (see [[EPH.6:12]]). 8:12s [[EST.8:12]]s, 12t: Victory is already assumed, and deliverance will be received by both the Jews and the well-inclined Persians.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "creation_theology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

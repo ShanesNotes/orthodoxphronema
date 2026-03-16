@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "and said, 'What are you willing to give me if I deliver Him to you?' And they counted out to him thirty pieces of silver.",
   "pericope": {
     "id": "MAT.P083",
@@ -12,7 +12,9 @@
     "range": "MAT.26:13-26:15",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "eucharist"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 1362,
       "raw_match": "[[MAT.26:14]]-16",
       "reference_type": "wikilink_range",
-      "context": "The other disciples said the same thing Judas said (v. 5), but with a very different motive (see [[MAT.26:6]]-13 and note). Judas spoke from greed, while the others spoke from the virtue of charity. That Jesus put a thief in charge of the money shows that by every means He attempted to save Judas: He fulfilled Judas' lust for money; He allowed Judas to exercise apostolic authority (6:11; see also [[MRK.6:7]]); He washed Judas' feet with the other disciples (13:5); and He allowed him to partake at the table of the Mystical Supper (13:26). Yet Judas could never overcome his greed (see note at [[MAT.26:14]]-16)."
+      "context": "The other disciples said the same thing Judas said (v. 5), but with a very different motive (see [[MAT.26:6]]-13 and note). Judas spoke from greed, while the others spoke from the virtue of charity. That Jesus put a thief in charge of the money shows that by every means He attempted to save Judas: He fulfilled Judas' lust for money; He allowed Judas to exercise apostolic authority (6:11; see also [[MRK.6:7]]); He washed Judas' feet with the other disciples (13:5); and He allowed him to partake at the table of the Mystical Supper (13:26). Yet Judas could never overcome his greed (see note at [[MAT.26:14]]-16).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "eucharist"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Receive my blessing I brought you, because God has shown me mercy; and I have enough.' Thus he urged him, and he took it.",
   "pericope": {
     "id": "GEN.P054",
@@ -12,7 +12,11 @@
     "range": "GEN.32:32-33:19",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "faith",
+    "mercy",
+    "praise"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +24,21 @@
       "line_number": 1295,
       "raw_match": "[[GEN.33:11]]",
       "reference_type": "wikilink",
-      "context": "[[GEN.33:5]], [[GEN.33:9]], [[GEN.33:11]]: Jacob acknowledged that God gave him all his possessions. For he was a man of faith who looked to the world to come ([[HEB.11:13]]-15, 21). Esau, on the other hand, did not glorify God for the possessions God gave him, for he was an unbeliever."
+      "context": "[[GEN.33:5]], [[GEN.33:9]], [[GEN.33:11]]: Jacob acknowledged that God gave him all his possessions. For he was a man of faith who looked to the world to come ([[HEB.11:13]]-15, 21). Esau, on the other hand, did not glorify God for the possessions God gave him, for he was an unbeliever.",
+      "edge_type": "ascends_from",
+      "topic_threads": [
+        "faith",
+        "mercy",
+        "praise"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

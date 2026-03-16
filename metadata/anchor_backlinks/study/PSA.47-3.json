@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Well-rooted in joy throughout the earth, The mountains of Zion, the sides of the north, The city of the great King;",
   "pericope": {
     "id": "PSA.P047",
@@ -20,7 +20,16 @@
       "line_number": 70,
       "raw_match": "[[PSA.47:3]]",
       "reference_type": "wikilink",
-      "context": "The titles the great king and lord of all the earth are further claims of divinity by Nebuchadnezzar (see [[JOS.3:11]]; [[PSA.47:3]])."
+      "context": "The titles the great king and lord of all the earth are further claims of divinity by Nebuchadnezzar (see [[JOS.3:11]]; [[PSA.47:3]]).",
+      "edge_type": "instantiates",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

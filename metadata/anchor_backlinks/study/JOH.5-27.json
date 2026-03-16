@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "and has given Him authority to execute judgment also, because He is the Son of Man.",
   "pericope": {
     "id": "JOH.P014",
@@ -12,7 +12,10 @@
     "range": "JOH.5:15-5:46",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "judgment"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 373,
       "raw_match": "[[JOH.5:27]]",
       "reference_type": "wikilink",
-      "context": "Saints will judge the world (v. 2) and angels (v. 3) because in Christ, Christians share in His authority to judge (see [[MAT.19:28]]; [[JOH.5:22]], [[JOH.5:27]]; [[2PE.2:4]]; Jude 6; [[REV.20:4]]). This being so, how much more are we able to judge the everyday concerns of this life (v. 3)?"
+      "context": "Saints will judge the world (v. 2) and angels (v. 3) because in Christ, Christians share in His authority to judge (see [[MAT.19:28]]; [[JOH.5:22]], [[JOH.5:27]]; [[2PE.2:4]]; Jude 6; [[REV.20:4]]). This being so, how much more are we able to judge the everyday concerns of this life (v. 3)?",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology",
+        "judgment"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

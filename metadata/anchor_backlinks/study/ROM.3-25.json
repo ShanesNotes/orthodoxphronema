@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "whom God set forth as apropitiation by His blood, through faith, to demonstrate His righteousness, because in His forbearance God had passed over the sins that were previously committed,",
   "pericope": {
     "id": "ROM.P009",
@@ -12,7 +12,12 @@
     "range": "ROM.3:20-3:30",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "faith",
+    "mercy",
+    "suffering"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +25,22 @@
       "line_number": 1232,
       "raw_match": "[[ROM.3:25]]",
       "reference_type": "wikilink",
-      "context": "The mercy seat was a type of the Cross and the shed blood of Christ by which He makes people righteous ([[ROM.3:25]]). Those cleansed by His precious blood are made righteous immediately. The unbelieving Jews, however, hoped to obtain righteousness by keeping the commandments of the Law, but this was an impossibility. They failed to see what the mercy seat was teaching them, namely, that Christ is the mercy seat for their sins and \"the end of the law for righteousness\" ([[ROM.10:4]])."
+      "context": "The mercy seat was a type of the Cross and the shed blood of Christ by which He makes people righteous ([[ROM.3:25]]). Those cleansed by His precious blood are made righteous immediately. The unbelieving Jews, however, hoped to obtain righteousness by keeping the commandments of the Law, but this was an impossibility. They failed to see what the mercy seat was teaching them, namely, that Christ is the mercy seat for their sins and \"the end of the law for righteousness\" ([[ROM.10:4]]).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "faith",
+        "mercy",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

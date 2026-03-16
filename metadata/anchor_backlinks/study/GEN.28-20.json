@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Then Jacob made a vow, saying, 'If the Lord God will be with me, and keep me in this way I am going, and give me bread to eat and clothing to put on,",
   "pericope": {
     "id": "GEN.P045",
@@ -12,7 +12,9 @@
     "range": "GEN.28:9-28:21",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "covenant"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 503,
       "raw_match": "[[GEN.28:19]]-22",
       "reference_type": "wikilink_range",
-      "context": "They traveled to Bethel ([[GEN.28:19]]-22) to inquire of God because the ark of the covenant had been moved there (v. 27)."
+      "context": "They traveled to Bethel ([[GEN.28:19]]-22) to inquire of God because the ark of the covenant had been moved there (v. 27).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "covenant"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

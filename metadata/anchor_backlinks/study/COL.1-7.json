@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "as you also learned from Epaphras, our dear fellow servant, who is a faithful minister of Christ on your behalf,",
   "pericope": {
     "id": "COL.P003",
@@ -12,7 +12,11 @@
     "range": "COL.1:7-1:13",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "priesthood",
+    "suffering"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +24,21 @@
       "line_number": 26,
       "raw_match": "[[COL.1:7]]",
       "reference_type": "wikilink",
-      "context": "When Paul evangelized an area, he did not leave it unattended ([[1CO.3:6]]-10; [[COL.1:7]]). 1:5-9 All Christians are priests in Christ. Candidates for eldership, that is, for the special priesthood inside the general priesthood of all, should exhibit a wholesome and united family life (v. 6), control over passions and emotions (v. 7), loving and righteous relations with others (v. 8), and careful adherence to tradition (v. 9; see also [[1TI.3:1]]-16; 5:21; 2Ti 2:2)."
+      "context": "When Paul evangelized an area, he did not leave it unattended ([[1CO.3:6]]-10; [[COL.1:7]]). 1:5-9 All Christians are priests in Christ. Candidates for eldership, that is, for the special priesthood inside the general priesthood of all, should exhibit a wholesome and united family life (v. 6), control over passions and emotions (v. 7), loving and righteous relations with others (v. 8), and careful adherence to tradition (v. 9; see also [[1TI.3:1]]-16; 5:21; 2Ti 2:2).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology",
+        "priesthood",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

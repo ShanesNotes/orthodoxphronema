@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "And when Jesus had cried out with a loud voice, He said, 'Father, 'into Your hands I commit My spirit.' 'Having said this, He breathed His last.",
   "pericope": {
     "id": "LUK.P119",
@@ -12,7 +12,10 @@
     "range": "LUK.23:43-23:48",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "suffering"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,21 +23,59 @@
       "line_number": 2076,
       "raw_match": "[[LUK.23:46]]",
       "reference_type": "wikilink",
-      "context": "Finished is better translated \"accomplished\" or \"fulfilled\"--not meaning Christ's life is ended, but showing His divine plan of salvation has now been completed. Bowing His head, He gave up His spirit: St. John Chrysostom writes that Christ did not die first, with His head falling as a result of death. Instead, as Lord even of His own death, Jesus first bowed His head, and then willingly gave up His spirit (see note at [[LUK.23:46]])."
+      "context": "Finished is better translated \"accomplished\" or \"fulfilled\"--not meaning Christ's life is ended, but showing His divine plan of salvation has now been completed. Bowing His head, He gave up His spirit: St. John Chrysostom writes that Christ did not die first, with His head falling as a result of death. Instead, as Lord even of His own death, Jesus first bowed His head, and then willingly gave up His spirit (see note at [[LUK.23:46]]).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 5,
+        "title": "Heaven and Earth: A Spiritual Perspective",
+        "polarity": "generation",
+        "operation": "inform",
+        "scale": "individual"
+      }
     },
     {
       "source_file": "study/footnotes/NT/MAT_footnotes.md",
       "line_number": 2472,
       "raw_match": "[[LUK.23:46]]",
       "reference_type": "wikilink",
-      "context": "Yielded up His spirit: Christ's death was voluntary to the very end, for even on the Cross, His life could not be taken from Him against His will. Christ accepts death on the Cross neither to receive the Father's punishment on our behalf, nor to satisfy the Father's need for blood-justice (as if God would demand such things), but so that by entering death as the divine Son of God, He can destroy this last enemy, which is death itself ([[1CO.15:20]]-28; see note at [[LUK.23:46]])."
+      "context": "Yielded up His spirit: Christ's death was voluntary to the very end, for even on the Cross, His life could not be taken from Him against His will. Christ accepts death on the Cross neither to receive the Father's punishment on our behalf, nor to satisfy the Father's need for blood-justice (as if God would demand such things), but so that by entering death as the divine Son of God, He can destroy this last enemy, which is death itself ([[1CO.15:20]]-28; see note at [[LUK.23:46]]).",
+      "edge_type": "opposes",
+      "topic_threads": [
+        "christology",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/PSA_footnotes.md",
       "line_number": 373,
       "raw_match": "[[LUK.23:46]]",
       "reference_type": "wikilink",
-      "context": "Ps 30 is a revelation (ecstasy, vv. 1, 23) of Christ (the End, v. 1) in relation to the extreme humiliation (v. 8) He suffered before the Father on the cross for mankind. For example, v. 6 is quoted by Him as His last words to the Father on the cross just before He died ([[LUK.23:46]]). Verses 2-23 describe this humiliation, and vv. 24, 25 emphasize the fruit His humiliation bears in the Church, e.g., love for the Father. And v. 24 also speaks of those who act with great arrogance, that is, who reject the Lord's extreme humiliation with their extreme arrogance."
+      "context": "Ps 30 is a revelation (ecstasy, vv. 1, 23) of Christ (the End, v. 1) in relation to the extreme humiliation (v. 8) He suffered before the Father on the cross for mankind. For example, v. 6 is quoted by Him as His last words to the Father on the cross just before He died ([[LUK.23:46]]). Verses 2-23 describe this humiliation, and vv. 24, 25 emphasize the fruit His humiliation bears in the Church, e.g., love for the Father. And v. 24 also speaks of those who act with great arrogance, that is, who reject the Lord's extreme humiliation with their extreme arrogance.",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

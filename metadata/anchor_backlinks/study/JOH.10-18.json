@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "No one takes it from Me, but I lay it down of Myself. I have power to lay it down, and I have power to take it again. This command I have received from My Father.'",
   "pericope": {
     "id": "JOH.P033",
@@ -12,7 +12,11 @@
     "range": "JOH.10:6-10:20",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "resurrection",
+    "suffering"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +24,21 @@
       "line_number": 647,
       "raw_match": "[[JOH.10:18]]",
       "reference_type": "wikilink",
-      "context": "Ps 53 is a prophecy concerning the betrayal of Christ. For just as the Ziphites betrayed David (see 1Kg 23:15-21), so also Judas and the Jewish leaders betrayed Christ. These leaders are called strangers and the powerful (v. 5). Nevertheless, Christ's sufferings and sacrifice on the cross were voluntary (v. 8), for no one could take His life from Him without His consent (see also [[JOH.10:18]]; 18:6). And He thanked the Father (O Lord, v. 8) for His Resurrection (v. 9), to teach us to do the same."
+      "context": "Ps 53 is a prophecy concerning the betrayal of Christ. For just as the Ziphites betrayed David (see 1Kg 23:15-21), so also Judas and the Jewish leaders betrayed Christ. These leaders are called strangers and the powerful (v. 5). Nevertheless, Christ's sufferings and sacrifice on the cross were voluntary (v. 8), for no one could take His life from Him without His consent (see also [[JOH.10:18]]; 18:6). And He thanked the Father (O Lord, v. 8) for His Resurrection (v. 9), to teach us to do the same.",
+      "edge_type": "scales_to",
+      "topic_threads": [
+        "christology",
+        "resurrection",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

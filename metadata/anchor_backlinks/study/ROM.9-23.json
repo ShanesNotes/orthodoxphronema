@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "and that He might make known the riches of His glory on the vessels of mercy, which He had prepared beforehand for glory,",
   "pericope": {
     "id": "ROM.P024",
@@ -12,7 +12,9 @@
     "range": "ROM.9:13-9:29",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "mercy"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 118,
       "raw_match": "[[ROM.9:20]]-23",
       "reference_type": "wikilink_range",
-      "context": "His own vessel speaks of the entire human being ([[ROM.9:20]]-23; [[2CO.4:7]]; [[2TI.2:20]], 21)--probably one's own self, perhaps one's wife (or husband). In either case one's vessel must be possessed with purity, self-control, and chastity."
+      "context": "His own vessel speaks of the entire human being ([[ROM.9:20]]-23; [[2CO.4:7]]; [[2TI.2:20]], 21)--probably one's own self, perhaps one's wife (or husband). In either case one's vessel must be possessed with purity, self-control, and chastity.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "mercy"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

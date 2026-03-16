@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "who, in the days of His flesh, when He had offered up prayers and supplications, with vehement cries and tears to Him who was able to save Him from death, and was heard because of His godly fear,",
   "pericope": {
     "id": "HEB.P012",
@@ -12,7 +12,14 @@
     "range": "HEB.5:6-6:7",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "creation_theology",
+    "kingdom",
+    "praise",
+    "prayer",
+    "resurrection"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,21 +27,64 @@
       "line_number": 233,
       "raw_match": "[[HEB.5:7]]",
       "reference_type": "wikilink",
-      "context": "Ps 19 is a royal psalm, for it is a prophecy made on behalf of Jesus Christ the King (v. 10), who is the End (v. 1). Also, v. 7 identifies Jesus as God's Christ (His anointed) and as His right hand. For the name \"Christ\" shows the Father anointed the human nature of Jesus with the Holy Spirit (see [[HEB.1:9]]; [[LUK.1:35]]; Is 61:1); and the names \"right hand\" and \"King\" show Jesus is one in essence with the Father and coequal with Him. This prophecy is first a prayer to the Father, who is called the Lord and the God of Jacob (v. 2). Numerous petitions are made on Christ's behalf (vv. 2-5), one of which regards His death and Resurrection (vv. 4, 7; see also [[HEB.5:7]]). Secondly, the prophecy reveals the response of the Church to His salvation (vv. 6-10), one element of which is great joy (v. 6)."
+      "context": "Ps 19 is a royal psalm, for it is a prophecy made on behalf of Jesus Christ the King (v. 10), who is the End (v. 1). Also, v. 7 identifies Jesus as God's Christ (His anointed) and as His right hand. For the name \"Christ\" shows the Father anointed the human nature of Jesus with the Holy Spirit (see [[HEB.1:9]]; [[LUK.1:35]]; Is 61:1); and the names \"right hand\" and \"King\" show Jesus is one in essence with the Father and coequal with Him. This prophecy is first a prayer to the Father, who is called the Lord and the God of Jacob (v. 2). Numerous petitions are made on Christ's behalf (vv. 2-5), one of which regards His death and Resurrection (vv. 4, 7; see also [[HEB.5:7]]). Secondly, the prophecy reveals the response of the Church to His salvation (vv. 6-10), one element of which is great joy (v. 6).",
+      "edge_type": "ascends_from",
+      "topic_threads": [
+        "christology",
+        "praise",
+        "prayer",
+        "resurrection"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/PSA_footnotes.md",
       "line_number": 247,
       "raw_match": "[[HEB.5:7]]-9",
       "reference_type": "wikilink_range",
-      "context": "Ps 20 is also a royal psalm, because it is a prophecy of the King's triumphal Ascension, in which He is also the End. The Father is identified as the Lord (vv. 2, 8) and as the Most High (v. 8); and the King is also called the Lord (v. 10), who is exalted (v. 14) in His Ascension, as well as the Father's hand and right hand (v. 9). In being called by these names, Jesus is shown to be one in essence and coequal with the Father. Jesus asked the Father to raise Him from the dead and to enthrone Him at His right hand for the sake of our salvation (vv. 1-8; see also [[HEB.5:7]]-9). And in His death, Resurrection and Ascension, He destroyed all the enemies, namely, the devil and his angels (vv. 9-13). So, in response to all the Lord's mighty deeds, the Church sings and praises Him (v. 14)."
+      "context": "Ps 20 is also a royal psalm, because it is a prophecy of the King's triumphal Ascension, in which He is also the End. The Father is identified as the Lord (vv. 2, 8) and as the Most High (v. 8); and the King is also called the Lord (v. 10), who is exalted (v. 14) in His Ascension, as well as the Father's hand and right hand (v. 9). In being called by these names, Jesus is shown to be one in essence and coequal with the Father. Jesus asked the Father to raise Him from the dead and to enthrone Him at His right hand for the sake of our salvation (vv. 1-8; see also [[HEB.5:7]]-9). And in His death, Resurrection and Ascension, He destroyed all the enemies, namely, the devil and his angels (vv. 9-13). So, in response to all the Lord's mighty deeds, the Church sings and praises Him (v. 14).",
+      "edge_type": "ascends_from",
+      "topic_threads": [
+        "kingdom",
+        "praise",
+        "prayer",
+        "resurrection"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/PSA_footnotes.md",
       "line_number": 1162,
       "raw_match": "[[HEB.5:7]]",
       "reference_type": "wikilink",
-      "context": "Ps 101 is about a a poor man, when he was depressed and poured out his supplication before the Lord (v. 1). This Man is Jesus, who became poor for our sakes and interceded with the Father for our salvation (see also [[2CO.8:9]]; [[HEB.5:7]]). The Lord to whom He prays is the Father (v. 2), and vv. 3-12 describe Jesus' extreme anguish for us (see also [[MAT.26:38]]). He also rose again for our salvation, for He is the Lord over death (when You rise up, v. 14). He is the Creator of the world (vv. 26-28; see also [[HEB.1:10]]- 12), and He also created the Church (vv. 19, 23, 29), composed of Gentiles as well as Jews (v. 16)."
+      "context": "Ps 101 is about a a poor man, when he was depressed and poured out his supplication before the Lord (v. 1). This Man is Jesus, who became poor for our sakes and interceded with the Father for our salvation (see also [[2CO.8:9]]; [[HEB.5:7]]). The Lord to whom He prays is the Father (v. 2), and vv. 3-12 describe Jesus' extreme anguish for us (see also [[MAT.26:38]]). He also rose again for our salvation, for He is the Lord over death (when You rise up, v. 14). He is the Creator of the world (vv. 26-28; see also [[HEB.1:10]]- 12), and He also created the Church (vv. 19, 23, 29), composed of Gentiles as well as Jews (v. 16).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "creation_theology",
+        "prayer"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

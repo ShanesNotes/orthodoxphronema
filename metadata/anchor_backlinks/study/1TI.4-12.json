@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Let no one despise your youth, but be an example to the believers in word, in conduct, in love, in spirit, in faith, in purity.",
   "pericope": {
     "id": "1TI.P014",
@@ -12,7 +12,11 @@
     "range": "1TI.4:11-4:15",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "faith",
+    "logos",
+    "temple"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +24,20 @@
       "line_number": 258,
       "raw_match": "[[1TI.4:12]]",
       "reference_type": "wikilink",
-      "context": "God sometimes chooses the young and inexperienced (see [[1TI.4:12]]) to carry out the work of building his temple."
+      "context": "God sometimes chooses the young and inexperienced (see [[1TI.4:12]]) to carry out the work of building his temple.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "faith",
+        "temple"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

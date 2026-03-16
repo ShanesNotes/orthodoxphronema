@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "If a thief is found breaking in at night and is killed, there shall be no guilt for his blood.",
   "pericope": {
     "id": "EXO.P042",
@@ -20,7 +20,16 @@
       "line_number": 1709,
       "raw_match": "[[EXO.22:1]]",
       "reference_type": "wikilink",
-      "context": "Zacchaeus uses the term give for his free and generous offering to the poor, and restore for what he owes those he had cheated, as this was not a gift but required by the Law ([[EXO.22:1]]). By doing both, Zacchaeus not only fulfills the Law, but shows his love of the gospel."
+      "context": "Zacchaeus uses the term give for his free and generous offering to the poor, and restore for what he owes those he had cheated, as this was not a gift but required by the Law ([[EXO.22:1]]). By doing both, Zacchaeus not only fulfills the Law, but shows his love of the gospel.",
+      "edge_type": "fulfills",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

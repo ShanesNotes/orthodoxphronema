@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "'I have manifested Your name to the men whom You have given Me out of the world. They were Yours, You gave them to Me, and they have kept Your word.",
   "pericope": {
     "id": "JOH.P060",
@@ -12,7 +12,11 @@
     "range": "JOH.17:5-17:18",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "kingdom",
+    "logos",
+    "suffering"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +24,20 @@
       "line_number": 425,
       "raw_match": "[[JOH.17:6]]",
       "reference_type": "wikilink",
-      "context": "To those faithful to Him, the Lord Jesus will in turn be faithful during the hour of trial that will come to the whole world by preserving them during that trial (see Jn 17:15) and protecting them from demonic assaults. Although the faithful will not be rescued from sufferings, persecution, and martyrdom, they will be sustained and supported so as to persevere in their faithfulness. The hour of trial is an apocalyptic image ([[DAN.12:1]]; [[MAT.6:13]]; [[MRK.13:4]]; [[JOH.17:6]], [[JOH.17:15]]; [[2TH.2:1]]-12), referring to the testing and tribulation (chs. 8; 9; 16) preceding the manifestation of the eternal Kingdom of God. Those who dwell on the earth is a commonly used term for the ungodly."
+      "context": "To those faithful to Him, the Lord Jesus will in turn be faithful during the hour of trial that will come to the whole world by preserving them during that trial (see Jn 17:15) and protecting them from demonic assaults. Although the faithful will not be rescued from sufferings, persecution, and martyrdom, they will be sustained and supported so as to persevere in their faithfulness. The hour of trial is an apocalyptic image ([[DAN.12:1]]; [[MAT.6:13]]; [[MRK.13:4]]; [[JOH.17:6]], [[JOH.17:15]]; [[2TH.2:1]]-12), referring to the testing and tribulation (chs. 8; 9; 16) preceding the manifestation of the eternal Kingdom of God. Those who dwell on the earth is a commonly used term for the ungodly.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "kingdom",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "And he divided one loaf of baked bread to every man and woman of Israel.",
   "pericope": {
     "id": "1CH.P046",
@@ -12,7 +12,10 @@
     "range": "1CH.15:24-16:5",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "covenant",
+    "faith"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 161,
       "raw_match": "[[1CH.16:1]]-3",
       "reference_type": "wikilink_range",
-      "context": "Cakes of raisins were given to the people of Israel after King David completed the burnt offerings and peace offerings to God before the ark of the covenant (2Kg 6:16-19; [[1CH.16:1]]-3, NKJV). They, together with the apples, symbolize the sweetness of God's grace bestowed on believers."
+      "context": "Cakes of raisins were given to the people of Israel after King David completed the burnt offerings and peace offerings to God before the ark of the covenant (2Kg 6:16-19; [[1CH.16:1]]-3, NKJV). They, together with the apples, symbolize the sweetness of God's grace bestowed on believers.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "covenant",
+        "faith"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

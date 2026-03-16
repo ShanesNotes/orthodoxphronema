@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "As He also says in another place: 'You are a priest forever According to the order of Melchizedek';",
   "pericope": {
     "id": "HEB.P012",
@@ -12,7 +12,11 @@
     "range": "HEB.5:6-6:7",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "eucharist",
+    "priesthood"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +24,21 @@
       "line_number": 468,
       "raw_match": "[[HEB.5:6]]",
       "reference_type": "wikilink",
-      "context": "Melchizedek brought out bread and wine to Abraham. His priesthood typified the High Priesthood of Christ, who gives His precious body and blood to the faithful in the bread and wine of the Eucharist (CypC). Christ's priesthood is called \"the order of Melchizedek\" ([[PSA.109:4]]; [[HEB.5:6]]), and it is superior to the order of Aaron in the Mosaic Law ([[HEB.7:11]]). The Book of Hebrews gives numerous reasons for this superiority."
+      "context": "Melchizedek brought out bread and wine to Abraham. His priesthood typified the High Priesthood of Christ, who gives His precious body and blood to the faithful in the bread and wine of the Eucharist (CypC). Christ's priesthood is called \"the order of Melchizedek\" ([[PSA.109:4]]; [[HEB.5:6]]), and it is superior to the order of Aaron in the Mosaic Law ([[HEB.7:11]]). The Book of Hebrews gives numerous reasons for this superiority.",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "eucharist",
+        "priesthood"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "These things Isaiah said when he saw His glory and spoke of Him.",
   "pericope": {
     "id": "JOH.P045",
@@ -20,7 +20,16 @@
       "line_number": 130,
       "raw_match": "[[JOH.12:41]]",
       "reference_type": "wikilink",
-      "context": "No one has seen God at any time: No one can see the nature, or essence, of God, for to see God is to die ([[EXO.33:20]]). Only One who is Himself divine can see God, and thus the Son is the only One who can declare Him. This revelation of God's energies can be received by the faithful. Moses saw the \"back\" of God ([[EXO.33:21]]-23); Isaiah saw His glory (see Is 6:1; [[JOH.12:41]])."
+      "context": "No one has seen God at any time: No one can see the nature, or essence, of God, for to see God is to die ([[EXO.33:20]]). Only One who is Himself divine can see God, and thus the Son is the only One who can declare Him. This revelation of God's energies can be received by the faithful. Moses saw the \"back\" of God ([[EXO.33:21]]-23); Isaiah saw His glory (see Is 6:1; [[JOH.12:41]]).",
+      "edge_type": "instantiates",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

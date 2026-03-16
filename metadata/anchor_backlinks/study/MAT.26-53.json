@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Or do you think that I cannot now pray to My Father, and He will provide Me with more than twelve legions of angels?",
   "pericope": {
     "id": "MAT.P086",
@@ -12,7 +12,12 @@
     "range": "MAT.26:30-26:74",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "exodus_typology",
+    "praise",
+    "suffering"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +25,22 @@
       "line_number": 948,
       "raw_match": "[[MAT.26:53]]",
       "reference_type": "wikilink",
-      "context": "Christ's decease (Gr. exodus, lit. \"departure\") refers to His death. Christ's death is intimately connected to the glory of the Transfiguration, for Christ is glorified through His death ([[JOH.12:23]]). In the liturgical cycle, the Feast of the Transfiguration (Aug. 6) comes forty days before the feast of the Holy Cross (Sept. 14), showing the connection between Christ's glory and His Cross. The term exodus reveals that Christ's Passion is a fulfillment of the OT Passover and is the true exodus from enslavement into salvation. This revelation of divine power also confirms Christ's upcoming death was not imposed on Him by outside forces, but was a voluntary offering of love, for no arresting soldier could withstand such glory if Christ had not consented ([[MAT.26:53]]). In a festal hymn (called the kontakion) of Transfiguration, we sing, \"Your disciples beheld Your glory as far as they could bear it, so that when they saw You crucified, they would understand that Your suffering was voluntary.\""
+      "context": "Christ's decease (Gr. exodus, lit. \"departure\") refers to His death. Christ's death is intimately connected to the glory of the Transfiguration, for Christ is glorified through His death ([[JOH.12:23]]). In the liturgical cycle, the Feast of the Transfiguration (Aug. 6) comes forty days before the feast of the Holy Cross (Sept. 14), showing the connection between Christ's glory and His Cross. The term exodus reveals that Christ's Passion is a fulfillment of the OT Passover and is the true exodus from enslavement into salvation. This revelation of divine power also confirms Christ's upcoming death was not imposed on Him by outside forces, but was a voluntary offering of love, for no arresting soldier could withstand such glory if Christ had not consented ([[MAT.26:53]]). In a festal hymn (called the kontakion) of Transfiguration, we sing, \"Your disciples beheld Your glory as far as they could bear it, so that when they saw You crucified, they would understand that Your suffering was voluntary.\"",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "exodus_typology",
+        "praise",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

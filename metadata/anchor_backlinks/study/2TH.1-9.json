@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "These shall be punished with everlasting destruction from the presence of the Lord and from the glory of His power,",
   "pericope": {
     "id": "2TH.P002",
@@ -12,7 +12,10 @@
     "range": "2TH.1:2-1:11",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "judgment"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,14 +23,39 @@
       "line_number": 408,
       "raw_match": "[[2TH.1:6]]-10",
       "reference_type": "wikilink_range",
-      "context": "Fire in this context has the primary meaning of the gift of the Holy Spirit, which is given to the world at Pentecost ([[ACT.2:1]]-4). It further declares the judgment of Christ, in which the faithless will burn (see [[2TH.1:6]]-10; 2:8). Note that this fire is one. It is the same Power and the same Spirit which both enlivens the faithful and destroys the faithless."
+      "context": "Fire in this context has the primary meaning of the gift of the Holy Spirit, which is given to the world at Pentecost ([[ACT.2:1]]-4). It further declares the judgment of Christ, in which the faithless will burn (see [[2TH.1:6]]-10; 2:8). Note that this fire is one. It is the same Power and the same Spirit which both enlivens the faithful and destroys the faithless.",
+      "edge_type": "echoes",
+      "topic_threads": [
+        "christology",
+        "judgment"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/NT/ROM_footnotes.md",
       "line_number": 99,
       "raw_match": "[[2TH.1:6]]-10",
       "reference_type": "wikilink_range",
-      "context": "The wrath of God is His righteous and holy judgment. It is not a loss of temper or self-control, but the revelation of His divine truth, love, and power confronting those who reject Him (see [[MAT.25:41]]-46; [[2TH.1:6]]-10; 2:8)."
+      "context": "The wrath of God is His righteous and holy judgment. It is not a loss of temper or self-control, but the revelation of His divine truth, love, and power confronting those who reject Him (see [[MAT.25:41]]-46; [[2TH.1:6]]-10; 2:8).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "judgment"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

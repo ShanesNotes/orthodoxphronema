@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "God is Spirit, and those who worship Him must worship in spirit and truth.'",
   "pericope": {
     "id": "JOH.P011",
@@ -12,7 +12,19 @@
     "range": "JOH.3:21-4:44",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "covenant",
+    "divine_word",
+    "exodus_typology",
+    "israel_church",
+    "judgment",
+    "logos",
+    "prayer",
+    "repentance",
+    "shepherd",
+    "temple"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,35 +32,95 @@
       "line_number": 272,
       "raw_match": "[[JOH.4:24]]",
       "reference_type": "wikilink",
-      "context": "David's praises bear a striking resemblance to the Lord's Prayer ([[MAT.6:9]]-13). Under the old covenant, David cannot see the Trinity fully, for the Trinity has not yet been revealed. In Christ's Church, the faithful will be able to worship the Triune God \"in spirit and truth\" ([[JOH.4:24]])."
+      "context": "David's praises bear a striking resemblance to the Lord's Prayer ([[MAT.6:9]]-13). Under the old covenant, David cannot see the Trinity fully, for the Trinity has not yet been revealed. In Christ's Church, the faithful will be able to worship the Triune God \"in spirit and truth\" ([[JOH.4:24]]).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "covenant",
+        "prayer"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/ISA_footnotes.md",
       "line_number": 1301,
       "raw_match": "[[JOH.4:20]]-24",
       "reference_type": "wikilink_range",
-      "context": "\"God, then, being immaterial and uncircumscribed, has no place. For He is His own place, filling all things\" (JohnDm; see also [[JOH.4:20]]-24)."
+      "context": "\"God, then, being immaterial and uncircumscribed, has no place. For He is His own place, filling all things\" (JohnDm; see also [[JOH.4:20]]-24).",
+      "edge_type": "instantiates"
     },
     {
       "source_file": "study/footnotes/OT/JER_footnotes.md",
       "line_number": 331,
       "raw_match": "[[JOH.4:24]]",
       "reference_type": "wikilink",
-      "context": "My tabernacle... is ruined: Mourning the loss of right worship, the Lord depicts His house in terms of the ancient tabernacle instead of Solomon's temple, which is about to be destroyed. Led by foolish shepherds who no longer seek Him, the people had shunned the pattern of worship that God had given to Moses on the mountain long ago ([[EXO.25:40]]). Those who would worship God \"in spirit and truth\" ([[JOH.4:24]]) must not neglect the gift of Holy Tradition handed down in the Scriptures and the Church, lest we be led astray and scattered."
+      "context": "My tabernacle... is ruined: Mourning the loss of right worship, the Lord depicts His house in terms of the ancient tabernacle instead of Solomon's temple, which is about to be destroyed. Led by foolish shepherds who no longer seek Him, the people had shunned the pattern of worship that God had given to Moses on the mountain long ago ([[EXO.25:40]]). Those who would worship God \"in spirit and truth\" ([[JOH.4:24]]) must not neglect the gift of Holy Tradition handed down in the Scriptures and the Church, lest we be led astray and scattered.",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "shepherd",
+        "temple"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/MIC_footnotes.md",
       "line_number": 32,
       "raw_match": "[[JOH.4:1]]-42",
       "reference_type": "wikilink_range",
-      "context": ", 7 Samaritans were among the first to repent and receive the gospel ([[JOH.4:1]]-42). Therefore, this prophecy is ultimately fulfilled in the Church, Christ's vineyard."
+      "context": ", 7 Samaritans were among the first to repent and receive the gospel ([[JOH.4:1]]-42). Therefore, this prophecy is ultimately fulfilled in the Church, Christ's vineyard.",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "repentance"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/ZEC_footnotes.md",
       "line_number": 503,
       "raw_match": "[[JOH.4:21]]-24",
       "reference_type": "wikilink_range",
-      "context": "The grotesque imagery of the destruction of the enemies of Jerusalem reminds the reader of the utter seriousness of God's judgment. The passage warns that those who do not come up to Jerusalem to worship the King (who is the Lord) are destined for the same fate. Sometimes we look at the judgment of God upon wicked figures and think ourselves safe from wrath because our evil is small by comparison. The fact that we are not murderers of millions does not make us safe. The standard of God's judgment is whether we worship Him in Spirit and in truth ([[JOH.4:21]]-24). Zechariah concludes with a condemnation of Egypt and all nations that do not come to Jerusalem to celebrate the Feast of Tabernacles (also called the Feast of Booths; see Lv 23:33-36). This feast was associated with covenant renewal and the deliverance of Israel. Christ is the eternal Word of God who, in the Incarnation, \"dwelt [or tabernacled] among us\" ([[JOH.1:14]]). So then, all who reject Christ and do not enter the Church to celebrate and serve Him are condemned."
+      "context": "The grotesque imagery of the destruction of the enemies of Jerusalem reminds the reader of the utter seriousness of God's judgment. The passage warns that those who do not come up to Jerusalem to worship the King (who is the Lord) are destined for the same fate. Sometimes we look at the judgment of God upon wicked figures and think ourselves safe from wrath because our evil is small by comparison. The fact that we are not murderers of millions does not make us safe. The standard of God's judgment is whether we worship Him in Spirit and in truth ([[JOH.4:21]]-24). Zechariah concludes with a condemnation of Egypt and all nations that do not come to Jerusalem to celebrate the Feast of Tabernacles (also called the Feast of Booths; see Lv 23:33-36). This feast was associated with covenant renewal and the deliverance of Israel. Christ is the eternal Word of God who, in the Incarnation, \"dwelt [or tabernacled] among us\" ([[JOH.1:14]]). So then, all who reject Christ and do not enter the Church to celebrate and serve Him are condemned.",
+      "edge_type": "echoes",
+      "topic_threads": [
+        "christology",
+        "covenant",
+        "divine_word",
+        "exodus_typology",
+        "israel_church",
+        "judgment",
+        "logos",
+        "temple"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

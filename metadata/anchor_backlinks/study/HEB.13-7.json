@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "What can man do to me?' Remember those who rule over you, who have spoken the word of God to you, whose faith follow, considering the outcome of their conduct.",
   "pericope": {
     "id": "HEB.P036",
@@ -12,7 +12,12 @@
     "range": "HEB.13:7-13:7",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "divine_word",
+    "faith",
+    "logos",
+    "wisdom"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,14 +25,43 @@
       "line_number": 326,
       "raw_match": "[[HEB.13:7]]",
       "reference_type": "wikilink",
-      "context": "Humility is the foundation of virtue; it is learned through submission and obedience to godly elders. In submitting to one another, we humble ourselves under the mighty hand of God (see [[1TH.5:12]], [[1TH.5:13]]; [[HEB.13:7]], [[HEB.13:17]])."
+      "context": "Humility is the foundation of virtue; it is learned through submission and obedience to godly elders. In submitting to one another, we humble ourselves under the mighty hand of God (see [[1TH.5:12]], [[1TH.5:13]]; [[HEB.13:7]], [[HEB.13:17]]).",
+      "edge_type": "descends_to",
+      "topic_threads": [
+        "divine_word",
+        "faith",
+        "logos"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/DEU_footnotes.md",
       "line_number": 39,
       "raw_match": "[[HEB.13:7]]",
       "reference_type": "wikilink",
-      "context": "The chosen leaders were to be wise, understanding, and knowledgeable. These three traits should also characterize leaders in the Church: \"Remember those who rule over you, who have spoken the word of God to you, whose faith follow, considering the outcome of their conduct\" ([[HEB.13:7]])."
+      "context": "The chosen leaders were to be wise, understanding, and knowledgeable. These three traits should also characterize leaders in the Church: \"Remember those who rule over you, who have spoken the word of God to you, whose faith follow, considering the outcome of their conduct\" ([[HEB.13:7]]).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "divine_word",
+        "faith",
+        "logos",
+        "wisdom"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-15T23:42:04+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Therefore now, command the priests who carry the ark of the covenant, saying, 'As soon as you enter a part of the water of the Jordan, then you shall stand in the Jordan.' '",
   "pericope": {
     "id": "JOS.P005",
@@ -12,7 +12,10 @@
     "range": "JOS.2:24-3:16",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "covenant",
+    "priesthood"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 12,
       "raw_match": "[[JOS.3:8]]",
       "reference_type": "wikilink",
-      "context": "**3:7** \u2014 [[JOS.3:7]], [[JOS.3:8]], [[JOS.3:15]]\u201317: This passage is read at Vespers of the Feast of the Theophany of the Lord."
+      "context": "**3:7** \u2014 [[JOS.3:7]], [[JOS.3:8]], [[JOS.3:15]]\u201317: This passage is read at Vespers of the Feast of the Theophany of the Lord.",
+      "edge_type": "echoes",
+      "topic_threads": [
+        "covenant",
+        "priesthood"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 6,
+        "title": "The Universe As a Language",
+        "polarity": "generation",
+        "operation": "descend",
+        "scale": "communal"
+      }
     }
   ]
 }

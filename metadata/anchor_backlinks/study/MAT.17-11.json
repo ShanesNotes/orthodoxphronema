@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Jesus answered and said to them, 'Indeed, Elijah is coming first and will restore all things.",
   "pericope": {
     "id": "MAT.P055",
@@ -12,7 +12,14 @@
     "range": "MAT.16:28-17:12",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "eucharist",
+    "faith",
+    "logos",
+    "resurrection",
+    "suffering"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +27,24 @@
       "line_number": 778,
       "raw_match": "[[MAT.17:11]]",
       "reference_type": "wikilink",
-      "context": "Job's righteousness and God's faithfulness were indeed demonstrated to all through his suffering, according to the Lord's word (40:8). St. Gregory the Great comments that Job's double blessings point to the general resurrection, when the Church will receive \"that which is hers twofold: having received the Gentiles in full number, all Judea shall then also be found to agree to run to her faith\" (see [[ROM.11:25]], [[ROM.11:26]]; Is 61:7; [[REV.6:11]]) \"on the preaching of Elijah\" (see [[MAT.17:11]]). They ate food and drank with Him images the eucharistic supper. As uncoined gold is shaped into a coin, so the faithful, having been made in God's image, are being shaped into His likeness through participation in Him. The lamb points to the once-for-all sacrifice of Christ offered up during Divine Liturgy."
+      "context": "Job's righteousness and God's faithfulness were indeed demonstrated to all through his suffering, according to the Lord's word (40:8). St. Gregory the Great comments that Job's double blessings point to the general resurrection, when the Church will receive \"that which is hers twofold: having received the Gentiles in full number, all Judea shall then also be found to agree to run to her faith\" (see [[ROM.11:25]], [[ROM.11:26]]; Is 61:7; [[REV.6:11]]) \"on the preaching of Elijah\" (see [[MAT.17:11]]). They ate food and drank with Him images the eucharistic supper. As uncoined gold is shaped into a coin, so the faithful, having been made in God's image, are being shaped into His likeness through participation in Him. The lamb points to the once-for-all sacrifice of Christ offered up during Divine Liturgy.",
+      "edge_type": "witnesses",
+      "topic_threads": [
+        "christology",
+        "eucharist",
+        "faith",
+        "logos",
+        "resurrection",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 2,
+        "title": "Coming Full Circle: The Copernican Revolution",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

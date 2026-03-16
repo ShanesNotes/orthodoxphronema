@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "This was the LORD's doing, And it is marvelous in our eyes'?'Therefore I say to you, the kingdom of God will be taken from you and given to a nation bearing the fruits of it.",
   "pericope": {
     "id": "MAT.P071",
@@ -12,7 +12,13 @@
     "range": "MAT.21:32-21:45",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "israel_church",
+    "kingdom",
+    "logos",
+    "priesthood"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,28 +26,81 @@
       "line_number": 329,
       "raw_match": "[[MAT.21:43]]",
       "reference_type": "wikilink",
-      "context": "It was not the season for figs means that this fig tree had sprouted an early full foliage, indicating a first crop, but without bearing any fruit. Jesus, finding not even one fig, condemns it. In Scripture a fig tree is often a symbol of Israel ([[HOS.9:10]]). Her fruitfulness has ceased, so the Kingdom will be taken from her and given to another people, who are called to bear spiritual fruit (see [[MAT.21:43]]; [[GAL.5:22]], [[GAL.5:23]]; see note at Mt 21:19)."
+      "context": "It was not the season for figs means that this fig tree had sprouted an early full foliage, indicating a first crop, but without bearing any fruit. Jesus, finding not even one fig, condemns it. In Scripture a fig tree is often a symbol of Israel ([[HOS.9:10]]). Her fruitfulness has ceased, so the Kingdom will be taken from her and given to another people, who are called to bear spiritual fruit (see [[MAT.21:43]]; [[GAL.5:22]], [[GAL.5:23]]; see note at Mt 21:19).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "kingdom"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/EXO_footnotes.md",
       "line_number": 913,
       "raw_match": "[[MAT.21:43]]",
       "reference_type": "wikilink",
-      "context": "Israel was to be a royal priesthood and a holy nation based on obedience to the Lord. The Lord speaking to Israel was the Word, and when He became Incarnate, the nation disobeyed Him. Therefore, He took the kingdom away from Israel and gave it to a nation bearing the fruits of it ([[MAT.21:43]]). This nation consists of the obedient in the Church, both Jews and Gentiles ([[1PE.2:9]], [[1PE.2:10]])."
+      "context": "Israel was to be a royal priesthood and a holy nation based on obedience to the Lord. The Lord speaking to Israel was the Word, and when He became Incarnate, the nation disobeyed Him. Therefore, He took the kingdom away from Israel and gave it to a nation bearing the fruits of it ([[MAT.21:43]]). This nation consists of the obedient in the Church, both Jews and Gentiles ([[1PE.2:9]], [[1PE.2:10]]).",
+      "edge_type": "descends_to",
+      "topic_threads": [
+        "christology",
+        "israel_church",
+        "kingdom",
+        "logos",
+        "priesthood"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/GEN_footnotes.md",
       "line_number": 1111,
       "raw_match": "[[MAT.21:42]]-44",
       "reference_type": "wikilink_range",
-      "context": "The stone is Christ, the foundation stone of the Church ([[MAT.21:42]]-44; [[MRK.12:10]]; [[LUK.20:17]], [[LUK.20:18]]; [[ACT.4:11]]; [[ROM.9:32]], [[ROM.9:33]]; [[1CO.3:10]], [[1CO.3:11]]; [[1PE.2:4]]-8). The oil signifies Christ, whose human nature was anointed by the Holy Spirit ([[MAT.1:18]]; 3:16; [[HEB.1:9]])."
+      "context": "The stone is Christ, the foundation stone of the Church ([[MAT.21:42]]-44; [[MRK.12:10]]; [[LUK.20:17]], [[LUK.20:18]]; [[ACT.4:11]]; [[ROM.9:32]], [[ROM.9:33]]; [[1CO.3:10]], [[1CO.3:11]]; [[1PE.2:4]]-8). The oil signifies Christ, whose human nature was anointed by the Holy Spirit ([[MAT.1:18]]; 3:16; [[HEB.1:9]]).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "kingdom"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/NUM_footnotes.md",
       "line_number": 349,
       "raw_match": "[[MAT.21:43]]",
       "reference_type": "wikilink",
-      "context": "Unbelief leads to death and self-destruction. For there is no remedy for unbelief. It ultimately led them to the loss of God's kingdom ([[MAT.21:43]]), as it does for all (Rom 11:22)."
+      "context": "Unbelief leads to death and self-destruction. For there is no remedy for unbelief. It ultimately led them to the loss of God's kingdom ([[MAT.21:43]]), as it does for all (Rom 11:22).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "kingdom"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

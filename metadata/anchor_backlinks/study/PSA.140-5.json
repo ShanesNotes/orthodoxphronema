@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "The righteous man shall correct me With mercy, and he shall reprove me; But let not the oil of the sinner anoint my head, For my prayer shall be intense in the presence of their pleasures.",
   "pericope": {
     "id": "PSA.P140",
@@ -12,7 +12,12 @@
     "range": "PSA.140:1-140:10",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "mercy",
+    "prayer",
+    "wisdom"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +25,22 @@
       "line_number": 194,
       "raw_match": "[[PSA.140:5]]",
       "reference_type": "wikilink",
-      "context": "Christians extend hospitality, but not indiscriminately (see [[PSA.140:4]], [[PSA.140:5]]; [[2TI.3:6]]). Almsgiving--giving to the needy--has always been a godly virtue. The Wisdom of Sirach teaches when one practices this virtue to wisely choose a godly recipient. The man who does not give alms is classed with those who persist in evil (v. 3)."
+      "context": "Christians extend hospitality, but not indiscriminately (see [[PSA.140:4]], [[PSA.140:5]]; [[2TI.3:6]]). Almsgiving--giving to the needy--has always been a godly virtue. The Wisdom of Sirach teaches when one practices this virtue to wisely choose a godly recipient. The man who does not give alms is classed with those who persist in evil (v. 3).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology",
+        "mercy",
+        "prayer",
+        "wisdom"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

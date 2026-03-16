@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Now a certain woman named Lydia heard us. She was a seller of purple from the city of Thyatira, who worshiped God. The Lord opened her heart to heed the things spoken by Paul.",
   "pericope": {
     "id": "ACT.P056",
@@ -12,7 +12,10 @@
     "range": "ACT.16:10-16:14",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "temple"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 323,
       "raw_match": "[[ACT.16:14]]",
       "reference_type": "wikilink",
-      "context": "Thyatira lay southeast of Pergamos and was a commercial city known for its trade guilds ([[ACT.16:14]]). Guild meetings frequently included cultic meals in their patronal temples, a problem for Christian tradesmen, for the meetings involved idol worship and sexual debauchery. Christ's eyes and feet allude to the vision of the Son of Man in Dan 10."
+      "context": "Thyatira lay southeast of Pergamos and was a commercial city known for its trade guilds ([[ACT.16:14]]). Guild meetings frequently included cultic meals in their patronal temples, a problem for Christian tradesmen, for the meetings involved idol worship and sexual debauchery. Christ's eyes and feet allude to the vision of the Son of Man in Dan 10.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology",
+        "temple"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

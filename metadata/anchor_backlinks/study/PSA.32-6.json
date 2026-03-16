@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "By the word of the Lord the heavens were established, And all the host of them by the breath of His mouth,",
   "pericope": {
     "id": "PSA.P032",
@@ -12,7 +12,11 @@
     "range": "PSA.32:1-32:22",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "creation_theology",
+    "divine_word",
+    "logos"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,14 +24,41 @@
       "line_number": 31,
       "raw_match": "[[PSA.32:6]]",
       "reference_type": "wikilink",
-      "context": "The Word is the co-Creator with the Father and the Holy Spirit (Gn 1; [[PSA.32:6]], [[PSA.32:9]]; Heb 1:2) and not merely an instrument or servant used by the Father. Will, operation, and power are one in the Father, Son, and Holy Spirit. Thus, the heavens and the earth are the works of the One who made them, while the Son was not made but is eternally begotten of the Father."
+      "context": "The Word is the co-Creator with the Father and the Holy Spirit (Gn 1; [[PSA.32:6]], [[PSA.32:9]]; Heb 1:2) and not merely an instrument or servant used by the Father. Will, operation, and power are one in the Father, Son, and Holy Spirit. Thus, the heavens and the earth are the works of the One who made them, while the Son was not made but is eternally begotten of the Father.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "creation_theology",
+        "divine_word",
+        "logos"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/JDT_footnotes.md",
       "line_number": 273,
       "raw_match": "[[PSA.32:6]]",
       "reference_type": "wikilink",
-      "context": "This verse is a paraphrase of [[PSA.32:6]]."
+      "context": "This verse is a paraphrase of [[PSA.32:6]].",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "divine_word",
+        "logos"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

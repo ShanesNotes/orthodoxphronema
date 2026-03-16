@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "'But if you hate her and send her away,' says the Lord God of Israel, 'ungodliness will obscure your thinking,' says the Lord Almighty. 'So take heed to your spirit, that you do not forsake her.'",
   "pericope": {
     "id": "MAL.P004",
@@ -12,7 +12,9 @@
     "range": "MAL.2:12-2:16",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 455,
       "raw_match": "[[MAL.2:16]]",
       "reference_type": "wikilink",
-      "context": "If a Christian couple cannot stay together, the two alternatives are to remain unmarried, that is, separated, or be reconciled. Divorce is hated by God ([[MAL.2:16]]), a last measure, a great calamity. Paul forbids remarriage while the first spouse is still living (v. 39)."
+      "context": "If a Christian couple cannot stay together, the two alternatives are to remain unmarried, that is, separated, or be reconciled. Divorce is hated by God ([[MAL.2:16]]), a last measure, a great calamity. Paul forbids remarriage while the first spouse is still living (v. 39).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

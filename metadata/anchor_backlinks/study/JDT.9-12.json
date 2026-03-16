@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Yes, O God of my father and God of the inheritance of Israel, Lord of heaven and earth, Creator of the waters, King of all Your creation, attend to my prayer!",
   "pericope": {
     "id": "JDT.P013",
@@ -12,7 +12,10 @@
     "range": "JDT.8:36-9:13",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "creation_theology",
+    "prayer"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 109,
       "raw_match": "[[JDT.9:12]]",
       "reference_type": "wikilink",
-      "context": "References to God as King of the heavens include [[DAN.4:37]]; 1Ez 4:46, 58; [[JDT.9:12]]; Tb 13:7, 11."
+      "context": "References to God as King of the heavens include [[DAN.4:37]]; 1Ez 4:46, 58; [[JDT.9:12]]; Tb 13:7, 11.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "creation_theology",
+        "prayer"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Now the serpent was more cunning than all the wild animals the Lord God made on the earth. And he said to the woman, 'Has God indeed said, 'You shall not eat from every tree of the garden'?'",
   "pericope": {
     "id": "GEN.P003",
@@ -12,7 +12,12 @@
     "range": "GEN.2:25-3:23",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "exodus_typology",
+    "suffering",
+    "wisdom"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +25,22 @@
       "line_number": 25,
       "raw_match": "[[GEN.3:1]]",
       "reference_type": "wikilink",
-      "context": "The deceitfulness of Pharaoh ties this story to two others. First to the account of the serpent, who was \"more cunning than all the wild animals the Lord God made on the earth\" ([[GEN.3:1]]); and second, to a later pharaoh's attempt to outwit Moses. This early verse of Exodus introduces a major motif of this book, namely, the matching of wits--the wisdom of the serpent again encounters the wisdom of God. Similarly, when the Son of God became incarnate, He easily outwitted the devil and destroyed him and death through His Cross ([[COL.2:15]]; [[HEB.2:14]], [[HEB.2:15]])."
+      "context": "The deceitfulness of Pharaoh ties this story to two others. First to the account of the serpent, who was \"more cunning than all the wild animals the Lord God made on the earth\" ([[GEN.3:1]]); and second, to a later pharaoh's attempt to outwit Moses. This early verse of Exodus introduces a major motif of this book, namely, the matching of wits--the wisdom of the serpent again encounters the wisdom of God. Similarly, when the Son of God became incarnate, He easily outwitted the devil and destroyed him and death through His Cross ([[COL.2:15]]; [[HEB.2:14]], [[HEB.2:15]]).",
+      "edge_type": "descends_to",
+      "topic_threads": [
+        "christology",
+        "exodus_typology",
+        "suffering",
+        "wisdom"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

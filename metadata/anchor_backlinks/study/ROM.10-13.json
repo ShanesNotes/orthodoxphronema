@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "For 'whoever calls on the name of the LORD shall be saved.'",
   "pericope": {
     "id": "ROM.P027",
@@ -12,7 +12,9 @@
     "range": "ROM.10:13-10:17",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,14 +22,35 @@
       "line_number": 861,
       "raw_match": "[[ROM.10:13]]",
       "reference_type": "wikilink",
-      "context": "A people saved by the Lord are those who call upon His name ([[ROM.10:12]], [[ROM.10:13]]). His name is the Lord Jesus Christ."
+      "context": "A people saved by the Lord are those who call upon His name ([[ROM.10:12]], [[ROM.10:13]]). His name is the Lord Jesus Christ.",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/GEN_footnotes.md",
       "line_number": 222,
       "raw_match": "[[ROM.10:13]]",
       "reference_type": "wikilink",
-      "context": "In contrast to Cain's offspring, Seth's offspring, Enosh, hoped in the Lord and called on His name. For this is the way of salvation. \"Whoever calls on the name of the Lord shall be saved\" ([[JOL.2:32]]; [[ROM.10:13]])."
+      "context": "In contrast to Cain's offspring, Seth's offspring, Enosh, hoped in the Lord and called on His name. For this is the way of salvation. \"Whoever calls on the name of the Lord shall be saved\" ([[JOL.2:32]]; [[ROM.10:13]]).",
+      "edge_type": "opposes",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

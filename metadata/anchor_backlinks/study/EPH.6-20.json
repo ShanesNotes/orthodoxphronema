@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "for which I am an ambassador in chains; that in it I may speak boldly, as I ought to speak.",
   "pericope": {
     "id": "EPH.P019",
@@ -12,7 +12,11 @@
     "range": "EPH.6:17-6:24",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "israel_church",
+    "kingdom",
+    "suffering"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +24,21 @@
       "line_number": 26,
       "raw_match": "[[EPH.6:10]]-20",
       "reference_type": "wikilink_range",
-      "context": "The Lord commanded a census to be taken in Israel to draft an army for war. This census shows the militant nature of Israel in warfare. Israel was a type of the Church, \"the Israel of God\" ([[GAL.6:16]]; see [[ROM.2:28]], [[ROM.2:29]]), and the Church is also militant. However, the warfare of the Church is spiritual and evangelistic in nature ([[EPH.6:10]]-20). The spiritual enemies are the sinful passions, death, and the devil. Evangelism is to bring as many as will come into the kingdom of God and is to continue up to the end, when the kingdom will be fully established ([[MAT.24:14]])."
+      "context": "The Lord commanded a census to be taken in Israel to draft an army for war. This census shows the militant nature of Israel in warfare. Israel was a type of the Church, \"the Israel of God\" ([[GAL.6:16]]; see [[ROM.2:28]], [[ROM.2:29]]), and the Church is also militant. However, the warfare of the Church is spiritual and evangelistic in nature ([[EPH.6:10]]-20). The spiritual enemies are the sinful passions, death, and the devil. Evangelism is to bring as many as will come into the kingdom of God and is to continue up to the end, when the kingdom will be fully established ([[MAT.24:14]]).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "israel_church",
+        "kingdom",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

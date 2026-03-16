@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Then they took up stones to throw at Him; but Jesus hid Himself and went out of the temple, going through the midst of them, and so passed by.",
   "pericope": {
     "id": "JOH.P030",
@@ -12,7 +12,10 @@
     "range": "JOH.8:59-9:12",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "exodus_typology",
+    "temple"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 156,
       "raw_match": "[[JOH.8:57]]-59",
       "reference_type": "wikilink_range",
-      "context": "The name I AM the Existing One is the name for the Essence of God, which is one and undivided (AthanG, JohnDm). This Essence is like a boundless sea, containing all things yet not contained by anything. The Son is eternally begotten from the Essence of the Father. When Jesus said He was the Existing One, the Jews who were listening took up stones to stone Him, for they knew this passage in Exodus ([[JOH.8:57]]-59). He is acknowledged as the Existing One in every Vespers service of the Church."
+      "context": "The name I AM the Existing One is the name for the Essence of God, which is one and undivided (AthanG, JohnDm). This Essence is like a boundless sea, containing all things yet not contained by anything. The Son is eternally begotten from the Essence of the Father. When Jesus said He was the Existing One, the Jews who were listening took up stones to stone Him, for they knew this passage in Exodus ([[JOH.8:57]]-59). He is acknowledged as the Existing One in every Vespers service of the Church.",
+      "edge_type": "echoes",
+      "topic_threads": [
+        "exodus_typology",
+        "temple"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

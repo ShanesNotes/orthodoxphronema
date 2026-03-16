@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "not that He should offer Himself often, as the high priest enters the Most Holy Place every year with blood of another-",
   "pericope": {
     "id": "HEB.P021",
@@ -12,7 +12,15 @@
     "range": "HEB.9:22-9:27",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "kingdom",
+    "mercy",
+    "priesthood",
+    "resurrection",
+    "suffering",
+    "temple"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +28,25 @@
       "line_number": 247,
       "raw_match": "[[HEB.9:23]]-26",
       "reference_type": "wikilink_range",
-      "context": "To propitiate means \"to cover\" or \"to conciliate.\" Propitiation refers to the mercy seat in the tabernacle where God was enthroned among His people ([[EXO.25:17]]-22). Once a year, on the Day of Atonement, the blood of the sacrifice was liturgically sprinkled on the mercy seat in the holy of holies. This prefigured the covering of our sins and our reconciliation to God that was to come in Jesus Christ. Heaven holds the true mercy seat ([[HEB.9:23]]-26; 10:19-22), and Christ's blood was taken to heaven through His Passion, Resurrection, and Ascension, thus reconciling us to God once and for all."
+      "context": "To propitiate means \"to cover\" or \"to conciliate.\" Propitiation refers to the mercy seat in the tabernacle where God was enthroned among His people ([[EXO.25:17]]-22). Once a year, on the Day of Atonement, the blood of the sacrifice was liturgically sprinkled on the mercy seat in the holy of holies. This prefigured the covering of our sins and our reconciliation to God that was to come in Jesus Christ. Heaven holds the true mercy seat ([[HEB.9:23]]-26; 10:19-22), and Christ's blood was taken to heaven through His Passion, Resurrection, and Ascension, thus reconciling us to God once and for all.",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "kingdom",
+        "mercy",
+        "priesthood",
+        "resurrection",
+        "suffering",
+        "temple"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

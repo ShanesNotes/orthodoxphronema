@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Jesus said to him, 'Thomas, because you have seen Me, you have believed. Blessed are those who have not seen and yet have believed.'",
   "pericope": {
     "id": "JOH.P074",
@@ -12,7 +12,13 @@
     "range": "JOH.20:29-20:30",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "faith",
+    "mercy",
+    "repentance",
+    "suffering"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +26,23 @@
       "line_number": 1809,
       "raw_match": "[[JOH.20:29]]",
       "reference_type": "wikilink",
-      "context": "The two blind men greet Jesus as Lord, the common title for God, and Son of David, a title deeply associated with the Messiah. Even though Jesus knows what we want before we ask, He calls us to ask freely so that we might learn of His mercy. The Fathers also give a spiritual interpretation to this miracle, with the blind men symbolizing future generations who would come to faith only by hearing, without the benefit of seeing Christ in person (see [[JOH.20:29]]). Those who tried to silence the blind men are persecutors and tyrants who, in every generation, try to silence the Church. Nevertheless, under persecution, the Church all the more confesses Jesus Christ."
+      "context": "The two blind men greet Jesus as Lord, the common title for God, and Son of David, a title deeply associated with the Messiah. Even though Jesus knows what we want before we ask, He calls us to ask freely so that we might learn of His mercy. The Fathers also give a spiritual interpretation to this miracle, with the blind men symbolizing future generations who would come to faith only by hearing, without the benefit of seeing Christ in person (see [[JOH.20:29]]). Those who tried to silence the blind men are persecutors and tyrants who, in every generation, try to silence the Church. Nevertheless, under persecution, the Church all the more confesses Jesus Christ.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology",
+        "faith",
+        "mercy",
+        "repentance",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

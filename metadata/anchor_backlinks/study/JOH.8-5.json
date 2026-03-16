@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Now Moses, in the law, commanded us that such should be stoned. But what do You say?'",
   "pericope": {
     "id": "JOH.P025",
@@ -12,7 +12,11 @@
     "range": "JOH.7:53-8:11",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "logos",
+    "temple"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +24,21 @@
       "line_number": 19,
       "raw_match": "[[JOH.8:5]]",
       "reference_type": "wikilink",
-      "context": "The Lord who conversed with Moses in the tabernacle was the Word and Son of God, for He was the Lawgiver. Moses, in turn, gave His laws to Israel. The tabernacle was a type of the flesh the Son assumed in the womb of the Mother of God when He became incarnate ([[JOH.1:14]]). After His Incarnation, He also conversed with Moses on the Mount of Transfiguration ([[MAT.17:4]]). This conversation on the Mount calls to mind the talks between the two in the tabernacle. Although the Jews claimed He taught and worked contrary to the Law ([[JOH.8:5]], [[JOH.8:6]]; 9:29), the presence of Moses with Him on the Mount refutes this charge."
+      "context": "The Lord who conversed with Moses in the tabernacle was the Word and Son of God, for He was the Lawgiver. Moses, in turn, gave His laws to Israel. The tabernacle was a type of the flesh the Son assumed in the womb of the Mother of God when He became incarnate ([[JOH.1:14]]). After His Incarnation, He also conversed with Moses on the Mount of Transfiguration ([[MAT.17:4]]). This conversation on the Mount calls to mind the talks between the two in the tabernacle. Although the Jews claimed He taught and worked contrary to the Law ([[JOH.8:5]], [[JOH.8:6]]; 9:29), the presence of Moses with Him on the Mount refutes this charge.",
+      "edge_type": "echoes",
+      "topic_threads": [
+        "christology",
+        "logos",
+        "temple"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

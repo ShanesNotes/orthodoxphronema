@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Yet I certainly did not mean with the sexually immoral people of this world, or with the covetous, or extortioners, or idolaters, since then you would need to go out of the world.",
   "pericope": {
     "id": "1CO.P013",
@@ -20,7 +20,16 @@
       "line_number": 111,
       "raw_match": "[[1CO.5:1]]-13",
       "reference_type": "wikilink_range",
-      "context": "Good theology helps us along the path to good behavior. Although the truth stands firm and unalterable and cannot tolerate the false (see [[1CO.5:1]]-13; [[2CO.6:14]]-18), it instills a reasonable patience and gentleness toward all, especially toward false teachers --while not losing sight of the fact that they are enemies and to be avoided (3:5)."
+      "context": "Good theology helps us along the path to good behavior. Although the truth stands firm and unalterable and cannot tolerate the false (see [[1CO.5:1]]-13; [[2CO.6:14]]-18), it instills a reasonable patience and gentleness toward all, especially toward false teachers --while not losing sight of the fact that they are enemies and to be avoided (3:5).",
+      "edge_type": "instantiates",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

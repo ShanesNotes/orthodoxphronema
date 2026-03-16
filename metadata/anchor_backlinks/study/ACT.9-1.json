@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Then Saul, still breathing threats and murder against the disciples of the Lord, went to the high priest",
   "pericope": {
     "id": "ACT.P029",
@@ -12,7 +12,14 @@
     "range": "ACT.8:40-9:17",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "baptism",
+    "christology",
+    "creation_theology",
+    "exodus_typology",
+    "priesthood",
+    "suffering"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,21 +27,62 @@
       "line_number": 35,
       "raw_match": "[[ACT.9:1]]-3",
       "reference_type": "wikilink_range",
-      "context": "Paul, as a former rebel toward God and persecutor of the Church ([[ACT.9:1]]-3), gives glory to God for his calling as an apostle. Throughout the OT and NT and church history, the greatest sinners have often become most notable saints (Moses, Rahab, David, Photini--the woman at the well, Matthew, Paul, St. Mary of Egypt)."
+      "context": "Paul, as a former rebel toward God and persecutor of the Church ([[ACT.9:1]]-3), gives glory to God for his calling as an apostle. Throughout the OT and NT and church history, the greatest sinners have often become most notable saints (Moses, Rahab, David, Photini--the woman at the well, Matthew, Paul, St. Mary of Egypt).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "exodus_typology",
+        "priesthood"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/NT/COL_footnotes.md",
       "line_number": 94,
       "raw_match": "[[ACT.9:1]]",
       "reference_type": "wikilink",
-      "context": "Christ and the Church are so intimately united that, as we suffer and die with Him (beginning at baptism), so Christ suffers with us in our work of reconciliation. (See Mt 25:40; [[LUK.10:16]]; [[JOH.15:18]]-21; [[ACT.9:1]], [[ACT.9:4]], [[ACT.9:5]]; [[ROM.8:17]]; [[2CO.1:5]]; 4:10; [[PHP.1:20]]; 3:10.)"
+      "context": "Christ and the Church are so intimately united that, as we suffer and die with Him (beginning at baptism), so Christ suffers with us in our work of reconciliation. (See Mt 25:40; [[LUK.10:16]]; [[JOH.15:18]]-21; [[ACT.9:1]], [[ACT.9:4]], [[ACT.9:5]]; [[ROM.8:17]]; [[2CO.1:5]]; 4:10; [[PHP.1:20]]; 3:10.)",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "baptism",
+        "christology",
+        "creation_theology",
+        "priesthood",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/JOB_footnotes.md",
       "line_number": 405,
       "raw_match": "[[ACT.9:1]]-12",
       "reference_type": "wikilink_range",
-      "context": "\"Oh what a spoil did the Church take from the mouth of the devil, when, by converting, she carried off Saul himself, the spoiler!\" (GrgGt; see [[ACT.9:1]]-12)."
+      "context": "\"Oh what a spoil did the Church take from the mouth of the devil, when, by converting, she carried off Saul himself, the spoiler!\" (GrgGt; see [[ACT.9:1]]-12).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "priesthood"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "But if the man does not want to take his brother's wife, then let his brother's wife go up to the gate to the elders, and say, 'My husband's brother does not want to raise up the name of his brother in Israel; my husband's brother did not wish to do so.'",
   "pericope": {
     "id": "DEU.P054",
@@ -12,7 +12,9 @@
     "range": "DEU.25:4-25:9",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "covenant"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 150,
       "raw_match": "[[DEU.25:5]]-10",
       "reference_type": "wikilink_range",
-      "context": "The kinsman is Ruth's relative who is unwilling to redeem her (4:1-6). This unnamed man represents the Old Testament Law, which was incapable of redeeming mankind. Boaz will allow this kinsman the first opportunity to redeem Ruth; if he will not do it, Boaz himself will. For in Jewish tradition, the brother or closest relative marries his deceased brother's widow ([[DEU.25:5]]-10). In the same way, God Himself redeemed His people when the Law had failed."
+      "context": "The kinsman is Ruth's relative who is unwilling to redeem her (4:1-6). This unnamed man represents the Old Testament Law, which was incapable of redeeming mankind. Boaz will allow this kinsman the first opportunity to redeem Ruth; if he will not do it, Boaz himself will. For in Jewish tradition, the brother or closest relative marries his deceased brother's widow ([[DEU.25:5]]-10). In the same way, God Himself redeemed His people when the Law had failed.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "covenant"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

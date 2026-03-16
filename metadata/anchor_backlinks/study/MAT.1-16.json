@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "And Jacob begot Joseph the husband of Mary, of whom was born Jesus who is called Christ.",
   "pericope": {
     "id": "MAT.P001",
@@ -12,7 +12,9 @@
     "range": "MAT.1:1-1:24",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 549,
       "raw_match": "[[MAT.1:16]]",
       "reference_type": "wikilink",
-      "context": "This law explains how Joseph (the foster father of Jesus) could have two fathers, as recorded in the two genealogies of Jesus. In Luke's record of the genealogy, Joseph's father was Heli ([[LUK.3:23]]). Heli was his legal father, for he died childless. Jacob, his brother by the same mother, raised up seed for him. This seed was Joseph, according to Matthew's genealogy ([[MAT.1:16]]). Thus, Jacob was Joseph's natural father (JohnDm)."
+      "context": "This law explains how Joseph (the foster father of Jesus) could have two fathers, as recorded in the two genealogies of Jesus. In Luke's record of the genealogy, Joseph's father was Heli ([[LUK.3:23]]). Heli was his legal father, for he died childless. Jacob, his brother by the same mother, raised up seed for him. This seed was Joseph, according to Matthew's genealogy ([[MAT.1:16]]). Thus, Jacob was Joseph's natural father (JohnDm).",
+      "edge_type": "ascends_from",
+      "topic_threads": [
+        "christology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "If, then, I do what I will not to do, I agree with the law that it is good.",
   "pericope": {
     "id": "ROM.P016",
@@ -12,7 +12,11 @@
     "range": "ROM.7:12-7:25",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "baptism",
+    "christology",
+    "israel_church"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,14 +24,39 @@
       "line_number": 28,
       "raw_match": "[[ROM.7:16]]",
       "reference_type": "wikilink",
-      "context": "The law is good because God gave it ([[ROM.7:16]]). It was a schoolmaster for God's chosen people, to confront and control their sin until the Incarnation of His Son fulfills it; and a guide to lead all people to Christ."
+      "context": "The law is good because God gave it ([[ROM.7:16]]). It was a schoolmaster for God's chosen people, to confront and control their sin until the Incarnation of His Son fulfills it; and a guide to lead all people to Christ.",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "israel_church"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/JOB_footnotes.md",
       "line_number": 370,
       "raw_match": "[[ROM.7:13]]-25",
       "reference_type": "wikilink_range",
-      "context": "\"Everyone who avoids the light loves darkness, seeking to be hidden, though he cannot be hidden from God\" (AmbM). 25:4 \"Every just man is just by illumination from God, not by comparison with God\" (GrgGt). 26:1, 2 Is it possible for a man to help God? St. Gregory gives a qualified \"yes.\" Relating this passage to [[1CO.3:7]], he writes, \"For to 'plant' and to 'water' is to 'help,' both of which would be only a void ministration if God does not give the increase in the heart.\" 26:14 \"If we can hardly endure the wonders of His humility, with what nerve do we encounter the loud and dreadful advent of His Majesty?\" (GrgGt; see [[PSA.49:3]]). 27:3 \"He signifies here the nostrils of his inner man, with which he gathered the odor of eternal life, and drew in the grace of the heavenly ointment by a twofold sense, as it were\" (AmbM). 27:6 How can Job say that he has not done anything wrong, considering that he accuses himself of having sinned (7:20; 9:20)? Because even righteous men find it difficult to avoid involuntary sin (see 14:17-22 and note; [[ROM.7:13]]-25 and notes). \"For what man's heart, bound up with this corruptible flesh, does not slip in ill-bent thought?... But when there is a resisting of the thought, the soul is freed from being confounded. And so the mind of the righteous, even though it is free from bad practice, yet sometimes falls to the ground in bad thinking\" (GrgGt). 27:12 Compare with [[JAS.4:17]]."
+      "context": "\"Everyone who avoids the light loves darkness, seeking to be hidden, though he cannot be hidden from God\" (AmbM). 25:4 \"Every just man is just by illumination from God, not by comparison with God\" (GrgGt). 26:1, 2 Is it possible for a man to help God? St. Gregory gives a qualified \"yes.\" Relating this passage to [[1CO.3:7]], he writes, \"For to 'plant' and to 'water' is to 'help,' both of which would be only a void ministration if God does not give the increase in the heart.\" 26:14 \"If we can hardly endure the wonders of His humility, with what nerve do we encounter the loud and dreadful advent of His Majesty?\" (GrgGt; see [[PSA.49:3]]). 27:3 \"He signifies here the nostrils of his inner man, with which he gathered the odor of eternal life, and drew in the grace of the heavenly ointment by a twofold sense, as it were\" (AmbM). 27:6 How can Job say that he has not done anything wrong, considering that he accuses himself of having sinned (7:20; 9:20)? Because even righteous men find it difficult to avoid involuntary sin (see 14:17-22 and note; [[ROM.7:13]]-25 and notes). \"For what man's heart, bound up with this corruptible flesh, does not slip in ill-bent thought?... But when there is a resisting of the thought, the soul is freed from being confounded. And so the mind of the righteous, even though it is free from bad practice, yet sometimes falls to the ground in bad thinking\" (GrgGt). 27:12 Compare with [[JAS.4:17]].",
+      "edge_type": "witnesses",
+      "topic_threads": [
+        "baptism"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

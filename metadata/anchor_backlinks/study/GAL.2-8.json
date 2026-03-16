@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "(for He who worked effectively in Peter for the apostleship to the circumcised also worked effectively in me toward the Gentiles),",
   "pericope": {
     "id": "GAL.P005",
@@ -12,7 +12,11 @@
     "range": "GAL.1:24-2:9",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "covenant",
+    "resurrection"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +24,21 @@
       "line_number": 877,
       "raw_match": "[[GAL.2:2]]-10",
       "reference_type": "wikilink_range",
-      "context": "Paul delivered an apostolic tradition of Christ's Resurrection which is unchanging and sufficient for salvation (v. 2). How had Paul received his gospel? By direct experience with the risen Lord (v. 8), confirmed by his interactions with the original apostles ([[GAL.2:2]]-10) and the whole Church. It is impossible to decipher what he learned where; in Paul's mind, his gospel forms a seamless whole. \"To receive\" designates the passing on of tradition (see 11:2, 23; [[GAL.1:9]]; [[PHP.4:9]]; [[1TH.2:13]]; 4:1). 15:3-4 This concise statement of the gospel is probably part of an early creed or catechism. (See [[PSA.16:9]]-12; [[GAL.1:4]]; [[1JN.2:2]]; 4:10.)"
+      "context": "Paul delivered an apostolic tradition of Christ's Resurrection which is unchanging and sufficient for salvation (v. 2). How had Paul received his gospel? By direct experience with the risen Lord (v. 8), confirmed by his interactions with the original apostles ([[GAL.2:2]]-10) and the whole Church. It is impossible to decipher what he learned where; in Paul's mind, his gospel forms a seamless whole. \"To receive\" designates the passing on of tradition (see 11:2, 23; [[GAL.1:9]]; [[PHP.4:9]]; [[1TH.2:13]]; 4:1). 15:3-4 This concise statement of the gospel is probably part of an early creed or catechism. (See [[PSA.16:9]]-12; [[GAL.1:4]]; [[1JN.2:2]]; 4:10.)",
+      "edge_type": "ascends_from",
+      "topic_threads": [
+        "christology",
+        "covenant",
+        "resurrection"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

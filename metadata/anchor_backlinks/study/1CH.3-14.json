@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Amon his son, and Josiah his son.",
   "pericope": {
     "id": "1CH.P012",
@@ -20,7 +20,16 @@
       "line_number": 165,
       "raw_match": "[[1CH.3:14]]",
       "reference_type": "wikilink",
-      "context": "Contact with the holy was fatal. When Uzzah placed his hand on the ark to steady it, he died. David is fearful lest the ark enter Jerusalem. Instead, it is placed in the house of Obed-Edom (Abedarra), a Philistine loyal to David, for three months. ObedEdom means literally, \"servant of Edom\" (see [[1CH.3:13]], [[1CH.3:14]]). His house and all his possessions are blessed by the presence of the ark."
+      "context": "Contact with the holy was fatal. When Uzzah placed his hand on the ark to steady it, he died. David is fearful lest the ark enter Jerusalem. Instead, it is placed in the house of Obed-Edom (Abedarra), a Philistine loyal to David, for three months. ObedEdom means literally, \"servant of Edom\" (see [[1CH.3:13]], [[1CH.3:14]]). His house and all his possessions are blessed by the presence of the ark.",
+      "edge_type": "instantiates",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

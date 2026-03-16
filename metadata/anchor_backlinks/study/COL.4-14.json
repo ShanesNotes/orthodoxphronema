@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Luke the beloved physician and Demas greet you.",
   "pericope": {
     "id": "COL.P013",
@@ -12,7 +12,10 @@
     "range": "COL.4:6-4:18",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "praise",
+    "repentance"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 171,
       "raw_match": "[[COL.4:14]]",
       "reference_type": "wikilink",
-      "context": "Demas provides a sobering footnote to Paul's ministry. He was Paul's companion in Rome, his co-laborer in apostleship, and a close friend of Luke ([[COL.4:14]]; Phm 24). Yet Demas--after these great and glorious years of service with the Apostle--forsook Paul, having loved this present world. It is in the face of tragedies such as this that the Scriptures, the Fathers, the prayers and hymns of the Church together call us repeatedly to a life of humility and repentance--that we should not think of ourselves more highly than we ought."
+      "context": "Demas provides a sobering footnote to Paul's ministry. He was Paul's companion in Rome, his co-laborer in apostleship, and a close friend of Luke ([[COL.4:14]]; Phm 24). Yet Demas--after these great and glorious years of service with the Apostle--forsook Paul, having loved this present world. It is in the face of tragedies such as this that the Scriptures, the Fathers, the prayers and hymns of the Church together call us repeatedly to a life of humility and repentance--that we should not think of ourselves more highly than we ought.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "praise",
+        "repentance"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

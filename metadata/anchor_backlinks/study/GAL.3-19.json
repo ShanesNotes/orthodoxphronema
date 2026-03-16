@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "What purpose then does the law serve? It was added because of transgressions, till the Seed should come to whom the promise was made; and it was appointed through angels by the hand of a mediator.",
   "pericope": {
     "id": "GAL.P012",
@@ -12,7 +12,9 @@
     "range": "GAL.3:18-3:24",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 969,
       "raw_match": "[[GAL.3:19]]-22",
       "reference_type": "wikilink_range",
-      "context": "Our basic mortal condition is manifested in sin. We are born mortal; we then become sinful. Thus does death \"sting\" us before we die. Being a Christian is more than having one's sins forgiven or being good; it is being alive. The law is not sinful, but it exposes sin. And, since it does not provide the power to obey it, it increases sinfulness in unchanged humans ([[ROM.3:20]]; 4:15; 5:13, 20; 7:7; [[GAL.3:19]]-22)."
+      "context": "Our basic mortal condition is manifested in sin. We are born mortal; we then become sinful. Thus does death \"sting\" us before we die. Being a Christian is more than having one's sins forgiven or being good; it is being alive. The law is not sinful, but it exposes sin. And, since it does not provide the power to obey it, it increases sinfulness in unchanged humans ([[ROM.3:20]]; 4:15; 5:13, 20; 7:7; [[GAL.3:19]]-22).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

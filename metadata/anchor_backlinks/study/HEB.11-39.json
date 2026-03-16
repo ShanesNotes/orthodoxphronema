@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "And all these, having obtained a good testimony through faith, did not receive the promise,",
   "pericope": {
     "id": "HEB.P032",
@@ -12,7 +12,10 @@
     "range": "HEB.11:37-11:39",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "faith"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,14 +23,39 @@
       "line_number": 569,
       "raw_match": "[[HEB.11:39]]",
       "reference_type": "wikilink",
-      "context": "Israel promised to keep the Law of Moses with all their heart and with all their soul. This was a genuine possibility from the standpoint of the Law itself, but it was an impossibility when considering their heart and soul. They simply did not have the heart to follow through, for man's willpower alone could not fulfill the Law's requirements. Therefore, the fault for not keeping it made them guilty. Furthermore, the Law itself had an inherent weakness. It could not give them divine power to help their willpower fulfill it. So the Law pointed them to Christ as the solution to their dilemma, for He is \"the end of the Law for righteousness to everyone who believes\" ([[ROM.10:4]]). Those under the Law who believed in this \"end\" would be made complete by His Incarnation ([[HEB.11:39]], [[HEB.11:40]])."
+      "context": "Israel promised to keep the Law of Moses with all their heart and with all their soul. This was a genuine possibility from the standpoint of the Law itself, but it was an impossibility when considering their heart and soul. They simply did not have the heart to follow through, for man's willpower alone could not fulfill the Law's requirements. Therefore, the fault for not keeping it made them guilty. Furthermore, the Law itself had an inherent weakness. It could not give them divine power to help their willpower fulfill it. So the Law pointed them to Christ as the solution to their dilemma, for He is \"the end of the Law for righteousness to everyone who believes\" ([[ROM.10:4]]). Those under the Law who believed in this \"end\" would be made complete by His Incarnation ([[HEB.11:39]], [[HEB.11:40]]).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "faith"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/EST_footnotes.md",
       "line_number": 89,
       "raw_match": "[[HEB.11:39]]",
       "reference_type": "wikilink",
-      "context": "The good will of Mordecai was recorded, but not yet rewarded. Faithfulness to God is never forgotten by the Lord, even if it appears to go unnoticed ([[HEB.6:10]]). The true reward is glorification, not in this life, but in the Kingdom to come ([[HEB.11:39]], [[HEB.11:40]])."
+      "context": "The good will of Mordecai was recorded, but not yet rewarded. Faithfulness to God is never forgotten by the Lord, even if it appears to go unnoticed ([[HEB.6:10]]). The true reward is glorification, not in this life, but in the Kingdom to come ([[HEB.11:39]], [[HEB.11:40]]).",
+      "edge_type": "ascends_from",
+      "topic_threads": [
+        "faith"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

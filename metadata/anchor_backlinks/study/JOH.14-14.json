@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "If you ask anything in My name, I will do it.",
   "pericope": {
     "id": "JOH.P052",
@@ -12,7 +12,9 @@
     "range": "JOH.14:14-14:16",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,14 +22,35 @@
       "line_number": 1093,
       "raw_match": "[[JOH.14:14]]",
       "reference_type": "wikilink",
-      "context": "In Greek, the verbs rendered ask, seek, and knock imply a continuing action and are better translated, \"keep asking,\" \"keep seeking,\" and \"keep knocking.\" God responds when we persistently ask for things that are good. Bread, fish, and an egg are all images of life and symbolize the gift of the Holy Spirit (see [[JOH.14:13]], [[JOH.14:14]]; [[JAS.4:3]])."
+      "context": "In Greek, the verbs rendered ask, seek, and knock imply a continuing action and are better translated, \"keep asking,\" \"keep seeking,\" and \"keep knocking.\" God responds when we persistently ask for things that are good. Bread, fish, and an egg are all images of life and symbolize the gift of the Holy Spirit (see [[JOH.14:13]], [[JOH.14:14]]; [[JAS.4:3]]).",
+      "edge_type": "instantiates",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 9,
+        "title": "Example: The Cherubim of Ezekiel I",
+        "polarity": "generation",
+        "operation": "inform",
+        "scale": "intercommunal"
+      }
     },
     {
       "source_file": "study/footnotes/OT/1ES_footnotes.md",
       "line_number": 140,
       "raw_match": "[[JOH.14:14]]",
       "reference_type": "wikilink",
-      "context": "Ask what you will: As the Father gives all things to the Son, so Christ gives all things to those who ask according to His will ([[MAT.21:22]]; [[JOH.14:14]]; [[1JN.5:15]])."
+      "context": "Ask what you will: As the Father gives all things to the Son, so Christ gives all things to those who ask according to His will ([[MAT.21:22]]; [[JOH.14:14]]; [[1JN.5:15]]).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

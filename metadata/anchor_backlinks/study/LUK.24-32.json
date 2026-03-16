@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "And they said to one another, 'Did not our heart burn within us while He talked with us on the road, and while He opened the Scriptures to us?'",
   "pericope": {
     "id": "LUK.P121",
@@ -12,7 +12,9 @@
     "range": "LUK.23:56-24:53",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 202,
       "raw_match": "[[LUK.24:32]]",
       "reference_type": "wikilink",
-      "context": "That the hearers of the law were inspired by the words of the Scriptures brings to mind the response of the disciples (\"Did not our heart burn within us?\") as the Lord Jesus Christ opened to them the Holy Scriptures ([[LUK.24:32]])."
+      "context": "That the hearers of the law were inspired by the words of the Scriptures brings to mind the response of the disciples (\"Did not our heart burn within us?\") as the Lord Jesus Christ opened to them the Holy Scriptures ([[LUK.24:32]]).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

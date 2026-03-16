@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "But all these things they will do to you for My name's sake, because they do not know Him who sent Me.",
   "pericope": {
     "id": "JOH.P056",
@@ -12,7 +12,14 @@
     "range": "JOH.15:17-16:4",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "baptism",
+    "christology",
+    "creation_theology",
+    "exodus_typology",
+    "israel_church",
+    "suffering"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,14 +27,43 @@
       "line_number": 94,
       "raw_match": "[[JOH.15:18]]-21",
       "reference_type": "wikilink_range",
-      "context": "Christ and the Church are so intimately united that, as we suffer and die with Him (beginning at baptism), so Christ suffers with us in our work of reconciliation. (See Mt 25:40; [[LUK.10:16]]; [[JOH.15:18]]-21; [[ACT.9:1]], [[ACT.9:4]], [[ACT.9:5]]; [[ROM.8:17]]; [[2CO.1:5]]; 4:10; [[PHP.1:20]]; 3:10.)"
+      "context": "Christ and the Church are so intimately united that, as we suffer and die with Him (beginning at baptism), so Christ suffers with us in our work of reconciliation. (See Mt 25:40; [[LUK.10:16]]; [[JOH.15:18]]-21; [[ACT.9:1]], [[ACT.9:4]], [[ACT.9:5]]; [[ROM.8:17]]; [[2CO.1:5]]; 4:10; [[PHP.1:20]]; 3:10.)",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "baptism",
+        "christology",
+        "creation_theology",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/NT/REV_footnotes.md",
       "line_number": 1076,
       "raw_match": "[[JOH.15:21]]",
       "reference_type": "wikilink",
-      "context": "Satan hates Christ and His mother. The Virgin Mary was saved by the inspiration of the angel who told Joseph to run into Egypt. Likewise, Satan hates Christ and the Church ([[JOH.15:21]]) and attacks the one through the other, since they are identified. One of his first activities is to persecute true Israel. The wings of a great eagle (v. 14) refers to the original Exodus ([[EXO.19:4]]; see [[DEU.32:11]]), as the flood (vv. 15, 16) may also be the threat of drowning in the Red Sea. However, Satan is unable to prevail. The Jewish Church safely completes its exodus and is preserved during its apocalyptic period. And the Church in general will be preserved: the gates of hell cannot prevail against her (Mt 16:18). For Jesus' warnings about this flight, see [[MAT.24:15]]-21."
+      "context": "Satan hates Christ and His mother. The Virgin Mary was saved by the inspiration of the angel who told Joseph to run into Egypt. Likewise, Satan hates Christ and the Church ([[JOH.15:21]]) and attacks the one through the other, since they are identified. One of his first activities is to persecute true Israel. The wings of a great eagle (v. 14) refers to the original Exodus ([[EXO.19:4]]; see [[DEU.32:11]]), as the flood (vv. 15, 16) may also be the threat of drowning in the Red Sea. However, Satan is unable to prevail. The Jewish Church safely completes its exodus and is preserved during its apocalyptic period. And the Church in general will be preserved: the gates of hell cannot prevail against her (Mt 16:18). For Jesus' warnings about this flight, see [[MAT.24:15]]-21.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology",
+        "exodus_typology",
+        "israel_church"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

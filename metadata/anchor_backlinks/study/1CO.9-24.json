@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Do you not know that those who run in arace all run, but one receives the prize? Run in such away that you may obtain it.",
   "pericope": {
     "id": "1CO.P022",
@@ -12,7 +12,15 @@
     "range": "1CO.9:23-9:26",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "covenant",
+    "divine_word",
+    "faith",
+    "logos",
+    "priesthood",
+    "temple"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,28 +28,76 @@
       "line_number": 181,
       "raw_match": "[[1CO.9:24]]-27",
       "reference_type": "wikilink_range",
-      "context": "Paul is no stranger to physical exercise and its benefits (see [[1CO.9:24]]-27), but he prefers spiritual exercise, for it leads to life eternal."
+      "context": "Paul is no stranger to physical exercise and its benefits (see [[1CO.9:24]]-27), but he prefers spiritual exercise, for it leads to life eternal.",
+      "edge_type": "instantiates",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 7,
+        "title": "Symbolism and the Spiritual Worldview",
+        "polarity": "luminosity",
+        "operation": "eat",
+        "scale": "individual"
+      }
     },
     {
       "source_file": "study/footnotes/NT/2TI_footnotes.md",
       "line_number": 165,
       "raw_match": "[[1CO.9:24]]-27",
       "reference_type": "wikilink_range",
-      "context": "The race is the life and work that God gave Paul. The comparison of the spiritual life to an athletic contest (see [[1CO.9:24]]-27) is common in the writings of the ascetic Fathers."
+      "context": "The race is the life and work that God gave Paul. The comparison of the spiritual life to an athletic contest (see [[1CO.9:24]]-27) is common in the writings of the ascetic Fathers.",
+      "edge_type": "instantiates",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/SNG_footnotes.md",
       "line_number": 46,
       "raw_match": "[[1CO.9:24]]",
       "reference_type": "wikilink",
-      "context": "The Church here is in the plural we because she is made up of a multitude of faithful souls. This is a clear statement of the principle of synergy: we will run after Christ, something which He Himself helps us to do, for apart from Him we can do nothing (Jn 15:5). However, we run wholeheartedly ([[1CO.9:24]]). The Church is the house of a king, a vast palace, but those who enter into her mysteries are those who have been brought into the inner chamber ([[2CO.12:4]])."
+      "context": "The Church here is in the plural we because she is made up of a multitude of faithful souls. This is a clear statement of the principle of synergy: we will run after Christ, something which He Himself helps us to do, for apart from Him we can do nothing (Jn 15:5). However, we run wholeheartedly ([[1CO.9:24]]). The Church is the house of a king, a vast palace, but those who enter into her mysteries are those who have been brought into the inner chamber ([[2CO.12:4]]).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/ZEC_footnotes.md",
       "line_number": 293,
       "raw_match": "[[1CO.9:24]]-27",
       "reference_type": "wikilink_range",
-      "context": "Zechariah is commanded by the word of the Lord to collect gifts from the rulers and useful men of captivity into the house of Josiah and place these gifts of gold, silver, and crowns at the feet of Joshua the high priest. The promise is made that the crown goes to the one who endured. Others then shall come to rebuild the temple. In the New Testament, crowns are cast at the feet of Jesus Christ the Great High Priest (Rev 4:10). St. Paul promises crowns to believers who endure ([[1CO.9:24]]-27)."
+      "context": "Zechariah is commanded by the word of the Lord to collect gifts from the rulers and useful men of captivity into the house of Josiah and place these gifts of gold, silver, and crowns at the feet of Joshua the high priest. The promise is made that the crown goes to the one who endured. Others then shall come to rebuild the temple. In the New Testament, crowns are cast at the feet of Jesus Christ the Great High Priest (Rev 4:10). St. Paul promises crowns to believers who endure ([[1CO.9:24]]-27).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "covenant",
+        "divine_word",
+        "faith",
+        "logos",
+        "priesthood",
+        "temple"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

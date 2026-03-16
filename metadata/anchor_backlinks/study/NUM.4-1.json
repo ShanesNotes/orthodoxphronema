@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Then the Lord spoke to Moses and Aaron, saying,",
   "pericope": {
     "id": "NUM.P007",
@@ -12,7 +12,12 @@
     "range": "NUM.3:51-4:19",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "covenant",
+    "priesthood",
+    "temple"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +25,22 @@
       "line_number": 118,
       "raw_match": "[[NUM.4:1]]",
       "reference_type": "wikilink",
-      "context": "[[NUM.4:1]], [[NUM.4:16]], [[NUM.4:29]]: Gershom, Kohath, and Merari were the sons of Levi ([[EXO.6:16]]). Their lineage, in turn, would be assigned as the liturgical ministers of the tabernacle. The Scripture refers to the tabernacle and its liturgical service of worship by various words, all of which show the temporal nature of this worship. These Scripture passages are as follows: [[EXO.25:40]] (also quoted in [[HEB.8:5]]): \"See to it that you make [all things] according to the pattern shown you on the mountain.\" [[HEB.8:5]]: \"[The priests] serve the copy and shadow of the heavenly things.\" [[HEB.9:23]]: \"Therefore it was necessary that the copies of the things in the heavens should be purified with these.\" [[HEB.9:9]]: \"It was symbolic for the present time in which both gifts and sacrifices are offered.\" [[HEB.9:24]]: \"For Christ has not entered the holy places made with hands, which are copies of the true, but into heaven itself, now to appear in the presence of God for us.\" [[HEB.10:1]]: \"For the law, having a shadow of the good things to come...\" [[HEB.11:19]]: \"... from which [Abraham] also received [Isaac] in a figurative sense.\" The various words therefore are \"pattern,\" \"copy,\" \"shadow,\" \"figure,\" and \"symbol,\" all of which carry the same meaning, namely, one level of reality that represents and is fulfilled in another and greater level. Therefore, the Old Testament liturgical service of worship was temporal in nature, and is fulfilled in the greater reality of the Church's liturgical worship. Liturgical worship in the Church is called \"heaven on earth,\" for it fulfills the types."
+      "context": "[[NUM.4:1]], [[NUM.4:16]], [[NUM.4:29]]: Gershom, Kohath, and Merari were the sons of Levi ([[EXO.6:16]]). Their lineage, in turn, would be assigned as the liturgical ministers of the tabernacle. The Scripture refers to the tabernacle and its liturgical service of worship by various words, all of which show the temporal nature of this worship. These Scripture passages are as follows: [[EXO.25:40]] (also quoted in [[HEB.8:5]]): \"See to it that you make [all things] according to the pattern shown you on the mountain.\" [[HEB.8:5]]: \"[The priests] serve the copy and shadow of the heavenly things.\" [[HEB.9:23]]: \"Therefore it was necessary that the copies of the things in the heavens should be purified with these.\" [[HEB.9:9]]: \"It was symbolic for the present time in which both gifts and sacrifices are offered.\" [[HEB.9:24]]: \"For Christ has not entered the holy places made with hands, which are copies of the true, but into heaven itself, now to appear in the presence of God for us.\" [[HEB.10:1]]: \"For the law, having a shadow of the good things to come...\" [[HEB.11:19]]: \"... from which [Abraham] also received [Isaac] in a figurative sense.\" The various words therefore are \"pattern,\" \"copy,\" \"shadow,\" \"figure,\" and \"symbol,\" all of which carry the same meaning, namely, one level of reality that represents and is fulfilled in another and greater level. Therefore, the Old Testament liturgical service of worship was temporal in nature, and is fulfilled in the greater reality of the Church's liturgical worship. Liturgical worship in the Church is called \"heaven on earth,\" for it fulfills the types.",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "covenant",
+        "priesthood",
+        "temple"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

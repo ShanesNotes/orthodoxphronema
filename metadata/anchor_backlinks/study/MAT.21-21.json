@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "So Jesus answered and said to them, 'Assuredly, I say to you, if you have faith and do not doubt, you will not only do what was done to the fig tree, but also if you say to this mountain, 'Be removed and be cast into the sea,' it will be done.",
   "pericope": {
     "id": "MAT.P069",
@@ -12,7 +12,9 @@
     "range": "MAT.20:34-21:27",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "faith"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 1577,
       "raw_match": "[[MAT.21:21]]",
       "reference_type": "wikilink",
-      "context": "Here, the mulberry tree is symbolic of the devil's works. It is on the leaf of this tree that silkworms feed, worms being an image of hell ([[MRK.9:42]]-48). This patristic interpretation is confirmed by numerous scriptural images of evil being destroyed in the sea (8:33; [[EXO.14:27]]; [[MAT.21:21]]; [[REV.20:10]])."
+      "context": "Here, the mulberry tree is symbolic of the devil's works. It is on the leaf of this tree that silkworms feed, worms being an image of hell ([[MRK.9:42]]-48). This patristic interpretation is confirmed by numerous scriptural images of evil being destroyed in the sea (8:33; [[EXO.14:27]]; [[MAT.21:21]]; [[REV.20:10]]).",
+      "edge_type": "witnesses",
+      "topic_threads": [
+        "faith"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

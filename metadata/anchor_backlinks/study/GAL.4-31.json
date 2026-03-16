@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "So then, brethren, we are not children of the bondwoman but of the free.",
   "pericope": {
     "id": "GAL.P017",
@@ -12,7 +12,11 @@
     "range": "GAL.4:31-5:5",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "covenant",
+    "israel_church",
+    "prayer"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,14 +24,39 @@
       "line_number": 537,
       "raw_match": "[[GAL.4:21]]-31",
       "reference_type": "wikilink_range",
-      "context": "In [[GAL.4:21]]-31, St. Paul uses Hagar and Sarah as an allegory, representing two covenants. Hagar and Ishmael represent the old covenant of the Law, which \"gives birth to bondage.\" Sarah and Isaac represent the new covenant, which gives birth to freedom. The Jerusalem below is made up of those under the bondage of the Law, but the Jerusalem above is the Church, those under the freedom of God's grace."
+      "context": "In [[GAL.4:21]]-31, St. Paul uses Hagar and Sarah as an allegory, representing two covenants. Hagar and Ishmael represent the old covenant of the Law, which \"gives birth to bondage.\" Sarah and Isaac represent the new covenant, which gives birth to freedom. The Jerusalem below is made up of those under the bondage of the Law, but the Jerusalem above is the Church, those under the freedom of God's grace.",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "covenant"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/SIR_footnotes.md",
       "line_number": 1097,
       "raw_match": "[[GAL.4:21]]-31",
       "reference_type": "wikilink_range",
-      "context": "Though this prayer was for Israel, it was also for all on earth. Thus, the Church has become the New Jerusalem, the new Zion, the new nation in which the OT prophecies are fulfilled (see [[ROM.3:29]]-31; 4:13-16; [[GAL.4:21]]-31; all of Hebrews but especially 12:18-29; [[1PE.2:4]]-10; [[REV.21:9]]-27)."
+      "context": "Though this prayer was for Israel, it was also for all on earth. Thus, the Church has become the New Jerusalem, the new Zion, the new nation in which the OT prophecies are fulfilled (see [[ROM.3:29]]-31; 4:13-16; [[GAL.4:21]]-31; all of Hebrews but especially 12:18-29; [[1PE.2:4]]-10; [[REV.21:9]]-27).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "israel_church",
+        "prayer"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

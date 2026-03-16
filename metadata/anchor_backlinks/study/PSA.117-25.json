@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "O Lord, save us now; O Lord, prosper us now.",
   "pericope": {
     "id": "PSA.P117",
@@ -12,7 +12,9 @@
     "range": "PSA.117:1-117:29",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "temple"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 1843,
       "raw_match": "[[PSA.117:25]]",
       "reference_type": "wikilink",
-      "context": "This cry comes from [[PSA.117:25]], [[PSA.117:26]], which was associated with messianic expectation. It was recited daily for six days during the Feast of Tabernacles, and seven times on the seventh day as branches were waved. Hosanna means, \"Save, we pray!\""
+      "context": "This cry comes from [[PSA.117:25]], [[PSA.117:26]], which was associated with messianic expectation. It was recited daily for six days during the Feast of Tabernacles, and seven times on the seventh day as branches were waved. Hosanna means, \"Save, we pray!\"",
+      "edge_type": "echoes",
+      "topic_threads": [
+        "temple"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Thus Israel stretched out his right hand and laid it on Ephraim's head, who was the younger, and his left hand on Manasseh's head, guiding his hands knowingly, for Manasseh was the firstborn.",
   "pericope": {
     "id": "GEN.P078",
@@ -12,7 +12,9 @@
     "range": "GEN.47:31-48:21",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "suffering"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 664,
       "raw_match": "[[GEN.48:14]]",
       "reference_type": "wikilink",
-      "context": "Jacob prefigured the Cross when he venerated the top of the staff of Joseph (Gn 47:31) and when he blessed Joseph's sons with his hands crossed ([[GEN.48:14]])."
+      "context": "Jacob prefigured the Cross when he venerated the top of the staff of Joseph (Gn 47:31) and when he blessed Joseph's sons with his hands crossed ([[GEN.48:14]]).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

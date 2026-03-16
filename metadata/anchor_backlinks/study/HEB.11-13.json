@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "These all died in faith, not having received the promises, but having seen them afar off were assured of them, embraced them and confessed that they were strangers and pilgrims on the earth.",
   "pericope": {
     "id": "HEB.P029",
@@ -12,7 +12,14 @@
     "range": "HEB.11:7-11:21",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "exodus_typology",
+    "faith",
+    "praise",
+    "repentance",
+    "resurrection",
+    "suffering"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,42 +27,124 @@
       "line_number": 16,
       "raw_match": "[[HEB.11:13]]",
       "reference_type": "wikilink",
-      "context": "Pilgrims, or \"sojourners,\" are aliens, those who stay for a while in a strange place with no intention of permanently residing there. This is said of God's people in this world (see 2:11; [[GEN.23:4]]; [[PSA.38:13]]; [[HEB.11:13]]), for they are citizens of the heavenly world to come ([[PHP.3:20]])."
+      "context": "Pilgrims, or \"sojourners,\" are aliens, those who stay for a while in a strange place with no intention of permanently residing there. This is said of God's people in this world (see 2:11; [[GEN.23:4]]; [[PSA.38:13]]; [[HEB.11:13]]), for they are citizens of the heavenly world to come ([[PHP.3:20]]).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "faith",
+        "repentance"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/EXO_footnotes.md",
       "line_number": 52,
       "raw_match": "[[HEB.11:8]]-15",
       "reference_type": "wikilink_range",
-      "context": "Moses' parents were Amram and Jochebed (6:20; [[NUM.26:59]]). They hid Moses for three months because they embraced the faith of Abraham ([[HEB.11:8]]-15; 23). Thus, they were not afraid of the king's commandment."
+      "context": "Moses' parents were Amram and Jochebed (6:20; [[NUM.26:59]]). They hid Moses for three months because they embraced the faith of Abraham ([[HEB.11:8]]-15; 23). Thus, they were not afraid of the king's commandment.",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "faith",
+        "repentance"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/GEN_footnotes.md",
       "line_number": 858,
       "raw_match": "[[HEB.11:11]]-16",
       "reference_type": "wikilink_range",
-      "context": "The days of Sarah's life were numbered. She knew this because she was a woman of faith. She did not know when she would die, but knew she would. For she saw herself as a sojourner and stranger passing through this life to the world to come ([[HEB.11:11]]-16)."
+      "context": "The days of Sarah's life were numbered. She knew this because she was a woman of faith. She did not know when she would die, but knew she would. For she saw herself as a sojourner and stranger passing through this life to the world to come ([[HEB.11:11]]-16).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "faith",
+        "repentance"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/GEN_footnotes.md",
       "line_number": 1296,
       "raw_match": "[[HEB.11:13]]-15",
       "reference_type": "wikilink_range",
-      "context": "[[GEN.33:5]], [[GEN.33:9]], [[GEN.33:11]]: Jacob acknowledged that God gave him all his possessions. For he was a man of faith who looked to the world to come ([[HEB.11:13]]-15, 21). Esau, on the other hand, did not glorify God for the possessions God gave him, for he was an unbeliever."
+      "context": "[[GEN.33:5]], [[GEN.33:9]], [[GEN.33:11]]: Jacob acknowledged that God gave him all his possessions. For he was a man of faith who looked to the world to come ([[HEB.11:13]]-15, 21). Esau, on the other hand, did not glorify God for the possessions God gave him, for he was an unbeliever.",
+      "edge_type": "ascends_from",
+      "topic_threads": [
+        "faith",
+        "praise",
+        "repentance"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/GEN_footnotes.md",
       "line_number": 1438,
       "raw_match": "[[HEB.11:13]]-16",
       "reference_type": "wikilink_range",
-      "context": "Joseph calls Egypt the land of my humiliation. Such is this fallen world to those who look for their inheritance in the world to come ([[HEB.11:13]]-16, 22; Creed)."
+      "context": "Joseph calls Egypt the land of my humiliation. Such is this fallen world to those who look for their inheritance in the world to come ([[HEB.11:13]]-16, 22; Creed).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "exodus_typology",
+        "faith",
+        "repentance"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/GEN_footnotes.md",
       "line_number": 1554,
       "raw_match": "[[HEB.11:13]]-16",
       "reference_type": "wikilink_range",
-      "context": "Jacob described himself and his fathers, Abraham and Isaac, as sojourners, for he embraced Abraham's faith and thus \"looked for the resurrection of the dead and the life of the world to come\" (Creed; [[HEB.11:13]]-16, 21). And although he had suffered much in his life, he saw this as nothing compared to the glory to be revealed ([[ROM.8:18]])."
+      "context": "Jacob described himself and his fathers, Abraham and Isaac, as sojourners, for he embraced Abraham's faith and thus \"looked for the resurrection of the dead and the life of the world to come\" (Creed; [[HEB.11:13]]-16, 21). And although he had suffered much in his life, he saw this as nothing compared to the glory to be revealed ([[ROM.8:18]]).",
+      "edge_type": "ascends_from",
+      "topic_threads": [
+        "faith",
+        "repentance",
+        "resurrection",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

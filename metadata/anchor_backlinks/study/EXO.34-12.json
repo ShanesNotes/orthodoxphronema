@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Take heed to yourself, lest you make a covenant with the inhabitants of the land where you are going, lest it be a stumbling-block in your midst.",
   "pericope": {
     "id": "EXO.P074",
@@ -12,7 +12,10 @@
     "range": "EXO.34:9-34:27",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "covenant",
+    "faith"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 84,
       "raw_match": "[[EXO.34:11]]-16",
       "reference_type": "wikilink_range",
-      "context": "Sons of Israel profaned the holy things of the Lord. Too often they followed foreign gods through intermarriage with pagan women, which was prohibited (see [[EXO.34:11]]-16; [[DEU.7:1]]-4). St. Paul echoes this truth in saying, \"Do not be unequally yoked together with unbelievers\" ([[2CO.6:14]])."
+      "context": "Sons of Israel profaned the holy things of the Lord. Too often they followed foreign gods through intermarriage with pagan women, which was prohibited (see [[EXO.34:11]]-16; [[DEU.7:1]]-4). St. Paul echoes this truth in saying, \"Do not be unequally yoked together with unbelievers\" ([[2CO.6:14]]).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "covenant",
+        "faith"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

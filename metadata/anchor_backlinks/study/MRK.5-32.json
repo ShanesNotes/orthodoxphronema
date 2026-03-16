@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "And He looked around to see her who had done this thing.",
   "pericope": {
     "id": "MRK.P021",
@@ -12,7 +12,10 @@
     "range": "MRK.5:24-5:33",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "faith"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 505,
       "raw_match": "[[MRK.5:25]]-34",
       "reference_type": "wikilink_range",
-      "context": "In light of this passage, consider the account of the woman with the issue of blood, who, though unclean--but because of her faith in Christ--dared to touch the Lord as He allowed it ([[MRK.5:25]]-34)."
+      "context": "In light of this passage, consider the account of the woman with the issue of blood, who, though unclean--but because of her faith in Christ--dared to touch the Lord as He allowed it ([[MRK.5:25]]-34).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "faith"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

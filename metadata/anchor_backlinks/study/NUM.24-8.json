@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "God led Him out of Egypt, And He has the glorious appearance of a unicorn. He shall consume the nations of his enemies And deprive them of their strength. He shall shoot the enemy with His missiles.",
   "pericope": {
     "id": "NUM.P057",
@@ -12,7 +12,9 @@
     "range": "NUM.23:26-24:13",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "exodus_typology"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 571,
       "raw_match": "[[NUM.24:5]]-9",
       "reference_type": "wikilink_range",
-      "context": "[[NUM.24:2]], [[NUM.24:3]], [[NUM.24:5]]-9, 17, 18: This passage is read at Vespers of the Feast of the Nativity of the Lord."
+      "context": "[[NUM.24:2]], [[NUM.24:3]], [[NUM.24:5]]-9, 17, 18: This passage is read at Vespers of the Feast of the Nativity of the Lord.",
+      "edge_type": "echoes",
+      "topic_threads": [
+        "exodus_typology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

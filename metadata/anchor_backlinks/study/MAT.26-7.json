@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "a woman came to Him having an alabaster flask of very costly fragrant oil, and she poured it on His head as He sat at the table.",
   "pericope": {
     "id": "MAT.P082",
@@ -12,7 +12,9 @@
     "range": "MAT.26:5-26:12",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "eucharist"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,14 +22,35 @@
       "line_number": 1357,
       "raw_match": "[[MAT.26:6]]-13",
       "reference_type": "wikilink_range",
-      "context": "The other disciples said the same thing Judas said (v. 5), but with a very different motive (see [[MAT.26:6]]-13 and note). Judas spoke from greed, while the others spoke from the virtue of charity. That Jesus put a thief in charge of the money shows that by every means He attempted to save Judas: He fulfilled Judas' lust for money; He allowed Judas to exercise apostolic authority (6:11; see also [[MRK.6:7]]); He washed Judas' feet with the other disciples (13:5); and He allowed him to partake at the table of the Mystical Supper (13:26). Yet Judas could never overcome his greed (see note at [[MAT.26:14]]-16)."
+      "context": "The other disciples said the same thing Judas said (v. 5), but with a very different motive (see [[MAT.26:6]]-13 and note). Judas spoke from greed, while the others spoke from the virtue of charity. That Jesus put a thief in charge of the money shows that by every means He attempted to save Judas: He fulfilled Judas' lust for money; He allowed Judas to exercise apostolic authority (6:11; see also [[MRK.6:7]]); He washed Judas' feet with the other disciples (13:5); and He allowed him to partake at the table of the Mystical Supper (13:26). Yet Judas could never overcome his greed (see note at [[MAT.26:14]]-16).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "eucharist"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/SNG_footnotes.md",
       "line_number": 95,
       "raw_match": "[[MAT.26:7]]",
       "reference_type": "wikilink",
-      "context": "This prophetic verse was fulfilled by Mary of Bethany's anointing of the Lord with spikenard for His burial while He was at the table ([[MAT.26:6]], [[MAT.26:7]]; [[MRK.14:3]]; [[LUK.7:37]], [[LUK.7:38]]; Jn 12:3)."
+      "context": "This prophetic verse was fulfilled by Mary of Bethany's anointing of the Lord with spikenard for His burial while He was at the table ([[MAT.26:6]], [[MAT.26:7]]; [[MRK.14:3]]; [[LUK.7:37]], [[LUK.7:38]]; Jn 12:3).",
+      "edge_type": "fulfills",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

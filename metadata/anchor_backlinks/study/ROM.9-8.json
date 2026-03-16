@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "That is, those who are the children of the flesh, these are not the children of God; but the children of the promise are counted as the seed.",
   "pericope": {
     "id": "ROM.P023",
@@ -12,7 +12,12 @@
     "range": "ROM.9:8-9:12",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "creation_theology",
+    "faith",
+    "logos"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +25,22 @@
       "line_number": 776,
       "raw_match": "[[ROM.9:8]]",
       "reference_type": "wikilink",
-      "context": "Thus, Sarah conceived, based on the word of promise. She did not conceive based on the power of the flesh, for both she and Abraham were past the time of childbearing. Therefore, it is not the children of the flesh--that is, Abraham's offspring through procreation--who are the children of God. Rather, the children of this promise are counted as Abraham's seed ([[ROM.9:8]]). These children are those who embrace Abraham's faith through the Lord Jesus Christ ([[GAL.3:16]])."
+      "context": "Thus, Sarah conceived, based on the word of promise. She did not conceive based on the power of the flesh, for both she and Abraham were past the time of childbearing. Therefore, it is not the children of the flesh--that is, Abraham's offspring through procreation--who are the children of God. Rather, the children of this promise are counted as Abraham's seed ([[ROM.9:8]]). These children are those who embrace Abraham's faith through the Lord Jesus Christ ([[GAL.3:16]]).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "creation_theology",
+        "faith",
+        "logos"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

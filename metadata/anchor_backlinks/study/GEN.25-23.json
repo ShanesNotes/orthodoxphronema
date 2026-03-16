@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "And the Lord said to her: 'Two nations are in your womb, And two peoples shall be separated from your body.",
   "pericope": {
     "id": "GEN.P038",
@@ -12,7 +12,9 @@
     "range": "GEN.25:11-25:25",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "covenant"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,14 +22,38 @@
       "line_number": 25,
       "raw_match": "[[GEN.25:23]]",
       "reference_type": "wikilink",
-      "context": "In what way have You loved us? God declares His love for His people, but they reply coldly. God reminds them of the covenant with Abraham, Isaac, and Jacob. Jacob I have loved, but Esau I have hated is a Semitic way of emphasizing God's choice of Jacob, not of indicating hatred for the unchosen (see [[GEN.25:23]]; [[LUK.14:26]]; [[ROM.9:10]]-13)."
+      "context": "In what way have You loved us? God declares His love for His people, but they reply coldly. God reminds them of the covenant with Abraham, Isaac, and Jacob. Jacob I have loved, but Esau I have hated is a Semitic way of emphasizing God's choice of Jacob, not of indicating hatred for the unchosen (see [[GEN.25:23]]; [[LUK.14:26]]; [[ROM.9:10]]-13).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "covenant"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/OBA_footnotes.md",
       "line_number": 16,
       "raw_match": "[[GEN.25:19]]-26",
       "reference_type": "wikilink_range",
-      "context": "The Old Testament contains twelve references to men named Obadiah. Of this prophet we know little except that his name means \"Servant of the Lord.\" The people of Edom, descendants of Jacob's elder twin, Esau (see [[GEN.25:19]]-26), often stood in conflict with Israel (see 3Kg 11:14-17). Throughout this short book, Edom and Esau are employed interchangeably as titles for an actual kingdom and as general examples of rebellious humanity."
+      "context": "The Old Testament contains twelve references to men named Obadiah. Of this prophet we know little except that his name means \"Servant of the Lord.\" The people of Edom, descendants of Jacob's elder twin, Esau (see [[GEN.25:19]]-26), often stood in conflict with Israel (see 3Kg 11:14-17). Throughout this short book, Edom and Esau are employed interchangeably as titles for an actual kingdom and as general examples of rebellious humanity.",
+      "edge_type": "descends_to",
+      "topic_threads": [
+        "covenant"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

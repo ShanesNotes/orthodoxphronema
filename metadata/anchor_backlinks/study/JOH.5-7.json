@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "The sick man answered Him, 'Sir, I have no man to put me into the pool when the water is stirred up; but while I am coming, another steps down before me.'",
   "pericope": {
     "id": "JOH.P013",
@@ -12,7 +12,9 @@
     "range": "JOH.4:54-5:14",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 626,
       "raw_match": "[[JOH.5:1]]-15",
       "reference_type": "wikilink_range",
-      "context": "Peter brings Christ's healing to a paralytic in a manner similar to Jesus healing the paralytic in [[JOH.5:1]]-15. The healing power of Jesus the Christ continues in His Church to this day."
+      "context": "Peter brings Christ's healing to a paralytic in a manner similar to Jesus healing the paralytic in [[JOH.5:1]]-15. The healing power of Jesus the Christ continues in His Church to this day.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "But when Ahaziah king of Judah saw this, he fled on the road to Beth Haggan. So Jehu pursued after him, saying, 'Him, too!' And on the ascent of Gur, one struck him in the chariot, near Ibleam. He then fled to Megiddo and died there.",
   "pericope": {
     "id": "2KI.P019",
@@ -12,7 +12,9 @@
     "range": "2KI.9:26-9:28",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "logos"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 1418,
       "raw_match": "[[2KI.9:27]]",
       "reference_type": "wikilink",
-      "context": "Decisive battles in Israel's history were fought in the strategic pass near Megiddo (see [[2KI.9:27]]). Armageddon--the word is found only here in Scripture--means \"the hill of Megiddo\"; the nearest hill to Megiddo is Mt. Carmel, where Elijah confronted the prophets of Baal (3Kg 18:19-40). In the final conflict at Armageddon, evil spirits (vv. 13, 14) lead apostate mankind against God. This battle is more fully recorded in 20:7-10, foreshadowed in Ezk 39 and Joel 4."
+      "context": "Decisive battles in Israel's history were fought in the strategic pass near Megiddo (see [[2KI.9:27]]). Armageddon--the word is found only here in Scripture--means \"the hill of Megiddo\"; the nearest hill to Megiddo is Mt. Carmel, where Elijah confronted the prophets of Baal (3Kg 18:19-40). In the final conflict at Armageddon, evil spirits (vv. 13, 14) lead apostate mankind against God. This battle is more fully recorded in 20:7-10, foreshadowed in Ezk 39 and Joel 4.",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "logos"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

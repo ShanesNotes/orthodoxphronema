@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Do not remember the sins of my youth, nor of my ignorance; But remember me according to Your mercy, Because of Your loving-kindness, O Lord.",
   "pericope": {
     "id": "PSA.P024",
@@ -12,7 +12,10 @@
     "range": "PSA.24:1-24:22",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "mercy",
+    "suffering"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 346,
       "raw_match": "[[PSA.24:7]]",
       "reference_type": "wikilink",
-      "context": "God remembered Noah and saved him from the floodwaters, for He made a wind that caused the waters to subside. Noah was saved because God remembered him. This remembrance is salvation. Many Scriptures speak of God remembering man in salvation. For example, [[PSA.24:6]], [[PSA.24:7]]: \"Remember Your compassion, O Lord, / And Your mercy, for they are from of old. / Do not remember the sins of my youth, nor of my ignorance; / But remember me according to Your mercy, / Because of Your loving-kindness, O Lord.\" The thief on the cross said to Jesus, \"Lord, remember me when You come into Your kingdom.\" And Jesus said to him, \"Assuredly, I say to you, today you will be with Me in Paradise\" ([[LUK.23:42]]-43)."
+      "context": "God remembered Noah and saved him from the floodwaters, for He made a wind that caused the waters to subside. Noah was saved because God remembered him. This remembrance is salvation. Many Scriptures speak of God remembering man in salvation. For example, [[PSA.24:6]], [[PSA.24:7]]: \"Remember Your compassion, O Lord, / And Your mercy, for they are from of old. / Do not remember the sins of my youth, nor of my ignorance; / But remember me according to Your mercy, / Because of Your loving-kindness, O Lord.\" The thief on the cross said to Jesus, \"Lord, remember me when You come into Your kingdom.\" And Jesus said to him, \"Assuredly, I say to you, today you will be with Me in Paradise\" ([[LUK.23:42]]-43).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "mercy",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "These things command and teach.",
   "pericope": {
     "id": "1TI.P014",
@@ -12,7 +12,10 @@
     "range": "1TI.4:11-4:15",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "eschatology"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 121,
       "raw_match": "[[1TI.4:1]]-11",
       "reference_type": "wikilink_range",
-      "context": "While technically we have been in the last days since Christ walked the earth, the Church has seen this and other warnings as a reference to the days just before His coming again. A great decay in morals (see Mt 24; Mk 13; 2Th 2; 2Pt 2; compare Rom 1:28-32) will even infiltrate the Church (v. 5; see [[MAT.7:15]]-27; [[1CO.5:1]]-5; [[1TI.4:1]]-11). Like the prominent men of Cain's city ([[GEN.4:16]]-24), these offenders willfully reject law and morals out of love of self and love of pleasure."
+      "context": "While technically we have been in the last days since Christ walked the earth, the Church has seen this and other warnings as a reference to the days just before His coming again. A great decay in morals (see Mt 24; Mk 13; 2Th 2; 2Pt 2; compare Rom 1:28-32) will even infiltrate the Church (v. 5; see [[MAT.7:15]]-27; [[1CO.5:1]]-5; [[1TI.4:1]]-11). Like the prominent men of Cain's city ([[GEN.4:16]]-24), these offenders willfully reject law and morals out of love of self and love of pleasure.",
+      "edge_type": "opposes",
+      "topic_threads": [
+        "christology",
+        "eschatology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

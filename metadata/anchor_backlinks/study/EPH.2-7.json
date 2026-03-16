@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "that in the ages to come He might show the exceeding riches of His grace in His kindness toward us in Christ Jesus.",
   "pericope": {
     "id": "EPH.P004",
@@ -12,7 +12,12 @@
     "range": "EPH.1:23-2:9",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "divine_light",
+    "resurrection",
+    "suffering"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +25,22 @@
       "line_number": 144,
       "raw_match": "[[EPH.2:7]]",
       "reference_type": "wikilink",
-      "context": "Ps 11 presents a contrast between the godly who live in light of Christ (the End, v. 1) and the eighth day (v. 1), that is, \"the coming of Christ, the resurrection from the dead and the life of the world to come\" (Creed); and the ungodly, who walk in a circle (v. 9), that is, who live only within the confined vision of their seven days each week. And as the godly journey through this present world, (1) they pray for deliverance from the ungodliness around them (vv. 2, 3); (2) they ask the Lord to destroy the ungodly attitudes and behavior around them (vv. 4, 5); and (3) they groan to the Lord in the midst of their suffering (v. 6a). And because of their prayers and groaning in this way, the Lord, through His Resurrection (I will arise, v. 6), (1) boldly establishes them in salvation (v. 6); (2) purifies them in virtue with His words (v. 7); (3) guards and preserves them from the ungodly generation (v. 8); and (4) through His Ascension (exaltation, v. 9b), highly exalts His godly ones (v. 9b; see also [[PHP.2:9]]-11; [[EPH.2:6]], [[EPH.2:7]])."
+      "context": "Ps 11 presents a contrast between the godly who live in light of Christ (the End, v. 1) and the eighth day (v. 1), that is, \"the coming of Christ, the resurrection from the dead and the life of the world to come\" (Creed); and the ungodly, who walk in a circle (v. 9), that is, who live only within the confined vision of their seven days each week. And as the godly journey through this present world, (1) they pray for deliverance from the ungodliness around them (vv. 2, 3); (2) they ask the Lord to destroy the ungodly attitudes and behavior around them (vv. 4, 5); and (3) they groan to the Lord in the midst of their suffering (v. 6a). And because of their prayers and groaning in this way, the Lord, through His Resurrection (I will arise, v. 6), (1) boldly establishes them in salvation (v. 6); (2) purifies them in virtue with His words (v. 7); (3) guards and preserves them from the ungodly generation (v. 8); and (4) through His Ascension (exaltation, v. 9b), highly exalts His godly ones (v. 9b; see also [[PHP.2:9]]-11; [[EPH.2:6]], [[EPH.2:7]]).",
+      "edge_type": "ascends_from",
+      "topic_threads": [
+        "christology",
+        "divine_light",
+        "resurrection",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "He answered and said to them, 'Well did Isaiah prophesy of you hypocrites, as it is 'This people honors Me with their lips, But their heart is far from Me.",
   "pericope": {
     "id": "MRK.P027",
@@ -12,7 +12,9 @@
     "range": "MRK.6:56-7:22",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "prayer"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 355,
       "raw_match": "[[MRK.7:6]]",
       "reference_type": "wikilink",
-      "context": "A right heart before God in prayer is even more important than right words, for God hears our \"groanings which cannot be uttered\" ([[ROM.8:26]]; see also [[MRK.7:6]], [[MRK.7:7]])."
+      "context": "A right heart before God in prayer is even more important than right words, for God hears our \"groanings which cannot be uttered\" ([[ROM.8:26]]; see also [[MRK.7:6]], [[MRK.7:7]]).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "prayer"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

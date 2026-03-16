@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "And you will be hated by all for My name's sake. But he who endures to the end will be saved.",
   "pericope": {
     "id": "MAT.P028",
@@ -12,7 +12,12 @@
     "range": "MAT.10:15-10:22",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "creation_theology",
+    "repentance",
+    "suffering"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +25,22 @@
       "line_number": 90,
       "raw_match": "[[MAT.10:22]]",
       "reference_type": "wikilink",
-      "context": "). \"It is not the events, but the perversity of thoughts, that makes us suspect God of meanness\" (JohnChr). 2:2 St. Gregory comments that since the devil has already been defeated, the Lord is chiding him for the impotence of his pride. St. Hesychius teaches that the devil cannot even speak without first receiving permission from God. 2:4 The devil was unable to understand how Job could seek salvation over saving his own skin--that is, his life. 2:7 St. Gregory remarks that from the beginning, Satan has been working to destroy the Body of Christ, inflicting wounds on God's people throughout the history of the Jews, and continuing in his fury until he came to the very Head of the Church. 2:8 Job in his misery is an image of Christ on the Cross. He came \"in the likeness of sinful flesh, on account of sin: He condemned sin in the flesh\" ([[ROM.8:3]]). \"With a shard, therefore, the pus is scraped, when sin is defeated by the flesh.\" St. Gregory also notes that the repentant sinner, like Job, looks \"unflinchingly upon the stains of sin by which he is covered.\" 2:9 St. Hesychius teaches that Satan \"recruited\" Job's wife, as he had done with Eve. St. John Chrysostom asks, \"What are you saying, woman? When God needs to be... propitiated, you are, rather, preparing to provoke Him! For if it is God who has caused these bad things, He needs to be invoked, not blasphemed.\" And Jesus said, \"He who endures to the end will be saved\" ([[MAT.10:22]]). 2:15 Job did not sin with his lips: \"When holy men undergo persecution... they not only never transgress in injurious expressions against God, but they never launch words of reviling against their very adversaries\" (GrgGt)."
+      "context": "). \"It is not the events, but the perversity of thoughts, that makes us suspect God of meanness\" (JohnChr). 2:2 St. Gregory comments that since the devil has already been defeated, the Lord is chiding him for the impotence of his pride. St. Hesychius teaches that the devil cannot even speak without first receiving permission from God. 2:4 The devil was unable to understand how Job could seek salvation over saving his own skin--that is, his life. 2:7 St. Gregory remarks that from the beginning, Satan has been working to destroy the Body of Christ, inflicting wounds on God's people throughout the history of the Jews, and continuing in his fury until he came to the very Head of the Church. 2:8 Job in his misery is an image of Christ on the Cross. He came \"in the likeness of sinful flesh, on account of sin: He condemned sin in the flesh\" ([[ROM.8:3]]). \"With a shard, therefore, the pus is scraped, when sin is defeated by the flesh.\" St. Gregory also notes that the repentant sinner, like Job, looks \"unflinchingly upon the stains of sin by which he is covered.\" 2:9 St. Hesychius teaches that Satan \"recruited\" Job's wife, as he had done with Eve. St. John Chrysostom asks, \"What are you saying, woman? When God needs to be... propitiated, you are, rather, preparing to provoke Him! For if it is God who has caused these bad things, He needs to be invoked, not blasphemed.\" And Jesus said, \"He who endures to the end will be saved\" ([[MAT.10:22]]). 2:15 Job did not sin with his lips: \"When holy men undergo persecution... they not only never transgress in injurious expressions against God, but they never launch words of reviling against their very adversaries\" (GrgGt).",
+      "edge_type": "witnesses",
+      "topic_threads": [
+        "christology",
+        "creation_theology",
+        "repentance",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

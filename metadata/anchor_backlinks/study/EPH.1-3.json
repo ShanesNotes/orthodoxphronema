@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Blessed be the God and Father of our Lord Jesus Christ, who has blessed us with every spiritual blessing in the heavenly places in Christ,",
   "pericope": {
     "id": "EPH.P002",
@@ -12,7 +12,11 @@
     "range": "EPH.1:3-1:12",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "kingdom",
+    "praise"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,21 +24,59 @@
       "line_number": 143,
       "raw_match": "[[EPH.1:3]]-14",
       "reference_type": "wikilink_range",
-      "context": "Paul quotes an ancient Christian creed or hymn that is especially clear about the divinity of Jesus Christ. Another such creed is found in [[2TI.2:11]]-13. (See also 6:15, 16; [[EPH.1:3]]-14; 5:14; [[PHP.2:6]]-11; [[COL.1:15]]-20.) Thus, when the early Councils met and issued creeds, they were well within the mark of biblical precedent."
+      "context": "Paul quotes an ancient Christian creed or hymn that is especially clear about the divinity of Jesus Christ. Another such creed is found in [[2TI.2:11]]-13. (See also 6:15, 16; [[EPH.1:3]]-14; 5:14; [[PHP.2:6]]-11; [[COL.1:15]]-20.) Thus, when the early Councils met and issued creeds, they were well within the mark of biblical precedent.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology",
+        "praise"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 7,
+        "title": "Symbolism and the Spiritual Worldview",
+        "polarity": "luminosity",
+        "operation": "eat",
+        "scale": "individual"
+      }
     },
     {
       "source_file": "study/footnotes/OT/DEU_footnotes.md",
       "line_number": 602,
       "raw_match": "[[EPH.1:3]]",
       "reference_type": "wikilink",
-      "context": "Every blessing promised to the obedient in vv. 3-13 relates to life in this present world, for the Law of Moses could not promise eternal life to anyone obeying it. The best it could offer was physical blessings in the land of Canaan. But it could not make one immortal, or righteous, or a child of God, or heir of the kingdom of God in the world to come. For these are spiritual blessings in Christ, as St. Paul said in [[EPH.1:3]]: \"Blessed be the God and Father of our Lord Jesus Christ, who has blessed us with every spiritual blessing in the heavenly places in Christ\" (JohnChr)."
+      "context": "Every blessing promised to the obedient in vv. 3-13 relates to life in this present world, for the Law of Moses could not promise eternal life to anyone obeying it. The best it could offer was physical blessings in the land of Canaan. But it could not make one immortal, or righteous, or a child of God, or heir of the kingdom of God in the world to come. For these are spiritual blessings in Christ, as St. Paul said in [[EPH.1:3]]: \"Blessed be the God and Father of our Lord Jesus Christ, who has blessed us with every spiritual blessing in the heavenly places in Christ\" (JohnChr).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "kingdom"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/GEN_footnotes.md",
       "line_number": 1181,
       "raw_match": "[[EPH.1:3]]",
       "reference_type": "wikilink",
-      "context": "Asher relates to blessing. Christ's Incarnation blesses His own with every spiritual blessing in the heavenly places ([[EPH.1:3]])."
+      "context": "Asher relates to blessing. Christ's Incarnation blesses His own with every spiritual blessing in the heavenly places ([[EPH.1:3]]).",
+      "edge_type": "descends_to",
+      "topic_threads": [
+        "christology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

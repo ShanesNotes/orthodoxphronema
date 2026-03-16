@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "You are of your father the devil, and the desires of your father you want to do. He was a murderer from the beginning, and does not stand in the truth, because there is no truth in him. When he speaks a lie, he speaks from his own resources, for he is a liar and the father of it.",
   "pericope": {
     "id": "JOH.P028",
@@ -12,7 +12,12 @@
     "range": "JOH.8:36-8:50",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "creation_theology",
+    "priesthood",
+    "suffering"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,28 +25,81 @@
       "line_number": 1957,
       "raw_match": "[[JOH.8:44]]",
       "reference_type": "wikilink",
-      "context": "Three times Pilate attempts to release Jesus (vv. 16, 20, 22), and three times the chief priest and the rulers incite the people to demand He be put to death. In the end, they demand the release of a rebel like themselves. Barabbas means \"son of the father\" and indicates to which father these rulers belong--the devil ([[JOH.8:44]])."
+      "context": "Three times Pilate attempts to release Jesus (vv. 16, 20, 22), and three times the chief priest and the rulers incite the people to demand He be put to death. In the end, they demand the release of a rebel like themselves. Barabbas means \"son of the father\" and indicates to which father these rulers belong--the devil ([[JOH.8:44]]).",
+      "edge_type": "opposes",
+      "topic_threads": [
+        "creation_theology",
+        "priesthood"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/NT/MAT_footnotes.md",
       "line_number": 2415,
       "raw_match": "[[JOH.8:44]]",
       "reference_type": "wikilink",
-      "context": "Jesus is the true Son of the Father, yet the name Barabbas means \"son of the father.\" Ironically, the crowds must choose between one Son of the Father and the other. By influencing the crowds to choose Barabbas (v. 20), the chief priests indicate to which father they belong--the devil ([[JOH.8:44]])."
+      "context": "Jesus is the true Son of the Father, yet the name Barabbas means \"son of the father.\" Ironically, the crowds must choose between one Son of the Father and the other. By influencing the crowds to choose Barabbas (v. 20), the chief priests indicate to which father they belong--the devil ([[JOH.8:44]]).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "creation_theology",
+        "priesthood"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/NT/REV_footnotes.md",
       "line_number": 260,
       "raw_match": "[[JOH.8:31]]-47",
       "reference_type": "wikilink_range",
-      "context": "The Smyrnan church was poor, perhaps because of the persecution, but spiritually rich, the opposite of Laodicea. The Jews of the synagogue of Satan may be either Jews in name only (see [[ROM.2:28]], [[ROM.2:29]]) who were insincere in their profession of Judaism and compromising in their beliefs ([[JOH.8:31]]-47); or Jews who refused to embrace the Messiah and His Church ([[ROM.2:28]]; [[GAL.6:15]])."
+      "context": "The Smyrnan church was poor, perhaps because of the persecution, but spiritually rich, the opposite of Laodicea. The Jews of the synagogue of Satan may be either Jews in name only (see [[ROM.2:28]], [[ROM.2:29]]) who were insincere in their profession of Judaism and compromising in their beliefs ([[JOH.8:31]]-47); or Jews who refused to embrace the Messiah and His Church ([[ROM.2:28]]; [[GAL.6:15]]).",
+      "edge_type": "opposes",
+      "topic_threads": [
+        "christology",
+        "creation_theology",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/PRO_footnotes.md",
       "line_number": 1852,
       "raw_match": "[[JOH.8:44]]",
       "reference_type": "wikilink",
-      "context": "Evil offspring are the sinful passions, and the devil is their father ([[JOH.8:43]], [[JOH.8:44]]). But this also applies to evil offspring in a family."
+      "context": "Evil offspring are the sinful passions, and the devil is their father ([[JOH.8:43]], [[JOH.8:44]]). But this also applies to evil offspring in a family.",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "creation_theology",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

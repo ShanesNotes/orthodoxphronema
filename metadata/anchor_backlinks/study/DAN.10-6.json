@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "His body was like beryl, and his face like the appearance of lightning. His eyes were like lamps of fire, and his arms and legs like the appearance of shining brass. The sound of his words was like the voice of a multitude.",
   "pericope": {
     "id": "DAN.P029",
@@ -12,7 +12,11 @@
     "range": "DAN.9:27-10:8",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "covenant",
+    "priesthood"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +24,21 @@
       "line_number": 130,
       "raw_match": "[[DAN.10:6]]",
       "reference_type": "wikilink",
-      "context": "One like the Son of Man recalls Daniel's messianic figure ([[DAN.7:13]]--repeated by Stephen at his martyrdom, [[ACT.7:56]]). Christ called Himself Son of Man (see especially [[MAT.24:30]]ff.), for He is the fulfillment of Daniel's prophecy. Additional parallels may be seen in both the Old and New Testaments ([[DAN.10:6]]; [[MAT.17:2]]; [[EPH.6:17]]; [[HEB.4:12]]). We also see Him vested in high-priestly garments (see [[EXO.28:4]]; 29:5; Lv 16:4; WSol 18:24; [[ZEC.3:4]], [[ZEC.3:5]]). The gold with which He is girded is both royal (1Mc 10:89) and priestly."
+      "context": "One like the Son of Man recalls Daniel's messianic figure ([[DAN.7:13]]--repeated by Stephen at his martyrdom, [[ACT.7:56]]). Christ called Himself Son of Man (see especially [[MAT.24:30]]ff.), for He is the fulfillment of Daniel's prophecy. Additional parallels may be seen in both the Old and New Testaments ([[DAN.10:6]]; [[MAT.17:2]]; [[EPH.6:17]]; [[HEB.4:12]]). We also see Him vested in high-priestly garments (see [[EXO.28:4]]; 29:5; Lv 16:4; WSol 18:24; [[ZEC.3:4]], [[ZEC.3:5]]). The gold with which He is girded is both royal (1Mc 10:89) and priestly.",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "covenant",
+        "priesthood"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

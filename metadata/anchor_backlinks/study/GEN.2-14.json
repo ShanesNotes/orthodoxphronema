@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "The name of the third river is Tigris. It flows over against the Assyrians. And the fourth river is Euphrates.",
   "pericope": {
     "id": "GEN.P002",
@@ -12,7 +12,10 @@
     "range": "GEN.2:7-2:24",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "baptism",
+    "christology"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 492,
       "raw_match": "[[GEN.2:10]]-15",
       "reference_type": "wikilink_range",
-      "context": "Christ is the living water ([[JOH.4:10]]-14). In the Apocalypse, a river runs through the Holy City ([[REV.22:1]]-5). The Garden of Eden was at the headwaters of four great rivers ([[GEN.2:10]]-15). In the garden of Paradise, Christ is the living water who sustains, refreshes, and gives life to the inhabitants."
+      "context": "Christ is the living water ([[JOH.4:10]]-14). In the Apocalypse, a river runs through the Holy City ([[REV.22:1]]-5). The Garden of Eden was at the headwaters of four great rivers ([[GEN.2:10]]-15). In the garden of Paradise, Christ is the living water who sustains, refreshes, and gives life to the inhabitants.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "baptism",
+        "christology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

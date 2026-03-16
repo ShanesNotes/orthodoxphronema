@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Jesus answered, 'You could have no power at all against Me unless it had been given you from above. Therefore the one who delivered Me to you has the greater sin.'",
   "pericope": {
     "id": "JOH.P064",
@@ -12,7 +12,9 @@
     "range": "JOH.19:4-19:15",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "priesthood"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,14 +22,35 @@
       "line_number": 460,
       "raw_match": "[[JOH.19:7]]-12",
       "reference_type": "wikilink_range",
-      "context": "Pilate's question, \"Are You the King of the Jews?\" comes from the political charges made against Jesus. Since Pilate would not execute a man over religious matters, the chief priests had to come up with a political crime that would guarantee the death penalty. Thus, they accused Jesus of making Himself an earthly king, which would be treason (see note at [[JOH.19:7]]-12)."
+      "context": "Pilate's question, \"Are You the King of the Jews?\" comes from the political charges made against Jesus. Since Pilate would not execute a man over religious matters, the chief priests had to come up with a political crime that would guarantee the death penalty. Thus, they accused Jesus of making Himself an earthly king, which would be treason (see note at [[JOH.19:7]]-12).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "priesthood"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/EZR_footnotes.md",
       "line_number": 23,
       "raw_match": "[[JOH.19:11]]",
       "reference_type": "wikilink",
-      "context": "He is the God... in Jerusalem: Deities were generally seen as belonging to a specific location, yet this statement is also prophetic in that it points as well to the New Jerusalem, the eternal city over which God reigns and in which all nations will dwell (Rev 21). 1:1-4 The kings of the earth, who receive authority from the Lord ([[JOH.19:11]]; [[ROM.13:1]]-7), are used by God to fulfill His plan."
+      "context": "He is the God... in Jerusalem: Deities were generally seen as belonging to a specific location, yet this statement is also prophetic in that it points as well to the New Jerusalem, the eternal city over which God reigns and in which all nations will dwell (Rev 21). 1:1-4 The kings of the earth, who receive authority from the Lord ([[JOH.19:11]]; [[ROM.13:1]]-7), are used by God to fulfill His plan.",
+      "edge_type": "fulfills",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

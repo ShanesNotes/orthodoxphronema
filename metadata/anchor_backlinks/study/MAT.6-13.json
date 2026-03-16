@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "And do not lead us into temptation, But deliver us from the evil one.",
   "pericope": {
     "id": "MAT.P014",
@@ -12,7 +12,15 @@
     "range": "MAT.5:48-6:14",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "covenant",
+    "creation_theology",
+    "eucharist",
+    "kingdom",
+    "prayer",
+    "suffering"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,28 +28,82 @@
       "line_number": 111,
       "raw_match": "[[MAT.6:1]]-18",
       "reference_type": "wikilink_range",
-      "context": "The world distorts every realm of God's good creation (see [[JAS.1:13]], [[JAS.1:14]]). There are (1) sensual pleasures of the flesh (physical passions), (2) intellectual attainments and capacities of the eyes (the soul's passions), and (3) inordinate possessions, power, and honors of life (the pride of human spirit). Biblical ascetic practices--prayer, fasting, almsgiving (see [[MAT.6:1]]-18)--help us overcome these distortions and live lives of virtue."
+      "context": "The world distorts every realm of God's good creation (see [[JAS.1:13]], [[JAS.1:14]]). There are (1) sensual pleasures of the flesh (physical passions), (2) intellectual attainments and capacities of the eyes (the soul's passions), and (3) inordinate possessions, power, and honors of life (the pride of human spirit). Biblical ascetic practices--prayer, fasting, almsgiving (see [[MAT.6:1]]-18)--help us overcome these distortions and live lives of virtue.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "creation_theology",
+        "prayer",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 4,
+        "title": "Reconstructing the Language of Creation",
+        "polarity": "vertical",
+        "operation": "ascend",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/NT/LUK_footnotes.md",
       "line_number": 1077,
       "raw_match": "[[MAT.6:9]]-13",
       "reference_type": "wikilink_range",
-      "context": "Teach us to pray expresses a universal longing to be in communion with God. For notes on the Lord's Prayer, see [[MAT.6:9]]-13."
+      "context": "Teach us to pray expresses a universal longing to be in communion with God. For notes on the Lord's Prayer, see [[MAT.6:9]]-13.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "eucharist",
+        "prayer"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/NT/REV_footnotes.md",
       "line_number": 425,
       "raw_match": "[[MAT.6:13]]",
       "reference_type": "wikilink",
-      "context": "To those faithful to Him, the Lord Jesus will in turn be faithful during the hour of trial that will come to the whole world by preserving them during that trial (see Jn 17:15) and protecting them from demonic assaults. Although the faithful will not be rescued from sufferings, persecution, and martyrdom, they will be sustained and supported so as to persevere in their faithfulness. The hour of trial is an apocalyptic image ([[DAN.12:1]]; [[MAT.6:13]]; [[MRK.13:4]]; [[JOH.17:6]], [[JOH.17:15]]; [[2TH.2:1]]-12), referring to the testing and tribulation (chs. 8; 9; 16) preceding the manifestation of the eternal Kingdom of God. Those who dwell on the earth is a commonly used term for the ungodly."
+      "context": "To those faithful to Him, the Lord Jesus will in turn be faithful during the hour of trial that will come to the whole world by preserving them during that trial (see Jn 17:15) and protecting them from demonic assaults. Although the faithful will not be rescued from sufferings, persecution, and martyrdom, they will be sustained and supported so as to persevere in their faithfulness. The hour of trial is an apocalyptic image ([[DAN.12:1]]; [[MAT.6:13]]; [[MRK.13:4]]; [[JOH.17:6]], [[JOH.17:15]]; [[2TH.2:1]]-12), referring to the testing and tribulation (chs. 8; 9; 16) preceding the manifestation of the eternal Kingdom of God. Those who dwell on the earth is a commonly used term for the ungodly.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "kingdom",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/1CH_footnotes.md",
       "line_number": 270,
       "raw_match": "[[MAT.6:9]]-13",
       "reference_type": "wikilink_range",
-      "context": "David's praises bear a striking resemblance to the Lord's Prayer ([[MAT.6:9]]-13). Under the old covenant, David cannot see the Trinity fully, for the Trinity has not yet been revealed. In Christ's Church, the faithful will be able to worship the Triune God \"in spirit and truth\" ([[JOH.4:24]])."
+      "context": "David's praises bear a striking resemblance to the Lord's Prayer ([[MAT.6:9]]-13). Under the old covenant, David cannot see the Trinity fully, for the Trinity has not yet been revealed. In Christ's Church, the faithful will be able to worship the Triune God \"in spirit and truth\" ([[JOH.4:24]]).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "covenant",
+        "prayer"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

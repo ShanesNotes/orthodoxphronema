@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "'Son of man, take up a lamentation for the ruler of Tyre, and say to him, 'Thus says the Lord and Master: 'You are a seal of resemblance and crown of beauty.",
   "pericope": {
     "id": "EZK.P043",
@@ -12,7 +12,10 @@
     "range": "EZK.28:10-28:18",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "creation_theology"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 679,
       "raw_match": "[[EZK.28:12]]",
       "reference_type": "wikilink",
-      "context": "Satan was created first among all the angels and was exalted as ruler of creation (see [[EZK.28:12]], [[EZK.28:13]]; Is 14:12)."
+      "context": "Satan was created first among all the angels and was exalted as ruler of creation (see [[EZK.28:12]], [[EZK.28:13]]; Is 14:12).",
+      "edge_type": "ascends_from",
+      "topic_threads": [
+        "christology",
+        "creation_theology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

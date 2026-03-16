@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "This is a faithful saying: If a man desires the position of a bishop, he desires a good work.",
   "pericope": {
     "id": "1TI.P009",
@@ -12,7 +12,11 @@
     "range": "1TI.3:1-3:6",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "priesthood",
+    "suffering"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,14 +24,37 @@
       "line_number": 23,
       "raw_match": "[[1TI.3:1]]-7",
       "reference_type": "wikilink_range",
-      "context": "This is the only epistle in which St. Paul includes the clergy, the bishops and deacons, in his address. St. John Chrysostom says this is because it was the clergy in Philippi who collected the funds Paul so badly needed, and sent them to him by Epaphroditus. Bishops are the leading presbyters. By the time this letter was written, around AD 63, not only were bishops present in Philippi, but James was presiding over the church in Jerusalem ([[ACT.15:13]]) and tradition reveals that Peter was bishop in Antioch--and later in Rome. (Tradition sometimes refers to the men Peter designated his successors in those places as the \"first\" bishops, affirming the difference between the apostles and the overseers they appointed.) Paul's pastoral epistles outline the qualifications for the office of bishop ([[1TI.3:1]]-7; [[TIT.1:7]]-9)."
+      "context": "This is the only epistle in which St. Paul includes the clergy, the bishops and deacons, in his address. St. John Chrysostom says this is because it was the clergy in Philippi who collected the funds Paul so badly needed, and sent them to him by Epaphroditus. Bishops are the leading presbyters. By the time this letter was written, around AD 63, not only were bishops present in Philippi, but James was presiding over the church in Jerusalem ([[ACT.15:13]]) and tradition reveals that Peter was bishop in Antioch--and later in Rome. (Tradition sometimes refers to the men Peter designated his successors in those places as the \"first\" bishops, affirming the difference between the apostles and the overseers they appointed.) Paul's pastoral epistles outline the qualifications for the office of bishop ([[1TI.3:1]]-7; [[TIT.1:7]]-9).",
+      "edge_type": "witnesses",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/NT/TIT_footnotes.md",
       "line_number": 31,
       "raw_match": "[[1TI.3:1]]-16",
       "reference_type": "wikilink_range",
-      "context": "When Paul evangelized an area, he did not leave it unattended ([[1CO.3:6]]-10; [[COL.1:7]]). 1:5-9 All Christians are priests in Christ. Candidates for eldership, that is, for the special priesthood inside the general priesthood of all, should exhibit a wholesome and united family life (v. 6), control over passions and emotions (v. 7), loving and righteous relations with others (v. 8), and careful adherence to tradition (v. 9; see also [[1TI.3:1]]-16; 5:21; 2Ti 2:2)."
+      "context": "When Paul evangelized an area, he did not leave it unattended ([[1CO.3:6]]-10; [[COL.1:7]]). 1:5-9 All Christians are priests in Christ. Candidates for eldership, that is, for the special priesthood inside the general priesthood of all, should exhibit a wholesome and united family life (v. 6), control over passions and emotions (v. 7), loving and righteous relations with others (v. 8), and careful adherence to tradition (v. 9; see also [[1TI.3:1]]-16; 5:21; 2Ti 2:2).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology",
+        "priesthood",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "He shall take the two kids and present them before the Lord at the door of the tabernacle of testimony.",
   "pericope": {
     "id": "LEV.P023",
@@ -12,7 +12,13 @@
     "range": "LEV.15:33-16:18",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "covenant",
+    "priesthood",
+    "suffering",
+    "temple"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +26,23 @@
       "line_number": 21,
       "raw_match": "[[LEV.16:2]]-34",
       "reference_type": "wikilink_range",
-      "context": "In the Old Testament animal sacrifices, the blood shed and poured out represented the life-force of the animal offered to God ([[GEN.9:4]]; [[LEV.17:11]]; [[DEU.12:23]]). The animal was more than simply a substitute for the worshiper. There was also identification between the animal sacrificed and the one on whose behalf it was offered, explaining the emphasis in the Old Testament on the blood of the sacrifice ([[EXO.12:13]]; 24:4-8; 29:15-21; 30:1-10; [[LEV.14:24]], 25; [[NUM.19:1]]-4). These sacrifices point to the blood of Christ in the New Testament: 'My blood of the new covenant, which is shed for many for the remission of sins' ([[MAT.26:28]]; see also Acts On the Day of Atonement, the preeminent Old Testament sacrifice was made. It was to atone for all the sins the nation of Israel had committed that year ([[LEV.16:2]]-34). The ceremony included (1) animal sacrifices as offerings for sins, and (2) the placing of 'all the transgressions of the children of Israel... on the head of the living kid'-the scapegoat\u2014which was then driven off into the wilderness ([[LEV.16:21]]). This event prefigures the once-for-all self-sacrifice of Christ, our great High Priest ([[HEB.4:14]]-5:10; 10:19-22), who takes upon Himself all the sins of all humanity ([[ISA.53:11]], 12; [[JOH.1:29]]; [[2CO.5:21]]; [[1PE.2:24]]), tramples down death by His voluntary Death on the cross, and thereby reconciles us to God ([[ISA.53:5]]; [[GAL.3:13]], [[GAL.3:14]]; [[COL.1:13]], [[COL.1:14]]; [[TIT.2:13]], [[TIT.2:14]]; [[1PE.3:18]])."
+      "context": "In the Old Testament animal sacrifices, the blood shed and poured out represented the life-force of the animal offered to God ([[GEN.9:4]]; [[LEV.17:11]]; [[DEU.12:23]]). The animal was more than simply a substitute for the worshiper. There was also identification between the animal sacrificed and the one on whose behalf it was offered, explaining the emphasis in the Old Testament on the blood of the sacrifice ([[EXO.12:13]]; 24:4-8; 29:15-21; 30:1-10; [[LEV.14:24]], 25; [[NUM.19:1]]-4). These sacrifices point to the blood of Christ in the New Testament: 'My blood of the new covenant, which is shed for many for the remission of sins' ([[MAT.26:28]]; see also Acts On the Day of Atonement, the preeminent Old Testament sacrifice was made. It was to atone for all the sins the nation of Israel had committed that year ([[LEV.16:2]]-34). The ceremony included (1) animal sacrifices as offerings for sins, and (2) the placing of 'all the transgressions of the children of Israel... on the head of the living kid'-the scapegoat\u2014which was then driven off into the wilderness ([[LEV.16:21]]). This event prefigures the once-for-all self-sacrifice of Christ, our great High Priest ([[HEB.4:14]]-5:10; 10:19-22), who takes upon Himself all the sins of all humanity ([[ISA.53:11]], 12; [[JOH.1:29]]; [[2CO.5:21]]; [[1PE.2:24]]), tramples down death by His voluntary Death on the cross, and thereby reconciles us to God ([[ISA.53:5]]; [[GAL.3:13]], [[GAL.3:14]]; [[COL.1:13]], [[COL.1:14]]; [[TIT.2:13]], [[TIT.2:14]]; [[1PE.3:18]]).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "covenant",
+        "priesthood",
+        "suffering",
+        "temple"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

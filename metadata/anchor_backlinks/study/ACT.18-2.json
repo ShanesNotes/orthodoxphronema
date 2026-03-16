@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "And he found a certain Jew named Aquila, born in Pontus, who had recently come from Italy with his wife Priscilla (because Claudius had commanded all the Jews to depart from Rome); and he came to them.",
   "pericope": {
     "id": "ACT.P065",
@@ -20,7 +20,16 @@
       "line_number": 992,
       "raw_match": "[[ACT.18:2]]",
       "reference_type": "wikilink",
-      "context": "Aquila and Priscilla were Jews who had been among those expelled from Rome by Claudius in AD 49-50. They had resided in Corinth for a while ([[ACT.18:2]]) and then moved to Ephesus ([[ACT.18:26]])."
+      "context": "Aquila and Priscilla were Jews who had been among those expelled from Rome by Claudius in AD 49-50. They had resided in Corinth for a while ([[ACT.18:2]]) and then moved to Ephesus ([[ACT.18:26]]).",
+      "edge_type": "instantiates",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

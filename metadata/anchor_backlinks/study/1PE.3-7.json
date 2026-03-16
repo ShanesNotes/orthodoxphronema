@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Husbands: Honor Your Wives Husbands, likewise, dwell with them with understanding, giving honor to the wife, as to the weaker vessel, and as being heirs together of the grace of life, that your prayers may not be hindered.",
   "pericope": {
     "id": "1PE.P010",
@@ -12,7 +12,10 @@
     "range": "1PE.3:7-3:11",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "israel_church"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 636,
       "raw_match": "[[1PE.3:7]]",
       "reference_type": "wikilink",
-      "context": "The daughters of Zelophehad would have their share in the inheritance when Israel entered the land of promise. Therefore, Christ saw these faithful women as coequal with the men. They were not, so to speak, \"second-class citizens\" in His sight. Equality in Christ also holds true in the Church, for both men and women are \"heirs together of the grace of life\" ([[1PE.3:7]])."
+      "context": "The daughters of Zelophehad would have their share in the inheritance when Israel entered the land of promise. Therefore, Christ saw these faithful women as coequal with the men. They were not, so to speak, \"second-class citizens\" in His sight. Equality in Christ also holds true in the Church, for both men and women are \"heirs together of the grace of life\" ([[1PE.3:7]]).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "israel_church"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Therefore, when they had come together, they asked Him, saying, 'Lord, will You at this time restore the kingdom to Israel?'",
   "pericope": {
     "id": "ACT.P001",
@@ -12,7 +12,12 @@
     "range": "ACT.1:1-1:7",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "eschatology",
+    "prayer",
+    "resurrection"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +25,22 @@
       "line_number": 137,
       "raw_match": "[[ACT.1:6]]",
       "reference_type": "wikilink",
-      "context": "The bedrock practicality of the Scriptures: In Paul's time and ours, we are to live quietly, mind our own business, and work hard. 4:13-18 One of the clearest NT passages on the Second Coming of Christ. The first- century document, The Didache, lists three signs that will mark the return of the Lord: (1) \"the sign spread out in the heavens\"--Christ and His hosts; (2) \"the sign of the trumpet\"; and (3) \"the resurrection of the dead.\" For the righteous, the return of Christ is a comfort (v. 18), not a threat. 5:1-11 The Thessalonian Christians had been speculating about the return of the Lord and making their own predictions. Paul tells them, you have no need (v. 1) for that kind of information (indeed, it is not available!). Does a thief in the night (v. 2) announce his coming? The disciples had gotten the same kind of answers to their questions on the Second Coming from Christ Himself ([[MAT.24:36]]; [[ACT.1:6]], [[ACT.1:7]]). And suppose we know the end; what is this to us? Christians are called not to set dates but to make themselves ready to meet the Lord by being watchful and sober (v. 6). Our place is to be ceaselessly aware of the primacy of God's Kingdom and to have full control over our spiritual faculties. 5:12-22 The requirements of harmonious life in community include the honoring of sacramental leadership (vv. 12-14), pursuit of good works (v. 15), continual prayer and thanksgiving in worship (vv. 16-18), and proper regard for the prophetic gift and spiritual discernment (vv. 19-22)."
+      "context": "The bedrock practicality of the Scriptures: In Paul's time and ours, we are to live quietly, mind our own business, and work hard. 4:13-18 One of the clearest NT passages on the Second Coming of Christ. The first- century document, The Didache, lists three signs that will mark the return of the Lord: (1) \"the sign spread out in the heavens\"--Christ and His hosts; (2) \"the sign of the trumpet\"; and (3) \"the resurrection of the dead.\" For the righteous, the return of Christ is a comfort (v. 18), not a threat. 5:1-11 The Thessalonian Christians had been speculating about the return of the Lord and making their own predictions. Paul tells them, you have no need (v. 1) for that kind of information (indeed, it is not available!). Does a thief in the night (v. 2) announce his coming? The disciples had gotten the same kind of answers to their questions on the Second Coming from Christ Himself ([[MAT.24:36]]; [[ACT.1:6]], [[ACT.1:7]]). And suppose we know the end; what is this to us? Christians are called not to set dates but to make themselves ready to meet the Lord by being watchful and sober (v. 6). Our place is to be ceaselessly aware of the primacy of God's Kingdom and to have full control over our spiritual faculties. 5:12-22 The requirements of harmonious life in community include the honoring of sacramental leadership (vv. 12-14), pursuit of good works (v. 15), continual prayer and thanksgiving in worship (vv. 16-18), and proper regard for the prophetic gift and spiritual discernment (vv. 19-22).",
+      "edge_type": "ascends_from",
+      "topic_threads": [
+        "christology",
+        "eschatology",
+        "prayer",
+        "resurrection"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 2,
+        "title": "Coming Full Circle: The Copernican Revolution",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

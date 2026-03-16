@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "of whom are the fathers and from whom, according to the flesh, Christ came, who is over all, the eternally blessed God. Amen.",
   "pericope": {
     "id": "ROM.P022",
@@ -12,7 +12,10 @@
     "range": "ROM.9:1-9:7",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "eschatology"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 72,
       "raw_match": "[[ROM.9:5]]",
       "reference_type": "wikilink",
-      "context": "The Church Fathers regard our great God and Savior Jesus Christ as a landmark statement of the divinity of Christ (see [[ROM.9:5]]; [[2PE.1:1]]). In Paul's thought, \"God\" refers usually to the Person of the Father, not to the divine nature. As Paul grew older, it seems his sense of the difference between this age and the age to come deepened. In his earlier letters, he emphasized the present realization of God's power; now he speaks more of our future transfiguration."
+      "context": "The Church Fathers regard our great God and Savior Jesus Christ as a landmark statement of the divinity of Christ (see [[ROM.9:5]]; [[2PE.1:1]]). In Paul's thought, \"God\" refers usually to the Person of the Father, not to the divine nature. As Paul grew older, it seems his sense of the difference between this age and the age to come deepened. In his earlier letters, he emphasized the present realization of God's power; now he speaks more of our future transfiguration.",
+      "edge_type": "witnesses",
+      "topic_threads": [
+        "christology",
+        "eschatology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

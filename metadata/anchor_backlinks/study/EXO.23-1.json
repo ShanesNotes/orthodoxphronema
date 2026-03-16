@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Now you shall not circulate a false report. Do not agree with the wicked man to be an unrighteous witness.",
   "pericope": {
     "id": "EXO.P044",
@@ -12,7 +12,11 @@
     "range": "EXO.22:30-23:8",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "faith",
+    "resurrection"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +24,21 @@
       "line_number": 857,
       "raw_match": "[[EXO.23:1]]",
       "reference_type": "wikilink",
-      "context": "Nicodemus had spoken with Jesus (3:1-21) and had increased in faith (see note for 3:1, 2). Yet his defense of Christ was still based on our law and was not yet a public profession of faith (see 19:38, 39). According to the law, Jesus must be given a hearing before He can be judged ([[EXO.23:1]]; [[DEU.1:15]]-17). No prophet has arisen out of Galilee: The Pharisees show their blind hatred and their ignorance of the Scriptures, for the prophet Jonah came from Galilee, from the town of Gath Hepher, which was only three miles from Nazareth ([[2KI.14:25]])."
+      "context": "Nicodemus had spoken with Jesus (3:1-21) and had increased in faith (see note for 3:1, 2). Yet his defense of Christ was still based on our law and was not yet a public profession of faith (see 19:38, 39). According to the law, Jesus must be given a hearing before He can be judged ([[EXO.23:1]]; [[DEU.1:15]]-17). No prophet has arisen out of Galilee: The Pharisees show their blind hatred and their ignorance of the Scriptures, for the prophet Jonah came from Galilee, from the town of Gath Hepher, which was only three miles from Nazareth ([[2KI.14:25]]).",
+      "edge_type": "ascends_from",
+      "topic_threads": [
+        "christology",
+        "faith",
+        "resurrection"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

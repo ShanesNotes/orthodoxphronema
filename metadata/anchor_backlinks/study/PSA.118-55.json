@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "I remembered Your name in the night, O Lord, And I kept Your law.",
   "pericope": {
     "id": "PSA.P118",
@@ -12,7 +12,9 @@
     "range": "PSA.118:1-118:176",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "praise"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 366,
       "raw_match": "[[PSA.118:55]]",
       "reference_type": "wikilink",
-      "context": "\"God remembered Noah\" (8:1), but Noah also remembered God. Remembrance in salvation is a two-way street. As the Psalmist said, \"I remembered Your name in the night, O Lord, / And I kept Your law\" ([[PSA.118:55]]). This Noah did, and he built an altar to God."
+      "context": "\"God remembered Noah\" (8:1), but Noah also remembered God. Remembrance in salvation is a two-way street. As the Psalmist said, \"I remembered Your name in the night, O Lord, / And I kept Your law\" ([[PSA.118:55]]). This Noah did, and he built an altar to God.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "praise"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 6,
+        "title": "The Universe As a Language",
+        "polarity": "generation",
+        "operation": "descend",
+        "scale": "communal"
+      }
     }
   ]
 }

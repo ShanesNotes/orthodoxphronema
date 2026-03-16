@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "But if the ministry of death, written and engraved on stones, was glorious, so that the children of Israel could not look steadily at the face of Moses because of the glory of his countenance, which glory was passing away,",
   "pericope": {
     "id": "2CO.P011",
@@ -12,7 +12,16 @@
     "range": "2CO.3:5-3:10",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "baptism",
+    "christology",
+    "creation_theology",
+    "faith",
+    "logos",
+    "praise",
+    "suffering",
+    "wisdom"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +29,26 @@
       "line_number": 18,
       "raw_match": "[[2CO.3:7]]",
       "reference_type": "wikilink",
-      "context": "O ne key to understanding Romans is to distinguish properly between the several ways Paul uses the word 'law' in this epistle. 1 The Mosaic Law (2:12, 13) was written by God on tablets of stone ([[2CO.3:3]], [[2CO.3:7]]) and given to the Jews through Moses. This Law reveals God's righteousness to prepare men for the Messiah and for God's grace. When Paul speaks of 'the law,' he is most often referring to the Mosaic Law. The Law is good, but cannot be kept. It is revelation from God, but not an end in itself. The purpose of the Mosaic Law is (a) to reveal the difference between good and evil; (b) to make the world accountable to God (3:19); (c) to manifest sin (3:20); and (d) to be a schoolmaster to lead us to Christ ([[GAL.3:24]]). Though it is not opposed to the grace of God, the Law cannot save us or make us righteous. 2 The natural law (2:14, 15) has been 'written' by God in the heart of every human who has ever lived as the voice of conscience. It is a reliable guide to God's righteousness for those who are pure in heart; but it can be dulled or obscured completely by habitual sin. 3 The law of works (3:27) is our attempt to establish righteousness before God on the basis of keeping the natural law and/or the Mosaic Law. This law reveals human weakness and sin. 4 The law of faith (3:27) is the synergy, the cooperation, of our faithfulness with God's. It alone is the means by which we attain the righteousness of God. God has been revealing His righteousness by this law little by little since the time of creation, but now has revealed it fully in Christ. As both the natural law and the Mosaic Law bear witness to this law of faith, so those who become righteous by grace through faith fulfill in Christ both the natural and the Mosaic Law. 5 The law of sin (7:25; 8:2) is the power of the sinful passions in our mortal humanity. Passions-desires for such things as food, sex, praise, possessions-are natural; their sinful overindulgence is not. Carnal (physical) passions are especially strong. They aid the unnatural domination of the body over the soul. Sometimes carnal passions overpower the will. The law of sin coupled with the Mosaic Law breeds intense warfare between sin and righteousness. Only God's grace can bring victory for righteousness. 6 The law of the Spirit (8:2) is also called 'the law of Christ' ([[GAL.6:2]]) and 'the law of liberty' ([[JAS.1:25]]; 2:12). It is the power and life of the Holy Spirit active in those who by faith in Christ live out their baptism and chrismation to the fullest possible degree. This makes the righteousness of God gained by faith real in one's life. Coupled with the law of faith, the law of the Spirit defeats the law of sin and fulfills the natural and Mosaic Law. It orients one's innermost being toward God and restores the power of the spirit over the flesh, the soul over the body."
+      "context": "O ne key to understanding Romans is to distinguish properly between the several ways Paul uses the word 'law' in this epistle. 1 The Mosaic Law (2:12, 13) was written by God on tablets of stone ([[2CO.3:3]], [[2CO.3:7]]) and given to the Jews through Moses. This Law reveals God's righteousness to prepare men for the Messiah and for God's grace. When Paul speaks of 'the law,' he is most often referring to the Mosaic Law. The Law is good, but cannot be kept. It is revelation from God, but not an end in itself. The purpose of the Mosaic Law is (a) to reveal the difference between good and evil; (b) to make the world accountable to God (3:19); (c) to manifest sin (3:20); and (d) to be a schoolmaster to lead us to Christ ([[GAL.3:24]]). Though it is not opposed to the grace of God, the Law cannot save us or make us righteous. 2 The natural law (2:14, 15) has been 'written' by God in the heart of every human who has ever lived as the voice of conscience. It is a reliable guide to God's righteousness for those who are pure in heart; but it can be dulled or obscured completely by habitual sin. 3 The law of works (3:27) is our attempt to establish righteousness before God on the basis of keeping the natural law and/or the Mosaic Law. This law reveals human weakness and sin. 4 The law of faith (3:27) is the synergy, the cooperation, of our faithfulness with God's. It alone is the means by which we attain the righteousness of God. God has been revealing His righteousness by this law little by little since the time of creation, but now has revealed it fully in Christ. As both the natural law and the Mosaic Law bear witness to this law of faith, so those who become righteous by grace through faith fulfill in Christ both the natural and the Mosaic Law. 5 The law of sin (7:25; 8:2) is the power of the sinful passions in our mortal humanity. Passions-desires for such things as food, sex, praise, possessions-are natural; their sinful overindulgence is not. Carnal (physical) passions are especially strong. They aid the unnatural domination of the body over the soul. Sometimes carnal passions overpower the will. The law of sin coupled with the Mosaic Law breeds intense warfare between sin and righteousness. Only God's grace can bring victory for righteousness. 6 The law of the Spirit (8:2) is also called 'the law of Christ' ([[GAL.6:2]]) and 'the law of liberty' ([[JAS.1:25]]; 2:12). It is the power and life of the Holy Spirit active in those who by faith in Christ live out their baptism and chrismation to the fullest possible degree. This makes the righteousness of God gained by faith real in one's life. Coupled with the law of faith, the law of the Spirit defeats the law of sin and fulfills the natural and Mosaic Law. It orients one's innermost being toward God and restores the power of the spirit over the flesh, the soul over the body.",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "baptism",
+        "christology",
+        "creation_theology",
+        "faith",
+        "logos",
+        "praise",
+        "suffering",
+        "wisdom"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

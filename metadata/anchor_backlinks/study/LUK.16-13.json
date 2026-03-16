@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "'No servant can serve two masters; for either he will hate the one and love the other, or else he will be loyal to the one and despise the other. You cannot serve God and mammon.'",
   "pericope": {
     "id": "LUK.P077",
@@ -12,7 +12,10 @@
     "range": "LUK.16:13-16:17",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "creation_theology",
+    "suffering"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 102,
       "raw_match": "[[LUK.16:13]]",
       "reference_type": "wikilink",
-      "context": "The world here is creation after the fall and under the dominion of Satan. It is creation no longer oriented toward God, but temporary and dominated by inordinate passions (see [[MAT.6:24]]; [[LUK.16:13]]; [[1CO.7:29]]-31)."
+      "context": "The world here is creation after the fall and under the dominion of Satan. It is creation no longer oriented toward God, but temporary and dominated by inordinate passions (see [[MAT.6:24]]; [[LUK.16:13]]; [[1CO.7:29]]-31).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "creation_theology",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

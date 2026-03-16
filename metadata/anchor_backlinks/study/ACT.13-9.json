@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Then Saul, who also is called Paul, filled with the Holy Spirit, looked intently at him",
   "pericope": {
     "id": "ACT.P043",
@@ -20,7 +20,16 @@
       "line_number": 1163,
       "raw_match": "[[ACT.13:6]]-12",
       "reference_type": "wikilink_range",
-      "context": "With a parody of Pentecost, this monstrous cult leader is able to make fire come down from heaven on the earth by means of deception and sorcery (see Mt 24:24; [[ACT.13:6]]-12; Didache 16:3-4)--luring people into making an image to the beast (v. 14; the goddess of Rome or the emperor). Statues were often \"brought to life\" by sorcery. Irenaeus, Clement, Justin, and Eusebius note that the sorcerer Simon Magus ([[ACT.8:9]]-24) used illusion and occult practices to make idols seem alive. This beast is able to enforce the sentence of death on those who will not worship him (see Nebuchadnezzar's statue in Dan 3)."
+      "context": "With a parody of Pentecost, this monstrous cult leader is able to make fire come down from heaven on the earth by means of deception and sorcery (see Mt 24:24; [[ACT.13:6]]-12; Didache 16:3-4)--luring people into making an image to the beast (v. 14; the goddess of Rome or the emperor). Statues were often \"brought to life\" by sorcery. Irenaeus, Clement, Justin, and Eusebius note that the sorcerer Simon Magus ([[ACT.8:9]]-24) used illusion and occult practices to make idols seem alive. This beast is able to enforce the sentence of death on those who will not worship him (see Nebuchadnezzar's statue in Dan 3).",
+      "edge_type": "echoes",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

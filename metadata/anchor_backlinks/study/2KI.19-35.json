@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "And it came about that the angel of the Lord went out while it was yet night, and struck down one hundred eighty-five thousand in the camp of the Assyrians. When they arose early in the morning, all the dead bodies were there.",
   "pericope": {
     "id": "2KI.P052",
@@ -12,7 +12,9 @@
     "range": "2KI.19:19-19:36",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "repentance"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,14 +22,35 @@
       "line_number": 574,
       "raw_match": "[[2KI.19:35]]",
       "reference_type": "wikilink",
-      "context": "See [[2KI.19:35]]."
+      "context": "See [[2KI.19:35]].",
+      "edge_type": "instantiates",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/SIR_footnotes.md",
       "line_number": 1675,
       "raw_match": "[[2KI.19:35]]",
       "reference_type": "wikilink",
-      "context": "Rabshakeh (v. 18) was an Assyrian title, probably meaning \"chief of staff\" or \"governor.\" Sennacharib, (v. 18) king of the Assyrians (v. 21), was encamped at Lachish and sent the insolent Rabshakeh to demand that Hezekiah surrender the city of Jerusalem to him. Hezekiah turned to the Lord in repentance and sent for guidance from Isaiah. They were rescued from Sennacharib, who ultimately died (see [[2KI.18:13]]- 19:37). The angel (v. 21) destroyed 185,000 of Sennacharib's soldiers (see [[2KI.19:35]])."
+      "context": "Rabshakeh (v. 18) was an Assyrian title, probably meaning \"chief of staff\" or \"governor.\" Sennacharib, (v. 18) king of the Assyrians (v. 21), was encamped at Lachish and sent the insolent Rabshakeh to demand that Hezekiah surrender the city of Jerusalem to him. Hezekiah turned to the Lord in repentance and sent for guidance from Isaiah. They were rescued from Sennacharib, who ultimately died (see [[2KI.18:13]]- 19:37). The angel (v. 21) destroyed 185,000 of Sennacharib's soldiers (see [[2KI.19:35]]).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "repentance"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Now I am no longer in the world, but these are in the world, and I come to You. Holy Father, keep through Your name those whom You have given Me, that they may be one as We are.",
   "pericope": {
     "id": "JOH.P060",
@@ -12,7 +12,11 @@
     "range": "JOH.17:5-17:18",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "eucharist",
+    "faith"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +24,21 @@
       "line_number": 39,
       "raw_match": "[[JOH.17:11]]",
       "reference_type": "wikilink",
-      "context": "Koinonia (Gr.) is far more than fellowship. It is our personal participation with other believers in the life of Christ. Fellowship with us refers to communion--especially eucharistic communion--within the apostolic Church. It is inconceivable to John that the Church not be one and united (see [[JOH.17:11]], [[JOH.17:20]], [[JOH.17:21]]) or that fellowship not be founded on doctrine (the theological implication of with the Father and with His Son Jesus Christ) and on sacrament (the liturgical implication of koinonia). 1:1-4 Contrary to heretics, who claim communion (koinonia) directly with God through \"spiritual\" (non-material) means, John teaches communion with God through the Incarnate Son. Especially in view here is the Eucharist, where the physicality of Christ is repulsive to the heretics."
+      "context": "Koinonia (Gr.) is far more than fellowship. It is our personal participation with other believers in the life of Christ. Fellowship with us refers to communion--especially eucharistic communion--within the apostolic Church. It is inconceivable to John that the Church not be one and united (see [[JOH.17:11]], [[JOH.17:20]], [[JOH.17:21]]) or that fellowship not be founded on doctrine (the theological implication of with the Father and with His Son Jesus Christ) and on sacrament (the liturgical implication of koinonia). 1:1-4 Contrary to heretics, who claim communion (koinonia) directly with God through \"spiritual\" (non-material) means, John teaches communion with God through the Incarnate Son. Especially in view here is the Eucharist, where the physicality of Christ is repulsive to the heretics.",
+      "edge_type": "echoes",
+      "topic_threads": [
+        "christology",
+        "eucharist",
+        "faith"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

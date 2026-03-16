@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "The rulers brought emerald stones, and the stones to be set in the ephod and in the oracle,",
   "pericope": {
     "id": "EXO.P076",
@@ -12,7 +12,10 @@
     "range": "EXO.34:35-35:28",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "priesthood"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 614,
       "raw_match": "[[EXO.35:27]]",
       "reference_type": "wikilink",
-      "context": "St. Ambrose quotes this verse in speaking of Christ the High Priest's woven bridal garment, \"adorned with precious stones\" (see [[EXO.35:27]] and note)."
+      "context": "St. Ambrose quotes this verse in speaking of Christ the High Priest's woven bridal garment, \"adorned with precious stones\" (see [[EXO.35:27]] and note).",
+      "edge_type": "witnesses",
+      "topic_threads": [
+        "christology",
+        "priesthood"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

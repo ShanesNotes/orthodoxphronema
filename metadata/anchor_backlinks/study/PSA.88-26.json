@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "I will put his hand in the sea And his right hand in the rivers.",
   "pericope": {
     "id": "PSA.P088",
@@ -12,7 +12,9 @@
     "range": "PSA.88:1-88:53",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "covenant"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 337,
       "raw_match": "[[PSA.88:26]]",
       "reference_type": "wikilink",
-      "context": "References to God as Father exist several times in the Old Testament (2:21; [[PSA.88:26]]; Tb 13:4; WSol 2:16; WSir 23:4; 2Ez 1:29)."
+      "context": "References to God as Father exist several times in the Old Testament (2:21; [[PSA.88:26]]; Tb 13:4; WSol 2:16; WSir 23:4; 2Ez 1:29).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "covenant"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

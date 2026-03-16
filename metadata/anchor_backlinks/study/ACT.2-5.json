@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "And there were dwelling in Jerusalem Jews, devout men, from every nation under heaven.",
   "pericope": {
     "id": "ACT.P004",
@@ -12,7 +12,12 @@
     "range": "ACT.1:26-2:12",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "covenant",
+    "creation_theology",
+    "israel_church"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,21 +25,54 @@
       "line_number": 550,
       "raw_match": "[[ACT.2:1]]-11",
       "reference_type": "wikilink_range",
-      "context": "New tongues refers to the ability to speak in languages that one has not learned in order to edify others in worship (1Co 14) and to preach the gospel ([[ACT.2:1]]-11)."
+      "context": "New tongues refers to the ability to speak in languages that one has not learned in order to edify others in worship (1Co 14) and to preach the gospel ([[ACT.2:1]]-11).",
+      "edge_type": "instantiates",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/EST_footnotes.md",
       "line_number": 47,
       "raw_match": "[[ACT.2:4]]-11",
       "reference_type": "wikilink_range",
-      "context": "Note that the king's decree was distributed to all people according to their own language, so that all could understand and follow. This is why in the Orthodox Church throughout the world it is imperative that the gospel be preached ([[ACT.2:4]]-11) and the liturgy be celebrated ([[1CO.14:1]]-25) in the language spoken by the people (see also 3:12)."
+      "context": "Note that the king's decree was distributed to all people according to their own language, so that all could understand and follow. This is why in the Orthodox Church throughout the world it is imperative that the gospel be preached ([[ACT.2:4]]-11) and the liturgy be celebrated ([[1CO.14:1]]-25) in the language spoken by the people (see also 3:12).",
+      "edge_type": "instantiates",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/SIR_footnotes.md",
       "line_number": 935,
       "raw_match": "[[ACT.2:5]]",
       "reference_type": "wikilink",
-      "context": "God is the author of holy days, seasons, and feasts. This is clear both in the OT and in the NT: for example, people gathered in Jerusalem for Pentecost ([[ACT.2:1]], [[ACT.2:5]]). Human beings are created to experience some days as sanctified, some as ordinary, as we live within time (v. 9). The fact that some feast days became abused in the Old Covenant does not mean we are not to have them in the New. The Church as the new Israel ([[GAL.6:16]]) has the authority of Christ to mark her holy days and seasons."
+      "context": "God is the author of holy days, seasons, and feasts. This is clear both in the OT and in the NT: for example, people gathered in Jerusalem for Pentecost ([[ACT.2:1]], [[ACT.2:5]]). Human beings are created to experience some days as sanctified, some as ordinary, as we live within time (v. 9). The fact that some feast days became abused in the Old Covenant does not mean we are not to have them in the New. The Church as the new Israel ([[GAL.6:16]]) has the authority of Christ to mark her holy days and seasons.",
+      "edge_type": "echoes",
+      "topic_threads": [
+        "christology",
+        "covenant",
+        "creation_theology",
+        "israel_church"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

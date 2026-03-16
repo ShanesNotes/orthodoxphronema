@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "The hand of a man was underneath their wings on their four sides.",
   "pericope": {
     "id": "EZK.P001",
@@ -12,7 +12,21 @@
     "range": "EZK.1:1-1:26",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "baptism",
+    "christology",
+    "covenant",
+    "creation_theology",
+    "exodus_typology",
+    "faith",
+    "israel_church",
+    "kingdom",
+    "mercy",
+    "praise",
+    "priesthood",
+    "repentance",
+    "resurrection"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,14 +34,53 @@
       "line_number": 35,
       "raw_match": "[[EZK.1:1]]-28",
       "reference_type": "wikilink_range",
-      "context": "F ew saints have been blessed with a vision of heaven while still in this life. Isaiah saw heaven ([[ISA.6:1]]-8), as did Ezekiel ([[EZK.1:1]]-28), and the apostle John saw a new heaven-God's eternal Kingdom revealed as a city ([[REV.21:1]]-22:5). When we read these passages, we note an abundance of mystical, apocalyptic imagery. But the strong similarities between these passages suggests an inspired consistency of reporting on the visions. The living creatures, the light, the cherubic beings, the throne, and the glory of the Lord all work together to unveil a Kingdom of celestial majesty and splendor. While confessing with the prophet Isaiah and the apostle Paul that 'eye has not seen, nor ear heard, nor have entered into the heart of man the things which God has prepared for those who love Him' ([[1CO.2:9]]), we nonetheless find, taking the Scriptures as a whole, that certain things can be said about the eternal Kingdom. 1 The saints who inhabit God's Kingdom live in active fulfillment of His eternal plan. In the Kingdom, humanity becomes all it is meant to be. There is nothing at all in Scripture to suggest that eternal life means people passively afloat on huge white clouds strumming harps unto the ages of ages. Originally created to inhabit Paradise, our first parents chose to sin against God and were expelled from the Garden. The Kingdom of God was closed to mankind ([[GEN.3:24]]). But God in His love called His creation back to Himself, speaking to us through the law and the prophets and ultimately through His incarnate Son. Through new life in Jesus Christ, we are brought back by God's mercy into the new creation, His everlasting Kingdom. As kings and priests we will reign with Him forever ([[REV.1:6]]). 2 We experience a foretaste of the Kingdom in the Church. The very first words of the Divine Liturgy spoken by the priest are, 'Blessed is the Kingdom of the Father and of the Son and of the Holy Spirit, now and ever and unto ages of ages.' The Church at worship enters or ascends to the heavenly Kingdom. For it is in the Church that we are seated 'together in the heavenly places in Christ Jesus' ([[EPH.2:6]]) and are raised to 'where Christ is, sitting at the right hand of God' ([[COL.3:1]]). In worship we join the heavenly hosts-the saints and the angels-in giving praise to our God. As the body of Christ, we participate with that 'great cloud of witnesses' ([[HEB.12:1]]) surrounding us as we come to 'the throne of God' ([[HEB.12:2]]). We come liturgically 'to the city of the living God, the heavenly Jerusalem, to an innumerable company of angels, to the general assembly and church of the firstborn who are registered in heaven, to God the Judge of all' ([[HEB.12:22]], [[HEB.12:23]]). With this heavenly vision, the Orthodox Church each Sunday remembers not only those in the parish but 'all those who in faith have gone on before us to their rest.' 3 Knowledge of the Kingdom motivates us to live in complete devotion to Christ. In this life, we have a foretaste of the Kingdom that inspires us to seek its fullness. In Paul's words, 'For now we see in a mirror, dimly, but then face to face' ([[1CO.13:12]]). Worship is not a solitary act. Rather it is the Bride of Christ, the one Church-those on earth joining with those in heaven-giving thanks to our God and King, who has made us citizens of His magnificent domain. The apostle John writes, 'Beloved, now we are children of God; and it has not yet been revealed what we shall be, but we know that when He is revealed, we shall be like Him, for we shall see Him as He is. And everyone who has this hope in Him purifies himself, just as He is pure' ([[1JN.3:2]], [[1JN.3:3]])."
+      "context": "F ew saints have been blessed with a vision of heaven while still in this life. Isaiah saw heaven ([[ISA.6:1]]-8), as did Ezekiel ([[EZK.1:1]]-28), and the apostle John saw a new heaven-God's eternal Kingdom revealed as a city ([[REV.21:1]]-22:5). When we read these passages, we note an abundance of mystical, apocalyptic imagery. But the strong similarities between these passages suggests an inspired consistency of reporting on the visions. The living creatures, the light, the cherubic beings, the throne, and the glory of the Lord all work together to unveil a Kingdom of celestial majesty and splendor. While confessing with the prophet Isaiah and the apostle Paul that 'eye has not seen, nor ear heard, nor have entered into the heart of man the things which God has prepared for those who love Him' ([[1CO.2:9]]), we nonetheless find, taking the Scriptures as a whole, that certain things can be said about the eternal Kingdom. 1 The saints who inhabit God's Kingdom live in active fulfillment of His eternal plan. In the Kingdom, humanity becomes all it is meant to be. There is nothing at all in Scripture to suggest that eternal life means people passively afloat on huge white clouds strumming harps unto the ages of ages. Originally created to inhabit Paradise, our first parents chose to sin against God and were expelled from the Garden. The Kingdom of God was closed to mankind ([[GEN.3:24]]). But God in His love called His creation back to Himself, speaking to us through the law and the prophets and ultimately through His incarnate Son. Through new life in Jesus Christ, we are brought back by God's mercy into the new creation, His everlasting Kingdom. As kings and priests we will reign with Him forever ([[REV.1:6]]). 2 We experience a foretaste of the Kingdom in the Church. The very first words of the Divine Liturgy spoken by the priest are, 'Blessed is the Kingdom of the Father and of the Son and of the Holy Spirit, now and ever and unto ages of ages.' The Church at worship enters or ascends to the heavenly Kingdom. For it is in the Church that we are seated 'together in the heavenly places in Christ Jesus' ([[EPH.2:6]]) and are raised to 'where Christ is, sitting at the right hand of God' ([[COL.3:1]]). In worship we join the heavenly hosts-the saints and the angels-in giving praise to our God. As the body of Christ, we participate with that 'great cloud of witnesses' ([[HEB.12:1]]) surrounding us as we come to 'the throne of God' ([[HEB.12:2]]). We come liturgically 'to the city of the living God, the heavenly Jerusalem, to an innumerable company of angels, to the general assembly and church of the firstborn who are registered in heaven, to God the Judge of all' ([[HEB.12:22]], [[HEB.12:23]]). With this heavenly vision, the Orthodox Church each Sunday remembers not only those in the parish but 'all those who in faith have gone on before us to their rest.' 3 Knowledge of the Kingdom motivates us to live in complete devotion to Christ. In this life, we have a foretaste of the Kingdom that inspires us to seek its fullness. In Paul's words, 'For now we see in a mirror, dimly, but then face to face' ([[1CO.13:12]]). Worship is not a solitary act. Rather it is the Bride of Christ, the one Church-those on earth joining with those in heaven-giving thanks to our God and King, who has made us citizens of His magnificent domain. The apostle John writes, 'Beloved, now we are children of God; and it has not yet been revealed what we shall be, but we know that when He is revealed, we shall be like Him, for we shall see Him as He is. And everyone who has this hope in Him purifies himself, just as He is pure' ([[1JN.3:2]], [[1JN.3:3]]).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "creation_theology",
+        "faith",
+        "kingdom",
+        "mercy",
+        "praise",
+        "priesthood",
+        "repentance"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/NT/REV_footnotes.md",
       "line_number": 532,
       "raw_match": "[[EZK.1:4]]-20",
       "reference_type": "wikilink_range",
-      "context": "The twenty-four elders are usually interpreted to be elders of the old and new covenants: the twelve sons of Jacob and the twelve apostles, the fullness of both covenants. They are the foundation of the people of God in both covenants (7:4; Mt 19:28). These elders continually fall down before God in worship (5:14; 11:16; 19:4), in adoration and praise (4:11; 5:9, 10; 11:17, 18; 19:4). 4:6, 7 The sea of glass ([[EZK.1:22]]-26) surrounds God's throne, for God is approached by fallen men only through waters of death that produce life. As Israel journeyed through the Red Sea as if on hard ground, so Christians pass through the waters of baptism, entering into Christ's death and Resurrection. If the sea is not of glass, there is death, not new life. Also, God is vast and overpowering, as a sea of light would be. The hosts of angels surround Him ([[DAN.7:10]]) as a sea of purity. The four living creatures are angelic beings adapted from [[EZK.1:4]]-20 and Is 6:2. Their number is that of the whole world, the cosmos, and thus they portray creation, beasts, men, and angels as the Kingdom of God. Traditional iconography depicts them as symbols for the four evangelists. Their worship of God is unceasing, an ideal inspiring the round-the-clock services of Orthodox monastic communities."
+      "context": "The twenty-four elders are usually interpreted to be elders of the old and new covenants: the twelve sons of Jacob and the twelve apostles, the fullness of both covenants. They are the foundation of the people of God in both covenants (7:4; Mt 19:28). These elders continually fall down before God in worship (5:14; 11:16; 19:4), in adoration and praise (4:11; 5:9, 10; 11:17, 18; 19:4). 4:6, 7 The sea of glass ([[EZK.1:22]]-26) surrounds God's throne, for God is approached by fallen men only through waters of death that produce life. As Israel journeyed through the Red Sea as if on hard ground, so Christians pass through the waters of baptism, entering into Christ's death and Resurrection. If the sea is not of glass, there is death, not new life. Also, God is vast and overpowering, as a sea of light would be. The hosts of angels surround Him ([[DAN.7:10]]) as a sea of purity. The four living creatures are angelic beings adapted from [[EZK.1:4]]-20 and Is 6:2. Their number is that of the whole world, the cosmos, and thus they portray creation, beasts, men, and angels as the Kingdom of God. Traditional iconography depicts them as symbols for the four evangelists. Their worship of God is unceasing, an ideal inspiring the round-the-clock services of Orthodox monastic communities.",
+      "edge_type": "opposes",
+      "topic_threads": [
+        "baptism",
+        "christology",
+        "covenant",
+        "creation_theology",
+        "exodus_typology",
+        "israel_church",
+        "kingdom",
+        "praise",
+        "resurrection"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "But He said, 'More than that, blessed are those who hear the word of God and keep it!'",
   "pericope": {
     "id": "LUK.P056",
@@ -12,7 +12,13 @@
     "range": "LUK.11:15-11:31",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "divine_word",
+    "eschatology",
+    "faith",
+    "judgment",
+    "logos"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +26,23 @@
       "line_number": 37,
       "raw_match": "[[LUK.11:28]]",
       "reference_type": "wikilink",
-      "context": "A blessing is promised to those who read and hear (see [[LUK.11:28]]). This is the first of the seven beatitudes of the Revelation, found also in 14:13; 16:15; 19:9; 20:6; 22:7, 14. Blessed here are both the reader and the hearers (the assembled faithful), provided they heed what is read--for faith and works are inseparable. Time (Gr. kairos) means here an eschatological decisive moment--a time of judgment, a critical moment, the time when all is fulfilled."
+      "context": "A blessing is promised to those who read and hear (see [[LUK.11:28]]). This is the first of the seven beatitudes of the Revelation, found also in 14:13; 16:15; 19:9; 20:6; 22:7, 14. Blessed here are both the reader and the hearers (the assembled faithful), provided they heed what is read--for faith and works are inseparable. Time (Gr. kairos) means here an eschatological decisive moment--a time of judgment, a critical moment, the time when all is fulfilled.",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "divine_word",
+        "eschatology",
+        "faith",
+        "judgment",
+        "logos"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

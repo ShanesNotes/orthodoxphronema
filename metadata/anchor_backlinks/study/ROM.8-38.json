@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "For I am persuaded that neither death nor life, nor angels nor principalities nor powers, nor things present nor things to come,",
   "pericope": {
     "id": "ROM.P021",
@@ -12,7 +12,10 @@
     "range": "ROM.8:30-8:39",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "baptism",
+    "christology"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 546,
       "raw_match": "[[ROM.8:38]]",
       "reference_type": "wikilink",
-      "context": "Storms, water, and surging rivers cannot quench \"the love of God which is in Christ Jesus our Lord\" ([[ROM.8:38]], [[ROM.8:39]])."
+      "context": "Storms, water, and surging rivers cannot quench \"the love of God which is in Christ Jesus our Lord\" ([[ROM.8:38]], [[ROM.8:39]]).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "baptism",
+        "christology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

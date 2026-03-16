@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Now in the church that was at Antioch there were certain prophets and teachers: Barnabas, Simeon who was called Niger, Lucius of Cyrene, Manaen who had been brought up with Herod the tetrarch, and Saul.",
   "pericope": {
     "id": "ACT.P042",
@@ -12,7 +12,10 @@
     "range": "ACT.12:25-13:2",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "shepherd"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 2037,
       "raw_match": "[[ACT.13:1]]",
       "reference_type": "wikilink",
-      "context": "Christ's warning against calling hypocrites father and teacher is not an absolute prohibition against using these terms, as some teach. These terms are applied to men many times in the NT, all of which usages are inspired by God. Teacher is used in [[JOH.3:10]]; [[ACT.13:1]]; [[1CO.12:28]]; [[EPH.4:11]]; and [[2TI.1:11]]. Father is used in [[LUK.16:24]]; [[1CO.4:15]]; and Col 3:21. Since the very early days of the Church, bishops and presbyters have been called \"father\" not because they take the place of God, but because in their fatherly care for their flocks, they lead people to God, and they exercise fatherly authority within the community."
+      "context": "Christ's warning against calling hypocrites father and teacher is not an absolute prohibition against using these terms, as some teach. These terms are applied to men many times in the NT, all of which usages are inspired by God. Teacher is used in [[JOH.3:10]]; [[ACT.13:1]]; [[1CO.12:28]]; [[EPH.4:11]]; and [[2TI.1:11]]. Father is used in [[LUK.16:24]]; [[1CO.4:15]]; and Col 3:21. Since the very early days of the Church, bishops and presbyters have been called \"father\" not because they take the place of God, but because in their fatherly care for their flocks, they lead people to God, and they exercise fatherly authority within the community.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology",
+        "shepherd"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

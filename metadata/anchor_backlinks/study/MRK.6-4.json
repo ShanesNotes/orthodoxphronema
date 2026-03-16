@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "But Jesus said to them, 'A prophet is not without honor except in his own country, among his own relatives, and in his own house.'",
   "pericope": {
     "id": "MRK.P022",
@@ -12,7 +12,9 @@
     "range": "MRK.5:34-6:5",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 285,
       "raw_match": "[[MRK.6:4]]",
       "reference_type": "wikilink",
-      "context": "Irony and sarcasm are bitter medicine, and Paul uses them here (vv. 8-13) with full force. The three parallel statements we are fools, we are weak, we are dishonored are heaped upon each other in a stinging series. The relative comfort of the Corinthian Christians is contrasted with the persecuted, poverty-stricken and uncertain life of the apostles (vv. 11-13; see [[MRK.6:4]]; 9:35; 10:31)."
+      "context": "Irony and sarcasm are bitter medicine, and Paul uses them here (vv. 8-13) with full force. The three parallel statements we are fools, we are weak, we are dishonored are heaped upon each other in a stinging series. The relative comfort of the Corinthian Christians is contrasted with the persecuted, poverty-stricken and uncertain life of the apostles (vv. 11-13; see [[MRK.6:4]]; 9:35; 10:31).",
+      "edge_type": "opposes",
+      "topic_threads": [
+        "christology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

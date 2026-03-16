@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Then the Lord spoke to Moses, saying,",
   "pericope": {
     "id": "NUM.P006",
@@ -12,7 +12,11 @@
     "range": "NUM.3:39-3:50",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "priesthood",
+    "temple"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +24,21 @@
       "line_number": 1615,
       "raw_match": "[[NUM.3:43]]-51",
       "reference_type": "wikilink_range",
-      "context": "The temple tax was an annual head tax on all male Jews (except the priests) over twelve years of age for the maintenance of the temple (see [[NUM.3:43]]-51). Since Jesus is the Son of God, He is both High Priest and \"proprietor\" of the temple, and thus is exempt from the tax. Nevertheless, He pays it anyway, both to avoid unnecessary offense and to show that He has totally identified Himself with mankind."
+      "context": "The temple tax was an annual head tax on all male Jews (except the priests) over twelve years of age for the maintenance of the temple (see [[NUM.3:43]]-51). Since Jesus is the Son of God, He is both High Priest and \"proprietor\" of the temple, and thus is exempt from the tax. Nevertheless, He pays it anyway, both to avoid unnecessary offense and to show that He has totally identified Himself with mankind.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology",
+        "priesthood",
+        "temple"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "For even Christ did not please Himself; but as it is written, 'The reproaches of those who reproached You fell on Me.'",
   "pericope": {
     "id": "ROM.P040",
@@ -12,7 +12,10 @@
     "range": "ROM.14:23-15:5",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "exodus_typology"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 1199,
       "raw_match": "[[ROM.15:3]]",
       "reference_type": "wikilink",
-      "context": ", 24 Joseph's name relates to the bearing of reproach, and he bore the reproach of his brothers when they sold him into Egypt. Christ bore our reproach ([[ROM.15:3]])."
+      "context": ", 24 Joseph's name relates to the bearing of reproach, and he bore the reproach of his brothers when they sold him into Egypt. Christ bore our reproach ([[ROM.15:3]]).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "exodus_typology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Yet it shall not be so among you; but whoever desires to become great among you shall be your servant.",
   "pericope": {
     "id": "MRK.P036",
@@ -12,7 +12,12 @@
     "range": "MRK.10:16-10:44",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "kingdom",
+    "logos",
+    "priesthood"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,14 +25,40 @@
       "line_number": 314,
       "raw_match": "[[MRK.10:42]]-45",
       "reference_type": "wikilink_range",
-      "context": "(See [[MRK.10:42]]-45; [[2CO.4:5]].) Those entrusted to you (Gr. kleron) means those who have \"the inheritance\"; the word is the source of the English \"clergy.\" In the OT the Levites were the kleros; their inheritance was the Lord. In the NT all are kleros, a royal priesthood, equally inheriting the Lord. While there are \"orders\" of clergy in the Church-- bishops, presbyters, deacons--a separation or isolation between priests and laity is unknown in the NT."
+      "context": "(See [[MRK.10:42]]-45; [[2CO.4:5]].) Those entrusted to you (Gr. kleron) means those who have \"the inheritance\"; the word is the source of the English \"clergy.\" In the OT the Levites were the kleros; their inheritance was the Lord. In the NT all are kleros, a royal priesthood, equally inheriting the Lord. While there are \"orders\" of clergy in the Church-- bishops, presbyters, deacons--a separation or isolation between priests and laity is unknown in the NT.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "logos",
+        "priesthood"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/JER_footnotes.md",
       "line_number": 987,
       "raw_match": "[[MRK.10:43]]",
       "reference_type": "wikilink",
-      "context": "Jeremiah reiterates the prophecy of the coming destruction of the land, linking it this time to slavery and servitude. For Christians, this is a lesson in forgiveness and becoming the servants of others. For, if we do not forgive others, God will not forgive us ([[MAT.6:14]], [[MAT.6:15]]). If we want to become great in the kingdom of God, we must become servants to others ([[MRK.10:43]], [[MRK.10:44]])."
+      "context": "Jeremiah reiterates the prophecy of the coming destruction of the land, linking it this time to slavery and servitude. For Christians, this is a lesson in forgiveness and becoming the servants of others. For, if we do not forgive others, God will not forgive us ([[MAT.6:14]], [[MAT.6:15]]). If we want to become great in the kingdom of God, we must become servants to others ([[MRK.10:43]], [[MRK.10:44]]).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "kingdom"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

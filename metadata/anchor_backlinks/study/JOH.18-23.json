@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Jesus answered him, 'If I have spoken evil, bear witness of the evil; but if well, why do you strike Me?'",
   "pericope": {
     "id": "JOH.P063",
@@ -20,7 +20,16 @@
       "line_number": 290,
       "raw_match": "[[JOH.18:23]]",
       "reference_type": "wikilink",
-      "context": "; [[JOH.18:23]]; [[MAT.27:26]], [[MAT.27:27]], [[MAT.27:29]]; Is 53:2, 3)."
+      "context": "; [[JOH.18:23]]; [[MAT.27:26]], [[MAT.27:27]], [[MAT.27:29]]; Is 53:2, 3).",
+      "edge_type": "fulfills",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 9,
+        "title": "Example: The Cherubim of Ezekiel I",
+        "polarity": "generation",
+        "operation": "inform",
+        "scale": "intercommunal"
+      }
     }
   ]
 }

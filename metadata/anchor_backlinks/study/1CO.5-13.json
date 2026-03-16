@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "But those who are outside God judges. Therefore 'put away from yourselves the evil person.'",
   "pericope": {
     "id": "1CO.P014",
@@ -12,7 +12,11 @@
     "range": "1CO.5:13-6:10",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "covenant",
+    "judgment"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,21 +24,55 @@
       "line_number": 111,
       "raw_match": "[[1CO.5:1]]-13",
       "reference_type": "wikilink_range",
-      "context": "Good theology helps us along the path to good behavior. Although the truth stands firm and unalterable and cannot tolerate the false (see [[1CO.5:1]]-13; [[2CO.6:14]]-18), it instills a reasonable patience and gentleness toward all, especially toward false teachers --while not losing sight of the fact that they are enemies and to be avoided (3:5)."
+      "context": "Good theology helps us along the path to good behavior. Although the truth stands firm and unalterable and cannot tolerate the false (see [[1CO.5:1]]-13; [[2CO.6:14]]-18), it instills a reasonable patience and gentleness toward all, especially toward false teachers --while not losing sight of the fact that they are enemies and to be avoided (3:5).",
+      "edge_type": "instantiates",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/NT/MAT_footnotes.md",
       "line_number": 1282,
       "raw_match": "[[1CO.5:13]]",
       "reference_type": "wikilink",
-      "context": "This parable builds on the previous parable of the sower. Here Christ gives attention to the enemy who has sown his seed among the seed of Christ. As falsehood came after truth and false prophets came after the true prophets, so the Antichrist will come after Christ. Just as the weeds first appear similar to wheat, so the devil fashions his lies to resemble the truth. That the devil sows while men slept indicates that heresy and lies creep in when people are apathetic. This parable also explains why the Church neither condemns nominal members, nor judges those outside the Church ([[1CO.5:12]], [[1CO.5:13]]). Just as wheat would be destroyed in weeding out the tares, so also, many people who might ultimately find salvation would otherwise be lost if condemned before Christ's judgment."
+      "context": "This parable builds on the previous parable of the sower. Here Christ gives attention to the enemy who has sown his seed among the seed of Christ. As falsehood came after truth and false prophets came after the true prophets, so the Antichrist will come after Christ. Just as the weeds first appear similar to wheat, so the devil fashions his lies to resemble the truth. That the devil sows while men slept indicates that heresy and lies creep in when people are apathetic. This parable also explains why the Church neither condemns nominal members, nor judges those outside the Church ([[1CO.5:12]], [[1CO.5:13]]). Just as wheat would be destroyed in weeding out the tares, so also, many people who might ultimately find salvation would otherwise be lost if condemned before Christ's judgment.",
+      "edge_type": "scales_to",
+      "topic_threads": [
+        "christology",
+        "judgment"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/DEU_footnotes.md",
       "line_number": 342,
       "raw_match": "[[1CO.5:13]]",
       "reference_type": "wikilink",
-      "context": "The statement, \"You shall put away their evil from among you,\" is quoted by St. Paul in [[1CO.5:13]] in relation to church discipline. This shows the close kinship between the old and new covenants, and one and the same Lord and Lawgiver (JohnChr). The punishments were different, but the objective was the same, namely, a holy people to the Lord."
+      "context": "The statement, \"You shall put away their evil from among you,\" is quoted by St. Paul in [[1CO.5:13]] in relation to church discipline. This shows the close kinship between the old and new covenants, and one and the same Lord and Lawgiver (JohnChr). The punishments were different, but the objective was the same, namely, a holy people to the Lord.",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "covenant"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

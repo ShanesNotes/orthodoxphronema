@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "But place your soldiers around it,",
   "pericope": {
     "id": "JOS.P009",
@@ -20,7 +20,8 @@
       "line_number": 453,
       "raw_match": "[[JOS.6:1]]-21",
       "reference_type": "wikilink_range",
-      "context": "See [[JOS.6:1]]-21."
+      "context": "See [[JOS.6:1]]-21.",
+      "edge_type": "instantiates"
     }
   ]
 }

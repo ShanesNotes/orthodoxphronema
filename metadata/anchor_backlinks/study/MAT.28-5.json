@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "But the angel answered and said to the women, 'Do not be afraid, for I know that you seek Jesus who was crucified.",
   "pericope": {
     "id": "MAT.P094",
@@ -12,7 +12,11 @@
     "range": "MAT.27:66-28:7",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "resurrection",
+    "suffering"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +24,21 @@
       "line_number": 35,
       "raw_match": "[[MAT.28:5]]-7",
       "reference_type": "wikilink_range",
-      "context": "Different (Gr. heteros, v. 6) means different in kind, whereas another (Gr. allos, v. 7) means another of the same kind. Paul is saying that the teaching the Galatians are listening to is not a harmless variation of the truth, but a completely different, false gospel. This \"gospel\" (1) is a turning away from the grace of Christ (v. 6); (2) brings trouble to the faithful; (3) will pervert the gospel of Christ (v. 7)--it is a distortion of the truth, a mixture of truth and falsehood; (4) is accursed or anathematized by the Church (v. 8); and (5) is intended to please men (v. 10), not God. Paul's warning about we, or an angel from heaven is not hypothetical. Angels can and have delivered the gospel to us: they announced Christ's conception ([[LUK.1:26]]-38), birth ([[LUK.2:9]]-15), Resurrection ([[MAT.28:5]]-7), and Ascension ([[ACT.1:9]]-11). But angelic messages are not necessarily true; they may come from fallen angels, who are accursed."
+      "context": "Different (Gr. heteros, v. 6) means different in kind, whereas another (Gr. allos, v. 7) means another of the same kind. Paul is saying that the teaching the Galatians are listening to is not a harmless variation of the truth, but a completely different, false gospel. This \"gospel\" (1) is a turning away from the grace of Christ (v. 6); (2) brings trouble to the faithful; (3) will pervert the gospel of Christ (v. 7)--it is a distortion of the truth, a mixture of truth and falsehood; (4) is accursed or anathematized by the Church (v. 8); and (5) is intended to please men (v. 10), not God. Paul's warning about we, or an angel from heaven is not hypothetical. Angels can and have delivered the gospel to us: they announced Christ's conception ([[LUK.1:26]]-38), birth ([[LUK.2:9]]-15), Resurrection ([[MAT.28:5]]-7), and Ascension ([[ACT.1:9]]-11). But angelic messages are not necessarily true; they may come from fallen angels, who are accursed.",
+      "edge_type": "opposes",
+      "topic_threads": [
+        "christology",
+        "resurrection",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

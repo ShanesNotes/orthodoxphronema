@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Again he spoke to Him and said, 'But suppose there should be forty found there?' So He said, 'I would not destroy it for the sake of forty.'",
   "pericope": {
     "id": "GEN.P025",
@@ -12,7 +12,12 @@
     "range": "GEN.18:15-18:32",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "prayer",
+    "priesthood",
+    "suffering"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +25,22 @@
       "line_number": 766,
       "raw_match": "[[GEN.18:22]]-33",
       "reference_type": "wikilink_range",
-      "context": "Job images Christ as suffering servant, High Priest, and Intercessor on behalf of all. St. Gregory writes that he also images the Church. Job's intercession is echoed by Abraham and Moses (see [[GEN.18:22]]-33; [[EXO.32:32]]) and fulfilled by Christ ([[LUK.23:34]]). As we worship during Divine Liturgy, we offer up ourselves and, because Christ offered Himself first for our sake, we receive acceptance and forgiveness through Him."
+      "context": "Job images Christ as suffering servant, High Priest, and Intercessor on behalf of all. St. Gregory writes that he also images the Church. Job's intercession is echoed by Abraham and Moses (see [[GEN.18:22]]-33; [[EXO.32:32]]) and fulfilled by Christ ([[LUK.23:34]]). As we worship during Divine Liturgy, we offer up ourselves and, because Christ offered Himself first for our sake, we receive acceptance and forgiveness through Him.",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "prayer",
+        "priesthood",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

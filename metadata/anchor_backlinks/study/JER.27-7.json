@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "All who found them devoured them. Their adversaries said, 'Let us not leave them alone, because they sinned against the Lord, who gathered together their fathers in a pasture of righteousness.'",
   "pericope": {
     "id": "JER.P050",
@@ -12,7 +12,9 @@
     "range": "JER.24:10-38:39",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "shepherd"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 39,
       "raw_match": "[[JER.27:6]]-8",
       "reference_type": "wikilink_range",
-      "context": "God's people have always been called to pray for the... king and all who are in authority (see [[JER.27:6]]-8; 36:4-7; [[ROM.13:1]]-7; [[1TI.2:1]], [[1TI.2:2]])."
+      "context": "God's people have always been called to pray for the... king and all who are in authority (see [[JER.27:6]]-8; 36:4-7; [[ROM.13:1]]-7; [[1TI.2:1]], [[1TI.2:2]]).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "shepherd"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

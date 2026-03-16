@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Therefore He says: Arise from the dead, And Christ will give y ou light.'",
   "pericope": {
     "id": "EPH.P013",
@@ -12,7 +12,21 @@
     "range": "EPH.5:2-5:14",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "baptism",
+    "christology",
+    "covenant",
+    "creation_theology",
+    "eucharist",
+    "israel_church",
+    "logos",
+    "praise",
+    "priesthood",
+    "resurrection",
+    "suffering",
+    "temple",
+    "wisdom"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,35 +34,112 @@
       "line_number": 28,
       "raw_match": "[[EPH.5:14]]",
       "reference_type": "wikilink",
-      "context": "Virtually all students of the Bible realize there was liturgical worship in Israel. Immediately after the giving of the Ten Commandments ([[EXO.20:1]]-17), instructions for building the altar were set forth ([[EXO.20:24]]-26). Then comes instruction concerning keeping the Sabbath ([[EXO.23:10]]-13), the annual feasts ([[EXO.23:14]]-19), and the various offerings and furnishings in the sanctuary ([[EXO.25:1]]-40). Following this, chapters 26-30 deal with such matters as the design of the tabernacle, the altar, and the outer court, the priests' vestments and their consecration, and instructions for daily offerings. Liturgical worship is also found in heaven, which is to be expected, since God instructed Moses to make the earthly place of worship as a 'copy and shadow of the heavenly things' ([[HEB.8:5]]; see [[EXO.25:40]]). Heavenly worship is revealed in such passages as [[ISA.6:1]]-8, where we see the prophet caught up to heaven for the liturgy, and Revelation 4, which records the apostle John's vision of heaven's liturgy. The key to comprehending liturgy in the New Testament is to understand the work of the High Priest, our Lord Jesus Christ, who inaugurates the new covenant. Christ is 'a priest forever' ([[HEB.7:17]], [[HEB.7:21]]). It is unthinkable that He would be a priest but not serve liturgically: 'forever' suggests He serves continually, without ceasing, in the heavenly tabernacle. Further, He is called not only a priest but a liturgist: 'a Minister [Gr. leitourgos, lit., 'liturgist') of the sanctuary and of the true tabernacle which the Lord erected' ([[HEB.8:2]]). Christian worship on earth, to be fully Christian, must mirror the worship of Christ in heaven. Moreover, Christ is 'Mediator of a better covenant' ([[HEB.8:6]]). What is that covenant? In the words of the Lord, 'This cup is the new covenant in My blood' ([[1CO.11:25]]). Just as the blood of bulls and goats in the old covenant prefigured Christ's sacrifice to come, so the eucharistic feast brings to us the fullness of His new covenant offering, completed at the Cross and fulfilled in His Resurrection. This once-for-all offering of Himself ([[HEB.7:27]]) which He as High Priest presents at the heavenly altar is an offering in which we participate through the Divine Liturgy in the Church. This is the worship of the New Testament Church! Given this biblical background, a number of New Testament passages take on new meaning. 1 [[ACT.13:2]]: 'As they ministered to the Lord [lit., 'as they were in the liturgy of the Lord'] and fasted, the Holy Spirit said, 'Now separate to Me Barnabas and Saul.' ' We learn that (a) these two apostles were called by God during worship, and (b) the Holy Spirit speaks in a liturgical setting. 2 [[ACT.20:7]]: 'Now on the first day of the week, when the disciples came together to break bread, Paul, ready to depart the next day, spoke to them.' Communion was held each Sunday. 3 [[ROM.16:16]]: 'Greet one another with a holy kiss.' A kiss of greeting was common in this ancient culture. The 'holy kiss,' however, was an element of the Christian liturgy that signified the people of God were reconciled to one another, so that they might receive the Body and Blood of Christ in peace. 4 [[EPH.5:14]]: 'Awake, you who sleep, / Arise from the dead, / And Christ will give you light.' This is an ancient baptismal hymn, already in use by the time Ephesians was written. Other examples of creeds and hymns of New Testament times are seen in [[1TI.3:16]] and [[2TI.2:11]]-13. 5 [[HEB.13:10]]: 'We have an altar' reveals the continuation of the altar in New Testament worship."
+      "context": "Virtually all students of the Bible realize there was liturgical worship in Israel. Immediately after the giving of the Ten Commandments ([[EXO.20:1]]-17), instructions for building the altar were set forth ([[EXO.20:24]]-26). Then comes instruction concerning keeping the Sabbath ([[EXO.23:10]]-13), the annual feasts ([[EXO.23:14]]-19), and the various offerings and furnishings in the sanctuary ([[EXO.25:1]]-40). Following this, chapters 26-30 deal with such matters as the design of the tabernacle, the altar, and the outer court, the priests' vestments and their consecration, and instructions for daily offerings. Liturgical worship is also found in heaven, which is to be expected, since God instructed Moses to make the earthly place of worship as a 'copy and shadow of the heavenly things' ([[HEB.8:5]]; see [[EXO.25:40]]). Heavenly worship is revealed in such passages as [[ISA.6:1]]-8, where we see the prophet caught up to heaven for the liturgy, and Revelation 4, which records the apostle John's vision of heaven's liturgy. The key to comprehending liturgy in the New Testament is to understand the work of the High Priest, our Lord Jesus Christ, who inaugurates the new covenant. Christ is 'a priest forever' ([[HEB.7:17]], [[HEB.7:21]]). It is unthinkable that He would be a priest but not serve liturgically: 'forever' suggests He serves continually, without ceasing, in the heavenly tabernacle. Further, He is called not only a priest but a liturgist: 'a Minister [Gr. leitourgos, lit., 'liturgist') of the sanctuary and of the true tabernacle which the Lord erected' ([[HEB.8:2]]). Christian worship on earth, to be fully Christian, must mirror the worship of Christ in heaven. Moreover, Christ is 'Mediator of a better covenant' ([[HEB.8:6]]). What is that covenant? In the words of the Lord, 'This cup is the new covenant in My blood' ([[1CO.11:25]]). Just as the blood of bulls and goats in the old covenant prefigured Christ's sacrifice to come, so the eucharistic feast brings to us the fullness of His new covenant offering, completed at the Cross and fulfilled in His Resurrection. This once-for-all offering of Himself ([[HEB.7:27]]) which He as High Priest presents at the heavenly altar is an offering in which we participate through the Divine Liturgy in the Church. This is the worship of the New Testament Church! Given this biblical background, a number of New Testament passages take on new meaning. 1 [[ACT.13:2]]: 'As they ministered to the Lord [lit., 'as they were in the liturgy of the Lord'] and fasted, the Holy Spirit said, 'Now separate to Me Barnabas and Saul.' ' We learn that (a) these two apostles were called by God during worship, and (b) the Holy Spirit speaks in a liturgical setting. 2 [[ACT.20:7]]: 'Now on the first day of the week, when the disciples came together to break bread, Paul, ready to depart the next day, spoke to them.' Communion was held each Sunday. 3 [[ROM.16:16]]: 'Greet one another with a holy kiss.' A kiss of greeting was common in this ancient culture. The 'holy kiss,' however, was an element of the Christian liturgy that signified the people of God were reconciled to one another, so that they might receive the Body and Blood of Christ in peace. 4 [[EPH.5:14]]: 'Awake, you who sleep, / Arise from the dead, / And Christ will give you light.' This is an ancient baptismal hymn, already in use by the time Ephesians was written. Other examples of creeds and hymns of New Testament times are seen in [[1TI.3:16]] and [[2TI.2:11]]-13. 5 [[HEB.13:10]]: 'We have an altar' reveals the continuation of the altar in New Testament worship.",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "baptism",
+        "christology",
+        "covenant",
+        "eucharist",
+        "israel_church",
+        "praise",
+        "priesthood",
+        "resurrection",
+        "suffering",
+        "temple"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/NT/HEB_footnotes.md",
       "line_number": 358,
       "raw_match": "[[EPH.5:14]]",
       "reference_type": "wikilink",
-      "context": "The basic sacraments are crucial to salvation: One is once enlightened in baptism, which is unrepeatable and called the sacrament of illumination (see [[EPH.5:14]]). Tasted the heavenly gift (see [[1PE.2:3]]) may refer to the grace of baptism--Chrysostom says this gift is especially the forgiveness of sin experienced in baptism--and it most certainly refers to the Eucharist. Become partakers of the Holy Spirit refers to the fruit of chrismation, the experience of knowing the Holy Spirit. 6:1-4 A glimpse at some features of oral apostolic tradition."
+      "context": "The basic sacraments are crucial to salvation: One is once enlightened in baptism, which is unrepeatable and called the sacrament of illumination (see [[EPH.5:14]]). Tasted the heavenly gift (see [[1PE.2:3]]) may refer to the grace of baptism--Chrysostom says this gift is especially the forgiveness of sin experienced in baptism--and it most certainly refers to the Eucharist. Become partakers of the Holy Spirit refers to the fruit of chrismation, the experience of knowing the Holy Spirit. 6:1-4 A glimpse at some features of oral apostolic tradition.",
+      "edge_type": "witnesses",
+      "topic_threads": [
+        "baptism",
+        "christology",
+        "eucharist"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/NT/HEB_footnotes.md",
       "line_number": 638,
       "raw_match": "[[EPH.5:14]]",
       "reference_type": "wikilink",
-      "context": "Illuminated: Illumination, or enlightenment, refers to baptism (see 6:4; [[ROM.6:4]]; [[EPH.5:14]])."
+      "context": "Illuminated: Illumination, or enlightenment, refers to baptism (see 6:4; [[ROM.6:4]]; [[EPH.5:14]]).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "baptism",
+        "christology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/PRO_footnotes.md",
       "line_number": 215,
       "raw_match": "[[EPH.5:14]]",
       "reference_type": "wikilink",
-      "context": "Prostitution here refers to engaging in sex outside marriage, which may or may not involve the payment of money. The sons of Wisdom need to obey Him and His teachings, and stay away from sex outside marriage (vv. 7, 8). For the perils are many. In fornication, a man becomes one flesh with numerous women, which in the end brings regret and a totally dissipated life (vv. 9-11; see also St. Paul's teaching in [[1CO.6:15]]-20). Such a son will regret hating the instruction and reproofs of Wisdom (vv. 12, 13). Furthermore, little by little, this lifestyle leads to other sins, which are evident not only to God but to the church (v. 14). 5:15-19 Marriage is sacred, here called waters which are pure, for it was ordained by Wisdom (v. 15; see also [[GEN.2:23]], [[GEN.2:24]]). But adultery spills these waters and damages the marriage bond (v. 16). However, faithfulness in marriage is called wide places, because it is filled with blessings from Wisdom (vv. 16-18). For within it, both husband and wife rejoice together (v. 18), and the wife's love and companionship make her husband great (v. 19). 5:20-23 In conclusion, the eyes of God keep close watch on a man (vv. 20, 21). For a man who embraces a woman not his wife may do so in the dark, but what he does is fully exposed before God. And although a lawless woman may ensnare a man, the man also is responsible for chaining himself with his own sins (v. 22). For he refuses Wisdom's crown of discernment, and is finally destroyed with the rest of the undiscerning (v. 23; see also [[HEB.13:4]]). 6:1-40 This chapter warns against four vices or sinful passions: a careless tongue (vv. 1-6), laziness (vv. 7-16), a lawless spirit (vv. 17-25), and unlawful sexual intercourse (vv. 26- 40). 6:1-6 Assuming debt for a friend in this instance refers to a son of Wisdom pledging with his lips to join with a friend in his evil undertakings (v. 1). As St. Paul said, \"Evil company corrupts good habits\" ([[1CO.15:33]]). With such a pledge, a man's tongue becomes his worst enemy (v. 2). Wisdom speaks to His son, commanding him to save himself (v. 3), for this son cannot save his friend before he saves himself. And he certainly cannot save him while participating with him in his sins (v. 3). So Wisdom commands His son to cease being a coward (Do not be faint, v. 4), to reject his careless pledge to his friend, and to provoke his friend to change as well. Furthermore, this son is to awake from his spiritual slumber and move forward quickly with this matter, that he may save himself, like a gazelle from the snares and a bird from a trap (vv. 5, 6; see also [[EPH.5:14]], [[EPH.5:15]]). 6:7-16 Laziness, both of body and soul, leads to poverty (vv. 13-15). But Wisdom commands His son to be diligent (v. 16). To achieve this, he must mark the behavior of two created things: the ant and the honeybee. Outwardly they appear insignificant (v. 8) and weak (v. 12), but one who discovers their habits will also find the Word and Wisdom of God, who is Christ Himself. And when he imitates their way of life through the grace of Christ (vv. 7, 9, 10, 11), his laziness will be cured."
+      "context": "Prostitution here refers to engaging in sex outside marriage, which may or may not involve the payment of money. The sons of Wisdom need to obey Him and His teachings, and stay away from sex outside marriage (vv. 7, 8). For the perils are many. In fornication, a man becomes one flesh with numerous women, which in the end brings regret and a totally dissipated life (vv. 9-11; see also St. Paul's teaching in [[1CO.6:15]]-20). Such a son will regret hating the instruction and reproofs of Wisdom (vv. 12, 13). Furthermore, little by little, this lifestyle leads to other sins, which are evident not only to God but to the church (v. 14). 5:15-19 Marriage is sacred, here called waters which are pure, for it was ordained by Wisdom (v. 15; see also [[GEN.2:23]], [[GEN.2:24]]). But adultery spills these waters and damages the marriage bond (v. 16). However, faithfulness in marriage is called wide places, because it is filled with blessings from Wisdom (vv. 16-18). For within it, both husband and wife rejoice together (v. 18), and the wife's love and companionship make her husband great (v. 19). 5:20-23 In conclusion, the eyes of God keep close watch on a man (vv. 20, 21). For a man who embraces a woman not his wife may do so in the dark, but what he does is fully exposed before God. And although a lawless woman may ensnare a man, the man also is responsible for chaining himself with his own sins (v. 22). For he refuses Wisdom's crown of discernment, and is finally destroyed with the rest of the undiscerning (v. 23; see also [[HEB.13:4]]). 6:1-40 This chapter warns against four vices or sinful passions: a careless tongue (vv. 1-6), laziness (vv. 7-16), a lawless spirit (vv. 17-25), and unlawful sexual intercourse (vv. 26- 40). 6:1-6 Assuming debt for a friend in this instance refers to a son of Wisdom pledging with his lips to join with a friend in his evil undertakings (v. 1). As St. Paul said, \"Evil company corrupts good habits\" ([[1CO.15:33]]). With such a pledge, a man's tongue becomes his worst enemy (v. 2). Wisdom speaks to His son, commanding him to save himself (v. 3), for this son cannot save his friend before he saves himself. And he certainly cannot save him while participating with him in his sins (v. 3). So Wisdom commands His son to cease being a coward (Do not be faint, v. 4), to reject his careless pledge to his friend, and to provoke his friend to change as well. Furthermore, this son is to awake from his spiritual slumber and move forward quickly with this matter, that he may save himself, like a gazelle from the snares and a bird from a trap (vv. 5, 6; see also [[EPH.5:14]], [[EPH.5:15]]). 6:7-16 Laziness, both of body and soul, leads to poverty (vv. 13-15). But Wisdom commands His son to be diligent (v. 16). To achieve this, he must mark the behavior of two created things: the ant and the honeybee. Outwardly they appear insignificant (v. 8) and weak (v. 12), but one who discovers their habits will also find the Word and Wisdom of God, who is Christ Himself. And when he imitates their way of life through the grace of Christ (vv. 7, 9, 10, 11), his laziness will be cured.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "baptism",
+        "christology",
+        "creation_theology",
+        "logos",
+        "suffering",
+        "wisdom"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/SNG_footnotes.md",
       "line_number": 216,
       "raw_match": "[[EPH.5:14]]",
       "reference_type": "wikilink",
-      "context": "And come: The Lord commands the sleeper to arise and join Him ([[EPH.5:14]]). The dove is a symbol of fidelity and chastity. The rock is Christ ([[1CO.10:4]]). It is the voice of Christ that is heard in the Church."
+      "context": "And come: The Lord commands the sleeper to arise and join Him ([[EPH.5:14]]). The dove is a symbol of fidelity and chastity. The rock is Christ ([[1CO.10:4]]). It is the voice of Christ that is heard in the Church.",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

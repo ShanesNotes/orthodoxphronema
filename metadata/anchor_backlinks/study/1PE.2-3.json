@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "if indeed you have tasted that the Lord is gracious.",
   "pericope": {
     "id": "1PE.P006",
@@ -12,7 +12,10 @@
     "range": "1PE.2:2-2:8",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "baptism",
+    "eucharist"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 359,
       "raw_match": "[[1PE.2:3]]",
       "reference_type": "wikilink",
-      "context": "The basic sacraments are crucial to salvation: One is once enlightened in baptism, which is unrepeatable and called the sacrament of illumination (see [[EPH.5:14]]). Tasted the heavenly gift (see [[1PE.2:3]]) may refer to the grace of baptism--Chrysostom says this gift is especially the forgiveness of sin experienced in baptism--and it most certainly refers to the Eucharist. Become partakers of the Holy Spirit refers to the fruit of chrismation, the experience of knowing the Holy Spirit. 6:1-4 A glimpse at some features of oral apostolic tradition."
+      "context": "The basic sacraments are crucial to salvation: One is once enlightened in baptism, which is unrepeatable and called the sacrament of illumination (see [[EPH.5:14]]). Tasted the heavenly gift (see [[1PE.2:3]]) may refer to the grace of baptism--Chrysostom says this gift is especially the forgiveness of sin experienced in baptism--and it most certainly refers to the Eucharist. Become partakers of the Holy Spirit refers to the fruit of chrismation, the experience of knowing the Holy Spirit. 6:1-4 A glimpse at some features of oral apostolic tradition.",
+      "edge_type": "witnesses",
+      "topic_threads": [
+        "baptism",
+        "eucharist"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

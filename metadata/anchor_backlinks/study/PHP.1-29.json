@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "For to you it has been granted on behalf of Christ, not only to believe in Him, but also to suffer for His sake,",
   "pericope": {
     "id": "PHP.P005",
@@ -12,7 +12,11 @@
     "range": "PHP.1:29-2:10",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "faith",
+    "suffering"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +24,21 @@
       "line_number": 220,
       "raw_match": "[[PHP.1:29]]",
       "reference_type": "wikilink",
-      "context": "A short time before, the clerks had believed, rejoiced, and worshiped the Lord along with the people when they saw the signs. But now they were unwilling to suffer for His sake, although believing and suffering belong together as a privilege ([[PHP.1:29]]). For suffering on the Lord's behalf results in eternal glory ([[2CO.4:17]]). But they condemned Moses. So although they gave mental assent to belief in the Lord, they actually had no heart for Him."
+      "context": "A short time before, the clerks had believed, rejoiced, and worshiped the Lord along with the people when they saw the signs. But now they were unwilling to suffer for His sake, although believing and suffering belong together as a privilege ([[PHP.1:29]]). For suffering on the Lord's behalf results in eternal glory ([[2CO.4:17]]). But they condemned Moses. So although they gave mental assent to belief in the Lord, they actually had no heart for Him.",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "faith",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

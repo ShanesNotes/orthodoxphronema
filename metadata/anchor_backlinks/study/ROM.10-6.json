@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "But the righteousness of faith speaks in this way, 'Do not say in your heart, 'Who will ascend into heaven?' '(that is, to bring Christ down from above )",
   "pericope": {
     "id": "ROM.P026",
@@ -12,7 +12,13 @@
     "range": "ROM.10:4-10:12",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "faith",
+    "logos",
+    "repentance",
+    "suffering"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +26,23 @@
       "line_number": 687,
       "raw_match": "[[ROM.10:6]]-8",
       "reference_type": "wikilink_range",
-      "context": "The word is the word concerning the attainment of righteousness before God. It is the word that casts out human reasoning and the supposed impossibilities raised by it. This word is so very near a person that it is in one's very mouth, heart, and hands. One does not need to ascend to heaven to find it, nor cross the sea. It is God's word sown in a believing heart, confessed with the mouth, and worked out with the hands. It is righteousness through faith. It is the faith of Abraham, who cast out all human reasoning and the impossibilities raised by it, and left all to the power and glory of God ([[ROM.4:19]]- 22). In [[ROM.10:6]]-8, St. Paul refers to vv. 11-14, saying Moses commandment speaks of \"the righteousness of faith\" and \"the word of faith.\" He also shows it was the Lord Jesus Christ who made this faith possible ([[ROM.10:9]], [[ROM.10:10]]). \"What does the phrase mean, 'The word is near you'? It means, 'It is easy.' For in your heart and on your tongue is your salvation. There is no long journey to go on, no seas to sail over, no mountains to climb, to get saved. But if you have such a heart, you may even be saved while you sit at home. For 'in your mouth and heart' is the source of salvation. On another score, Paul also makes the word of faith easy, and says, 'God raised Him from the dead.' For just reflect upon the worthiness of the Worker, and you will no longer see any difficulty in the thing\" (JohnChr)."
+      "context": "The word is the word concerning the attainment of righteousness before God. It is the word that casts out human reasoning and the supposed impossibilities raised by it. This word is so very near a person that it is in one's very mouth, heart, and hands. One does not need to ascend to heaven to find it, nor cross the sea. It is God's word sown in a believing heart, confessed with the mouth, and worked out with the hands. It is righteousness through faith. It is the faith of Abraham, who cast out all human reasoning and the impossibilities raised by it, and left all to the power and glory of God ([[ROM.4:19]]- 22). In [[ROM.10:6]]-8, St. Paul refers to vv. 11-14, saying Moses commandment speaks of \"the righteousness of faith\" and \"the word of faith.\" He also shows it was the Lord Jesus Christ who made this faith possible ([[ROM.10:9]], [[ROM.10:10]]). \"What does the phrase mean, 'The word is near you'? It means, 'It is easy.' For in your heart and on your tongue is your salvation. There is no long journey to go on, no seas to sail over, no mountains to climb, to get saved. But if you have such a heart, you may even be saved while you sit at home. For 'in your mouth and heart' is the source of salvation. On another score, Paul also makes the word of faith easy, and says, 'God raised Him from the dead.' For just reflect upon the worthiness of the Worker, and you will no longer see any difficulty in the thing\" (JohnChr).",
+      "edge_type": "ascends_from",
+      "topic_threads": [
+        "christology",
+        "faith",
+        "logos",
+        "repentance",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

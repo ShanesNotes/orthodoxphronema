@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "nor bag for your journey, nor two tunics, nor sandals, nor staffs; for a worker is worthy of his food.",
   "pericope": {
     "id": "MAT.P027",
@@ -20,7 +20,16 @@
       "line_number": 214,
       "raw_match": "[[MAT.10:10]]",
       "reference_type": "wikilink",
-      "context": "The laborer is worthy of his wages ([[MAT.10:10]]; [[LUK.10:7]]) may be the first use of the Gospels as Scripture."
+      "context": "The laborer is worthy of his wages ([[MAT.10:10]]; [[LUK.10:7]]) may be the first use of the Gospels as Scripture.",
+      "edge_type": "instantiates",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 6,
+        "title": "The Universe As a Language",
+        "polarity": "generation",
+        "operation": "descend",
+        "scale": "communal"
+      }
     }
   ]
 }

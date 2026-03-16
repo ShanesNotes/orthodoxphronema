@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "And the Lord God said, 'It is not good for man to be alone. I will make him a helper comparable to him.'",
   "pericope": {
     "id": "GEN.P002",
@@ -12,7 +12,12 @@
     "range": "GEN.2:7-2:24",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "creation_theology",
+    "divine_word",
+    "resurrection"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,14 +25,41 @@
       "line_number": 506,
       "raw_match": "[[GEN.2:18]]",
       "reference_type": "wikilink",
-      "context": "The faithfulness of the women shows that in Christ, divine order is being restored to the fallen world. Whereas Eve was created to complete Adam ([[GEN.2:18]]), but instead led him to sin ([[GEN.3:6]]), now the women disciples remain faithful while the men flee and hide. It is the women who bring the message of the Resurrection to the men (16:9-11; [[LUK.24:9]]-11), thus restoring that which had been broken through sin."
+      "context": "The faithfulness of the women shows that in Christ, divine order is being restored to the fallen world. Whereas Eve was created to complete Adam ([[GEN.2:18]]), but instead led him to sin ([[GEN.3:6]]), now the women disciples remain faithful while the men flee and hide. It is the women who bring the message of the Resurrection to the men (16:9-11; [[LUK.24:9]]-11), thus restoring that which had been broken through sin.",
+      "edge_type": "opposes",
+      "topic_threads": [
+        "christology",
+        "creation_theology",
+        "divine_word",
+        "resurrection"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/TOB_footnotes.md",
       "line_number": 115,
       "raw_match": "[[GEN.2:18]]",
       "reference_type": "wikilink",
-      "context": "See [[GEN.2:18]]."
+      "context": "See [[GEN.2:18]].",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "divine_word"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

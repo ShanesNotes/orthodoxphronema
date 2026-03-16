@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Now I rejoice, not that you were made sorry, but that your sorrow led to repentance. For you were made sorry in a godly manner, that you might suffer loss from us in nothing.",
   "pericope": {
     "id": "2CO.P022",
@@ -12,7 +12,10 @@
     "range": "2CO.7:4-7:15",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "repentance",
+    "suffering"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 171,
       "raw_match": "[[2CO.7:9]]",
       "reference_type": "wikilink",
-      "context": "These words are not just for the false teachers, but for us all. We are granted more time primarily to grant us fuller repentance. (See v. 15; [[2CO.7:9]], [[2CO.7:10]].)"
+      "context": "These words are not just for the false teachers, but for us all. We are granted more time primarily to grant us fuller repentance. (See v. 15; [[2CO.7:9]], [[2CO.7:10]].)",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "repentance",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

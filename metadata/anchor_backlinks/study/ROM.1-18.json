@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "For the wrath of God is revealed from heaven against all ungodliness and unrighteousness of men, who suppress the truth in unrighteousness,",
   "pericope": {
     "id": "ROM.P004",
@@ -12,7 +12,9 @@
     "range": "ROM.1:17-1:27",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "judgment"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 139,
       "raw_match": "[[ROM.1:18]]-32",
       "reference_type": "wikilink_range",
-      "context": "Elsewhere, Hosea describes the fundamental human problem as lack of knowledge of God ([[HOS.4:1]], [[HOS.4:6]]; 6:6). This ignorance unfortunately is self-inflicted because men suppress the truth about God ([[ROM.1:18]]-32)."
+      "context": "Elsewhere, Hosea describes the fundamental human problem as lack of knowledge of God ([[HOS.4:1]], [[HOS.4:6]]; 6:6). This ignorance unfortunately is self-inflicted because men suppress the truth about God ([[ROM.1:18]]-32).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "judgment"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "As far as the east is from the west, So He removes our transgressions from us.",
   "pericope": {
     "id": "PSA.P102",
@@ -12,7 +12,18 @@
     "range": "PSA.102:1-102:22",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "creation_theology",
+    "eucharist",
+    "logos",
+    "mercy",
+    "praise",
+    "priesthood",
+    "repentance",
+    "shepherd",
+    "suffering"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,14 +31,49 @@
       "line_number": 21,
       "raw_match": "[[PSA.102:12]]",
       "reference_type": "wikilink",
-      "context": "P erhaps the most misunderstood sacrament of the Christian Church is confession. How did it originate? What role does a priest play? Is there a special procedure for confession? The Scriptures hold answers to these questions. Concerning our sins, God's Word gives a marvelous promise: 'If we confess our sins, He is faithful and just to forgive us our sins and to cleanse us from all unrighteousness' (1:9). The faithful are to bring their sins to God in repentance and receive cleansing and forgiveness. The early Christian community had a specific practice in this regard. People would stand and confess their sins to God in the presence of the whole congregation! Had not Jesus encouraged His followers to walk in the light together, to confront problems corporately, to 'tell it to the church' ([[MAT.18:17]])? Thus, James writes, 'Confess your trespasses to one another' ([[JAS.5:16]]). But as time went on and the Church grew in numbers, strangers came to visit and public confession became more difficult. Out of mercy, priests began to witness confessions of sin privately on behalf of the Church. Jesus gave His disciples the authority to forgive sin. 'If you forgive the sins of any, they are forgiven them; if you retain the sins of any, they are retained' ([[JOH.20:23]]; see also [[MAT.16:19]]). From the beginning, Christians understood that the grace of ordination endowed the shepherd of the flock with the discernment and compassion to speak the words of remission on behalf of Christ regarding the sins of those who confess and turn from sin. For God has promised to remove sin from us 'as far as the east is from the west' ([[PSA.102:12]]). 'You did not choose Me,' Jesus told the Twelve, 'but I chose you and appointed [ordained] you' ([[JOH.15:16]]). To these same disciples He promised, 'It is not you who speak, but the Holy Spirit' ([[MRK.13:11]]). Whom God calls, He equips. Paul writes to Timothy, 'Stir up the gift of God which is in you through the laying on of my hands' ([[2TI.1:6]]). It is the grace of the Holy Spirit that enables the priest to serve God and the people. Thus, the Church has encouraged her faithful: If you know you have committed a specific sin, do not hide it but confess it before coming to the Holy Eucharist. St. Paul wrote, 'Let a man examine himself, and so let him eat of the bread and drink of the cup' ([[1CO.11:28]]), and 'If we would judge ourselves, we would not be judged' ([[1CO.11:31]]). King David learned a lesson regarding his sin that is recorded for our benefit. For about a year, he had hidden his sins of adultery with Bathsheba and the murder of her husband ([[2SA.11:1]]-12:13). Then, confronted by Nathan the prophet, David repented from his heart and confessed his sin in a psalm that is used for general confession to this day (Ps 50). The joy of salvation was restored to him. People ask, 'Can't I confess to God privately?' Certainly, though there is no clear biblical basis for it. Even general confession occurs in the Church. In His mercy, God provides the sacrament of confession (more properly called the sacrament of repentance) to give us deliverance from sin and from what psychologists call denial. It is easy to pray in isolation yet never come clean. It is far more effective to confess aloud to God before a priest and benefit from his guidance and help. Thus, we come before the holy icon of Christ, to whom we confess, and are guided by our spiritual father in a cleansing inventory of our lives. When we tell God all, naming our sins and failures, we hear those glorious words of freedom that announce Christ's promise of forgiveness of all our sins. We resolve to 'go and sin no more' ([[JOH.8:11]])."
+      "context": "P erhaps the most misunderstood sacrament of the Christian Church is confession. How did it originate? What role does a priest play? Is there a special procedure for confession? The Scriptures hold answers to these questions. Concerning our sins, God's Word gives a marvelous promise: 'If we confess our sins, He is faithful and just to forgive us our sins and to cleanse us from all unrighteousness' (1:9). The faithful are to bring their sins to God in repentance and receive cleansing and forgiveness. The early Christian community had a specific practice in this regard. People would stand and confess their sins to God in the presence of the whole congregation! Had not Jesus encouraged His followers to walk in the light together, to confront problems corporately, to 'tell it to the church' ([[MAT.18:17]])? Thus, James writes, 'Confess your trespasses to one another' ([[JAS.5:16]]). But as time went on and the Church grew in numbers, strangers came to visit and public confession became more difficult. Out of mercy, priests began to witness confessions of sin privately on behalf of the Church. Jesus gave His disciples the authority to forgive sin. 'If you forgive the sins of any, they are forgiven them; if you retain the sins of any, they are retained' ([[JOH.20:23]]; see also [[MAT.16:19]]). From the beginning, Christians understood that the grace of ordination endowed the shepherd of the flock with the discernment and compassion to speak the words of remission on behalf of Christ regarding the sins of those who confess and turn from sin. For God has promised to remove sin from us 'as far as the east is from the west' ([[PSA.102:12]]). 'You did not choose Me,' Jesus told the Twelve, 'but I chose you and appointed [ordained] you' ([[JOH.15:16]]). To these same disciples He promised, 'It is not you who speak, but the Holy Spirit' ([[MRK.13:11]]). Whom God calls, He equips. Paul writes to Timothy, 'Stir up the gift of God which is in you through the laying on of my hands' ([[2TI.1:6]]). It is the grace of the Holy Spirit that enables the priest to serve God and the people. Thus, the Church has encouraged her faithful: If you know you have committed a specific sin, do not hide it but confess it before coming to the Holy Eucharist. St. Paul wrote, 'Let a man examine himself, and so let him eat of the bread and drink of the cup' ([[1CO.11:28]]), and 'If we would judge ourselves, we would not be judged' ([[1CO.11:31]]). King David learned a lesson regarding his sin that is recorded for our benefit. For about a year, he had hidden his sins of adultery with Bathsheba and the murder of her husband ([[2SA.11:1]]-12:13). Then, confronted by Nathan the prophet, David repented from his heart and confessed his sin in a psalm that is used for general confession to this day (Ps 50). The joy of salvation was restored to him. People ask, 'Can't I confess to God privately?' Certainly, though there is no clear biblical basis for it. Even general confession occurs in the Church. In His mercy, God provides the sacrament of confession (more properly called the sacrament of repentance) to give us deliverance from sin and from what psychologists call denial. It is easy to pray in isolation yet never come clean. It is far more effective to confess aloud to God before a priest and benefit from his guidance and help. Thus, we come before the holy icon of Christ, to whom we confess, and are guided by our spiritual father in a cleansing inventory of our lives. When we tell God all, naming our sins and failures, we hear those glorious words of freedom that announce Christ's promise of forgiveness of all our sins. We resolve to 'go and sin no more' ([[JOH.8:11]]).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "creation_theology",
+        "eucharist",
+        "logos",
+        "mercy",
+        "praise",
+        "priesthood",
+        "repentance",
+        "shepherd",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 10,
+        "title": "Light and Darkness: A Spiritual Perspective",
+        "polarity": "vertical",
+        "operation": "ascend",
+        "scale": "communal"
+      }
     },
     {
       "source_file": "study/footnotes/OT/LEV_footnotes.md",
       "line_number": 588,
       "raw_match": "[[PSA.102:12]]",
       "reference_type": "wikilink",
-      "context": "The high priest laid his hands on the head of the live goat. In doing so, he laid the sins and transgressions of the sons of Israel on the head of that goat. The goat, an innocent victim, bore on itself all the iniquities of the people. The goat, taken by a designated person, was then sent off into the wilderness. The picture is clear. As the goat goes into the wilderness, so do the sins and transgressions of the people--never to be seen again. This reminds us of the Psalmist's words, \"As far as the east is from the west, / So He removes our transgressions from us\" ([[PSA.102:12]]). This marvelous reality is part of the foundation of what the Orthodox priest says in the Sacrament of Confession: \"And now, having no further care for the sins you have confessed, go in peace.\""
+      "context": "The high priest laid his hands on the head of the live goat. In doing so, he laid the sins and transgressions of the sons of Israel on the head of that goat. The goat, an innocent victim, bore on itself all the iniquities of the people. The goat, taken by a designated person, was then sent off into the wilderness. The picture is clear. As the goat goes into the wilderness, so do the sins and transgressions of the people--never to be seen again. This reminds us of the Psalmist's words, \"As far as the east is from the west, / So He removes our transgressions from us\" ([[PSA.102:12]]). This marvelous reality is part of the foundation of what the Orthodox priest says in the Sacrament of Confession: \"And now, having no further care for the sins you have confessed, go in peace.\"",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "praise",
+        "priesthood",
+        "repentance"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

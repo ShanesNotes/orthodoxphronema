@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "By faith Abel offered to God a more excellent sacrifice than Cain, through which he obtained witness that he was righteous, God testifying of his gifts; and through it he being dead still speaks.",
   "pericope": {
     "id": "HEB.P028",
@@ -12,7 +12,10 @@
     "range": "HEB.11:3-11:6",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "faith"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,14 +23,39 @@
       "line_number": 201,
       "raw_match": "[[HEB.11:4]]",
       "reference_type": "wikilink",
-      "context": "We are to give our attention to deeds, not just to words. Abel showed himself righteous, a child of faith and love; Cain showed himself evil, self-centered and envious (see [[GEN.4:4]], [[GEN.4:8]]; [[HEB.11:4]]; 12:24)."
+      "context": "We are to give our attention to deeds, not just to words. Abel showed himself righteous, a child of faith and love; Cain showed himself evil, self-centered and envious (see [[GEN.4:4]], [[GEN.4:8]]; [[HEB.11:4]]; 12:24).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "faith"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/GEN_footnotes.md",
       "line_number": 157,
       "raw_match": "[[HEB.11:4]]",
       "reference_type": "wikilink",
-      "context": "4:3, 4 Both Cain and Abel worshiped the Lord and brought sacrifices to Him. The Lord accepted Abel and his gifts, because Abel had a good and discerning heart. He discerned through faith the Lord's coming Incarnation and His sacrifice as a lamb for the salvation of the world. (See also [[MAT.23:35]]; [[LUK.11:51]]; [[HEB.11:4]]; 12:24)."
+      "context": "4:3, 4 Both Cain and Abel worshiped the Lord and brought sacrifices to Him. The Lord accepted Abel and his gifts, because Abel had a good and discerning heart. He discerned through faith the Lord's coming Incarnation and His sacrifice as a lamb for the salvation of the world. (See also [[MAT.23:35]]; [[LUK.11:51]]; [[HEB.11:4]]; 12:24).",
+      "edge_type": "descends_to",
+      "topic_threads": [
+        "christology",
+        "faith"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

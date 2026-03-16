@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "At that time Michael the great prince, who stands watch over the sons of your people, shall stand up; and there shall be a time of tribulation, such as never happened until that time, since there was a nation upon the earth. But at that time your people shall be saved, all found written in the book.",
   "pericope": {
     "id": "DAN.P034",
@@ -12,7 +12,19 @@
     "range": "DAN.11:45-12:6",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "baptism",
+    "christology",
+    "creation_theology",
+    "eschatology",
+    "faith",
+    "judgment",
+    "kingdom",
+    "mercy",
+    "praise",
+    "prayer",
+    "suffering"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,21 +32,68 @@
       "line_number": 389,
       "raw_match": "[[DAN.12:1]]",
       "reference_type": "wikilink",
-      "context": "The Book of Life (13:8; 17:8; 20:12, 15; [[EXO.32:32]]; [[PSA.68:29]]; [[DAN.12:1]]; [[LUK.10:20]]; see also 1En 47:3) is God's register naming all who will inherit eternal life. By the fourth century, at the beginning of Lent the names of the catechumens were enrolled in a church record book termed \"The Heavenly Book,\" or \"The Book of the Church\" (see TheoMop, JohnChr and GrgNy). The Son speaks of His Father and His angels but He also calls them His own angels ([[MAT.13:41]]; 24:31), showing His equality with the Father."
+      "context": "The Book of Life (13:8; 17:8; 20:12, 15; [[EXO.32:32]]; [[PSA.68:29]]; [[DAN.12:1]]; [[LUK.10:20]]; see also 1En 47:3) is God's register naming all who will inherit eternal life. By the fourth century, at the beginning of Lent the names of the catechumens were enrolled in a church record book termed \"The Heavenly Book,\" or \"The Book of the Church\" (see TheoMop, JohnChr and GrgNy). The Son speaks of His Father and His angels but He also calls them His own angels ([[MAT.13:41]]; 24:31), showing His equality with the Father.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "baptism",
+        "creation_theology",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 6,
+        "title": "The Universe As a Language",
+        "polarity": "generation",
+        "operation": "descend",
+        "scale": "communal"
+      }
     },
     {
       "source_file": "study/footnotes/NT/REV_footnotes.md",
       "line_number": 425,
       "raw_match": "[[DAN.12:1]]",
       "reference_type": "wikilink",
-      "context": "To those faithful to Him, the Lord Jesus will in turn be faithful during the hour of trial that will come to the whole world by preserving them during that trial (see Jn 17:15) and protecting them from demonic assaults. Although the faithful will not be rescued from sufferings, persecution, and martyrdom, they will be sustained and supported so as to persevere in their faithfulness. The hour of trial is an apocalyptic image ([[DAN.12:1]]; [[MAT.6:13]]; [[MRK.13:4]]; [[JOH.17:6]], [[JOH.17:15]]; [[2TH.2:1]]-12), referring to the testing and tribulation (chs. 8; 9; 16) preceding the manifestation of the eternal Kingdom of God. Those who dwell on the earth is a commonly used term for the ungodly."
+      "context": "To those faithful to Him, the Lord Jesus will in turn be faithful during the hour of trial that will come to the whole world by preserving them during that trial (see Jn 17:15) and protecting them from demonic assaults. Although the faithful will not be rescued from sufferings, persecution, and martyrdom, they will be sustained and supported so as to persevere in their faithfulness. The hour of trial is an apocalyptic image ([[DAN.12:1]]; [[MAT.6:13]]; [[MRK.13:4]]; [[JOH.17:6]], [[JOH.17:15]]; [[2TH.2:1]]-12), referring to the testing and tribulation (chs. 8; 9; 16) preceding the manifestation of the eternal Kingdom of God. Those who dwell on the earth is a commonly used term for the ungodly.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "kingdom",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/NT/REV_footnotes.md",
       "line_number": 1771,
       "raw_match": "[[DAN.12:1]]",
       "reference_type": "wikilink",
-      "context": "Standing before God at His throne at the final judgment, the dead are confronted with their works. The books of judgment ([[DAN.7:10]]) contain a record of men's deeds; their own works will judge them ([[PSA.61:13]]; [[JER.17:6]]). This judging of believers' works is a common NT theme ([[MAT.16:27]]; [[ROM.2:6]]; [[2CO.5:10]]; [[1PE.1:17]]; see also the Anaphora of the Liturgy of St. Basil and the hymns for the Sunday of the Last Judgment). In contrast is the Book of Life. It contains the names of all saved by grace (see [[EXO.32:32]]; Is 4:3; [[DAN.12:1]], [[DAN.12:2]])--not that they have no works, but that God's mercy is far greater in comparison. The Orthodox liturgy thus petitions God for a \"good account before the dread judgment seat of Christ.\""
+      "context": "Standing before God at His throne at the final judgment, the dead are confronted with their works. The books of judgment ([[DAN.7:10]]) contain a record of men's deeds; their own works will judge them ([[PSA.61:13]]; [[JER.17:6]]). This judging of believers' works is a common NT theme ([[MAT.16:27]]; [[ROM.2:6]]; [[2CO.5:10]]; [[1PE.1:17]]; see also the Anaphora of the Liturgy of St. Basil and the hymns for the Sunday of the Last Judgment). In contrast is the Book of Life. It contains the names of all saved by grace (see [[EXO.32:32]]; Is 4:3; [[DAN.12:1]], [[DAN.12:2]])--not that they have no works, but that God's mercy is far greater in comparison. The Orthodox liturgy thus petitions God for a \"good account before the dread judgment seat of Christ.\"",
+      "edge_type": "witnesses",
+      "topic_threads": [
+        "christology",
+        "eschatology",
+        "faith",
+        "judgment",
+        "kingdom",
+        "mercy",
+        "praise",
+        "prayer",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 6,
+        "title": "The Universe As a Language",
+        "polarity": "generation",
+        "operation": "descend",
+        "scale": "communal"
+      }
     }
   ]
 }

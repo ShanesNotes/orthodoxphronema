@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "And I looked, and behold, a white horse. He who sat on it had a bow; and a crown was given to him, and he went out conquering and to conquer.",
   "pericope": {
     "id": "REV.P013",
@@ -20,7 +20,16 @@
       "line_number": 144,
       "raw_match": "[[REV.6:2]]",
       "reference_type": "wikilink",
-      "context": "The scene calls to mind the rider in [[REV.6:2]]."
+      "context": "The scene calls to mind the rider in [[REV.6:2]].",
+      "edge_type": "fulfills",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "behold, I shall even send a family from the north and lead them against this land, and against those living in it, and against all the nations round about her. I will make it desolate and give it up to destruction. I will render it a hissing and a perpetual disgrace.",
   "pericope": {
     "id": "JER.P050",
@@ -12,7 +12,11 @@
     "range": "JER.24:10-38:39",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "judgment",
+    "priesthood",
+    "repentance"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +24,21 @@
       "line_number": 369,
       "raw_match": "[[JER.25:9]]-12",
       "reference_type": "wikilink_range",
-      "context": "God's judgment on Judah is justified, for the priests and the people have gone beyond the point of no return and will not repent (see [[2KI.25:8]]-21). Seventy years (v. 29) is the approximate time of the exile in Babylon (see also [[JER.25:9]]-12; 27:6-8; 29:10; Lv 26:34-43)."
+      "context": "God's judgment on Judah is justified, for the priests and the people have gone beyond the point of no return and will not repent (see [[2KI.25:8]]-21). Seventy years (v. 29) is the approximate time of the exile in Babylon (see also [[JER.25:9]]-12; 27:6-8; 29:10; Lv 26:34-43).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "judgment",
+        "priesthood",
+        "repentance"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

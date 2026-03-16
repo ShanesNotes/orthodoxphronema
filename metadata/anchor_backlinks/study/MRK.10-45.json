@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "For even the Son of Man did not come to be served, but to serve, and to give His life a ransom for many.'",
   "pericope": {
     "id": "MRK.P037",
@@ -12,7 +12,11 @@
     "range": "MRK.10:45-10:51",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "logos",
+    "priesthood"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +24,21 @@
       "line_number": 314,
       "raw_match": "[[MRK.10:42]]-45",
       "reference_type": "wikilink_range",
-      "context": "(See [[MRK.10:42]]-45; [[2CO.4:5]].) Those entrusted to you (Gr. kleron) means those who have \"the inheritance\"; the word is the source of the English \"clergy.\" In the OT the Levites were the kleros; their inheritance was the Lord. In the NT all are kleros, a royal priesthood, equally inheriting the Lord. While there are \"orders\" of clergy in the Church-- bishops, presbyters, deacons--a separation or isolation between priests and laity is unknown in the NT."
+      "context": "(See [[MRK.10:42]]-45; [[2CO.4:5]].) Those entrusted to you (Gr. kleron) means those who have \"the inheritance\"; the word is the source of the English \"clergy.\" In the OT the Levites were the kleros; their inheritance was the Lord. In the NT all are kleros, a royal priesthood, equally inheriting the Lord. While there are \"orders\" of clergy in the Church-- bishops, presbyters, deacons--a separation or isolation between priests and laity is unknown in the NT.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology",
+        "logos",
+        "priesthood"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

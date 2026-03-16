@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "He then would have had to suffer often since the foundation of the world; but now, once at the end of the ages, He has appeared to put away sin by the sacrifice of Himself.",
   "pericope": {
     "id": "HEB.P021",
@@ -12,7 +12,16 @@
     "range": "HEB.9:22-9:27",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "creation_theology",
+    "exodus_typology",
+    "kingdom",
+    "mercy",
+    "resurrection",
+    "suffering",
+    "temple"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,14 +29,46 @@
       "line_number": 247,
       "raw_match": "[[HEB.9:23]]-26",
       "reference_type": "wikilink_range",
-      "context": "To propitiate means \"to cover\" or \"to conciliate.\" Propitiation refers to the mercy seat in the tabernacle where God was enthroned among His people ([[EXO.25:17]]-22). Once a year, on the Day of Atonement, the blood of the sacrifice was liturgically sprinkled on the mercy seat in the holy of holies. This prefigured the covering of our sins and our reconciliation to God that was to come in Jesus Christ. Heaven holds the true mercy seat ([[HEB.9:23]]-26; 10:19-22), and Christ's blood was taken to heaven through His Passion, Resurrection, and Ascension, thus reconciling us to God once and for all."
+      "context": "To propitiate means \"to cover\" or \"to conciliate.\" Propitiation refers to the mercy seat in the tabernacle where God was enthroned among His people ([[EXO.25:17]]-22). Once a year, on the Day of Atonement, the blood of the sacrifice was liturgically sprinkled on the mercy seat in the holy of holies. This prefigured the covering of our sins and our reconciliation to God that was to come in Jesus Christ. Heaven holds the true mercy seat ([[HEB.9:23]]-26; 10:19-22), and Christ's blood was taken to heaven through His Passion, Resurrection, and Ascension, thus reconciling us to God once and for all.",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "kingdom",
+        "mercy",
+        "resurrection",
+        "suffering",
+        "temple"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/EXO_footnotes.md",
       "line_number": 402,
       "raw_match": "[[HEB.9:26]]",
       "reference_type": "wikilink",
-      "context": "The Law of Moses commanded that Pascha (or Passover) be celebrated in the beginning of months... the first month of the year. But the Lord came down \"at the end of the ages\" ([[HEB.9:26]]), and He is \"the end of the law\" ([[ROM.10:4]]); therefore, He established a different day (AthanG)."
+      "context": "The Law of Moses commanded that Pascha (or Passover) be celebrated in the beginning of months... the first month of the year. But the Lord came down \"at the end of the ages\" ([[HEB.9:26]]), and He is \"the end of the law\" ([[ROM.10:4]]); therefore, He established a different day (AthanG).",
+      "edge_type": "echoes",
+      "topic_threads": [
+        "creation_theology",
+        "exodus_typology",
+        "resurrection",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "But the Lord came down to see the city and the tower the sons of men built.",
   "pericope": {
     "id": "GEN.P012",
@@ -12,7 +12,10 @@
     "range": "GEN.10:32-11:8",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "judgment"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,14 +23,36 @@
       "line_number": 828,
       "raw_match": "[[GEN.11:1]]-9",
       "reference_type": "wikilink_range",
-      "context": "In the Orthodox Church, what about one who speaks in a tongue? Historically, God judged the builders of the Tower of Babel ([[GEN.11:1]]-9), dividing their unity by confusing their language. At Pentecost Vespers we hear, \"Of old there was confusion of tongues because of the boldness of the tower builders.\" Then, \"God condemned the infidels.\" But at Pentecost, \"the Spirit of Christ illuminated the fishermen.\" At Babel, there was \"confusion of tongues.\" At Pentecost, \"the vision of tongues has been renewed.\" In the Church, as in the NT, the gift of tongues is last on the list of the gifts (12:10, 28), temporary (13:8), primarily for the edification of the one who speaks (v. 4), and difficult to understand (vv. 11, 14). St. John Chrysostom concludes that tongues are \"neither altogether useless, nor very profitable.\""
+      "context": "In the Orthodox Church, what about one who speaks in a tongue? Historically, God judged the builders of the Tower of Babel ([[GEN.11:1]]-9), dividing their unity by confusing their language. At Pentecost Vespers we hear, \"Of old there was confusion of tongues because of the boldness of the tower builders.\" Then, \"God condemned the infidels.\" But at Pentecost, \"the Spirit of Christ illuminated the fishermen.\" At Babel, there was \"confusion of tongues.\" At Pentecost, \"the vision of tongues has been renewed.\" In the Church, as in the NT, the gift of tongues is last on the list of the gifts (12:10, 28), temporary (13:8), primarily for the edification of the one who speaks (v. 4), and difficult to understand (vv. 11, 14). St. John Chrysostom concludes that tongues are \"neither altogether useless, nor very profitable.\"",
+      "edge_type": "witnesses",
+      "topic_threads": [
+        "christology",
+        "judgment"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/NT/ACT_footnotes.md",
       "line_number": 107,
       "raw_match": "[[GEN.11:1]]-9",
       "reference_type": "wikilink_range",
-      "context": "This is a fulfillment of the prophecy of [[JOL.3:1]] and a divine reversal or recapitulation of the events at the Tower of Babel ([[GEN.11:1]]-9). In the account of Babel, pride was shown to possess the awesome power to divide; here, the humble reception of the Holy Spirit is shown to have the overwhelming power to unite, even in diversity. A key lesson of Pentecost is that the people hear the gospel in their own language."
+      "context": "This is a fulfillment of the prophecy of [[JOL.3:1]] and a divine reversal or recapitulation of the events at the Tower of Babel ([[GEN.11:1]]-9). In the account of Babel, pride was shown to possess the awesome power to divide; here, the humble reception of the Holy Spirit is shown to have the overwhelming power to unite, even in diversity. A key lesson of Pentecost is that the people hear the gospel in their own language.",
+      "edge_type": "fulfills",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

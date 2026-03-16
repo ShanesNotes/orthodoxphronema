@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Then immediately an angel of the Lord struck him, because he did not give glory to God. And he was eaten by worms and died.",
   "pericope": {
     "id": "ACT.P041",
@@ -20,7 +20,16 @@
       "line_number": 375,
       "raw_match": "[[ACT.12:23]]",
       "reference_type": "wikilink",
-      "context": "Note that Herod was inflicted with a similar condition ([[ACT.12:23]])."
+      "context": "Note that Herod was inflicted with a similar condition ([[ACT.12:23]]).",
+      "edge_type": "fulfills",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

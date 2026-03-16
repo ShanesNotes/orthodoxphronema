@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Then the demons went out of the man and entered the swine, and the herd ran violently down the steep place into the lake and drowned.",
   "pericope": {
     "id": "LUK.P040",
@@ -12,7 +12,9 @@
     "range": "LUK.8:27-8:38",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "suffering"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,14 +22,35 @@
       "line_number": 122,
       "raw_match": "[[LUK.8:33]]",
       "reference_type": "wikilink",
-      "context": "The country of the Gadarenes was in Galilee, an area with many Gentiles living among the Jews (see also note at [[MAT.4:15]]). Gentile influence on the Jews caused many of them to take on Gentile practices, such as raising swine (v. 11), forbidden by the Law (Dt 14:8). For more on this miracle, see notes at [[MAT.8:28]]-34 and [[LUK.8:33]]."
+      "context": "The country of the Gadarenes was in Galilee, an area with many Gentiles living among the Jews (see also note at [[MAT.4:15]]). Gentile influence on the Jews caused many of them to take on Gentile practices, such as raising swine (v. 11), forbidden by the Law (Dt 14:8). For more on this miracle, see notes at [[MAT.8:28]]-34 and [[LUK.8:33]].",
+      "edge_type": "instantiates",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/JOB_footnotes.md",
       "line_number": 48,
       "raw_match": "[[LUK.8:33]]",
       "reference_type": "wikilink",
-      "context": "St. John Chrysostom remarks that Satan's will is his own, but he derives his power from God, who does not allow him to act except with justice. He cannot bring harm to the faithful, and even profits those who wage war against him, \"for tribulation makes the strong man stronger.\" Jesus conversed with evil spirits and even granted their request to be sent into a great herd of swine ([[LUK.8:32]], [[LUK.8:33]])."
+      "context": "St. John Chrysostom remarks that Satan's will is his own, but he derives his power from God, who does not allow him to act except with justice. He cannot bring harm to the faithful, and even profits those who wage war against him, \"for tribulation makes the strong man stronger.\" Jesus conversed with evil spirits and even granted their request to be sent into a great herd of swine ([[LUK.8:32]], [[LUK.8:33]]).",
+      "edge_type": "witnesses",
+      "topic_threads": [
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Then the Lord said to Moses, 'Come up to Me on the mountain and be there; and I will give you tablets of stone and the law and commandments I wrote, that you may teach them.'",
   "pericope": {
     "id": "EXO.P049",
@@ -20,7 +20,16 @@
       "line_number": 232,
       "raw_match": "[[EXO.24:12]]",
       "reference_type": "wikilink",
-      "context": "A multitude of statutes: This saying is one of the earliest evidences that by the eighth century BC the Torah (\"instruction\" or \"law\"; [[EXO.24:12]]; 34:1) was circulated, at least partially, in a written form."
+      "context": "A multitude of statutes: This saying is one of the earliest evidences that by the eighth century BC the Torah (\"instruction\" or \"law\"; [[EXO.24:12]]; 34:1) was circulated, at least partially, in a written form.",
+      "edge_type": "instantiates",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

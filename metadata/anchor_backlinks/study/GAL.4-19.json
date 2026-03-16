@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "My little children, for whom I labor in birth again until Christ is formed in you,",
   "pericope": {
     "id": "GAL.P015",
@@ -12,7 +12,9 @@
     "range": "GAL.4:7-4:19",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 43,
       "raw_match": "[[GAL.4:19]]",
       "reference_type": "wikilink",
-      "context": "Paul became Onesimus's spiritual father by convincing him of the truth of Christ (see [[1CO.4:15]]; [[GAL.4:19]])."
+      "context": "Paul became Onesimus's spiritual father by convincing him of the truth of Christ (see [[1CO.4:15]]; [[GAL.4:19]]).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 9,
+        "title": "Example: The Cherubim of Ezekiel I",
+        "polarity": "generation",
+        "operation": "inform",
+        "scale": "intercommunal"
+      }
     }
   ]
 }

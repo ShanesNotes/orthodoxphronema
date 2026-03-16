@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "And about the eleventh hour he went out and found others standing idle, and said to them, 'Why have you been standing here idle all day?'",
   "pericope": {
     "id": "MAT.P065",
@@ -12,7 +12,11 @@
     "range": "MAT.19:30-20:15",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "covenant",
+    "prayer"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +24,21 @@
       "line_number": 116,
       "raw_match": "[[MAT.20:6]]",
       "reference_type": "wikilink",
-      "context": "The last hour is the era of the New Covenant, the \"eleventh hour\" ([[MAT.20:6]]). The deceptions at hand, not a specific prediction of the end of the world, are in view. Many antichrists are the heretics, through whom the Antichrist of the end times (see 2Th 2) is doing his spadework. Very early in the second century, on his way to martyrdom in Rome, Ignatius of Antioch wrote, \"These are the last times [see [[1CO.7:29]]]. Let us then be ashamed and fear God's patience so that it may not become condemnation for us. We should either fear the wrath to come or love the grace which is present, one of the two, just so that we may be found in Christ Jesus for true life [see [[ACT.17:30]]; [[1TH.1:10]]]. Nothing should seem fitting to you apart from him in whom I bear my bonds as spiritual pearls. May I rise again in them by your prayer, in which I may always participate so that I may be found in the lot apportioned to the Ephesian Christians, who have always agreed with the apostles by the power of Jesus Christ.\""
+      "context": "The last hour is the era of the New Covenant, the \"eleventh hour\" ([[MAT.20:6]]). The deceptions at hand, not a specific prediction of the end of the world, are in view. Many antichrists are the heretics, through whom the Antichrist of the end times (see 2Th 2) is doing his spadework. Very early in the second century, on his way to martyrdom in Rome, Ignatius of Antioch wrote, \"These are the last times [see [[1CO.7:29]]]. Let us then be ashamed and fear God's patience so that it may not become condemnation for us. We should either fear the wrath to come or love the grace which is present, one of the two, just so that we may be found in Christ Jesus for true life [see [[ACT.17:30]]; [[1TH.1:10]]]. Nothing should seem fitting to you apart from him in whom I bear my bonds as spiritual pearls. May I rise again in them by your prayer, in which I may always participate so that I may be found in the lot apportioned to the Ephesian Christians, who have always agreed with the apostles by the power of Jesus Christ.\"",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology",
+        "covenant",
+        "prayer"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

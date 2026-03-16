@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Then Jesus said to them, 'All of you will be made to stumble because of Me this night, for it is written: 'I will strike the Shepherd, And the sheep of the flock will be scattered.'",
   "pericope": {
     "id": "MAT.P086",
@@ -12,7 +12,9 @@
     "range": "MAT.26:30-26:74",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "shepherd"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 460,
       "raw_match": "[[MAT.26:31]]",
       "reference_type": "wikilink",
-      "context": "Smite the shepherds and draw out the sheep is \"Strike the shepherd and the sheep will be scattered\" in the Hebrew text. Jesus cites this verse in [[MAT.26:31]] concerning the falling away of the disciples upon His arrest. As it appears in the LXX, the passage matches vv. 1-8, continuing the warning against the false prophets and the promise of the people's delivery."
+      "context": "Smite the shepherds and draw out the sheep is \"Strike the shepherd and the sheep will be scattered\" in the Hebrew text. Jesus cites this verse in [[MAT.26:31]] concerning the falling away of the disciples upon His arrest. As it appears in the LXX, the passage matches vv. 1-8, continuing the warning against the false prophets and the promise of the people's delivery.",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "shepherd"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

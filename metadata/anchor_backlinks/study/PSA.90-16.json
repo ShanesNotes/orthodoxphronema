@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "With length of days I will satisfy him, And show him My salvation.\"",
   "pericope": {
     "id": "PSA.P090",
@@ -20,7 +20,16 @@
       "line_number": 306,
       "raw_match": "[[PSA.90:16]]",
       "reference_type": "wikilink",
-      "context": "Simeon represents humanity in waiting for the Consolation of Israel. He fulfills [[PSA.90:16]], in which God makes a promise to the one who loves Him: \"With length of days I will satisfy him, / And show him My salvation.\""
+      "context": "Simeon represents humanity in waiting for the Consolation of Israel. He fulfills [[PSA.90:16]], in which God makes a promise to the one who loves Him: \"With length of days I will satisfy him, / And show him My salvation.\"",
+      "edge_type": "fulfills",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

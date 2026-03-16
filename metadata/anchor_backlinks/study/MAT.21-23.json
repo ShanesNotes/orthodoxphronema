@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Now when He came into the temple, the chief priests and the elders of the people confronted Him as He was teaching, and said, 'By what authority are You doing these things? And who gave You this authority?'",
   "pericope": {
     "id": "MAT.P069",
@@ -12,7 +12,12 @@
     "range": "MAT.20:34-21:27",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "priesthood",
+    "resurrection",
+    "temple"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +25,22 @@
       "line_number": 293,
       "raw_match": "[[MAT.21:23]]",
       "reference_type": "wikilink",
-      "context": "Since Jesus is not a Levitical priest, His authority to cleanse the temple is challenged. The term Jews in John's Gospel often refers specifically to the leaders; in this case, it refers to the chief priests and the elders (see [[MAT.21:23]]). As Christ is careful not to reveal Himself to scoffers, He answers in a hidden way: the ultimate sign will be His death and Resurrection."
+      "context": "Since Jesus is not a Levitical priest, His authority to cleanse the temple is challenged. The term Jews in John's Gospel often refers specifically to the leaders; in this case, it refers to the chief priests and the elders (see [[MAT.21:23]]). As Christ is careful not to reveal Himself to scoffers, He answers in a hidden way: the ultimate sign will be His death and Resurrection.",
+      "edge_type": "ascends_from",
+      "topic_threads": [
+        "christology",
+        "priesthood",
+        "resurrection",
+        "temple"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

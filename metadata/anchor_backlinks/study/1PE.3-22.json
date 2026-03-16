@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "who has gone into heaven and is at the right hand of God, angels and authorities and powers having been made subject to Him.",
   "pericope": {
     "id": "1PE.P013",
@@ -12,7 +12,10 @@
     "range": "1PE.3:21-4:5",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "baptism",
+    "christology"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 319,
       "raw_match": "[[1PE.3:18]]-22",
       "reference_type": "wikilink_range",
-      "context": "The ark was a type of the Mother of God with Christ and the Church in her womb (Akath). The floodwaters were a type of baptism, in which we are saved ([[1PE.3:18]]-22)."
+      "context": "The ark was a type of the Mother of God with Christ and the Church in her womb (Akath). The floodwaters were a type of baptism, in which we are saved ([[1PE.3:18]]-22).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "baptism",
+        "christology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

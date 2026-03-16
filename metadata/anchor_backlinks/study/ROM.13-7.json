@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Render therefore to all their due: taxes to whom taxes are due, customs to whom customs, fear to whom fear, honor to whom honor.",
   "pericope": {
     "id": "ROM.P036",
@@ -12,7 +12,10 @@
     "range": "ROM.13:7-13:9",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "faith"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,28 +23,62 @@
       "line_number": 179,
       "raw_match": "[[ROM.13:1]]-7",
       "reference_type": "wikilink_range",
-      "context": "(See also [[ROM.13:1]]-7; [[MAT.22:21]]; [[TIT.3:1]].) Peter urges his readers to be obedient to civil government. While Christians serve a higher authority, God Himself, it is God who calls us to submit to earthly leaders for the Lord's sake (v. 13). This is not a call to \"separate\" Church from state, but rather a call to cooperate with and enhance the state-- realizing that at times Church and state have been at great odds. When ultimate loyalty and obedience to Christ and His gospel are at stake, Peter's actions show that we are to obey God rather than man, even to the point of prison or death ([[ACT.4:19]], [[ACT.4:20]])."
+      "context": "(See also [[ROM.13:1]]-7; [[MAT.22:21]]; [[TIT.3:1]].) Peter urges his readers to be obedient to civil government. While Christians serve a higher authority, God Himself, it is God who calls us to submit to earthly leaders for the Lord's sake (v. 13). This is not a call to \"separate\" Church from state, but rather a call to cooperate with and enhance the state-- realizing that at times Church and state have been at great odds. When ultimate loyalty and obedience to Christ and His gospel are at stake, Peter's actions show that we are to obey God rather than man, even to the point of prison or death ([[ACT.4:19]], [[ACT.4:20]]).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/NT/LUK_footnotes.md",
       "line_number": 1768,
       "raw_match": "[[ROM.13:1]]-7",
       "reference_type": "wikilink_range",
-      "context": "This question on taxation is designed to trap Jesus: a \"yes\" would turn the Jewish people against Him, while a \"no\" would bring a charge of treason by the Romans. His answer defeats their cunning and shows that a believer can render the state its due while serving God ([[ROM.13:1]]-7). As the coin bears the image of the emperor and is properly paid to him, so each person bears the image of God and therefore belongs to Him. Conflict arises only when the state demands that which is contrary to God."
+      "context": "This question on taxation is designed to trap Jesus: a \"yes\" would turn the Jewish people against Him, while a \"no\" would bring a charge of treason by the Romans. His answer defeats their cunning and shows that a believer can render the state its due while serving God ([[ROM.13:1]]-7). As the coin bears the image of the emperor and is properly paid to him, so each person bears the image of God and therefore belongs to Him. Conflict arises only when the state demands that which is contrary to God.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "faith"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/BAR_footnotes.md",
       "line_number": 39,
       "raw_match": "[[ROM.13:1]]-7",
       "reference_type": "wikilink_range",
-      "context": "God's people have always been called to pray for the... king and all who are in authority (see [[JER.27:6]]-8; 36:4-7; [[ROM.13:1]]-7; [[1TI.2:1]], [[1TI.2:2]])."
+      "context": "God's people have always been called to pray for the... king and all who are in authority (see [[JER.27:6]]-8; 36:4-7; [[ROM.13:1]]-7; [[1TI.2:1]], [[1TI.2:2]]).",
+      "edge_type": "instantiates"
     },
     {
       "source_file": "study/footnotes/OT/EZR_footnotes.md",
       "line_number": 23,
       "raw_match": "[[ROM.13:1]]-7",
       "reference_type": "wikilink_range",
-      "context": "He is the God... in Jerusalem: Deities were generally seen as belonging to a specific location, yet this statement is also prophetic in that it points as well to the New Jerusalem, the eternal city over which God reigns and in which all nations will dwell (Rev 21). 1:1-4 The kings of the earth, who receive authority from the Lord ([[JOH.19:11]]; [[ROM.13:1]]-7), are used by God to fulfill His plan."
+      "context": "He is the God... in Jerusalem: Deities were generally seen as belonging to a specific location, yet this statement is also prophetic in that it points as well to the New Jerusalem, the eternal city over which God reigns and in which all nations will dwell (Rev 21). 1:1-4 The kings of the earth, who receive authority from the Lord ([[JOH.19:11]]; [[ROM.13:1]]-7), are used by God to fulfill His plan.",
+      "edge_type": "fulfills",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

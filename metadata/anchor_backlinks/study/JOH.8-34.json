@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Jesus answered them, 'Most assuredly, I say to you, whoever commits sin is a slave of sin.",
   "pericope": {
     "id": "JOH.P027",
@@ -12,7 +12,10 @@
     "range": "JOH.8:30-8:35",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "suffering"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 260,
       "raw_match": "[[JOH.8:31]]-47",
       "reference_type": "wikilink_range",
-      "context": "The Smyrnan church was poor, perhaps because of the persecution, but spiritually rich, the opposite of Laodicea. The Jews of the synagogue of Satan may be either Jews in name only (see [[ROM.2:28]], [[ROM.2:29]]) who were insincere in their profession of Judaism and compromising in their beliefs ([[JOH.8:31]]-47); or Jews who refused to embrace the Messiah and His Church ([[ROM.2:28]]; [[GAL.6:15]])."
+      "context": "The Smyrnan church was poor, perhaps because of the persecution, but spiritually rich, the opposite of Laodicea. The Jews of the synagogue of Satan may be either Jews in name only (see [[ROM.2:28]], [[ROM.2:29]]) who were insincere in their profession of Judaism and compromising in their beliefs ([[JOH.8:31]]-47); or Jews who refused to embrace the Messiah and His Church ([[ROM.2:28]]; [[GAL.6:15]]).",
+      "edge_type": "opposes",
+      "topic_threads": [
+        "christology",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

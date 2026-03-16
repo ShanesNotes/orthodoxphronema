@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "And the smoke of the incense, with the prayers of the saints, ascended before God from the angel's hand.",
   "pericope": {
     "id": "REV.P021",
@@ -20,7 +20,16 @@
       "line_number": 320,
       "raw_match": "[[REV.8:4]]",
       "reference_type": "wikilink",
-      "context": "The dawning of the eternal day of the Lord will mean that the shadows of sin and death will depart from us forever (see [[REV.21:3]]-5). The mountain of myrrh is likely a reference to the fragrance of God's eternal Kingdom and the presence there of holy incense ([[REV.8:3]], [[REV.8:4]])."
+      "context": "The dawning of the eternal day of the Lord will mean that the shadows of sin and death will depart from us forever (see [[REV.21:3]]-5). The mountain of myrrh is likely a reference to the fragrance of God's eternal Kingdom and the presence there of holy incense ([[REV.8:3]], [[REV.8:4]]).",
+      "edge_type": "instantiates",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

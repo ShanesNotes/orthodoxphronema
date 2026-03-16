@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "In that He says, 'A new covenant,' He has made the first obsolete. Now what is becoming obsolete and growing old is ready to vanish away.",
   "pericope": {
     "id": "HEB.P018",
@@ -12,7 +12,16 @@
     "range": "HEB.8:13-9:8",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "baptism",
+    "christology",
+    "covenant",
+    "israel_church",
+    "judgment",
+    "repentance",
+    "suffering",
+    "theosis"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,21 +29,65 @@
       "line_number": 28,
       "raw_match": "[[HEB.8:13]]",
       "reference_type": "wikilink",
-      "context": "Christ is the Lawgiver in both Old and New Testaments. Therefore, there is no opposition or contradiction between the old and new laws. In His Incarnation, the Lawgiver Himself fulfilled the old Law, making it obsolete ([[HEB.8:13]]). Christ gave His written Law through Moses to make sin known ([[ROM.3:20]]; 7:7). Man's God-given natural law, written in the conscience, was dulled through disobedience in the years between Adam and Moses. The Mosaic Law helped renew this knowledge of sin to lead man to repentance. After His Ascension, Christ sent the Holy Spirit at Pentecost to convict the world of sin ([[JOH.16:8]]), to renew the natural law in man's conscience ([[HEB.8:10]]), to lead us into all truth ([[JOH.16:13]]), and to make it possible for us to become partakers of the divine nature ([[2PE.1:4]]). #### Grace From The Lawgiver"
+      "context": "Christ is the Lawgiver in both Old and New Testaments. Therefore, there is no opposition or contradiction between the old and new laws. In His Incarnation, the Lawgiver Himself fulfilled the old Law, making it obsolete ([[HEB.8:13]]). Christ gave His written Law through Moses to make sin known ([[ROM.3:20]]; 7:7). Man's God-given natural law, written in the conscience, was dulled through disobedience in the years between Adam and Moses. The Mosaic Law helped renew this knowledge of sin to lead man to repentance. After His Ascension, Christ sent the Holy Spirit at Pentecost to convict the world of sin ([[JOH.16:8]]), to renew the natural law in man's conscience ([[HEB.8:10]]), to lead us into all truth ([[JOH.16:13]]), and to make it possible for us to become partakers of the divine nature ([[2PE.1:4]]). #### Grace From The Lawgiver",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "covenant",
+        "repentance",
+        "theosis"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/NT/GAL_footnotes.md",
       "line_number": 196,
       "raw_match": "[[HEB.8:13]]",
       "reference_type": "wikilink",
-      "context": "We die through the law, not bypassing or dishonoring it, but by recognizing that it is holy; that we deserve its consequence, death; and that we voluntarily die to the law through our death with Christ. Being crucified with Christ through baptism, we come alive to the law of the Spirit, which perfects the intention of the OT law. There is no contradiction between law and gospel. The law is \"holy and just and good\" ([[ROM.7:12]]). However, the law is \"weak\" ([[ROM.8:3]]) and \"obsolete\" ([[HEB.8:13]]), for it is fulfilled in the gospel, in Christ Himself."
+      "context": "We die through the law, not bypassing or dishonoring it, but by recognizing that it is holy; that we deserve its consequence, death; and that we voluntarily die to the law through our death with Christ. Being crucified with Christ through baptism, we come alive to the law of the Spirit, which perfects the intention of the OT law. There is no contradiction between law and gospel. The law is \"holy and just and good\" ([[ROM.7:12]]). However, the law is \"weak\" ([[ROM.8:3]]) and \"obsolete\" ([[HEB.8:13]]), for it is fulfilled in the gospel, in Christ Himself.",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "baptism",
+        "christology",
+        "covenant",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/NT/MRK_footnotes.md",
       "line_number": 337,
       "raw_match": "[[HEB.8:13]]",
       "reference_type": "wikilink",
-      "context": "The cursing and withering of the fig tree is a prophetic act signifying the judgment of Israel. The disciples need to learn that the old covenant with Israel is becoming \"obsolete\" and will \"vanish away\" ([[HEB.8:13]]). They will establish His Church, ultimately to be filled with Gentiles and Jews, and need assurance that they are following His will. The fig tree will be an indelible image in their minds."
+      "context": "The cursing and withering of the fig tree is a prophetic act signifying the judgment of Israel. The disciples need to learn that the old covenant with Israel is becoming \"obsolete\" and will \"vanish away\" ([[HEB.8:13]]). They will establish His Church, ultimately to be filled with Gentiles and Jews, and need assurance that they are following His will. The fig tree will be an indelible image in their minds.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "covenant",
+        "israel_church",
+        "judgment"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

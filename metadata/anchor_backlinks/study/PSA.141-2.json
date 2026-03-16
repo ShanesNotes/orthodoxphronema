@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "I cried to the Lord with my voice, With my voice I prayed to the Lord.",
   "pericope": {
     "id": "PSA.P141",
@@ -12,7 +12,13 @@
     "range": "PSA.141:1-141:8",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "creation_theology",
+    "israel_church",
+    "praise",
+    "prayer"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +26,23 @@
       "line_number": 1407,
       "raw_match": "[[PSA.141:2]]",
       "reference_type": "wikilink",
-      "context": "Ps 140 and 141 are the psalms of the evening incense. These two psalms are both sung at Vespers. [[PSA.141:2]] was sung in Israel, and now in the Church, during the offering of incense to God. As [[REV.5:8]] teaches, incense is the visible sign of the prayers of all God's people. The prophet Malachi foretold its continued use in every place, including in the offering of worship by the Gentiles ([[MAL.1:11]]). Incense was brought to Christ as a gift at His birth, and it has been used in the worship of the Church from her very beginning."
+      "context": "Ps 140 and 141 are the psalms of the evening incense. These two psalms are both sung at Vespers. [[PSA.141:2]] was sung in Israel, and now in the Church, during the offering of incense to God. As [[REV.5:8]] teaches, incense is the visible sign of the prayers of all God's people. The prophet Malachi foretold its continued use in every place, including in the offering of worship by the Gentiles ([[MAL.1:11]]). Incense was brought to Christ as a gift at His birth, and it has been used in the worship of the Church from her very beginning.",
+      "edge_type": "echoes",
+      "topic_threads": [
+        "christology",
+        "creation_theology",
+        "israel_church",
+        "praise",
+        "prayer"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

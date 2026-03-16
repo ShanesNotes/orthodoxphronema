@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-15T23:42:04+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Therefore, when the chief priests and officers saw Him, they cried out, saying, 'Crucify Him, crucify Him! '",
   "pericope": {
     "id": "JOH.P064",
@@ -12,7 +12,10 @@
     "range": "JOH.19:4-19:15",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "priesthood",
+    "suffering"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 28,
       "raw_match": "[[JOH.19:6]]",
       "reference_type": "wikilink",
-      "context": "**19:6-11** \u2014 [[JOH.19:6]]\u201311, 13\u201320, 25\u201328, 30\u201335: This passage is read on September 14, the Feast of the Exaltation of the Holy Cross."
+      "context": "**19:6-11** \u2014 [[JOH.19:6]]\u201311, 13\u201320, 25\u201328, 30\u201335: This passage is read on September 14, the Feast of the Exaltation of the Holy Cross.",
+      "edge_type": "echoes",
+      "topic_threads": [
+        "priesthood",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

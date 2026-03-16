@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "In this manner, therefore, pray: Our Father in heaven, Hallowed be Your name.",
   "pericope": {
     "id": "MAT.P014",
@@ -12,7 +12,14 @@
     "range": "MAT.5:48-6:14",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "covenant",
+    "creation_theology",
+    "eucharist",
+    "prayer",
+    "suffering"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,28 +27,82 @@
       "line_number": 111,
       "raw_match": "[[MAT.6:1]]-18",
       "reference_type": "wikilink_range",
-      "context": "The world distorts every realm of God's good creation (see [[JAS.1:13]], [[JAS.1:14]]). There are (1) sensual pleasures of the flesh (physical passions), (2) intellectual attainments and capacities of the eyes (the soul's passions), and (3) inordinate possessions, power, and honors of life (the pride of human spirit). Biblical ascetic practices--prayer, fasting, almsgiving (see [[MAT.6:1]]-18)--help us overcome these distortions and live lives of virtue."
+      "context": "The world distorts every realm of God's good creation (see [[JAS.1:13]], [[JAS.1:14]]). There are (1) sensual pleasures of the flesh (physical passions), (2) intellectual attainments and capacities of the eyes (the soul's passions), and (3) inordinate possessions, power, and honors of life (the pride of human spirit). Biblical ascetic practices--prayer, fasting, almsgiving (see [[MAT.6:1]]-18)--help us overcome these distortions and live lives of virtue.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "creation_theology",
+        "prayer",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 4,
+        "title": "Reconstructing the Language of Creation",
+        "polarity": "vertical",
+        "operation": "ascend",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/NT/JOH_footnotes.md",
       "line_number": 1763,
       "raw_match": "[[MAT.6:9]]",
       "reference_type": "wikilink",
-      "context": "We know prayer is offered in the name of God the Father, for Christ taught us to pray that way ([[MAT.6:9]]), and He Himself prayed to the Father (11:41; 12:28; 17:1). In Christ, we have direct access to the Father, and thus we pray in the name of the Son as well (see note at 14:13, 14). After Pentecost, we learn the Holy Spirit Himself \"makes intercession for us\" ([[ROM.8:26]]), and we are instructed to pray always \"in the Spirit\" ([[EPH.6:18]]). Therefore, as Orthodox Christians, we pray continually and with confidence to all three Persons of the Trinity, \"in the name of the Father, and the Son, and the Holy Spirit.\""
+      "context": "We know prayer is offered in the name of God the Father, for Christ taught us to pray that way ([[MAT.6:9]]), and He Himself prayed to the Father (11:41; 12:28; 17:1). In Christ, we have direct access to the Father, and thus we pray in the name of the Son as well (see note at 14:13, 14). After Pentecost, we learn the Holy Spirit Himself \"makes intercession for us\" ([[ROM.8:26]]), and we are instructed to pray always \"in the Spirit\" ([[EPH.6:18]]). Therefore, as Orthodox Christians, we pray continually and with confidence to all three Persons of the Trinity, \"in the name of the Father, and the Son, and the Holy Spirit.\"",
+      "edge_type": "echoes",
+      "topic_threads": [
+        "christology",
+        "prayer"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/NT/LUK_footnotes.md",
       "line_number": 1077,
       "raw_match": "[[MAT.6:9]]-13",
       "reference_type": "wikilink_range",
-      "context": "Teach us to pray expresses a universal longing to be in communion with God. For notes on the Lord's Prayer, see [[MAT.6:9]]-13."
+      "context": "Teach us to pray expresses a universal longing to be in communion with God. For notes on the Lord's Prayer, see [[MAT.6:9]]-13.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "eucharist",
+        "prayer"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/1CH_footnotes.md",
       "line_number": 270,
       "raw_match": "[[MAT.6:9]]-13",
       "reference_type": "wikilink_range",
-      "context": "David's praises bear a striking resemblance to the Lord's Prayer ([[MAT.6:9]]-13). Under the old covenant, David cannot see the Trinity fully, for the Trinity has not yet been revealed. In Christ's Church, the faithful will be able to worship the Triune God \"in spirit and truth\" ([[JOH.4:24]])."
+      "context": "David's praises bear a striking resemblance to the Lord's Prayer ([[MAT.6:9]]-13). Under the old covenant, David cannot see the Trinity fully, for the Trinity has not yet been revealed. In Christ's Church, the faithful will be able to worship the Triune God \"in spirit and truth\" ([[JOH.4:24]]).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "covenant",
+        "prayer"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

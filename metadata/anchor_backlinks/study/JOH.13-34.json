@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "A new commandment I give to you, that you love one another; as I have loved you, that you also love one another.",
   "pericope": {
     "id": "JOH.P049",
@@ -12,7 +12,15 @@
     "range": "JOH.13:30-13:34",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "baptism",
+    "christology",
+    "faith",
+    "judgment",
+    "mercy",
+    "repentance",
+    "suffering"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,21 +28,60 @@
       "line_number": 79,
       "raw_match": "[[JOH.13:34]]",
       "reference_type": "wikilink",
-      "context": "The ancient gnostics held two false teachings on God's light: knowledge of God requires neither (1) obedience (vv. 3-8) nor (2) love of others (vv. 9-11). John answers: (1) To know God is to obey Him. His commandments (vv. 3, 4) are not a legal code but life in Christ, the way of love (vv. 5, 6). Those outside of Christ will not become partakers of His life unless they, by God's grace, practice what He says. \"In vain do we applaud Him whose commandments we do not keep\" (Bede; see also [[LUK.9:23]]; [[JAS.2:19]]). The new commandment is Christ's (v. 7), that we love as Christ loved ([[JOH.13:34]]; 15:12, 17). (2) To love God (to be in the light, vv. 9, 10) is also to love each other. \"Anyone who comes hating his brother to the font of life where he is to be reborn, to the cup of that precious blood whereby he is to be redeemed, even though he may think he is enlightened by the Lord, is still in darkness. He cannot in any way have put off the darkness of his sins when he did not take care to put on the fundamentals of love\" (Bede)."
+      "context": "The ancient gnostics held two false teachings on God's light: knowledge of God requires neither (1) obedience (vv. 3-8) nor (2) love of others (vv. 9-11). John answers: (1) To know God is to obey Him. His commandments (vv. 3, 4) are not a legal code but life in Christ, the way of love (vv. 5, 6). Those outside of Christ will not become partakers of His life unless they, by God's grace, practice what He says. \"In vain do we applaud Him whose commandments we do not keep\" (Bede; see also [[LUK.9:23]]; [[JAS.2:19]]). The new commandment is Christ's (v. 7), that we love as Christ loved ([[JOH.13:34]]; 15:12, 17). (2) To love God (to be in the light, vv. 9, 10) is also to love each other. \"Anyone who comes hating his brother to the font of life where he is to be reborn, to the cup of that precious blood whereby he is to be redeemed, even though he may think he is enlightened by the Lord, is still in darkness. He cannot in any way have put off the darkness of his sins when he did not take care to put on the fundamentals of love\" (Bede).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/NT/JAS_footnotes.md",
       "line_number": 142,
       "raw_match": "[[JOH.13:34]]",
       "reference_type": "wikilink",
-      "context": ". 1:26-27 Here are three examples of the relationship between faith and works. (1) Mastery over speech: What proceeds out of the mouth flows from the heart, for sooner or later our tongue will reveal the quality of our faith in God. (2) Ministry to the needy: Faithful Christians must be the guardians of the poor, especially of those orphans and widows who have lost their natural guardians. \"Do not let the widows be neglected; after the Lord, you must be their guardian\" (IgnAnt). (3) Moral purity in thought and deed: A traditional indicator of a working faith. \"Let us make haste to wash away through fasting the filth of our transgressions, and through acts of mercy and compassion to the needy let us enter into the bridal chamber of the Bridegroom Christ, who grants to us great mercy\" (Vespers, week before Lent). 2:1-4 Unjustly judging others is an example of fainthearted faith being manifested in unjust works. Favoring the rich over the poor is contrary to true faith. A person's dignity and worth come from God, not from fellow humans. So we must not judge others by the earthly standards of rank, wealth, attainments, and appearance. 2:5-7 God is not partial to anyone. The poor are more likely to repent and renounce this world for the sake of the kingdom, for they more easily see the emptiness of earthly things. The rich (v. 6), on the other hand, tend to prize earthly things, desire material things, and even hurt others to gain them (see [[LUK.6:21]]-25; [[1CO.1:26]]-28). They may mock Christians for the name by which (v. 7) they are called, the name invoked at baptism. 2:8-13 The corrective standard of judgment is perfect faith manifested in perfect works. The royal law (v. 8), the law of liberty (v. 12; 1:25), is the second great commandment of Christ: love for neighbor ([[JOH.13:34]]). The standard by which we judge is that by which we will be judged; the mercy we give will be the mercy we receive. \"God has shown mercy to us. Let us in our turn show mercy: let us feed the poor, and with the divine water of fasting let us wash the defilement from our souls.... O heavenly angels, entreat the Giver of good to accept in His infinite mercy our poor and mean repentance\" (Matins, Friday before Lent)."
+      "context": ". 1:26-27 Here are three examples of the relationship between faith and works. (1) Mastery over speech: What proceeds out of the mouth flows from the heart, for sooner or later our tongue will reveal the quality of our faith in God. (2) Ministry to the needy: Faithful Christians must be the guardians of the poor, especially of those orphans and widows who have lost their natural guardians. \"Do not let the widows be neglected; after the Lord, you must be their guardian\" (IgnAnt). (3) Moral purity in thought and deed: A traditional indicator of a working faith. \"Let us make haste to wash away through fasting the filth of our transgressions, and through acts of mercy and compassion to the needy let us enter into the bridal chamber of the Bridegroom Christ, who grants to us great mercy\" (Vespers, week before Lent). 2:1-4 Unjustly judging others is an example of fainthearted faith being manifested in unjust works. Favoring the rich over the poor is contrary to true faith. A person's dignity and worth come from God, not from fellow humans. So we must not judge others by the earthly standards of rank, wealth, attainments, and appearance. 2:5-7 God is not partial to anyone. The poor are more likely to repent and renounce this world for the sake of the kingdom, for they more easily see the emptiness of earthly things. The rich (v. 6), on the other hand, tend to prize earthly things, desire material things, and even hurt others to gain them (see [[LUK.6:21]]-25; [[1CO.1:26]]-28). They may mock Christians for the name by which (v. 7) they are called, the name invoked at baptism. 2:8-13 The corrective standard of judgment is perfect faith manifested in perfect works. The royal law (v. 8), the law of liberty (v. 12; 1:25), is the second great commandment of Christ: love for neighbor ([[JOH.13:34]]). The standard by which we judge is that by which we will be judged; the mercy we give will be the mercy we receive. \"God has shown mercy to us. Let us in our turn show mercy: let us feed the poor, and with the divine water of fasting let us wash the defilement from our souls.... O heavenly angels, entreat the Giver of good to accept in His infinite mercy our poor and mean repentance\" (Matins, Friday before Lent).",
+      "edge_type": "echoes",
+      "topic_threads": [
+        "baptism",
+        "christology",
+        "faith",
+        "judgment",
+        "mercy",
+        "repentance",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/DEU_footnotes.md",
       "line_number": 462,
       "raw_match": "[[JOH.13:34]]",
       "reference_type": "wikilink",
-      "context": "When a man builds a house, love of neighbor must be in his mind. For love of neighbor is the summary of the Law (Lv 19:18; [[ROM.13:9]]). Under the Law one was to love his neighbor \"as himself.\" Under Grace one is to love his neighbor more than himself, for Jesus said, \"A new commandment I give to you, that you love one another; as I have loved you, that you also love one another\" ([[JOH.13:34]]). Jesus loved mankind more than Himself, and He even died for His enemies ([[ROM.5:6]]-8)."
+      "context": "When a man builds a house, love of neighbor must be in his mind. For love of neighbor is the summary of the Law (Lv 19:18; [[ROM.13:9]]). Under the Law one was to love his neighbor \"as himself.\" Under Grace one is to love his neighbor more than himself, for Jesus said, \"A new commandment I give to you, that you love one another; as I have loved you, that you also love one another\" ([[JOH.13:34]]). Jesus loved mankind more than Himself, and He even died for His enemies ([[ROM.5:6]]-8).",
+      "edge_type": "fulfills",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "It is good to trust in the Lord Rather than to trust in man;",
   "pericope": {
     "id": "PSA.P117",
@@ -12,7 +12,10 @@
     "range": "PSA.117:1-117:29",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "exodus_typology",
+    "faith"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 371,
       "raw_match": "[[PSA.117:8]]",
       "reference_type": "wikilink",
-      "context": "Those who trust in Egypt or in any human government will labor in vain. \"It is good to trust in the Lord / Rather than to trust in man\" ([[PSA.117:8]])."
+      "context": "Those who trust in Egypt or in any human government will labor in vain. \"It is good to trust in the Lord / Rather than to trust in man\" ([[PSA.117:8]]).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "exodus_typology",
+        "faith"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

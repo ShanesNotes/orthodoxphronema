@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Thus says the Lord: 'Let your voice cease from its bitter weeping and your eyes from tears, for there is a reward for your works, and they shall return from the land of their enemies.",
   "pericope": {
     "id": "JER.P050",
@@ -12,7 +12,12 @@
     "range": "JER.24:10-38:39",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "exodus_typology",
+    "mercy",
+    "repentance",
+    "suffering"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +25,22 @@
       "line_number": 162,
       "raw_match": "[[JER.38:16]]",
       "reference_type": "wikilink",
-      "context": "Jeremiah recorded the people of Jerusalem being led away to exile ([[JER.38:15]]). On their way to captivity, they passed Ramah, which was near Bethlehem, where Jacob's wife Rachel lay buried. In his prophecy, Jeremiah saw Rachel, even from the grave, moved with compassion for the fate that had befallen her descendants. Here Rachel is again weeping for her children, showing that the saints in heaven have awareness and compassion for those yet on earth. These slaughtered children are regarded as saints and martyrs in the Church and are known as the Holy Innocents. Just as Rachel was told that her children would return from exile in Babylon ([[JER.38:16]], [[JER.38:17]]), so Jesus will return from His exile in Egypt."
+      "context": "Jeremiah recorded the people of Jerusalem being led away to exile ([[JER.38:15]]). On their way to captivity, they passed Ramah, which was near Bethlehem, where Jacob's wife Rachel lay buried. In his prophecy, Jeremiah saw Rachel, even from the grave, moved with compassion for the fate that had befallen her descendants. Here Rachel is again weeping for her children, showing that the saints in heaven have awareness and compassion for those yet on earth. These slaughtered children are regarded as saints and martyrs in the Church and are known as the Holy Innocents. Just as Rachel was told that her children would return from exile in Babylon ([[JER.38:16]], [[JER.38:17]]), so Jesus will return from His exile in Egypt.",
+      "edge_type": "descends_to",
+      "topic_threads": [
+        "exodus_typology",
+        "mercy",
+        "repentance",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

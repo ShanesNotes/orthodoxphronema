@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "But you are not in the flesh but in the Spirit, if indeed the Spirit of God dwells in you. Now if anyone does not have the Spirit of Christ, he is not His.",
   "pericope": {
     "id": "ROM.P017",
@@ -12,7 +12,9 @@
     "range": "ROM.7:26-8:10",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 767,
       "raw_match": "[[ROM.8:9]]",
       "reference_type": "wikilink",
-      "context": "The rock speaks of Christ, and the oil of the Holy Spirit, and the honey of the spiritual food, for Christ gives us His Holy Spirit ([[1CO.10:3]], [[1CO.10:4]]; [[ROM.8:9]])."
+      "context": "The rock speaks of Christ, and the oil of the Holy Spirit, and the honey of the spiritual food, for Christ gives us His Holy Spirit ([[1CO.10:3]], [[1CO.10:4]]; [[ROM.8:9]]).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 7,
+        "title": "Symbolism and the Spiritual Worldview",
+        "polarity": "luminosity",
+        "operation": "eat",
+        "scale": "individual"
+      }
     }
   ]
 }

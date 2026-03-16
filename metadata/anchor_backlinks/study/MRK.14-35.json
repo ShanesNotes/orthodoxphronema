@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "He went little farther, and fell on the ground, and prayed that if it were possible, the hour might pass from Him.",
   "pericope": {
     "id": "MRK.P053",
@@ -12,7 +12,10 @@
     "range": "MRK.14:32-14:41",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "prayer"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,14 +23,39 @@
       "line_number": 314,
       "raw_match": "[[MRK.14:32]]-42",
       "reference_type": "wikilink_range",
-      "context": "Cries and tears is likely a reference to our Lord's agonizing prayer in the Garden of Gethsemane ([[MAT.26:36]]-46; [[MRK.14:32]]-42; [[LUK.22:39]]-46)."
+      "context": "Cries and tears is likely a reference to our Lord's agonizing prayer in the Garden of Gethsemane ([[MAT.26:36]]-46; [[MRK.14:32]]-42; [[LUK.22:39]]-46).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "prayer"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/2SA_footnotes.md",
       "line_number": 491,
       "raw_match": "[[MRK.14:32]]-35",
       "reference_type": "wikilink_range",
-      "context": "David is distraught at the defection of Ahithophel. He hears this news as he weeps and prays on the Mount of Olives, seeking God's will. Compare this with Christ weeping on the Mount of Olives, knowing full well God's will, as His betrayer approaches ([[MRK.14:32]]-35)."
+      "context": "David is distraught at the defection of Ahithophel. He hears this news as he weeps and prays on the Mount of Olives, seeking God's will. Compare this with Christ weeping on the Mount of Olives, knowing full well God's will, as His betrayer approaches ([[MRK.14:32]]-35).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology",
+        "prayer"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 2,
+        "title": "Coming Full Circle: The Copernican Revolution",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

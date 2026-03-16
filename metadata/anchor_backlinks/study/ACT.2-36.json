@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "'Therefore let all the house of Israel know assuredly that God has made this Jesus, whom you crucified, both Lord and Christ.'",
   "pericope": {
     "id": "ACT.P008",
@@ -12,7 +12,11 @@
     "range": "ACT.2:36-2:38",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "exodus_typology",
+    "suffering"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,14 +24,41 @@
       "line_number": 161,
       "raw_match": "[[ACT.2:36]]",
       "reference_type": "wikilink",
-      "context": "The Lord of glory demonstrates that the dignity and honor of Jesus is that of God the Father Himself ([[EXO.24:16]]-18). The incarnate Son of God, who clothes Himself \"with light as with a garment\" ([[PSA.103:2]]), stood naked before human judges, receiving blows from hands which He had formed. The Lord of Glory, the Son of the Father, was crucified in His humanity ([[ACT.2:36]]). They crucified God!"
+      "context": "The Lord of glory demonstrates that the dignity and honor of Jesus is that of God the Father Himself ([[EXO.24:16]]-18). The incarnate Son of God, who clothes Himself \"with light as with a garment\" ([[PSA.103:2]]), stood naked before human judges, receiving blows from hands which He had formed. The Lord of Glory, the Son of the Father, was crucified in His humanity ([[ACT.2:36]]). They crucified God!",
+      "edge_type": "descends_to",
+      "topic_threads": [
+        "christology",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 6,
+        "title": "The Universe As a Language",
+        "polarity": "generation",
+        "operation": "descend",
+        "scale": "communal"
+      }
     },
     {
       "source_file": "study/footnotes/OT/GEN_footnotes.md",
       "line_number": 1374,
       "raw_match": "[[ACT.2:36]]",
       "reference_type": "wikilink",
-      "context": "Joseph's brothers cast him into a pit (v. 24), then lifted him out and sold him as a slave into Egypt. However, he ultimately became the lord of all Egypt. Similarly, Jesus was betrayed for thirty pieces of silver, was killed and buried in His grave. But He rose again, and became the Lord of all ([[ACT.2:36]]; 10:36)."
+      "context": "Joseph's brothers cast him into a pit (v. 24), then lifted him out and sold him as a slave into Egypt. However, he ultimately became the lord of all Egypt. Similarly, Jesus was betrayed for thirty pieces of silver, was killed and buried in His grave. But He rose again, and became the Lord of all ([[ACT.2:36]]; 10:36).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology",
+        "exodus_typology",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 6,
+        "title": "The Universe As a Language",
+        "polarity": "generation",
+        "operation": "descend",
+        "scale": "communal"
+      }
     }
   ]
 }

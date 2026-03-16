@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Behold, the days are coming,' says the Lord, 'when they will no longer say, 'the Altar of Tophet,' or, 'the Valley of the Son of Hinnom,' but instead, 'the Valley of the Slain'; and they will be buried in Tophet, for there is no other place.",
   "pericope": {
     "id": "JER.P014",
@@ -12,7 +12,9 @@
     "range": "JER.7:25-7:32",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "temple"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 65,
       "raw_match": "[[JER.7:31]]",
       "reference_type": "wikilink",
-      "context": "The cannibalism admitted here includes the children the Jews ate when Jerusalem was besieged; they also sacrificed children to the god Molech (see [[JER.7:31]]; 19:9; Lam"
+      "context": "The cannibalism admitted here includes the children the Jews ate when Jerusalem was besieged; they also sacrificed children to the god Molech (see [[JER.7:31]]; 19:9; Lam",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "temple"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

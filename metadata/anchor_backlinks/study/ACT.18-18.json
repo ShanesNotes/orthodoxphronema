@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "So Paul still remained good while. Then he took leave of the brethren and sailed for Syria, and Priscilla and Aquila were with him. He had his hair cut off at Cenchrea, for he had taken avow.",
   "pericope": {
     "id": "ACT.P068",
@@ -20,14 +20,32 @@
       "line_number": 1134,
       "raw_match": "[[ACT.18:18]]",
       "reference_type": "wikilink",
-      "context": "Priscilla and Aquila were a married couple, Jewish business people, and Paul's coworkers (see [[ACT.18:18]], [[ACT.18:26]])."
+      "context": "Priscilla and Aquila were a married couple, Jewish business people, and Paul's coworkers (see [[ACT.18:18]], [[ACT.18:26]]).",
+      "edge_type": "instantiates",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/SIR_footnotes.md",
       "line_number": 404,
       "raw_match": "[[ACT.18:18]]",
       "reference_type": "wikilink",
-      "context": "Making a vow to the Lord can be as simple as promising Him to give a tithe of one's income, or as all-encompassing as monastic vows (see [[NUM.6:5]]; [[ACT.18:18]])."
+      "context": "Making a vow to the Lord can be as simple as promising Him to give a tithe of one's income, or as all-encompassing as monastic vows (see [[NUM.6:5]]; [[ACT.18:18]]).",
+      "edge_type": "instantiates",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

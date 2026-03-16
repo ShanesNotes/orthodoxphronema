@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "But when He again brings the firstborn into the world, He says: 'Let all the angels of God worship Him.'",
   "pericope": {
     "id": "HEB.P001",
@@ -12,7 +12,16 @@
     "range": "HEB.1:1-1:9",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "covenant",
+    "divine_light",
+    "kingdom",
+    "mercy",
+    "resurrection",
+    "suffering",
+    "wisdom"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,14 +29,45 @@
       "line_number": 1073,
       "raw_match": "[[HEB.1:6]]",
       "reference_type": "wikilink",
-      "context": "The Lord is present everywhere and fills all things. Thus, Isaac would give the blessing of the firstborn in His presence. The blessing of the firstborn gave the eldest son a double portion of his father's inheritance. He would also become the ruler and head over his brethren upon his father's death, and be responsible for the welfare and administration of the family. All this foreshadowed the Lord's Incarnation as the Firstborn of the Father and the ruler and head over the Church. Through His Incarnation, He would secure the Church's eternal inheritance ([[ROM.4:13]]; 8:29; [[GAL.3:3]], [[GAL.3:18]], [[GAL.3:29]]; 4:7; [[EPH.1:11]], [[EPH.1:14]], [[EPH.1:18]]; 3:6; [[COL.1:12]], [[COL.1:15]], [[COL.1:18]]; 3:24; [[TIT.3:7]]; [[HEB.1:2]], [[HEB.1:4]], [[HEB.1:6]]; 6:17; 9:15; 11:7-9; Jam 2:5; [[1PE.1:4]]; 3:7; 12:23; [[REV.1:5]])."
+      "context": "The Lord is present everywhere and fills all things. Thus, Isaac would give the blessing of the firstborn in His presence. The blessing of the firstborn gave the eldest son a double portion of his father's inheritance. He would also become the ruler and head over his brethren upon his father's death, and be responsible for the welfare and administration of the family. All this foreshadowed the Lord's Incarnation as the Firstborn of the Father and the ruler and head over the Church. Through His Incarnation, He would secure the Church's eternal inheritance ([[ROM.4:13]]; 8:29; [[GAL.3:3]], [[GAL.3:18]], [[GAL.3:29]]; 4:7; [[EPH.1:11]], [[EPH.1:14]], [[EPH.1:18]]; 3:6; [[COL.1:12]], [[COL.1:15]], [[COL.1:18]]; 3:24; [[TIT.3:7]]; [[HEB.1:2]], [[HEB.1:4]], [[HEB.1:6]]; 6:17; 9:15; 11:7-9; Jam 2:5; [[1PE.1:4]]; 3:7; 12:23; [[REV.1:5]]).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 6,
+        "title": "The Universe As a Language",
+        "polarity": "generation",
+        "operation": "descend",
+        "scale": "communal"
+      }
     },
     {
       "source_file": "study/footnotes/OT/PSA_footnotes.md",
       "line_number": 981,
       "raw_match": "[[HEB.1:6]]",
       "reference_type": "wikilink",
-      "context": "Ps 88 concerns understanding the Lord's mercy and truth (vv. 2, 3, 6, 9, 15, 25, 29, 34, 50). This mercy and truth is in the new covenant He made with the Church (vv. 4, 6, 29, 35, 40). In His Incarnation, the Lord is called \"the seed of David\" (see vv. 4, 21, 50; see also [[MAT.1:1]]), the Lord God (vv. 7, 8, 9; see also [[JOH.20:28]]), the Firstborn of God the Father (vv. 27, 28; see also [[HEB.1:6]]), and the King (v. 19; see also [[1TI.6:15]]). His throne is established in the Church through the works of His Incarnation--for example, through His Transfiguration on Mt. Tabor (vv. 6-19), through His sufferings and death (vv. 39- 46), and through His Resurrection (vv. 47-52)."
+      "context": "Ps 88 concerns understanding the Lord's mercy and truth (vv. 2, 3, 6, 9, 15, 25, 29, 34, 50). This mercy and truth is in the new covenant He made with the Church (vv. 4, 6, 29, 35, 40). In His Incarnation, the Lord is called \"the seed of David\" (see vv. 4, 21, 50; see also [[MAT.1:1]]), the Lord God (vv. 7, 8, 9; see also [[JOH.20:28]]), the Firstborn of God the Father (vv. 27, 28; see also [[HEB.1:6]]), and the King (v. 19; see also [[1TI.6:15]]). His throne is established in the Church through the works of His Incarnation--for example, through His Transfiguration on Mt. Tabor (vv. 6-19), through His sufferings and death (vv. 39- 46), and through His Resurrection (vv. 47-52).",
+      "edge_type": "echoes",
+      "topic_threads": [
+        "christology",
+        "covenant",
+        "divine_light",
+        "kingdom",
+        "mercy",
+        "resurrection",
+        "suffering",
+        "wisdom"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

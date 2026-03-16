@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Your kingdom come.",
   "pericope": {
     "id": "MAT.P014",
@@ -12,7 +12,15 @@
     "range": "MAT.5:48-6:14",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "covenant",
+    "creation_theology",
+    "eschatology",
+    "eucharist",
+    "prayer",
+    "suffering"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,35 +28,102 @@
       "line_number": 111,
       "raw_match": "[[MAT.6:1]]-18",
       "reference_type": "wikilink_range",
-      "context": "The world distorts every realm of God's good creation (see [[JAS.1:13]], [[JAS.1:14]]). There are (1) sensual pleasures of the flesh (physical passions), (2) intellectual attainments and capacities of the eyes (the soul's passions), and (3) inordinate possessions, power, and honors of life (the pride of human spirit). Biblical ascetic practices--prayer, fasting, almsgiving (see [[MAT.6:1]]-18)--help us overcome these distortions and live lives of virtue."
+      "context": "The world distorts every realm of God's good creation (see [[JAS.1:13]], [[JAS.1:14]]). There are (1) sensual pleasures of the flesh (physical passions), (2) intellectual attainments and capacities of the eyes (the soul's passions), and (3) inordinate possessions, power, and honors of life (the pride of human spirit). Biblical ascetic practices--prayer, fasting, almsgiving (see [[MAT.6:1]]-18)--help us overcome these distortions and live lives of virtue.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "creation_theology",
+        "prayer",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 4,
+        "title": "Reconstructing the Language of Creation",
+        "polarity": "vertical",
+        "operation": "ascend",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/NT/GAL_footnotes.md",
       "line_number": 21,
       "raw_match": "[[MAT.6:10]]",
       "reference_type": "wikilink",
-      "context": "Paul's greeting encapsulates the true gospel, which he is defending in this epistle. Several points may be drawn from this greeting: (1) The true gospel comes from God Himself (v. 3). (2) Christ gave Himself for our sins not only in His death, but in every phase of His Incarnation, from conception to Ascension (see 2:20). (3) Christ delivers us from this present evil age (v. 4) to enter the age to come. (4) This deliverance is accomplished according to the will of our God (v. 4), the Son in His human nature cooperating with the divine will ([[JOH.5:30]]; 6:38). The Father's will is done by Jesus, and then by us, \"on earth as it is in heaven\" ([[MAT.6:10]])."
+      "context": "Paul's greeting encapsulates the true gospel, which he is defending in this epistle. Several points may be drawn from this greeting: (1) The true gospel comes from God Himself (v. 3). (2) Christ gave Himself for our sins not only in His death, but in every phase of His Incarnation, from conception to Ascension (see 2:20). (3) Christ delivers us from this present evil age (v. 4) to enter the age to come. (4) This deliverance is accomplished according to the will of our God (v. 4), the Son in His human nature cooperating with the divine will ([[JOH.5:30]]; 6:38). The Father's will is done by Jesus, and then by us, \"on earth as it is in heaven\" ([[MAT.6:10]]).",
+      "edge_type": "ascends_from",
+      "topic_threads": [
+        "christology",
+        "eschatology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/NT/JOH_footnotes.md",
       "line_number": 1591,
       "raw_match": "[[MAT.6:10]]",
       "reference_type": "wikilink",
-      "context": "To pray in Christ's name does not simply mean to attach the phrase \"in Jesus' name we pray\" to the end of prayers. Rather, to pray in His name means to pray according to His will. Just as an emissary of a king can only be said to be speaking in the king's name if he says what the king would want him to say, so also we can only be said to be praying in the name of Christ when we pray according to what He wants. The purpose here is not to get God to do our will, but for us to learn to pray properly, according to God's will ([[MAT.6:10]])."
+      "context": "To pray in Christ's name does not simply mean to attach the phrase \"in Jesus' name we pray\" to the end of prayers. Rather, to pray in His name means to pray according to His will. Just as an emissary of a king can only be said to be speaking in the king's name if he says what the king would want him to say, so also we can only be said to be praying in the name of Christ when we pray according to what He wants. The purpose here is not to get God to do our will, but for us to learn to pray properly, according to God's will ([[MAT.6:10]]).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology",
+        "prayer"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/NT/LUK_footnotes.md",
       "line_number": 1077,
       "raw_match": "[[MAT.6:9]]-13",
       "reference_type": "wikilink_range",
-      "context": "Teach us to pray expresses a universal longing to be in communion with God. For notes on the Lord's Prayer, see [[MAT.6:9]]-13."
+      "context": "Teach us to pray expresses a universal longing to be in communion with God. For notes on the Lord's Prayer, see [[MAT.6:9]]-13.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "eucharist",
+        "prayer"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/1CH_footnotes.md",
       "line_number": 270,
       "raw_match": "[[MAT.6:9]]-13",
       "reference_type": "wikilink_range",
-      "context": "David's praises bear a striking resemblance to the Lord's Prayer ([[MAT.6:9]]-13). Under the old covenant, David cannot see the Trinity fully, for the Trinity has not yet been revealed. In Christ's Church, the faithful will be able to worship the Triune God \"in spirit and truth\" ([[JOH.4:24]])."
+      "context": "David's praises bear a striking resemblance to the Lord's Prayer ([[MAT.6:9]]-13). Under the old covenant, David cannot see the Trinity fully, for the Trinity has not yet been revealed. In Christ's Church, the faithful will be able to worship the Triune God \"in spirit and truth\" ([[JOH.4:24]]).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "covenant",
+        "prayer"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

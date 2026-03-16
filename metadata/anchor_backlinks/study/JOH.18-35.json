@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Pilate answered, 'Am I a Jew? Your own nation and the chief priests have delivered You to me. What have You done?'",
   "pericope": {
     "id": "JOH.P063",
@@ -12,7 +12,9 @@
     "range": "JOH.17:26-19:3",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "priesthood"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 1540,
       "raw_match": "[[JOH.18:29]]-35",
       "reference_type": "wikilink_range",
-      "context": "Paul's trial here is strikingly unusual in that there are no actual charges against him, yet there is already an appeal. As Festus would look incompetent sending a man to Caesar on appeal without any charges, this hearing has to be held in order to come up with a legal accusation (compare [[JOH.18:29]]-35)."
+      "context": "Paul's trial here is strikingly unusual in that there are no actual charges against him, yet there is already an appeal. As Festus would look incompetent sending a man to Caesar on appeal without any charges, this hearing has to be held in order to come up with a legal accusation (compare [[JOH.18:29]]-35).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "priesthood"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 6,
+        "title": "The Universe As a Language",
+        "polarity": "generation",
+        "operation": "descend",
+        "scale": "communal"
+      }
     }
   ]
 }

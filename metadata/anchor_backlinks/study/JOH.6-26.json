@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Jesus answered them and said, 'Most assuredly, I say to you, you seek Me, not because you saw the signs, but because you ate of the loaves and were filled.",
   "pericope": {
     "id": "JOH.P017",
@@ -12,7 +12,10 @@
     "range": "JOH.6:21-6:28",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "eucharist"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,14 +23,36 @@
       "line_number": 893,
       "raw_match": "[[JOH.6:26]]",
       "reference_type": "wikilink",
-      "context": "Christ looked up to heaven \"not as receiving power from elsewhere, but as honoring the Father who begot Him.\" That Christ blessed and broke the bread teaches us \"not to touch any meal until we have given thanks to Him who gives us food\" (JohnChr). This blessing also presents a clear eucharistic image and directs us to pursue spiritual food greater than that which is earthly (see [[JOH.6:26]], [[JOH.6:27]])."
+      "context": "Christ looked up to heaven \"not as receiving power from elsewhere, but as honoring the Father who begot Him.\" That Christ blessed and broke the bread teaches us \"not to touch any meal until we have given thanks to Him who gives us food\" (JohnChr). This blessing also presents a clear eucharistic image and directs us to pursue spiritual food greater than that which is earthly (see [[JOH.6:26]], [[JOH.6:27]]).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology",
+        "eucharist"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 5,
+        "title": "Heaven and Earth: A Spiritual Perspective",
+        "polarity": "generation",
+        "operation": "inform",
+        "scale": "individual"
+      }
     },
     {
       "source_file": "study/footnotes/OT/RUT_footnotes.md",
       "line_number": 32,
       "raw_match": "[[JOH.6:26]]",
       "reference_type": "wikilink",
-      "context": "Naomi's question, \"Why do you desire to go with me?\" is intended not to prevent them from following her to the Lord, but to challenge their sincerity (see [[JOH.6:26]], [[JOH.6:27]])."
+      "context": "Naomi's question, \"Why do you desire to go with me?\" is intended not to prevent them from following her to the Lord, but to challenge their sincerity (see [[JOH.6:26]], [[JOH.6:27]]).",
+      "edge_type": "instantiates",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

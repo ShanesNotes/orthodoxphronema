@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "The strong will find no confidence in their strength; the naked will flee away in that day,' says the Lord.",
   "pericope": {
     "id": "AMO.P003",
@@ -12,7 +12,9 @@
     "range": "AMO.2:16-3:14",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "faith"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 427,
       "raw_match": "[[AMO.2:16]]",
       "reference_type": "wikilink",
-      "context": "To flee naked is a great shame and humiliation ([[EZK.16:39]]; [[AMO.2:16]]). Some teach this young man was James, the brother of the Lord ([[GAL.1:19]]), while others say that it was the apostle John, the youngest of the twelve. Most others believe this was Mark, the author of this Gospel, as it was a common literary device for a writer not to give his own name (see [[LUK.24:13]]; [[JOH.21:24]]). The other evangelists do not report this incident. They would not have been inclined to humiliate Mark, whereas Mark would have been more likely to relate such an event concerning himself."
+      "context": "To flee naked is a great shame and humiliation ([[EZK.16:39]]; [[AMO.2:16]]). Some teach this young man was James, the brother of the Lord ([[GAL.1:19]]), while others say that it was the apostle John, the youngest of the twelve. Most others believe this was Mark, the author of this Gospel, as it was a common literary device for a writer not to give his own name (see [[LUK.24:13]]; [[JOH.21:24]]). The other evangelists do not report this incident. They would not have been inclined to humiliate Mark, whereas Mark would have been more likely to relate such an event concerning himself.",
+      "edge_type": "opposes",
+      "topic_threads": [
+        "faith"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

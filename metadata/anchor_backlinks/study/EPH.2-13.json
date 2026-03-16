@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "But now in Christ Jesus you who once were far off have been brought near by the blood of Christ.",
   "pericope": {
     "id": "EPH.P006",
@@ -12,7 +12,9 @@
     "range": "EPH.2:12-2:18",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 510,
       "raw_match": "[[EPH.2:11]]-16",
       "reference_type": "wikilink_range",
-      "context": "The seed is first Christ, then His Church ([[GAL.3:16]]; [[ROM.4:16]]). The stars are a type of all the members of His body ([[PHP.2:15]]). Their number is countless, and consists of both Jews and Gentiles ([[EPH.2:11]]-16)."
+      "context": "The seed is first Christ, then His Church ([[GAL.3:16]]; [[ROM.4:16]]). The stars are a type of all the members of His body ([[PHP.2:15]]). Their number is countless, and consists of both Jews and Gentiles ([[EPH.2:11]]-16).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

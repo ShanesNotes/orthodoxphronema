@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "leave your gift there before the altar, and go your way. First be reconciled to your brother, and then come and offer your gift.",
   "pericope": {
     "id": "MAT.P013",
@@ -12,7 +12,12 @@
     "range": "MAT.5:20-5:47",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "eucharist",
+    "priesthood",
+    "repentance"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,14 +25,41 @@
       "line_number": 667,
       "raw_match": "[[MAT.5:23]]-26",
       "reference_type": "wikilink_range",
-      "context": "We prepare for the Eucharist by examining ourselves. This includes confessing our sins and being reconciled to one another in the sacrament of repentance ([[MAT.5:23]]-26). In the Orthodox Church this confession before God is done in the presence of a priest, who visibly represents Christ ([[MAT.16:19]]; 18:18-20; [[JOH.20:23]]), and in general prayers of confession. Being \"worthy\" does not mean being sinless, but being cleansed. It is not legalism but commitment to walk in righteousness before God."
+      "context": "We prepare for the Eucharist by examining ourselves. This includes confessing our sins and being reconciled to one another in the sacrament of repentance ([[MAT.5:23]]-26). In the Orthodox Church this confession before God is done in the presence of a priest, who visibly represents Christ ([[MAT.16:19]]; 18:18-20; [[JOH.20:23]]), and in general prayers of confession. Being \"worthy\" does not mean being sinless, but being cleansed. It is not legalism but commitment to walk in righteousness before God.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology",
+        "eucharist",
+        "priesthood",
+        "repentance"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/NT/1PE_footnotes.md",
       "line_number": 355,
       "raw_match": "[[MAT.5:24]]",
       "reference_type": "wikilink",
-      "context": "The kiss of love, or of peace, is here already a liturgical practice. In St. John Chrysostom's liturgy, the kiss of peace occurs between the Great Entrance and the Creed; historically the entire Church took part in it. This embrace signifies forgiveness, reconciliation, and banishment of every remembrance of injury. It recalls the command of Christ, \"If you bring your gift to the altar, and there remember that your brother has something against you, leave your gift there before the altar, and go your way. First be reconciled to your brother, and then come and offer your gift\" ([[MAT.5:23]], [[MAT.5:24]])."
+      "context": "The kiss of love, or of peace, is here already a liturgical practice. In St. John Chrysostom's liturgy, the kiss of peace occurs between the Great Entrance and the Creed; historically the entire Church took part in it. This embrace signifies forgiveness, reconciliation, and banishment of every remembrance of injury. It recalls the command of Christ, \"If you bring your gift to the altar, and there remember that your brother has something against you, leave your gift there before the altar, and go your way. First be reconciled to your brother, and then come and offer your gift\" ([[MAT.5:23]], [[MAT.5:24]]).",
+      "edge_type": "echoes",
+      "topic_threads": [
+        "christology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

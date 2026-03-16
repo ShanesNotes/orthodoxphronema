@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "and that He was buried, and that He rose again the third day according to the Scriptures,",
   "pericope": {
     "id": "1CO.P033",
@@ -12,7 +12,10 @@
     "range": "1CO.14:40-15:10",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "resurrection"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 184,
       "raw_match": "[[1CO.15:4]]",
       "reference_type": "wikilink",
-      "context": "The Church understands this text as a messianic prophecy regarding Christ's Resurrection: two days refers to the time the body of Jesus lay in the tomb; the third day points to His glorious Resurrection, promising we shall rise with Him. St. Paul writes that Jesus \"rose again the third day according to the Scriptures\" ([[1CO.15:4]]), most likely alluding to this passage from Hosea."
+      "context": "The Church understands this text as a messianic prophecy regarding Christ's Resurrection: two days refers to the time the body of Jesus lay in the tomb; the third day points to His glorious Resurrection, promising we shall rise with Him. St. Paul writes that Jesus \"rose again the third day according to the Scriptures\" ([[1CO.15:4]]), most likely alluding to this passage from Hosea.",
+      "edge_type": "witnesses",
+      "topic_threads": [
+        "christology",
+        "resurrection"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

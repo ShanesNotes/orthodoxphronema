@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "submitting to one another in the fear of God.",
   "pericope": {
     "id": "EPH.P015",
@@ -12,7 +12,13 @@
     "range": "EPH.5:18-5:32",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "baptism",
+    "christology",
+    "covenant",
+    "eucharist",
+    "temple"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,28 +26,76 @@
       "line_number": 1918,
       "raw_match": "[[EPH.5:21]]-33",
       "reference_type": "wikilink_range",
-      "context": "Like the preceding parables, this one also proclaims the transfer of the Kingdom from the faithless Jews to the Gentiles. It is set as a joyful wedding banquet (v. 2; see 25:1-13), for Christ is often called the \"Bridegroom\" (9:15; [[JOH.3:29]]), and St. Paul uses a marriage analogy for the Kingdom ([[EPH.5:21]]-33). The repeated sending out of servants shows the Father's great desire to have His people with Him in the Kingdom. The first group (v. 3) is interpreted to be Moses and those with him, while the second group (v. 4) is composed of the prophets. These groups call those initially invited--the Jews. The third group (v. 9) represents the apostles sent to the Gentiles, those not initially invited, but now called."
+      "context": "Like the preceding parables, this one also proclaims the transfer of the Kingdom from the faithless Jews to the Gentiles. It is set as a joyful wedding banquet (v. 2; see 25:1-13), for Christ is often called the \"Bridegroom\" (9:15; [[JOH.3:29]]), and St. Paul uses a marriage analogy for the Kingdom ([[EPH.5:21]]-33). The repeated sending out of servants shows the Father's great desire to have His people with Him in the Kingdom. The first group (v. 3) is interpreted to be Moses and those with him, while the second group (v. 4) is composed of the prophets. These groups call those initially invited--the Jews. The third group (v. 9) represents the apostles sent to the Gentiles, those not initially invited, but now called.",
+      "edge_type": "opposes",
+      "topic_threads": [
+        "christology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/1ES_footnotes.md",
       "line_number": 102,
       "raw_match": "[[EPH.5:21]]",
       "reference_type": "wikilink",
-      "context": "Vineyards and wine (v. 16) symbolize the Eucharist, and clothing (v. 17) points to being clothed with Christ in baptism. As woman is the glory of man ([[1CO.11:7]]), so the Church is the glory of Christ ([[EPH.5:21]])."
+      "context": "Vineyards and wine (v. 16) symbolize the Eucharist, and clothing (v. 17) points to being clothed with Christ in baptism. As woman is the glory of man ([[1CO.11:7]]), so the Church is the glory of Christ ([[EPH.5:21]]).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "baptism",
+        "christology",
+        "eucharist"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/BAR_footnotes.md",
       "line_number": 183,
       "raw_match": "[[EPH.5:21]]-33",
       "reference_type": "wikilink_range",
-      "context": "See Is 40:4, 5; [[EPH.5:21]]-33."
+      "context": "See Is 40:4, 5; [[EPH.5:21]]-33.",
+      "edge_type": "fulfills",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/SNG_footnotes.md",
       "line_number": 152,
       "raw_match": "[[EPH.5:18]]-21",
       "reference_type": "wikilink_range",
-      "context": "The house of wine is the Church filled with the Holy Spirit ([[EPH.5:18]]-21). The Bride desires God's love, to be overshadowed by the Presence of the Lord--not unlike the tabernacle in the Old Testament (Ex 40:35) and the Theotokos, the living tabernacle of the New Testament ([[LUK.1:35]])."
+      "context": "The house of wine is the Church filled with the Holy Spirit ([[EPH.5:18]]-21). The Bride desires God's love, to be overshadowed by the Presence of the Lord--not unlike the tabernacle in the Old Testament (Ex 40:35) and the Theotokos, the living tabernacle of the New Testament ([[LUK.1:35]]).",
+      "edge_type": "opposes",
+      "topic_threads": [
+        "covenant",
+        "temple"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

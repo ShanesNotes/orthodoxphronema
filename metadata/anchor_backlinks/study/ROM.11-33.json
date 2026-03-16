@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Oh, the depth of the riches both of the wisdom and knowledge of God! How unsearchable are His judgments and His ways past finding out!",
   "pericope": {
     "id": "ROM.P031",
@@ -12,7 +12,16 @@
     "range": "ROM.11:32-11:35",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "baptism",
+    "christology",
+    "eucharist",
+    "israel_church",
+    "judgment",
+    "praise",
+    "suffering",
+    "wisdom"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,21 +29,64 @@
       "line_number": 514,
       "raw_match": "[[ROM.11:33]]",
       "reference_type": "wikilink",
-      "context": "Ps 41 speaks of Christ (the End, v. 1) and His Baptism in the Jordan (from the land of the Jordan and Hermon, v. 7). His Baptism is celebrated in the Church as the Feast of Theophany. It is celebrated as a festival with great joy and praise (v. 5). His Baptism in the Jordan is our salvation (vv. 6, 12), which produces (1) a longing and thirst for union and communion with God (vv. 2, 3); (2) tears of joy in the midst of suffering (vv. 4-6, 10-12); and (3) enlightenment (understanding, v. 1) concerning the unsearchable riches of Christ (vv. 8, 9; see also [[ROM.11:33]]; [[EPH.3:8]])."
+      "context": "Ps 41 speaks of Christ (the End, v. 1) and His Baptism in the Jordan (from the land of the Jordan and Hermon, v. 7). His Baptism is celebrated in the Church as the Feast of Theophany. It is celebrated as a festival with great joy and praise (v. 5). His Baptism in the Jordan is our salvation (vv. 6, 12), which produces (1) a longing and thirst for union and communion with God (vv. 2, 3); (2) tears of joy in the midst of suffering (vv. 4-6, 10-12); and (3) enlightenment (understanding, v. 1) concerning the unsearchable riches of Christ (vv. 8, 9; see also [[ROM.11:33]]; [[EPH.3:8]]).",
+      "edge_type": "echoes",
+      "topic_threads": [
+        "baptism",
+        "christology",
+        "eucharist",
+        "praise",
+        "suffering",
+        "wisdom"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 6,
+        "title": "The Universe As a Language",
+        "polarity": "generation",
+        "operation": "descend",
+        "scale": "communal"
+      }
     },
     {
       "source_file": "study/footnotes/OT/SIR_footnotes.md",
       "line_number": 347,
       "raw_match": "[[ROM.11:11]]-36",
       "reference_type": "wikilink_range",
-      "context": "God intended Israel (v. 14) to be a tight-knit, unified nation. But He also intended her to have open and honorable relations with every nation (v. 14), that is, the Gentiles, ultimately becoming the instrument of their salvation. However, as a nation they did not fulfill this divine intent. Their unity became centered in their ethnicity rather than their relationship with God. They even grew to despise the Gentiles with no concern for their salvation. It is extremely important for us within the Church, the new Israel, not to fall into this same sin and incur the same judgment (see [[ROM.11:11]]-36). For the fulfillment of God's promises to Israel in the Church, see the following passages: [[ROM.4:9]]-16; 9:6, 8, 23-27; 11:7; [[1CO.10:18]]; [[GAL.6:16]]; [[1PE.2:4]]-12; [[REV.3:12]]; 21:2, 10."
+      "context": "God intended Israel (v. 14) to be a tight-knit, unified nation. But He also intended her to have open and honorable relations with every nation (v. 14), that is, the Gentiles, ultimately becoming the instrument of their salvation. However, as a nation they did not fulfill this divine intent. Their unity became centered in their ethnicity rather than their relationship with God. They even grew to despise the Gentiles with no concern for their salvation. It is extremely important for us within the Church, the new Israel, not to fall into this same sin and incur the same judgment (see [[ROM.11:11]]-36). For the fulfillment of God's promises to Israel in the Church, see the following passages: [[ROM.4:9]]-16; 9:6, 8, 23-27; 11:7; [[1CO.10:18]]; [[GAL.6:16]]; [[1PE.2:4]]-12; [[REV.3:12]]; 21:2, 10.",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "israel_church",
+        "judgment",
+        "wisdom"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/SIR_footnotes.md",
       "line_number": 1370,
       "raw_match": "[[ROM.11:33]]-36",
       "reference_type": "wikilink_range",
-      "context": "It is likely St. Paul had this passage in mind when he wrote [[ROM.11:33]]-36."
+      "context": "It is likely St. Paul had this passage in mind when he wrote [[ROM.11:33]]-36.",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "wisdom"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

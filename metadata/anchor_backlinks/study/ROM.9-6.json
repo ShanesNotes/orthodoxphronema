@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "But it is not that the word of God has taken no effect. For they are not all Israel who are of Israel,",
   "pericope": {
     "id": "ROM.P022",
@@ -12,7 +12,10 @@
     "range": "ROM.9:1-9:7",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "divine_word",
+    "logos"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 83,
       "raw_match": "[[ROM.9:6]]",
       "reference_type": "wikilink",
-      "context": "Esau was the twin brother of Jacob. Both were sons of Isaac, the son of Abraham. Therefore, the sons of Esau were called Israel's brethren. They were brethren according to the flesh. Being brethren according to the flesh qualified neither the sons of Israel (Jacob) nor the sons of Esau to be the children of God. \"For they are not all Israel who are of Israel, nor are they all children because they are the seed of Abraham\" ([[ROM.9:6]], [[ROM.9:7]]). Both Jacob and Esau were the seed of Abraham according to the flesh. But this did not mean they were the children of God. On what basis are people the children of God? The basis is \"the word of promise\" (Rom"
+      "context": "Esau was the twin brother of Jacob. Both were sons of Isaac, the son of Abraham. Therefore, the sons of Esau were called Israel's brethren. They were brethren according to the flesh. Being brethren according to the flesh qualified neither the sons of Israel (Jacob) nor the sons of Esau to be the children of God. \"For they are not all Israel who are of Israel, nor are they all children because they are the seed of Abraham\" ([[ROM.9:6]], [[ROM.9:7]]). Both Jacob and Esau were the seed of Abraham according to the flesh. But this did not mean they were the children of God. On what basis are people the children of God? The basis is \"the word of promise\" (Rom",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "divine_word",
+        "logos"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Now where there is remission of these, there is no longer an offering for sin.",
   "pericope": {
     "id": "HEB.P024",
@@ -12,7 +12,10 @@
     "range": "HEB.10:18-10:23",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "covenant"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 927,
       "raw_match": "[[HEB.10:15]]-18",
       "reference_type": "wikilink_range",
-      "context": "The implanting of the new covenant, the law in the heart, was clearly effected with the coming of Christ ([[2CO.3:3]]; [[HEB.10:15]]-18)."
+      "context": "The implanting of the new covenant, the law in the heart, was clearly effected with the coming of Christ ([[2CO.3:3]]; [[HEB.10:15]]-18).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "covenant"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 2,
+        "title": "Coming Full Circle: The Copernican Revolution",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

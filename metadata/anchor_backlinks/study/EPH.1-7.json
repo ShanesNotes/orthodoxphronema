@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "In Him we have redemption through His blood, the forgiveness of sins, according to the riches of His grace",
   "pericope": {
     "id": "EPH.P002",
@@ -12,7 +12,11 @@
     "range": "EPH.1:3-1:12",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "covenant",
+    "praise"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,21 +24,59 @@
       "line_number": 143,
       "raw_match": "[[EPH.1:3]]-14",
       "reference_type": "wikilink_range",
-      "context": "Paul quotes an ancient Christian creed or hymn that is especially clear about the divinity of Jesus Christ. Another such creed is found in [[2TI.2:11]]-13. (See also 6:15, 16; [[EPH.1:3]]-14; 5:14; [[PHP.2:6]]-11; [[COL.1:15]]-20.) Thus, when the early Councils met and issued creeds, they were well within the mark of biblical precedent."
+      "context": "Paul quotes an ancient Christian creed or hymn that is especially clear about the divinity of Jesus Christ. Another such creed is found in [[2TI.2:11]]-13. (See also 6:15, 16; [[EPH.1:3]]-14; 5:14; [[PHP.2:6]]-11; [[COL.1:15]]-20.) Thus, when the early Councils met and issued creeds, they were well within the mark of biblical precedent.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology",
+        "praise"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/LEV_footnotes.md",
       "line_number": 654,
       "raw_match": "[[EPH.1:7]]",
       "reference_type": "wikilink",
-      "context": "Because of the supreme importance of blood in atonement for sin, it was imperative that blood be treated with unique respect. According to this passage, the life was in the blood. If blood was shed, a life was given, and the sacrifice was genuine. Not that blood has inherent power to forgive. Rather the blood, with its inherent life, is God's gift to mankind to make atonement for sin. The necessity for atonement was the sacrifice of the innocent life of an animal. But what was important--lest Israel should become careless about atonement--was not only the blood of the innocent animals sacrificed, but that all animal blood be regarded with respect. All life was sacred and to be respected. Of course, this understanding concerning blood in the old covenant was but a type of the blood of Christ, which initiated the new covenant. On the night of the Last Supper, Jesus said, \"This cup is the new covenant in My blood, which is shed for you\" ([[LUK.22:20]]). St. Paul says, \"In Him we have redemption through His blood, the forgiveness of sins, according to the riches of His grace\" ([[EPH.1:7]]). Also St. John says, \"But if we walk in the light as He is in the light, we have fellowship with one another, and the blood of Jesus Christ His Son cleanses us from all sin\" ([[1JN.1:7]])."
+      "context": "Because of the supreme importance of blood in atonement for sin, it was imperative that blood be treated with unique respect. According to this passage, the life was in the blood. If blood was shed, a life was given, and the sacrifice was genuine. Not that blood has inherent power to forgive. Rather the blood, with its inherent life, is God's gift to mankind to make atonement for sin. The necessity for atonement was the sacrifice of the innocent life of an animal. But what was important--lest Israel should become careless about atonement--was not only the blood of the innocent animals sacrificed, but that all animal blood be regarded with respect. All life was sacred and to be respected. Of course, this understanding concerning blood in the old covenant was but a type of the blood of Christ, which initiated the new covenant. On the night of the Last Supper, Jesus said, \"This cup is the new covenant in My blood, which is shed for you\" ([[LUK.22:20]]). St. Paul says, \"In Him we have redemption through His blood, the forgiveness of sins, according to the riches of His grace\" ([[EPH.1:7]]). Also St. John says, \"But if we walk in the light as He is in the light, we have fellowship with one another, and the blood of Jesus Christ His Son cleanses us from all sin\" ([[1JN.1:7]]).",
+      "edge_type": "witnesses",
+      "topic_threads": [
+        "christology",
+        "covenant"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/SIR_footnotes.md",
       "line_number": 642,
       "raw_match": "[[EPH.1:7]]",
       "reference_type": "wikilink",
-      "context": "St. Paul teaches that in Christ we find a superabundance of the riches of grace ([[EPH.1:7]], [[EPH.1:8]])."
+      "context": "St. Paul teaches that in Christ we find a superabundance of the riches of grace ([[EPH.1:7]], [[EPH.1:8]]).",
+      "edge_type": "witnesses",
+      "topic_threads": [
+        "christology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

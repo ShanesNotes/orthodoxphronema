@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Then Jesus called little child to Him, set him in the midst of them,",
   "pericope": {
     "id": "MAT.P058",
@@ -20,7 +20,16 @@
       "line_number": 1569,
       "raw_match": "[[MAT.18:1]]-4",
       "reference_type": "wikilink_range",
-      "context": "Little ones refers primarily to children, and by extension to anyone whose heart is humble and dependent on God (see notes at [[MAT.18:1]]-4, 6)."
+      "context": "Little ones refers primarily to children, and by extension to anyone whose heart is humble and dependent on God (see notes at [[MAT.18:1]]-4, 6).",
+      "edge_type": "descends_to",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

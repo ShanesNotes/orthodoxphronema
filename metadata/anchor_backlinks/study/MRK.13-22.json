@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "For false christs and false prophets will rise and show signs and wonders to deceive, if possible, even the elect.",
   "pericope": {
     "id": "MRK.P045",
@@ -12,7 +12,12 @@
     "range": "MRK.13:2-13:22",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "covenant",
+    "eschatology",
+    "israel_church"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,21 +25,63 @@
       "line_number": 1397,
       "raw_match": "[[MRK.13:22]]",
       "reference_type": "wikilink",
-      "context": "Spirits of demons, performing signs are attested by our Lord ([[MRK.13:22]]; see also [[ACT.13:6]]; [[2TH.2:9]]). The great day of God Almighty (6:17, foreshadowed in Joel 2:11; [[ZEP.1:14]]; graphically described in [[2PE.3:12]]) is the eschatological Day of the Lord."
+      "context": "Spirits of demons, performing signs are attested by our Lord ([[MRK.13:22]]; see also [[ACT.13:6]]; [[2TH.2:9]]). The great day of God Almighty (6:17, foreshadowed in Joel 2:11; [[ZEP.1:14]]; graphically described in [[2PE.3:12]]) is the eschatological Day of the Lord.",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "eschatology",
+        "israel_church"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/JER_footnotes.md",
       "line_number": 1184,
       "raw_match": "[[MRK.13:22]]",
       "reference_type": "wikilink",
-      "context": "Just as the Scriptures speak of \"false christs and false prophets\" ([[MRK.13:22]]), here we have a counterfeit queen of heaven (see note at v. 8). The true queen of heaven is the Mother of God, seated at the right hand of her Son and King ([[PSA.45:9]])."
+      "context": "Just as the Scriptures speak of \"false christs and false prophets\" ([[MRK.13:22]]), here we have a counterfeit queen of heaven (see note at v. 8). The true queen of heaven is the Mother of God, seated at the right hand of her Son and King ([[PSA.45:9]]).",
+      "edge_type": "scales_to",
+      "topic_threads": [
+        "christology",
+        "israel_church"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/ZEC_footnotes.md",
       "line_number": 475,
       "raw_match": "[[MRK.13:7]]-27",
       "reference_type": "wikilink_range",
-      "context": "The prophet foresees the nations gathered in battle against Jerusalem, God's delivery of His people, and the establishment of a secure, peaceful land (see Is 66:15-23; Ezk 38-40; Joel 4:9-21; [[MRK.13:7]]-27; Rev 20-22). In the New Testament, this is to be accomplished at the Second Coming of Christ and the last battle between God and Satan."
+      "context": "The prophet foresees the nations gathered in battle against Jerusalem, God's delivery of His people, and the establishment of a secure, peaceful land (see Is 66:15-23; Ezk 38-40; Joel 4:9-21; [[MRK.13:7]]-27; Rev 20-22). In the New Testament, this is to be accomplished at the Second Coming of Christ and the last battle between God and Satan.",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "covenant",
+        "eschatology",
+        "israel_church"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "The meat-offering and the drink-offering are removed from the house of the Lord. Mourn, you priests, you who serve at the altar,",
   "pericope": {
     "id": "JOL.P002",
@@ -12,7 +12,10 @@
     "range": "JOL.1:5-1:16",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "eucharist",
+    "priesthood"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 88,
       "raw_match": "[[JOL.1:9]]",
       "reference_type": "wikilink",
-      "context": "[[JOL.1:9]], [[JOL.1:10]], [[JOL.1:13]]: The meat-offering and the drink-offering (v. 9); grain-offering and drink-offering (v. 13): The grain-offering is of bread, and the drink-offering is of wine. Joel, by reemphasizing the loss of bread and wine in the land, not only recalls the image of agricultural plague but anticipates the future life of the Church. We have before us the image of the Church stripped of the eucharistic sacraments through the disobedience of the community. In this situation, the priests are called to lament the plight of the land and intercede for their wayward people (see 2:17)."
+      "context": "[[JOL.1:9]], [[JOL.1:10]], [[JOL.1:13]]: The meat-offering and the drink-offering (v. 9); grain-offering and drink-offering (v. 13): The grain-offering is of bread, and the drink-offering is of wine. Joel, by reemphasizing the loss of bread and wine in the land, not only recalls the image of agricultural plague but anticipates the future life of the Church. We have before us the image of the Church stripped of the eucharistic sacraments through the disobedience of the community. In this situation, the priests are called to lament the plight of the land and intercede for their wayward people (see 2:17).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "eucharist",
+        "priesthood"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

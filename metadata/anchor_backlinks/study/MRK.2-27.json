@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "And He said to them, 'The Sabbath was made for man, and not man for the Sabbath.",
   "pericope": {
     "id": "MRK.P009",
@@ -12,7 +12,11 @@
     "range": "MRK.2:22-3:5",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "shepherd",
+    "suffering"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,21 +24,55 @@
       "line_number": 117,
       "raw_match": "[[MRK.2:27]]",
       "reference_type": "wikilink",
-      "context": "Mattathias and the Jews realized they would be slaughtered if they chose not to defend themselves on the Sabbath. In a truly radical statement for their day, the Maccabees foreshadowed Jesus' words, \"The Sabbath was made for man, and not man for the Sabbath\" ([[MRK.2:27]])."
+      "context": "Mattathias and the Jews realized they would be slaughtered if they chose not to defend themselves on the Sabbath. In a truly radical statement for their day, the Maccabees foreshadowed Jesus' words, \"The Sabbath was made for man, and not man for the Sabbath\" ([[MRK.2:27]]).",
+      "edge_type": "fulfills",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/DEU_footnotes.md",
       "line_number": 318,
       "raw_match": "[[MRK.2:27]]",
       "reference_type": "wikilink",
-      "context": "The seventh and final day of the Feast of Unleavened Bread was a Sabbath on which Israel was to do no work... except what must be done for life. Therefore, the Sabbath was not a total cessation of all work; work essential to life might be done. Jesus cured a paralytic on the Sabbath, and this cure was obviously essential to his life. Yet the Jews accused Him of breaking the Sabbath, and even tried to kill Him ([[JOH.5:16]]). But these same Jews would take care of their animals on the Sabbath, even if one should fall into a ditch. So Jesus asked them, \"Of how much more value then is a man than a sheep? Therefore it is lawful to do good on the Sabbath\" ([[MAT.12:11]], [[MAT.12:12]]). Furthermore, He also said, \"The Son of Man is Lord even of the Sabbath\" ([[MAT.12:8]]), and \"The Sabbath was made for man, and not man for the Sabbath\" ([[MRK.2:27]])."
+      "context": "The seventh and final day of the Feast of Unleavened Bread was a Sabbath on which Israel was to do no work... except what must be done for life. Therefore, the Sabbath was not a total cessation of all work; work essential to life might be done. Jesus cured a paralytic on the Sabbath, and this cure was obviously essential to his life. Yet the Jews accused Him of breaking the Sabbath, and even tried to kill Him ([[JOH.5:16]]). But these same Jews would take care of their animals on the Sabbath, even if one should fall into a ditch. So Jesus asked them, \"Of how much more value then is a man than a sheep? Therefore it is lawful to do good on the Sabbath\" ([[MAT.12:11]], [[MAT.12:12]]). Furthermore, He also said, \"The Son of Man is Lord even of the Sabbath\" ([[MAT.12:8]]), and \"The Sabbath was made for man, and not man for the Sabbath\" ([[MRK.2:27]]).",
+      "edge_type": "echoes",
+      "topic_threads": [
+        "christology",
+        "shepherd"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/GEN_footnotes.md",
       "line_number": 62,
       "raw_match": "[[MRK.2:27]]",
       "reference_type": "wikilink",
-      "context": "God finished the making of heaven and earth for man's sake. He rested from His creative activity on the seventh day to show His love and providential care for man, and to invite man to enjoy this Sabbath-rest. For as Jesus said, \"The Sabbath was made for man, and not man for the Sabbath\" ([[MRK.2:27]]). Man failed to keep this Sabbath-rest. But Jesus fulfilled it for man by resting in the tomb on Great and Holy Saturday, after He said on the cross, \"It is finished\" ([[JOH.19:30]]). For He destroyed sin and death, and rose again on the first day of the week. Through His saving work on man's behalf, He is man's Sabbath-rest, and He now invites all to find rest in Himself ([[MAT.11:28]]-30)."
+      "context": "God finished the making of heaven and earth for man's sake. He rested from His creative activity on the seventh day to show His love and providential care for man, and to invite man to enjoy this Sabbath-rest. For as Jesus said, \"The Sabbath was made for man, and not man for the Sabbath\" ([[MRK.2:27]]). Man failed to keep this Sabbath-rest. But Jesus fulfilled it for man by resting in the tomb on Great and Holy Saturday, after He said on the cross, \"It is finished\" ([[JOH.19:30]]). For He destroyed sin and death, and rose again on the first day of the week. Through His saving work on man's behalf, He is man's Sabbath-rest, and He now invites all to find rest in Himself ([[MAT.11:28]]-30).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Love has been perfected among us in this: that we may have boldness in the day of judgment; because as He is, so are we in this world.",
   "pericope": {
     "id": "1JN.P010",
@@ -12,7 +12,10 @@
     "range": "1JN.4:16-4:18",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "judgment"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,14 +23,39 @@
       "line_number": 597,
       "raw_match": "[[1JN.4:7]]-21",
       "reference_type": "wikilink_range",
-      "context": "Freed from hate, sadness, and anger, we are able to receive the greatest virtue: perfect love. The love of enemies is not merely an emotion, but includes decision and action. It is to treat and see our enemies as the closest members of our own family. (See [[1JN.4:7]]-21.)"
+      "context": "Freed from hate, sadness, and anger, we are able to receive the greatest virtue: perfect love. The love of enemies is not merely an emotion, but includes decision and action. It is to treat and see our enemies as the closest members of our own family. (See [[1JN.4:7]]-21.)",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "judgment"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/NT/MAT_footnotes.md",
       "line_number": 1410,
       "raw_match": "[[1JN.4:7]]-21",
       "reference_type": "wikilink_range",
-      "context": "Christ shows that the commandment of God cannot be superseded by man's religious traditions. Devotion to God includes both obedience to His commandments and service to others--these two cannot be separated (see also [[JAS.2:14]]-18; [[1JN.4:7]]-21)."
+      "context": "Christ shows that the commandment of God cannot be superseded by man's religious traditions. Devotion to God includes both obedience to His commandments and service to others--these two cannot be separated (see also [[JAS.2:14]]-18; [[1JN.4:7]]-21).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology",
+        "judgment"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

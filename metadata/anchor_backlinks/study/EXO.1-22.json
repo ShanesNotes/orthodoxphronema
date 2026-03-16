@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "So Pharaoh commanded all his people, saying, 'Every male born to the Hebrews you shall cast into the river, but every female you shall save alive.'",
   "pericope": {
     "id": "EXO.P002",
@@ -12,7 +12,12 @@
     "range": "EXO.1:22-2:9",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "exodus_typology",
+    "resurrection",
+    "suffering"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,14 +25,41 @@
       "line_number": 389,
       "raw_match": "[[EXO.1:22]]",
       "reference_type": "wikilink",
-      "context": "Pharaoh's order to destroy the Hebrew babies ([[EXO.1:22]]) prefigured Herod's attempt to kill Christ by destroying all the infants in Bethlehem ([[MAT.2:16]]). As Moses was preserved from death in order to deliver Israel from bondage, so also Christ was preserved in order to save the world through His Passion and Resurrection."
+      "context": "Pharaoh's order to destroy the Hebrew babies ([[EXO.1:22]]) prefigured Herod's attempt to kill Christ by destroying all the infants in Bethlehem ([[MAT.2:16]]). As Moses was preserved from death in order to deliver Israel from bondage, so also Christ was preserved in order to save the world through His Passion and Resurrection.",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "exodus_typology",
+        "resurrection",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/NT/MAT_footnotes.md",
       "line_number": 150,
       "raw_match": "[[EXO.1:22]]",
       "reference_type": "wikilink",
-      "context": "The cruelty of Herod was prefigured by Pharaoh, who, in an attempt to destroy the power of Israel, commanded the death of all the newborn Jewish boys ([[EXO.1:16]], [[EXO.1:22]])."
+      "context": "The cruelty of Herod was prefigured by Pharaoh, who, in an attempt to destroy the power of Israel, commanded the death of all the newborn Jewish boys ([[EXO.1:16]], [[EXO.1:22]]).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "exodus_typology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

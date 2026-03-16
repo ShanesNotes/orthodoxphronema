@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "'One witness shall not rise against a man about any injustice or offense or sin concerning which he may be guilty; by the mouth of two or three witnesses the matter shall be established.",
   "pericope": {
     "id": "DEU.P042",
@@ -12,7 +12,10 @@
     "range": "DEU.19:14-19:20",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "logos"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 269,
       "raw_match": "[[DEU.19:15]]",
       "reference_type": "wikilink",
-      "context": "The message of the first angel is confirmed by the multitude, fulfilling the Law in which every word is established with two or three witnesses ([[DEU.19:15]]). Christ Himself is our peace who has come to earth; in Him, man is no longer estranged from God (see [[EPH.2:14]]-16)."
+      "context": "The message of the first angel is confirmed by the multitude, fulfilling the Law in which every word is established with two or three witnesses ([[DEU.19:15]]). Christ Himself is our peace who has come to earth; in Him, man is no longer estranged from God (see [[EPH.2:14]]-16).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "logos"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

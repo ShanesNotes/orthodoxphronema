@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Take heed that you do not do your charitable deeds before men, to be seen by them. Otherwise you have no reward from your Father in heaven.",
   "pericope": {
     "id": "MAT.P014",
@@ -12,7 +12,11 @@
     "range": "MAT.5:48-6:14",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "creation_theology",
+    "prayer",
+    "suffering"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,14 +24,37 @@
       "line_number": 111,
       "raw_match": "[[MAT.6:1]]-18",
       "reference_type": "wikilink_range",
-      "context": "The world distorts every realm of God's good creation (see [[JAS.1:13]], [[JAS.1:14]]). There are (1) sensual pleasures of the flesh (physical passions), (2) intellectual attainments and capacities of the eyes (the soul's passions), and (3) inordinate possessions, power, and honors of life (the pride of human spirit). Biblical ascetic practices--prayer, fasting, almsgiving (see [[MAT.6:1]]-18)--help us overcome these distortions and live lives of virtue."
+      "context": "The world distorts every realm of God's good creation (see [[JAS.1:13]], [[JAS.1:14]]). There are (1) sensual pleasures of the flesh (physical passions), (2) intellectual attainments and capacities of the eyes (the soul's passions), and (3) inordinate possessions, power, and honors of life (the pride of human spirit). Biblical ascetic practices--prayer, fasting, almsgiving (see [[MAT.6:1]]-18)--help us overcome these distortions and live lives of virtue.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "creation_theology",
+        "prayer",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/NT/ACT_footnotes.md",
       "line_number": 1491,
       "raw_match": "[[MAT.6:1]]-4",
       "reference_type": "wikilink_range",
-      "context": "This is the only time Paul reveals that bringing alms was the main reason he came to Jerusalem, showing that charity is to be performed without drawing attention to oneself ([[MAT.6:1]]-4; see also [[ROM.15:25]]-28; [[1CO.16:1]]-4; [[GAL.2:10]])."
+      "context": "This is the only time Paul reveals that bringing alms was the main reason he came to Jerusalem, showing that charity is to be performed without drawing attention to oneself ([[MAT.6:1]]-4; see also [[ROM.15:25]]-28; [[1CO.16:1]]-4; [[GAL.2:10]]).",
+      "edge_type": "instantiates",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Now the just shall live by faith; But if anyone draws back, My soul has no pleasure in him.'",
   "pericope": {
     "id": "HEB.P026",
@@ -12,7 +12,10 @@
     "range": "HEB.10:31-10:38",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "faith",
+    "suffering"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 95,
       "raw_match": "[[HEB.10:38]]",
       "reference_type": "wikilink",
-      "context": "During tumultuous times, God first commands Habakkuk to wait patiently for His vision to arrive, despite all contrary appearances or delays. [[HEB.10:37]], [[HEB.10:38]] quotes these verses from Habakkuk to exhort its hearers to endure suffering boldly as we await the fulfillment of God's promises."
+      "context": "During tumultuous times, God first commands Habakkuk to wait patiently for His vision to arrive, despite all contrary appearances or delays. [[HEB.10:37]], [[HEB.10:38]] quotes these verses from Habakkuk to exhort its hearers to endure suffering boldly as we await the fulfillment of God's promises.",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "faith",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

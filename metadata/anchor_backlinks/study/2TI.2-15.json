@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Be diligent to present yourself approved to God, a worker who does not need to be ashamed, rightly dividing the word of truth.",
   "pericope": {
     "id": "2TI.P007",
@@ -12,7 +12,10 @@
     "range": "2TI.2:13-2:18",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "faith",
+    "logos"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,19 @@
       "line_number": 2139,
       "raw_match": "[[2TI.2:15]]",
       "reference_type": "wikilink",
-      "context": "Did not our heart burn within us: The inescapable effect of hearing the Holy Scriptures taught correctly and with faith (see [[2TI.2:15]]). This burning is the conviction that the words and promises are true."
+      "context": "Did not our heart burn within us: The inescapable effect of hearing the Holy Scriptures taught correctly and with faith (see [[2TI.2:15]]). This burning is the conviction that the words and promises are true.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "faith"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

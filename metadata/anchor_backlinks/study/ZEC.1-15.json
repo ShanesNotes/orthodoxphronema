@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "and I am exceedingly angry with the nations joining together against her, with whom I was only a little angry, but then they joined together with evil intent.'",
   "pericope": {
     "id": "ZEC.P002",
@@ -12,7 +12,11 @@
     "range": "ZEC.1:6-1:16",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "eschatology",
+    "judgment"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +24,21 @@
       "line_number": 641,
       "raw_match": "[[ZEC.1:8]]-17",
       "reference_type": "wikilink_range",
-      "context": "With the Lamb's opening of the seals, John begins a description of the signs of the end, much of it already set forth by Jesus in the Gospels (Mt 24; Mk 13; Lk 21). The seals are consequences of man's condition, an overview of conditions manifest since the birth of the Church, which will continue until Christ's second coming. The four horsemen (see [[ZEC.1:8]]-17; 6:1-8 for the model of this imagery) personify the scourges which, through the prophets, God has threatened as judgment on the faithless: war, famine, plague, natural disasters."
+      "context": "With the Lamb's opening of the seals, John begins a description of the signs of the end, much of it already set forth by Jesus in the Gospels (Mt 24; Mk 13; Lk 21). The seals are consequences of man's condition, an overview of conditions manifest since the birth of the Church, which will continue until Christ's second coming. The four horsemen (see [[ZEC.1:8]]-17; 6:1-8 for the model of this imagery) personify the scourges which, through the prophets, God has threatened as judgment on the faithless: war, famine, plague, natural disasters.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology",
+        "eschatology",
+        "judgment"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 6,
+        "title": "The Universe As a Language",
+        "polarity": "generation",
+        "operation": "descend",
+        "scale": "communal"
+      }
     }
   ]
 }

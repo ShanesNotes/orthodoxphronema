@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "And He commanded us to preach to the people, and to testify that it is He who was ordained by God to be Judge of the living and the dead.",
   "pericope": {
     "id": "ACT.P035",
@@ -12,7 +12,13 @@
     "range": "ACT.10:24-10:42",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "baptism",
+    "christology",
+    "faith",
+    "judgment",
+    "kingdom"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,14 +26,41 @@
       "line_number": 74,
       "raw_match": "[[ACT.10:39]]-43",
       "reference_type": "wikilink_range",
-      "context": "Peter knew by experience the failure to perceive the truth until he saw it with his eyes (see [[LUK.24:8]]-12; [[ACT.10:39]]-43). Here he addresses those who believe Him whom they have not seen. This is the faith of baptism and the faith of eternal life."
+      "context": "Peter knew by experience the failure to perceive the truth until he saw it with his eyes (see [[LUK.24:8]]-12; [[ACT.10:39]]-43). Here he addresses those who believe Him whom they have not seen. This is the faith of baptism and the faith of eternal life.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "baptism",
+        "faith"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/NT/REV_footnotes.md",
       "line_number": 1757,
       "raw_match": "[[ACT.10:42]]",
       "reference_type": "wikilink",
-      "context": "God executes judgment from the great white throne (see [[DAN.7:9]]; see also 1En 18:8). The One who sits on the throne in Revelation is God the Father (4:2-9; 5:1, 7, 13; 6:16; 7:10; etc.). However, in the rest of the NT Christ is the judge on the throne (Mt 25:31-46; [[JOH.5:22]]; [[ACT.10:42]]; 17:31; [[2CO.5:10]]). John is about to show their unity: \"the throne of God and of the Lamb\" (22:1). Earth and heaven flee away ([[MAT.24:35]]; 2Pt 3:10-13) in terror, a cosmic sign of the great Day of the Lord and the coming of the new heaven and earth (21:1)."
+      "context": "God executes judgment from the great white throne (see [[DAN.7:9]]; see also 1En 18:8). The One who sits on the throne in Revelation is God the Father (4:2-9; 5:1, 7, 13; 6:16; 7:10; etc.). However, in the rest of the NT Christ is the judge on the throne (Mt 25:31-46; [[JOH.5:22]]; [[ACT.10:42]]; 17:31; [[2CO.5:10]]). John is about to show their unity: \"the throne of God and of the Lamb\" (22:1). Earth and heaven flee away ([[MAT.24:35]]; 2Pt 3:10-13) in terror, a cosmic sign of the great Day of the Lord and the coming of the new heaven and earth (21:1).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology",
+        "judgment",
+        "kingdom"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

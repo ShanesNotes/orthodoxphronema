@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "and the handkerchief that had been around His head, not lying with the linen cloths, but folded together in a place by itself.",
   "pericope": {
     "id": "JOH.P071",
@@ -12,7 +12,10 @@
     "range": "JOH.19:42-20:9",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "priesthood"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 52,
       "raw_match": "[[JOH.20:7]]",
       "reference_type": "wikilink",
-      "context": "Purple denotes royalty and equality with the king (see note on [[EST.6:6]]-9); the gold cups symbolize Christ's cup of salvation; sleep in a gold bed foreshadows His rest in the tomb; the chariot--like Elijah's chariot of fire (3Kg 2:11)--foreshadows the Ascension; the linen head covering points both to the OT priesthood and to the linen in which Christ's body was wrapped ([[JOH.20:7]]); and the necklace symbolizes virtue (Pr 3:3, 22; 6:21; SS 1:10; see also [[DAN.5:7]])."
+      "context": "Purple denotes royalty and equality with the king (see note on [[EST.6:6]]-9); the gold cups symbolize Christ's cup of salvation; sleep in a gold bed foreshadows His rest in the tomb; the chariot--like Elijah's chariot of fire (3Kg 2:11)--foreshadows the Ascension; the linen head covering points both to the OT priesthood and to the linen in which Christ's body was wrapped ([[JOH.20:7]]); and the necklace symbolizes virtue (Pr 3:3, 22; 6:21; SS 1:10; see also [[DAN.5:7]]).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "priesthood"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

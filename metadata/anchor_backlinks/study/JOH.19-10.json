@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Then Pilate said to Him, 'Are You not speaking to me? Do You not know that I have power to crucify You, and power to release You?'",
   "pericope": {
     "id": "JOH.P064",
@@ -12,7 +12,10 @@
     "range": "JOH.19:4-19:15",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "priesthood",
+    "suffering"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 460,
       "raw_match": "[[JOH.19:7]]-12",
       "reference_type": "wikilink_range",
-      "context": "Pilate's question, \"Are You the King of the Jews?\" comes from the political charges made against Jesus. Since Pilate would not execute a man over religious matters, the chief priests had to come up with a political crime that would guarantee the death penalty. Thus, they accused Jesus of making Himself an earthly king, which would be treason (see note at [[JOH.19:7]]-12)."
+      "context": "Pilate's question, \"Are You the King of the Jews?\" comes from the political charges made against Jesus. Since Pilate would not execute a man over religious matters, the chief priests had to come up with a political crime that would guarantee the death penalty. Thus, they accused Jesus of making Himself an earthly king, which would be treason (see note at [[JOH.19:7]]-12).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "priesthood",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

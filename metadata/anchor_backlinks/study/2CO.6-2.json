@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "For He says: 'In an acceptable time I have heard you, And in the day of salvation I have helped you.' Behold, now is the accepted time; behold, now is the day of salvation.",
   "pericope": {
     "id": "2CO.P020",
@@ -12,7 +12,10 @@
     "range": "2CO.5:21-6:4",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "kingdom"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 513,
       "raw_match": "[[2CO.6:2]]",
       "reference_type": "wikilink",
-      "context": "Acceptable year: The time of the Incarnation, when the Kingdom of heaven has come to earth (see [[2CO.6:2]])."
+      "context": "Acceptable year: The time of the Incarnation, when the Kingdom of heaven has come to earth (see [[2CO.6:2]]).",
+      "edge_type": "descends_to",
+      "topic_threads": [
+        "christology",
+        "kingdom"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Moab, his city, is ruined, and his choice young men have gone down to the slaughter.",
   "pericope": {
     "id": "JER.P050",
@@ -20,7 +20,16 @@
       "line_number": 59,
       "raw_match": "[[JER.31:15]]",
       "reference_type": "wikilink",
-      "context": "Lamenting in Bethlehem over the loss of her children in Moab, Naomi prefigures Rachel, who would later lament over the loss of her children to Babylon ([[JER.31:15]]) and over the children slain by Herod ([[MAT.2:16]]-18). See 4:11."
+      "context": "Lamenting in Bethlehem over the loss of her children in Moab, Naomi prefigures Rachel, who would later lament over the loss of her children to Babylon ([[JER.31:15]]) and over the children slain by Herod ([[MAT.2:16]]-18). See 4:11.",
+      "edge_type": "fulfills",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

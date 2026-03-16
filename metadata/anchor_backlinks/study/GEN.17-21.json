@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "But My covenant I will establish with Isaac, whom Sarah shall bear to you at this time next year.'",
   "pericope": {
     "id": "GEN.P022",
@@ -12,7 +12,9 @@
     "range": "GEN.16:16-17:26",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "covenant"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 1072,
       "raw_match": "[[GEN.17:21]]",
       "reference_type": "wikilink",
-      "context": "Here oath refers to the covenant God made with Abraham ([[GEN.17:21]])."
+      "context": "Here oath refers to the covenant God made with Abraham ([[GEN.17:21]]).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "covenant"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

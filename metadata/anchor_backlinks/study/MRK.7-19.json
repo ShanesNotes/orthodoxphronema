@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "because it does not enter his heart but his stomach, and is eliminated, thus purifying all foods?'",
   "pericope": {
     "id": "MRK.P027",
@@ -12,7 +12,12 @@
     "range": "MRK.6:56-7:22",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "baptism",
+    "christology",
+    "covenant",
+    "creation_theology"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,14 +25,40 @@
       "line_number": 680,
       "raw_match": "[[MRK.7:19]]",
       "reference_type": "wikilink",
-      "context": "Peter's resistance shows the difficulty with which the Jews let go of the Law. God's commandment here is first a declaration that the Old Covenant dietary laws are fulfilled and thus no longer in effect (see [[MRK.7:19]]). More importantly, this vision revealed that the Gentiles, who were considered unclean by the Jews, are cleansed by the blood of Christ and are equal partakers of the Kingdom (see v. 28). This vision thus prepared Peter to receive Cornelius (vv. 17-48). Finally, this also teaches us that God desires to receive everyone into His Church, regardless of heritage, social class, or past sins, for all are one in Christ."
+      "context": "Peter's resistance shows the difficulty with which the Jews let go of the Law. God's commandment here is first a declaration that the Old Covenant dietary laws are fulfilled and thus no longer in effect (see [[MRK.7:19]]). More importantly, this vision revealed that the Gentiles, who were considered unclean by the Jews, are cleansed by the blood of Christ and are equal partakers of the Kingdom (see v. 28). This vision thus prepared Peter to receive Cornelius (vv. 17-48). Finally, this also teaches us that God desires to receive everyone into His Church, regardless of heritage, social class, or past sins, for all are one in Christ.",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "covenant"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/LEV_footnotes.md",
       "line_number": 380,
       "raw_match": "[[MRK.7:15]]-23",
       "reference_type": "wikilink_range",
-      "context": "[[LEV.11:2]]-4, 47: At least two issues relate to the animals: the nature of animals and eating only clean animals. The nature of all animals is good in itself because the Creator is good. He did not create anything evil in itself. This also applies to man, whose nature is good in itself. As [[GEN.1:31]] says, \"Then God saw everything He made, and indeed, it was very good.\" The Lawgiver said that foods going into the stomach cannot defile a man; rather, the evil proceeding from his heart defiles him ([[MRK.7:15]]-23). He said this when the Law of Moses was still in effect. Why then did He declare through Moses that certain animals were clean and others were unclean, and only the clean ones were to be eaten? Whatever various answers may be given, one seems to stand out as especially important: the eating of clean animals forecasts the cleansing of both Jews and Gentiles in baptism to form them into one body, the Church. Peter's vision in [[ACT.10:9]]-16 indicates the inclusion of Gentiles into the Church through baptism: \"The earth, then, this is what the linen sheet denotes, and the wild animals in it are those among the Gentiles, and the command: 'Kill and eat,' denotes that Peter must go to them also; and the linen sheet being let down three times denotes baptism\" (JohnChr)."
+      "context": "[[LEV.11:2]]-4, 47: At least two issues relate to the animals: the nature of animals and eating only clean animals. The nature of all animals is good in itself because the Creator is good. He did not create anything evil in itself. This also applies to man, whose nature is good in itself. As [[GEN.1:31]] says, \"Then God saw everything He made, and indeed, it was very good.\" The Lawgiver said that foods going into the stomach cannot defile a man; rather, the evil proceeding from his heart defiles him ([[MRK.7:15]]-23). He said this when the Law of Moses was still in effect. Why then did He declare through Moses that certain animals were clean and others were unclean, and only the clean ones were to be eaten? Whatever various answers may be given, one seems to stand out as especially important: the eating of clean animals forecasts the cleansing of both Jews and Gentiles in baptism to form them into one body, the Church. Peter's vision in [[ACT.10:9]]-16 indicates the inclusion of Gentiles into the Church through baptism: \"The earth, then, this is what the linen sheet denotes, and the wild animals in it are those among the Gentiles, and the command: 'Kill and eat,' denotes that Peter must go to them also; and the linen sheet being let down three times denotes baptism\" (JohnChr).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "baptism",
+        "creation_theology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

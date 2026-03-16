@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "So when his fellow servants saw what had been done, they were very grieved, and came and told their master all that had been done.",
   "pericope": {
     "id": "MAT.P062",
@@ -12,7 +12,9 @@
     "range": "MAT.18:20-19:11",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 775,
       "raw_match": "[[MAT.18:23]]-35",
       "reference_type": "wikilink_range",
-      "context": "One of the most powerful of Christ's parables greatly amplifies this common human failing ([[MAT.18:23]]-35)."
+      "context": "One of the most powerful of Christ's parables greatly amplifies this common human failing ([[MAT.18:23]]-35).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

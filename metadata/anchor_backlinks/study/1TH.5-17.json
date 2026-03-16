@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "pray without ceasing,",
   "pericope": {
     "id": "1TH.P009",
@@ -12,7 +12,15 @@
     "range": "1TH.5:11-5:21",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "eucharist",
+    "logos",
+    "mercy",
+    "praise",
+    "prayer",
+    "suffering"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,28 +28,82 @@
       "line_number": 1631,
       "raw_match": "[[1TH.5:16]]-18",
       "reference_type": "wikilink_range",
-      "context": "Persistent (v. 7) and faithful (v. 8) prayer is the remedy for the tribulation just described (17:22-37; see also [[1TH.5:16]]-18 and note)."
+      "context": "Persistent (v. 7) and faithful (v. 8) prayer is the remedy for the tribulation just described (17:22-37; see also [[1TH.5:16]]-18 and note).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "prayer",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 7,
+        "title": "Symbolism and the Spiritual Worldview",
+        "polarity": "luminosity",
+        "operation": "eat",
+        "scale": "individual"
+      }
     },
     {
       "source_file": "study/footnotes/NT/MAT_footnotes.md",
       "line_number": 635,
       "raw_match": "[[1TH.5:17]]",
       "reference_type": "wikilink",
-      "context": "The hypocrites miss the spirit of prayer, which is an intimate, personal communion with God that leads to the vision of His glory ([[1CO.2:9]]). Hypocrisy blocks out this communion and this vision. Vain repetitions cannot establish this communion, for God does not need our \"babble.\" To partake of this communion, both silence and words are necessary. Therefore, we pray always ([[LUK.18:1]]) and without ceasing ([[1TH.5:17]]). Christ does not condemn the use of many words per se, but teaches that words must express the desire for communion with God. Jesus gives us specific words to repeat (vv. 9-13). It is not repetition itself that is condemned, but vain repetition. Many psalms, prayers, and hymns of the Church have been repeated for countless generations in the worship of God \"in spirit and truth\" ([[JOH.4:23]]). True prayer is not telling God what He already knows and then telling Him what to do about it, nor is it appearing pious in front of others. True prayer is (1) humble (go into your room, v. 6), (2) personal (pray to your Father, v. 6), and (3) sincere (do not use vain repetitions, v. 7)."
+      "context": "The hypocrites miss the spirit of prayer, which is an intimate, personal communion with God that leads to the vision of His glory ([[1CO.2:9]]). Hypocrisy blocks out this communion and this vision. Vain repetitions cannot establish this communion, for God does not need our \"babble.\" To partake of this communion, both silence and words are necessary. Therefore, we pray always ([[LUK.18:1]]) and without ceasing ([[1TH.5:17]]). Christ does not condemn the use of many words per se, but teaches that words must express the desire for communion with God. Jesus gives us specific words to repeat (vv. 9-13). It is not repetition itself that is condemned, but vain repetition. Many psalms, prayers, and hymns of the Church have been repeated for countless generations in the worship of God \"in spirit and truth\" ([[JOH.4:23]]). True prayer is not telling God what He already knows and then telling Him what to do about it, nor is it appearing pious in front of others. True prayer is (1) humble (go into your room, v. 6), (2) personal (pray to your Father, v. 6), and (3) sincere (do not use vain repetitions, v. 7).",
+      "edge_type": "descends_to",
+      "topic_threads": [
+        "christology",
+        "eucharist",
+        "praise",
+        "prayer"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/NT/PHP_footnotes.md",
       "line_number": 200,
       "raw_match": "[[1TH.5:16]]-18",
       "reference_type": "wikilink_range",
-      "context": "Paul often uses the word always in relation to prayer. Rejoicing always is a fruit of perseverance in daily prayers (see [[1TH.5:16]]-18)."
+      "context": "Paul often uses the word always in relation to prayer. Rejoicing always is a fruit of perseverance in daily prayers (see [[1TH.5:16]]-18).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "prayer"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/PSA_footnotes.md",
       "line_number": 798,
       "raw_match": "[[1TH.5:17]]",
       "reference_type": "wikilink",
-      "context": "Ps 69 is a prayer of the Lord Jesus Christ (the End, v. 1). Prayer is the ascent of the heart and mind to God (in remembrance, v. 1). In this ascent, prayer focuses a person on the Lord and His salvation (that the Lord may save me, v. 1). The early Desert Fathers used v. 2 as a text of ceaseless prayer (O God, make haste to help me, v. 2), thereby living out the exhortation of St. Paul in [[1TH.5:17]] to \"pray without ceasing.\" Also, this prayer, \"O God, make haste to help me,\" is often seen as the precursor to the Jesus Prayer: \"O Lord Jesus Christ, Son of God, have mercy on me a sinner.\" Verses 3-6 show some results of receiving God's help."
+      "context": "Ps 69 is a prayer of the Lord Jesus Christ (the End, v. 1). Prayer is the ascent of the heart and mind to God (in remembrance, v. 1). In this ascent, prayer focuses a person on the Lord and His salvation (that the Lord may save me, v. 1). The early Desert Fathers used v. 2 as a text of ceaseless prayer (O God, make haste to help me, v. 2), thereby living out the exhortation of St. Paul in [[1TH.5:17]] to \"pray without ceasing.\" Also, this prayer, \"O God, make haste to help me,\" is often seen as the precursor to the Jesus Prayer: \"O Lord Jesus Christ, Son of God, have mercy on me a sinner.\" Verses 3-6 show some results of receiving God's help.",
+      "edge_type": "ascends_from",
+      "topic_threads": [
+        "christology",
+        "mercy",
+        "prayer"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

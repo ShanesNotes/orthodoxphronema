@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "yes, while I was speaking in prayer, then the man Gabriel, whom I saw in my vision at the beginning, flew and touched me about the time of the evening sacrifice.",
   "pericope": {
     "id": "DAN.P028",
@@ -12,7 +12,10 @@
     "range": "DAN.9:19-9:26",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "creation_theology",
+    "prayer"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 215,
       "raw_match": "[[DAN.9:21]]",
       "reference_type": "wikilink",
-      "context": "Raphael reveals himself to Tobit and Tobias as one of seven holy angels who appear before the glory of the Holy One (see [[REV.1:4]]). These seven are also called archangels. The names of four of them are revealed: Raphael, Gabriel ([[DAN.9:21]]; [[LUK.1:19]], [[LUK.1:26]]-38), Michael ([[DAN.10:21]]; Jude 9) and Uriel (2 Esdras 4:1)."
+      "context": "Raphael reveals himself to Tobit and Tobias as one of seven holy angels who appear before the glory of the Holy One (see [[REV.1:4]]). These seven are also called archangels. The names of four of them are revealed: Raphael, Gabriel ([[DAN.9:21]]; [[LUK.1:19]], [[LUK.1:26]]-38), Michael ([[DAN.10:21]]; Jude 9) and Uriel (2 Esdras 4:1).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "creation_theology",
+        "prayer"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

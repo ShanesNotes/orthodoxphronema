@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "John came baptizing in the wilderness and preaching a baptism of repentance for the remission of sins.",
   "pericope": {
     "id": "MRK.P001",
@@ -12,7 +12,21 @@
     "range": "MRK.1:1-1:7",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "baptism",
+    "christology",
+    "covenant",
+    "creation_theology",
+    "eschatology",
+    "eucharist",
+    "exodus_typology",
+    "faith",
+    "kingdom",
+    "praise",
+    "repentance",
+    "resurrection",
+    "suffering"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,14 +34,54 @@
       "line_number": 18,
       "raw_match": "[[MRK.1:4]]",
       "reference_type": "wikilink",
-      "context": "' J ohn came baptizing in the wilderness and preaching a baptism of repentance for the remission of sins' ([[MRK.1:4]]). John the Baptist plays a crucial role in the history of salvation. Chosen before his birth to be the herald and forerunner of the Messiah ([[LUK.1:13]]-17), he knew his Lord from the beginning. Luke writes of John's miraculous conception ([[LUK.1:24]]). He then records that when the Virgin Mary visited Elizabeth, who was then six months pregnant with John the Baptist, the baby in Elizabeth's womb leaped at the sound of Mary's voice ([[LUK.1:41]]). Jesus taught that John fulfilled the prophecy of the return of Elijah ([[MAT.11:14]]), who was to precede the Messiah as 'the voice of one crying in the wilderness: 'Prepare the way of the LORD'' ([[MAT.3:3]]; [[MRK.1:3]]; [[LUK.3:4]]; [[JOH.1:23]]). Shortly before Jesus began His public ministry, John went out to the wilderness of Jordan to prepare the way for the Messiah. He carried out his prophetic role with a brotherhood of disciples characterized by repentance in expectation of the Kingdom, baptism for forgiveness of sins, bearing the fruit of righteousness, and spiritual discipline. John himself lived by an ascetic rule of poverty and fasting; in fact, he may have been a lifelong Nazirite (see [[LUK.1:15]]; Nm 6). His eyes were set not on the body and its desires, but on Christ the Lord, and his influence was widespread (see [[MRK.11:32]]; [[LUK.7:29]]; [[ACT.18:25]]; [[ACT.19:1]]-7). John prophesied Messiah was coming, One immeasurably greater than himself, 'whose sandal strap I am not worthy to stoop down and loose' ([[MRK.1:7]]). This One would baptize not only with water but with the Holy Spirit ([[MRK.1:8]]). When Jesus appeared before him to be baptized, John was humbled, realizing he was in need of being baptized by Jesus ([[MAT.3:14]]). But Jesus knew what was fitting 'to fulfill all righteousness' ([[MAT.3:15]]), and John obeyed. Thus, came about the event so familiar in Orthodox icons: Christ in the Jordan being baptized by John as the Holy Spirit descends on Him in the form of a dove. The Father's voice from heaven declares, 'This is My beloved Son, in whom I am well pleased' ([[MAT.3:17]]). John's work was crucial to Jesus' ministry. Jesus considered John's testimony important not because Jesus, the Son of God, needed to be validated by any human witness, but because the people's acceptance of John as a godly man prepared them to accept Jesus as well ([[JOH.5:33]]-35). Jesus' first disciples came from John's brotherhood ([[JOH.1:35]]-39), and the vacancy in the apostolic college left by Judas' betrayal was filled by one who had been John's follower ([[ACT.1:22]]). John the Baptist died a martyr for Christ ([[MRK.6:24]]-29). The Orthodox Church commemorates him in special hymns every Tuesday, as well as on designated feast days throughout the year."
+      "context": "' J ohn came baptizing in the wilderness and preaching a baptism of repentance for the remission of sins' ([[MRK.1:4]]). John the Baptist plays a crucial role in the history of salvation. Chosen before his birth to be the herald and forerunner of the Messiah ([[LUK.1:13]]-17), he knew his Lord from the beginning. Luke writes of John's miraculous conception ([[LUK.1:24]]). He then records that when the Virgin Mary visited Elizabeth, who was then six months pregnant with John the Baptist, the baby in Elizabeth's womb leaped at the sound of Mary's voice ([[LUK.1:41]]). Jesus taught that John fulfilled the prophecy of the return of Elijah ([[MAT.11:14]]), who was to precede the Messiah as 'the voice of one crying in the wilderness: 'Prepare the way of the LORD'' ([[MAT.3:3]]; [[MRK.1:3]]; [[LUK.3:4]]; [[JOH.1:23]]). Shortly before Jesus began His public ministry, John went out to the wilderness of Jordan to prepare the way for the Messiah. He carried out his prophetic role with a brotherhood of disciples characterized by repentance in expectation of the Kingdom, baptism for forgiveness of sins, bearing the fruit of righteousness, and spiritual discipline. John himself lived by an ascetic rule of poverty and fasting; in fact, he may have been a lifelong Nazirite (see [[LUK.1:15]]; Nm 6). His eyes were set not on the body and its desires, but on Christ the Lord, and his influence was widespread (see [[MRK.11:32]]; [[LUK.7:29]]; [[ACT.18:25]]; [[ACT.19:1]]-7). John prophesied Messiah was coming, One immeasurably greater than himself, 'whose sandal strap I am not worthy to stoop down and loose' ([[MRK.1:7]]). This One would baptize not only with water but with the Holy Spirit ([[MRK.1:8]]). When Jesus appeared before him to be baptized, John was humbled, realizing he was in need of being baptized by Jesus ([[MAT.3:14]]). But Jesus knew what was fitting 'to fulfill all righteousness' ([[MAT.3:15]]), and John obeyed. Thus, came about the event so familiar in Orthodox icons: Christ in the Jordan being baptized by John as the Holy Spirit descends on Him in the form of a dove. The Father's voice from heaven declares, 'This is My beloved Son, in whom I am well pleased' ([[MAT.3:17]]). John's work was crucial to Jesus' ministry. Jesus considered John's testimony important not because Jesus, the Son of God, needed to be validated by any human witness, but because the people's acceptance of John as a godly man prepared them to accept Jesus as well ([[JOH.5:33]]-35). Jesus' first disciples came from John's brotherhood ([[JOH.1:35]]-39), and the vacancy in the apostolic college left by Judas' betrayal was filled by one who had been John's follower ([[ACT.1:22]]). John the Baptist died a martyr for Christ ([[MRK.6:24]]-29). The Orthodox Church commemorates him in special hymns every Tuesday, as well as on designated feast days throughout the year.",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "baptism",
+        "christology",
+        "creation_theology",
+        "praise",
+        "repentance"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 5,
+        "title": "Heaven and Earth: A Spiritual Perspective",
+        "polarity": "generation",
+        "operation": "inform",
+        "scale": "individual"
+      }
     },
     {
       "source_file": "study/articles/NT/ROM_articles.md",
       "line_number": 52,
       "raw_match": "[[MRK.1:4]]",
       "reference_type": "wikilink",
-      "context": "W hat is baptism? Simply put, baptism is our death, burial, and resurrection in union with Jesus Christ. It is a rite of passage, given by Christ to the Church as an entrance into the Kingdom of God and eternal life. The apostle Paul describes the promise of God in this 'mystery,' as most Orthodox call it, most succinctly when he writes, 'Therefore we were buried with Him through baptism into death, that just as Christ was raised from the dead by the glory of the Father, even so we also should walk in newness of life' ([[ROM.6:4]]). To baptize (Gr. baptizo) literally means 'to immerse, to put into.' Historically, the Orthodox Church has baptized by triple immersion, 'in the name of the Father and of the Son and of the Holy Spirit' ([[MAT.28:19]]). In the Old Testament, baptism was pictured by the passage of God's people with Moses through the Red Sea ([[1CO.10:1]], [[1CO.10:2]]). John the Baptist, the last prophet of the old covenant, baptized in water for repentance ([[MRK.1:4]]; [[ACT.19:4]]). Jesus received John's baptism, thereby transforming the water and baptism itself. In the new covenant, baptism is the means by which we enter the Kingdom of God ([[JOH.3:5]]), are joined to Christ ([[ROM.6:3]]), and are granted the remission of our sins and the gift of the Holy Spirit ([[ACT.2:38]]). What results from baptism? From the start, the Church has understood baptism as: 1 A first and second dying. Our first dying with Christ in baptism was our death with Him on the Cross. In the fourth century, St. Cyril of Jerusalem instructed his new converts, 'You were led by the hand to the holy pool of divine baptism... and each of you was asked if he believed in the Name of the Father, and of the Son, and of the Holy Ghost. And you made that saving confession, you descended into the water and came up again three times. In the very same moment you died and were born.' The second death of baptism is continual-dying to sin daily as we walk in newness of life. St. Paul writes to the Colossians concerning baptism ([[COL.2:12]]) and concludes by saying, 'Therefore put to death your members which are on the earth: fornication, uncleanness, passion, evil desire, and covetousness, which is idolatry' ([[COL.3:5]]). 2 The resurrection of righteousness. This is our life in Christ, our new birth and entrance into God's Kingdom ([[JOH.3:3]]), our 'newness of life' ([[ROM.6:4]]). It is our being joined to Christ in His glorified humanity and indwelt by God Himself ([[JOH.14:23]]). Our relationship with God is not something static, a legal fiction given to us by a Divine Judge. Rather, this is a dynamic and real life in Christ, holding the promise of everlasting life. Our resurrection to new life now forms a prelude to the resurrection of our body at Christ's second coming. 3 An intimate and continual communion with God. We are raised to new life for a purpose: union and communion with God. In this sense, baptism is the beginning of eternal life. For this reason, Peter writes that baptism now saves us ([[1PE.3:21]])-it is not the mere removal of"
+      "context": "W hat is baptism? Simply put, baptism is our death, burial, and resurrection in union with Jesus Christ. It is a rite of passage, given by Christ to the Church as an entrance into the Kingdom of God and eternal life. The apostle Paul describes the promise of God in this 'mystery,' as most Orthodox call it, most succinctly when he writes, 'Therefore we were buried with Him through baptism into death, that just as Christ was raised from the dead by the glory of the Father, even so we also should walk in newness of life' ([[ROM.6:4]]). To baptize (Gr. baptizo) literally means 'to immerse, to put into.' Historically, the Orthodox Church has baptized by triple immersion, 'in the name of the Father and of the Son and of the Holy Spirit' ([[MAT.28:19]]). In the Old Testament, baptism was pictured by the passage of God's people with Moses through the Red Sea ([[1CO.10:1]], [[1CO.10:2]]). John the Baptist, the last prophet of the old covenant, baptized in water for repentance ([[MRK.1:4]]; [[ACT.19:4]]). Jesus received John's baptism, thereby transforming the water and baptism itself. In the new covenant, baptism is the means by which we enter the Kingdom of God ([[JOH.3:5]]), are joined to Christ ([[ROM.6:3]]), and are granted the remission of our sins and the gift of the Holy Spirit ([[ACT.2:38]]). What results from baptism? From the start, the Church has understood baptism as: 1 A first and second dying. Our first dying with Christ in baptism was our death with Him on the Cross. In the fourth century, St. Cyril of Jerusalem instructed his new converts, 'You were led by the hand to the holy pool of divine baptism... and each of you was asked if he believed in the Name of the Father, and of the Son, and of the Holy Ghost. And you made that saving confession, you descended into the water and came up again three times. In the very same moment you died and were born.' The second death of baptism is continual-dying to sin daily as we walk in newness of life. St. Paul writes to the Colossians concerning baptism ([[COL.2:12]]) and concludes by saying, 'Therefore put to death your members which are on the earth: fornication, uncleanness, passion, evil desire, and covetousness, which is idolatry' ([[COL.3:5]]). 2 The resurrection of righteousness. This is our life in Christ, our new birth and entrance into God's Kingdom ([[JOH.3:3]]), our 'newness of life' ([[ROM.6:4]]). It is our being joined to Christ in His glorified humanity and indwelt by God Himself ([[JOH.14:23]]). Our relationship with God is not something static, a legal fiction given to us by a Divine Judge. Rather, this is a dynamic and real life in Christ, holding the promise of everlasting life. Our resurrection to new life now forms a prelude to the resurrection of our body at Christ's second coming. 3 An intimate and continual communion with God. We are raised to new life for a purpose: union and communion with God. In this sense, baptism is the beginning of eternal life. For this reason, Peter writes that baptism now saves us ([[1PE.3:21]])-it is not the mere removal of",
+      "edge_type": "witnesses",
+      "topic_threads": [
+        "baptism",
+        "christology",
+        "covenant",
+        "creation_theology",
+        "eschatology",
+        "eucharist",
+        "exodus_typology",
+        "faith",
+        "kingdom",
+        "praise",
+        "repentance",
+        "resurrection",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

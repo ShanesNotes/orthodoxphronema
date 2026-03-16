@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "All things have been delivered to Me by My Father, and no one knows the Son except the Father. Nor does anyone know the Father except the Son, and the one to whom the Son wills to reveal Him.",
   "pericope": {
     "id": "MAT.P033",
@@ -12,7 +12,11 @@
     "range": "MAT.11:24-11:29",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "creation_theology",
+    "praise",
+    "shepherd"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +24,21 @@
       "line_number": 1081,
       "raw_match": "[[MAT.11:27]]-30",
       "reference_type": "wikilink_range",
-      "context": "Ps 94 is an invitation to worship (come, vv. 1, 2, 6). This worship is called the praise of an ode (v. 1). An ode emphasizes great joy (v. 1), and praise is offered with thanksgiving (v. 2). The object of our worship is the Lord (vv. 1, 3, 6), God (vv. 1, 3, 7), and the King (v. 3). This Lord, God, and King is God the Father. His hand is the Son, who holds the ends of the earth (v. 4) and the people and sheep of the Father's pasture (that is, the Church, v. 7). The Father created the world by His two hands, that is, by the Son and the Holy Spirit (v. 5). Therefore, Ps 94 is an invitation to worship the Father, the Son, and the Holy Spirit. But those who refuse this invitation will never find rest for their souls (v. 11; see also [[MAT.11:27]]-30; Heb 3; 4). For those who hear this invitation (hear His voice, v. 7) but refuse it are like Israel during their forty-year wanderings in the desert (vv. 8-10). They hardened their hearts in rebellion by their own free will (v. 8), and we are warned not to harden our hearts (v. 8)."
+      "context": "Ps 94 is an invitation to worship (come, vv. 1, 2, 6). This worship is called the praise of an ode (v. 1). An ode emphasizes great joy (v. 1), and praise is offered with thanksgiving (v. 2). The object of our worship is the Lord (vv. 1, 3, 6), God (vv. 1, 3, 7), and the King (v. 3). This Lord, God, and King is God the Father. His hand is the Son, who holds the ends of the earth (v. 4) and the people and sheep of the Father's pasture (that is, the Church, v. 7). The Father created the world by His two hands, that is, by the Son and the Holy Spirit (v. 5). Therefore, Ps 94 is an invitation to worship the Father, the Son, and the Holy Spirit. But those who refuse this invitation will never find rest for their souls (v. 11; see also [[MAT.11:27]]-30; Heb 3; 4). For those who hear this invitation (hear His voice, v. 7) but refuse it are like Israel during their forty-year wanderings in the desert (vv. 8-10). They hardened their hearts in rebellion by their own free will (v. 8), and we are warned not to harden our hearts (v. 8).",
+      "edge_type": "opposes",
+      "topic_threads": [
+        "creation_theology",
+        "praise",
+        "shepherd"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Judge not, that you be not judged.",
   "pericope": {
     "id": "MAT.P016",
@@ -12,7 +12,10 @@
     "range": "MAT.6:34-8:12",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "judgment"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 259,
       "raw_match": "[[MAT.7:1]]",
       "reference_type": "wikilink",
-      "context": "Here, as in 2:15, judge (Gr. anakrinein) is difficult to render in English. Anakrinein is comparable to the investigation that takes place before and during a trial and preceding judgment; krinein (v. 5; [[MAT.7:1]]), to rendering of a verdict. Many Corinthians prejudged Paul as an unfaithful steward; some denied his apostolic authority (see Introduction to 2 Corinthians). For Paul it is improper for them, or even for himself, to prejudge his life, for Christ is the Judge."
+      "context": "Here, as in 2:15, judge (Gr. anakrinein) is difficult to render in English. Anakrinein is comparable to the investigation that takes place before and during a trial and preceding judgment; krinein (v. 5; [[MAT.7:1]]), to rendering of a verdict. Many Corinthians prejudged Paul as an unfaithful steward; some denied his apostolic authority (see Introduction to 2 Corinthians). For Paul it is improper for them, or even for himself, to prejudge his life, for Christ is the Judge.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology",
+        "judgment"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Give, and it will be given to you: good measure, pressed down, shaken together, and running over will be put into your bosom. For with the same measure that you use, it will be measured back to you.'",
   "pericope": {
     "id": "LUK.P031",
@@ -12,7 +12,10 @@
     "range": "LUK.6:26-7:9",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "judgment",
+    "repentance"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,14 +23,36 @@
       "line_number": 755,
       "raw_match": "[[LUK.6:38]]",
       "reference_type": "wikilink",
-      "context": "We will be judged with our own level of judgment because we are guilty of the very things we judge in others ([[ROM.2:1]]). We ourselves have failed in repentance and in fleeing from sin. To pass judgment is to assume God's authority. The second part of this verse is found in [[MRK.4:24]] and in [[LUK.6:38]], each in a different context, as Jesus no doubt repeated this particular message many times."
+      "context": "We will be judged with our own level of judgment because we are guilty of the very things we judge in others ([[ROM.2:1]]). We ourselves have failed in repentance and in fleeing from sin. To pass judgment is to assume God's authority. The second part of this verse is found in [[MRK.4:24]] and in [[LUK.6:38]], each in a different context, as Jesus no doubt repeated this particular message many times.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "judgment",
+        "repentance"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/ISA_footnotes.md",
       "line_number": 500,
       "raw_match": "[[LUK.6:38]]",
       "reference_type": "wikilink",
-      "context": "Reference to the measuring line is also found in [[LUK.6:38]]: \"With the same measure that you use, it will be measured back to you.\""
+      "context": "Reference to the measuring line is also found in [[LUK.6:38]]: \"With the same measure that you use, it will be measured back to you.\"",
+      "edge_type": "fulfills",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

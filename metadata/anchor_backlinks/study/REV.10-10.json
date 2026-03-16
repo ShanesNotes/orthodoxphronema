@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "And he said to me, 'Take and eat it; and it will make your stomach bitter, but it will be as sweet as honey in your mouth.' Then I took the little book out of the angel's hand and ate it, and it was as sweet as honey in my mouth. But when I had eaten it, my stomach became bitter.",
   "pericope": {
     "id": "REV.P028",
@@ -12,7 +12,9 @@
     "range": "REV.9:21-10:10",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 82,
       "raw_match": "[[REV.10:8]]-11",
       "reference_type": "wikilink_range",
-      "context": "For the faithful, the taste of Christ the Word in our mouth is even sweeter than honey (see [[PSA.18:10]]; 118:103; [[JER.15:16]]; [[ZEC.5:1]]-4; [[REV.10:8]]-11)."
+      "context": "For the faithful, the taste of Christ the Word in our mouth is even sweeter than honey (see [[PSA.18:10]]; 118:103; [[JER.15:16]]; [[ZEC.5:1]]-4; [[REV.10:8]]-11).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

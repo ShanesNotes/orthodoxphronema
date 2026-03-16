@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "'On account of this, wait for Me,' says the Lord, 'until the day of My rising up as a testimony. For My judgment shall be for the gathering of the nations, to receive kings to pour out upon them all My fierce anger, for all the earth shall be consumed with the fire of My jealousy.",
   "pericope": {
     "id": "ZEP.P003",
@@ -12,7 +12,14 @@
     "range": "ZEP.2:15-3:12",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "creation_theology",
+    "exodus_typology",
+    "judgment",
+    "priesthood",
+    "repentance",
+    "temple"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +27,24 @@
       "line_number": 1344,
       "raw_match": "[[ZEP.3:8]]",
       "reference_type": "wikilink",
-      "context": "Although they are quite similar, the trumpet plagues are partial, a warning and call to repentance, whereas the bowl judgments are final and total. The difference is that dreadful step from the \"beginning of sorrows\" to final judgment. This chapter, like ch. 15, contains many elements foreshadowed in Joel 4:9-17, which is read in the Church on the Wednesday before Great Lent. The loud voice from the celestial temple is presumably God's voice. Pour out is a liturgical term (Lv 4:7, 18, 25, et. al.) referring to the blood and the wine poured out with the offering of the daily sacrifice and the Feast of Dedication. On the Day of Atonement, blood was sprinkled seven times towards the inner veil, more was then smeared upon the horns of the altar, and the remainder was poured out at the altar's base. Here, the seven angelic priests pour out the bowls of God's wrath as a ritual answer to the cry of the martyrs (from under the altar) for vengeance (see [[PSA.68:25]]; [[JER.10:21]]; [[ZEP.3:8]])."
+      "context": "Although they are quite similar, the trumpet plagues are partial, a warning and call to repentance, whereas the bowl judgments are final and total. The difference is that dreadful step from the \"beginning of sorrows\" to final judgment. This chapter, like ch. 15, contains many elements foreshadowed in Joel 4:9-17, which is read in the Church on the Wednesday before Great Lent. The loud voice from the celestial temple is presumably God's voice. Pour out is a liturgical term (Lv 4:7, 18, 25, et. al.) referring to the blood and the wine poured out with the offering of the daily sacrifice and the Feast of Dedication. On the Day of Atonement, blood was sprinkled seven times towards the inner veil, more was then smeared upon the horns of the altar, and the remainder was poured out at the altar's base. Here, the seven angelic priests pour out the bowls of God's wrath as a ritual answer to the cry of the martyrs (from under the altar) for vengeance (see [[PSA.68:25]]; [[JER.10:21]]; [[ZEP.3:8]]).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "creation_theology",
+        "exodus_typology",
+        "judgment",
+        "priesthood",
+        "repentance",
+        "temple"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

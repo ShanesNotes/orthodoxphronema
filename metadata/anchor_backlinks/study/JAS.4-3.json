@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "You ask and do not receive, because you ask amiss, that you may spend it on your pleasures.",
   "pericope": {
     "id": "JAS.P009",
@@ -20,7 +20,16 @@
       "line_number": 1093,
       "raw_match": "[[JAS.4:3]]",
       "reference_type": "wikilink",
-      "context": "In Greek, the verbs rendered ask, seek, and knock imply a continuing action and are better translated, \"keep asking,\" \"keep seeking,\" and \"keep knocking.\" God responds when we persistently ask for things that are good. Bread, fish, and an egg are all images of life and symbolize the gift of the Holy Spirit (see [[JOH.14:13]], [[JOH.14:14]]; [[JAS.4:3]])."
+      "context": "In Greek, the verbs rendered ask, seek, and knock imply a continuing action and are better translated, \"keep asking,\" \"keep seeking,\" and \"keep knocking.\" God responds when we persistently ask for things that are good. Bread, fish, and an egg are all images of life and symbolize the gift of the Holy Spirit (see [[JOH.14:13]], [[JOH.14:14]]; [[JAS.4:3]]).",
+      "edge_type": "instantiates",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

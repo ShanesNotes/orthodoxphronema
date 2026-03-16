@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "But Jesus answered and said to them, 'I also will ask you one question; then answer Me, and I will tell you by what authority I do these things:",
   "pericope": {
     "id": "MRK.P038",
@@ -20,7 +20,8 @@
       "line_number": 746,
       "raw_match": "[[MRK.11:27]]-33",
       "reference_type": "wikilink_range",
-      "context": "See [[MRK.11:27]]-33."
+      "context": "See [[MRK.11:27]]-33.",
+      "edge_type": "instantiates"
     }
   ]
 }

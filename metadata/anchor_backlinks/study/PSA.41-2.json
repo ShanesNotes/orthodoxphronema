@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "A s the deer longs for the springs of waters, So my soul longs for You, O God.",
   "pericope": {
     "id": "PSA.P041",
@@ -12,7 +12,11 @@
     "range": "PSA.41:1-41:12",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "baptism",
+    "christology",
+    "eucharist"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +24,20 @@
       "line_number": 1947,
       "raw_match": "[[PSA.41:2]]",
       "reference_type": "wikilink",
-      "context": "A liturgical dialogue, a reflection of eucharistic theology. The Church as bound to God, the bride in union with the Holy Spirit, invites Christ to \"Come!\" We plead for His return (see His answer in v. 20). Those who desire God (21:6; [[PSA.41:2]], [[PSA.41:3]]; 63:1; Is 26:8, 9; [[JOH.6:35]]; 7:37) but who are not yet overcoming the world are in turn invited to come to Christ. 22:18, 19 This severe warning refers to the Book of Revelation, not to the Bible as a whole, and admonishes those in the communities addressed not to distort its message. To do so is to threaten one's very salvation (see [[DEU.4:2]]; 12:32; [[GAL.1:8]], [[GAL.1:9]])."
+      "context": "A liturgical dialogue, a reflection of eucharistic theology. The Church as bound to God, the bride in union with the Holy Spirit, invites Christ to \"Come!\" We plead for His return (see His answer in v. 20). Those who desire God (21:6; [[PSA.41:2]], [[PSA.41:3]]; 63:1; Is 26:8, 9; [[JOH.6:35]]; 7:37) but who are not yet overcoming the world are in turn invited to come to Christ. 22:18, 19 This severe warning refers to the Book of Revelation, not to the Bible as a whole, and admonishes those in the communities addressed not to distort its message. To do so is to threaten one's very salvation (see [[DEU.4:2]]; 12:32; [[GAL.1:8]], [[GAL.1:9]]).",
+      "edge_type": "echoes",
+      "topic_threads": [
+        "christology",
+        "eucharist"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "All these things Jesus spoke to the multitude in parables; and without a parable He did not speak to them,",
   "pericope": {
     "id": "MAT.P041",
@@ -12,7 +12,11 @@
     "range": "MAT.13:33-13:34",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "praise",
+    "temple"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +24,21 @@
       "line_number": 876,
       "raw_match": "[[MAT.13:34]]",
       "reference_type": "wikilink",
-      "context": "Ps 77 concerns understanding (v. 1). What needs to be understood is that Christ is speaking to His Church (vv. 2, 14; see also [[MAT.13:34]], [[MAT.13:35]]; [[1CO.10:4]], [[1CO.10:14]]), called children yet to be born (v. 6), His sanctuary... founded forever on the earth (v. 69), and His people... His inheritance (v. 71). The content of His instruction is the entire psalm itself, an overview of the history of Israel."
+      "context": "Ps 77 concerns understanding (v. 1). What needs to be understood is that Christ is speaking to His Church (vv. 2, 14; see also [[MAT.13:34]], [[MAT.13:35]]; [[1CO.10:4]], [[1CO.10:14]]), called children yet to be born (v. 6), His sanctuary... founded forever on the earth (v. 69), and His people... His inheritance (v. 71). The content of His instruction is the entire psalm itself, an overview of the history of Israel.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology",
+        "praise",
+        "temple"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

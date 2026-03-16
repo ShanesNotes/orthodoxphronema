@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "'So Jacob ate and was filled, and the beloved kicked; He grew fat, he grew thick, he is obese. Then he forsook God who made him And stood back from God his Savior.",
   "pericope": {
     "id": "DEU.P066",
@@ -12,7 +12,12 @@
     "range": "DEU.31:29-32:42",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "baptism",
+    "christology",
+    "exodus_typology",
+    "praise"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +25,22 @@
       "line_number": 1302,
       "raw_match": "[[DEU.32:1]]-43",
       "reference_type": "wikilink_range",
-      "context": "The victory celebration for those who refuse to submit to Antichrist, perhaps a hymn used in the liturgy of the early Church. In contrast to the idolatry of the beast, this hymn emphasizes the worthiness of the true God. The song of Moses and the Lamb (v. 3) is prefigured in the hymns of [[EXO.15:1]]-18 and [[DEU.32:1]]-43, where victory over the oppression of Pharaoh and the Egyptians is celebrated. The Jews incorporated these into the Sabbath liturgy, and the Church also sings them at various times of the year (for example, in Matins, and in the Vespers of Holy Saturday). The Church sings this song of the Lamb in baptism and at the Great Blessing of Water."
+      "context": "The victory celebration for those who refuse to submit to Antichrist, perhaps a hymn used in the liturgy of the early Church. In contrast to the idolatry of the beast, this hymn emphasizes the worthiness of the true God. The song of Moses and the Lamb (v. 3) is prefigured in the hymns of [[EXO.15:1]]-18 and [[DEU.32:1]]-43, where victory over the oppression of Pharaoh and the Egyptians is celebrated. The Jews incorporated these into the Sabbath liturgy, and the Church also sings them at various times of the year (for example, in Matins, and in the Vespers of Holy Saturday). The Church sings this song of the Lamb in baptism and at the Great Blessing of Water.",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "baptism",
+        "christology",
+        "exodus_typology",
+        "praise"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

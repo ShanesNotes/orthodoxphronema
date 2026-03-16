@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "If it pleases the king, let him make a decree to destroy them. If so, I will pay ten thousand talents of silver into the king's treasury.'",
   "pericope": {
     "id": "EST.P007",
@@ -12,7 +12,9 @@
     "range": "EST.2:23-3:12",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 107,
       "raw_match": "[[EST.3:9]]",
       "reference_type": "wikilink",
-      "context": "The claim that the work of God is rebellion and harmful to kings whom God Himself has established is a standard ploy of Satan in his attempts to destroy God's obedient ones ([[EST.3:8]], [[EST.3:9]]). This culminates in the charge that would be leveled against Christ Himself ([[JOH.19:12]])."
+      "context": "The claim that the work of God is rebellion and harmful to kings whom God Himself has established is a standard ploy of Satan in his attempts to destroy God's obedient ones ([[EST.3:8]], [[EST.3:9]]). This culminates in the charge that would be leveled against Christ Himself ([[JOH.19:12]]).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

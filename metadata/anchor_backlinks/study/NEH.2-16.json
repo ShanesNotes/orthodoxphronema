@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "The sentries did not know why I had gone or what I was doing. And I did not tell the Jews, the priests, the nobles, the officials, or the others doing the work until my return.",
   "pericope": {
     "id": "NEH.P010",
@@ -12,7 +12,9 @@
     "range": "NEH.2:14-2:16",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "priesthood"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 69,
       "raw_match": "[[NEH.2:11]]-18",
       "reference_type": "wikilink_range",
-      "context": "The prophet Nehemiah was to rebuild the walls of Jerusalem that had been destroyed by fire ([[NEH.2:11]]-18)."
+      "context": "The prophet Nehemiah was to rebuild the walls of Jerusalem that had been destroyed by fire ([[NEH.2:11]]-18).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "priesthood"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

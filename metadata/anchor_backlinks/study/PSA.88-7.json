@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "For who in the clouds shall be compared to the Lord, And who among the sons of God shall be compared to the Lord?",
   "pericope": {
     "id": "PSA.P088",
@@ -20,7 +20,16 @@
       "line_number": 1115,
       "raw_match": "[[PSA.88:7]]",
       "reference_type": "wikilink",
-      "context": "People worshiped the dragon (Satan), for it had given authority to the beast (a reference to emperor worship, which Domitian ruthlessly enforced). \"Who is like the beast?\" is an allusion to Michael the Archangel, whose name means \"Who is like God?\" It is also a parody of God, the incomparable ([[EXO.15:11]]; [[PSA.88:7]]). Citizens are awed by the power and authority of the empire."
+      "context": "People worshiped the dragon (Satan), for it had given authority to the beast (a reference to emperor worship, which Domitian ruthlessly enforced). \"Who is like the beast?\" is an allusion to Michael the Archangel, whose name means \"Who is like God?\" It is also a parody of God, the incomparable ([[EXO.15:11]]; [[PSA.88:7]]). Citizens are awed by the power and authority of the empire.",
+      "edge_type": "opposes",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

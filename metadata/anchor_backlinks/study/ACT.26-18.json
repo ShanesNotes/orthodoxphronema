@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "to open their eyes, in order to turn them from darkness to light, and from the power of Satan to God, that they may receive forgiveness of sins and an inheritance among those who are sanctified by faith in Me.'",
   "pericope": {
     "id": "ACT.P090",
@@ -12,7 +12,14 @@
     "range": "ACT.25:27-26:22",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "baptism",
+    "christology",
+    "eucharist",
+    "faith",
+    "praise",
+    "repentance"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +27,24 @@
       "line_number": 413,
       "raw_match": "[[ACT.26:18]]",
       "reference_type": "wikilink",
-      "context": "Besides separating from darkness, Christians are also to expose (v. 11) it. But we must first come out of hiding in order to be exposed ourselves. That is, we must confess our sins and repent of them (see [[JOH.3:19]]-21). Orthodox Christians do this before baptism, before the Eucharist, and also in a separate sacrament of repentance. The hymn in v. 14 is an early baptismal hymn: baptism is illumination (see [[ACT.26:18]]; [[2CO.4:6]]; [[HEB.6:4]]; 10:32). To walk in the light is to walk in one's baptism."
+      "context": "Besides separating from darkness, Christians are also to expose (v. 11) it. But we must first come out of hiding in order to be exposed ourselves. That is, we must confess our sins and repent of them (see [[JOH.3:19]]-21). Orthodox Christians do this before baptism, before the Eucharist, and also in a separate sacrament of repentance. The hymn in v. 14 is an early baptismal hymn: baptism is illumination (see [[ACT.26:18]]; [[2CO.4:6]]; [[HEB.6:4]]; 10:32). To walk in the light is to walk in one's baptism.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "baptism",
+        "christology",
+        "eucharist",
+        "faith",
+        "praise",
+        "repentance"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

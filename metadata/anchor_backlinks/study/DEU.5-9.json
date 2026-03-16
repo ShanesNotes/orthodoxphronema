@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "you shall not bow down to them nor serve them, because I am the Lord your God, a jealous God, repaying the sins of the fathers upon the children to the third and fourth generation of those who hate Me,",
   "pericope": {
     "id": "DEU.P014",
@@ -12,7 +12,9 @@
     "range": "DEU.4:49-5:20",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "suffering"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 989,
       "raw_match": "[[DEU.5:9]]",
       "reference_type": "wikilink",
-      "context": "The Savior rejects the assumption (common in the ancient world) that all troubles and maladies are necessarily the consequence of personal sin or even the sins of one's parents (see [[EXO.20:5]]; [[DEU.5:9]]; contrast [[EZK.18:19]]-21). Though suffering can be the direct result of personal sin, this is certainly not always the case (see note at 5:14). In this instance, the man's blindness provided the occasion for the works of God to be revealed; it was not related directly to the man's personal sins."
+      "context": "The Savior rejects the assumption (common in the ancient world) that all troubles and maladies are necessarily the consequence of personal sin or even the sins of one's parents (see [[EXO.20:5]]; [[DEU.5:9]]; contrast [[EZK.18:19]]-21). Though suffering can be the direct result of personal sin, this is certainly not always the case (see note at 5:14). In this instance, the man's blindness provided the occasion for the works of God to be revealed; it was not related directly to the man's personal sins.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

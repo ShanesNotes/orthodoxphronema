@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Let him who is on the housetop not go down to take anything out of his house.",
   "pericope": {
     "id": "MAT.P077",
@@ -12,7 +12,17 @@
     "range": "MAT.24:14-24:47",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "covenant",
+    "exodus_typology",
+    "israel_church",
+    "judgment",
+    "kingdom",
+    "repentance",
+    "suffering",
+    "temple"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,21 +30,65 @@
       "line_number": 787,
       "raw_match": "[[MAT.24:15]]-22",
       "reference_type": "wikilink_range",
-      "context": "The seven angels with the seven trumpets form a double image of the old covenant temple liturgy and the fall of Jericho. The interrelationship of the \"seal judgments\" (5:1-8:1), \"trumpet judgments\" (8:2- 11:19), and \"bowl judgments\" (15:1-16:21) in Revelation is complex. There is some repetition and summarizing. The trumpets and bowls also give increasing specificity to God's judgments. They may not describe a chronological unfolding of events or even actual events. The trumpets speak of God's final warning to the world, especially seen in the \"one-third\" formula, calling the world to repentance before utter destruction comes. This stage of judgment can be seen to be the prelude--manifested in the natural world-- to the great tribulation ([[MAT.24:15]]-22), playing a role much like that of the ten plagues of Exodus; the end itself is \"not yet.\" The Church is not mentioned until ch. 11, where the calamities of earth are overcome by the Kingdom of God (11:15-19)."
+      "context": "The seven angels with the seven trumpets form a double image of the old covenant temple liturgy and the fall of Jericho. The interrelationship of the \"seal judgments\" (5:1-8:1), \"trumpet judgments\" (8:2- 11:19), and \"bowl judgments\" (15:1-16:21) in Revelation is complex. There is some repetition and summarizing. The trumpets and bowls also give increasing specificity to God's judgments. They may not describe a chronological unfolding of events or even actual events. The trumpets speak of God's final warning to the world, especially seen in the \"one-third\" formula, calling the world to repentance before utter destruction comes. This stage of judgment can be seen to be the prelude--manifested in the natural world-- to the great tribulation ([[MAT.24:15]]-22), playing a role much like that of the ten plagues of Exodus; the end itself is \"not yet.\" The Church is not mentioned until ch. 11, where the calamities of earth are overcome by the Kingdom of God (11:15-19).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "covenant",
+        "exodus_typology",
+        "judgment",
+        "kingdom",
+        "repentance",
+        "suffering",
+        "temple"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/NT/REV_footnotes.md",
       "line_number": 1082,
       "raw_match": "[[MAT.24:15]]-21",
       "reference_type": "wikilink_range",
-      "context": "Satan hates Christ and His mother. The Virgin Mary was saved by the inspiration of the angel who told Joseph to run into Egypt. Likewise, Satan hates Christ and the Church ([[JOH.15:21]]) and attacks the one through the other, since they are identified. One of his first activities is to persecute true Israel. The wings of a great eagle (v. 14) refers to the original Exodus ([[EXO.19:4]]; see [[DEU.32:11]]), as the flood (vv. 15, 16) may also be the threat of drowning in the Red Sea. However, Satan is unable to prevail. The Jewish Church safely completes its exodus and is preserved during its apocalyptic period. And the Church in general will be preserved: the gates of hell cannot prevail against her (Mt 16:18). For Jesus' warnings about this flight, see [[MAT.24:15]]-21."
+      "context": "Satan hates Christ and His mother. The Virgin Mary was saved by the inspiration of the angel who told Joseph to run into Egypt. Likewise, Satan hates Christ and the Church ([[JOH.15:21]]) and attacks the one through the other, since they are identified. One of his first activities is to persecute true Israel. The wings of a great eagle (v. 14) refers to the original Exodus ([[EXO.19:4]]; see [[DEU.32:11]]), as the flood (vv. 15, 16) may also be the threat of drowning in the Red Sea. However, Satan is unable to prevail. The Jewish Church safely completes its exodus and is preserved during its apocalyptic period. And the Church in general will be preserved: the gates of hell cannot prevail against her (Mt 16:18). For Jesus' warnings about this flight, see [[MAT.24:15]]-21.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology",
+        "exodus_typology",
+        "israel_church"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/ISA_footnotes.md",
       "line_number": 495,
       "raw_match": "[[MAT.24:7]]-29",
       "reference_type": "wikilink_range",
-      "context": "These verses are echoed in Christ's teaching about the end times (see [[MAT.24:7]]-29)."
+      "context": "These verses are echoed in Christ's teaching about the end times (see [[MAT.24:7]]-29).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

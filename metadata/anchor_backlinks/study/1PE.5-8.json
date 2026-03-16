@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Be sober, be vigilant; because your adversary the devil walks about like a roaring lion, seeking whom he may devour.",
   "pericope": {
     "id": "1PE.P016",
@@ -12,7 +12,9 @@
     "range": "1PE.4:19-5:10",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 89,
       "raw_match": "[[1PE.5:8]]",
       "reference_type": "wikilink",
-      "context": "The historical background of Ps 7 is Absalom's rebellion against his father, King David. This history is found in 2Kg 14-18. King David and his army prefigure Christ and the Church, whereas Absalom and his army represent the devil and his angels. Thus, Ps 7 teaches the Church how to pray in this warfare: (1) The faithful place their hope in God for deliverance from the enemy, that is the devil, called a lion (v. 3; see also [[1PE.5:8]]). (2) Personal virtue in the Church is essential for successful warfare against this enemy (vv. 4-17). (3) The credit for any victory achieved goes to the Lord (v. 18)."
+      "context": "The historical background of Ps 7 is Absalom's rebellion against his father, King David. This history is found in 2Kg 14-18. King David and his army prefigure Christ and the Church, whereas Absalom and his army represent the devil and his angels. Thus, Ps 7 teaches the Church how to pray in this warfare: (1) The faithful place their hope in God for deliverance from the enemy, that is the devil, called a lion (v. 3; see also [[1PE.5:8]]). (2) Personal virtue in the Church is essential for successful warfare against this enemy (vv. 4-17). (3) The credit for any victory achieved goes to the Lord (v. 18).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

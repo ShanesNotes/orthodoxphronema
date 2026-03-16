@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "When the Lord saw her, He had compassion on her and said to her, 'Do not weep.'",
   "pericope": {
     "id": "LUK.P032",
@@ -12,7 +12,13 @@
     "range": "LUK.7:10-7:34",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "eucharist",
+    "israel_church",
+    "mercy",
+    "suffering"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,14 +26,44 @@
       "line_number": 1339,
       "raw_match": "[[LUK.7:13]]",
       "reference_type": "wikilink",
-      "context": "This miracle, reported by all four evangelists, shows Jesus feeding a great multitude of His people as He fed the Israelites in the desert (see Ex 16). The Church Fathers see in this an image of the Eucharist, an idea made clear in Jn 6. In 15:32-39, another miracle is mentioned in which Jesus feeds four thousand people with seven loaves and a few small fish. While certain modern scholars have attempted to say that these are merely the same story, the witness of the gospel is clear that they are two distinct accounts, with Christ Himself referring to both of them separately (16:8-10). Moved with compassion is used frequently concerning the Lord (20:34; [[MRK.1:41]]; 6:34; [[LUK.7:13]]), showing that His power and authority are extended to those who suffer. A spiritual interpretation given by the Fathers teaches that the five loaves indicate the five books of the Law (Genesis through Deuteronomy), which are broken open in Christ and thus feed the universe. The two fish represent the Gospel Book and the Epistle Book, the teaching of the fishermen. The gathering of the leftovers by the apostles (v. 20) shows that the teachings the faithful are unable to grasp are nevertheless held in the consciousness of the Church."
+      "context": "This miracle, reported by all four evangelists, shows Jesus feeding a great multitude of His people as He fed the Israelites in the desert (see Ex 16). The Church Fathers see in this an image of the Eucharist, an idea made clear in Jn 6. In 15:32-39, another miracle is mentioned in which Jesus feeds four thousand people with seven loaves and a few small fish. While certain modern scholars have attempted to say that these are merely the same story, the witness of the gospel is clear that they are two distinct accounts, with Christ Himself referring to both of them separately (16:8-10). Moved with compassion is used frequently concerning the Lord (20:34; [[MRK.1:41]]; 6:34; [[LUK.7:13]]), showing that His power and authority are extended to those who suffer. A spiritual interpretation given by the Fathers teaches that the five loaves indicate the five books of the Law (Genesis through Deuteronomy), which are broken open in Christ and thus feed the universe. The two fish represent the Gospel Book and the Epistle Book, the teaching of the fishermen. The gathering of the leftovers by the apostles (v. 20) shows that the teachings the faithful are unable to grasp are nevertheless held in the consciousness of the Church.",
+      "edge_type": "witnesses",
+      "topic_threads": [
+        "christology",
+        "eucharist",
+        "israel_church",
+        "mercy",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/NT/MRK_footnotes.md",
       "line_number": 137,
       "raw_match": "[[LUK.7:11]]-17",
       "reference_type": "wikilink_range",
-      "context": "On Christ raising the dead, see note at [[LUK.7:11]]-17."
+      "context": "On Christ raising the dead, see note at [[LUK.7:11]]-17.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology",
+        "mercy",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

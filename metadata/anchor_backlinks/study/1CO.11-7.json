@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "For a man indeed ought not to cover his head, since he is the image and glory of God; but woman is the glory of man.",
   "pericope": {
     "id": "1CO.P026",
@@ -12,7 +12,11 @@
     "range": "1CO.11:1-11:15",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "baptism",
+    "christology",
+    "eucharist"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +24,21 @@
       "line_number": 101,
       "raw_match": "[[1CO.11:7]]",
       "reference_type": "wikilink",
-      "context": "Vineyards and wine (v. 16) symbolize the Eucharist, and clothing (v. 17) points to being clothed with Christ in baptism. As woman is the glory of man ([[1CO.11:7]]), so the Church is the glory of Christ ([[EPH.5:21]])."
+      "context": "Vineyards and wine (v. 16) symbolize the Eucharist, and clothing (v. 17) points to being clothed with Christ in baptism. As woman is the glory of man ([[1CO.11:7]]), so the Church is the glory of Christ ([[EPH.5:21]]).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "baptism",
+        "christology",
+        "eucharist"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

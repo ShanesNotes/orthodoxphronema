@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "But the nation and kingdom, whoever will not put their neck under the yoke of the king of Babylon, I will visit them with the sword and the famine,' says the Lord, 'until they come to an end by his hand.",
   "pericope": {
     "id": "JER.P050",
@@ -12,7 +12,10 @@
     "range": "JER.24:10-38:39",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "kingdom"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 1159,
       "raw_match": "[[JER.34:1]]-11",
       "reference_type": "wikilink_range",
-      "context": "Jesus' yoke is submission to the Kingdom of God. A yoke could be seen as a sign of hardship, burdens, and responsibilities (3Kg 12:1-11; [[JER.34:1]]-11; WSir 40:1), but in Christ, the yoke is easy, for the power of God works in each person. Furthermore, the reward is infinitely greater than any effort man puts forth. Gentle (v. 29) is literally \"meek\" (see note on 5:5). 12:1, 2 The Pharisees are rigid in their legalism. While the Law allowed plucking a few heads of grain in a neighbor's field ([[DEU.23:25]]), they consider it \"reaping\" and therefore unlawful on the Sabbath."
+      "context": "Jesus' yoke is submission to the Kingdom of God. A yoke could be seen as a sign of hardship, burdens, and responsibilities (3Kg 12:1-11; [[JER.34:1]]-11; WSir 40:1), but in Christ, the yoke is easy, for the power of God works in each person. Furthermore, the reward is infinitely greater than any effort man puts forth. Gentle (v. 29) is literally \"meek\" (see note on 5:5). 12:1, 2 The Pharisees are rigid in their legalism. While the Law allowed plucking a few heads of grain in a neighbor's field ([[DEU.23:25]]), they consider it \"reaping\" and therefore unlawful on the Sabbath.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology",
+        "kingdom"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

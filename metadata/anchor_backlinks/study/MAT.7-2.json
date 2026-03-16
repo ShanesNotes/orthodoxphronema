@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "For with what judgment you judge, you will be judged; and with the measure you use, it will be measured back to you.",
   "pericope": {
     "id": "MAT.P016",
@@ -12,7 +12,10 @@
     "range": "MAT.6:34-8:12",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "judgment"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 97,
       "raw_match": "[[MAT.7:2]]",
       "reference_type": "wikilink",
-      "context": "This is a call to attentive listening and discriminating response. We must not only hear, but hear properly. More will be given to those who respond to Christ with open hearts; they will grow in understanding. \"Do the good you know, and what you do not know will be revealed to you\" (MkAsc). See also note at [[MAT.7:2]]."
+      "context": "This is a call to attentive listening and discriminating response. We must not only hear, but hear properly. More will be given to those who respond to Christ with open hearts; they will grow in understanding. \"Do the good you know, and what you do not know will be revealed to you\" (MkAsc). See also note at [[MAT.7:2]].",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology",
+        "judgment"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

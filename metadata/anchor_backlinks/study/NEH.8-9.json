@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Then Nehemiah, who was the governor, Ezra the priest and scribe, and the Levites who taught the people said to all the people, 'This day is holy to the Lord your God; do not mourn nor weep.' For all the people wept when they heard the words of the Law.",
   "pericope": {
     "id": "NEH.P024",
@@ -12,7 +12,11 @@
     "range": "NEH.7:73-13:31",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "logos",
+    "priesthood",
+    "repentance"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +24,21 @@
       "line_number": 321,
       "raw_match": "[[NEH.8:9]]",
       "reference_type": "wikilink",
-      "context": "The Greek word for mourned (pentheo) is also used in the Septuagint to refer to (1) grieving for the dead, and (2) sorrow over unrepentant sinners (see [[NEH.8:9]]; Is 24:4; Dan 10:2; [[AMO.8:8]]). Taken away from among you refers to excommunication."
+      "context": "The Greek word for mourned (pentheo) is also used in the Septuagint to refer to (1) grieving for the dead, and (2) sorrow over unrepentant sinners (see [[NEH.8:9]]; Is 24:4; Dan 10:2; [[AMO.8:8]]). Taken away from among you refers to excommunication.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "logos",
+        "priesthood",
+        "repentance"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

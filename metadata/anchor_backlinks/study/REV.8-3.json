@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Then another angel, having a golden censer, came and stood at the altar. He was given much incense, that he should offer it with the prayers of all the saints upon the golden altar which was before the throne.",
   "pericope": {
     "id": "REV.P021",
@@ -12,7 +12,9 @@
     "range": "REV.7:17-8:5",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "kingdom"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 320,
       "raw_match": "[[REV.8:3]]",
       "reference_type": "wikilink",
-      "context": "The dawning of the eternal day of the Lord will mean that the shadows of sin and death will depart from us forever (see [[REV.21:3]]-5). The mountain of myrrh is likely a reference to the fragrance of God's eternal Kingdom and the presence there of holy incense ([[REV.8:3]], [[REV.8:4]])."
+      "context": "The dawning of the eternal day of the Lord will mean that the shadows of sin and death will depart from us forever (see [[REV.21:3]]-5). The mountain of myrrh is likely a reference to the fragrance of God's eternal Kingdom and the presence there of holy incense ([[REV.8:3]], [[REV.8:4]]).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "kingdom"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

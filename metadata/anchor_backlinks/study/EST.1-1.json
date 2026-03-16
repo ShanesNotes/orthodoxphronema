@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "1a In the second year of the reign of the great King Artaxerxes, on the first day of Nisan, Mordecai, the son of Jair, son of Shimei, the son of Kish, of the tribe of Benjamin, had a dream. 1b He was a Jewish man living in the city of Susa, a great man who served in the court of the king. 1c He was from the captives Nebuchadnezzar the king of Babylon had deported from Jerusalem with Jechoniah the king of Judah. 1d And this was his dream: Behold, there was noise and tumult, thunder and earthquake-confusion on the earth. 1e Two great dragons came forth, both ready for combat. A great roar came forth from them, 1f and at the sound of them, every nation prepared to wage war against the nation of the just. 1g And indeed, it was a day of gloom and of darkness, tribulation and anguish, oppression and great confusion upon the earth. 1h The entire upright nation was troubled, fearing the evils against them; they were prepared to perish, and they cried out to God. 1i And at their cry there came forth, as it were from a small spring, a great river having abundant water. 1j There was light, and the sun rose, and the lowly were exalted, and they devoured the esteemed.",
   "pericope": {
     "id": "EST.P001",
@@ -12,7 +12,9 @@
     "range": "EST.1:1-1:1",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "suffering"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 29,
       "raw_match": "[[EST.1:1]]",
       "reference_type": "wikilink",
-      "context": "The sons of Chaldea are the central power of the alliance that defeats the great army of Arphaxad (1:13). The irony is that these \"sons\" will prove powerless before a \"daughter of the Hebrews\" (10:12). The Euphrates, the Tigris, and the Hydaspes (a river in India) alludes to a large territory ruled by Artaxerxes (see [[EST.1:1]])."
+      "context": "The sons of Chaldea are the central power of the alliance that defeats the great army of Arphaxad (1:13). The irony is that these \"sons\" will prove powerless before a \"daughter of the Hebrews\" (10:12). The Euphrates, the Tigris, and the Hydaspes (a river in India) alludes to a large territory ruled by Artaxerxes (see [[EST.1:1]]).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

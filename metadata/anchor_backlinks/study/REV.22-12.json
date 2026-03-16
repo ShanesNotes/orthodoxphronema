@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "'And behold, I am coming quickly, and My reward is with Me, to give to every one according to his work.",
   "pericope": {
     "id": "REV.P064",
@@ -12,7 +12,9 @@
     "range": "REV.22:8-22:21",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 1187,
       "raw_match": "[[REV.22:12]]",
       "reference_type": "wikilink",
-      "context": "Issachar's name speaks of wages or reward. Christ will bring His reward, to give each one according to his works ([[REV.22:12]])."
+      "context": "Issachar's name speaks of wages or reward. Christ will bring His reward, to give each one according to his works ([[REV.22:12]]).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

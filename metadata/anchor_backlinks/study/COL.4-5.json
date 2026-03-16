@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Walk in wisdom toward those who are outside, redeeming the time.",
   "pericope": {
     "id": "COL.P012",
@@ -12,7 +12,9 @@
     "range": "COL.4:1-4:5",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "wisdom"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 360,
       "raw_match": "[[COL.4:5]]",
       "reference_type": "wikilink",
-      "context": "Those... who are outside is an ancient Semitic expression for those outside the community of God (see WSir, Prologue; [[MRK.4:11]]; [[COL.4:5]]; [[1TH.4:12]]; [[1TI.3:7]])."
+      "context": "Those... who are outside is an ancient Semitic expression for those outside the community of God (see WSir, Prologue; [[MRK.4:11]]; [[COL.4:5]]; [[1TH.4:12]]; [[1TI.3:7]]).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "wisdom"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

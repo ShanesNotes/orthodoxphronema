@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Father will be divided against son and son against father, mother against daughter and daughter against mother, mother-in-law against her daughter-in-law and daughter-in-law against her mother-in-law.'",
   "pericope": {
     "id": "LUK.P062",
@@ -12,7 +12,9 @@
     "range": "LUK.12:48-12:58",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,11 @@
       "line_number": 134,
       "raw_match": "[[LUK.12:53]]",
       "reference_type": "wikilink",
-      "context": "This verse is quoted by Christ in [[MAT.10:35]], [[MAT.10:36]] and [[LUK.12:53]]."
+      "context": "This verse is quoted by Christ in [[MAT.10:35]], [[MAT.10:36]] and [[LUK.12:53]].",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology"
+      ]
     }
   ]
 }

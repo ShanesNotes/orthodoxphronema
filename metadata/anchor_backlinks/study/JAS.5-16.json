@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Confess your trespasses to one another, and pray for one another, that you may be healed. The effective, fervent prayer of a righteous man avails much.",
   "pericope": {
     "id": "JAS.P013",
@@ -12,7 +12,26 @@
     "range": "JAS.5:12-5:17",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "covenant",
+    "creation_theology",
+    "divine_word",
+    "eschatology",
+    "eucharist",
+    "faith",
+    "judgment",
+    "kingdom",
+    "logos",
+    "mercy",
+    "praise",
+    "prayer",
+    "priesthood",
+    "repentance",
+    "shepherd",
+    "suffering",
+    "temple"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,35 +39,128 @@
       "line_number": 20,
       "raw_match": "[[JAS.5:16]]",
       "reference_type": "wikilink",
-      "context": "P erhaps the most misunderstood sacrament of the Christian Church is confession. How did it originate? What role does a priest play? Is there a special procedure for confession? The Scriptures hold answers to these questions. Concerning our sins, God's Word gives a marvelous promise: 'If we confess our sins, He is faithful and just to forgive us our sins and to cleanse us from all unrighteousness' (1:9). The faithful are to bring their sins to God in repentance and receive cleansing and forgiveness. The early Christian community had a specific practice in this regard. People would stand and confess their sins to God in the presence of the whole congregation! Had not Jesus encouraged His followers to walk in the light together, to confront problems corporately, to 'tell it to the church' ([[MAT.18:17]])? Thus, James writes, 'Confess your trespasses to one another' ([[JAS.5:16]]). But as time went on and the Church grew in numbers, strangers came to visit and public confession became more difficult. Out of mercy, priests began to witness confessions of sin privately on behalf of the Church. Jesus gave His disciples the authority to forgive sin. 'If you forgive the sins of any, they are forgiven them; if you retain the sins of any, they are retained' ([[JOH.20:23]]; see also [[MAT.16:19]]). From the beginning, Christians understood that the grace of ordination endowed the shepherd of the flock with the discernment and compassion to speak the words of remission on behalf of Christ regarding the sins of those who confess and turn from sin. For God has promised to remove sin from us 'as far as the east is from the west' ([[PSA.102:12]]). 'You did not choose Me,' Jesus told the Twelve, 'but I chose you and appointed [ordained] you' ([[JOH.15:16]]). To these same disciples He promised, 'It is not you who speak, but the Holy Spirit' ([[MRK.13:11]]). Whom God calls, He equips. Paul writes to Timothy, 'Stir up the gift of God which is in you through the laying on of my hands' ([[2TI.1:6]]). It is the grace of the Holy Spirit that enables the priest to serve God and the people. Thus, the Church has encouraged her faithful: If you know you have committed a specific sin, do not hide it but confess it before coming to the Holy Eucharist. St. Paul wrote, 'Let a man examine himself, and so let him eat of the bread and drink of the cup' ([[1CO.11:28]]), and 'If we would judge ourselves, we would not be judged' ([[1CO.11:31]]). King David learned a lesson regarding his sin that is recorded for our benefit. For about a year, he had hidden his sins of adultery with Bathsheba and the murder of her husband ([[2SA.11:1]]-12:13). Then, confronted by Nathan the prophet, David repented from his heart and confessed his sin in a psalm that is used for general confession to this day (Ps 50). The joy of salvation was restored to him. People ask, 'Can't I confess to God privately?' Certainly, though there is no clear biblical basis for it. Even general confession occurs in the Church. In His mercy, God provides the sacrament of confession (more properly called the sacrament of repentance) to give us deliverance from sin and from what psychologists call denial. It is easy to pray in isolation yet never come clean. It is far more effective to confess aloud to God before a priest and benefit from his guidance and help. Thus, we come before the holy icon of Christ, to whom we confess, and are guided by our spiritual father in a cleansing inventory of our lives. When we tell God all, naming our sins and failures, we hear those glorious words of freedom that announce Christ's promise of forgiveness of all our sins. We resolve to 'go and sin no more' ([[JOH.8:11]])."
+      "context": "P erhaps the most misunderstood sacrament of the Christian Church is confession. How did it originate? What role does a priest play? Is there a special procedure for confession? The Scriptures hold answers to these questions. Concerning our sins, God's Word gives a marvelous promise: 'If we confess our sins, He is faithful and just to forgive us our sins and to cleanse us from all unrighteousness' (1:9). The faithful are to bring their sins to God in repentance and receive cleansing and forgiveness. The early Christian community had a specific practice in this regard. People would stand and confess their sins to God in the presence of the whole congregation! Had not Jesus encouraged His followers to walk in the light together, to confront problems corporately, to 'tell it to the church' ([[MAT.18:17]])? Thus, James writes, 'Confess your trespasses to one another' ([[JAS.5:16]]). But as time went on and the Church grew in numbers, strangers came to visit and public confession became more difficult. Out of mercy, priests began to witness confessions of sin privately on behalf of the Church. Jesus gave His disciples the authority to forgive sin. 'If you forgive the sins of any, they are forgiven them; if you retain the sins of any, they are retained' ([[JOH.20:23]]; see also [[MAT.16:19]]). From the beginning, Christians understood that the grace of ordination endowed the shepherd of the flock with the discernment and compassion to speak the words of remission on behalf of Christ regarding the sins of those who confess and turn from sin. For God has promised to remove sin from us 'as far as the east is from the west' ([[PSA.102:12]]). 'You did not choose Me,' Jesus told the Twelve, 'but I chose you and appointed [ordained] you' ([[JOH.15:16]]). To these same disciples He promised, 'It is not you who speak, but the Holy Spirit' ([[MRK.13:11]]). Whom God calls, He equips. Paul writes to Timothy, 'Stir up the gift of God which is in you through the laying on of my hands' ([[2TI.1:6]]). It is the grace of the Holy Spirit that enables the priest to serve God and the people. Thus, the Church has encouraged her faithful: If you know you have committed a specific sin, do not hide it but confess it before coming to the Holy Eucharist. St. Paul wrote, 'Let a man examine himself, and so let him eat of the bread and drink of the cup' ([[1CO.11:28]]), and 'If we would judge ourselves, we would not be judged' ([[1CO.11:31]]). King David learned a lesson regarding his sin that is recorded for our benefit. For about a year, he had hidden his sins of adultery with Bathsheba and the murder of her husband ([[2SA.11:1]]-12:13). Then, confronted by Nathan the prophet, David repented from his heart and confessed his sin in a psalm that is used for general confession to this day (Ps 50). The joy of salvation was restored to him. People ask, 'Can't I confess to God privately?' Certainly, though there is no clear biblical basis for it. Even general confession occurs in the Church. In His mercy, God provides the sacrament of confession (more properly called the sacrament of repentance) to give us deliverance from sin and from what psychologists call denial. It is easy to pray in isolation yet never come clean. It is far more effective to confess aloud to God before a priest and benefit from his guidance and help. Thus, we come before the holy icon of Christ, to whom we confess, and are guided by our spiritual father in a cleansing inventory of our lives. When we tell God all, naming our sins and failures, we hear those glorious words of freedom that announce Christ's promise of forgiveness of all our sins. We resolve to 'go and sin no more' ([[JOH.8:11]]).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "creation_theology",
+        "eucharist",
+        "logos",
+        "mercy",
+        "praise",
+        "prayer",
+        "priesthood",
+        "repentance",
+        "shepherd",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 10,
+        "title": "Light and Darkness: A Spiritual Perspective",
+        "polarity": "vertical",
+        "operation": "ascend",
+        "scale": "communal"
+      }
     },
     {
       "source_file": "study/footnotes/NT/JOH_footnotes.md",
       "line_number": 269,
       "raw_match": "[[JAS.5:16]]",
       "reference_type": "wikilink",
-      "context": "Here is an example of Mary's gift of intercession. Even now, Mary continually speaks to her Son on our behalf and is our preeminent intercessor before His Throne. This is declared in the words of an Orthodox prayer: \"The intercessions of a mother have great effect to win the favor of the Master.\" This is confirmed as Jesus grants her request here. In this passage, wine is symbolic of life, and thus there are two levels of meaning to Mary's statement, \"They have no wine\": (1) a marriage is not complete without the presence of Christ; and (2) the old covenant was unable to bestow life even on the most faithful people. Contrary to certain modern usages, Woman is a sacred title in Scripture, an address conveying deep respect and distinction (4:21; 8:10; 19:26; 20:13; compare to [[GEN.2:23]]). What does your concern have to do with Me? is more literally, \"What is that to Me and to you?\" This answer is not a refusal of Mary's intercession, but a declaration that the time had not yet come for Christ to be revealed. That Christ fulfills Mary's request teaches several things: (1) Christ is Lord over hours and seasons and is not subject to them. (2) The wedding party needed to be aware of their lack of wine first so that they might learn that it is Christ who fulfills all needs. (3) We need to have perseverance in our petitions before God ([[MAT.15:21]]-28). (4) The intercessions of the righteous have great power ([[JAS.5:16]])."
+      "context": "Here is an example of Mary's gift of intercession. Even now, Mary continually speaks to her Son on our behalf and is our preeminent intercessor before His Throne. This is declared in the words of an Orthodox prayer: \"The intercessions of a mother have great effect to win the favor of the Master.\" This is confirmed as Jesus grants her request here. In this passage, wine is symbolic of life, and thus there are two levels of meaning to Mary's statement, \"They have no wine\": (1) a marriage is not complete without the presence of Christ; and (2) the old covenant was unable to bestow life even on the most faithful people. Contrary to certain modern usages, Woman is a sacred title in Scripture, an address conveying deep respect and distinction (4:21; 8:10; 19:26; 20:13; compare to [[GEN.2:23]]). What does your concern have to do with Me? is more literally, \"What is that to Me and to you?\" This answer is not a refusal of Mary's intercession, but a declaration that the time had not yet come for Christ to be revealed. That Christ fulfills Mary's request teaches several things: (1) Christ is Lord over hours and seasons and is not subject to them. (2) The wedding party needed to be aware of their lack of wine first so that they might learn that it is Christ who fulfills all needs. (3) We need to have perseverance in our petitions before God ([[MAT.15:21]]-28). (4) The intercessions of the righteous have great power ([[JAS.5:16]]).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "covenant",
+        "kingdom",
+        "prayer",
+        "repentance"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/NT/LUK_footnotes.md",
       "line_number": 1555,
       "raw_match": "[[JAS.5:16]]",
       "reference_type": "wikilink",
-      "context": "Some Fathers see this parable being set after the final judgment, citing the punishment and reward being received by the two men respectively. Others see this parable set at a time after death but before the second coming of Christ, as evidenced by the man interceding on behalf of his brothers who are still living. The torment he is experiencing would be but a foretaste of his final state. From this perspective, we learn that souls of the departed have awareness of and concern for the state of those still alive on earth (see 9:30, 31; 2Mc 15:12-16; [[MAT.2:18]]), but also that the intercessions of a wicked man are heard, but avail nothing (contrast [[JAS.5:16]])."
+      "context": "Some Fathers see this parable being set after the final judgment, citing the punishment and reward being received by the two men respectively. Others see this parable set at a time after death but before the second coming of Christ, as evidenced by the man interceding on behalf of his brothers who are still living. The torment he is experiencing would be but a foretaste of his final state. From this perspective, we learn that souls of the departed have awareness of and concern for the state of those still alive on earth (see 9:30, 31; 2Mc 15:12-16; [[MAT.2:18]]), but also that the intercessions of a wicked man are heard, but avail nothing (contrast [[JAS.5:16]]).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology",
+        "eschatology",
+        "judgment",
+        "prayer",
+        "repentance"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/JER_footnotes.md",
       "line_number": 972,
       "raw_match": "[[JAS.5:14]]-16",
       "reference_type": "wikilink_range",
-      "context": "Christ alone brings healing for our wounds. The service of healing is a sacrament in the Church (see [[JAS.5:14]]-16)."
+      "context": "Christ alone brings healing for our wounds. The service of healing is a sacrament in the Church (see [[JAS.5:14]]-16).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology",
+        "prayer",
+        "repentance"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/NEH_footnotes.md",
       "line_number": 173,
       "raw_match": "[[JAS.5:16]]",
       "reference_type": "wikilink",
-      "context": "). 4:1-3 Not only verbal ridicule, but here also armed conspiracy becomes a tool of those opposed to God. 4:7-8 A wonderful picture of synergy--working together with God. Nehemiah strategically positioned men to fight, while promising the people that God will fight for them. 4:10 Judah is the people in general. Note how half played offense, doing the work, and half played defense, protecting the project. 4:13-15 As with these workers, we often need to endure sacrifice and discomfort not only to complete God's work but also to sustain over time the project God gives us to do (12:27, 28). 5:1-5 The great outcry was over grain shortages (vv. 2, 3), having to borrow money to pay the king's tax (v. 4), and having to sell children into slavery (v. 5). 5:7-11 After serious thought shows yet another facet of Nehemiah's brilliant leadership. Not acting impulsively, he prays, plans, and thinks things through before issuing his rebuke. Usury, the charging of interest, is permitted, but not when both parties are Jews (Ex 22-25; Lv 25:35-38). This rebuke, including the touchy issue of slavery (v. 8), worked. The nobles and rulers were speechless. 5:14-15 Typically the governor lived at taxpayer expense, but not Nehemiah. Because of the fear of God he provided for himself, as did St. Paul hundreds of years later ([[1CO.9:1]]- 18), setting a servant example for others. 5:19 Those with a sincere faith in God who act with righteous motives may seek a blessing from Him ([[DEU.28:1]]-14; [[MRK.10:29]], [[MRK.10:30]]). 6:1, 2 The plain of Ono is near Judah's border with Samaria, a two-day journey. In meeting there Nehemiah would not only risk his own life, but would jeopardize the rebuilding of Jerusalem. 6:5 Having previously failed to thwart him, Sanballat delivers an open letter to Jerusalem to discredit Nehemiah and through rumor bring dissension among the faithful. 6:7 The king who would get this report is the King of Persia, Artaxerxes (2:1). 6:9 With great leaders, the more people say the job will not be done, the greater the leaders' resolve becomes. With God's help, Nehemiah's hands only get stronger! 6:10-12 Shemaiah, an apparent prophet whom Tobiah and Sanballat had hired (v. 12), was revealed as a false prophet, for his words were in disobedience to God. The reference leaders' resolve becomes. With God's help, Nehemiah's hands only get stronger! 6:10-12 Shemaiah, an apparent prophet whom Tobiah and Sanballat had hired (v. 12), was revealed as a false prophet, for his words were in disobedience to God. The reference to Noadiah (v. 14) indicates others had been hired as well. 6:15-16 The enemies lost out and God's will prevailed as the wall was finished in just fifty-two days--less than two months! Disheartened, even Sanballat and Tobiah were forced to admit the work was done by... God. 6:17-19 Though defeated, the well-connected Tobiah continued his letters of assault. Jesus called this kind wolves \"in sheep's clothing\" ([[MAT.7:15]]). 7:1-3 With the wall rebuilt, Nehemiah, as governor, appoints his brother Hanani, who feared God, as ruler of Jerusalem. Hananiah became the leader of the citadel (or fortress). This helped ensure the safety and well-being of Jerusalem. 7:6-73 This list of names confirms the remnant Jews who, due to their faithfulness to God and steadfast obedience to the Mosaic Law, were allowed to return to Jerusalem. 8:1 The public proclamation of the Scriptures--the reading and preaching of the Word of God--is essential to the evangelical mission of the Church. The sacrifices were offered only in the temple, but here the message of the Book is heard in the open square. 8:2 This assembly gathered on the first day of the seventh month because it was the Feast of Trumpets, or Jewish New Year. 8:5 All the people stood up for the reading of the Scriptures. To this day in the Orthodox Church the people stand for the reading of the Gospel. 8:6 They bowed their heads: A symbol of humility and reverence in worship. 8:7-8 The foundations of apostolic ministry are found in helping the people to understand the Scriptures and in building them up in the knowledge of the Lord. (See [[ACT.2:37]]-39; 8:30, 31.) 8:10 True feasting includes caring for the poor (see [[EST.9:21]]), those for whom nothing is prepared. 8:14-17 Living in booths is a reminder that the faithful are but sojourners in this world, moving toward a true home in God's kingdom (see Lv 34-42). 8:18 The assembly on the eighth day points us to the Kingdom of heaven. In the Church, the seven-day week reflects God's creation and work in this world, while the eighth day is the day without end, the day beyond this world when all is fulfilled. 9:1-3 Having heard the word of God, the faithful are convicted of their sins and moved to repentance, fasting, confession, and prayer. Note they confessed not privately, but in the midst of those assembled together (see [[JAS.5:16]]). 9:6-38 The prayer of Ezra follows the classic biblical pattern of praise, remembrance of God's works, and petition. This same pattern is followed in the eucharistic prayers of the Divine Liturgy. 9:38 The sure covenant, recorded in ch. 10, is a pledge to \"not neglect the house of our God\" (see 10:39). 10:1 Those who sealed (signed) this covenant to protect God's house were the priests (v. 8). Later (vv. 29, 30) the covenant was accepted by the people. This prefigures the New Covenant of Jesus Christ, affirmed by the apostles and accepted by the Church. 10:29 The curse was an agreement to accept punishment on oneself if the oath was broken. 10:39 The oath or covenant is summed up in the words, we will not neglect the house of our God. 11:1, 2 The majority sent to dwell in other cities could be seen to prefigure the apostles being sent out to evangelize the nations. These may also be understood to image those called to live faithfully in this world, while the blessed minority remaining in Jerusalem signify men and women who can accept the monastic life of serving God in separation from this world. 11:3-21 These inhabitants of Jerusalem are grouped as follows: the laypeople (vv. 3-9); priests (vv. 10-14); Levites (vv. 15-17); and gatekeepers (v. 18). In the Church, there is also a great variety of God's servants ([[1CO.12:4]]-6)."
+      "context": "). 4:1-3 Not only verbal ridicule, but here also armed conspiracy becomes a tool of those opposed to God. 4:7-8 A wonderful picture of synergy--working together with God. Nehemiah strategically positioned men to fight, while promising the people that God will fight for them. 4:10 Judah is the people in general. Note how half played offense, doing the work, and half played defense, protecting the project. 4:13-15 As with these workers, we often need to endure sacrifice and discomfort not only to complete God's work but also to sustain over time the project God gives us to do (12:27, 28). 5:1-5 The great outcry was over grain shortages (vv. 2, 3), having to borrow money to pay the king's tax (v. 4), and having to sell children into slavery (v. 5). 5:7-11 After serious thought shows yet another facet of Nehemiah's brilliant leadership. Not acting impulsively, he prays, plans, and thinks things through before issuing his rebuke. Usury, the charging of interest, is permitted, but not when both parties are Jews (Ex 22-25; Lv 25:35-38). This rebuke, including the touchy issue of slavery (v. 8), worked. The nobles and rulers were speechless. 5:14-15 Typically the governor lived at taxpayer expense, but not Nehemiah. Because of the fear of God he provided for himself, as did St. Paul hundreds of years later ([[1CO.9:1]]- 18), setting a servant example for others. 5:19 Those with a sincere faith in God who act with righteous motives may seek a blessing from Him ([[DEU.28:1]]-14; [[MRK.10:29]], [[MRK.10:30]]). 6:1, 2 The plain of Ono is near Judah's border with Samaria, a two-day journey. In meeting there Nehemiah would not only risk his own life, but would jeopardize the rebuilding of Jerusalem. 6:5 Having previously failed to thwart him, Sanballat delivers an open letter to Jerusalem to discredit Nehemiah and through rumor bring dissension among the faithful. 6:7 The king who would get this report is the King of Persia, Artaxerxes (2:1). 6:9 With great leaders, the more people say the job will not be done, the greater the leaders' resolve becomes. With God's help, Nehemiah's hands only get stronger! 6:10-12 Shemaiah, an apparent prophet whom Tobiah and Sanballat had hired (v. 12), was revealed as a false prophet, for his words were in disobedience to God. The reference leaders' resolve becomes. With God's help, Nehemiah's hands only get stronger! 6:10-12 Shemaiah, an apparent prophet whom Tobiah and Sanballat had hired (v. 12), was revealed as a false prophet, for his words were in disobedience to God. The reference to Noadiah (v. 14) indicates others had been hired as well. 6:15-16 The enemies lost out and God's will prevailed as the wall was finished in just fifty-two days--less than two months! Disheartened, even Sanballat and Tobiah were forced to admit the work was done by... God. 6:17-19 Though defeated, the well-connected Tobiah continued his letters of assault. Jesus called this kind wolves \"in sheep's clothing\" ([[MAT.7:15]]). 7:1-3 With the wall rebuilt, Nehemiah, as governor, appoints his brother Hanani, who feared God, as ruler of Jerusalem. Hananiah became the leader of the citadel (or fortress). This helped ensure the safety and well-being of Jerusalem. 7:6-73 This list of names confirms the remnant Jews who, due to their faithfulness to God and steadfast obedience to the Mosaic Law, were allowed to return to Jerusalem. 8:1 The public proclamation of the Scriptures--the reading and preaching of the Word of God--is essential to the evangelical mission of the Church. The sacrifices were offered only in the temple, but here the message of the Book is heard in the open square. 8:2 This assembly gathered on the first day of the seventh month because it was the Feast of Trumpets, or Jewish New Year. 8:5 All the people stood up for the reading of the Scriptures. To this day in the Orthodox Church the people stand for the reading of the Gospel. 8:6 They bowed their heads: A symbol of humility and reverence in worship. 8:7-8 The foundations of apostolic ministry are found in helping the people to understand the Scriptures and in building them up in the knowledge of the Lord. (See [[ACT.2:37]]-39; 8:30, 31.) 8:10 True feasting includes caring for the poor (see [[EST.9:21]]), those for whom nothing is prepared. 8:14-17 Living in booths is a reminder that the faithful are but sojourners in this world, moving toward a true home in God's kingdom (see Lv 34-42). 8:18 The assembly on the eighth day points us to the Kingdom of heaven. In the Church, the seven-day week reflects God's creation and work in this world, while the eighth day is the day without end, the day beyond this world when all is fulfilled. 9:1-3 Having heard the word of God, the faithful are convicted of their sins and moved to repentance, fasting, confession, and prayer. Note they confessed not privately, but in the midst of those assembled together (see [[JAS.5:16]]). 9:6-38 The prayer of Ezra follows the classic biblical pattern of praise, remembrance of God's works, and petition. This same pattern is followed in the eucharistic prayers of the Divine Liturgy. 9:38 The sure covenant, recorded in ch. 10, is a pledge to \"not neglect the house of our God\" (see 10:39). 10:1 Those who sealed (signed) this covenant to protect God's house were the priests (v. 8). Later (vv. 29, 30) the covenant was accepted by the people. This prefigures the New Covenant of Jesus Christ, affirmed by the apostles and accepted by the Church. 10:29 The curse was an agreement to accept punishment on oneself if the oath was broken. 10:39 The oath or covenant is summed up in the words, we will not neglect the house of our God. 11:1, 2 The majority sent to dwell in other cities could be seen to prefigure the apostles being sent out to evangelize the nations. These may also be understood to image those called to live faithfully in this world, while the blessed minority remaining in Jerusalem signify men and women who can accept the monastic life of serving God in separation from this world. 11:3-21 These inhabitants of Jerusalem are grouped as follows: the laypeople (vv. 3-9); priests (vv. 10-14); Levites (vv. 15-17); and gatekeepers (v. 18). In the Church, there is also a great variety of God's servants ([[1CO.12:4]]-6).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "covenant",
+        "creation_theology",
+        "divine_word",
+        "eucharist",
+        "faith",
+        "kingdom",
+        "logos",
+        "praise",
+        "prayer",
+        "priesthood",
+        "repentance",
+        "shepherd",
+        "temple"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

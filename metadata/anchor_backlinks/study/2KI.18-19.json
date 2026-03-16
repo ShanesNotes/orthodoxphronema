@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Then Rabshakeh said to them, 'Say now to Hezekiah, 'Thus says the great king, the king of Assyria, 'What is this confidence which you trust?",
   "pericope": {
     "id": "2KI.P049",
@@ -20,7 +20,16 @@
       "line_number": 597,
       "raw_match": "[[2KI.18:13]]-20",
       "reference_type": "wikilink_range",
-      "context": "Showing no apparent concern for his people and their posterity, King Hezekiah seems concerned only for peace and righteousness during his own times. 36:1-8 The Fathers agree that the prophet adds these narratives (which are almost identical to [[2KI.18:13]]-20:19) in order to emphasize that his prophecies are from God, as evidenced by their fulfillment in history."
+      "context": "Showing no apparent concern for his people and their posterity, King Hezekiah seems concerned only for peace and righteousness during his own times. 36:1-8 The Fathers agree that the prophet adds these narratives (which are almost identical to [[2KI.18:13]]-20:19) in order to emphasize that his prophecies are from God, as evidenced by their fulfillment in history.",
+      "edge_type": "fulfills",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

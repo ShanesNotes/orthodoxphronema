@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "by a new and living way which He consecrated for us, through the veil, that is, His flesh,",
   "pericope": {
     "id": "HEB.P024",
@@ -12,7 +12,21 @@
     "range": "HEB.10:18-10:23",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "baptism",
+    "christology",
+    "covenant",
+    "divine_word",
+    "eucharist",
+    "faith",
+    "israel_church",
+    "kingdom",
+    "logos",
+    "praise",
+    "suffering",
+    "temple",
+    "wisdom"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,21 +34,70 @@
       "line_number": 52,
       "raw_match": "[[HEB.10:20]]",
       "reference_type": "wikilink",
-      "context": "On Mt. Sinai Moses received not only the Ten Commandments, but also precise and detailed instructions for building the tabernacle-a moveable tent-where God met the assembly of the people Israel ([[EXO.25:1]]-27:21). Consequently, the tabernacle is built according to the divine blueprints ([[EXO.35:4]]-40:33). Here God's Presence, His Glory, will be made manifest through the shining cloud filling the holy place ([[EXO.40:34]]-38). The importance of God's Presence in the tabernacle is apparent in the prayers of the Psalms, which express a longing to be with God, a fervent desire to be in His tabernacle ([[PSA.26:4]]-6; 60:4; 64:4; 83:1-4, 10; see also 22:6; 25:8). Indeed, the Lord promises that at the tabernacle, 'I shall be known to you to speak to you. There I shall give directions to the children of Israel, and I shall be sanctified in My glory' ([[EXO.29:42]]-43; see also [[EZK.37:26]]-28). While the tabernacle is the specific place where God was encountered in Israel, this did not exhaust His Presence, for as Almighty God, He has always been everywhere present, filling all things. Israel's most sacred objects were kept in the ark of the covenant, located in the holy of holies ([[HEB.9:2]]-5). Each object it held was prophetic of Christ: the tablets of the Law inscribed by God ([[EXO.25:15]]) prefigure Christ the Lawgiver; the manna ([[EXO.16:31]]-34) points to Christ as the Bread of Life ([[JOH.6:30]]-58); and Aaron's staff that budded ([[NUM.17:16]]-26) prefigures the life-giving Cross of Christ. Further, the veil separating the holy place from the holy of holies foreshadows the Incarnation ([[HEB.10:19]], [[HEB.10:20]]). The tabernacle as a whole prefigures Christ, the eternal Word of God, who 'became flesh and tabernacled (the usual English translation is 'dwelt') among us' ([[JOH.1:14]]; see also [[COL.2:9]]). St. Gregory of Nyssa observes, 'Moses was earlier instructed by a type in the mystery of the tabernacle, which encompasses the universe. This tabernacle would be Christ, who is the power and the wisdom of God ([[1CO.1:24]]).' The tabernacle also prefigures Mary the Theotokos, whose womb will be the tabernacle in which the Lord will dwell as He takes His flesh from her. On the cross, Jesus offers the ultimate sacrifice of His body, which the New Testament calls 'the greater and more perfect tabernacle not made with hands' ([[HEB.9:11]]). St. John Chrysostom comments that by this greater tabernacle St. Paul 'means the flesh [of Christ]. And well did he say, 'greater and more perfect,' since God the Word and all the power of the Spirit dwell therein.' In time, the moveable tabernacle of the wilderness is superseded by the permanent temple in Jerusalem. The temple, in turn, is superseded by Christ ([[JOH.2:18]]-21) and the Church, which is His Body ([[EPH.1:22]], [[EPH.1:23]]). Moreover, in Baptism every Christian becomes a tabernacle, a dwelling place of the Holy Spirit. As St. Paul exclaims, 'Or do you not know that your body is the temple of the Holy Spirit?' ([[1CO.6:19]]). St. Isaac of Nineveh declares, 'Lord, I give praise to Your holy nature, for You have made my nature a sanctuary for Your hiddenness, a tabernacle for Your Mysteries, a place where You can dwell, and a holy temple for Your divinity.' In his vision of the kingdom of heaven, St. John writes, 'But I saw no temple in it, for the Lord God Almighty and the Lamb are its temple' ([[REV.21:22]]). All earthly types vanish as the redeemed behold God and the Lamb in unmediated glory ([[2PE.1:4]]). The ultimate promise of the tabernacle, the temple and the Church is for God Himself to dwell in each believer forever ([[JOH.14:16]], [[JOH.14:17]], [[JOH.14:23]]; 17:20-23; see also [[REV.3:20]])."
+      "context": "On Mt. Sinai Moses received not only the Ten Commandments, but also precise and detailed instructions for building the tabernacle-a moveable tent-where God met the assembly of the people Israel ([[EXO.25:1]]-27:21). Consequently, the tabernacle is built according to the divine blueprints ([[EXO.35:4]]-40:33). Here God's Presence, His Glory, will be made manifest through the shining cloud filling the holy place ([[EXO.40:34]]-38). The importance of God's Presence in the tabernacle is apparent in the prayers of the Psalms, which express a longing to be with God, a fervent desire to be in His tabernacle ([[PSA.26:4]]-6; 60:4; 64:4; 83:1-4, 10; see also 22:6; 25:8). Indeed, the Lord promises that at the tabernacle, 'I shall be known to you to speak to you. There I shall give directions to the children of Israel, and I shall be sanctified in My glory' ([[EXO.29:42]]-43; see also [[EZK.37:26]]-28). While the tabernacle is the specific place where God was encountered in Israel, this did not exhaust His Presence, for as Almighty God, He has always been everywhere present, filling all things. Israel's most sacred objects were kept in the ark of the covenant, located in the holy of holies ([[HEB.9:2]]-5). Each object it held was prophetic of Christ: the tablets of the Law inscribed by God ([[EXO.25:15]]) prefigure Christ the Lawgiver; the manna ([[EXO.16:31]]-34) points to Christ as the Bread of Life ([[JOH.6:30]]-58); and Aaron's staff that budded ([[NUM.17:16]]-26) prefigures the life-giving Cross of Christ. Further, the veil separating the holy place from the holy of holies foreshadows the Incarnation ([[HEB.10:19]], [[HEB.10:20]]). The tabernacle as a whole prefigures Christ, the eternal Word of God, who 'became flesh and tabernacled (the usual English translation is 'dwelt') among us' ([[JOH.1:14]]; see also [[COL.2:9]]). St. Gregory of Nyssa observes, 'Moses was earlier instructed by a type in the mystery of the tabernacle, which encompasses the universe. This tabernacle would be Christ, who is the power and the wisdom of God ([[1CO.1:24]]).' The tabernacle also prefigures Mary the Theotokos, whose womb will be the tabernacle in which the Lord will dwell as He takes His flesh from her. On the cross, Jesus offers the ultimate sacrifice of His body, which the New Testament calls 'the greater and more perfect tabernacle not made with hands' ([[HEB.9:11]]). St. John Chrysostom comments that by this greater tabernacle St. Paul 'means the flesh [of Christ]. And well did he say, 'greater and more perfect,' since God the Word and all the power of the Spirit dwell therein.' In time, the moveable tabernacle of the wilderness is superseded by the permanent temple in Jerusalem. The temple, in turn, is superseded by Christ ([[JOH.2:18]]-21) and the Church, which is His Body ([[EPH.1:22]], [[EPH.1:23]]). Moreover, in Baptism every Christian becomes a tabernacle, a dwelling place of the Holy Spirit. As St. Paul exclaims, 'Or do you not know that your body is the temple of the Holy Spirit?' ([[1CO.6:19]]). St. Isaac of Nineveh declares, 'Lord, I give praise to Your holy nature, for You have made my nature a sanctuary for Your hiddenness, a tabernacle for Your Mysteries, a place where You can dwell, and a holy temple for Your divinity.' In his vision of the kingdom of heaven, St. John writes, 'But I saw no temple in it, for the Lord God Almighty and the Lamb are its temple' ([[REV.21:22]]). All earthly types vanish as the redeemed behold God and the Lamb in unmediated glory ([[2PE.1:4]]). The ultimate promise of the tabernacle, the temple and the Church is for God Himself to dwell in each believer forever ([[JOH.14:16]], [[JOH.14:17]], [[JOH.14:23]]; 17:20-23; see also [[REV.3:20]]).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "baptism",
+        "christology",
+        "covenant",
+        "divine_word",
+        "faith",
+        "israel_church",
+        "kingdom",
+        "logos",
+        "praise",
+        "suffering",
+        "temple",
+        "wisdom"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/EXO_footnotes.md",
       "line_number": 1024,
       "raw_match": "[[HEB.10:20]]",
       "reference_type": "wikilink",
-      "context": "The veil was a type of the life-giving flesh of Christ ([[HEB.10:20]]; [[JOH.6:51]]). In a mystery, the bread and wine of the Eucharist become the Body and Blood of Christ, which give life to the faithful."
+      "context": "The veil was a type of the life-giving flesh of Christ ([[HEB.10:20]]; [[JOH.6:51]]). In a mystery, the bread and wine of the Eucharist become the Body and Blood of Christ, which give life to the faithful.",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "eucharist"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/NUM_footnotes.md",
       "line_number": 141,
       "raw_match": "[[HEB.10:20]]",
       "reference_type": "wikilink",
-      "context": "The overshadowing veil was a type of the life-giving flesh of Christ ([[HEB.10:20]]). For Christ is God in the flesh; therefore, His holy body and blood give eternal life to those joined in union and communion with Him. In the Divine Liturgy, the Church offers up the bread and wine of the offertory to Him, and He gives these back to the Church as His precious body and blood."
+      "context": "The overshadowing veil was a type of the life-giving flesh of Christ ([[HEB.10:20]]). For Christ is God in the flesh; therefore, His holy body and blood give eternal life to those joined in union and communion with Him. In the Divine Liturgy, the Church offers up the bread and wine of the offertory to Him, and He gives these back to the Church as His precious body and blood.",
+      "edge_type": "echoes",
+      "topic_threads": [
+        "christology",
+        "eucharist"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

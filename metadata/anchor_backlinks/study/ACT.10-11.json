@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "and saw heaven opened and an object like great sheet bound at the four corners, descending to him and let down to the earth.",
   "pericope": {
     "id": "ACT.P034",
@@ -12,7 +12,12 @@
     "range": "ACT.10:8-10:23",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "baptism",
+    "christology",
+    "creation_theology",
+    "judgment"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,21 +25,60 @@
       "line_number": 151,
       "raw_match": "[[ACT.10:11]]-16",
       "reference_type": "wikilink_range",
-      "context": "The men who came from James were probably trying to force the culture of the Jerusalem church on the Gentiles--and they were not necessarily representing James. Jerusalem was Jewish, but to impose that culture on Gentiles was hypocrisy (v. 13). And to mistake culture--any culture--for the gospel is even worse. God had already shown that Jewish dietary laws were obsolete ([[ACT.10:11]]-16), for the law is fulfilled in Christ."
+      "context": "The men who came from James were probably trying to force the culture of the Jerusalem church on the Gentiles--and they were not necessarily representing James. Jerusalem was Jewish, but to impose that culture on Gentiles was hypocrisy (v. 13). And to mistake culture--any culture--for the gospel is even worse. God had already shown that Jewish dietary laws were obsolete ([[ACT.10:11]]-16), for the law is fulfilled in Christ.",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/EZK_footnotes.md",
       "line_number": 115,
       "raw_match": "[[ACT.10:9]]-16",
       "reference_type": "wikilink_range",
-      "context": "Ezekiel lying bound on his side images the death of Christ, the Lamb of God, who bore the acts of unrighteousness of all humanity. 4:12-17 It would have been unthinkable for Ezekiel to carry out this command as first given. The Apostle Peter made a similar protest (see [[ACT.10:9]]-16). But in a striking reverse parallel, Christ made Himself to be sin for our sakes ([[2CO.5:21]]), so that all who waste away in their wrongdoings (v. 17) might partake together of the bread of heaven and the water of eternal life. 5:1-4 The hair and its destruction by fire, sword, and wind all point ultimately to the final judgment (compare [[JOB.1:13]]-22; Is 7:20). The hair sewn into the garment illustrates the faithful remnant who have bound themselves to Christ."
+      "context": "Ezekiel lying bound on his side images the death of Christ, the Lamb of God, who bore the acts of unrighteousness of all humanity. 4:12-17 It would have been unthinkable for Ezekiel to carry out this command as first given. The Apostle Peter made a similar protest (see [[ACT.10:9]]-16). But in a striking reverse parallel, Christ made Himself to be sin for our sakes ([[2CO.5:21]]), so that all who waste away in their wrongdoings (v. 17) might partake together of the bread of heaven and the water of eternal life. 5:1-4 The hair and its destruction by fire, sword, and wind all point ultimately to the final judgment (compare [[JOB.1:13]]-22; Is 7:20). The hair sewn into the garment illustrates the faithful remnant who have bound themselves to Christ.",
+      "edge_type": "opposes",
+      "topic_threads": [
+        "baptism",
+        "christology",
+        "judgment"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/LEV_footnotes.md",
       "line_number": 385,
       "raw_match": "[[ACT.10:9]]-16",
       "reference_type": "wikilink_range",
-      "context": "[[LEV.11:2]]-4, 47: At least two issues relate to the animals: the nature of animals and eating only clean animals. The nature of all animals is good in itself because the Creator is good. He did not create anything evil in itself. This also applies to man, whose nature is good in itself. As [[GEN.1:31]] says, \"Then God saw everything He made, and indeed, it was very good.\" The Lawgiver said that foods going into the stomach cannot defile a man; rather, the evil proceeding from his heart defiles him ([[MRK.7:15]]-23). He said this when the Law of Moses was still in effect. Why then did He declare through Moses that certain animals were clean and others were unclean, and only the clean ones were to be eaten? Whatever various answers may be given, one seems to stand out as especially important: the eating of clean animals forecasts the cleansing of both Jews and Gentiles in baptism to form them into one body, the Church. Peter's vision in [[ACT.10:9]]-16 indicates the inclusion of Gentiles into the Church through baptism: \"The earth, then, this is what the linen sheet denotes, and the wild animals in it are those among the Gentiles, and the command: 'Kill and eat,' denotes that Peter must go to them also; and the linen sheet being let down three times denotes baptism\" (JohnChr)."
+      "context": "[[LEV.11:2]]-4, 47: At least two issues relate to the animals: the nature of animals and eating only clean animals. The nature of all animals is good in itself because the Creator is good. He did not create anything evil in itself. This also applies to man, whose nature is good in itself. As [[GEN.1:31]] says, \"Then God saw everything He made, and indeed, it was very good.\" The Lawgiver said that foods going into the stomach cannot defile a man; rather, the evil proceeding from his heart defiles him ([[MRK.7:15]]-23). He said this when the Law of Moses was still in effect. Why then did He declare through Moses that certain animals were clean and others were unclean, and only the clean ones were to be eaten? Whatever various answers may be given, one seems to stand out as especially important: the eating of clean animals forecasts the cleansing of both Jews and Gentiles in baptism to form them into one body, the Church. Peter's vision in [[ACT.10:9]]-16 indicates the inclusion of Gentiles into the Church through baptism: \"The earth, then, this is what the linen sheet denotes, and the wild animals in it are those among the Gentiles, and the command: 'Kill and eat,' denotes that Peter must go to them also; and the linen sheet being let down three times denotes baptism\" (JohnChr).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "baptism",
+        "creation_theology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

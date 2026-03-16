@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "But as they were loosing the colt, the owners of it said to them, 'Why are you loosing the colt?' The Triumphal Entry",
   "pericope": {
     "id": "LUK.P090",
@@ -12,7 +12,9 @@
     "range": "LUK.19:10-19:43",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 423,
       "raw_match": "[[LUK.19:28]]-38",
       "reference_type": "wikilink_range",
-      "context": ", 10 The Triumphant Entry of Christ into Jerusalem is foretold here (see [[MAT.21:1]]-9; Mk-10; [[LUK.19:28]]-38; [[JOH.12:12]]-19). Matthew and John cite v. 9 ([[MAT.21:5]]; [[JOH.12:15]]). Rather than riding proudly on a warrior's chariot in victory, the Messiah-king rides humbly on a donkey, notes St. Ambrose. Justin Martyr comments, \"Jacob predicted that Christ would ride upon an ass [Gn 49:11] and Zechariah confirmed it.\" He views the unharnessed colt as signifying the Gentiles and the harnessed donkey as symbolizing the Jews. 9:11 The fathers typically see this verse as a reference to Christ's descent into Hades to set the captives free."
+      "context": ", 10 The Triumphant Entry of Christ into Jerusalem is foretold here (see [[MAT.21:1]]-9; Mk-10; [[LUK.19:28]]-38; [[JOH.12:12]]-19). Matthew and John cite v. 9 ([[MAT.21:5]]; [[JOH.12:15]]). Rather than riding proudly on a warrior's chariot in victory, the Messiah-king rides humbly on a donkey, notes St. Ambrose. Justin Martyr comments, \"Jacob predicted that Christ would ride upon an ass [Gn 49:11] and Zechariah confirmed it.\" He views the unharnessed colt as signifying the Gentiles and the harnessed donkey as symbolizing the Jews. 9:11 The fathers typically see this verse as a reference to Christ's descent into Hades to set the captives free.",
+      "edge_type": "descends_to",
+      "topic_threads": [
+        "christology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Be angry, and do not sin; Have remorse upon your beds For what you say in your hearts. (Pause)",
   "pericope": {
     "id": "PSA.P004",
@@ -12,7 +12,10 @@
     "range": "PSA.4:1-4:9",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "creation_theology"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 533,
       "raw_match": "[[PSA.4:5]]",
       "reference_type": "wikilink",
-      "context": "The repeated formula but I say to you is a statement of total, divine authority (7:29). As the Creator of man and the Author of the Law, Christ can speak with this authority. While there is anger which is not sinful ([[PSA.4:5]]; [[MRK.3:5]]), here Jesus forbids sinful anger, identifying it with murder. The council is the supreme legal body among the Jews. Hell (Gr. Gehenna; see 10:28 and note) is the final condition of sinners who resist God's grace."
+      "context": "The repeated formula but I say to you is a statement of total, divine authority (7:29). As the Creator of man and the Author of the Law, Christ can speak with this authority. While there is anger which is not sinful ([[PSA.4:5]]; [[MRK.3:5]]), here Jesus forbids sinful anger, identifying it with murder. The council is the supreme legal body among the Jews. Hell (Gr. Gehenna; see 10:28 and note) is the final condition of sinners who resist God's grace.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology",
+        "creation_theology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

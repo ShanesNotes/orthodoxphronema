@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Then the people complained against Moses, saying, 'What shall we drink?'",
   "pericope": {
     "id": "EXO.P030",
@@ -20,7 +20,16 @@
       "line_number": 1157,
       "raw_match": "[[EXO.15:23]]-25",
       "reference_type": "wikilink_range",
-      "context": "This is a reference to [[EXO.15:23]]-25."
+      "context": "This is a reference to [[EXO.15:23]]-25.",
+      "edge_type": "instantiates",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

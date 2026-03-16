@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Simon the Cananite, and Judas Iscariot, who also betrayed Him.",
   "pericope": {
     "id": "MAT.P027",
@@ -20,7 +20,16 @@
       "line_number": 73,
       "raw_match": "[[MAT.10:1]]-4",
       "reference_type": "wikilink_range",
-      "context": "On the twelve disciples, see note at [[MAT.10:1]]-4."
+      "context": "On the twelve disciples, see note at [[MAT.10:1]]-4.",
+      "edge_type": "instantiates",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 7,
+        "title": "Symbolism and the Spiritual Worldview",
+        "polarity": "luminosity",
+        "operation": "eat",
+        "scale": "individual"
+      }
     }
   ]
 }

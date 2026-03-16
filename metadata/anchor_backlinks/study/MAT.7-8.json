@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "For everyone who asks receives, and he who seeks finds, and to him who knocks it will be opened.",
   "pericope": {
     "id": "MAT.P016",
@@ -12,7 +12,11 @@
     "range": "MAT.6:34-8:12",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "temple",
+    "wisdom"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,14 +24,41 @@
       "line_number": 32,
       "raw_match": "[[MAT.7:8]]",
       "reference_type": "wikilink",
-      "context": "Proverbs is characterized by parables, hidden sayings, wise words and riddles. And as Wisdom gives one discernment regarding these, he is able to understand Wisdom's instruction. Parables are illustrations used to teach the virtues. Christ, the Wisdom of God, also used parables extensively when He taught as recorded in the Four Gospels. Hidden sayings and riddles can only be understood by illumination. Wisdom illuminates those who know and are taught by Him. Wise words are like a door that leads into the inner sanctuary of Wisdom. If Wisdom opens this door to the earnest seeker after the virtues, this seeker will find Wisdom and partake of His virtues (see also [[MAT.7:7]], [[MAT.7:8]].)."
+      "context": "Proverbs is characterized by parables, hidden sayings, wise words and riddles. And as Wisdom gives one discernment regarding these, he is able to understand Wisdom's instruction. Parables are illustrations used to teach the virtues. Christ, the Wisdom of God, also used parables extensively when He taught as recorded in the Four Gospels. Hidden sayings and riddles can only be understood by illumination. Wisdom illuminates those who know and are taught by Him. Wise words are like a door that leads into the inner sanctuary of Wisdom. If Wisdom opens this door to the earnest seeker after the virtues, this seeker will find Wisdom and partake of His virtues (see also [[MAT.7:7]], [[MAT.7:8]].).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology",
+        "temple",
+        "wisdom"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/PRO_footnotes.md",
       "line_number": 1510,
       "raw_match": "[[MAT.7:8]]",
       "reference_type": "wikilink",
-      "context": "Wisdom addresses His son (v. 19), and encourages him to spend time with His words (v. 16). The Book of Proverbs is an example of His words of Holy Scripture. These words are like a door that leads into the inner sanctuary of Wisdom (see also [[MAT.7:7]], [[MAT.7:8]]). If he does this, his thoughts will be directed aright (v. 19). He will also learn to fear the Lord the whole day long (v. 17), and other virtues of Wisdom, such as hope (v. 18), will be like offspring in him."
+      "context": "Wisdom addresses His son (v. 19), and encourages him to spend time with His words (v. 16). The Book of Proverbs is an example of His words of Holy Scripture. These words are like a door that leads into the inner sanctuary of Wisdom (see also [[MAT.7:7]], [[MAT.7:8]]). If he does this, his thoughts will be directed aright (v. 19). He will also learn to fear the Lord the whole day long (v. 17), and other virtues of Wisdom, such as hope (v. 18), will be like offspring in him.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "temple",
+        "wisdom"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

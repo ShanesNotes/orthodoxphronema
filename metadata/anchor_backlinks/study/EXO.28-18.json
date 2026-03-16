@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "The second row shall be a carbuncle, a sapphire, and a jasper;",
   "pericope": {
     "id": "EXO.P059",
@@ -12,7 +12,10 @@
     "range": "EXO.28:14-28:37",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "priesthood"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 1842,
       "raw_match": "[[EXO.28:15]]-21",
       "reference_type": "wikilink_range",
-      "context": "The splendor described is fitting for the place where God will dwell with His people (vv. 3, 7). As the breastplate of the high priest was adorned with twelve jewels corresponding to the twelve tribes ([[EXO.28:15]]-21), so the Church is founded on the twelve precious foundation stones of the apostles (v. 14): Heaven is fundamentally priestly. All who are espoused to Christ, who feast at the wedding supper, and who dwell in the Holy City, are members of the royal priesthood (1:6; 5:10; 20:6; [[1PE.2:9]])."
+      "context": "The splendor described is fitting for the place where God will dwell with His people (vv. 3, 7). As the breastplate of the high priest was adorned with twelve jewels corresponding to the twelve tribes ([[EXO.28:15]]-21), so the Church is founded on the twelve precious foundation stones of the apostles (v. 14): Heaven is fundamentally priestly. All who are espoused to Christ, who feast at the wedding supper, and who dwell in the Holy City, are members of the royal priesthood (1:6; 5:10; 20:6; [[1PE.2:9]]).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology",
+        "priesthood"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

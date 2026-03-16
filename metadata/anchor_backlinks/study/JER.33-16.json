@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Then the rulers and all the people said to the priests and the false prophets, 'The judgment of death is not due this man, for he spoke to us in the name of the Lord our God.'",
   "pericope": {
     "id": "JER.P050",
@@ -12,7 +12,10 @@
     "range": "JER.24:10-38:39",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "judgment",
+    "priesthood"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,14 +23,40 @@
       "line_number": 156,
       "raw_match": "[[JER.33:16]]",
       "reference_type": "wikilink",
-      "context": "He who named you: Scripture does not describe a precise naming of Jerusalem; this refers to the renaming described in 5:4 (see Is 60:14; 62:4; [[JER.33:16]]; [[EZK.48:35]])."
+      "context": "He who named you: Scripture does not describe a precise naming of Jerusalem; this refers to the renaming described in 5:4 (see Is 60:14; 62:4; [[JER.33:16]]; [[EZK.48:35]]).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "judgment",
+        "priesthood"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/LAM_footnotes.md",
       "line_number": 72,
       "raw_match": "[[JER.33:16]]",
       "reference_type": "wikilink",
-      "context": "See [[JER.33:16]] and [[BAR.5:4]]."
+      "context": "See [[JER.33:16]] and [[BAR.5:4]].",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "judgment",
+        "priesthood"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

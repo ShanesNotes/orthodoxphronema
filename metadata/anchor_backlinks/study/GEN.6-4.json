@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Now there were giants on the earth in those days, and also afterward, when the sons of God came in to the daughters of men and they bore children to them. Those were the mighty men of old, men of renown.",
   "pericope": {
     "id": "GEN.P007",
@@ -20,14 +20,32 @@
       "line_number": 132,
       "raw_match": "[[GEN.6:4]]",
       "reference_type": "wikilink",
-      "context": "Giants: See [[GEN.6:4]]; WSir 16:7."
+      "context": "Giants: See [[GEN.6:4]]; WSir 16:7.",
+      "edge_type": "instantiates",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/SIR_footnotes.md",
       "line_number": 288,
       "raw_match": "[[GEN.6:4]]",
       "reference_type": "wikilink",
-      "context": "The ancient giants are mentioned in [[GEN.6:4]]; WSol 14:6; [[BAR.3:26]]; and 3Mc 2:4. They are described as expert men of war, arrogant, insolent, foolish, mighty, and trusting in their own strength. They were destroyed by God in the flood."
+      "context": "The ancient giants are mentioned in [[GEN.6:4]]; WSol 14:6; [[BAR.3:26]]; and 3Mc 2:4. They are described as expert men of war, arrogant, insolent, foolish, mighty, and trusting in their own strength. They were destroyed by God in the flood.",
+      "edge_type": "instantiates",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

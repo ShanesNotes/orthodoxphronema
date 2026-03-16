@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "And he went into all the region around the Jordan, preaching abaptism of repentance for the remission of sins,",
   "pericope": {
     "id": "LUK.P015",
@@ -12,7 +12,10 @@
     "range": "LUK.2:52-3:19",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "baptism",
+    "repentance"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 173,
       "raw_match": "[[LUK.3:3]]",
       "reference_type": "wikilink",
-      "context": "On John's baptism, see notes at [[LUK.3:3]] and 3:16, 17."
+      "context": "On John's baptism, see notes at [[LUK.3:3]] and 3:16, 17.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "baptism",
+        "repentance"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

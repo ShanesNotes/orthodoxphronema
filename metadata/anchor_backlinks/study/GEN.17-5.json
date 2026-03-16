@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "No longer shall your name be called Abram, but your name shall be Abraham; for I have made you a father of many nations.",
   "pericope": {
     "id": "GEN.P022",
@@ -20,7 +20,16 @@
       "line_number": 216,
       "raw_match": "[[GEN.17:5]]",
       "reference_type": "wikilink",
-      "context": "John means \"grace of God.\" By insisting on the name God chose for her son, Elizabeth affirms God has called John to a specific mission (see also 1:31; [[GEN.17:5]], [[GEN.17:15]]; 32:28)."
+      "context": "John means \"grace of God.\" By insisting on the name God chose for her son, Elizabeth affirms God has called John to a specific mission (see also 1:31; [[GEN.17:5]], [[GEN.17:15]]; 32:28).",
+      "edge_type": "instantiates",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

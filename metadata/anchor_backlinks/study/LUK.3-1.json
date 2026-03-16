@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Now in the fifteenth year of the reign of Tiberius Caesar, Pontius Pilate being governor of Judea, Herod being tetrarch of Galilee, his brother Philip tetrarch of Iturea and the region of Trachonitis, and Lysanias tetrarch of Abilene,",
   "pericope": {
     "id": "LUK.P015",
@@ -12,7 +12,11 @@
     "range": "LUK.2:52-3:19",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "judgment",
+    "repentance"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,14 +24,37 @@
       "line_number": 178,
       "raw_match": "[[LUK.3:1]]",
       "reference_type": "wikilink",
-      "context": "Augustus Caesar banished Archelaus for his cruelty in AD 6. This cruelty was revealed as a warning to Joseph; hence the detour to Nazareth (v. 23). This town was in Galilee and was governed by another son of Herod the Great, whose name was Herod Antipas (see [[LUK.3:1]])."
+      "context": "Augustus Caesar banished Archelaus for his cruelty in AD 6. This cruelty was revealed as a warning to Joseph; hence the detour to Nazareth (v. 23). This town was in Galilee and was governed by another son of Herod the Great, whose name was Herod Antipas (see [[LUK.3:1]]).",
+      "edge_type": "instantiates",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/AMO_footnotes.md",
       "line_number": 15,
       "raw_match": "[[LUK.3:1]]",
       "reference_type": "wikilink",
-      "context": "Amos preached repentance during a time of spiritual drought that preceded judgment ([[LUK.3:1]], [[LUK.3:2]]); indeed, Christ's Advent was an earthquake that shook the world ([[MAT.28:2]]), and the coming of the Holy Spirit a judgment by fire (vv. 4, 7, 10, 12, 14; 2:2, 5)."
+      "context": "Amos preached repentance during a time of spiritual drought that preceded judgment ([[LUK.3:1]], [[LUK.3:2]]); indeed, Christ's Advent was an earthquake that shook the world ([[MAT.28:2]]), and the coming of the Holy Spirit a judgment by fire (vv. 4, 7, 10, 12, 14; 2:2, 5).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "judgment",
+        "repentance"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 5,
+        "title": "Heaven and Earth: A Spiritual Perspective",
+        "polarity": "generation",
+        "operation": "inform",
+        "scale": "individual"
+      }
     }
   ]
 }

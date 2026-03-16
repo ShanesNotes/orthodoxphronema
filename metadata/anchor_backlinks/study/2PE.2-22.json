@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "But it has happened to them according to the true proverb: 'A dog returns to his own vomit,' and, 'a sow, having washed, to her wallowing in the mire.'",
   "pericope": {
     "id": "2PE.P009",
@@ -12,7 +12,10 @@
     "range": "2PE.2:22-3:8",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "repentance"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 1934,
       "raw_match": "[[2PE.2:22]]",
       "reference_type": "wikilink",
-      "context": "Keeping the words... of this book refers to repentance, faithfulness, and steadfastness, no matter the circumstances of life. The \"overcomers\" are blessed. 22:8, 9 John repeats his error of attempting to worship the angel (see 19:10). The fact is, even mature Christians and leaders sometimes err. But we press on to change and to continue with Christ. The command to John is, \"Worship God\" (v. 9). The angel affirms John is a brother of the prophets (v. 9). 22:10, 11 The command not to seal the words of the prophecy is a reversal of 10:4 and [[DAN.8:26]]; 12:4, 9. For the time is now, the message is for the contemporary communities John is addressing. Some are unable to repent: those who still persist in their wickedness (see Is 6:9, 10; [[EZK.3:27]]; [[DAN.12:10]]; [[MRK.4:12]]); the righteous are encouraged to be steadfast. 22:12, 13 For the divine titles, see notes on 1:8 (see also 1:17; 2:8; 21:6; Is 41:4; 43:10; 44:6; 48:12). Divine recompense (Is 40:10; [[JER.17:6]]) will be visited on the earth soon (v. 12). 22:14, 15 A clear distinction is drawn between the eternal state of the blessed and that of the damned (see 21:8). Many texts read \"wash their robes\" (see 3:4; 7:14; 16:15) rather than do His commandments. The point is the same: it is the pure in Christ who enter the Kingdom. Dogs (v. 15) refers to the impure ([[DEU.23:18]], [[DEU.23:19]]; [[PHP.3:2]]; [[2PE.2:22]])."
+      "context": "Keeping the words... of this book refers to repentance, faithfulness, and steadfastness, no matter the circumstances of life. The \"overcomers\" are blessed. 22:8, 9 John repeats his error of attempting to worship the angel (see 19:10). The fact is, even mature Christians and leaders sometimes err. But we press on to change and to continue with Christ. The command to John is, \"Worship God\" (v. 9). The angel affirms John is a brother of the prophets (v. 9). 22:10, 11 The command not to seal the words of the prophecy is a reversal of 10:4 and [[DAN.8:26]]; 12:4, 9. For the time is now, the message is for the contemporary communities John is addressing. Some are unable to repent: those who still persist in their wickedness (see Is 6:9, 10; [[EZK.3:27]]; [[DAN.12:10]]; [[MRK.4:12]]); the righteous are encouraged to be steadfast. 22:12, 13 For the divine titles, see notes on 1:8 (see also 1:17; 2:8; 21:6; Is 41:4; 43:10; 44:6; 48:12). Divine recompense (Is 40:10; [[JER.17:6]]) will be visited on the earth soon (v. 12). 22:14, 15 A clear distinction is drawn between the eternal state of the blessed and that of the damned (see 21:8). Many texts read \"wash their robes\" (see 3:4; 7:14; 16:15) rather than do His commandments. The point is the same: it is the pure in Christ who enter the Kingdom. Dogs (v. 15) refers to the impure ([[DEU.23:18]], [[DEU.23:19]]; [[PHP.3:2]]; [[2PE.2:22]]).",
+      "edge_type": "opposes",
+      "topic_threads": [
+        "christology",
+        "repentance"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

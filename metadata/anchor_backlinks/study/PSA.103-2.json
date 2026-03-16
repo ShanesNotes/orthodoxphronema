@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Who cover Yourself with light as with a garment, Who stretch out the heavens like a curtain;",
   "pericope": {
     "id": "PSA.P103",
@@ -12,7 +12,10 @@
     "range": "PSA.103:1-103:35",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "suffering"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,14 +23,36 @@
       "line_number": 159,
       "raw_match": "[[PSA.103:2]]",
       "reference_type": "wikilink",
-      "context": "The Lord of glory demonstrates that the dignity and honor of Jesus is that of God the Father Himself ([[EXO.24:16]]-18). The incarnate Son of God, who clothes Himself \"with light as with a garment\" ([[PSA.103:2]]), stood naked before human judges, receiving blows from hands which He had formed. The Lord of Glory, the Son of the Father, was crucified in His humanity ([[ACT.2:36]]). They crucified God!"
+      "context": "The Lord of glory demonstrates that the dignity and honor of Jesus is that of God the Father Himself ([[EXO.24:16]]-18). The incarnate Son of God, who clothes Himself \"with light as with a garment\" ([[PSA.103:2]]), stood naked before human judges, receiving blows from hands which He had formed. The Lord of Glory, the Son of the Father, was crucified in His humanity ([[ACT.2:36]]). They crucified God!",
+      "edge_type": "descends_to",
+      "topic_threads": [
+        "christology",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 6,
+        "title": "The Universe As a Language",
+        "polarity": "generation",
+        "operation": "descend",
+        "scale": "communal"
+      }
     },
     {
       "source_file": "study/footnotes/NT/REV_footnotes.md",
       "line_number": 1523,
       "raw_match": "[[PSA.103:2]]",
       "reference_type": "wikilink",
-      "context": "As God is light (4:3; [[PSA.103:2]]; [[1TI.6:16]]), so the angel coming down from heaven exudes a lingering radiance (see Moses in [[EXO.34:29]]-35)."
+      "context": "As God is light (4:3; [[PSA.103:2]]; [[1TI.6:16]]), so the angel coming down from heaven exudes a lingering radiance (see Moses in [[EXO.34:29]]-35).",
+      "edge_type": "instantiates",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 6,
+        "title": "The Universe As a Language",
+        "polarity": "generation",
+        "operation": "descend",
+        "scale": "communal"
+      }
     }
   ]
 }

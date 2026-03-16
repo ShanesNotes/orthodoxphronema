@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "And behold, a woman in the city who was a sinner, when she knew that Jesus sat at the table in the Pharisee's house, brought an alabaster flask of fragrant oil,",
   "pericope": {
     "id": "LUK.P033",
@@ -12,7 +12,12 @@
     "range": "LUK.7:35-7:49",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "eschatology",
+    "faith",
+    "repentance",
+    "suffering"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,21 +25,56 @@
       "line_number": 414,
       "raw_match": "[[LUK.7:36]]-38",
       "reference_type": "wikilink_range",
-      "context": "Those who mourn sorrow over the sufferings of this life (9:23), the sufferings of others ([[JOH.11:35]]), the state of the world ([[LUK.19:41]]), and their own sins ([[LUK.7:36]]-38). All of these are comforted by the power of God both in this world and in the age to come. Holy sorrow is part of repentance, conversion, and virtuous action, and is the firstfruit of infinite joy. It is to be distinguished from ungodly sorrow, a sadness that leads to despair (see [[2CO.7:10]])."
+      "context": "Those who mourn sorrow over the sufferings of this life (9:23), the sufferings of others ([[JOH.11:35]]), the state of the world ([[LUK.19:41]]), and their own sins ([[LUK.7:36]]-38). All of these are comforted by the power of God both in this world and in the age to come. Holy sorrow is part of repentance, conversion, and virtuous action, and is the firstfruit of infinite joy. It is to be distinguished from ungodly sorrow, a sadness that leads to despair (see [[2CO.7:10]]).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "eschatology",
+        "repentance",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/NT/MAT_footnotes.md",
       "line_number": 2301,
       "raw_match": "[[LUK.7:36]]-38",
       "reference_type": "wikilink_range",
-      "context": "Because of her fervent faith, Jesus promises perpetual public memory of this woman. There is no consensus among the Fathers as to her identity in relation to accounts of similar events in [[MRK.14:3]]-9; [[LUK.7:36]]-38; and [[JOH.12:1]]-8. Some Fathers say that there were three different women in these four accounts, others that there were only two."
+      "context": "Because of her fervent faith, Jesus promises perpetual public memory of this woman. There is no consensus among the Fathers as to her identity in relation to accounts of similar events in [[MRK.14:3]]-9; [[LUK.7:36]]-38; and [[JOH.12:1]]-8. Some Fathers say that there were three different women in these four accounts, others that there were only two.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "faith"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/SNG_footnotes.md",
       "line_number": 95,
       "raw_match": "[[LUK.7:37]]",
       "reference_type": "wikilink",
-      "context": "This prophetic verse was fulfilled by Mary of Bethany's anointing of the Lord with spikenard for His burial while He was at the table ([[MAT.26:6]], [[MAT.26:7]]; [[MRK.14:3]]; [[LUK.7:37]], [[LUK.7:38]]; Jn 12:3)."
+      "context": "This prophetic verse was fulfilled by Mary of Bethany's anointing of the Lord with spikenard for His burial while He was at the table ([[MAT.26:6]], [[MAT.26:7]]; [[MRK.14:3]]; [[LUK.7:37]], [[LUK.7:38]]; Jn 12:3).",
+      "edge_type": "fulfills",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

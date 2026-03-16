@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "As it is written: 'For Your sake we are killed all day long; We are accounted as sheep for the slaughter.'",
   "pericope": {
     "id": "ROM.P021",
@@ -12,7 +12,12 @@
     "range": "ROM.8:30-8:39",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "praise",
+    "resurrection",
+    "shepherd",
+    "suffering"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +25,22 @@
       "line_number": 532,
       "raw_match": "[[ROM.8:36]]",
       "reference_type": "wikilink",
-      "context": "Ps 43 describes (1) the daily praise and thanksgiving (v. 9) the Church offers God in the midst of sufferings and persecution (vv. 2-17); the steadfastness of the Church in the midst of sufferings and even martyrdom itself (vv. 18-26; see also [[ROM.8:36]]); and (3) the Church's hope in the Lord to be raised from the dead at the general resurrection (v. 27)."
+      "context": "Ps 43 describes (1) the daily praise and thanksgiving (v. 9) the Church offers God in the midst of sufferings and persecution (vv. 2-17); the steadfastness of the Church in the midst of sufferings and even martyrdom itself (vv. 18-26; see also [[ROM.8:36]]); and (3) the Church's hope in the Lord to be raised from the dead at the general resurrection (v. 27).",
+      "edge_type": "ascends_from",
+      "topic_threads": [
+        "praise",
+        "resurrection",
+        "shepherd",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

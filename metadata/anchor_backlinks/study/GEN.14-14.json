@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Now when Abram heard his brother Lot was taken captive, he armed his three hundred and eighteen trained servants, born in his own house, and went in pursuit as far as Dan.",
   "pericope": {
     "id": "GEN.P018",
@@ -12,7 +12,10 @@
     "range": "GEN.13:18-14:15",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "suffering"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 1249,
       "raw_match": "[[GEN.14:14]]",
       "reference_type": "wikilink",
-      "context": "Christ's relatives have not yet understood His identity and mission. He points to a spiritual family based on obedience to the will of My Father (v. 50). In Jewish usage, brother can indicate any number of relations. Abram called his nephew Lot \"brother\" ([[GEN.14:14]]); Boaz spoke of his cousin Elimelech as his \"brother\" (Ru 4:3); and Joab called his cousin Amasa \"brother\" (2Kg 20:9). Christ Himself had no blood brothers, for Mary had but one Son: Jesus. The brothers mentioned here were either stepbrothers, sons of Joseph by a previous marriage, or cousins. Indeed, Jesus commits His mother to the care of John at the Cross ([[JOH.19:25]]-27), which would have been unthinkable if Mary had other children to care for her."
+      "context": "Christ's relatives have not yet understood His identity and mission. He points to a spiritual family based on obedience to the will of My Father (v. 50). In Jewish usage, brother can indicate any number of relations. Abram called his nephew Lot \"brother\" ([[GEN.14:14]]); Boaz spoke of his cousin Elimelech as his \"brother\" (Ru 4:3); and Joab called his cousin Amasa \"brother\" (2Kg 20:9). Christ Himself had no blood brothers, for Mary had but one Son: Jesus. The brothers mentioned here were either stepbrothers, sons of Joseph by a previous marriage, or cousins. Indeed, Jesus commits His mother to the care of John at the Cross ([[JOH.19:25]]-27), which would have been unthinkable if Mary had other children to care for her.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

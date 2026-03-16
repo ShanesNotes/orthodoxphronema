@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "and begins to beat his fellow servants, and to eat and drink with the drunkards,",
   "pericope": {
     "id": "MAT.P078",
@@ -20,7 +20,16 @@
       "line_number": 1219,
       "raw_match": "[[MAT.24:45]]-51",
       "reference_type": "wikilink_range",
-      "context": "See also [[MAT.24:45]]-51. The mark of a true disciple is vigilance in performing the work and exemplifying the virtue of the master."
+      "context": "See also [[MAT.24:45]]-51. The mark of a true disciple is vigilance in performing the work and exemplifying the virtue of the master.",
+      "edge_type": "instantiates",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Now after six days Jesus took Peter, James, and John, and led them up on a high mountain apart by themselves; and He was transfigured before them.",
   "pericope": {
     "id": "MRK.P033",
@@ -12,7 +12,14 @@
     "range": "MRK.9:1-9:28",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "creation_theology",
+    "divine_light",
+    "eschatology",
+    "praise",
+    "theosis"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,14 +27,42 @@
       "line_number": 180,
       "raw_match": "[[MRK.9:2]]-9",
       "reference_type": "wikilink_range",
-      "context": "Made in God's image and likeness, we are fulfilled by becoming like Him, a process called sanctification or deification. Being \"partakers of the divine nature\" ([[2PE.1:4]]), we are \"transformed into the same image from glory to glory\" ([[2CO.3:18]]). When we see Him as He is, in the fullness of His glory at the last day, this process will be supremely magnified. John had seen the foretaste of this glory on the Mount of Transfiguration (Mt 17:1-9; [[MRK.9:2]]-9; [[LUK.9:28]]-36). How shall we see Him? Through our likeness to Him; our human nature will be glorified with the glorified humanity of the Son (see [[COL.3:3]], [[COL.3:4]]) and through a knowledge of all three Persons of the Trinity. (Note Paul's expressions, \"face to face\" and \"with unveiled face\" in [[1CO.13:12]]; [[2CO.3:18]])."
+      "context": "Made in God's image and likeness, we are fulfilled by becoming like Him, a process called sanctification or deification. Being \"partakers of the divine nature\" ([[2PE.1:4]]), we are \"transformed into the same image from glory to glory\" ([[2CO.3:18]]). When we see Him as He is, in the fullness of His glory at the last day, this process will be supremely magnified. John had seen the foretaste of this glory on the Mount of Transfiguration (Mt 17:1-9; [[MRK.9:2]]-9; [[LUK.9:28]]-36). How shall we see Him? Through our likeness to Him; our human nature will be glorified with the glorified humanity of the Son (see [[COL.3:3]], [[COL.3:4]]) and through a knowledge of all three Persons of the Trinity. (Note Paul's expressions, \"face to face\" and \"with unveiled face\" in [[1CO.13:12]]; [[2CO.3:18]]).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "eschatology",
+        "praise",
+        "theosis"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/NT/REV_footnotes.md",
       "line_number": 1871,
       "raw_match": "[[MRK.9:2]]-8",
       "reference_type": "wikilink_range",
-      "context": "The OT prophecies concerning the glorification of Jerusalem are fulfilled in the eternal Kingdom (see Is 60). Created light is unnecessary. For the everlasting Uncreated Light will illumine all ([[PSA.35:10]]) with true and clear vision to see things as they really are. The true Light, the Light of the world ([[JOH.8:12]]), was incarnate ([[JOH.1:9]]), and even while on earth He shone with Uncreated Light ([[MRK.9:2]]-8; [[2PE.1:16]]-18). As prophesied, all the earth will stream to the Holy City to honor it (Is 55:5; [[JER.16:19]]-21; Tb 13:13; see also 1En 10:21; 48:4, 5)--it has no enemies--but only the pure will live within it ([[MAT.5:8]])."
+      "context": "The OT prophecies concerning the glorification of Jerusalem are fulfilled in the eternal Kingdom (see Is 60). Created light is unnecessary. For the everlasting Uncreated Light will illumine all ([[PSA.35:10]]) with true and clear vision to see things as they really are. The true Light, the Light of the world ([[JOH.8:12]]), was incarnate ([[JOH.1:9]]), and even while on earth He shone with Uncreated Light ([[MRK.9:2]]-8; [[2PE.1:16]]-18). As prophesied, all the earth will stream to the Holy City to honor it (Is 55:5; [[JER.16:19]]-21; Tb 13:13; see also 1En 10:21; 48:4, 5)--it has no enemies--but only the pure will live within it ([[MAT.5:8]]).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "creation_theology",
+        "divine_light"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

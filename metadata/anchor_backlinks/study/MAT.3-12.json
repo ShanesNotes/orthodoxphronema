@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "His winnowing fan is in His hand, and He will thoroughly clean out His threshing floor, and gather His wheat into the barn; but He will burn up the chaff with unquenchable fire.'",
   "pericope": {
     "id": "MAT.P007",
@@ -12,7 +12,12 @@
     "range": "MAT.3:12-3:16",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "creation_theology",
+    "judgment",
+    "kingdom"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,14 +25,40 @@
       "line_number": 1268,
       "raw_match": "[[MAT.3:12]]",
       "reference_type": "wikilink",
-      "context": "The Son of Man, royal conqueror (golden crown) and judge (sharp sickle; see [[MAT.3:12]]), appears, seated on a cloud (see [[MRK.13:26]]), and reaps the harvest of the earth, the beginning of the final judgment (see [[MAT.13:24]]-30, 36-43; [[MRK.4:26]]-29)."
+      "context": "The Son of Man, royal conqueror (golden crown) and judge (sharp sickle; see [[MAT.3:12]]), appears, seated on a cloud (see [[MRK.13:26]]), and reaps the harvest of the earth, the beginning of the final judgment (see [[MAT.13:24]]-30, 36-43; [[MRK.4:26]]-29).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology",
+        "creation_theology",
+        "judgment"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/JOB_footnotes.md",
       "line_number": 638,
       "raw_match": "[[MAT.3:12]]",
       "reference_type": "wikilink",
-      "context": "St. Gregory sees in the wild donkey a type of the saints who seek the kingdom of heaven, far removed from earthly cares, and who pay no heed to the blame (v. 7) of the evil one. He sees in the wild ox a type of the proud nations which were tamed by the gospel. The manger is understood to be Holy Scripture, and the ropes are the precepts of discipline in the Church. The seed is the word of preaching ([[MAT.13:3]]), and the threshing floor is the Church itself ([[MAT.3:12]])."
+      "context": "St. Gregory sees in the wild donkey a type of the saints who seek the kingdom of heaven, far removed from earthly cares, and who pay no heed to the blame (v. 7) of the evil one. He sees in the wild ox a type of the proud nations which were tamed by the gospel. The manger is understood to be Holy Scripture, and the ropes are the precepts of discipline in the Church. The seed is the word of preaching ([[MAT.13:3]]), and the threshing floor is the Church itself ([[MAT.3:12]]).",
+      "edge_type": "witnesses",
+      "topic_threads": [
+        "kingdom"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

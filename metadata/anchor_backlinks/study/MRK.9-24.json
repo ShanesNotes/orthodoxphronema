@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Immediately the father of the child cried out and said with tears, 'Lord, I believe; help my unbelief!'",
   "pericope": {
     "id": "MRK.P033",
@@ -12,7 +12,10 @@
     "range": "MRK.9:1-9:28",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "faith"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 957,
       "raw_match": "[[MRK.9:22]]-24",
       "reference_type": "wikilink_range",
-      "context": "While the disciples' faith was incomplete ([[MAT.17:19]], [[MAT.17:20]]), Christ's rebuke is also to the crowds, whose faith was weaker still (see [[MRK.9:22]]-24)."
+      "context": "While the disciples' faith was incomplete ([[MAT.17:19]], [[MAT.17:20]]), Christ's rebuke is also to the crowds, whose faith was weaker still (see [[MRK.9:22]]-24).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology",
+        "faith"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

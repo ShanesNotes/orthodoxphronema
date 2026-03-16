@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "But not even then did their testimony agree.",
   "pericope": {
     "id": "MRK.P055",
@@ -20,7 +20,8 @@
       "line_number": 1504,
       "raw_match": "[[MRK.14:59]]",
       "reference_type": "wikilink",
-      "context": "Compare [[MRK.14:56]], [[MRK.14:59]]."
+      "context": "Compare [[MRK.14:56]], [[MRK.14:59]].",
+      "edge_type": "instantiates"
     }
   ]
 }

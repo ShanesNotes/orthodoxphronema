@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Come now, you who say, 'Today or tomorrow we will go to such and such a city, spend a year there, buy and sell, and make a profit';",
   "pericope": {
     "id": "JAS.P011",
@@ -12,7 +12,11 @@
     "range": "JAS.4:12-4:16",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "exodus_typology",
+    "resurrection"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,14 +24,37 @@
       "line_number": 1124,
       "raw_match": "[[JAS.4:13]]-17",
       "reference_type": "wikilink_range",
-      "context": "God willing underscores Paul's constant reliance on God and the continual submission of his own plans to God's (see [[JAS.4:13]]-17). The coming feast was either Passover, which became the Christian celebration of Christ's Resurrection, or Pentecost, which became the celebration of the descent of the Holy Spirit (see 20:16). Note there was already a budding liturgical \"calendar\" among the apostles, revealing their deep desire to gather in remembrance of the great Christian feasts."
+      "context": "God willing underscores Paul's constant reliance on God and the continual submission of his own plans to God's (see [[JAS.4:13]]-17). The coming feast was either Passover, which became the Christian celebration of Christ's Resurrection, or Pentecost, which became the celebration of the descent of the Holy Spirit (see 20:16). Note there was already a budding liturgical \"calendar\" among the apostles, revealing their deep desire to gather in remembrance of the great Christian feasts.",
+      "edge_type": "echoes",
+      "topic_threads": [
+        "christology",
+        "exodus_typology",
+        "resurrection"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/PRO_footnotes.md",
       "line_number": 1654,
       "raw_match": "[[JAS.4:13]]-16",
       "reference_type": "wikilink_range",
-      "context": "The Lord alone has foreknowledge. Neither men nor angels have foreknowledge. Men and angels, including the devil and his angels, can only guess about the future. Men and angels know the future only if the Lord reveals it to them. Therefore, no one should boast about tomorrow, for no one knows what the next day will bring forth (see also [[JAS.4:13]]-16). Furthermore, one may be dead tomorrow. \"Hold fast then to virtue. For even so, if you depart young, you will depart in safety; if you come to old age, you will reach it safely\" (JohnChr)."
+      "context": "The Lord alone has foreknowledge. Neither men nor angels have foreknowledge. Men and angels, including the devil and his angels, can only guess about the future. Men and angels know the future only if the Lord reveals it to them. Therefore, no one should boast about tomorrow, for no one knows what the next day will bring forth (see also [[JAS.4:13]]-16). Furthermore, one may be dead tomorrow. \"Hold fast then to virtue. For even so, if you depart young, you will depart in safety; if you come to old age, you will reach it safely\" (JohnChr).",
+      "edge_type": "instantiates",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

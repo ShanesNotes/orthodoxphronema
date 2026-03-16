@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Now in the fourth watch of the night Jesus went to them, walking on the sea.",
   "pericope": {
     "id": "MAT.P049",
@@ -12,7 +12,10 @@
     "range": "MAT.14:21-14:35",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "prayer"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 522,
       "raw_match": "[[MAT.14:25]]",
       "reference_type": "wikilink",
-      "context": "Moses accomplished what he did through prayer and as a servant of Christ, but Christ Himself walked on the Sea of Galilee by His own absolute power ([[MAT.14:25]]). Job [[JOB.9:8]] prophesied of Christ, \"who walks on the sea as on firm ground\" (JohnChr)."
+      "context": "Moses accomplished what he did through prayer and as a servant of Christ, but Christ Himself walked on the Sea of Galilee by His own absolute power ([[MAT.14:25]]). Job [[JOB.9:8]] prophesied of Christ, \"who walks on the sea as on firm ground\" (JohnChr).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "prayer"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "For judgment is without mercy to the one who has shown no mercy. Mercy triumphs over judgment.",
   "pericope": {
     "id": "JAS.P006",
@@ -12,7 +12,10 @@
     "range": "JAS.2:13-2:25",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "judgment",
+    "mercy"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 1221,
       "raw_match": "[[JAS.2:13]]",
       "reference_type": "wikilink",
-      "context": "Judgment and mercy are bound together, but by God's grace, \"mercy triumphs over judgment\" ([[JAS.2:13]]). God so loved the world that the Lord Himself saved them. But note how their rebellion grieved His Holy Spirit, causing Him to turn against them."
+      "context": "Judgment and mercy are bound together, but by God's grace, \"mercy triumphs over judgment\" ([[JAS.2:13]]). God so loved the world that the Lord Himself saved them. But note how their rebellion grieved His Holy Spirit, causing Him to turn against them.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "judgment",
+        "mercy"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

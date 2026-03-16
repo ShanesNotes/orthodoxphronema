@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "In that hour Jesus rejoiced in the Spirit and said, 'I thank You, Father, Lord of heaven and earth, that You have hidden these things from the wise and prudent and revealed them to babes. Even so, Father, for so it seemed good in Your sight.",
   "pericope": {
     "id": "LUK.P052",
@@ -12,7 +12,13 @@
     "range": "LUK.9:62-10:23",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "creation_theology",
+    "divine_word",
+    "logos",
+    "wisdom"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +26,23 @@
       "line_number": 91,
       "raw_match": "[[LUK.10:21]]",
       "reference_type": "wikilink",
-      "context": "In this poem of comfort and encouragement, John addresses three stages of Christian growth. (1) Little children are the newly converted (see [[LUK.10:21]]), who see clearly that their sins are forgiven (v. 12) and who know the Father (v. 13). (2) Fathers, the mature in understanding, have known Him who is from the beginning (vv. 13, 14). (3) Young men are those who war against the devil (vv. 13, 14), who are strong (v. 14) and who have the word of God (v. 14) living in them."
+      "context": "In this poem of comfort and encouragement, John addresses three stages of Christian growth. (1) Little children are the newly converted (see [[LUK.10:21]]), who see clearly that their sins are forgiven (v. 12) and who know the Father (v. 13). (2) Fathers, the mature in understanding, have known Him who is from the beginning (vv. 13, 14). (3) Young men are those who war against the devil (vv. 13, 14), who are strong (v. 14) and who have the word of God (v. 14) living in them.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology",
+        "creation_theology",
+        "divine_word",
+        "logos",
+        "wisdom"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Little children, keep yourselves from idols. Amen.",
   "pericope": {
     "id": "1JN.P017",
@@ -20,7 +20,8 @@
       "line_number": 82,
       "raw_match": "[[1JN.5:21]]",
       "reference_type": "wikilink",
-      "context": "The one who is righteous turns from idolatry (see [[1JN.5:21]])."
+      "context": "The one who is righteous turns from idolatry (see [[1JN.5:21]]).",
+      "edge_type": "instantiates"
     }
   ]
 }

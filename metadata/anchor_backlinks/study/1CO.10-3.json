@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "all ate the same spiritual food,",
   "pericope": {
     "id": "1CO.P023",
@@ -12,7 +12,17 @@
     "range": "1CO.9:27-10:12",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "baptism",
+    "christology",
+    "covenant",
+    "exodus_typology",
+    "faith",
+    "judgment",
+    "repentance",
+    "resurrection",
+    "suffering"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,28 +30,88 @@
       "line_number": 39,
       "raw_match": "[[1CO.10:1]]-13",
       "reference_type": "wikilink_range",
-      "context": "The recipients of this letter once knew this (v. 5), the mysteries of the faith, because the totality of that faith had already been delivered to them (v. 3). Jude gives three arresting examples of the danger of departing from truth and righteousness: (1) In the Exodus from Egypt (v. 5), all were saved through the baptism of the Red Sea, but not all responded to their deliverance with ongoing deeds of repentance and godliness ([[NUM.14:26]]-37; see [[1CO.10:1]]-13). The lesson for us as Christians is to keep walking in our union with Christ. (2) The proper domain of the angels is in their likeness and proximity to God. Their own abode is heaven, though they may serve elsewhere. Those who left their proper place are confined far from God, having become bound to spiritual darkness. They await the judgment (see [[2PE.2:4]]), when bonds with God will be demolished forever. The lesson for Christians is that their proper domain is in being children of God by grace, and their own abode is in the one holy Church. (3) The men in the plains around Sodom and Gomorrah lusted after angels because of their sin of immorality and homosexuality ([[GEN.19:1]]-29). The lesson for Christians is to live under God's call to a chaste and pure life."
+      "context": "The recipients of this letter once knew this (v. 5), the mysteries of the faith, because the totality of that faith had already been delivered to them (v. 3). Jude gives three arresting examples of the danger of departing from truth and righteousness: (1) In the Exodus from Egypt (v. 5), all were saved through the baptism of the Red Sea, but not all responded to their deliverance with ongoing deeds of repentance and godliness ([[NUM.14:26]]-37; see [[1CO.10:1]]-13). The lesson for us as Christians is to keep walking in our union with Christ. (2) The proper domain of the angels is in their likeness and proximity to God. Their own abode is heaven, though they may serve elsewhere. Those who left their proper place are confined far from God, having become bound to spiritual darkness. They await the judgment (see [[2PE.2:4]]), when bonds with God will be demolished forever. The lesson for Christians is that their proper domain is in being children of God by grace, and their own abode is in the one holy Church. (3) The men in the plains around Sodom and Gomorrah lusted after angels because of their sin of immorality and homosexuality ([[GEN.19:1]]-29). The lesson for Christians is to live under God's call to a chaste and pure life.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "baptism",
+        "christology",
+        "exodus_typology",
+        "faith",
+        "judgment",
+        "repentance"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/NT/REV_footnotes.md",
       "line_number": 236,
       "raw_match": "[[1CO.10:3]]",
       "reference_type": "wikilink",
-      "context": "The message of the Spirit to the churches is explicitly a message to all Christians. In Hebrew, \"conquering\" and \"saving\" are synonymous: Salvation is victory. He who overcomes does so by participating in Christ's victory, which is salvation. In contrast to the false Nicolaitan sect, \"overcomers\" remain faithful to Christ until the end, in spite of all obstacles. Further, they fulfill the original destiny of man by partaking of the tree of life ([[GEN.2:9]]). To eat of this tree is to receive eternal life (vv. 11, 17, 26; 3:5, 12, 21; 21:7; Jn 16:33; [[2CO.4:7]]-18). The fruit of the tree is the spiritual food of [[1CO.10:3]], the \"medicine of immortality.\" Tree of life is also an allusion to the Cross, upon which all Christians must be co-crucified with Christ ([[GAL.2:20]]), partaking in the death of Christ in order to participate in His Resurrection. The Paradise of God is heaven ([[LUK.23:43]]; [[2CO.12:2]]-4); the city of God, the New Jerusalem (see 21:1-22:5), contrasted to the original earthly paradise."
+      "context": "The message of the Spirit to the churches is explicitly a message to all Christians. In Hebrew, \"conquering\" and \"saving\" are synonymous: Salvation is victory. He who overcomes does so by participating in Christ's victory, which is salvation. In contrast to the false Nicolaitan sect, \"overcomers\" remain faithful to Christ until the end, in spite of all obstacles. Further, they fulfill the original destiny of man by partaking of the tree of life ([[GEN.2:9]]). To eat of this tree is to receive eternal life (vv. 11, 17, 26; 3:5, 12, 21; 21:7; Jn 16:33; [[2CO.4:7]]-18). The fruit of the tree is the spiritual food of [[1CO.10:3]], the \"medicine of immortality.\" Tree of life is also an allusion to the Cross, upon which all Christians must be co-crucified with Christ ([[GAL.2:20]]), partaking in the death of Christ in order to participate in His Resurrection. The Paradise of God is heaven ([[LUK.23:43]]; [[2CO.12:2]]-4); the city of God, the New Jerusalem (see 21:1-22:5), contrasted to the original earthly paradise.",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "resurrection",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 5,
+        "title": "Heaven and Earth: A Spiritual Perspective",
+        "polarity": "generation",
+        "operation": "inform",
+        "scale": "individual"
+      }
     },
     {
       "source_file": "study/footnotes/OT/DEU_footnotes.md",
       "line_number": 767,
       "raw_match": "[[1CO.10:3]]",
       "reference_type": "wikilink",
-      "context": "The rock speaks of Christ, and the oil of the Holy Spirit, and the honey of the spiritual food, for Christ gives us His Holy Spirit ([[1CO.10:3]], [[1CO.10:4]]; [[ROM.8:9]])."
+      "context": "The rock speaks of Christ, and the oil of the Holy Spirit, and the honey of the spiritual food, for Christ gives us His Holy Spirit ([[1CO.10:3]], [[1CO.10:4]]; [[ROM.8:9]]).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 7,
+        "title": "Symbolism and the Spiritual Worldview",
+        "polarity": "luminosity",
+        "operation": "eat",
+        "scale": "individual"
+      }
     },
     {
       "source_file": "study/footnotes/OT/PSA_footnotes.md",
       "line_number": 1284,
       "raw_match": "[[1CO.10:1]]-11",
       "reference_type": "wikilink_range",
-      "context": "Ps 113 speaks of Israel's history in their exodus from Egypt across the Red Sea and the Jordan River into the promised land (vv. 1-11). The lifeless idols of the nations in this land could neither will nor do anything to stop Israel (vv. 12-16). By contrast, the believers in Israel were those who feared the Lord and hoped in Him (vv. 17-26). Therefore, the history of believing Israel was the history of their salvation. More importantly, Israel's exodus from Egypt and crossing the Jordan River speak of Christ's Baptism and our subsequent Christian baptism. For Christian baptism is Christ's Baptism. He was baptized in the Jordan River for our sake. He was also the rock from which we drink the waters of salvation (v. 8; see also [[1CO.10:1]]-11)."
+      "context": "Ps 113 speaks of Israel's history in their exodus from Egypt across the Red Sea and the Jordan River into the promised land (vv. 1-11). The lifeless idols of the nations in this land could neither will nor do anything to stop Israel (vv. 12-16). By contrast, the believers in Israel were those who feared the Lord and hoped in Him (vv. 17-26). Therefore, the history of believing Israel was the history of their salvation. More importantly, Israel's exodus from Egypt and crossing the Jordan River speak of Christ's Baptism and our subsequent Christian baptism. For Christian baptism is Christ's Baptism. He was baptized in the Jordan River for our sake. He was also the rock from which we drink the waters of salvation (v. 8; see also [[1CO.10:1]]-11).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "baptism",
+        "christology",
+        "covenant",
+        "exodus_typology",
+        "faith",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

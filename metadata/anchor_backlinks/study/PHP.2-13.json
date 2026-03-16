@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "for it is God who works in you both to will and to do for His good pleasure.",
   "pericope": {
     "id": "PHP.P006",
@@ -12,7 +12,10 @@
     "range": "PHP.2:11-2:14",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "israel_church",
+    "temple"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 1211,
       "raw_match": "[[PHP.2:13]]",
       "reference_type": "wikilink",
-      "context": ", 3 Great things were accomplished when the children of Israel freely submitted their will to the will of God. Two wills worked in synergy to build the tabernacle--the human will of the people freely willing the same thing as the divine will. Great things are also accomplished in the Church when both wills work in synergy ([[PHP.2:13]])."
+      "context": ", 3 Great things were accomplished when the children of Israel freely submitted their will to the will of God. Two wills worked in synergy to build the tabernacle--the human will of the people freely willing the same thing as the divine will. Great things are also accomplished in the Church when both wills work in synergy ([[PHP.2:13]]).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "israel_church",
+        "temple"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

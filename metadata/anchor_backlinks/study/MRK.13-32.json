@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "'But of that day and hour no one knows, not even the angels in heaven, nor the Son, but only the Father.",
   "pericope": {
     "id": "MRK.P047",
@@ -12,7 +12,10 @@
     "range": "MRK.13:27-13:36",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "faith"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 2174,
       "raw_match": "[[MRK.13:32]]",
       "reference_type": "wikilink",
-      "context": "According to St. John Chrysostom, Christ tells of the angels being unaware of the exact day of His return \"so that men should not seek to learn what angels do not know,\" and to forbid them not only from learning the day, but from even inquiring about it. According to [[MRK.13:32]], and in Chrysostom's Matthew text, Jesus declares that the Son also does not know the day of His own return. Chrysostom teaches this is not to be understood literally, but is a figure of speech meaning that Christ, though He revealed all the signs that will accompany His return, will not reveal the exact day to anyone, and that believers should not be so brazen as to inquire of Him."
+      "context": "According to St. John Chrysostom, Christ tells of the angels being unaware of the exact day of His return \"so that men should not seek to learn what angels do not know,\" and to forbid them not only from learning the day, but from even inquiring about it. According to [[MRK.13:32]], and in Chrysostom's Matthew text, Jesus declares that the Son also does not know the day of His own return. Chrysostom teaches this is not to be understood literally, but is a figure of speech meaning that Christ, though He revealed all the signs that will accompany His return, will not reveal the exact day to anyone, and that believers should not be so brazen as to inquire of Him.",
+      "edge_type": "witnesses",
+      "topic_threads": [
+        "christology",
+        "faith"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "But Philip was found at Azotus. And passing through, he preached in all the cities till he came to Caesarea.",
   "pericope": {
     "id": "ACT.P029",
@@ -12,7 +12,10 @@
     "range": "ACT.8:40-9:17",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "faith",
+    "priesthood"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 489,
       "raw_match": "[[ACT.8:40]]",
       "reference_type": "wikilink",
-      "context": "Daniel smiled: It is indeed very humorous that a king or anyone could believe an idol of clay and bronze could eat (see also v. 19). 1:10-21 How could seventy priests and their families--and a king--indulge in such blatant deception? St. Peter gives the answer concerning the allure of the false teachers: \"Many will follow their destructive ways\" ([[2PE.2:2]]). 1:23-24 In contrast to the clay and bronze statue of Bel, this idol lives, eats, and drinks! 1:26 Likely, the king gave permission because he saw the serpent as an immortal god. 1:33-39 The prophet Habakkuk, for whom the OT book is named, had lived a century earlier. So there would be three miracles here: (1) being carried by the hair, as Ezekiel was ([[EZK.8:3]]); (2) being translated from one place to another, as Philip was ([[ACT.8:39]], [[ACT.8:40]]); and (3) being brought back from the dead, as Moses and Elijah were ([[MAT.17:3]]). 1:40-42 Once again, Daniel is vindicated."
+      "context": "Daniel smiled: It is indeed very humorous that a king or anyone could believe an idol of clay and bronze could eat (see also v. 19). 1:10-21 How could seventy priests and their families--and a king--indulge in such blatant deception? St. Peter gives the answer concerning the allure of the false teachers: \"Many will follow their destructive ways\" ([[2PE.2:2]]). 1:23-24 In contrast to the clay and bronze statue of Bel, this idol lives, eats, and drinks! 1:26 Likely, the king gave permission because he saw the serpent as an immortal god. 1:33-39 The prophet Habakkuk, for whom the OT book is named, had lived a century earlier. So there would be three miracles here: (1) being carried by the hair, as Ezekiel was ([[EZK.8:3]]); (2) being translated from one place to another, as Philip was ([[ACT.8:39]], [[ACT.8:40]]); and (3) being brought back from the dead, as Moses and Elijah were ([[MAT.17:3]]). 1:40-42 Once again, Daniel is vindicated.",
+      "edge_type": "opposes",
+      "topic_threads": [
+        "faith",
+        "priesthood"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

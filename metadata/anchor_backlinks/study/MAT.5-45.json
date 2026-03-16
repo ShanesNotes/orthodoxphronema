@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "that you may be sons of your Father in heaven; for He makes His sun rise on the evil and on the good, and sends rain on the just and on the unjust.",
   "pericope": {
     "id": "MAT.P013",
@@ -12,7 +12,10 @@
     "range": "MAT.5:20-5:47",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "faith"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,14 +23,36 @@
       "line_number": 1618,
       "raw_match": "[[MAT.5:43]]-45",
       "reference_type": "wikilink_range",
-      "context": "The Lord rewards those who love their enemies (see also [[MAT.5:43]]-45; Rom 12:19, 20)."
+      "context": "The Lord rewards those who love their enemies (see also [[MAT.5:43]]-45; Rom 12:19, 20).",
+      "edge_type": "instantiates",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/SIR_footnotes.md",
       "line_number": 204,
       "raw_match": "[[MAT.5:38]]-48",
       "reference_type": "wikilink_range",
-      "context": "These verses reflect the view of ancient societies, including the Hebrews and Greeks, that one should extend grace or do good mainly to one's family or to one who is godly. Few believed in doing good to one's enemies until Jesus Christ strongly taught us to do so (see [[MAT.5:38]]-48; [[LUK.6:27]]-36). St. Paul sums up the Christian view of almsgiving: \"Therefore, as we have opportunity, let us do good to all, especially to those who are of the household of faith\" ([[GAL.6:10]])."
+      "context": "These verses reflect the view of ancient societies, including the Hebrews and Greeks, that one should extend grace or do good mainly to one's family or to one who is godly. Few believed in doing good to one's enemies until Jesus Christ strongly taught us to do so (see [[MAT.5:38]]-48; [[LUK.6:27]]-36). St. Paul sums up the Christian view of almsgiving: \"Therefore, as we have opportunity, let us do good to all, especially to those who are of the household of faith\" ([[GAL.6:10]]).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology",
+        "faith"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

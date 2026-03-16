@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Therefore remember that you, once Gentiles in the flesh-who are called Uncircumcision by what is called the Circumcision made in the flesh by hands-",
   "pericope": {
     "id": "EPH.P005",
@@ -12,7 +12,11 @@
     "range": "EPH.2:10-2:11",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "covenant",
+    "faith"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,14 +24,40 @@
       "line_number": 510,
       "raw_match": "[[EPH.2:11]]-16",
       "reference_type": "wikilink_range",
-      "context": "The seed is first Christ, then His Church ([[GAL.3:16]]; [[ROM.4:16]]). The stars are a type of all the members of His body ([[PHP.2:15]]). Their number is countless, and consists of both Jews and Gentiles ([[EPH.2:11]]-16)."
+      "context": "The seed is first Christ, then His Church ([[GAL.3:16]]; [[ROM.4:16]]). The stars are a type of all the members of His body ([[PHP.2:15]]). Their number is countless, and consists of both Jews and Gentiles ([[EPH.2:11]]-16).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "covenant"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/RUT_footnotes.md",
       "line_number": 82,
       "raw_match": "[[EPH.2:11]]",
       "reference_type": "wikilink",
-      "context": "In humble acceptance of her position as foreigner, Ruth is willing to glean the Jews' leftover grain. The New Testament reminds all Gentile believers to imitate her humility ([[ROM.11:19]]-21; [[EPH.2:11]], [[EPH.2:12]])."
+      "context": "In humble acceptance of her position as foreigner, Ruth is willing to glean the Jews' leftover grain. The New Testament reminds all Gentile believers to imitate her humility ([[ROM.11:19]]-21; [[EPH.2:11]], [[EPH.2:12]]).",
+      "edge_type": "descends_to",
+      "topic_threads": [
+        "covenant",
+        "faith"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

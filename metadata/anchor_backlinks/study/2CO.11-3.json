@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "But I fear, lest somehow, as the serpent deceived Eve by his craftiness, so your minds may be corrupted from the simplicity that is in Christ.",
   "pericope": {
     "id": "2CO.P030",
@@ -12,7 +12,11 @@
     "range": "2CO.10:18-11:5",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "suffering",
+    "theosis"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +24,21 @@
       "line_number": 107,
       "raw_match": "[[2CO.11:3]]",
       "reference_type": "wikilink",
-      "context": "The serpent is the devil ([[2CO.11:3]]; [[REV.12:9]]), and he tempted Eve. He contradicted God's commandment (2:16, 17) by denying death and decay in the grave as the penalty for disobedience (you shall not die by death). He also tempted Eve with the promise of deification (you will be like gods, knowing good and evil). But deification comes through obedience to God, not through disobedience. Nevertheless, Eve was deceived, and thus disobeyed God. She, in turn, gave the fruit to her husband, and he ate. In his disobedience, he willed contrary to the will of God, and thus ate. His free will was the first thing to suffer in the Fall, and thus is the first thing that needs healing in man (JohnDm)."
+      "context": "The serpent is the devil ([[2CO.11:3]]; [[REV.12:9]]), and he tempted Eve. He contradicted God's commandment (2:16, 17) by denying death and decay in the grave as the penalty for disobedience (you shall not die by death). He also tempted Eve with the promise of deification (you will be like gods, knowing good and evil). But deification comes through obedience to God, not through disobedience. Nevertheless, Eve was deceived, and thus disobeyed God. She, in turn, gave the fruit to her husband, and he ate. In his disobedience, he willed contrary to the will of God, and thus ate. His free will was the first thing to suffer in the Fall, and thus is the first thing that needs healing in man (JohnDm).",
+      "edge_type": "ascends_from",
+      "topic_threads": [
+        "christology",
+        "suffering",
+        "theosis"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

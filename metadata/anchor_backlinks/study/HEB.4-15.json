@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "For we do not have a High Priest who cannot sympathize with our weaknesses, but was in all points tempted as we are, yet without sin.",
   "pericope": {
     "id": "HEB.P010",
@@ -12,7 +12,14 @@
     "range": "HEB.4:13-4:15",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "faith",
+    "mercy",
+    "priesthood",
+    "shepherd",
+    "suffering"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,21 +27,63 @@
       "line_number": 1098,
       "raw_match": "[[HEB.4:15]]",
       "reference_type": "wikilink",
-      "context": "As Christ has intimate knowledge of every person, so also true pastors in the Church strive to know their people by name, that is, personally. These pastors endeavor to understand each person's situation and needs, from the greatest to the least, possessing Christlike compassion for each one ([[HEB.4:15]]). In return, the people will respond to a true leader, trusting he is a follower of Christ. \"Where the bishop is present, there the people shall gather\" (IgnAnt). Indeed, the response of the faithful can be a better indicator of who is a true shepherd than the claims of leaders (7:47-49)."
+      "context": "As Christ has intimate knowledge of every person, so also true pastors in the Church strive to know their people by name, that is, personally. These pastors endeavor to understand each person's situation and needs, from the greatest to the least, possessing Christlike compassion for each one ([[HEB.4:15]]). In return, the people will respond to a true leader, trusting he is a follower of Christ. \"Where the bishop is present, there the people shall gather\" (IgnAnt). Indeed, the response of the faithful can be a better indicator of who is a true shepherd than the claims of leaders (7:47-49).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology",
+        "mercy",
+        "priesthood",
+        "shepherd",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/ISA_footnotes.md",
       "line_number": 954,
       "raw_match": "[[HEB.4:15]]",
       "reference_type": "wikilink",
-      "context": "He committed no lawlessness: See [[HEB.4:15]]."
+      "context": "He committed no lawlessness: See [[HEB.4:15]].",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "priesthood"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 6,
+        "title": "The Universe As a Language",
+        "polarity": "generation",
+        "operation": "descend",
+        "scale": "communal"
+      }
     },
     {
       "source_file": "study/footnotes/OT/JOB_footnotes.md",
       "line_number": 20,
       "raw_match": "[[HEB.4:15]]",
       "reference_type": "wikilink",
-      "context": "Job was originally called Jobab (42:19). Thanks to the LXX text he is no longer the mystery man \"from the land of Uz.\" He is from the land of Ausitis, which was located on the borders of Edom and Arabia (42:19). He is also a descendant of Abraham through Esau, and his first wife was an Arab (42:20). This makes him a Gentile, and Esau the unbeliever was his forefather. St. John Chrysostom, quoting [[ECC.7:21]], notes that the text qualifies Job as blameless, that is, \"just,\" but that it did not say, \"without sin.\" Only Christ was without sin ([[HEB.4:15]])."
+      "context": "Job was originally called Jobab (42:19). Thanks to the LXX text he is no longer the mystery man \"from the land of Uz.\" He is from the land of Ausitis, which was located on the borders of Edom and Arabia (42:19). He is also a descendant of Abraham through Esau, and his first wife was an Arab (42:20). This makes him a Gentile, and Esau the unbeliever was his forefather. St. John Chrysostom, quoting [[ECC.7:21]], notes that the text qualifies Job as blameless, that is, \"just,\" but that it did not say, \"without sin.\" Only Christ was without sin ([[HEB.4:15]]).",
+      "edge_type": "descends_to",
+      "topic_threads": [
+        "christology",
+        "faith",
+        "priesthood"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

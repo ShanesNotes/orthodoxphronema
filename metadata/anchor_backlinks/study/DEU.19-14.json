@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "'You shall not remove your neighbor's boundaries your fathers established in your inheritance, which you will inherit in the land the Lord your God gives you as an inheritance.",
   "pericope": {
     "id": "DEU.P042",
@@ -20,7 +20,16 @@
       "line_number": 162,
       "raw_match": "[[DEU.19:14]]",
       "reference_type": "wikilink",
-      "context": "The princes of Judah, the military leaders, are guilty of moving the boundaries. This may be an allusion to the Judean advance into the Benjamite territory in 733 BC. But Judah's princes do not stop at Benjamin; they begin to pluck portions out of the Ephraimite territory, which never belonged to the Southern Kingdom. This wrongdoing is compared with the crime of those who move the boundary markers ([[DEU.19:14]]; 27:17; Pr 22:30)."
+      "context": "The princes of Judah, the military leaders, are guilty of moving the boundaries. This may be an allusion to the Judean advance into the Benjamite territory in 733 BC. But Judah's princes do not stop at Benjamin; they begin to pluck portions out of the Ephraimite territory, which never belonged to the Southern Kingdom. This wrongdoing is compared with the crime of those who move the boundary markers ([[DEU.19:14]]; 27:17; Pr 22:30).",
+      "edge_type": "instantiates",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

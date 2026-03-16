@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "not to all the people, but to witnesses chosen before by God, even to us who ate and drank with Him after He arose from the dead.",
   "pericope": {
     "id": "ACT.P035",
@@ -12,7 +12,14 @@
     "range": "ACT.10:24-10:42",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "baptism",
+    "christology",
+    "exodus_typology",
+    "faith",
+    "kingdom",
+    "resurrection"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,14 +27,42 @@
       "line_number": 74,
       "raw_match": "[[ACT.10:39]]-43",
       "reference_type": "wikilink_range",
-      "context": "Peter knew by experience the failure to perceive the truth until he saw it with his eyes (see [[LUK.24:8]]-12; [[ACT.10:39]]-43). Here he addresses those who believe Him whom they have not seen. This is the faith of baptism and the faith of eternal life."
+      "context": "Peter knew by experience the failure to perceive the truth until he saw it with his eyes (see [[LUK.24:8]]-12; [[ACT.10:39]]-43). Here he addresses those who believe Him whom they have not seen. This is the faith of baptism and the faith of eternal life.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "baptism",
+        "faith"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/NT/LUK_footnotes.md",
       "line_number": 1821,
       "raw_match": "[[ACT.10:41]]",
       "reference_type": "wikilink",
-      "context": "This first cup concludes the OT Passover meal Christ eats with His disciples to fulfill the Law. Until the kingdom of God comes means until Christ's Resurrection; at that time He will again eat and drink with His disciples (24:43; [[ACT.10:41]])."
+      "context": "This first cup concludes the OT Passover meal Christ eats with His disciples to fulfill the Law. Until the kingdom of God comes means until Christ's Resurrection; at that time He will again eat and drink with His disciples (24:43; [[ACT.10:41]]).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "exodus_typology",
+        "kingdom",
+        "resurrection"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

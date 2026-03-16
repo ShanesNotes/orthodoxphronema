@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Again the high priest asked Him, saying to Him, 'Are You the Christ, the Son of the Blessed?' Jesus said, 'I am. And you will see the Son of Man sitting at the right hand of the Power, and coming with the clouds of heaven.'",
   "pericope": {
     "id": "MRK.P055",
@@ -12,7 +12,10 @@
     "range": "MRK.14:52-14:64",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "priesthood"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 480,
       "raw_match": "[[MRK.14:62]]",
       "reference_type": "wikilink",
-      "context": "I who speak to you am He is literally translated \"I AM [Gr. ego eimi], who speak to you.\" \"I AM\" is the divine Name of God; its use indicates a theophany, or revelation of God Himself. The use of this Name by a mere man was considered blasphemy and punishable by death (see 8:58; [[MRK.14:62]]). However, as Jesus is divine, His use of this Name reveals His unity with the Father and the Holy Spirit; indeed, He is God Incarnate."
+      "context": "I who speak to you am He is literally translated \"I AM [Gr. ego eimi], who speak to you.\" \"I AM\" is the divine Name of God; its use indicates a theophany, or revelation of God Himself. The use of this Name by a mere man was considered blasphemy and punishable by death (see 8:58; [[MRK.14:62]]). However, as Jesus is divine, His use of this Name reveals His unity with the Father and the Holy Spirit; indeed, He is God Incarnate.",
+      "edge_type": "echoes",
+      "topic_threads": [
+        "christology",
+        "priesthood"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

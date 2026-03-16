@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "The Lord says, 'So if these people, or a prophet, or a priest, ask you, saying, 'What is the burden of the Lord?' you shall then say to them, 'You are the burden, and I will strike you down.'",
   "pericope": {
     "id": "JER.P048",
@@ -12,7 +12,10 @@
     "range": "JER.23:8-23:41",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "judgment",
+    "priesthood"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 16,
       "raw_match": "[[JER.23:33]]",
       "reference_type": "wikilink",
-      "context": "Prophets frequently describe prophetic oracles as \"burdens\" (Heb. massa I: \"burden, carrying\" and massa II: \"pronouncement, prophecy,\" both deriving from a verbal root nasa, \"to carry\") from the Lord, possibly because the oracles nearly always spell out heavy judgment from God ([[JER.23:33]]). In contrast, Jesus describes his burden as \"light\" (Mt 11:30). John says that because of all God's love has done for us, keeping His commandments is not burdensome ([[1JN.5:3]])."
+      "context": "Prophets frequently describe prophetic oracles as \"burdens\" (Heb. massa I: \"burden, carrying\" and massa II: \"pronouncement, prophecy,\" both deriving from a verbal root nasa, \"to carry\") from the Lord, possibly because the oracles nearly always spell out heavy judgment from God ([[JER.23:33]]). In contrast, Jesus describes his burden as \"light\" (Mt 11:30). John says that because of all God's love has done for us, keeping His commandments is not burdensome ([[1JN.5:3]]).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "judgment",
+        "priesthood"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

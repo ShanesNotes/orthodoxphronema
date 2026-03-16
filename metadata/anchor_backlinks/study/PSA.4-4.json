@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Know that the Lord made His Holy One wondrous; The Lord will hear me when I cry to Him.",
   "pericope": {
     "id": "PSA.P004",
@@ -12,7 +12,9 @@
     "range": "PSA.4:1-4:9",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 60,
       "raw_match": "[[PSA.4:4]]",
       "reference_type": "wikilink",
-      "context": "Righteous anger is a natural human emotion experienced in the face of sin. While there is anger that is certainly sinful ([[MAT.5:22]]), there is also anger that is God-given and proper to humanity ([[PSA.4:4]]). Christ's anger here is in response to people professing God, yet having such hardness in their hearts that they could not rejoice in the healing of one of their brothers."
+      "context": "Righteous anger is a natural human emotion experienced in the face of sin. While there is anger that is certainly sinful ([[MAT.5:22]]), there is also anger that is God-given and proper to humanity ([[PSA.4:4]]). Christ's anger here is in response to people professing God, yet having such hardness in their hearts that they could not rejoice in the healing of one of their brothers.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

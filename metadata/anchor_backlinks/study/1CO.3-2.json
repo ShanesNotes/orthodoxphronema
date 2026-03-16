@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "I fed you with milk and not with solid food; for until now you were not able to receive it, and even now you are still not able;",
   "pericope": {
     "id": "1CO.P008",
@@ -12,7 +12,12 @@
     "range": "1CO.2:5-3:3",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "baptism",
+    "christology",
+    "logos",
+    "repentance"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,14 +25,40 @@
       "line_number": 137,
       "raw_match": "[[1CO.3:2]]",
       "reference_type": "wikilink",
-      "context": "The pure milk of the word is apostolic doctrine ([[ACT.2:42]]), the basic teaching of the Church--both written (1:10-12) and spoken (1:25). These lead us to the meat of the word ([[1CO.3:2]]), the sacraments of the Church, and continual growth in the Christian life. We have tasted that the Lord is gracious and should long for this spiritual nourishment."
+      "context": "The pure milk of the word is apostolic doctrine ([[ACT.2:42]]), the basic teaching of the Church--both written (1:10-12) and spoken (1:25). These lead us to the meat of the word ([[1CO.3:2]]), the sacraments of the Church, and continual growth in the Christian life. We have tasted that the Lord is gracious and should long for this spiritual nourishment.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology",
+        "logos"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/SNG_footnotes.md",
       "line_number": 290,
       "raw_match": "[[1CO.3:2]]",
       "reference_type": "wikilink",
-      "context": "The bride's teeth, made clean by washing (baptism and repentance), are the gateway to receiving nourishment, the meat or \"solid food\" of the Word ([[1CO.3:2]]). The bride is fruitful, bearing twins."
+      "context": "The bride's teeth, made clean by washing (baptism and repentance), are the gateway to receiving nourishment, the meat or \"solid food\" of the Word ([[1CO.3:2]]). The bride is fruitful, bearing twins.",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "baptism",
+        "repentance"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

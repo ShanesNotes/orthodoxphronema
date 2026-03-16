@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Where is the wise? Where is the scribe? Where is the disputer of this age? Has not God made foolish the wisdom of this world?",
   "pericope": {
     "id": "1CO.P007",
@@ -12,7 +12,9 @@
     "range": "1CO.1:13-2:4",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "wisdom"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 1829,
       "raw_match": "[[1CO.1:20]]",
       "reference_type": "wikilink",
-      "context": "One cannot know God through worldly wisdom, which God considers foolishness (see also [[1CO.1:20]], [[1CO.1:21]])."
+      "context": "One cannot know God through worldly wisdom, which God considers foolishness (see also [[1CO.1:20]], [[1CO.1:21]]).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "wisdom"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "And besides all this, between us and you there is great gulf fixed, so that those who want to pass from here to you cannot, nor can those from there pass to us.'",
   "pericope": {
     "id": "LUK.P078",
@@ -12,7 +12,17 @@
     "range": "LUK.16:18-16:30",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "creation_theology",
+    "eschatology",
+    "faith",
+    "judgment",
+    "logos",
+    "mercy",
+    "praise",
+    "prayer"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,21 +30,62 @@
       "line_number": 2212,
       "raw_match": "[[LUK.16:26]]",
       "reference_type": "wikilink",
-      "context": "This parable illustrates the need for being spiritually prepared while the bridegroom--Christ--is delayed in His return (v. 5). The Kingdom is often portrayed as a marriage (see 22:1-14 and note) between Christ and His Church. The marriage will be consummated at the end of the age when the Bridegroom returns to escort His Bride--the Church--into the eternal wedding banquet. This parable is primarily about the virtue of charity and almsgiving, as oil and \"mercy\" have the same root in Greek. The wise virgins are those who practice charity and mercy in this life, while the foolish are those who squander God's gifts on themselves. The fact that all the virgins slumbered and slept indicates death: in this world the virtuous will die alongside the wicked. The cry at midnight indicates the Second Coming, when the wicked will arise with the righteous for judgment. The inability of the righteous to share their oil is not to be interpreted as a lack of generosity. Rather, it is an illustration of (1) the impossibility of entering heaven without one's own faith and virtue, and (2) the impossibility of changing one's state of virtue after death (see [[LUK.16:26]]). The themes of this parable and the one before it (24:45-51) are woven together in the liturgical hymns of Holy Week, particularly in the troparion hymn for Holy Monday, Tuesday, and Wednesday, which begins, \"Behold, the Bridegroom comes at midnight, and blessed is the servant whom He shall find watching.\""
+      "context": "This parable illustrates the need for being spiritually prepared while the bridegroom--Christ--is delayed in His return (v. 5). The Kingdom is often portrayed as a marriage (see 22:1-14 and note) between Christ and His Church. The marriage will be consummated at the end of the age when the Bridegroom returns to escort His Bride--the Church--into the eternal wedding banquet. This parable is primarily about the virtue of charity and almsgiving, as oil and \"mercy\" have the same root in Greek. The wise virgins are those who practice charity and mercy in this life, while the foolish are those who squander God's gifts on themselves. The fact that all the virgins slumbered and slept indicates death: in this world the virtuous will die alongside the wicked. The cry at midnight indicates the Second Coming, when the wicked will arise with the righteous for judgment. The inability of the righteous to share their oil is not to be interpreted as a lack of generosity. Rather, it is an illustration of (1) the impossibility of entering heaven without one's own faith and virtue, and (2) the impossibility of changing one's state of virtue after death (see [[LUK.16:26]]). The themes of this parable and the one before it (24:45-51) are woven together in the liturgical hymns of Holy Week, particularly in the troparion hymn for Holy Monday, Tuesday, and Wednesday, which begins, \"Behold, the Bridegroom comes at midnight, and blessed is the servant whom He shall find watching.\"",
+      "edge_type": "echoes",
+      "topic_threads": [
+        "christology",
+        "eschatology",
+        "faith",
+        "judgment",
+        "mercy",
+        "praise"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/1SA_footnotes.md",
       "line_number": 543,
       "raw_match": "[[LUK.16:26]]",
       "reference_type": "wikilink",
-      "context": "This passage created great controversy among the Fathers of the Church. In fact, at least three distinct interpretations can be found. 1. The woman called Samuel forth from the dead (Justin Martyr, Origen, Ambrose, and Augustine). 2. Whether it was Samuel or a demon, it appeared at God's bidding and not by some magic of the woman (Chrysostom, Theodoret). 3. The entity was a demon who deceived Saul and gave him a false prophecy (Tertullian, Hippolytus, Ephrem the Syrian, Evagrius, Basil, Jerome, Ambrosiaster, & Gregory of Nyssa). The third interpretation seems to be held by the greatest number of Fathers, and Gregory of Nyssa wrote a specific treatise on the subject. He defends this view by citing the impassible chasm in the Lazarus parable ([[LUK.16:26]]). The apparition appeared only to the woman; she told Saul whom it resembled. The Greek word translated medium in this passage is literally the word for \"ventriloquist.\" Also, Saul had been plagued by evil spirits for years and was easily deceived by them."
+      "context": "This passage created great controversy among the Fathers of the Church. In fact, at least three distinct interpretations can be found. 1. The woman called Samuel forth from the dead (Justin Martyr, Origen, Ambrose, and Augustine). 2. Whether it was Samuel or a demon, it appeared at God's bidding and not by some magic of the woman (Chrysostom, Theodoret). 3. The entity was a demon who deceived Saul and gave him a false prophecy (Tertullian, Hippolytus, Ephrem the Syrian, Evagrius, Basil, Jerome, Ambrosiaster, & Gregory of Nyssa). The third interpretation seems to be held by the greatest number of Fathers, and Gregory of Nyssa wrote a specific treatise on the subject. He defends this view by citing the impassible chasm in the Lazarus parable ([[LUK.16:26]]). The apparition appeared only to the woman; she told Saul whom it resembled. The Greek word translated medium in this passage is literally the word for \"ventriloquist.\" Also, Saul had been plagued by evil spirits for years and was easily deceived by them.",
+      "edge_type": "witnesses",
+      "topic_threads": [
+        "creation_theology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/BAR_footnotes.md",
       "line_number": 105,
       "raw_match": "[[LUK.16:22]]-31",
       "reference_type": "wikilink_range",
-      "context": "The prayer of the dead of Israel suggests the intercessions of the departed saints with the Lord (see [[LUK.16:22]]-31)."
+      "context": "The prayer of the dead of Israel suggests the intercessions of the departed saints with the Lord (see [[LUK.16:22]]-31).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "prayer"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "'And to the angel of the church in Thyatira write, 'These things says the Son of God, who has eyes like a flame of fire, and His feet like fine brass:",
   "pericope": {
     "id": "REV.P007",
@@ -12,7 +12,10 @@
     "range": "REV.2:17-3:5",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "suffering"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 351,
       "raw_match": "[[REV.2:18]]",
       "reference_type": "wikilink",
-      "context": "Nathan's prophecy of strife and struggle in David's house (12:10) begins to unfold with incest, fratricide, and rebellion. David's family and the kingdom will be afflicted for the rest of his days--and beyond--because of his sins of adultery and murder. The unholy conduct of leaders, as well as of parents, produces unholiness in the nation or the family. The sins of a father or mother can thus be visited upon their descendants. For those in spiritual leadership, this can be the case for their spiritual children (see 1Ti 3; [[REV.2:18]]ff). 13:1-6 God's punishment of David for his sins (12:7) now begins to unfold. David's son Amnon falls in love with his half-sister Tamar. She is the full sister of Absalom. Jonadab, their cousin, advises Amnon to pretend to be ill in order to have Tamar come and cook for him."
+      "context": "Nathan's prophecy of strife and struggle in David's house (12:10) begins to unfold with incest, fratricide, and rebellion. David's family and the kingdom will be afflicted for the rest of his days--and beyond--because of his sins of adultery and murder. The unholy conduct of leaders, as well as of parents, produces unholiness in the nation or the family. The sins of a father or mother can thus be visited upon their descendants. For those in spiritual leadership, this can be the case for their spiritual children (see 1Ti 3; [[REV.2:18]]ff). 13:1-6 God's punishment of David for his sins (12:7) now begins to unfold. David's son Amnon falls in love with his half-sister Tamar. She is the full sister of Absalom. Jonadab, their cousin, advises Amnon to pretend to be ill in order to have Tamar come and cook for him.",
+      "edge_type": "descends_to",
+      "topic_threads": [
+        "christology",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "I shall deliver you into their hands, and they will demolish your house of prostitution and destroy your high place. They will strip you of your clothes, take your proud jewelry, and leave you naked and in disgrace.",
   "pericope": {
     "id": "EZK.P019",
@@ -12,7 +12,10 @@
     "range": "EZK.16:30-16:57",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "creation_theology",
+    "faith"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,14 +23,38 @@
       "line_number": 427,
       "raw_match": "[[EZK.16:39]]",
       "reference_type": "wikilink",
-      "context": "To flee naked is a great shame and humiliation ([[EZK.16:39]]; [[AMO.2:16]]). Some teach this young man was James, the brother of the Lord ([[GAL.1:19]]), while others say that it was the apostle John, the youngest of the twelve. Most others believe this was Mark, the author of this Gospel, as it was a common literary device for a writer not to give his own name (see [[LUK.24:13]]; [[JOH.21:24]]). The other evangelists do not report this incident. They would not have been inclined to humiliate Mark, whereas Mark would have been more likely to relate such an event concerning himself."
+      "context": "To flee naked is a great shame and humiliation ([[EZK.16:39]]; [[AMO.2:16]]). Some teach this young man was James, the brother of the Lord ([[GAL.1:19]]), while others say that it was the apostle John, the youngest of the twelve. Most others believe this was Mark, the author of this Gospel, as it was a common literary device for a writer not to give his own name (see [[LUK.24:13]]; [[JOH.21:24]]). The other evangelists do not report this incident. They would not have been inclined to humiliate Mark, whereas Mark would have been more likely to relate such an event concerning himself.",
+      "edge_type": "opposes",
+      "topic_threads": [
+        "faith"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/HOS_footnotes.md",
       "line_number": 61,
       "raw_match": "[[EZK.16:39]]",
       "reference_type": "wikilink",
-      "context": "Strip her naked: An act of humiliation preceding capital punishment of an adulteress ([[EZK.16:39]], [[EZK.16:40]]; Lv 20:10; [[DEU.22:22]]). Perhaps this means Israel would experience humiliation during the Assyrian exile, beginning in 722 BC."
+      "context": "Strip her naked: An act of humiliation preceding capital punishment of an adulteress ([[EZK.16:39]], [[EZK.16:40]]; Lv 20:10; [[DEU.22:22]]). Perhaps this means Israel would experience humiliation during the Assyrian exile, beginning in 722 BC.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "creation_theology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 9,
+        "title": "Example: The Cherubim of Ezekiel I",
+        "polarity": "generation",
+        "operation": "inform",
+        "scale": "intercommunal"
+      }
     }
   ]
 }

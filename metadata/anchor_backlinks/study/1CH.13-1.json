@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "2And David said to all the assembly of Israel, \u201cIf it is of the Lord our God and it seems good to you, let us send to our brethren remaining in all of Israel, and to the priests, the Levites who are with them in the cities of their possession, so they may gather together with us.",
   "pericope": {
     "id": "1CH.P042",
@@ -12,7 +12,10 @@
     "range": "1CH.12:41-13:13",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "priesthood",
+    "temple"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 156,
       "raw_match": "[[1CH.13:1]]-14",
       "reference_type": "wikilink_range",
-      "context": "The ark is now to be brought up to Jerusalem from Gibeon (see [[1CH.13:1]]-14). It has been in the care of Eleazar (see 1Kg 7:1). This will help unify Judah and Israel by establishing Jerusalem as the primary sanctuary."
+      "context": "The ark is now to be brought up to Jerusalem from Gibeon (see [[1CH.13:1]]-14). It has been in the care of Eleazar (see 1Kg 7:1). This will help unify Judah and Israel by establishing Jerusalem as the primary sanctuary.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "priesthood",
+        "temple"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

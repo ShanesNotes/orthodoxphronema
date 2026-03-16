@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "then the upstream waters stopped flowing downstream, and a solid wall of water formed over a very great distance, as far as the region of Adam. The lower part came down to the Sea of Araba, the Salt Sea, until it came to a complete stop; and the people stood opposite Jericho.",
   "pericope": {
     "id": "JOS.P005",
@@ -12,7 +12,13 @@
     "range": "JOS.2:24-3:16",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "baptism",
+    "covenant",
+    "creation_theology",
+    "exodus_typology",
+    "shepherd"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +26,23 @@
       "line_number": 60,
       "raw_match": "[[JOS.3:13]]-17",
       "reference_type": "wikilink_range",
-      "context": "Moses foreshadowed baptism when he parted the Red Sea ([[EXO.14:16]]-23). Joshua parted the River Jordan with the ark of the covenant ([[JOS.3:13]]-17), and so did Elijah and Elisha when they struck the River Jordan with Elijah's mantle. \"O how great is the virtue of the Saints! Not only their words; not only their bodies, but even their very garments are always esteemed venerable by the whole creation. The sheepskin of this man divided the Jordan!\" (JohnChr)."
+      "context": "Moses foreshadowed baptism when he parted the Red Sea ([[EXO.14:16]]-23). Joshua parted the River Jordan with the ark of the covenant ([[JOS.3:13]]-17), and so did Elijah and Elisha when they struck the River Jordan with Elijah's mantle. \"O how great is the virtue of the Saints! Not only their words; not only their bodies, but even their very garments are always esteemed venerable by the whole creation. The sheepskin of this man divided the Jordan!\" (JohnChr).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "baptism",
+        "covenant",
+        "creation_theology",
+        "exodus_typology",
+        "shepherd"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

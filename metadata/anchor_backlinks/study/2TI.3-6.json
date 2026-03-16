@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "For of this sort are those who creep into households and make captives of gullible women loaded down with sins, led away by various lusts,",
   "pericope": {
     "id": "2TI.P009",
@@ -12,7 +12,10 @@
     "range": "2TI.2:26-3:8",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "wisdom"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 194,
       "raw_match": "[[2TI.3:6]]",
       "reference_type": "wikilink",
-      "context": "Christians extend hospitality, but not indiscriminately (see [[PSA.140:4]], [[PSA.140:5]]; [[2TI.3:6]]). Almsgiving--giving to the needy--has always been a godly virtue. The Wisdom of Sirach teaches when one practices this virtue to wisely choose a godly recipient. The man who does not give alms is classed with those who persist in evil (v. 3)."
+      "context": "Christians extend hospitality, but not indiscriminately (see [[PSA.140:4]], [[PSA.140:5]]; [[2TI.3:6]]). Almsgiving--giving to the needy--has always been a godly virtue. The Wisdom of Sirach teaches when one practices this virtue to wisely choose a godly recipient. The man who does not give alms is classed with those who persist in evil (v. 3).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology",
+        "wisdom"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

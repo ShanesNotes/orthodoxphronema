@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "All the brethren greet you.",
   "pericope": {
     "id": "1CO.P042",
@@ -12,7 +12,14 @@
     "range": "1CO.16:12-16:24",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "creation_theology",
+    "eucharist",
+    "faith",
+    "mercy",
+    "prayer"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,14 +27,44 @@
       "line_number": 172,
       "raw_match": "[[1CO.16:20]]",
       "reference_type": "wikilink",
-      "context": "When is it proper to return evil for evil? From the Sermon on the Mount ([[MAT.5:44]]) to the end of the NT, the answer is, \"Never.\" In Paul's writings, words such as rejoice, always (v. 16), without ceasing or \"constantly\" (v. 17), and give thanks (v. 18) refer primarily to prayer. The spiritual Fathers of the Church teach that unceasing prayer is a proper goal, for spiritual growth comes through such discipline. For centuries, Christian people have used the \"Jesus Prayer\" as a way to pray unceasingly from the heart: \"O Lord Jesus Christ, Son of God, have mercy on me, a sinner.\" 5:19-22 The Holy Spirit is to be actively present in the life of the Church. But there is constant need of discernment and testing so as to avoid being misled (see 1Co 12--14). 5:23-27 Note the liturgical overtones with regard to the corporate meetings. There is (1) the benediction (v. 23), (2) intercessory prayer (v. 25), (3) the kiss of peace (v. 26), and (4) the public reading of the Scriptures (v. 27). The practice of a holy kiss (v. 26) very early became a part of the worship liturgy (see [[ROM.16:16]]; [[1CO.16:20]]; [[2CO.13:12]]; [[1PE.5:14]]). Just prior to Communion, the faithful would exchange the kiss of peace, on one cheek and then the other, to show their reconciliation in Christ. Thus, Christ is in our midst and ever shall be!"
+      "context": "When is it proper to return evil for evil? From the Sermon on the Mount ([[MAT.5:44]]) to the end of the NT, the answer is, \"Never.\" In Paul's writings, words such as rejoice, always (v. 16), without ceasing or \"constantly\" (v. 17), and give thanks (v. 18) refer primarily to prayer. The spiritual Fathers of the Church teach that unceasing prayer is a proper goal, for spiritual growth comes through such discipline. For centuries, Christian people have used the \"Jesus Prayer\" as a way to pray unceasingly from the heart: \"O Lord Jesus Christ, Son of God, have mercy on me, a sinner.\" 5:19-22 The Holy Spirit is to be actively present in the life of the Church. But there is constant need of discernment and testing so as to avoid being misled (see 1Co 12--14). 5:23-27 Note the liturgical overtones with regard to the corporate meetings. There is (1) the benediction (v. 23), (2) intercessory prayer (v. 25), (3) the kiss of peace (v. 26), and (4) the public reading of the Scriptures (v. 27). The practice of a holy kiss (v. 26) very early became a part of the worship liturgy (see [[ROM.16:16]]; [[1CO.16:20]]; [[2CO.13:12]]; [[1PE.5:14]]). Just prior to Communion, the faithful would exchange the kiss of peace, on one cheek and then the other, to show their reconciliation in Christ. Thus, Christ is in our midst and ever shall be!",
+      "edge_type": "echoes",
+      "topic_threads": [
+        "christology",
+        "eucharist",
+        "mercy",
+        "prayer"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/NT/MAT_footnotes.md",
       "line_number": 543,
       "raw_match": "[[1CO.16:20]]",
       "reference_type": "wikilink",
-      "context": "Peace with other believers is a requirement for worship ([[MRK.11:25]]). The liturgical \"kiss of peace\" at the beginning of the eucharistic prayer is a sign of reconciliation and forgiveness, preparing the faithful to offer the holy gifts at the altar ([[1CO.16:20]]; 1Pt 5:14)."
+      "context": "Peace with other believers is a requirement for worship ([[MRK.11:25]]). The liturgical \"kiss of peace\" at the beginning of the eucharistic prayer is a sign of reconciliation and forgiveness, preparing the faithful to offer the holy gifts at the altar ([[1CO.16:20]]; 1Pt 5:14).",
+      "edge_type": "echoes",
+      "topic_threads": [
+        "creation_theology",
+        "eucharist",
+        "faith",
+        "prayer"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

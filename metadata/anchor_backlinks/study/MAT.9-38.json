@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Therefore pray the Lord of the harvest to send out laborers into His harvest.'",
   "pericope": {
     "id": "MAT.P026",
@@ -12,7 +12,14 @@
     "range": "MAT.9:38-10:3",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "covenant",
+    "creation_theology",
+    "exodus_typology",
+    "resurrection",
+    "suffering"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +27,24 @@
       "line_number": 67,
       "raw_match": "[[MAT.9:38]]",
       "reference_type": "wikilink",
-      "context": "The beginning of barley harvest was in April. It would have occurred at about the time of the Passover, and thus of the crucifixion and Resurrection of Christ. Jesus Himself refers to the new covenant as a time of harvest ([[MAT.9:37]], [[MAT.9:38]]; [[JOH.4:35]]). Ruth is accepted at this time, showing that the Gentiles would be received into the Church."
+      "context": "The beginning of barley harvest was in April. It would have occurred at about the time of the Passover, and thus of the crucifixion and Resurrection of Christ. Jesus Himself refers to the new covenant as a time of harvest ([[MAT.9:37]], [[MAT.9:38]]; [[JOH.4:35]]). Ruth is accepted at this time, showing that the Gentiles would be received into the Church.",
+      "edge_type": "ascends_from",
+      "topic_threads": [
+        "christology",
+        "covenant",
+        "creation_theology",
+        "exodus_typology",
+        "resurrection",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

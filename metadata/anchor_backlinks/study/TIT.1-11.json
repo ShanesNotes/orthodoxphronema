@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "whose mouths must be stopped, who subvert whole households, teaching things which they ought not, for the sake of dishonest gain.",
   "pericope": {
     "id": "TIT.P003",
@@ -20,7 +20,16 @@
       "line_number": 453,
       "raw_match": "[[TIT.1:11]]",
       "reference_type": "wikilink",
-      "context": "Pure doctrine is taught out of pure motives. A mark of apostolic authenticity is the refusal of excessive money. The clergy draw their living from the Church, but not to the point of getting rich (see [[1CO.9:4]]-18; [[1TI.6:3]]-10; [[TIT.1:11]]). Paul's opponents dared not make this claim."
+      "context": "Pure doctrine is taught out of pure motives. A mark of apostolic authenticity is the refusal of excessive money. The clergy draw their living from the Church, but not to the point of getting rich (see [[1CO.9:4]]-18; [[1TI.6:3]]-10; [[TIT.1:11]]). Paul's opponents dared not make this claim.",
+      "edge_type": "instantiates",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "And when he heard that it was Jesus of Nazareth, he began to cry out and say, 'Jesus, Son of David, have mercy on me!'",
   "pericope": {
     "id": "MRK.P037",
@@ -12,7 +12,9 @@
     "range": "MRK.10:45-10:51",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "mercy"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 419,
       "raw_match": "[[MRK.10:47]]",
       "reference_type": "wikilink",
-      "context": "The Jews have bade each other farewell (v. 49), but still call on the Lord for help even against all odds and cry out for mercy. In the Gospels, there are seven instances of someone calling on Jesus for mercy ([[MAT.9:27]]; 15:22; 17:15; 20:30, 31; [[MRK.10:47]], [[MRK.10:48]]; Lk 17:13; 18:38, 39). In every case, they receive it."
+      "context": "The Jews have bade each other farewell (v. 49), but still call on the Lord for help even against all odds and cry out for mercy. In the Gospels, there are seven instances of someone calling on Jesus for mercy ([[MAT.9:27]]; 15:22; 17:15; 20:30, 31; [[MRK.10:47]], [[MRK.10:48]]; Lk 17:13; 18:38, 39). In every case, they receive it.",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "mercy"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

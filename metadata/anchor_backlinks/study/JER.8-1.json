@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "At that time,' says the Lord, 'they shall bring out of their graves the bones of the kings of Judah and its rulers, the bones of the priests and the prophets, and the bones of the inhabitants of Jerusalem.",
   "pericope": {
     "id": "JER.P015",
@@ -12,7 +12,9 @@
     "range": "JER.7:33-8:2",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "priesthood"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,14 +22,38 @@
       "line_number": 84,
       "raw_match": "[[JER.8:1]]-2",
       "reference_type": "wikilink_range",
-      "context": "Bones... carried out, prophesied in [[JER.8:1]]-2, suggests the Babylonians desecrated the reliquaries of the patriarchs. 2:24-25 Bones... carried out, prophesied in [[JER.8:1]]-2, suggests the Babylonians desecrated the reliquaries of the patriarchs."
+      "context": "Bones... carried out, prophesied in [[JER.8:1]]-2, suggests the Babylonians desecrated the reliquaries of the patriarchs. 2:24-25 Bones... carried out, prophesied in [[JER.8:1]]-2, suggests the Babylonians desecrated the reliquaries of the patriarchs.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "priesthood"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/BAR_footnotes.md",
       "line_number": 86,
       "raw_match": "[[JER.8:1]]-2",
       "reference_type": "wikilink_range",
-      "context": "Bones... carried out, prophesied in [[JER.8:1]]-2, suggests the Babylonians desecrated the reliquaries of the patriarchs. 2:24-25 Bones... carried out, prophesied in [[JER.8:1]]-2, suggests the Babylonians desecrated the reliquaries of the patriarchs."
+      "context": "Bones... carried out, prophesied in [[JER.8:1]]-2, suggests the Babylonians desecrated the reliquaries of the patriarchs. 2:24-25 Bones... carried out, prophesied in [[JER.8:1]]-2, suggests the Babylonians desecrated the reliquaries of the patriarchs.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "priesthood"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

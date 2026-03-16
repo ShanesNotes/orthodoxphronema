@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "holding fast the faithful word as he has been taught, that he may be able, by sound doctrine, both to exhort and convict those who contradict.",
   "pericope": {
     "id": "TIT.P003",
@@ -20,7 +20,16 @@
       "line_number": 23,
       "raw_match": "[[TIT.1:7]]-9",
       "reference_type": "wikilink_range",
-      "context": "This is the only epistle in which St. Paul includes the clergy, the bishops and deacons, in his address. St. John Chrysostom says this is because it was the clergy in Philippi who collected the funds Paul so badly needed, and sent them to him by Epaphroditus. Bishops are the leading presbyters. By the time this letter was written, around AD 63, not only were bishops present in Philippi, but James was presiding over the church in Jerusalem ([[ACT.15:13]]) and tradition reveals that Peter was bishop in Antioch--and later in Rome. (Tradition sometimes refers to the men Peter designated his successors in those places as the \"first\" bishops, affirming the difference between the apostles and the overseers they appointed.) Paul's pastoral epistles outline the qualifications for the office of bishop ([[1TI.3:1]]-7; [[TIT.1:7]]-9)."
+      "context": "This is the only epistle in which St. Paul includes the clergy, the bishops and deacons, in his address. St. John Chrysostom says this is because it was the clergy in Philippi who collected the funds Paul so badly needed, and sent them to him by Epaphroditus. Bishops are the leading presbyters. By the time this letter was written, around AD 63, not only were bishops present in Philippi, but James was presiding over the church in Jerusalem ([[ACT.15:13]]) and tradition reveals that Peter was bishop in Antioch--and later in Rome. (Tradition sometimes refers to the men Peter designated his successors in those places as the \"first\" bishops, affirming the difference between the apostles and the overseers they appointed.) Paul's pastoral epistles outline the qualifications for the office of bishop ([[1TI.3:1]]-7; [[TIT.1:7]]-9).",
+      "edge_type": "witnesses",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

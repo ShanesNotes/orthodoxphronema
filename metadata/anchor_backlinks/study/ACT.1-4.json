@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "And being assembled together with them, He commanded them not to depart from Jerusalem, but to wait for the Promise of the Father, 'which,' He said, 'you have heard from Me;",
   "pericope": {
     "id": "ACT.P001",
@@ -20,7 +20,16 @@
       "line_number": 2168,
       "raw_match": "[[ACT.1:4]]",
       "reference_type": "wikilink",
-      "context": "Are endued with is literally \"have put on\" (the same verb found in [[EPH.6:11]]), indicating the complete protection of spiritual armor. Tarry is literally \"sit down,\" and is an instruction not only to stay in place, but also to take rest and prepare attentively before a great and difficult task (compare [[MRK.14:32]]). The Promise of My Father is the Holy Spirit (see [[ACT.1:4]])."
+      "context": "Are endued with is literally \"have put on\" (the same verb found in [[EPH.6:11]]), indicating the complete protection of spiritual armor. Tarry is literally \"sit down,\" and is an instruction not only to stay in place, but also to take rest and prepare attentively before a great and difficult task (compare [[MRK.14:32]]). The Promise of My Father is the Holy Spirit (see [[ACT.1:4]]).",
+      "edge_type": "instantiates",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

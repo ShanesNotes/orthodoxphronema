@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "But do you want to know, O foolish man, that faith without works is dead?",
   "pericope": {
     "id": "JAS.P006",
@@ -12,7 +12,10 @@
     "range": "JAS.2:13-2:25",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "faith"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 411,
       "raw_match": "[[JAS.2:14]]-24",
       "reference_type": "wikilink_range",
-      "context": "John echoes the teaching of Christ Himself (v. 18). Note the absence of the word \"alone\" in this statement of faith. \"We do not from this assert that faith alone is sufficient for salvation; the directions for living that are given in many places in the Gospels show this\" (JohnChr). See also [[JAS.2:14]]-24."
+      "context": "John echoes the teaching of Christ Himself (v. 18). Note the absence of the word \"alone\" in this statement of faith. \"We do not from this assert that faith alone is sufficient for salvation; the directions for living that are given in many places in the Gospels show this\" (JohnChr). See also [[JAS.2:14]]-24.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology",
+        "faith"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

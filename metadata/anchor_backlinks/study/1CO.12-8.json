@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "for to one is given the word of wisdom through the Spirit, to another the word of knowledge through the same Spirit,",
   "pericope": {
     "id": "1CO.P028",
@@ -12,7 +12,9 @@
     "range": "1CO.11:34-12:25",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "wisdom"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 540,
       "raw_match": "[[1CO.12:8]]",
       "reference_type": "wikilink",
-      "context": "St. Paul speaks of \"the word of wisdom\" ([[1CO.12:8]])."
+      "context": "St. Paul speaks of \"the word of wisdom\" ([[1CO.12:8]]).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "wisdom"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

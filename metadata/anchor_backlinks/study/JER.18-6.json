@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "'Surely as this potter, am I not able to form you, O house of Israel? Behold, you are as the clay of the potter in My hands.",
   "pericope": {
     "id": "JER.P037",
@@ -12,7 +12,9 @@
     "range": "JER.17:23-18:10",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "creation_theology"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 943,
       "raw_match": "[[JER.18:6]]",
       "reference_type": "wikilink",
-      "context": "The same theme found in this pivotal verse is found throughout the OT (Is 45:9; 64:7; [[JER.18:6]]). Complete submission to the will of our Creator is the highest of virtues."
+      "context": "The same theme found in this pivotal verse is found throughout the OT (Is 45:9; 64:7; [[JER.18:6]]). Complete submission to the will of our Creator is the highest of virtues.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "creation_theology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

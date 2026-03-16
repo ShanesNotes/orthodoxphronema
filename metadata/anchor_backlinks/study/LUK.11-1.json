@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Now it came to pass, as He was praying in a certain place, when He ceased, that one of His disciples said to Him, 'Lord, teach us to pray, as John also taught his disciples.'",
   "pericope": {
     "id": "LUK.P054",
@@ -12,7 +12,9 @@
     "range": "LUK.10:38-11:12",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "prayer"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 86,
       "raw_match": "[[LUK.11:1]]",
       "reference_type": "wikilink",
-      "context": "The God of Israel is here prophetically called God of the Gentiles, who is the Father. Thus, when the disciples ask Jesus how to pray, His answer begins with \"Our Father\" ([[LUK.11:1]], [[LUK.11:2]])."
+      "context": "The God of Israel is here prophetically called God of the Gentiles, who is the Father. Thus, when the disciples ask Jesus how to pray, His answer begins with \"Our Father\" ([[LUK.11:1]], [[LUK.11:2]]).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "prayer"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

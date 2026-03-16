@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "And after the reading of the Law and the Prophets, the rulers of the synagogue sent to them, saying, 'Men and brethren, if you have any word of exhortation for the people, say on.'",
   "pericope": {
     "id": "ACT.P044",
@@ -12,7 +12,12 @@
     "range": "ACT.13:12-13:42",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "eucharist",
+    "logos",
+    "resurrection"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +25,21 @@
       "line_number": 23,
       "raw_match": "[[ACT.13:13]]-15",
       "reference_type": "wikilink_range",
-      "context": "At first, early Jewish Christians continued to observe Sabbath regulations and to worship on the Sabbath ([[ACT.13:13]]-15, 42-44; 18:1-4). But they also met for the celebration of the Holy Eucharist on Sunday ([[ACT.20:7]]; [[1CO.16:1]]-2), called 'the Lord's Day' ([[REV.1:10]]), since Jesus rose on a Sunday. St. Ignatius of Antioch, in about AD 107, confirms that Sunday was the main day of worship for the early Church: 'They have given up keeping the Sabbath, and now order their lives by the Lord's Day instead-the Day when life first dawned for us, thanks to Him and His death.' St. Constantine the Great, the first Christian emperor, honored the Church's practice of celebrating the Lord's Resurrection every Sunday by decreeing, in AD 321, that every Sunday would be a holy day. For Orthodox Christians, Saturday is still the Sabbath, the day on which the Church especially remembers the departed, since Christ rested in the tomb on Great and Holy Saturday. #### Sunday, The Eighth Day"
+      "context": "At first, early Jewish Christians continued to observe Sabbath regulations and to worship on the Sabbath ([[ACT.13:13]]-15, 42-44; 18:1-4). But they also met for the celebration of the Holy Eucharist on Sunday ([[ACT.20:7]]; [[1CO.16:1]]-2), called 'the Lord's Day' ([[REV.1:10]]), since Jesus rose on a Sunday. St. Ignatius of Antioch, in about AD 107, confirms that Sunday was the main day of worship for the early Church: 'They have given up keeping the Sabbath, and now order their lives by the Lord's Day instead-the Day when life first dawned for us, thanks to Him and His death.' St. Constantine the Great, the first Christian emperor, honored the Church's practice of celebrating the Lord's Resurrection every Sunday by decreeing, in AD 321, that every Sunday would be a holy day. For Orthodox Christians, Saturday is still the Sabbath, the day on which the Church especially remembers the departed, since Christ rested in the tomb on Great and Holy Saturday. #### Sunday, The Eighth Day",
+      "edge_type": "echoes",
+      "topic_threads": [
+        "christology",
+        "eucharist",
+        "resurrection"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

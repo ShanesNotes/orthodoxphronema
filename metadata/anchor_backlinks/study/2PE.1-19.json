@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "And so we have the prophetic word confirmed, which you do well to heed as a light that shines in a dark place, until the day dawns and the morning star rises in your hearts;",
   "pericope": {
     "id": "2PE.P005",
@@ -12,7 +12,13 @@
     "range": "2PE.1:19-2:2",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "divine_light",
+    "kingdom",
+    "logos",
+    "wisdom"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,28 +26,75 @@
       "line_number": 490,
       "raw_match": "[[2PE.1:19]]-21",
       "reference_type": "wikilink_range",
-      "context": "Satan vainly tries to use the Scriptures (as do the Pharisees in [[JOH.7:52]]), but understands neither their truth nor their power. Knowing and quoting Scripture without true understanding is worthless at best and ultimately condemnable. Without true understanding through the Holy Tradition of the Church, the Scriptures are robbed of their authority (see also [[2PE.1:19]]-21)."
+      "context": "Satan vainly tries to use the Scriptures (as do the Pharisees in [[JOH.7:52]]), but understands neither their truth nor their power. Knowing and quoting Scripture without true understanding is worthless at best and ultimately condemnable. Without true understanding through the Holy Tradition of the Church, the Scriptures are robbed of their authority (see also [[2PE.1:19]]-21).",
+      "edge_type": "instantiates",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/NT/MAT_footnotes.md",
       "line_number": 341,
       "raw_match": "[[2PE.1:19]]",
       "reference_type": "wikilink",
-      "context": "Seeing that Christ had defeated him through the power of the Scriptures, Satan vainly tries to use the Scriptures to put God's power of protection to the test. (See also [[2PE.1:19]]- 21.)"
+      "context": "Seeing that Christ had defeated him through the power of the Scriptures, Satan vainly tries to use the Scriptures to put God's power of protection to the test. (See also [[2PE.1:19]]- 21.)",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/NT/REV_footnotes.md",
       "line_number": 352,
       "raw_match": "[[2PE.1:19]]",
       "reference_type": "wikilink",
-      "context": "The morning star is none other than Christ (22:16). He is the Daylight from on high ([[LUK.1:78]]; see [[2PE.1:19]]), the true Light which enlightens all who come into the world ([[JOH.1:9]]). The phrase may also refer to eternal life and a share in the reign of Christ."
+      "context": "The morning star is none other than Christ (22:16). He is the Daylight from on high ([[LUK.1:78]]; see [[2PE.1:19]]), the true Light which enlightens all who come into the world ([[JOH.1:9]]). The phrase may also refer to eternal life and a share in the reign of Christ.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology",
+        "kingdom"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/JOB_footnotes.md",
       "line_number": 385,
       "raw_match": "[[2PE.1:19]]",
       "reference_type": "wikilink",
-      "context": "St. Gregory interprets this passage in the light of Christ and His Church. The lamp denotes Holy Scripture ([[2PE.1:19]]; [[PSA.118:105]]); my house is \"the dwelling place of the mind\"; and butter (v. 6) is the \"holy preachers, filled to the full with the fatness of good works.\""
+      "context": "St. Gregory interprets this passage in the light of Christ and His Church. The lamp denotes Holy Scripture ([[2PE.1:19]]; [[PSA.118:105]]); my house is \"the dwelling place of the mind\"; and butter (v. 6) is the \"holy preachers, filled to the full with the fatness of good works.\"",
+      "edge_type": "witnesses",
+      "topic_threads": [
+        "christology",
+        "divine_light"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

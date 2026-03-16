@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-13T21:28:41+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "",
   "pericope": {
     "id": "JON.P002",
@@ -20,7 +20,16 @@
       "line_number": 147,
       "raw_match": "[[JON.1:17]]",
       "reference_type": "wikilink",
-      "context": "The sea-monster is identified as Satan (3:8; 7:12; 9:13; 26:12; 41:1; Ps 74:13, 14; 87:4; 89:10; 104:26; 148:7; Is 27:1; 30:7; 51:9; [[EZK.29:3]]; 32:2; [[JON.1:17]]). 3:20"
+      "context": "The sea-monster is identified as Satan (3:8; 7:12; 9:13; 26:12; 41:1; Ps 74:13, 14; 87:4; 89:10; 104:26; 148:7; Is 27:1; 30:7; 51:9; [[EZK.29:3]]; 32:2; [[JON.1:17]]). 3:20",
+      "edge_type": "instantiates",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 6,
+        "title": "The Universe As a Language",
+        "polarity": "generation",
+        "operation": "descend",
+        "scale": "communal"
+      }
     }
   ]
 }

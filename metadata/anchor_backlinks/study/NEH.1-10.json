@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "'Now these are Your servants and Your people, whom You have redeemed by Your great power and Your strong hand.",
   "pericope": {
     "id": "NEH.P005",
@@ -12,7 +12,9 @@
     "range": "NEH.1:10-1:10",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "prayer"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 74,
       "raw_match": "[[NEH.1:5]]-11",
       "reference_type": "wikilink_range",
-      "context": "This begins the prayer of Nehemiah (1:24-2:18). See also [[NEH.1:5]]-11."
+      "context": "This begins the prayer of Nehemiah (1:24-2:18). See also [[NEH.1:5]]-11.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "prayer"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

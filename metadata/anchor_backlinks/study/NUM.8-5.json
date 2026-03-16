@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Again the Lord spoke to Moses, saying,",
   "pericope": {
     "id": "NUM.P019",
@@ -12,7 +12,12 @@
     "range": "NUM.8:4-8:25",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "priesthood",
+    "suffering",
+    "temple"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +25,22 @@
       "line_number": 637,
       "raw_match": "[[NUM.8:5]]",
       "reference_type": "wikilink",
-      "context": "The Levites typify the clergy who serve at the altar in the Church (see [[NUM.8:5]]- 25 and note). The burnt offerings point to Christ's sacrifice on the Cross for our salvation (v. 27). 44:1-4 The eastern outer gate is seen by the Fathers as the womb of the Virgin, which was shut because the Lord God had entered by it. The Church sees this passage as describing the ever-virginity of Mary. Though many modern denominations reject this doctrine, it was held to be true by Luther, Calvin, and John Wesley. St. Jerome writes that the east gate images the Virgin Mary, whose womb is \"always shut and always shining, and either concealing or revealing the Holy of Holies; and through her 'the Sun of Righteousness,' our 'high priest after the order of Melchizedek,' goes in and out.\" At the Entry of the Theotokos into the Temple we sing, \"Today the house of God receives the Gate through which no one may pass; so it has brought an end to the worship commanded by the shadow of the Law.\" See 43:1-12 and note."
+      "context": "The Levites typify the clergy who serve at the altar in the Church (see [[NUM.8:5]]- 25 and note). The burnt offerings point to Christ's sacrifice on the Cross for our salvation (v. 27). 44:1-4 The eastern outer gate is seen by the Fathers as the womb of the Virgin, which was shut because the Lord God had entered by it. The Church sees this passage as describing the ever-virginity of Mary. Though many modern denominations reject this doctrine, it was held to be true by Luther, Calvin, and John Wesley. St. Jerome writes that the east gate images the Virgin Mary, whose womb is \"always shut and always shining, and either concealing or revealing the Holy of Holies; and through her 'the Sun of Righteousness,' our 'high priest after the order of Melchizedek,' goes in and out.\" At the Entry of the Theotokos into the Temple we sing, \"Today the house of God receives the Gate through which no one may pass; so it has brought an end to the worship commanded by the shadow of the Law.\" See 43:1-12 and note.",
+      "edge_type": "witnesses",
+      "topic_threads": [
+        "christology",
+        "priesthood",
+        "suffering",
+        "temple"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

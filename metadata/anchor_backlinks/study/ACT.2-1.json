@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "When the Day of Pentecost had fully come, they were all with one accord in one place.",
   "pericope": {
     "id": "ACT.P004",
@@ -12,7 +12,14 @@
     "range": "ACT.1:26-2:12",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "covenant",
+    "creation_theology",
+    "eucharist",
+    "israel_church",
+    "judgment"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,28 +27,78 @@
       "line_number": 407,
       "raw_match": "[[ACT.2:1]]-4",
       "reference_type": "wikilink_range",
-      "context": "Fire in this context has the primary meaning of the gift of the Holy Spirit, which is given to the world at Pentecost ([[ACT.2:1]]-4). It further declares the judgment of Christ, in which the faithless will burn (see [[2TH.1:6]]-10; 2:8). Note that this fire is one. It is the same Power and the same Spirit which both enlivens the faithful and destroys the faithless."
+      "context": "Fire in this context has the primary meaning of the gift of the Holy Spirit, which is given to the world at Pentecost ([[ACT.2:1]]-4). It further declares the judgment of Christ, in which the faithless will burn (see [[2TH.1:6]]-10; 2:8). Note that this fire is one. It is the same Power and the same Spirit which both enlivens the faithful and destroys the faithless.",
+      "edge_type": "echoes",
+      "topic_threads": [
+        "christology",
+        "judgment"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/NT/MRK_footnotes.md",
       "line_number": 550,
       "raw_match": "[[ACT.2:1]]-11",
       "reference_type": "wikilink_range",
-      "context": "New tongues refers to the ability to speak in languages that one has not learned in order to edify others in worship (1Co 14) and to preach the gospel ([[ACT.2:1]]-11)."
+      "context": "New tongues refers to the ability to speak in languages that one has not learned in order to edify others in worship (1Co 14) and to preach the gospel ([[ACT.2:1]]-11).",
+      "edge_type": "instantiates",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/EZR_footnotes.md",
       "line_number": 61,
       "raw_match": "[[ACT.2:1]]",
       "reference_type": "wikilink",
-      "context": "The people assembling as one person is fulfilled at Pentecost ([[ACT.2:1]]) and in the Church when we assemble in unity for the Eucharist as the one Body of Christ."
+      "context": "The people assembling as one person is fulfilled at Pentecost ([[ACT.2:1]]) and in the Church when we assemble in unity for the Eucharist as the one Body of Christ.",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "eucharist"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/SIR_footnotes.md",
       "line_number": 935,
       "raw_match": "[[ACT.2:1]]",
       "reference_type": "wikilink",
-      "context": "God is the author of holy days, seasons, and feasts. This is clear both in the OT and in the NT: for example, people gathered in Jerusalem for Pentecost ([[ACT.2:1]], [[ACT.2:5]]). Human beings are created to experience some days as sanctified, some as ordinary, as we live within time (v. 9). The fact that some feast days became abused in the Old Covenant does not mean we are not to have them in the New. The Church as the new Israel ([[GAL.6:16]]) has the authority of Christ to mark her holy days and seasons."
+      "context": "God is the author of holy days, seasons, and feasts. This is clear both in the OT and in the NT: for example, people gathered in Jerusalem for Pentecost ([[ACT.2:1]], [[ACT.2:5]]). Human beings are created to experience some days as sanctified, some as ordinary, as we live within time (v. 9). The fact that some feast days became abused in the Old Covenant does not mean we are not to have them in the New. The Church as the new Israel ([[GAL.6:16]]) has the authority of Christ to mark her holy days and seasons.",
+      "edge_type": "echoes",
+      "topic_threads": [
+        "christology",
+        "covenant",
+        "creation_theology",
+        "israel_church"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

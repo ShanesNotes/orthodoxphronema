@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "I will put My Spirit upon Him, And He will declare justice to the Gentiles. He will not quarrel nor cry out, Nor will anyone hear His voice in the streets.",
   "pericope": {
     "id": "MAT.P035",
@@ -12,7 +12,11 @@
     "range": "MAT.12:14-12:20",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "resurrection",
+    "suffering"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +24,21 @@
       "line_number": 914,
       "raw_match": "[[MAT.12:16]]-21",
       "reference_type": "wikilink_range",
-      "context": "Jesus desires to keep His identity as the Christ hidden to avoid popular political and theological misunderstandings. Only after His Passion and Resurrection can His identity as Messiah be understood (see note on [[MAT.12:16]]-21)."
+      "context": "Jesus desires to keep His identity as the Christ hidden to avoid popular political and theological misunderstandings. Only after His Passion and Resurrection can His identity as Messiah be understood (see note on [[MAT.12:16]]-21).",
+      "edge_type": "ascends_from",
+      "topic_threads": [
+        "christology",
+        "resurrection",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

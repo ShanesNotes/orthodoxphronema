@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "saying, 'Where is He who has been born King of the Jews? For we have seen His star in the East and have come to worship Him.'",
   "pericope": {
     "id": "MAT.P002",
@@ -12,7 +12,9 @@
     "range": "MAT.1:25-2:11",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,21 +22,54 @@
       "line_number": 575,
       "raw_match": "[[MAT.2:2]]",
       "reference_type": "wikilink",
-      "context": "The Lord draws people to Himself by things that are familiar to them. As He drew the Magi with a star ([[MAT.2:2]]), as He would draw tax collectors by a tax collector (5:29), here He draws the fishermen with fish (see [[1CO.9:19]]-23)."
+      "context": "The Lord draws people to Himself by things that are familiar to them. As He drew the Magi with a star ([[MAT.2:2]]), as He would draw tax collectors by a tax collector (5:29), here He draws the fishermen with fish (see [[1CO.9:19]]-23).",
+      "edge_type": "instantiates",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/NUM_footnotes.md",
       "line_number": 589,
       "raw_match": "[[MAT.2:2]]",
       "reference_type": "wikilink",
-      "context": "Christ is the Star ([[MAT.2:2]]) and the Man who rose from the dead (rise out of Jacob and out of Israel). The three wise men of the East knew this prophecy, and when they saw His star, they followed it to the cave where He was born."
+      "context": "Christ is the Star ([[MAT.2:2]]) and the Man who rose from the dead (rise out of Jacob and out of Israel). The three wise men of the East knew this prophecy, and when they saw His star, they followed it to the cave where He was born.",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/WIS_footnotes.md",
       "line_number": 171,
       "raw_match": "[[MAT.2:2]]",
       "reference_type": "wikilink",
-      "context": "Solomon is a type of Christ, who was also born a king (see Is 9:6; [[MAT.2:2]]) yet wrapped in swaddling cloths (see [[LUK.2:7]], [[LUK.2:12]])."
+      "context": "Solomon is a type of Christ, who was also born a king (see Is 9:6; [[MAT.2:2]]) yet wrapped in swaddling cloths (see [[LUK.2:7]], [[LUK.2:12]]).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "You search the Scriptures, for in them you think you have eternal life; and these are they which testify of Me.",
   "pericope": {
     "id": "JOH.P014",
@@ -12,7 +12,9 @@
     "range": "JOH.5:15-5:46",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 134,
       "raw_match": "[[JOH.5:39]]",
       "reference_type": "wikilink",
-      "context": "The appeal to search the king's treasure house to find the king's decree parallels the Church's readiness to search the Scriptures ([[JOH.5:39]]; [[ACT.17:11]]). Appealing to the Scriptures is how Jesus and His apostles demonstrated His genuine claim to be the Christ, the incarnate Son of God ([[LUK.24:27]]; [[ACT.17:2]], [[ACT.17:11]]; 18:28). Interestingly, the appeal to the Scriptures was also one of the ways Jesus' enemies tried to malign Him ([[MAT.4:6]]; Jn"
+      "context": "The appeal to search the king's treasure house to find the king's decree parallels the Church's readiness to search the Scriptures ([[JOH.5:39]]; [[ACT.17:11]]). Appealing to the Scriptures is how Jesus and His apostles demonstrated His genuine claim to be the Christ, the incarnate Son of God ([[LUK.24:27]]; [[ACT.17:2]], [[ACT.17:11]]; 18:28). Interestingly, the appeal to the Scriptures was also one of the ways Jesus' enemies tried to malign Him ([[MAT.4:6]]; Jn",
+      "edge_type": "descends_to",
+      "topic_threads": [
+        "christology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

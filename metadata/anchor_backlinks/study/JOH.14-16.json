@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "And I will pray the Father, and He will give you another Helper, that He may abide with you forever-",
   "pericope": {
     "id": "JOH.P052",
@@ -12,7 +12,24 @@
     "range": "JOH.14:14-14:16",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "baptism",
+    "christology",
+    "covenant",
+    "creation_theology",
+    "divine_word",
+    "eucharist",
+    "faith",
+    "israel_church",
+    "kingdom",
+    "logos",
+    "praise",
+    "priesthood",
+    "repentance",
+    "suffering",
+    "temple",
+    "wisdom"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,28 +37,98 @@
       "line_number": 21,
       "raw_match": "[[JOH.14:16]]",
       "reference_type": "wikilink",
-      "context": "F rom earliest times the Church has practiced chrismation immediately following baptism. In the sacrament of chrismation (Gr. chrismatis, 'anointing') the newly baptized person receives the Holy Spirit through anointing with oil by the bishop or priest. The roots of this sacrament are clear in both the Old and New Testaments and are especially brought to light on the Day of Pentecost. Promises of the Holy Spirit from the Old Testament. In his sermon on Pentecost, St. Peter quotes the well-known prophecy of Joel, 'I will pour out of My Spirit on all flesh' (2:17; see [[JOL.3:1]]). This promise was significant because under the old covenant, the gift of the Spirit had been given only to a few-the patriarchs, the prophets, and some of the judges. Certain leaders of Israel were indwelt with the Holy Spirit to accomplish their tasks. Joel, however, prophesied that the Holy Spirit would be given to all God's people, 'all flesh.' This was fulfilled at Pentecost, for Peter exclaims, 'this [outpouring of the Spirit] is what was spoken by the prophet Joel' (2:16). Other Old Testament prophets who speak of this same promise of the Spirit include Jeremiah ([[JER.38:31]]-34) and Ezekiel ([[EZK.36:25]]-27). In fact, the Ezekiel passage ties together the water and the Spirit in a prophetic vision of baptism and chrismation. Jesus promises the Holy Spirit. Our Lord Jesus Christ repeatedly promised the gift of the Holy Spirit to His disciples. Early in His public ministry He said, ' 'If anyone thirsts, let him come to Me and drink. He who believes in Me, as the scripture has said, out of his heart will flow rivers of living water.' But this He spoke concerning the Spirit' ([[JOH.7:37]]-39). Jesus also said, 'I will pray the Father, and He will give you another Helper, that He may abide with you forever' ([[JOH.14:16]]). Christ promised the Holy Spirit would reveal truth to the Church. 'When He, the Spirit of truth, has come, He will guide you into all truth; for He will not speak on His own authority, but whatever He hears He will speak; and He will tell you things to come. He will glorify Me, for He will take of what is Mine and declare it to you' ([[JOH.16:13]], [[JOH.16:14]]). Jesus says the Holy Spirit will bring glory to Him, Christ. This gives us an excellent means of testing whether or not acts attributed to the Holy Spirit do indeed belong to Him. The last words of Christ before His Ascension include a promise: 'John truly baptized with water, but you shall be baptized with the Holy Spirit not many days from now' (1:5). This word was fulfilled ten days later on the Day of Pentecost. How is the Holy Spirit given to us? The people who heard Peter speak at Pentecost asked him how they might receive salvation. He answered, 'Repent, and let every one of you be baptized in the name of Jesus Christ for the remission of sins; and you shall receive the gift of the Holy Spirit' (2:38). We repent (turn from our sins and toward Christ); we are baptized; we are given 'the gift of the Holy Spirit,' chrismation. That practice has never changed. In Acts 8, Philip, the deacon and evangelist, preached in Samaria (vv. 5-8). Many believed and were baptized (v. 12). The apostles came and later confirmed these new believers with the gift of the Holy Spirit through the laying on of hands (vv. 14-17). Here is the sacrament of chrismation following Holy Baptism. Later, the apostle Paul met some disciples of John the Baptist who had not been present when Peter spoke at Pentecost (19:1-7). They believed in Christ, 'were baptized' (v. 5), and 'the Holy Spirit came upon them' (v. 6), again through the hands of an apostle. The promise of God includes both our union with Christ in Holy Baptism and the gift of the Holy Spirit at chrismation."
+      "context": "F rom earliest times the Church has practiced chrismation immediately following baptism. In the sacrament of chrismation (Gr. chrismatis, 'anointing') the newly baptized person receives the Holy Spirit through anointing with oil by the bishop or priest. The roots of this sacrament are clear in both the Old and New Testaments and are especially brought to light on the Day of Pentecost. Promises of the Holy Spirit from the Old Testament. In his sermon on Pentecost, St. Peter quotes the well-known prophecy of Joel, 'I will pour out of My Spirit on all flesh' (2:17; see [[JOL.3:1]]). This promise was significant because under the old covenant, the gift of the Spirit had been given only to a few-the patriarchs, the prophets, and some of the judges. Certain leaders of Israel were indwelt with the Holy Spirit to accomplish their tasks. Joel, however, prophesied that the Holy Spirit would be given to all God's people, 'all flesh.' This was fulfilled at Pentecost, for Peter exclaims, 'this [outpouring of the Spirit] is what was spoken by the prophet Joel' (2:16). Other Old Testament prophets who speak of this same promise of the Spirit include Jeremiah ([[JER.38:31]]-34) and Ezekiel ([[EZK.36:25]]-27). In fact, the Ezekiel passage ties together the water and the Spirit in a prophetic vision of baptism and chrismation. Jesus promises the Holy Spirit. Our Lord Jesus Christ repeatedly promised the gift of the Holy Spirit to His disciples. Early in His public ministry He said, ' 'If anyone thirsts, let him come to Me and drink. He who believes in Me, as the scripture has said, out of his heart will flow rivers of living water.' But this He spoke concerning the Spirit' ([[JOH.7:37]]-39). Jesus also said, 'I will pray the Father, and He will give you another Helper, that He may abide with you forever' ([[JOH.14:16]]). Christ promised the Holy Spirit would reveal truth to the Church. 'When He, the Spirit of truth, has come, He will guide you into all truth; for He will not speak on His own authority, but whatever He hears He will speak; and He will tell you things to come. He will glorify Me, for He will take of what is Mine and declare it to you' ([[JOH.16:13]], [[JOH.16:14]]). Jesus says the Holy Spirit will bring glory to Him, Christ. This gives us an excellent means of testing whether or not acts attributed to the Holy Spirit do indeed belong to Him. The last words of Christ before His Ascension include a promise: 'John truly baptized with water, but you shall be baptized with the Holy Spirit not many days from now' (1:5). This word was fulfilled ten days later on the Day of Pentecost. How is the Holy Spirit given to us? The people who heard Peter speak at Pentecost asked him how they might receive salvation. He answered, 'Repent, and let every one of you be baptized in the name of Jesus Christ for the remission of sins; and you shall receive the gift of the Holy Spirit' (2:38). We repent (turn from our sins and toward Christ); we are baptized; we are given 'the gift of the Holy Spirit,' chrismation. That practice has never changed. In Acts 8, Philip, the deacon and evangelist, preached in Samaria (vv. 5-8). Many believed and were baptized (v. 12). The apostles came and later confirmed these new believers with the gift of the Holy Spirit through the laying on of hands (vv. 14-17). Here is the sacrament of chrismation following Holy Baptism. Later, the apostle Paul met some disciples of John the Baptist who had not been present when Peter spoke at Pentecost (19:1-7). They believed in Christ, 'were baptized' (v. 5), and 'the Holy Spirit came upon them' (v. 6), again through the hands of an apostle. The promise of God includes both our union with Christ in Holy Baptism and the gift of the Holy Spirit at chrismation.",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "baptism",
+        "christology",
+        "covenant",
+        "faith",
+        "israel_church",
+        "logos",
+        "praise",
+        "priesthood",
+        "repentance"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 9,
+        "title": "Example: The Cherubim of Ezekiel I",
+        "polarity": "generation",
+        "operation": "inform",
+        "scale": "intercommunal"
+      }
     },
     {
       "source_file": "study/articles/OT/EXO_articles.md",
       "line_number": 55,
       "raw_match": "[[JOH.14:16]]",
       "reference_type": "wikilink",
-      "context": "On Mt. Sinai Moses received not only the Ten Commandments, but also precise and detailed instructions for building the tabernacle-a moveable tent-where God met the assembly of the people Israel ([[EXO.25:1]]-27:21). Consequently, the tabernacle is built according to the divine blueprints ([[EXO.35:4]]-40:33). Here God's Presence, His Glory, will be made manifest through the shining cloud filling the holy place ([[EXO.40:34]]-38). The importance of God's Presence in the tabernacle is apparent in the prayers of the Psalms, which express a longing to be with God, a fervent desire to be in His tabernacle ([[PSA.26:4]]-6; 60:4; 64:4; 83:1-4, 10; see also 22:6; 25:8). Indeed, the Lord promises that at the tabernacle, 'I shall be known to you to speak to you. There I shall give directions to the children of Israel, and I shall be sanctified in My glory' ([[EXO.29:42]]-43; see also [[EZK.37:26]]-28). While the tabernacle is the specific place where God was encountered in Israel, this did not exhaust His Presence, for as Almighty God, He has always been everywhere present, filling all things. Israel's most sacred objects were kept in the ark of the covenant, located in the holy of holies ([[HEB.9:2]]-5). Each object it held was prophetic of Christ: the tablets of the Law inscribed by God ([[EXO.25:15]]) prefigure Christ the Lawgiver; the manna ([[EXO.16:31]]-34) points to Christ as the Bread of Life ([[JOH.6:30]]-58); and Aaron's staff that budded ([[NUM.17:16]]-26) prefigures the life-giving Cross of Christ. Further, the veil separating the holy place from the holy of holies foreshadows the Incarnation ([[HEB.10:19]], [[HEB.10:20]]). The tabernacle as a whole prefigures Christ, the eternal Word of God, who 'became flesh and tabernacled (the usual English translation is 'dwelt') among us' ([[JOH.1:14]]; see also [[COL.2:9]]). St. Gregory of Nyssa observes, 'Moses was earlier instructed by a type in the mystery of the tabernacle, which encompasses the universe. This tabernacle would be Christ, who is the power and the wisdom of God ([[1CO.1:24]]).' The tabernacle also prefigures Mary the Theotokos, whose womb will be the tabernacle in which the Lord will dwell as He takes His flesh from her. On the cross, Jesus offers the ultimate sacrifice of His body, which the New Testament calls 'the greater and more perfect tabernacle not made with hands' ([[HEB.9:11]]). St. John Chrysostom comments that by this greater tabernacle St. Paul 'means the flesh [of Christ]. And well did he say, 'greater and more perfect,' since God the Word and all the power of the Spirit dwell therein.' In time, the moveable tabernacle of the wilderness is superseded by the permanent temple in Jerusalem. The temple, in turn, is superseded by Christ ([[JOH.2:18]]-21) and the Church, which is His Body ([[EPH.1:22]], [[EPH.1:23]]). Moreover, in Baptism every Christian becomes a tabernacle, a dwelling place of the Holy Spirit. As St. Paul exclaims, 'Or do you not know that your body is the temple of the Holy Spirit?' ([[1CO.6:19]]). St. Isaac of Nineveh declares, 'Lord, I give praise to Your holy nature, for You have made my nature a sanctuary for Your hiddenness, a tabernacle for Your Mysteries, a place where You can dwell, and a holy temple for Your divinity.' In his vision of the kingdom of heaven, St. John writes, 'But I saw no temple in it, for the Lord God Almighty and the Lamb are its temple' ([[REV.21:22]]). All earthly types vanish as the redeemed behold God and the Lamb in unmediated glory ([[2PE.1:4]]). The ultimate promise of the tabernacle, the temple and the Church is for God Himself to dwell in each believer forever ([[JOH.14:16]], [[JOH.14:17]], [[JOH.14:23]]; 17:20-23; see also [[REV.3:20]])."
+      "context": "On Mt. Sinai Moses received not only the Ten Commandments, but also precise and detailed instructions for building the tabernacle-a moveable tent-where God met the assembly of the people Israel ([[EXO.25:1]]-27:21). Consequently, the tabernacle is built according to the divine blueprints ([[EXO.35:4]]-40:33). Here God's Presence, His Glory, will be made manifest through the shining cloud filling the holy place ([[EXO.40:34]]-38). The importance of God's Presence in the tabernacle is apparent in the prayers of the Psalms, which express a longing to be with God, a fervent desire to be in His tabernacle ([[PSA.26:4]]-6; 60:4; 64:4; 83:1-4, 10; see also 22:6; 25:8). Indeed, the Lord promises that at the tabernacle, 'I shall be known to you to speak to you. There I shall give directions to the children of Israel, and I shall be sanctified in My glory' ([[EXO.29:42]]-43; see also [[EZK.37:26]]-28). While the tabernacle is the specific place where God was encountered in Israel, this did not exhaust His Presence, for as Almighty God, He has always been everywhere present, filling all things. Israel's most sacred objects were kept in the ark of the covenant, located in the holy of holies ([[HEB.9:2]]-5). Each object it held was prophetic of Christ: the tablets of the Law inscribed by God ([[EXO.25:15]]) prefigure Christ the Lawgiver; the manna ([[EXO.16:31]]-34) points to Christ as the Bread of Life ([[JOH.6:30]]-58); and Aaron's staff that budded ([[NUM.17:16]]-26) prefigures the life-giving Cross of Christ. Further, the veil separating the holy place from the holy of holies foreshadows the Incarnation ([[HEB.10:19]], [[HEB.10:20]]). The tabernacle as a whole prefigures Christ, the eternal Word of God, who 'became flesh and tabernacled (the usual English translation is 'dwelt') among us' ([[JOH.1:14]]; see also [[COL.2:9]]). St. Gregory of Nyssa observes, 'Moses was earlier instructed by a type in the mystery of the tabernacle, which encompasses the universe. This tabernacle would be Christ, who is the power and the wisdom of God ([[1CO.1:24]]).' The tabernacle also prefigures Mary the Theotokos, whose womb will be the tabernacle in which the Lord will dwell as He takes His flesh from her. On the cross, Jesus offers the ultimate sacrifice of His body, which the New Testament calls 'the greater and more perfect tabernacle not made with hands' ([[HEB.9:11]]). St. John Chrysostom comments that by this greater tabernacle St. Paul 'means the flesh [of Christ]. And well did he say, 'greater and more perfect,' since God the Word and all the power of the Spirit dwell therein.' In time, the moveable tabernacle of the wilderness is superseded by the permanent temple in Jerusalem. The temple, in turn, is superseded by Christ ([[JOH.2:18]]-21) and the Church, which is His Body ([[EPH.1:22]], [[EPH.1:23]]). Moreover, in Baptism every Christian becomes a tabernacle, a dwelling place of the Holy Spirit. As St. Paul exclaims, 'Or do you not know that your body is the temple of the Holy Spirit?' ([[1CO.6:19]]). St. Isaac of Nineveh declares, 'Lord, I give praise to Your holy nature, for You have made my nature a sanctuary for Your hiddenness, a tabernacle for Your Mysteries, a place where You can dwell, and a holy temple for Your divinity.' In his vision of the kingdom of heaven, St. John writes, 'But I saw no temple in it, for the Lord God Almighty and the Lamb are its temple' ([[REV.21:22]]). All earthly types vanish as the redeemed behold God and the Lamb in unmediated glory ([[2PE.1:4]]). The ultimate promise of the tabernacle, the temple and the Church is for God Himself to dwell in each believer forever ([[JOH.14:16]], [[JOH.14:17]], [[JOH.14:23]]; 17:20-23; see also [[REV.3:20]]).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "baptism",
+        "christology",
+        "covenant",
+        "divine_word",
+        "faith",
+        "israel_church",
+        "kingdom",
+        "logos",
+        "praise",
+        "suffering",
+        "temple",
+        "wisdom"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/articles/OT/GEN_articles.md",
       "line_number": 28,
       "raw_match": "[[JOH.14:16]]",
       "reference_type": "wikilink",
-      "context": "The Holy Trinity is revealed both in the Old Testament and in the New Testament. In the Old Testament, the Trinity is revealed in subtle ways; in the New Testament, the Trinity is revealed fully and plainly, beginning at the Baptism of our Lord. The Holy Trinity is one God in three Persons, Father, Son and Holy Spirit. These Persons are distinct, but not separate, and are not three gods. They are One God because They are one in essence or nature. The Father is the unbegotten Fountainhead of Deity. The Son is eternally begotten of the Father ([[JOH.1:18]]; 3:16; 16:28). The Holy Spirit is the Helper ([[JOH.14:16]]) and Spirit of Truth ([[JOH.14:17]]; 16:13), Who proceeds from the Father ([[JOH.15:26]]). #### The Holy Trinity Created The World"
+      "context": "The Holy Trinity is revealed both in the Old Testament and in the New Testament. In the Old Testament, the Trinity is revealed in subtle ways; in the New Testament, the Trinity is revealed fully and plainly, beginning at the Baptism of our Lord. The Holy Trinity is one God in three Persons, Father, Son and Holy Spirit. These Persons are distinct, but not separate, and are not three gods. They are One God because They are one in essence or nature. The Father is the unbegotten Fountainhead of Deity. The Son is eternally begotten of the Father ([[JOH.1:18]]; 3:16; 16:28). The Holy Spirit is the Helper ([[JOH.14:16]]) and Spirit of Truth ([[JOH.14:17]]; 16:13), Who proceeds from the Father ([[JOH.15:26]]). #### The Holy Trinity Created The World",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "baptism",
+        "covenant",
+        "creation_theology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 9,
+        "title": "Example: The Cherubim of Ezekiel I",
+        "polarity": "generation",
+        "operation": "inform",
+        "scale": "intercommunal"
+      }
     },
     {
       "source_file": "study/footnotes/OT/ECC_footnotes.md",
       "line_number": 113,
       "raw_match": "[[JOH.14:16]]",
       "reference_type": "wikilink",
-      "context": "Job expressed a similar sentiment of being oppressed when he wished that he had never been born to see such sorrow ([[JOB.3:10]]-16). But Christ has sent a comforter, the Holy Spirit ([[JOH.14:16]]), to wipe away all tears. Verse 2 speaks of the communion of the saints."
+      "context": "Job expressed a similar sentiment of being oppressed when he wished that he had never been born to see such sorrow ([[JOB.3:10]]-16). But Christ has sent a comforter, the Holy Spirit ([[JOH.14:16]]), to wipe away all tears. Verse 2 speaks of the communion of the saints.",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "eucharist"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

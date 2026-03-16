@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "I have spoken once. I will not do so a second time.'",
   "pericope": {
     "id": "JOB.P038",
@@ -20,7 +20,16 @@
       "line_number": 153,
       "raw_match": "[[JOB.40:5]]",
       "reference_type": "wikilink",
-      "context": "The mystery of God is best honored with silence. When God revealed Himself out of the whirlwind, Job too was found speechless ([[JOB.40:5]]; 42:3)."
+      "context": "The mystery of God is best honored with silence. When God revealed Himself out of the whirlwind, Job too was found speechless ([[JOB.40:5]]; 42:3).",
+      "edge_type": "instantiates",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 9,
+        "title": "Example: The Cherubim of Ezekiel I",
+        "polarity": "generation",
+        "operation": "inform",
+        "scale": "intercommunal"
+      }
     }
   ]
 }

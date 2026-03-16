@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Whoever has been born of God does not sin, for His seed remains in him; and he cannot sin, because he has been born of God.",
   "pericope": {
     "id": "1JN.P006",
@@ -12,7 +12,10 @@
     "range": "1JN.3:9-3:23",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "suffering"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 127,
       "raw_match": "[[1JN.3:8]]-10",
       "reference_type": "wikilink_range",
-      "context": "The woman's seed is first Christ, and second His Church ([[GAL.3:16]], [[GAL.3:26]]). The serpent's seed are those who reject Christ and follow the devil ([[1JN.3:8]]-10). Christ destroyed the devil through the cross (bruise your head)."
+      "context": "The woman's seed is first Christ, and second His Church ([[GAL.3:16]], [[GAL.3:26]]). The serpent's seed are those who reject Christ and follow the devil ([[1JN.3:8]]-10). Christ destroyed the devil through the cross (bruise your head).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

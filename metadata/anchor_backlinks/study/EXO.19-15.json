@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Then he said to the people, 'Be ready for the third day; do not come near your wives.'",
   "pericope": {
     "id": "EXO.P035",
@@ -12,7 +12,10 @@
     "range": "EXO.18:27-19:24",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "covenant",
+    "divine_word"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 736,
       "raw_match": "[[EXO.19:9]]-23",
       "reference_type": "wikilink_range",
-      "context": "The mountain (v. 18) of the new covenant, Mt. Zion, is the fulfillment of the mountain of the old covenant, Mt. Sinai. Sinai is remembered as the place where God first called Israel to meet Him ([[EXO.19:9]]-23; 20:18-21; [[DEU.4:11]], [[DEU.4:12]]; 5:22-26). It was a place of fear, a place not to be approached and touched, out in the desert where Israel could not live permanently. Israel met God, and God spoke, but Israel could not fully enter into God's holiness."
+      "context": "The mountain (v. 18) of the new covenant, Mt. Zion, is the fulfillment of the mountain of the old covenant, Mt. Sinai. Sinai is remembered as the place where God first called Israel to meet Him ([[EXO.19:9]]-23; 20:18-21; [[DEU.4:11]], [[DEU.4:12]]; 5:22-26). It was a place of fear, a place not to be approached and touched, out in the desert where Israel could not live permanently. Israel met God, and God spoke, but Israel could not fully enter into God's holiness.",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "covenant",
+        "divine_word"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Then He arose and rebuked the wind and the raging of the water. And they ceased, and there was acalm. But He said to them, 'Where is your faith?'",
   "pericope": {
     "id": "LUK.P038",
@@ -12,7 +12,10 @@
     "range": "LUK.8:21-8:25",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "faith"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 1359,
       "raw_match": "[[LUK.8:22]]-25",
       "reference_type": "wikilink_range",
-      "context": "Only God has dominion over nature; thus, this miracle confirms the divinity of Christ. See also the notes at 8:23-27 and [[LUK.8:22]]-25."
+      "context": "Only God has dominion over nature; thus, this miracle confirms the divinity of Christ. See also the notes at 8:23-27 and [[LUK.8:22]]-25.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology",
+        "faith"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

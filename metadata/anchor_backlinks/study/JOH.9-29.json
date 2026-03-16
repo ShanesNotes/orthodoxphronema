@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "We know that God spoke to Moses; as for this fellow, we do not know where He is from.'",
   "pericope": {
     "id": "JOH.P031",
@@ -12,7 +12,9 @@
     "range": "JOH.9:13-9:40",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "divine_word"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 736,
       "raw_match": "[[JOH.9:29]]",
       "reference_type": "wikilink",
-      "context": "The Jews acknowledged that God spoke to Moses, but said concerning Jesus they did not know where He was from ([[JOH.9:29]]). Yet it was He who spoke to Moses on Mt. Sinai."
+      "context": "The Jews acknowledged that God spoke to Moses, but said concerning Jesus they did not know where He was from ([[JOH.9:29]]). Yet it was He who spoke to Moses on Mt. Sinai.",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "divine_word"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "but in the place the Lord chooses, in one of your tribes; there you shall offer your whole burnt offerings, and there you shall do all I command you today.",
   "pericope": {
     "id": "DEU.P026",
@@ -20,7 +20,16 @@
       "line_number": 32,
       "raw_match": "[[DEU.12:11]]-14",
       "reference_type": "wikilink_range",
-      "context": "Tobit reminds us to be faithful to the Lord even when it is inconvenient. The everlasting ordinance (v. 6) is recorded in [[DEU.12:11]]-14."
+      "context": "Tobit reminds us to be faithful to the Lord even when it is inconvenient. The everlasting ordinance (v. 6) is recorded in [[DEU.12:11]]-14.",
+      "edge_type": "instantiates",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

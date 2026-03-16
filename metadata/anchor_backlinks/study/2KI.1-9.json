@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "And he said, 'It is Elijah the Tishbite.' Then the king sent to him a captain of fifty with his fifty men. So he went up to him; and there was Elijah, sitting on the top of a hill. And he spoke to him, 'Man of God, the king summoned you. Come down!'",
   "pericope": {
     "id": "2KI.P001",
@@ -20,14 +20,32 @@
       "line_number": 1201,
       "raw_match": "[[2KI.1:2]]-16",
       "reference_type": "wikilink_range",
-      "context": "Beelzebub, or Baal, was the prince of \"the dung heap\" or lord of \"the flies\"--a god worshipped by the Philistines ([[2KI.1:2]]-16). Here, he is called ruler of the demons (v. 24). The impossibility of demons fighting against themselves illustrates the irrational pride and envy of the Pharisees in their opposition to Jesus."
+      "context": "Beelzebub, or Baal, was the prince of \"the dung heap\" or lord of \"the flies\"--a god worshipped by the Philistines ([[2KI.1:2]]-16). Here, he is called ruler of the demons (v. 24). The impossibility of demons fighting against themselves illustrates the irrational pride and envy of the Pharisees in their opposition to Jesus.",
+      "edge_type": "instantiates",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/SIR_footnotes.md",
       "line_number": 1628,
       "raw_match": "[[2KI.1:2]]-17",
       "reference_type": "wikilink_range",
-      "context": "Apparently a reference to King Ahaziah (see [[2KI.1:2]]-17)."
+      "context": "Apparently a reference to King Ahaziah (see [[2KI.1:2]]-17).",
+      "edge_type": "instantiates",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

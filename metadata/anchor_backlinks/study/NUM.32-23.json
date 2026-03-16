@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "But if you should not do so, you shall be guilty before the Lord; and you will know your sin when evils overtake you.",
   "pericope": {
     "id": "NUM.P073",
@@ -20,7 +20,16 @@
       "line_number": 750,
       "raw_match": "[[NUM.32:23]]",
       "reference_type": "wikilink",
-      "context": "Moses told the children of Israel the same thing in different words: \"You will know your sin when evils overtake you\" ([[NUM.32:23]])."
+      "context": "Moses told the children of Israel the same thing in different words: \"You will know your sin when evils overtake you\" ([[NUM.32:23]]).",
+      "edge_type": "instantiates",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

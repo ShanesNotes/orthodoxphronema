@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Now thus says the Lord-who formed Me from the womb to be His Servant, and to bring Jacob and Israel back to Him (for I shall gather and glorify them before the Lord, and My God shall be My strength)-",
   "pericope": {
     "id": "ISA.P002",
@@ -12,7 +12,14 @@
     "range": "ISA.2:1-66:24",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "covenant",
+    "creation_theology",
+    "faith",
+    "israel_church",
+    "praise"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +27,24 @@
       "line_number": 26,
       "raw_match": "[[ISA.49:5]]",
       "reference_type": "wikilink",
-      "context": "Christ is incomparably greater than Moses, for Christ, the Son of God, who brought all creation into existence from nonexistence, is building His Church. When Christ gave Moses and Israel the Law, He spoke as the Lord their God. Moses, however, spoke to Israel in the name of the Lord their God, not in his own name ([[EXO.20:22]]). When the Son of God became incarnate, He continued to speak to Israel, but now directly and not through a prophet. Although during His three-year ministry in Israel, He did works and spoke words in His almighty power, Israel refused to believe Him, their own Lord God. But to those Jews who did believe, He gave authority to become His children ([[JOH.1:11]], [[JOH.1:12]]). Christ also gave authority to believing Gentiles to become His children. In the Old Testament, He made it clear through Moses and His prophets the Gentiles would be included in promises to Israel (for example, [[GEN.12:1]]-3; [[ISA.49:5]], 6). Both would be in His Church. Race is not the issue, but rather faith in Christ. His Church is one, composed of every nation, tongue and tribe ([[REV.5:9]]). #### Harmony between Law And Grace"
+      "context": "Christ is incomparably greater than Moses, for Christ, the Son of God, who brought all creation into existence from nonexistence, is building His Church. When Christ gave Moses and Israel the Law, He spoke as the Lord their God. Moses, however, spoke to Israel in the name of the Lord their God, not in his own name ([[EXO.20:22]]). When the Son of God became incarnate, He continued to speak to Israel, but now directly and not through a prophet. Although during His three-year ministry in Israel, He did works and spoke words in His almighty power, Israel refused to believe Him, their own Lord God. But to those Jews who did believe, He gave authority to become His children ([[JOH.1:11]], [[JOH.1:12]]). Christ also gave authority to believing Gentiles to become His children. In the Old Testament, He made it clear through Moses and His prophets the Gentiles would be included in promises to Israel (for example, [[GEN.12:1]]-3; [[ISA.49:5]], 6). Both would be in His Church. Race is not the issue, but rather faith in Christ. His Church is one, composed of every nation, tongue and tribe ([[REV.5:9]]). #### Harmony between Law And Grace",
+      "edge_type": "descends_to",
+      "topic_threads": [
+        "christology",
+        "covenant",
+        "creation_theology",
+        "faith",
+        "israel_church",
+        "praise"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

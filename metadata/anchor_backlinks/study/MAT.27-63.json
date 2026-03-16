@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "saying, 'Sir, we remember, while He was still alive, how that deceiver said, 'After three days I will rise.'",
   "pericope": {
     "id": "MAT.P093",
@@ -12,7 +12,9 @@
     "range": "MAT.27:61-27:65",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,14 +22,35 @@
       "line_number": 654,
       "raw_match": "[[MAT.27:62]]-66",
       "reference_type": "wikilink_range",
-      "context": "Every man was to remain in his house on the Sabbath. Yet the Jewish leaders left their houses, contrary to the Law of Moses, to plot against Jesus ([[MAT.27:62]]-66; JohnChr). They broke the Law to plot against the Lawgiver."
+      "context": "Every man was to remain in his house on the Sabbath. Yet the Jewish leaders left their houses, contrary to the Law of Moses, to plot against Jesus ([[MAT.27:62]]-66; JohnChr). They broke the Law to plot against the Lawgiver.",
+      "edge_type": "fulfills",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/EXO_footnotes.md",
       "line_number": 1072,
       "raw_match": "[[MAT.27:62]]-66",
       "reference_type": "wikilink_range",
-      "context": "The penalty for breaking the Sabbath was death. Yet the Jewish leaders did not rest on the Sabbath ([[MAT.27:62]]-66), but were running around and seeking to keep Christ in the tomb (AthanG)."
+      "context": "The penalty for breaking the Sabbath was death. Yet the Jewish leaders did not rest on the Sabbath ([[MAT.27:62]]-66), but were running around and seeking to keep Christ in the tomb (AthanG).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

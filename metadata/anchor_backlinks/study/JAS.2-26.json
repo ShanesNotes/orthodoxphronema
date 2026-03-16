@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "For as the body without the spirit is dead, so faith without works is dead also.",
   "pericope": {
     "id": "JAS.P007",
@@ -12,7 +12,9 @@
     "range": "JAS.2:26-3:11",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "faith"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 132,
       "raw_match": "[[JAS.2:26]]",
       "reference_type": "wikilink",
-      "context": "The form and power of godliness are intended to be inseparable. We normally do not have the power of godliness without the form. Charismatic power, however, can be twisted for evil and greed ([[ACT.8:9]]-20). Outward forms, even of liturgical worship, can be carried on without power or conviction (see [[MAT.7:15]]; 24:4, 5, 24). As faith without works is a form without substance ([[JAS.2:26]]), so is religion without power. This is a stern warning to those of us committed to proper form."
+      "context": "The form and power of godliness are intended to be inseparable. We normally do not have the power of godliness without the form. Charismatic power, however, can be twisted for evil and greed ([[ACT.8:9]]-20). Outward forms, even of liturgical worship, can be carried on without power or conviction (see [[MAT.7:15]]; 24:4, 5, 24). As faith without works is a form without substance ([[JAS.2:26]]), so is religion without power. This is a stern warning to those of us committed to proper form.",
+      "edge_type": "echoes",
+      "topic_threads": [
+        "faith"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

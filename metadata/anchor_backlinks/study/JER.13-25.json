@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "This is your lot and your portion for your disobedience against Me,' says the Lord, 'because you forgot Me and trusted in falsehoods.",
   "pericope": {
     "id": "JER.P027",
@@ -20,7 +20,16 @@
       "line_number": 1440,
       "raw_match": "[[JER.13:25]]",
       "reference_type": "wikilink",
-      "context": "The great harlot is Rome, the empire with its claims of divinity, sovereignty, and eternity (see vv. 9, 18), opposed to God and the Church: symbolic of all evil rule. In the Bible, harlotry frequently symbolizes apostasy and idolatry (see Is 1:21; 23:15; [[JER.13:25]]- 27; Ezk 16; [[HOS.4:12]]; [[NAH.3:4]]). The many waters on which the harlot is seated portray both the waters of Babylon--the canals and tributaries of the Euphrates ([[PSA.136:1]]; Jer 28:12, 13)--and the waters of Rome, the seas surrounding Italy. They symbolize the nations who submit to the harlot's rule (v. 15)."
+      "context": "The great harlot is Rome, the empire with its claims of divinity, sovereignty, and eternity (see vv. 9, 18), opposed to God and the Church: symbolic of all evil rule. In the Bible, harlotry frequently symbolizes apostasy and idolatry (see Is 1:21; 23:15; [[JER.13:25]]- 27; Ezk 16; [[HOS.4:12]]; [[NAH.3:4]]). The many waters on which the harlot is seated portray both the waters of Babylon--the canals and tributaries of the Euphrates ([[PSA.136:1]]; Jer 28:12, 13)--and the waters of Rome, the seas surrounding Italy. They symbolize the nations who submit to the harlot's rule (v. 15).",
+      "edge_type": "instantiates",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

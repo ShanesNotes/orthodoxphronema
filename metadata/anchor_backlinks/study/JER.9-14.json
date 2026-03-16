@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Therefore, thus says the Lord God of Israel: 'Behold, I will feed them as a matter of necessity, and give them the water of bitterness to drink.",
   "pericope": {
     "id": "JER.P017",
@@ -12,7 +12,10 @@
     "range": "JER.8:16-9:14",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "exodus_typology",
+    "judgment"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 810,
       "raw_match": "[[JER.9:12]]-16",
       "reference_type": "wikilink_range",
-      "context": "Reminiscent of the first Egyptian plague, this judgment affects fresh waters. Wormwood, an extremely bitter plant that would make water undrinkable, symbolizes the bitter fruits of idolatry and sorrow to those who pursue adulterous liaisons with the heathen Gentiles (see [[JER.9:12]]-16; 23:15)."
+      "context": "Reminiscent of the first Egyptian plague, this judgment affects fresh waters. Wormwood, an extremely bitter plant that would make water undrinkable, symbolizes the bitter fruits of idolatry and sorrow to those who pursue adulterous liaisons with the heathen Gentiles (see [[JER.9:12]]-16; 23:15).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "exodus_typology",
+        "judgment"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

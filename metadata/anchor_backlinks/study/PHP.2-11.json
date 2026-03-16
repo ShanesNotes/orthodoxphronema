@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "and that every tongue should confess that Jesus Christ is Lord, to the glory of God the Father.",
   "pericope": {
     "id": "PHP.P006",
@@ -12,7 +12,16 @@
     "range": "PHP.2:11-2:14",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "covenant",
+    "creation_theology",
+    "divine_light",
+    "praise",
+    "repentance",
+    "resurrection",
+    "suffering"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,42 +29,130 @@
       "line_number": 143,
       "raw_match": "[[PHP.2:6]]-11",
       "reference_type": "wikilink_range",
-      "context": "Paul quotes an ancient Christian creed or hymn that is especially clear about the divinity of Jesus Christ. Another such creed is found in [[2TI.2:11]]-13. (See also 6:15, 16; [[EPH.1:3]]-14; 5:14; [[PHP.2:6]]-11; [[COL.1:15]]-20.) Thus, when the early Councils met and issued creeds, they were well within the mark of biblical precedent."
+      "context": "Paul quotes an ancient Christian creed or hymn that is especially clear about the divinity of Jesus Christ. Another such creed is found in [[2TI.2:11]]-13. (See also 6:15, 16; [[EPH.1:3]]-14; 5:14; [[PHP.2:6]]-11; [[COL.1:15]]-20.) Thus, when the early Councils met and issued creeds, they were well within the mark of biblical precedent.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology",
+        "praise",
+        "repentance"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/NT/HEB_footnotes.md",
       "line_number": 17,
       "raw_match": "[[PHP.2:5]]-11",
       "reference_type": "wikilink_range",
-      "context": "These verses provide an introductory summary to 1:1-10:18. The new covenant is superior to the old, for the old is incomplete and preparatory whereas the new is complete and final. In the new man enters into the heavenly realm through Christ and is glorified (see [[PHP.2:5]]-11 for a close parallel)."
+      "context": "These verses provide an introductory summary to 1:1-10:18. The new covenant is superior to the old, for the old is incomplete and preparatory whereas the new is complete and final. In the new man enters into the heavenly realm through Christ and is glorified (see [[PHP.2:5]]-11 for a close parallel).",
+      "edge_type": "opposes",
+      "topic_threads": [
+        "christology",
+        "covenant",
+        "praise",
+        "repentance"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/NT/HEB_footnotes.md",
       "line_number": 59,
       "raw_match": "[[PHP.2:11]]",
       "reference_type": "wikilink",
-      "context": "Having become so much better than the angels, with regard to their role in the old covenant, refers to Christ's human nature, not to His divine nature. The name inherited is an open declaration that this Man is the Son of God. In Hebrews this name is \"Son\"; in [[PHP.2:11]] it is \"Lord.\""
+      "context": "Having become so much better than the angels, with regard to their role in the old covenant, refers to Christ's human nature, not to His divine nature. The name inherited is an open declaration that this Man is the Son of God. In Hebrews this name is \"Son\"; in [[PHP.2:11]] it is \"Lord.\"",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology",
+        "covenant",
+        "repentance"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/NT/HEB_footnotes.md",
       "line_number": 140,
       "raw_match": "[[PHP.2:5]]-11",
       "reference_type": "wikilink_range",
-      "context": "See especially [[PHP.2:5]]-11. Made a little lower than the angels refers to the Incarnation, the Son becoming Man. Christ's suffering and death have highly exalted Him. The Cross, which should have brought shame and reproach, has brought Christ glory and honor. All of this is not something God has owed to man; it is by the grace of God, His gift. Taste death means to experience it fully, to know it intimately. Christ's death was a real death. He died for everyone, for the whole world, not for the faithful only."
+      "context": "See especially [[PHP.2:5]]-11. Made a little lower than the angels refers to the Incarnation, the Son becoming Man. Christ's suffering and death have highly exalted Him. The Cross, which should have brought shame and reproach, has brought Christ glory and honor. All of this is not something God has owed to man; it is by the grace of God, His gift. Taste death means to experience it fully, to know it intimately. Christ's death was a real death. He died for everyone, for the whole world, not for the faithful only.",
+      "edge_type": "ascends_from",
+      "topic_threads": [
+        "christology",
+        "repentance",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/PSA_footnotes.md",
       "line_number": 96,
       "raw_match": "[[PHP.2:9]]-11",
       "reference_type": "wikilink_range",
-      "context": "Ps 8 speaks of the Incarnate Lord: (1) His name is wondrous... in all the earth, and He is exalted far beyond the heavens (v. 2; see also [[PHP.2:9]]-11). (2) He brings forth praise from His humble people, who are likened to little children (v. 3; see also Mt 18:1-4; 21:15, 16). (3) He is the Creator of the universe (v. 4; see also [[HEB.1:10]]-12). (4) He remembered man and his mortal nature, for example, his fall into death and decay in the grave, and thus, became incarnate to redeem him from death and to crown him with glory and honor (vv. 5-9; see also [[HEB.2:6]]-10). (5) Because of the things mentioned above, the incarnate Lord's name is wondrous in all the earth."
+      "context": "Ps 8 speaks of the Incarnate Lord: (1) His name is wondrous... in all the earth, and He is exalted far beyond the heavens (v. 2; see also [[PHP.2:9]]-11). (2) He brings forth praise from His humble people, who are likened to little children (v. 3; see also Mt 18:1-4; 21:15, 16). (3) He is the Creator of the universe (v. 4; see also [[HEB.1:10]]-12). (4) He remembered man and his mortal nature, for example, his fall into death and decay in the grave, and thus, became incarnate to redeem him from death and to crown him with glory and honor (vv. 5-9; see also [[HEB.2:6]]-10). (5) Because of the things mentioned above, the incarnate Lord's name is wondrous in all the earth.",
+      "edge_type": "ascends_from",
+      "topic_threads": [
+        "christology",
+        "creation_theology",
+        "praise",
+        "repentance"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/PSA_footnotes.md",
       "line_number": 144,
       "raw_match": "[[PHP.2:9]]-11",
       "reference_type": "wikilink_range",
-      "context": "Ps 11 presents a contrast between the godly who live in light of Christ (the End, v. 1) and the eighth day (v. 1), that is, \"the coming of Christ, the resurrection from the dead and the life of the world to come\" (Creed); and the ungodly, who walk in a circle (v. 9), that is, who live only within the confined vision of their seven days each week. And as the godly journey through this present world, (1) they pray for deliverance from the ungodliness around them (vv. 2, 3); (2) they ask the Lord to destroy the ungodly attitudes and behavior around them (vv. 4, 5); and (3) they groan to the Lord in the midst of their suffering (v. 6a). And because of their prayers and groaning in this way, the Lord, through His Resurrection (I will arise, v. 6), (1) boldly establishes them in salvation (v. 6); (2) purifies them in virtue with His words (v. 7); (3) guards and preserves them from the ungodly generation (v. 8); and (4) through His Ascension (exaltation, v. 9b), highly exalts His godly ones (v. 9b; see also [[PHP.2:9]]-11; [[EPH.2:6]], [[EPH.2:7]])."
+      "context": "Ps 11 presents a contrast between the godly who live in light of Christ (the End, v. 1) and the eighth day (v. 1), that is, \"the coming of Christ, the resurrection from the dead and the life of the world to come\" (Creed); and the ungodly, who walk in a circle (v. 9), that is, who live only within the confined vision of their seven days each week. And as the godly journey through this present world, (1) they pray for deliverance from the ungodliness around them (vv. 2, 3); (2) they ask the Lord to destroy the ungodly attitudes and behavior around them (vv. 4, 5); and (3) they groan to the Lord in the midst of their suffering (v. 6a). And because of their prayers and groaning in this way, the Lord, through His Resurrection (I will arise, v. 6), (1) boldly establishes them in salvation (v. 6); (2) purifies them in virtue with His words (v. 7); (3) guards and preserves them from the ungodly generation (v. 8); and (4) through His Ascension (exaltation, v. 9b), highly exalts His godly ones (v. 9b; see also [[PHP.2:9]]-11; [[EPH.2:6]], [[EPH.2:7]]).",
+      "edge_type": "ascends_from",
+      "topic_threads": [
+        "christology",
+        "divine_light",
+        "repentance",
+        "resurrection",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

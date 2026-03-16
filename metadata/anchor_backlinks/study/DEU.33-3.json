@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "And He spared His people And all the sanctified ones under Your hands; And these are under You, And received the law from His words",
   "pericope": {
     "id": "DEU.P068",
@@ -12,7 +12,10 @@
     "range": "DEU.32:52-33:31",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "mercy"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 65,
       "raw_match": "[[DEU.33:3]]",
       "reference_type": "wikilink",
-      "context": "Truth, love, grace and mercy are fulfilled in Christ and in His faithful in the Church. 3:1-9 The Church sees the lives of the martyrs reflected in these verses. See also [[DEU.33:3]]; [[JOB.12:10]]; [[PSA.117:15]]."
+      "context": "Truth, love, grace and mercy are fulfilled in Christ and in His faithful in the Church. 3:1-9 The Church sees the lives of the martyrs reflected in these verses. See also [[DEU.33:3]]; [[JOB.12:10]]; [[PSA.117:15]].",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "mercy"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

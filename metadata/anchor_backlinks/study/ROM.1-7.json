@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "To all who are in Rome, beloved of God, called to be saints: Grace to you and peace from God our Father and the Lord Jesus Christ.",
   "pericope": {
     "id": "ROM.P002",
@@ -12,7 +12,10 @@
     "range": "ROM.1:7-1:14",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "logos"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 1624,
       "raw_match": "[[ROM.1:7]]",
       "reference_type": "wikilink",
-      "context": "Peace was the customary Jewish word of both greeting and farewell. Perfect peace is brought by Christ, who reconciles humanity to God ([[EPH.2:14]]). Peace is part of the traditional greeting of Christians to each other ([[ROM.1:7]]; [[1CO.1:3]]), and the greeting \"Peace be to all\" is offered many times during the liturgical services of the Church."
+      "context": "Peace was the customary Jewish word of both greeting and farewell. Perfect peace is brought by Christ, who reconciles humanity to God ([[EPH.2:14]]). Peace is part of the traditional greeting of Christians to each other ([[ROM.1:7]]; [[1CO.1:3]]), and the greeting \"Peace be to all\" is offered many times during the liturgical services of the Church.",
+      "edge_type": "echoes",
+      "topic_threads": [
+        "christology",
+        "logos"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

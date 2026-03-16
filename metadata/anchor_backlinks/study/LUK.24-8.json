@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "And they remembered His words.",
   "pericope": {
     "id": "LUK.P121",
@@ -12,7 +12,10 @@
     "range": "LUK.23:56-24:53",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "baptism",
+    "faith"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 74,
       "raw_match": "[[LUK.24:8]]-12",
       "reference_type": "wikilink_range",
-      "context": "Peter knew by experience the failure to perceive the truth until he saw it with his eyes (see [[LUK.24:8]]-12; [[ACT.10:39]]-43). Here he addresses those who believe Him whom they have not seen. This is the faith of baptism and the faith of eternal life."
+      "context": "Peter knew by experience the failure to perceive the truth until he saw it with his eyes (see [[LUK.24:8]]-12; [[ACT.10:39]]-43). Here he addresses those who believe Him whom they have not seen. This is the faith of baptism and the faith of eternal life.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "baptism",
+        "faith"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

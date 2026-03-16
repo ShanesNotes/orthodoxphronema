@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "And I shall bring the remaining third through the fire, and I shall try them as silver is tried, and I will prove them as gold itself is proven. He will call upon My name, and I will hear him, and I will say, 'This is My people,' and they will say, 'The Lord is my God.' '",
   "pericope": {
     "id": "ZEC.P018",
@@ -12,7 +12,10 @@
     "range": "ZEC.13:9-14:21",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "exodus_typology",
+    "judgment"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 795,
       "raw_match": "[[ZEC.13:9]]",
       "reference_type": "wikilink",
-      "context": "Only vegetation is affected. The seventh plague in Egypt is recalled ([[EXO.9:22]]-26; see also [[EZK.5:12]]; [[ZEC.13:8]], [[ZEC.13:9]]). The reference to blood most likely comes from Joel (3:3; see [[ACT.2:19]]). A mixture of hail, fire, and blood is a typical apocalyptic picture of judgment."
+      "context": "Only vegetation is affected. The seventh plague in Egypt is recalled ([[EXO.9:22]]-26; see also [[EZK.5:12]]; [[ZEC.13:8]], [[ZEC.13:9]]). The reference to blood most likely comes from Joel (3:3; see [[ACT.2:19]]). A mixture of hail, fire, and blood is a typical apocalyptic picture of judgment.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "exodus_typology",
+        "judgment"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

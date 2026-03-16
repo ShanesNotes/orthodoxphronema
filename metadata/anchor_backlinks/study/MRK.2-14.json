@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "As He passed by, He saw Levi the son of Alphaeus sitting at the tax office. And He said to him, 'Follow Me.' So he arose and followed Him.",
   "pericope": {
     "id": "MRK.P007",
@@ -12,7 +12,10 @@
     "range": "MRK.2:12-2:16",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "mercy"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 936,
       "raw_match": "[[MRK.2:14]]",
       "reference_type": "wikilink",
-      "context": "Matthew is also named Levi ([[MRK.2:14]]). Roman overlords assigned specific areas to Jewish tax collectors, who were free to collect extra revenues for their own profit. Their collaboration with the occupying Romans, their fraud, and their corruption caused other Jews to hate them and to consider them unclean (11:19). Jesus dining with them and accepting a tax collector as a disciple (\"Follow Me\") offends the Pharisees, yet Christ's defense is simple: He goes where the need of the physician is greatest. \"I desire mercy and not sacrifice\" (v. 13; [[HOS.6:6]]) is not a rejection of sacrifice per se, but shows that mercy is a higher priority (see Ps 50)."
+      "context": "Matthew is also named Levi ([[MRK.2:14]]). Roman overlords assigned specific areas to Jewish tax collectors, who were free to collect extra revenues for their own profit. Their collaboration with the occupying Romans, their fraud, and their corruption caused other Jews to hate them and to consider them unclean (11:19). Jesus dining with them and accepting a tax collector as a disciple (\"Follow Me\") offends the Pharisees, yet Christ's defense is simple: He goes where the need of the physician is greatest. \"I desire mercy and not sacrifice\" (v. 13; [[HOS.6:6]]) is not a rejection of sacrifice per se, but shows that mercy is a higher priority (see Ps 50).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology",
+        "mercy"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

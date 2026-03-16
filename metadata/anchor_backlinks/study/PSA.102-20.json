@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Bless the Lord, all you His angels, Mighty in strength, who do His word, So as to hear the voice of His words.",
   "pericope": {
     "id": "PSA.P102",
@@ -12,7 +12,13 @@
     "range": "PSA.102:1-102:22",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "eucharist",
+    "logos",
+    "mercy",
+    "praise",
+    "prayer"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +26,22 @@
       "line_number": 545,
       "raw_match": "[[PSA.102:20]]-22",
       "reference_type": "wikilink_range",
-      "context": "The six wings (Is 6:2; [[EZK.1:6]]) may symbolize the swiftness with which God's will is enacted in His world. Full of eyes around and within (see the wheels of [[EZK.1:18]]) indicates the absolute vigilance of these creatures. They do not rest day or night suggests the essence of their ceaseless activity: to praise God (the very liturgy which the whole cosmos is called to serve) and to pray without ceasing ([[PSA.102:20]]-22; 148; 150; 1Th 25:17). Their hymn, \"Holy, holy, holy,\" like that of Isaiah's seraphim (Is 6:3), praises God, who is Lord of history and fills heaven and earth with His glory. Isaiah's doxology was part of synagogue worship and was incorporated into the worship of the Church (1Clem 34:6). Another form of this hymn, the Trisagion (\"Holy God, Holy Mighty, Holy Immortal, have mercy on us!\") reverberates throughout the services of the Orthodox Church. Ambrose wrote a similar hymn, the \"Te Deum.\" The eucharistic prayer of the Divine Liturgies of Ss. John Chrysostom, Basil, and James refers to the perpetual thriceholy hymn of the \"cherubim and the seraphim,\" thus blending the visions of Ezekiel, Isaiah, and St. John, and underscoring that the Divine Liturgy on earth is one with the heavenly liturgy of the angels and glorified saints."
+      "context": "The six wings (Is 6:2; [[EZK.1:6]]) may symbolize the swiftness with which God's will is enacted in His world. Full of eyes around and within (see the wheels of [[EZK.1:18]]) indicates the absolute vigilance of these creatures. They do not rest day or night suggests the essence of their ceaseless activity: to praise God (the very liturgy which the whole cosmos is called to serve) and to pray without ceasing ([[PSA.102:20]]-22; 148; 150; 1Th 25:17). Their hymn, \"Holy, holy, holy,\" like that of Isaiah's seraphim (Is 6:3), praises God, who is Lord of history and fills heaven and earth with His glory. Isaiah's doxology was part of synagogue worship and was incorporated into the worship of the Church (1Clem 34:6). Another form of this hymn, the Trisagion (\"Holy God, Holy Mighty, Holy Immortal, have mercy on us!\") reverberates throughout the services of the Orthodox Church. Ambrose wrote a similar hymn, the \"Te Deum.\" The eucharistic prayer of the Divine Liturgies of Ss. John Chrysostom, Basil, and James refers to the perpetual thriceholy hymn of the \"cherubim and the seraphim,\" thus blending the visions of Ezekiel, Isaiah, and St. John, and underscoring that the Divine Liturgy on earth is one with the heavenly liturgy of the angels and glorified saints.",
+      "edge_type": "witnesses",
+      "topic_threads": [
+        "eucharist",
+        "mercy",
+        "praise",
+        "prayer"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

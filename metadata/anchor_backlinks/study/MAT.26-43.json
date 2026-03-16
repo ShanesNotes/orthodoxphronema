@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "And He came and found them asleep again, for their eyes were heavy.",
   "pericope": {
     "id": "MAT.P086",
@@ -12,7 +12,9 @@
     "range": "MAT.26:30-26:74",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "prayer"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 314,
       "raw_match": "[[MAT.26:36]]-46",
       "reference_type": "wikilink_range",
-      "context": "Cries and tears is likely a reference to our Lord's agonizing prayer in the Garden of Gethsemane ([[MAT.26:36]]-46; [[MRK.14:32]]-42; [[LUK.22:39]]-46)."
+      "context": "Cries and tears is likely a reference to our Lord's agonizing prayer in the Garden of Gethsemane ([[MAT.26:36]]-46; [[MRK.14:32]]-42; [[LUK.22:39]]-46).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "prayer"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

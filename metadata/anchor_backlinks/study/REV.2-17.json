@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "'He who has an ear, let him hear what the Spirit says to the churches. To him who overcomes I will give some of the hidden manna to eat. And I will give him a white stone, and on the stone new name written which no one knows except him who receives it. ' '",
   "pericope": {
     "id": "REV.P007",
@@ -12,7 +12,9 @@
     "range": "REV.2:17-3:5",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 709,
       "raw_match": "[[REV.2:17]]",
       "reference_type": "wikilink",
-      "context": "The name of the city is the New Jerusalem ([[REV.3:12]]), the Church, which has been and is now \"continuing\" ([[HEB.13:14]]) from the day on which Christ took His place in her midst. On the final day, when the Lord comes for His Bride, those who overcome will receive a \"new name\" ([[REV.2:17]])--the name of Christ revealed--on their foreheads ([[REV.22:4]])."
+      "context": "The name of the city is the New Jerusalem ([[REV.3:12]]), the Church, which has been and is now \"continuing\" ([[HEB.13:14]]) from the day on which Christ took His place in her midst. On the final day, when the Lord comes for His Bride, those who overcome will receive a \"new name\" ([[REV.2:17]])--the name of Christ revealed--on their foreheads ([[REV.22:4]]).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

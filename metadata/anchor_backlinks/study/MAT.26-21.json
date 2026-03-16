@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Now as they were eating, He said, 'Assuredly, I say to you, one of you will betray Me.'",
   "pericope": {
     "id": "MAT.P084",
@@ -12,7 +12,12 @@
     "range": "MAT.26:16-26:25",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "baptism",
+    "christology",
+    "eucharist",
+    "exodus_typology"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +25,22 @@
       "line_number": 558,
       "raw_match": "[[MAT.26:17]]-29",
       "reference_type": "wikilink_range",
-      "context": "Israel's liberation from Egypt by Moses prefigures our liberation from sin by Christ. The cloud is a symbol of the Holy Spirit; the sea, of water and baptism; the Rock (v. 4), of the body of Christ, His humanity; and the spiritual drink, of Christ's blood. Jesus Himself linked these events of the Passover with the Eucharist when He established it ([[MAT.26:17]]-29)."
+      "context": "Israel's liberation from Egypt by Moses prefigures our liberation from sin by Christ. The cloud is a symbol of the Holy Spirit; the sea, of water and baptism; the Rock (v. 4), of the body of Christ, His humanity; and the spiritual drink, of Christ's blood. Jesus Himself linked these events of the Passover with the Eucharist when He established it ([[MAT.26:17]]-29).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "baptism",
+        "christology",
+        "eucharist",
+        "exodus_typology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

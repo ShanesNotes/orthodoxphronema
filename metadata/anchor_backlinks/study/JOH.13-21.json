@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "When Jesus had said these things, He was troubled in spirit, and testified and said, 'Most assuredly, I say to you, one of you will betray Me.'",
   "pericope": {
     "id": "JOH.P048",
@@ -12,7 +12,12 @@
     "range": "JOH.13:17-13:29",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "judgment",
+    "resurrection",
+    "suffering"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +25,22 @@
       "line_number": 245,
       "raw_match": "[[JOH.13:21]]",
       "reference_type": "wikilink",
-      "context": "Christ was cut down in His death, but would sprout again in His Resurrection (see [[PSA.1:3]]) and send out tender shoots--\"the faithful being multiplied by His Resurrection grew out far and wide\" (GrgGt). 14:14 Will man live again: \"Our Lord, when He was near His passion, took up the voice of those who were weak in Himself, saying, 'O My Father, if it is possible, let this cup pass from Me' ([[MAT.26:39]]); and that He might remove their fear, He took it in Himself\" (GrgGt). 14:17 As a mortal man, Job has transgressed unwillingly, that is, \"sin not leading to death\" ([[1JN.5:16]], [[1JN.5:17]]). But \"one day it may also come forth out of the bag of secrecy into the publicity of the Judgment\" (GrgGt). 15:1-6 \"Blessed Job bears a type of the Holy Church universal, and his friends bear the likeness of heretics\" (GrgGt). 15:20 \"With their feeble insight, [Job's friends] did not perceive that the Lord had given him over to be tempted so that, like an athlete of Christ, he might be fashioned by the temptations and attain to the crown of a greater glory\" (AmbM). 16:8 St. Hesychius compares this verse to Christ's betrayal at Judas's hands ([[JOH.13:21]]; Mt"
+      "context": "Christ was cut down in His death, but would sprout again in His Resurrection (see [[PSA.1:3]]) and send out tender shoots--\"the faithful being multiplied by His Resurrection grew out far and wide\" (GrgGt). 14:14 Will man live again: \"Our Lord, when He was near His passion, took up the voice of those who were weak in Himself, saying, 'O My Father, if it is possible, let this cup pass from Me' ([[MAT.26:39]]); and that He might remove their fear, He took it in Himself\" (GrgGt). 14:17 As a mortal man, Job has transgressed unwillingly, that is, \"sin not leading to death\" ([[1JN.5:16]], [[1JN.5:17]]). But \"one day it may also come forth out of the bag of secrecy into the publicity of the Judgment\" (GrgGt). 15:1-6 \"Blessed Job bears a type of the Holy Church universal, and his friends bear the likeness of heretics\" (GrgGt). 15:20 \"With their feeble insight, [Job's friends] did not perceive that the Lord had given him over to be tempted so that, like an athlete of Christ, he might be fashioned by the temptations and attain to the crown of a greater glory\" (AmbM). 16:8 St. Hesychius compares this verse to Christ's betrayal at Judas's hands ([[JOH.13:21]]; Mt",
+      "edge_type": "ascends_from",
+      "topic_threads": [
+        "christology",
+        "judgment",
+        "resurrection",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

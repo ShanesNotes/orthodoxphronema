@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Therefore Levi has no portion nor inheritance with his brethren; the Lord is his inheritance, as He said to him.)",
   "pericope": {
     "id": "DEU.P022",
@@ -12,7 +12,10 @@
     "range": "DEU.9:29-10:10",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "covenant",
+    "priesthood"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 69,
       "raw_match": "[[DEU.10:9]]",
       "reference_type": "wikilink",
-      "context": "Malachi reminds the priests of the Levitic covenant and what they are meant to be and do (see [[NUM.25:12]], [[NUM.25:13]]; [[DEU.10:8]], [[DEU.10:9]])."
+      "context": "Malachi reminds the priests of the Levitic covenant and what they are meant to be and do (see [[NUM.25:12]], [[NUM.25:13]]; [[DEU.10:8]], [[DEU.10:9]]).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "covenant",
+        "priesthood"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

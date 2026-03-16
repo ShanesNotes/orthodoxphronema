@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "'If a man will create gods for himself,' says the Lord, 'even so, they are not gods.",
   "pericope": {
     "id": "JER.P033",
@@ -12,7 +12,12 @@
     "range": "JER.16:13-16:20",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "creation_theology",
+    "divine_light",
+    "praise"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +25,22 @@
       "line_number": 1872,
       "raw_match": "[[JER.16:19]]-21",
       "reference_type": "wikilink_range",
-      "context": "The OT prophecies concerning the glorification of Jerusalem are fulfilled in the eternal Kingdom (see Is 60). Created light is unnecessary. For the everlasting Uncreated Light will illumine all ([[PSA.35:10]]) with true and clear vision to see things as they really are. The true Light, the Light of the world ([[JOH.8:12]]), was incarnate ([[JOH.1:9]]), and even while on earth He shone with Uncreated Light ([[MRK.9:2]]-8; [[2PE.1:16]]-18). As prophesied, all the earth will stream to the Holy City to honor it (Is 55:5; [[JER.16:19]]-21; Tb 13:13; see also 1En 10:21; 48:4, 5)--it has no enemies--but only the pure will live within it ([[MAT.5:8]])."
+      "context": "The OT prophecies concerning the glorification of Jerusalem are fulfilled in the eternal Kingdom (see Is 60). Created light is unnecessary. For the everlasting Uncreated Light will illumine all ([[PSA.35:10]]) with true and clear vision to see things as they really are. The true Light, the Light of the world ([[JOH.8:12]]), was incarnate ([[JOH.1:9]]), and even while on earth He shone with Uncreated Light ([[MRK.9:2]]-8; [[2PE.1:16]]-18). As prophesied, all the earth will stream to the Holy City to honor it (Is 55:5; [[JER.16:19]]-21; Tb 13:13; see also 1En 10:21; 48:4, 5)--it has no enemies--but only the pure will live within it ([[MAT.5:8]]).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "creation_theology",
+        "divine_light",
+        "praise"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "But the Lord hardened Pharaoh's heart, and he did not let the children of Israel go.",
   "pericope": {
     "id": "EXO.P018",
@@ -12,7 +12,10 @@
     "range": "EXO.10:20-10:28",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "divine_word",
+    "exodus_typology"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,14 +23,39 @@
       "line_number": 1428,
       "raw_match": "[[EXO.10:20]]",
       "reference_type": "wikilink",
-      "context": "According to St. John Chrysostom, Isaiah's prophecy does not mean God causes spiritual blindness in people who would otherwise have been faithful. This is a figure of speech common to Scripture revealing God as giving people up to their own devices (as in [[ROM.1:24]], [[ROM.1:26]]). What is meant by He has blinded is that God has permitted their selfchosen blindness (compare [[EXO.8:15]], 32 with [[EXO.10:20]], [[EXO.10:27]]). They did not become blind because God spoke through Isaiah, but rather Isaiah spoke because he foresaw their blindness."
+      "context": "According to St. John Chrysostom, Isaiah's prophecy does not mean God causes spiritual blindness in people who would otherwise have been faithful. This is a figure of speech common to Scripture revealing God as giving people up to their own devices (as in [[ROM.1:24]], [[ROM.1:26]]). What is meant by He has blinded is that God has permitted their selfchosen blindness (compare [[EXO.8:15]], 32 with [[EXO.10:20]], [[EXO.10:27]]). They did not become blind because God spoke through Isaiah, but rather Isaiah spoke because he foresaw their blindness.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "divine_word",
+        "exodus_typology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/EXO_footnotes.md",
       "line_number": 360,
       "raw_match": "[[EXO.10:20]]",
       "reference_type": "wikilink",
-      "context": "[[EXO.10:1]], [[EXO.10:20]], [[EXO.10:27]]: Both Pharaoh and his servants hardened their hearts (see note at 4:21)."
+      "context": "[[EXO.10:1]], [[EXO.10:20]], [[EXO.10:27]]: Both Pharaoh and his servants hardened their hearts (see note at 4:21).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "exodus_typology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

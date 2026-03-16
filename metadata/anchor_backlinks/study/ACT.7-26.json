@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "And the next day he appeared to two of them as they were fighting, and tried to reconcile them, saying, 'Men, you are brethren; why do you wrong one another?'",
   "pericope": {
     "id": "ACT.P023",
@@ -12,7 +12,9 @@
     "range": "ACT.6:15-7:51",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "exodus_typology"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 81,
       "raw_match": "[[ACT.7:23]]-28",
       "reference_type": "wikilink_range",
-      "context": "Moses was forty years old at this time, and he knew he was Israel's deliverer. Thus, he defended an Israelite and killed the Egyptian. He supposed the Israelites would understand his calling from God, but they did not ([[ACT.7:23]]-28). That generation never would."
+      "context": "Moses was forty years old at this time, and he knew he was Israel's deliverer. Thus, he defended an Israelite and killed the Egyptian. He supposed the Israelites would understand his calling from God, but they did not ([[ACT.7:23]]-28). That generation never would.",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "exodus_typology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

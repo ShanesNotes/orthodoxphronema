@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Your glorying is not good. Do you not know that little leaven leavens the whole lump?",
   "pericope": {
     "id": "1CO.P013",
@@ -20,21 +20,48 @@
       "line_number": 111,
       "raw_match": "[[1CO.5:1]]-13",
       "reference_type": "wikilink_range",
-      "context": "Good theology helps us along the path to good behavior. Although the truth stands firm and unalterable and cannot tolerate the false (see [[1CO.5:1]]-13; [[2CO.6:14]]-18), it instills a reasonable patience and gentleness toward all, especially toward false teachers --while not losing sight of the fact that they are enemies and to be avoided (3:5)."
+      "context": "Good theology helps us along the path to good behavior. Although the truth stands firm and unalterable and cannot tolerate the false (see [[1CO.5:1]]-13; [[2CO.6:14]]-18), it instills a reasonable patience and gentleness toward all, especially toward false teachers --while not losing sight of the fact that they are enemies and to be avoided (3:5).",
+      "edge_type": "instantiates",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/NT/MRK_footnotes.md",
       "line_number": 255,
       "raw_match": "[[1CO.5:6]]-8",
       "reference_type": "wikilink_range",
-      "context": "The leaven of the Pharisees is their doctrine ([[MAT.16:12]]) and their hypocrisy (Lk 12:1). In Scripture, leaven is used both positively (as in [[MAT.13:33]]) and negatively, as it is here. In either case, leaven symbolizes a force powerful enough (and often subtle enough) to permeate and affect everything around it (see [[1CO.5:6]]-8)."
+      "context": "The leaven of the Pharisees is their doctrine ([[MAT.16:12]]) and their hypocrisy (Lk 12:1). In Scripture, leaven is used both positively (as in [[MAT.13:33]]) and negatively, as it is here. In either case, leaven symbolizes a force powerful enough (and often subtle enough) to permeate and affect everything around it (see [[1CO.5:6]]-8).",
+      "edge_type": "instantiates",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/LEV_footnotes.md",
       "line_number": 486,
       "raw_match": "[[1CO.5:6]]",
       "reference_type": "wikilink",
-      "context": "This summarizes chapters 13 and 14. Note here the critical issue in separating what was infected--person or object--from the rest of the people. Obviously this had to do with protecting the people from the disease. Leprosy as a type of sin--and its noted consequences--must not escape us. There is good cause for being separated from those who live in willful sin: \"A little leaven leavens the whole lump\" ([[1CO.5:6]]). Clearly, if one chooses to get really close to sin, to tolerate or ignore it, and acts as if it isn't there, one may \"catch\" it. Though leprosy is not the most contagious of diseases, what a disease with which to gamble!"
+      "context": "This summarizes chapters 13 and 14. Note here the critical issue in separating what was infected--person or object--from the rest of the people. Obviously this had to do with protecting the people from the disease. Leprosy as a type of sin--and its noted consequences--must not escape us. There is good cause for being separated from those who live in willful sin: \"A little leaven leavens the whole lump\" ([[1CO.5:6]]). Clearly, if one chooses to get really close to sin, to tolerate or ignore it, and acts as if it isn't there, one may \"catch\" it. Though leprosy is not the most contagious of diseases, what a disease with which to gamble!",
+      "edge_type": "fulfills",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

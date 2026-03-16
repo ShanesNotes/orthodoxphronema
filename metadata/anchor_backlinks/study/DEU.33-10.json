@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "They shall manifest Your judgments to Jacob And Your law to Israel.",
   "pericope": {
     "id": "DEU.P068",
@@ -12,7 +12,13 @@
     "range": "DEU.32:52-33:31",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "covenant",
+    "creation_theology",
+    "logos",
+    "priesthood",
+    "temple"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +26,23 @@
       "line_number": 43,
       "raw_match": "[[DEU.33:8]]-11",
       "reference_type": "wikilink_range",
-      "context": "The Hebrew word for 'priest' is kohen. He is the Levite who stood as intercessor for the people before God. Old Testament priests offered up gifts and sacrifices to the Lord on behalf of the people, that they might be reconciled to Him. The Lord directed Moses to construct the tabernacle ([[EXO.25:1]]-27:21). Then He established a permanent, hereditary priesthood, beginning with Moses' brother Aaron and continuing through Aaron's sons ([[EXO.28:1]]). The priests were sanctified, or consecrated, with holy oil ([[EXO.30:22]]-30). Their holy garments of finely woven and richly decorated material were for the honor and glory of God ([[EXO.28:2]]-39). After Aaron's death, 'the Lord separated the tribe of Levi [Aaron's tribe] to bear the ark of the covenant of the Lord, to stand before the Lord, to minister to Him, and to bless in His name' ([[DEU.10:8]]). Besides the various sacrifices, the priests blessed the people ([[NUM.6:23]]-25), maintained the tabernacle (later, the temple) and its grounds ([[NUM.18:1]]-7), received tithes and offerings ([[NUM.18:8]]-32), supervised purification procedures ([[LEV.13:1]]-14:57), acted as judges ([[DEU.17:8]]-13) and taught the Law ([[DEU.33:8]]-11). Only male Levites administered the liturgical rites. #### New Testament Priests"
+      "context": "The Hebrew word for 'priest' is kohen. He is the Levite who stood as intercessor for the people before God. Old Testament priests offered up gifts and sacrifices to the Lord on behalf of the people, that they might be reconciled to Him. The Lord directed Moses to construct the tabernacle ([[EXO.25:1]]-27:21). Then He established a permanent, hereditary priesthood, beginning with Moses' brother Aaron and continuing through Aaron's sons ([[EXO.28:1]]). The priests were sanctified, or consecrated, with holy oil ([[EXO.30:22]]-30). Their holy garments of finely woven and richly decorated material were for the honor and glory of God ([[EXO.28:2]]-39). After Aaron's death, 'the Lord separated the tribe of Levi [Aaron's tribe] to bear the ark of the covenant of the Lord, to stand before the Lord, to minister to Him, and to bless in His name' ([[DEU.10:8]]). Besides the various sacrifices, the priests blessed the people ([[NUM.6:23]]-25), maintained the tabernacle (later, the temple) and its grounds ([[NUM.18:1]]-7), received tithes and offerings ([[NUM.18:8]]-32), supervised purification procedures ([[LEV.13:1]]-14:57), acted as judges ([[DEU.17:8]]-13) and taught the Law ([[DEU.33:8]]-11). Only male Levites administered the liturgical rites. #### New Testament Priests",
+      "edge_type": "echoes",
+      "topic_threads": [
+        "covenant",
+        "creation_theology",
+        "logos",
+        "priesthood",
+        "temple"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

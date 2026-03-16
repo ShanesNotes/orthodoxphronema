@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "because of the hope which is laid up for you in heaven, of which you heard before in the word of the truth of the gospel,",
   "pericope": {
     "id": "COL.P002",
@@ -12,7 +12,11 @@
     "range": "COL.1:2-1:6",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "faith",
+    "prayer"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +24,21 @@
       "line_number": 30,
       "raw_match": "[[COL.1:5]]",
       "reference_type": "wikilink",
-      "context": "Remembering and without ceasing describe effective prayer (see 2:13; 5:16-18). Faith, hope, and love are three Christian virtues Paul links together in other letters ([[1CO.13:13]]; [[COL.1:4]], [[COL.1:5]]). These virtues are connected to actions: faith works, love labors, hope produces patience, showing that salvation goes beyond attitudes to action."
+      "context": "Remembering and without ceasing describe effective prayer (see 2:13; 5:16-18). Faith, hope, and love are three Christian virtues Paul links together in other letters ([[1CO.13:13]]; [[COL.1:4]], [[COL.1:5]]). These virtues are connected to actions: faith works, love labors, hope produces patience, showing that salvation goes beyond attitudes to action.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology",
+        "faith",
+        "prayer"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

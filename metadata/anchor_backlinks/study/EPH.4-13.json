@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "till we all come to the unity of the faith and of the knowledge of the Son of God, to a perfect man, to the measure of the stature of the fullness of Christ;",
   "pericope": {
     "id": "EPH.P011",
@@ -12,7 +12,12 @@
     "range": "EPH.4:12-4:23",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "faith",
+    "mercy",
+    "theosis"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +25,22 @@
       "line_number": 603,
       "raw_match": "[[EPH.4:13]]",
       "reference_type": "wikilink",
-      "context": "The summary statement of all that has preceded. The Christian can indeed grow in the perfection of the Father ([[EPH.4:13]]; see also the article, \"Deification,\" at 2Pt 1), which is shown by imitating His love and mercy (compare [[LUK.6:36]])."
+      "context": "The summary statement of all that has preceded. The Christian can indeed grow in the perfection of the Father ([[EPH.4:13]]; see also the article, \"Deification,\" at 2Pt 1), which is shown by imitating His love and mercy (compare [[LUK.6:36]]).",
+      "edge_type": "ascends_from",
+      "topic_threads": [
+        "christology",
+        "faith",
+        "mercy",
+        "theosis"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

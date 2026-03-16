@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Jesus answered and said to her, 'Whoever drinks of this water will thirst again,",
   "pericope": {
     "id": "JOH.P011",
@@ -12,7 +12,12 @@
     "range": "JOH.3:21-4:44",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "baptism",
+    "christology",
+    "repentance",
+    "wisdom"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,28 +25,78 @@
       "line_number": 1812,
       "raw_match": "[[JOH.4:10]]-14",
       "reference_type": "wikilink_range",
-      "context": "The water of life (\"living water,\" [[JOH.4:10]]-14; 7:37-39, or \"living fountains of waters,\" [[REV.7:17]]) is the grace of the Holy Spirit, bestowed along with baptism in chrismation. Only the one who thirsts will be given the water forever (v. 6). And, repeating the concluding exhortation of each of the seven letters (chs. 2; 3), only those who overcome (v. 7), who persist in their allegiance to God, inherit, becoming permanent sons of God. Those who fall away through cowardice or unbelief face instead the lake of fire (v. 8). They lose God's inheritance, receiving instead the damning recompense of sin and death (see 20:15; 22:15), along with Satan, the beast, the false prophet, Death, and Hades."
+      "context": "The water of life (\"living water,\" [[JOH.4:10]]-14; 7:37-39, or \"living fountains of waters,\" [[REV.7:17]]) is the grace of the Holy Spirit, bestowed along with baptism in chrismation. Only the one who thirsts will be given the water forever (v. 6). And, repeating the concluding exhortation of each of the seven letters (chs. 2; 3), only those who overcome (v. 7), who persist in their allegiance to God, inherit, becoming permanent sons of God. Those who fall away through cowardice or unbelief face instead the lake of fire (v. 8). They lose God's inheritance, receiving instead the damning recompense of sin and death (see 20:15; 22:15), along with Satan, the beast, the false prophet, Death, and Hades.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "baptism"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/BAR_footnotes.md",
       "line_number": 112,
       "raw_match": "[[JOH.4:13]]",
       "reference_type": "wikilink",
-      "context": "The fountain of wisdom is a likely reference to God the Father (see [[JER.2:13]], where the Father and Son are together depicted as a fountain and living water). In WSir 1:5, the Word is described as the fountain of wisdom (see [[LUK.2:40]], [[LUK.2:52]]; 21:15; [[JOH.4:13]], [[JOH.4:14]])."
+      "context": "The fountain of wisdom is a likely reference to God the Father (see [[JER.2:13]], where the Father and Son are together depicted as a fountain and living water). In WSir 1:5, the Word is described as the fountain of wisdom (see [[LUK.2:40]], [[LUK.2:52]]; 21:15; [[JOH.4:13]], [[JOH.4:14]]).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "wisdom"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/MIC_footnotes.md",
       "line_number": 32,
       "raw_match": "[[JOH.4:1]]-42",
       "reference_type": "wikilink_range",
-      "context": ", 7 Samaritans were among the first to repent and receive the gospel ([[JOH.4:1]]-42). Therefore, this prophecy is ultimately fulfilled in the Church, Christ's vineyard."
+      "context": ", 7 Samaritans were among the first to repent and receive the gospel ([[JOH.4:1]]-42). Therefore, this prophecy is ultimately fulfilled in the Church, Christ's vineyard.",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "repentance"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/ZEC_footnotes.md",
       "line_number": 490,
       "raw_match": "[[JOH.4:10]]-14",
       "reference_type": "wikilink_range",
-      "context": "Christ is the living water ([[JOH.4:10]]-14). In the Apocalypse, a river runs through the Holy City ([[REV.22:1]]-5). The Garden of Eden was at the headwaters of four great rivers ([[GEN.2:10]]-15). In the garden of Paradise, Christ is the living water who sustains, refreshes, and gives life to the inhabitants."
+      "context": "Christ is the living water ([[JOH.4:10]]-14). In the Apocalypse, a river runs through the Holy City ([[REV.22:1]]-5). The Garden of Eden was at the headwaters of four great rivers ([[GEN.2:10]]-15). In the garden of Paradise, Christ is the living water who sustains, refreshes, and gives life to the inhabitants.",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "baptism",
+        "christology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

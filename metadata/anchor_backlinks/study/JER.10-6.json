@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "The silver is worked in relief, and they cannot travel anywhere. The silver overlays come from Tarshish, the gold from Uphaz. All handiwork is the work of goldsmiths and craftsmen, and they will dress them in hyacinth and purple.'",
   "pericope": {
     "id": "JER.P019",
@@ -12,7 +12,9 @@
     "range": "JER.9:25-10:11",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 1196,
       "raw_match": "[[JER.10:6]]",
       "reference_type": "wikilink",
-      "context": "The prophecy refers to the Incarnation, when the Son of God takes on human flesh, becoming like us. Similar passages are [[EXO.15:11]]; [[PSA.85:8]]; [[JER.10:6]], [[JER.10:7]]."
+      "context": "The prophecy refers to the Incarnation, when the Son of God takes on human flesh, becoming like us. Similar passages are [[EXO.15:11]]; [[PSA.85:8]]; [[JER.10:6]], [[JER.10:7]].",
+      "edge_type": "descends_to",
+      "topic_threads": [
+        "christology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

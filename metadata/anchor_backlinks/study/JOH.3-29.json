@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "He who has the bride is the bridegroom; but the friend of the bridegroom, who stands and hears him, rejoices greatly because of the bridegroom's voice. Therefore this joy of mine is fulfilled.",
   "pericope": {
     "id": "JOH.P011",
@@ -12,7 +12,9 @@
     "range": "JOH.3:21-4:44",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 1917,
       "raw_match": "[[JOH.3:29]]",
       "reference_type": "wikilink",
-      "context": "Like the preceding parables, this one also proclaims the transfer of the Kingdom from the faithless Jews to the Gentiles. It is set as a joyful wedding banquet (v. 2; see 25:1-13), for Christ is often called the \"Bridegroom\" (9:15; [[JOH.3:29]]), and St. Paul uses a marriage analogy for the Kingdom ([[EPH.5:21]]-33). The repeated sending out of servants shows the Father's great desire to have His people with Him in the Kingdom. The first group (v. 3) is interpreted to be Moses and those with him, while the second group (v. 4) is composed of the prophets. These groups call those initially invited--the Jews. The third group (v. 9) represents the apostles sent to the Gentiles, those not initially invited, but now called."
+      "context": "Like the preceding parables, this one also proclaims the transfer of the Kingdom from the faithless Jews to the Gentiles. It is set as a joyful wedding banquet (v. 2; see 25:1-13), for Christ is often called the \"Bridegroom\" (9:15; [[JOH.3:29]]), and St. Paul uses a marriage analogy for the Kingdom ([[EPH.5:21]]-33). The repeated sending out of servants shows the Father's great desire to have His people with Him in the Kingdom. The first group (v. 3) is interpreted to be Moses and those with him, while the second group (v. 4) is composed of the prophets. These groups call those initially invited--the Jews. The third group (v. 9) represents the apostles sent to the Gentiles, those not initially invited, but now called.",
+      "edge_type": "opposes",
+      "topic_threads": [
+        "christology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "and that no one may buy or sell except one who has the mark or the name of the beast, or the number of his name.",
   "pericope": {
     "id": "REV.P036",
@@ -20,7 +20,16 @@
       "line_number": 187,
       "raw_match": "[[REV.13:17]]",
       "reference_type": "wikilink",
-      "context": "Those registered are those who willingly comply. They will be branded, and this mark of allegiance will be permanent. Some people in ancient times would mark or brand themselves with the symbol of their god, here the ivy leaf. St. John predicts a similar mark of the beast ([[REV.13:16]], [[REV.13:17]]) in the end times."
+      "context": "Those registered are those who willingly comply. They will be branded, and this mark of allegiance will be permanent. Some people in ancient times would mark or brand themselves with the symbol of their god, here the ivy leaf. St. John predicts a similar mark of the beast ([[REV.13:16]], [[REV.13:17]]) in the end times.",
+      "edge_type": "fulfills",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "In the beginning, O Lord, You founded the earth, And the heavens are the works of Your hands.",
   "pericope": {
     "id": "PSA.P101",
@@ -12,7 +12,9 @@
     "range": "PSA.101:1-101:29",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "creation_theology"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 95,
       "raw_match": "[[PSA.101:26]]-28",
       "reference_type": "wikilink_range",
-      "context": "In this quotation from [[PSA.101:26]]-28, God the Father (v. 9) is addressing Another as \"Lord,\" that is, as God."
+      "context": "In this quotation from [[PSA.101:26]]-28, God the Father (v. 9) is addressing Another as \"Lord,\" that is, as God.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "creation_theology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "I sent you to reap that for which you have not labored; others have labored, and you have entered into their labors.'",
   "pericope": {
     "id": "JOH.P011",
@@ -12,7 +12,10 @@
     "range": "JOH.3:21-4:44",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "repentance"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,14 +23,36 @@
       "line_number": 1002,
       "raw_match": "[[JOH.4:36]]-38",
       "reference_type": "wikilink_range",
-      "context": "The harvest suggests the abundance of those who are ready to accept the Kingdom. Jesus is both the Sower and the Lord of the harvest. His disciples are sent not to sow, but to reap what He had sown by the prophets (see note at [[JOH.4:36]]-38). How many are sent to harvest is less important than with what power they go into the harvest (10:1)."
+      "context": "The harvest suggests the abundance of those who are ready to accept the Kingdom. Jesus is both the Sower and the Lord of the harvest. His disciples are sent not to sow, but to reap what He had sown by the prophets (see note at [[JOH.4:36]]-38). How many are sent to harvest is less important than with what power they go into the harvest (10:1).",
+      "edge_type": "instantiates",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/MIC_footnotes.md",
       "line_number": 32,
       "raw_match": "[[JOH.4:1]]-42",
       "reference_type": "wikilink_range",
-      "context": ", 7 Samaritans were among the first to repent and receive the gospel ([[JOH.4:1]]-42). Therefore, this prophecy is ultimately fulfilled in the Church, Christ's vineyard."
+      "context": ", 7 Samaritans were among the first to repent and receive the gospel ([[JOH.4:1]]-42). Therefore, this prophecy is ultimately fulfilled in the Church, Christ's vineyard.",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "repentance"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "This man went to Pilate and asked for the body of Jesus.",
   "pericope": {
     "id": "LUK.P120",
@@ -12,7 +12,9 @@
     "range": "LUK.23:49-23:55",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "faith"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 2094,
       "raw_match": "[[LUK.23:50]]-53",
       "reference_type": "wikilink_range",
-      "context": "Joseph of Arimathea was a hidden disciple, one who believed in Jesus but had made no public acknowledgement of faith. Nicodemus had come to Jesus by night (3:2) and later defended Him before the Pharisees (7:50-52). By burying Him, both show their devotion to our Lord publicly, in stark contrast to the fearful disciples, who had scattered. See also note at [[LUK.23:50]]-53."
+      "context": "Joseph of Arimathea was a hidden disciple, one who believed in Jesus but had made no public acknowledgement of faith. Nicodemus had come to Jesus by night (3:2) and later defended Him before the Pharisees (7:50-52). By burying Him, both show their devotion to our Lord publicly, in stark contrast to the fearful disciples, who had scattered. See also note at [[LUK.23:50]]-53.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "faith"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

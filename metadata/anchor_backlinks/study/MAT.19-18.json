@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "He said to Him, 'Which ones?'",
   "pericope": {
     "id": "MAT.P064",
@@ -12,7 +12,13 @@
     "range": "MAT.19:15-19:29",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "eschatology",
+    "judgment",
+    "priesthood",
+    "resurrection"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +26,23 @@
       "line_number": 1727,
       "raw_match": "[[MAT.19:18]]",
       "reference_type": "wikilink",
-      "context": "Those who have died for their witness to Jesus are in heaven living and reigning with Him (5:9, 10; [[MAT.19:18]]; [[2TI.2:12]]) as royal priests (1:6; 5:9, 10; Is 61:6; 1Pt 2:9, 10) while the Church serves Him here on earth. The first resurrection (v. 6) is the heavenly life of souls who have died in Christ before His Second Coming. Those not in Christ who die are in Hades awaiting the resurrection of the body at His coming. For the righteous saints with Christ, the second death has no power (v. 6). These righteous spirits ([[HEB.12:23]]) await only the reuniting of soul and body after the final judgment, when all things are made new (21:1). Hell or Hades (Sheol), where sinners' souls are separated from their bodies, will give up its dead to Gehenna (vv. 13, 14), the lake of fire that burns with sulphur (21:8), which is eternal damnation ([[MAT.25:41]]). Sinners will be excluded from the blessedness of the age to come. Hell cannot harm the victorious in Christ (2:11)."
+      "context": "Those who have died for their witness to Jesus are in heaven living and reigning with Him (5:9, 10; [[MAT.19:18]]; [[2TI.2:12]]) as royal priests (1:6; 5:9, 10; Is 61:6; 1Pt 2:9, 10) while the Church serves Him here on earth. The first resurrection (v. 6) is the heavenly life of souls who have died in Christ before His Second Coming. Those not in Christ who die are in Hades awaiting the resurrection of the body at His coming. For the righteous saints with Christ, the second death has no power (v. 6). These righteous spirits ([[HEB.12:23]]) await only the reuniting of soul and body after the final judgment, when all things are made new (21:1). Hell or Hades (Sheol), where sinners' souls are separated from their bodies, will give up its dead to Gehenna (vv. 13, 14), the lake of fire that burns with sulphur (21:8), which is eternal damnation ([[MAT.25:41]]). Sinners will be excluded from the blessedness of the age to come. Hell cannot harm the victorious in Christ (2:11).",
+      "edge_type": "ascends_from",
+      "topic_threads": [
+        "christology",
+        "eschatology",
+        "judgment",
+        "priesthood",
+        "resurrection"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

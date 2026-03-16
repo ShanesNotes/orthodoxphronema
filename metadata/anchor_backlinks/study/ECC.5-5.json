@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Do not let your mouth cause your flesh to sin, and do not say in the presence of God, 'It was a mistake.' Why should God be angry at your voice, and destroy the work of your hands?",
   "pericope": {
     "id": "ECC.P015",
@@ -12,7 +12,9 @@
     "range": "ECC.3:22-7:28",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "covenant"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 1004,
       "raw_match": "[[ECC.5:5]]",
       "reference_type": "wikilink",
-      "context": "The subject matter of this chapter is quite different from the rest of the book. It deals with voluntary vows made to God not called for in the Law. However, such vows were not prohibited. One could choose to make vows, and if he did, there were terms and conditions governing them. There is likely little typological value in these vows. Further, no vows are called for in the new covenant. However, some choose to make vows to God. These are not forbidden, though it is important we not imagine that we curry grace with God by making them. Perhaps above all, we must be aware that if we should make a vow to God, we must follow through in keeping it: \"When you make a vow to God, do not delay to pay it; / For He has no pleasure in fools. / Pay what you have vowed. / Better not to vow than to vow and not pay\" ([[ECC.5:4]], [[ECC.5:5]])."
+      "context": "The subject matter of this chapter is quite different from the rest of the book. It deals with voluntary vows made to God not called for in the Law. However, such vows were not prohibited. One could choose to make vows, and if he did, there were terms and conditions governing them. There is likely little typological value in these vows. Further, no vows are called for in the new covenant. However, some choose to make vows to God. These are not forbidden, though it is important we not imagine that we curry grace with God by making them. Perhaps above all, we must be aware that if we should make a vow to God, we must follow through in keeping it: \"When you make a vow to God, do not delay to pay it; / For He has no pleasure in fools. / Pay what you have vowed. / Better not to vow than to vow and not pay\" ([[ECC.5:4]], [[ECC.5:5]]).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "covenant"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

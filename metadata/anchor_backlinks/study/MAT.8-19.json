@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Then a certain scribe came and said to Him, 'Teacher, I will follow You wherever You go.'",
   "pericope": {
     "id": "MAT.P018",
@@ -12,7 +12,9 @@
     "range": "MAT.8:17-8:26",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "suffering"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 1339,
       "raw_match": "[[MAT.8:19]]",
       "reference_type": "wikilink",
-      "context": "The cross is the sign of salvation which the apostles shall declare... among the Gentiles (see [[MAT.8:19]])."
+      "context": "The cross is the sign of salvation which the apostles shall declare... among the Gentiles (see [[MAT.8:19]]).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

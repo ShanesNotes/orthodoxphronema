@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "and prayed to Him. And the Lord received his entreaty, heard his cry, and brought him back to Jerusalem into his kingdom. Then Manasseh knew that the Lord was God.",
   "pericope": {
     "id": "2CH.P064",
@@ -12,7 +12,12 @@
     "range": "2CH.33:10-33:17",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "mercy",
+    "prayer",
+    "repentance",
+    "suffering"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +25,22 @@
       "line_number": 275,
       "raw_match": "[[2CH.33:13]]",
       "reference_type": "wikilink",
-      "context": ", 2 As long as Manasseh was \"free\" to live according to his passions, he remained in bondage to them. But when the Lord allowed him to be taken into captivity, he found repentance and was restored to his kingdom ([[2CH.33:13]]). \"Now if, considering the magnitude of his own iniquities, he had despaired of restoration and repentance, he would have missed all which he afterwards obtained. But as it was, looking to the boundlessness of God's tender mercy instead of the enormity of his transgressions, and having broken in sunder the bonds of the devil, he rose up and contended with him, and finished the good course\" (Dion)."
+      "context": ", 2 As long as Manasseh was \"free\" to live according to his passions, he remained in bondage to them. But when the Lord allowed him to be taken into captivity, he found repentance and was restored to his kingdom ([[2CH.33:13]]). \"Now if, considering the magnitude of his own iniquities, he had despaired of restoration and repentance, he would have missed all which he afterwards obtained. But as it was, looking to the boundlessness of God's tender mercy instead of the enormity of his transgressions, and having broken in sunder the bonds of the devil, he rose up and contended with him, and finished the good course\" (Dion).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "mercy",
+        "prayer",
+        "repentance",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

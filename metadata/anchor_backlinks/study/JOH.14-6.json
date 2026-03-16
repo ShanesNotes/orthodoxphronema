@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Jesus said to him, 'I am the way, the truth, and the life. No one comes to the Father except through Me.",
   "pericope": {
     "id": "JOH.P051",
@@ -12,7 +12,19 @@
     "range": "JOH.13:38-14:13",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "baptism",
+    "christology",
+    "eucharist",
+    "exodus_typology",
+    "faith",
+    "kingdom",
+    "logos",
+    "repentance",
+    "resurrection",
+    "theosis",
+    "wisdom"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,49 +32,141 @@
       "line_number": 217,
       "raw_match": "[[JOH.14:1]]-6",
       "reference_type": "wikilink_range",
-      "context": "The Orthodox Faith teaches that salvation in Christ includes: (1) a passage from death to life, from darkness to light ([[JOH.3:1]]-6; [[COL.1:13]], [[COL.1:14]]), through repentance, faith, and baptism (\"I have been saved\"); (2) a process of spiritual growth and maturation (2Pt 1:2-8) through ongoing repentance, faith, and communion, often called deification (\"I am being saved\"); and (3) a promise of eternal life (5:9-11; [[JOH.14:1]]-6), calling us to perseverance and righteousness (\"I shall be saved\"). It is this second element, the process of our salvation, that Paul describes here, saying that our inner life is being renewed day by day."
+      "context": "The Orthodox Faith teaches that salvation in Christ includes: (1) a passage from death to life, from darkness to light ([[JOH.3:1]]-6; [[COL.1:13]], [[COL.1:14]]), through repentance, faith, and baptism (\"I have been saved\"); (2) a process of spiritual growth and maturation (2Pt 1:2-8) through ongoing repentance, faith, and communion, often called deification (\"I am being saved\"); and (3) a promise of eternal life (5:9-11; [[JOH.14:1]]-6), calling us to perseverance and righteousness (\"I shall be saved\"). It is this second element, the process of our salvation, that Paul describes here, saying that our inner life is being renewed day by day.",
+      "edge_type": "opposes",
+      "topic_threads": [
+        "baptism",
+        "christology",
+        "eucharist",
+        "faith",
+        "repentance",
+        "theosis"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 10,
+        "title": "Light and Darkness: A Spiritual Perspective",
+        "polarity": "vertical",
+        "operation": "ascend",
+        "scale": "communal"
+      }
     },
     {
       "source_file": "study/footnotes/NT/ROM_footnotes.md",
       "line_number": 226,
       "raw_match": "[[JOH.14:6]]",
       "reference_type": "wikilink",
-      "context": "The ultimate purpose of man's existence is to attain the glory of God. Even if a person were to keep the whole law, he would still fall short of that glory, because he would still be bound by death. The glory of God is both eternal righteousness and eternal life. Jesus Christ alone lived in completed righteousness, and He alone was resurrected from the dead. Therefore, He alone is the fullness of the glory of God, and we receive that glory in Him (see [[JOH.14:6]])."
+      "context": "The ultimate purpose of man's existence is to attain the glory of God. Even if a person were to keep the whole law, he would still fall short of that glory, because he would still be bound by death. The glory of God is both eternal righteousness and eternal life. Jesus Christ alone lived in completed righteousness, and He alone was resurrected from the dead. Therefore, He alone is the fullness of the glory of God, and we receive that glory in Him (see [[JOH.14:6]]).",
+      "edge_type": "opposes",
+      "topic_threads": [
+        "christology",
+        "resurrection"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/1ES_footnotes.md",
       "line_number": 16,
       "raw_match": "[[JOH.14:6]]",
       "reference_type": "wikilink",
-      "context": "The Passover under Josiah and the account of his death (vv. 26-31). Josiah was the last king of Judah to seek truth (v. 21). As such, he is a figure of Christ, who is the embodiment of truth ([[JOH.14:6]]). From Exodus 12 we learn that the Feast of the Passover is an OT type of the NT paschal feast ([[1CO.10:23]]-26), in which the Church celebrates the death and Resurrection of Christ."
+      "context": "The Passover under Josiah and the account of his death (vv. 26-31). Josiah was the last king of Judah to seek truth (v. 21). As such, he is a figure of Christ, who is the embodiment of truth ([[JOH.14:6]]). From Exodus 12 we learn that the Feast of the Passover is an OT type of the NT paschal feast ([[1CO.10:23]]-26), in which the Church celebrates the death and Resurrection of Christ.",
+      "edge_type": "echoes",
+      "topic_threads": [
+        "christology",
+        "exodus_typology",
+        "resurrection"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/EXO_footnotes.md",
       "line_number": 1035,
       "raw_match": "[[JOH.14:6]]",
       "reference_type": "wikilink",
-      "context": "The twelve stones speak of twelve names of Christ by which our holy faith is built up. They reveal His oneness of essence with the Father and the fact that He is undivided from Him. He is called God and Word ([[JOH.1:1]]), Son and Only-begotten (Jn 1:18), Brightness and Impress ([[HEB.1:3]]), Mirror ([[JOH.14:9]]) and Image ([[COL.1:15]]), Wisdom and Power ([[1CO.1:24]]), and Truth and Life ([[JOH.14:6]]; AmbM)."
+      "context": "The twelve stones speak of twelve names of Christ by which our holy faith is built up. They reveal His oneness of essence with the Father and the fact that He is undivided from Him. He is called God and Word ([[JOH.1:1]]), Son and Only-begotten (Jn 1:18), Brightness and Impress ([[HEB.1:3]]), Mirror ([[JOH.14:9]]) and Image ([[COL.1:15]]), Wisdom and Power ([[1CO.1:24]]), and Truth and Life ([[JOH.14:6]]; AmbM).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "faith",
+        "wisdom"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/JER_footnotes.md",
       "line_number": 174,
       "raw_match": "[[JOH.14:6]]",
       "reference_type": "wikilink",
-      "context": "St. Athanasius connects this passage with [[JOH.14:6]], where Jesus says, \"I am the way, the truth, and the life. No one comes to the Father except through Me.\""
+      "context": "St. Athanasius connects this passage with [[JOH.14:6]], where Jesus says, \"I am the way, the truth, and the life. No one comes to the Father except through Me.\"",
+      "edge_type": "witnesses",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/PRO_footnotes.md",
       "line_number": 317,
       "raw_match": "[[JOH.14:6]]",
       "reference_type": "wikilink",
-      "context": "Wisdom is the truth of the Father and only speaks the truth (vv. 6b, 7). Since He is the truth, He only speaks what is righteous; there is nothing unrighteous in His words. His righteousness is one of the general virtues that begets all the other virtues. In [[JOH.14:6]], He said, \"I am the truth.\""
+      "context": "Wisdom is the truth of the Father and only speaks the truth (vv. 6b, 7). Since He is the truth, He only speaks what is righteous; there is nothing unrighteous in His words. His righteousness is one of the general virtues that begets all the other virtues. In [[JOH.14:6]], He said, \"I am the truth.\"",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "wisdom"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/SNG_footnotes.md",
       "line_number": 559,
       "raw_match": "[[JOH.14:6]]",
       "reference_type": "wikilink",
-      "context": ", 10 The wall is the bride, the Church, and Ambrose also sees it as the believer's soul. In either case, the goal is to build upon what is there. The Lord calls Himself a door (Jn 10:9), for we cannot enter the Kingdom of heaven but through Him ([[JOH.14:6]]). Neither can we know Him fully apart from the Church; hence the Bride is herself likened to a door. Cedar panels are both aromatic and pleasing to the sight."
+      "context": ", 10 The wall is the bride, the Church, and Ambrose also sees it as the believer's soul. In either case, the goal is to build upon what is there. The Lord calls Himself a door (Jn 10:9), for we cannot enter the Kingdom of heaven but through Him ([[JOH.14:6]]). Neither can we know Him fully apart from the Church; hence the Bride is herself likened to a door. Cedar panels are both aromatic and pleasing to the sight.",
+      "edge_type": "witnesses",
+      "topic_threads": [
+        "faith",
+        "kingdom"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

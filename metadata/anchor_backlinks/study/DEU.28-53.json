@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "'You shall eat the offspring of your womb, the flesh of your sons and your daughters the Lord your God gave you, in the distress and desperate straits in which your enemy shall distress you.",
   "pericope": {
     "id": "DEU.P060",
@@ -12,7 +12,10 @@
     "range": "DEU.27:26-28:68",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "divine_word",
+    "repentance"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,14 +23,38 @@
       "line_number": 70,
       "raw_match": "[[DEU.28:53]]",
       "reference_type": "wikilink",
-      "context": "; 4:10; [[EZK.5:10]]; [[2KI.23:10]]; [[DEU.28:53]]). 2:5 See [[DEU.28:13]]. 2:9 The Lord brings calamities upon us in His righteousness for our good, that we might turn back to Him."
+      "context": "; 4:10; [[EZK.5:10]]; [[2KI.23:10]]; [[DEU.28:53]]). 2:5 See [[DEU.28:13]]. 2:9 The Lord brings calamities upon us in His righteousness for our good, that we might turn back to Him.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "repentance"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/LAM_footnotes.md",
       "line_number": 46,
       "raw_match": "[[DEU.28:15]]-68",
       "reference_type": "wikilink_range",
-      "context": "I provoked His mouth is a reference to breaking the laws God spoke to Moses and thus to His people. From 1:18-22, the \"I\" is the city of Jerusalem, and the warning for her disobedience was issued and recorded in [[DEU.28:15]]-68."
+      "context": "I provoked His mouth is a reference to breaking the laws God spoke to Moses and thus to His people. From 1:18-22, the \"I\" is the city of Jerusalem, and the warning for her disobedience was issued and recorded in [[DEU.28:15]]-68.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "divine_word"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "At this time Moses was born, and was well pleasing to God; and he was brought up in his father's house for three months.",
   "pericope": {
     "id": "ACT.P023",
@@ -12,7 +12,10 @@
     "range": "ACT.6:15-7:51",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "faith"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 60,
       "raw_match": "[[ACT.7:20]]",
       "reference_type": "wikilink",
-      "context": "Miriam, Moses' sister, was watching from a distance to learn what would become of Moses. She, too, was a woman of God whose faith led to learning. She would learn through observing the divine providence in the situation ([[ACT.7:20]]). And we can learn how easy it is for the Lord to keep incarnational history in motion in the midst of great opposition."
+      "context": "Miriam, Moses' sister, was watching from a distance to learn what would become of Moses. She, too, was a woman of God whose faith led to learning. She would learn through observing the divine providence in the situation ([[ACT.7:20]]). And we can learn how easy it is for the Lord to keep incarnational history in motion in the midst of great opposition.",
+      "edge_type": "descends_to",
+      "topic_threads": [
+        "christology",
+        "faith"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

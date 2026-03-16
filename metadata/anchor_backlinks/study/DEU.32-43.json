@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "'Rejoice, O Heavens, together with Him, And worship Him, all the sons of God; Rejoice, O Gentiles, with His people; And let all the angels of God be strong with Him; For He will avenge the blood of His sons And render vengeance to His adversaries;",
   "pericope": {
     "id": "DEU.P067",
@@ -12,7 +12,13 @@
     "range": "DEU.32:43-32:51",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "baptism",
+    "christology",
+    "exodus_typology",
+    "kingdom",
+    "praise"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,14 +26,43 @@
       "line_number": 65,
       "raw_match": "[[DEU.32:43]]",
       "reference_type": "wikilink",
-      "context": "Christ is superior to the angels. They are, in some Judaic thought, only \"the sons of God,\" whereas Christ is the Son of God. (The LXX at [[DEU.32:43]], which Hebrews paraphrases in v. 6, literally reads \"sons of God,\" not \"angels of God.\") While Christ is recognized as God's eternal Son at His Baptism and the Transfiguration, it is His enthronement in heaven that settles the matter (v. 4; see [[ROM.1:4]]). Begotten is a reference to the Son in His divine, eternal nature. The Nicene Creed states He is \"begotten, not made, begotten from the Father before all time.\" Today is eternity. There never was a time when God the Son did not exist."
+      "context": "Christ is superior to the angels. They are, in some Judaic thought, only \"the sons of God,\" whereas Christ is the Son of God. (The LXX at [[DEU.32:43]], which Hebrews paraphrases in v. 6, literally reads \"sons of God,\" not \"angels of God.\") While Christ is recognized as God's eternal Son at His Baptism and the Transfiguration, it is His enthronement in heaven that settles the matter (v. 4; see [[ROM.1:4]]). Begotten is a reference to the Son in His divine, eternal nature. The Nicene Creed states He is \"begotten, not made, begotten from the Father before all time.\" Today is eternity. There never was a time when God the Son did not exist.",
+      "edge_type": "opposes",
+      "topic_threads": [
+        "baptism",
+        "christology",
+        "kingdom"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/NT/REV_footnotes.md",
       "line_number": 1302,
       "raw_match": "[[DEU.32:1]]-43",
       "reference_type": "wikilink_range",
-      "context": "The victory celebration for those who refuse to submit to Antichrist, perhaps a hymn used in the liturgy of the early Church. In contrast to the idolatry of the beast, this hymn emphasizes the worthiness of the true God. The song of Moses and the Lamb (v. 3) is prefigured in the hymns of [[EXO.15:1]]-18 and [[DEU.32:1]]-43, where victory over the oppression of Pharaoh and the Egyptians is celebrated. The Jews incorporated these into the Sabbath liturgy, and the Church also sings them at various times of the year (for example, in Matins, and in the Vespers of Holy Saturday). The Church sings this song of the Lamb in baptism and at the Great Blessing of Water."
+      "context": "The victory celebration for those who refuse to submit to Antichrist, perhaps a hymn used in the liturgy of the early Church. In contrast to the idolatry of the beast, this hymn emphasizes the worthiness of the true God. The song of Moses and the Lamb (v. 3) is prefigured in the hymns of [[EXO.15:1]]-18 and [[DEU.32:1]]-43, where victory over the oppression of Pharaoh and the Egyptians is celebrated. The Jews incorporated these into the Sabbath liturgy, and the Church also sings them at various times of the year (for example, in Matins, and in the Vespers of Holy Saturday). The Church sings this song of the Lamb in baptism and at the Great Blessing of Water.",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "baptism",
+        "christology",
+        "exodus_typology",
+        "praise"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

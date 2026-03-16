@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "And the daughters of Tyre shall worship Him with gifts; The rich among the people shall entreat your favor.",
   "pericope": {
     "id": "PSA.P044",
@@ -12,7 +12,9 @@
     "range": "PSA.44:1-44:18",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "praise"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 371,
       "raw_match": "[[PSA.44:13]]",
       "reference_type": "wikilink",
-      "context": "The variegated robe was worn by virgins. It is the same type of robe as described in [[PSA.44:13]], [[PSA.44:14]], a psalm typifying the Virgin Mary. Tamar observes the mourning tradition for the loss of her virginity by placing ashes on her head and rending the garment. Absalom cautions her to remain quiet as he shelters her in his house."
+      "context": "The variegated robe was worn by virgins. It is the same type of robe as described in [[PSA.44:13]], [[PSA.44:14]], a psalm typifying the Virgin Mary. Tamar observes the mourning tradition for the loss of her virginity by placing ashes on her head and rending the garment. Absalom cautions her to remain quiet as he shelters her in his house.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "praise"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

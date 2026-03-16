@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Are all apostles? Are all prophets? Are all teachers? Are all workers of miracles?",
   "pericope": {
     "id": "1CO.P029",
@@ -12,7 +12,10 @@
     "range": "1CO.12:26-13:12",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "faith"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 790,
       "raw_match": "[[1CO.12:29]]",
       "reference_type": "wikilink",
-      "context": "These prophets are Christian believers within the Church who have the gift of prophecy (see [[1CO.12:29]]; 14:3, 29; [[EPH.4:11]])."
+      "context": "These prophets are Christian believers within the Church who have the gift of prophecy (see [[1CO.12:29]]; 14:3, 29; [[EPH.4:11]]).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology",
+        "faith"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

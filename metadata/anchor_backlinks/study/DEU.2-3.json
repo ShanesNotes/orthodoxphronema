@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "'Let your encircling of this mountain be sufficient; therefore, turn northward.",
   "pericope": {
     "id": "DEU.P005",
@@ -20,7 +20,8 @@
       "line_number": 410,
       "raw_match": "[[DEU.2:1]]-6",
       "reference_type": "wikilink_range",
-      "context": "Mount Seir is Edom (v. 15), where Esau, brother of Jacob, settled ([[GEN.36:8]]). See [[DEU.2:1]]-6 and note."
+      "context": "Mount Seir is Edom (v. 15), where Esau, brother of Jacob, settled ([[GEN.36:8]]). See [[DEU.2:1]]-6 and note.",
+      "edge_type": "instantiates"
     }
   ]
 }

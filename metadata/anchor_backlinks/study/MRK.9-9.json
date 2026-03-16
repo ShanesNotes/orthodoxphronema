@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Now as they came down from the mountain, He commanded them that they should tell no one the things they had seen, till the Son of Man had risen from the dead.",
   "pericope": {
     "id": "MRK.P033",
@@ -12,7 +12,13 @@
     "range": "MRK.9:1-9:28",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "eschatology",
+    "praise",
+    "resurrection",
+    "theosis"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +26,23 @@
       "line_number": 180,
       "raw_match": "[[MRK.9:2]]-9",
       "reference_type": "wikilink_range",
-      "context": "Made in God's image and likeness, we are fulfilled by becoming like Him, a process called sanctification or deification. Being \"partakers of the divine nature\" ([[2PE.1:4]]), we are \"transformed into the same image from glory to glory\" ([[2CO.3:18]]). When we see Him as He is, in the fullness of His glory at the last day, this process will be supremely magnified. John had seen the foretaste of this glory on the Mount of Transfiguration (Mt 17:1-9; [[MRK.9:2]]-9; [[LUK.9:28]]-36). How shall we see Him? Through our likeness to Him; our human nature will be glorified with the glorified humanity of the Son (see [[COL.3:3]], [[COL.3:4]]) and through a knowledge of all three Persons of the Trinity. (Note Paul's expressions, \"face to face\" and \"with unveiled face\" in [[1CO.13:12]]; [[2CO.3:18]])."
+      "context": "Made in God's image and likeness, we are fulfilled by becoming like Him, a process called sanctification or deification. Being \"partakers of the divine nature\" ([[2PE.1:4]]), we are \"transformed into the same image from glory to glory\" ([[2CO.3:18]]). When we see Him as He is, in the fullness of His glory at the last day, this process will be supremely magnified. John had seen the foretaste of this glory on the Mount of Transfiguration (Mt 17:1-9; [[MRK.9:2]]-9; [[LUK.9:28]]-36). How shall we see Him? Through our likeness to Him; our human nature will be glorified with the glorified humanity of the Son (see [[COL.3:3]], [[COL.3:4]]) and through a knowledge of all three Persons of the Trinity. (Note Paul's expressions, \"face to face\" and \"with unveiled face\" in [[1CO.13:12]]; [[2CO.3:18]]).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "eschatology",
+        "praise",
+        "resurrection",
+        "theosis"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

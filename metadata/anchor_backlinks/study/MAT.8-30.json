@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Now good way off from them there was a herd of many swine feeding.",
   "pericope": {
     "id": "MAT.P019",
@@ -20,7 +20,16 @@
       "line_number": 122,
       "raw_match": "[[MAT.8:28]]-34",
       "reference_type": "wikilink_range",
-      "context": "The country of the Gadarenes was in Galilee, an area with many Gentiles living among the Jews (see also note at [[MAT.4:15]]). Gentile influence on the Jews caused many of them to take on Gentile practices, such as raising swine (v. 11), forbidden by the Law (Dt 14:8). For more on this miracle, see notes at [[MAT.8:28]]-34 and [[LUK.8:33]]."
+      "context": "The country of the Gadarenes was in Galilee, an area with many Gentiles living among the Jews (see also note at [[MAT.4:15]]). Gentile influence on the Jews caused many of them to take on Gentile practices, such as raising swine (v. 11), forbidden by the Law (Dt 14:8). For more on this miracle, see notes at [[MAT.8:28]]-34 and [[LUK.8:33]].",
+      "edge_type": "instantiates",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

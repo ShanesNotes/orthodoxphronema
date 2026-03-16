@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "But into the second part the high priest went alone once a year, not without blood, which he offered for himself and for the people's sins committed in ignorance;",
   "pericope": {
     "id": "HEB.P018",
@@ -12,7 +12,11 @@
     "range": "HEB.8:13-9:8",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "prayer",
+    "priesthood"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +24,21 @@
       "line_number": 64,
       "raw_match": "[[HEB.9:7]]",
       "reference_type": "wikilink",
-      "context": "As high priest, Zacharias prayed not for a son, but for the atonement of the sins of Israel ([[HEB.9:7]]). Gabriel's (v. 19) announcement reveals both that Zacharias' prayer for atonement will be answered and that Elizabeth will conceive a son. This atonement will be announced by John, who will identify Christ as \"the Lamb of God who takes away the sin of the world\" ([[JOH.1:29]])."
+      "context": "As high priest, Zacharias prayed not for a son, but for the atonement of the sins of Israel ([[HEB.9:7]]). Gabriel's (v. 19) announcement reveals both that Zacharias' prayer for atonement will be answered and that Elizabeth will conceive a son. This atonement will be announced by John, who will identify Christ as \"the Lamb of God who takes away the sin of the world\" ([[JOH.1:29]]).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology",
+        "prayer",
+        "priesthood"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 6,
+        "title": "The Universe As a Language",
+        "polarity": "generation",
+        "operation": "descend",
+        "scale": "communal"
+      }
     }
   ]
 }

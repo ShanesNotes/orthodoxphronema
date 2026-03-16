@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Come and see the works of God; He is more fearful in His counsels than the sons of men,",
   "pericope": {
     "id": "PSA.P065",
@@ -12,7 +12,10 @@
     "range": "PSA.65:1-65:20",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "creation_theology"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 900,
       "raw_match": "[[PSA.65:5]]",
       "reference_type": "wikilink",
-      "context": "The Lord's mastery over creation is another sign that He is the Messiah and is divine. Commands to the sea and waves (v. 24) can only be issued by God ([[JOB.38:8]]-11; [[PSA.65:5]], [[PSA.65:6]]; 106:29). Jesus was asleep because, as a man, he needed rest. In His Incarnation, He assumed all the natural actions of the flesh, of which sleep is one. The image of Christ and His disciples in a boat is traditionally used to illustrate the Church. God both permits storms and delivers us through them, so that we can see His protection more clearly. Christ's rebuke of the storm is also an illustration of His calming the tempests in the human soul."
+      "context": "The Lord's mastery over creation is another sign that He is the Messiah and is divine. Commands to the sea and waves (v. 24) can only be issued by God ([[JOB.38:8]]-11; [[PSA.65:5]], [[PSA.65:6]]; 106:29). Jesus was asleep because, as a man, he needed rest. In His Incarnation, He assumed all the natural actions of the flesh, of which sleep is one. The image of Christ and His disciples in a boat is traditionally used to illustrate the Church. God both permits storms and delivers us through them, so that we can see His protection more clearly. Christ's rebuke of the storm is also an illustration of His calming the tempests in the human soul.",
+      "edge_type": "descends_to",
+      "topic_threads": [
+        "christology",
+        "creation_theology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

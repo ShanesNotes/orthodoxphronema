@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Beloved, if our heart does not condemn us, we have confidence toward God.",
   "pericope": {
     "id": "1JN.P006",
@@ -20,7 +20,8 @@
       "line_number": 229,
       "raw_match": "[[1JN.3:21]]",
       "reference_type": "wikilink",
-      "context": "See [[1JN.3:21]]."
+      "context": "See [[1JN.3:21]].",
+      "edge_type": "instantiates"
     }
   ]
 }

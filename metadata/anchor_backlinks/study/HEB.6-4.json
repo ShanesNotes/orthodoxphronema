@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "For it is impossible for those who were once enlightened, and have tasted the heavenly gift, and have become partakers of the Holy Spirit,",
   "pericope": {
     "id": "HEB.P012",
@@ -12,7 +12,13 @@
     "range": "HEB.5:6-6:7",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "baptism",
+    "christology",
+    "eucharist",
+    "praise",
+    "repentance"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,14 +26,42 @@
       "line_number": 288,
       "raw_match": "[[HEB.6:4]]-6",
       "reference_type": "wikilink_range",
-      "context": "What about those Christians who are not living righteously? Sin leading to death is willful, continual disbelief in the grace of the Holy Spirit toward us. (See [[MAT.12:28]], [[MAT.12:31]], 32; [[HEB.6:4]]-6; 10:26-31.)"
+      "context": "What about those Christians who are not living righteously? Sin leading to death is willful, continual disbelief in the grace of the Holy Spirit toward us. (See [[MAT.12:28]], [[MAT.12:31]], 32; [[HEB.6:4]]-6; 10:26-31.)",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/NT/EPH_footnotes.md",
       "line_number": 413,
       "raw_match": "[[HEB.6:4]]",
       "reference_type": "wikilink",
-      "context": "Besides separating from darkness, Christians are also to expose (v. 11) it. But we must first come out of hiding in order to be exposed ourselves. That is, we must confess our sins and repent of them (see [[JOH.3:19]]-21). Orthodox Christians do this before baptism, before the Eucharist, and also in a separate sacrament of repentance. The hymn in v. 14 is an early baptismal hymn: baptism is illumination (see [[ACT.26:18]]; [[2CO.4:6]]; [[HEB.6:4]]; 10:32). To walk in the light is to walk in one's baptism."
+      "context": "Besides separating from darkness, Christians are also to expose (v. 11) it. But we must first come out of hiding in order to be exposed ourselves. That is, we must confess our sins and repent of them (see [[JOH.3:19]]-21). Orthodox Christians do this before baptism, before the Eucharist, and also in a separate sacrament of repentance. The hymn in v. 14 is an early baptismal hymn: baptism is illumination (see [[ACT.26:18]]; [[2CO.4:6]]; [[HEB.6:4]]; 10:32). To walk in the light is to walk in one's baptism.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "baptism",
+        "christology",
+        "eucharist",
+        "praise",
+        "repentance"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

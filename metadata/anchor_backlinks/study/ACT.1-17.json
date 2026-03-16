@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "for he was numbered with us and obtained apart in this ministry.'",
   "pericope": {
     "id": "ACT.P003",
@@ -12,7 +12,9 @@
     "range": "ACT.1:10-1:25",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "repentance"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 2399,
       "raw_match": "[[ACT.1:16]]-19",
       "reference_type": "wikilink_range",
-      "context": "In contrast to Peter, who repented in his sorrow (26:75), Judas is remorseful but does not repent. Suicide is not a sign of repentance but of being self-absorbed. Two accounts of Judas' suicide are given in the NT, here and in [[ACT.1:16]]-19."
+      "context": "In contrast to Peter, who repented in his sorrow (26:75), Judas is remorseful but does not repent. Suicide is not a sign of repentance but of being self-absorbed. Two accounts of Judas' suicide are given in the NT, here and in [[ACT.1:16]]-19.",
+      "edge_type": "opposes",
+      "topic_threads": [
+        "repentance"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

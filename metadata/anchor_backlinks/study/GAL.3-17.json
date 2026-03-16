@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "And this I say, that the law, which was four hundred and thirty years later, cannot annul the covenant that was confirmed before by God in Christ, that it should make the promise of no effect.",
   "pericope": {
     "id": "GAL.P011",
@@ -12,7 +12,11 @@
     "range": "GAL.3:14-3:17",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "covenant",
+    "faith"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +24,21 @@
       "line_number": 594,
       "raw_match": "[[GAL.3:17]]",
       "reference_type": "wikilink",
-      "context": "The covenant is that established \"in Christ\" ([[GAL.3:17]]). God established it before the Mosaic covenant. Therefore, the Law of Moses, which came later, could not cancel it. Abraham's faith is multiplied exceedingly in the Church. For he is the father of many nations (see also [[ROM.4:16]], [[ROM.4:17]])."
+      "context": "The covenant is that established \"in Christ\" ([[GAL.3:17]]). God established it before the Mosaic covenant. Therefore, the Law of Moses, which came later, could not cancel it. Abraham's faith is multiplied exceedingly in the Church. For he is the father of many nations (see also [[ROM.4:16]], [[ROM.4:17]]).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology",
+        "covenant",
+        "faith"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 9,
+        "title": "Example: The Cherubim of Ezekiel I",
+        "polarity": "generation",
+        "operation": "inform",
+        "scale": "intercommunal"
+      }
     }
   ]
 }

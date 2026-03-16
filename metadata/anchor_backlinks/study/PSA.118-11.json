@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "I hid Your teachings in my heart So as not to sin against You.",
   "pericope": {
     "id": "PSA.P118",
@@ -12,7 +12,9 @@
     "range": "PSA.118:1-118:176",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 481,
       "raw_match": "[[PSA.118:11]]",
       "reference_type": "wikilink",
-      "context": "Note each time Christ rebukes the devil, it is with the truth and power of Scripture. This teaches the faithful to become immersed in Scripture in order to resist and drive away every temptation (see [[PSA.118:11]])."
+      "context": "Note each time Christ rebukes the devil, it is with the truth and power of Scripture. This teaches the faithful to become immersed in Scripture in order to resist and drive away every temptation (see [[PSA.118:11]]).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "But a man who dies is utterly gone, And when a mortal has fallen, he is no more.",
   "pericope": {
     "id": "JOB.P019",
@@ -12,7 +12,9 @@
     "range": "JOB.11:1-15:8",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 29,
       "raw_match": "[[JOB.14:10]]",
       "reference_type": "wikilink",
-      "context": "We labor that we may profit, but labor loses its meaning (see [[MAT.16:26]]) when it has no eternal purpose. From generation to generation, we inherit death ([[JOB.14:10]]). But Christ, the Sun of Righteousness (Mal 4:2), gives meaning to our labor and raises us up from death to life."
+      "context": "We labor that we may profit, but labor loses its meaning (see [[MAT.16:26]]) when it has no eternal purpose. From generation to generation, we inherit death ([[JOB.14:10]]). But Christ, the Sun of Righteousness (Mal 4:2), gives meaning to our labor and raises us up from death to life.",
+      "edge_type": "opposes",
+      "topic_threads": [
+        "christology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

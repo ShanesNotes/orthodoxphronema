@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-15T23:42:04+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Then the Lord said to Joshua, 'Today I shall begin to exalt you in the sight of all the children of Israel, so they will know that I shall be with you as I was with Moses.",
   "pericope": {
     "id": "JOS.P005",
@@ -20,7 +20,16 @@
       "line_number": 12,
       "raw_match": "[[JOS.3:7]]",
       "reference_type": "wikilink",
-      "context": "**3:7** \u2014 [[JOS.3:7]], [[JOS.3:8]], [[JOS.3:15]]\u201317: This passage is read at Vespers of the Feast of the Theophany of the Lord."
+      "context": "**3:7** \u2014 [[JOS.3:7]], [[JOS.3:8]], [[JOS.3:15]]\u201317: This passage is read at Vespers of the Feast of the Theophany of the Lord.",
+      "edge_type": "echoes",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

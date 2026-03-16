@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "He made known His ways to Moses, The things He willed to the sons of Israel.",
   "pericope": {
     "id": "PSA.P102",
@@ -12,7 +12,10 @@
     "range": "PSA.102:1-102:22",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "mercy"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 128,
       "raw_match": "[[PSA.102:7]]",
       "reference_type": "wikilink",
-      "context": "St. Gregory remarks that Eliphaz' words would have been true, had they not been delivered against the patience of so great a man. Like the Hebrews, Eliphaz knew the acts of the Lord, but he did not know His ways ([[PSA.102:7]]). 6:2 Christ is the scale. He \"came to weigh the merit of our life, and brought down with Him both justice and lovingkindness together\" (GrgGt). 6:5-7 God is the Source of both physical and spiritual food. Christ is the bread that satisfies, and His words, being \"salted with truth,\" give eternal life. 6:10 Having placed his hope in the Lord, Job faced the grave with peace of soul. It was Eliphaz who had lied about the holy words of... God."
+      "context": "St. Gregory remarks that Eliphaz' words would have been true, had they not been delivered against the patience of so great a man. Like the Hebrews, Eliphaz knew the acts of the Lord, but he did not know His ways ([[PSA.102:7]]). 6:2 Christ is the scale. He \"came to weigh the merit of our life, and brought down with Him both justice and lovingkindness together\" (GrgGt). 6:5-7 God is the Source of both physical and spiritual food. Christ is the bread that satisfies, and His words, being \"salted with truth,\" give eternal life. 6:10 Having placed his hope in the Lord, Job faced the grave with peace of soul. It was Eliphaz who had lied about the holy words of... God.",
+      "edge_type": "witnesses",
+      "topic_threads": [
+        "christology",
+        "mercy"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

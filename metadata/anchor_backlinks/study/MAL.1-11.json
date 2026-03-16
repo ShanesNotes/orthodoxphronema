@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "For from the rising of the sun even to its going down, My name has been glorified among the Gentiles; and in every place incense shall be offered to My name, and a pure offering, for My name shall be great among the Gentiles,' says the Lord Almighty.",
   "pericope": {
     "id": "MAL.P002",
@@ -12,7 +12,14 @@
     "range": "MAL.1:5-1:13",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "covenant",
+    "creation_theology",
+    "israel_church",
+    "praise",
+    "prayer"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,21 +27,64 @@
       "line_number": 764,
       "raw_match": "[[MAL.1:11]]",
       "reference_type": "wikilink",
-      "context": "Incense is present in heaven (see 5:8). It symbolizes the prayers of all the saints. Incense is: (1) commanded by God to Moses for use in Israel's worship ([[EXO.25:6]]; 20:18; 24:16; [[LUK.1:9]]-11); (2) used throughout Israel's history under the old covenant (1Ch 23:13); (3) prophesied by the Lord Himself concerning its use in the Church: incense will be offered \"in every place... among the Gentiles\" ([[MAL.1:11]]); (4) brought by the Magi as a gift to Jesus ([[MAT.2:11]]); and (5) used in Christian worship from the beginning even till today, in both East and West."
+      "context": "Incense is present in heaven (see 5:8). It symbolizes the prayers of all the saints. Incense is: (1) commanded by God to Moses for use in Israel's worship ([[EXO.25:6]]; 20:18; 24:16; [[LUK.1:9]]-11); (2) used throughout Israel's history under the old covenant (1Ch 23:13); (3) prophesied by the Lord Himself concerning its use in the Church: incense will be offered \"in every place... among the Gentiles\" ([[MAL.1:11]]); (4) brought by the Magi as a gift to Jesus ([[MAT.2:11]]); and (5) used in Christian worship from the beginning even till today, in both East and West.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology",
+        "covenant",
+        "creation_theology",
+        "israel_church"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/PSA_footnotes.md",
       "line_number": 1410,
       "raw_match": "[[MAL.1:11]]",
       "reference_type": "wikilink",
-      "context": "Ps 140 and 141 are the psalms of the evening incense. These two psalms are both sung at Vespers. [[PSA.141:2]] was sung in Israel, and now in the Church, during the offering of incense to God. As [[REV.5:8]] teaches, incense is the visible sign of the prayers of all God's people. The prophet Malachi foretold its continued use in every place, including in the offering of worship by the Gentiles ([[MAL.1:11]]). Incense was brought to Christ as a gift at His birth, and it has been used in the worship of the Church from her very beginning."
+      "context": "Ps 140 and 141 are the psalms of the evening incense. These two psalms are both sung at Vespers. [[PSA.141:2]] was sung in Israel, and now in the Church, during the offering of incense to God. As [[REV.5:8]] teaches, incense is the visible sign of the prayers of all God's people. The prophet Malachi foretold its continued use in every place, including in the offering of worship by the Gentiles ([[MAL.1:11]]). Incense was brought to Christ as a gift at His birth, and it has been used in the worship of the Church from her very beginning.",
+      "edge_type": "echoes",
+      "topic_threads": [
+        "christology",
+        "creation_theology",
+        "israel_church",
+        "praise"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/SIR_footnotes.md",
       "line_number": 1219,
       "raw_match": "[[MAL.1:11]]",
       "reference_type": "wikilink",
-      "context": "Incense has been an important aid to prayer and praise of God from time immemorial. King David wrote, \"Let my prayer be set forth before You as incense\" (Ps 140:2). The prophet Malachi predicted incense would be used in worship and prayer among the Gentile nations ([[MAL.1:11]]). This continues to be fulfilled in the Church. One of the gifts brought to the baby Jesus by the wise men was frankincense."
+      "context": "Incense has been an important aid to prayer and praise of God from time immemorial. King David wrote, \"Let my prayer be set forth before You as incense\" (Ps 140:2). The prophet Malachi predicted incense would be used in worship and prayer among the Gentile nations ([[MAL.1:11]]). This continues to be fulfilled in the Church. One of the gifts brought to the baby Jesus by the wise men was frankincense.",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "praise",
+        "prayer"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

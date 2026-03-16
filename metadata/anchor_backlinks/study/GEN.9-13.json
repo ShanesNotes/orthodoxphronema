@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "I am setting My rainbow in the cloud, and it shall be a sign of the covenant between Me and the earth.",
   "pericope": {
     "id": "GEN.P010",
@@ -12,7 +12,12 @@
     "range": "GEN.9:7-9:28",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "covenant",
+    "judgment",
+    "kingdom",
+    "mercy"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,14 +25,41 @@
       "line_number": 514,
       "raw_match": "[[GEN.9:12]]-17",
       "reference_type": "wikilink_range",
-      "context": "God is seen in biblical visions as sitting on a throne, a symbol of His sovereign lordship (3Kg 22:19; [[PSA.46:9]]; Is 6:1; [[EZK.1:25]]-27; [[DAN.7:9]]; [[MAT.5:34]]; 23:22; see also 1En 14:18, 19). The image of this throne occurs over 40 times in Revelation and is further described as \"a great white throne\" (20:11), a throne of judgment. But here His throne is surrounded by a rainbow (v. 3), the sign of God's everlasting covenant according to which He will not judge man again as He did at the Flood ([[GEN.9:12]]-17). Mercy triumphs over judgment ([[MAT.9:13]]). Thus, in the Orthodox Church, the altar table is sometimes called \"the throne.\""
+      "context": "God is seen in biblical visions as sitting on a throne, a symbol of His sovereign lordship (3Kg 22:19; [[PSA.46:9]]; Is 6:1; [[EZK.1:25]]-27; [[DAN.7:9]]; [[MAT.5:34]]; 23:22; see also 1En 14:18, 19). The image of this throne occurs over 40 times in Revelation and is further described as \"a great white throne\" (20:11), a throne of judgment. But here His throne is surrounded by a rainbow (v. 3), the sign of God's everlasting covenant according to which He will not judge man again as He did at the Flood ([[GEN.9:12]]-17). Mercy triumphs over judgment ([[MAT.9:13]]). Thus, in the Orthodox Church, the altar table is sometimes called \"the throne.\"",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "covenant",
+        "judgment",
+        "kingdom",
+        "mercy"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/EZK_footnotes.md",
       "line_number": 68,
       "raw_match": "[[GEN.9:13]]-15",
       "reference_type": "wikilink_range",
-      "context": "The rainbow images the new covenant (see [[GEN.9:13]]-15)."
+      "context": "The rainbow images the new covenant (see [[GEN.9:13]]-15).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "covenant"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 9,
+        "title": "Example: The Cherubim of Ezekiel I",
+        "polarity": "generation",
+        "operation": "inform",
+        "scale": "intercommunal"
+      }
     }
   ]
 }

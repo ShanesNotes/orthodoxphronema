@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "For this Melchizedek, king of Salem, priest of the Most High God, who met Abraham returning from the slaughter of the kings and blessed him,",
   "pericope": {
     "id": "HEB.P015",
@@ -12,7 +12,10 @@
     "range": "HEB.6:20-7:27",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "priesthood"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 1227,
       "raw_match": "[[HEB.7:1]]",
       "reference_type": "wikilink",
-      "context": "Ps 109 is a prophecy concerning the Melchizedek Priesthood of the Lord Jesus Christ, which explains the true meaning of the Nativity. In [[GEN.14:18]]-20, Melchizedek is called the king of Salem and priest of the Most High God (see also [[HEB.7:1]]). His priesthood was not based on genealogy ([[HEB.7:3]]). It was based on himself alone, for no one preceded him in priesthood, nor succeeded him ([[HEB.7:8]]). On this basis he was a type of Christ, whose priesthood is based in His endless life, for He rose again from the dead ([[HEB.7:16]]). The Lord [the Father] said to my Lord [Christ], \"Sit at My right hand\" (v. 1). For Christ is not only Man, but also the Lord God, coequal and one in nature with the Father. For He is begotten from the Father before all time (before the morning star, v. 3), and is therefore His eternal Son (v. 3; see also Creed). He is the Son of David according to the flesh ([[MAT.1:1]]), but He is also the Lord of David according to His divinity (see also Mt 22:41-45). At the Father's right hand, this Melchizedek Priest rules and reigns over all things, including His enemies (vv. 1, 2, 5-7), and leads His Church in heavenly worship of the Blessed Trinity (v. 3)."
+      "context": "Ps 109 is a prophecy concerning the Melchizedek Priesthood of the Lord Jesus Christ, which explains the true meaning of the Nativity. In [[GEN.14:18]]-20, Melchizedek is called the king of Salem and priest of the Most High God (see also [[HEB.7:1]]). His priesthood was not based on genealogy ([[HEB.7:3]]). It was based on himself alone, for no one preceded him in priesthood, nor succeeded him ([[HEB.7:8]]). On this basis he was a type of Christ, whose priesthood is based in His endless life, for He rose again from the dead ([[HEB.7:16]]). The Lord [the Father] said to my Lord [Christ], \"Sit at My right hand\" (v. 1). For Christ is not only Man, but also the Lord God, coequal and one in nature with the Father. For He is begotten from the Father before all time (before the morning star, v. 3), and is therefore His eternal Son (v. 3; see also Creed). He is the Son of David according to the flesh ([[MAT.1:1]]), but He is also the Lord of David according to His divinity (see also Mt 22:41-45). At the Father's right hand, this Melchizedek Priest rules and reigns over all things, including His enemies (vv. 1, 2, 5-7), and leads His Church in heavenly worship of the Blessed Trinity (v. 3).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "priesthood"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

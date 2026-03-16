@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "When they persecute you in this city, flee to another. For assuredly, I say to you, you will not have gone through the cities of Israel before the Son of Man comes.",
   "pericope": {
     "id": "MAT.P029",
@@ -12,7 +12,9 @@
     "range": "MAT.10:23-10:41",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 829,
       "raw_match": "[[MAT.10:23]]",
       "reference_type": "wikilink",
-      "context": "The Word of the Father appointed cities of refuge, and when He became incarnate, He also commanded, \"When they persecute you in this city, flee into another\" ([[MAT.10:23]]; AthanG)."
+      "context": "The Word of the Father appointed cities of refuge, and when He became incarnate, He also commanded, \"When they persecute you in this city, flee into another\" ([[MAT.10:23]]; AthanG).",
+      "edge_type": "descends_to",
+      "topic_threads": [
+        "christology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

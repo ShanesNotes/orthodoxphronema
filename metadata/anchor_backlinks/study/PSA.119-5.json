@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Woe is me! My sojourning was prolonged; I dwelt with the tents of Kedar.",
   "pericope": {
     "id": "PSA.P119",
@@ -12,7 +12,10 @@
     "range": "PSA.119:1-119:7",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "suffering",
+    "temple"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 57,
       "raw_match": "[[PSA.119:5]]",
       "reference_type": "wikilink",
-      "context": "The Fathers interpret the blackness of the Church as resulting either from sin or from persecution. \"When we were sinners and dark, God made us full of light and lovely by shining on us with His grace\" (GrgNy). Kedar means dark or black. Bedouin tents, the tents of Kedar, are made from the hides of black goats. Kedar was the second son of Ishmael ([[GEN.25:13]]), and in other references Kedar is a place of trouble ([[PSA.119:5]]). The curtains of Solomon, the curtains of the temple, were lavish in their opulence and beauty."
+      "context": "The Fathers interpret the blackness of the Church as resulting either from sin or from persecution. \"When we were sinners and dark, God made us full of light and lovely by shining on us with His grace\" (GrgNy). Kedar means dark or black. Bedouin tents, the tents of Kedar, are made from the hides of black goats. Kedar was the second son of Ishmael ([[GEN.25:13]]), and in other references Kedar is a place of trouble ([[PSA.119:5]]). The curtains of Solomon, the curtains of the temple, were lavish in their opulence and beauty.",
+      "edge_type": "witnesses",
+      "topic_threads": [
+        "suffering",
+        "temple"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 6,
+        "title": "The Universe As a Language",
+        "polarity": "generation",
+        "operation": "descend",
+        "scale": "communal"
+      }
     }
   ]
 }

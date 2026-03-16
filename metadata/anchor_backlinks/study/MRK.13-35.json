@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Watch therefore, for you do not know when the master of the house is coming-in the evening, at midnight, at the crowing of the rooster, or in the morning-",
   "pericope": {
     "id": "MRK.P047",
@@ -12,7 +12,9 @@
     "range": "MRK.13:27-13:36",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 270,
       "raw_match": "[[MRK.13:35]]",
       "reference_type": "wikilink",
-      "context": "God had prepared the people: Christ warns His followers to watch, for you do not know when the master of the house is coming--lest coming suddenly, he find you sleeping ([[MRK.13:35]], [[MRK.13:36]]; see also [[MAL.3:1]])."
+      "context": "God had prepared the people: Christ warns His followers to watch, for you do not know when the master of the house is coming--lest coming suddenly, he find you sleeping ([[MRK.13:35]], [[MRK.13:36]]; see also [[MAL.3:1]]).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

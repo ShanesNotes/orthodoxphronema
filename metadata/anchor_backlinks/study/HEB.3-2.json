@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "who was faithful to Him who appointed Him, as Moses also was faithful in all His house.",
   "pericope": {
     "id": "HEB.P005",
@@ -12,7 +12,10 @@
     "range": "HEB.2:18-3:10",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "wisdom"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,14 +23,39 @@
       "line_number": 266,
       "raw_match": "[[HEB.3:1]]-6",
       "reference_type": "wikilink_range",
-      "context": "The Lord who descended is the Son of God. He is over the house, whereas Moses was a faithful servant within His house (v. 7; [[HEB.3:1]]-6)."
+      "context": "The Lord who descended is the Son of God. He is over the house, whereas Moses was a faithful servant within His house (v. 7; [[HEB.3:1]]-6).",
+      "edge_type": "opposes",
+      "topic_threads": [
+        "christology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/PRO_footnotes.md",
       "line_number": 407,
       "raw_match": "[[HEB.3:1]]-6",
       "reference_type": "wikilink_range",
-      "context": "Wisdom is Christ, and He built His house. This house is first the Virgin Mary, the Mother of God, for He was conceived in her womb. Secondly, His house is the Church ([[HEB.3:1]]-6). This house is built on Christ, on the Mother of God, and on the apostles and prophets. Christ Himself is the Chief Cornerstone ([[EPH.2:19]]-22). The seven pillars of the Church is the Holy Spirit, who is called \"the seven Spirits of God\" ([[REV.3:1]]). These seven spirits are the graces of the Holy Spirit that rested on Christ, summarized in Is 11:2, 3: wisdom, understanding, counsel, might, knowledge, godliness, and the fear of God. These are the \"seven pillars\" by which the Church is supported through Christ."
+      "context": "Wisdom is Christ, and He built His house. This house is first the Virgin Mary, the Mother of God, for He was conceived in her womb. Secondly, His house is the Church ([[HEB.3:1]]-6). This house is built on Christ, on the Mother of God, and on the apostles and prophets. Christ Himself is the Chief Cornerstone ([[EPH.2:19]]-22). The seven pillars of the Church is the Holy Spirit, who is called \"the seven Spirits of God\" ([[REV.3:1]]). These seven spirits are the graces of the Holy Spirit that rested on Christ, summarized in Is 11:2, 3: wisdom, understanding, counsel, might, knowledge, godliness, and the fear of God. These are the \"seven pillars\" by which the Church is supported through Christ.",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "wisdom"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

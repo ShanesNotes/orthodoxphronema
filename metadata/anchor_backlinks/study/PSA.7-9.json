@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "The Lord shall judge the people; Judge me, O Lord, according to my righteousness, And according to the innocence within me.",
   "pericope": {
     "id": "PSA.P007",
@@ -12,7 +12,9 @@
     "range": "PSA.7:1-7:18",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "judgment"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 531,
       "raw_match": "[[PSA.7:9]]",
       "reference_type": "wikilink",
-      "context": "The heart is deep beyond all things: St. John Chrysostom labors the point that only God can know men's hearts, citing [[PSA.7:9]]; 1Kg 16:7; C2hr 6:30; and [[MAT.9:3]], [[MAT.9:4]]."
+      "context": "The heart is deep beyond all things: St. John Chrysostom labors the point that only God can know men's hearts, citing [[PSA.7:9]]; 1Kg 16:7; C2hr 6:30; and [[MAT.9:3]], [[MAT.9:4]].",
+      "edge_type": "witnesses",
+      "topic_threads": [
+        "judgment"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

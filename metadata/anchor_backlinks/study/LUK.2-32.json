@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "A light to bring revelation to the Gentiles, And the glory of Your people Israel.'",
   "pericope": {
     "id": "LUK.P010",
@@ -12,7 +12,9 @@
     "range": "LUK.2:23-2:34",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 1164,
       "raw_match": "[[LUK.2:22]]-35",
       "reference_type": "wikilink_range",
-      "context": "Many in Zion awaited the Messiah, glory instead of ashes. One thinks of the aged Simeon ([[LUK.2:22]]-35), who was \"waiting for the Consolation of Israel,\" and the prophetess Anna ([[LUK.2:36]]-38), \"who looked for redemption in Jerusalem.\""
+      "context": "Many in Zion awaited the Messiah, glory instead of ashes. One thinks of the aged Simeon ([[LUK.2:22]]-35), who was \"waiting for the Consolation of Israel,\" and the prophetess Anna ([[LUK.2:36]]-38), \"who looked for redemption in Jerusalem.\"",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

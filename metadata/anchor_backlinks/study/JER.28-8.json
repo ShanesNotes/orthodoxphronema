@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Babylon fell suddenly and was broken in pieces. Sing a dirge for her; take resin for her corruption, if somehow she may be healed.",
   "pericope": {
     "id": "JER.P050",
@@ -12,7 +12,10 @@
     "range": "JER.24:10-38:39",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "eucharist",
+    "theosis"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 1241,
       "raw_match": "[[JER.28:8]]",
       "reference_type": "wikilink",
-      "context": "Babylon the Great, Rome, has fallen ([[JER.28:8]]), an anticipation of the dirge over Babylon in 18:1-19:4 (see Is 21:9). Rome has made the nations, peoples of the empire, subservient through drinking the wine of her fornication, the sensual, unholy eucharist of her idolatry and self-divinization. This wine is intoxicating and results in the wrath of man: corruption, anger, and murder, including the shedding of the blood of the saints (5:20)."
+      "context": "Babylon the Great, Rome, has fallen ([[JER.28:8]]), an anticipation of the dirge over Babylon in 18:1-19:4 (see Is 21:9). Rome has made the nations, peoples of the empire, subservient through drinking the wine of her fornication, the sensual, unholy eucharist of her idolatry and self-divinization. This wine is intoxicating and results in the wrath of man: corruption, anger, and murder, including the shedding of the blood of the saints (5:20).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "eucharist",
+        "theosis"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Therefore we were buried with Him through baptism into death, that just as Christ was raised from the dead by the glory of the Father, even so we also should walk in newness of life.",
   "pericope": {
     "id": "ROM.P013",
@@ -12,7 +12,29 @@
     "range": "ROM.5:21-6:22",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "baptism",
+    "christology",
+    "covenant",
+    "creation_theology",
+    "eschatology",
+    "eucharist",
+    "exodus_typology",
+    "faith",
+    "israel_church",
+    "judgment",
+    "kingdom",
+    "logos",
+    "mercy",
+    "praise",
+    "priesthood",
+    "repentance",
+    "resurrection",
+    "shepherd",
+    "suffering",
+    "temple",
+    "wisdom"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,112 +42,391 @@
       "line_number": 37,
       "raw_match": "[[ROM.6:1]]-6",
       "reference_type": "wikilink_range",
-      "context": "F or most of church history, salvation was seen as comprehending all of life: Christians believed in Christ, were baptized, and were nurtured in their salvation in the Church. Key doctrines of the faith centered around the Holy Trinity, the Incarnation of the Son of God, the atonement. In Western Europe during the sixteenth century and before, however, justifiable concern arose among the Reformers over a prevailing understanding that salvation depended on human works of merit, and not on the grace and mercy of God. Their rediscovery of Romans 5 lead to the slogan sola fides: justification by faith alone. This Reformation debate in the West raised the question for the Orthodox East: Why this new polarization of faith and works? It had been settled since the apostolic era that salvation was granted by the mercy of God to righteous men and women. Those baptized into Christ were called to believe in Him and do good works. An opposition of faith versus works was unprecedented in Orthodox thought. The Orthodox understanding of justification differs from the Protestant in several ways. 1 Justification and the new covenant. When Orthodox Christians approach the doctrine of salvation, the discussion centers around the new covenant. Justification-being or becoming righteous-by faith in God is part of being brought into a covenant relationship with Him. Whereas Israel was under the old covenant, in which salvation came through faith as revealed in the law, the Church is under the new covenant. Salvation comes through faith in Christ, who fulfills the law. We receive the gift of the Holy Spirit, who dwells in us, leading us to the knowledge of God the Father. Rather than justification as a legal acquittal before God, Orthodox believers see justification by faith as a covenant relationship with Him, centered in union with Christ ([[ROM.6:1]]-6). 2 Justification and God's mercy. Orthodoxy emphasizes it is first God's mercy-not our faith-that saves us. 'Therefore, having been justified by faith, we have peace with God through our Lord Jesus Christ, through whom also we have access by faith into this grace in which we stand, and rejoice in hope of the glory of God' ([[ROM.5:1]], [[ROM.5:2]]). It is God who initiates or makes the new covenant with us. 3 Justification by faith is dynamic, not static. For Orthodox Christians, faith is living, dynamic, continuous-never static or merely point-in-time. Faith is not something a Christian exercises only at one critical moment, expecting it to cover all the rest of his life. True faith is not just a decision, it's a way of life. Thus, the Orthodox Christian sees salvation in at least three aspects: (a) I have been saved, being joined to Christ in Holy Baptism; (b) I am being saved, growing in Christ through the sacramental life of the Church; and (c) I will be saved, by the mercy of God at the Last Judgment. Justification by faith, though not the major New Testament doctrine for Orthodox as it is for Protestants, poses no problem. But justification by faith alone brings up an objection. It contradicts Scripture, which says, 'You see then that a man is justified by works, and not by faith only' ([[JAS.2:24]]). We are 'justified by faith apart from the deeds of the law' ([[ROM.3:28]]), but nowhere does the Bible say we are justified by faith 'alone.' On the contrary, 'faith by itself, if it does not have works, is dead' ([[JAS.2:17]]). As Christians we are no longer under the demands of the Old Testament law ([[ROM.3:20]]), for Christ has fulfilled the law ([[GAL.2:21]]; 3:5, 24). By God's mercy, we are brought into a new covenant relationship with Him. We who believe are granted entrance into His Kingdom by His grace. Through His mercy, we are justified by faith and empowered by God for good works or deeds of righteousness that bring glory to Him."
+      "context": "F or most of church history, salvation was seen as comprehending all of life: Christians believed in Christ, were baptized, and were nurtured in their salvation in the Church. Key doctrines of the faith centered around the Holy Trinity, the Incarnation of the Son of God, the atonement. In Western Europe during the sixteenth century and before, however, justifiable concern arose among the Reformers over a prevailing understanding that salvation depended on human works of merit, and not on the grace and mercy of God. Their rediscovery of Romans 5 lead to the slogan sola fides: justification by faith alone. This Reformation debate in the West raised the question for the Orthodox East: Why this new polarization of faith and works? It had been settled since the apostolic era that salvation was granted by the mercy of God to righteous men and women. Those baptized into Christ were called to believe in Him and do good works. An opposition of faith versus works was unprecedented in Orthodox thought. The Orthodox understanding of justification differs from the Protestant in several ways. 1 Justification and the new covenant. When Orthodox Christians approach the doctrine of salvation, the discussion centers around the new covenant. Justification-being or becoming righteous-by faith in God is part of being brought into a covenant relationship with Him. Whereas Israel was under the old covenant, in which salvation came through faith as revealed in the law, the Church is under the new covenant. Salvation comes through faith in Christ, who fulfills the law. We receive the gift of the Holy Spirit, who dwells in us, leading us to the knowledge of God the Father. Rather than justification as a legal acquittal before God, Orthodox believers see justification by faith as a covenant relationship with Him, centered in union with Christ ([[ROM.6:1]]-6). 2 Justification and God's mercy. Orthodoxy emphasizes it is first God's mercy-not our faith-that saves us. 'Therefore, having been justified by faith, we have peace with God through our Lord Jesus Christ, through whom also we have access by faith into this grace in which we stand, and rejoice in hope of the glory of God' ([[ROM.5:1]], [[ROM.5:2]]). It is God who initiates or makes the new covenant with us. 3 Justification by faith is dynamic, not static. For Orthodox Christians, faith is living, dynamic, continuous-never static or merely point-in-time. Faith is not something a Christian exercises only at one critical moment, expecting it to cover all the rest of his life. True faith is not just a decision, it's a way of life. Thus, the Orthodox Christian sees salvation in at least three aspects: (a) I have been saved, being joined to Christ in Holy Baptism; (b) I am being saved, growing in Christ through the sacramental life of the Church; and (c) I will be saved, by the mercy of God at the Last Judgment. Justification by faith, though not the major New Testament doctrine for Orthodox as it is for Protestants, poses no problem. But justification by faith alone brings up an objection. It contradicts Scripture, which says, 'You see then that a man is justified by works, and not by faith only' ([[JAS.2:24]]). We are 'justified by faith apart from the deeds of the law' ([[ROM.3:28]]), but nowhere does the Bible say we are justified by faith 'alone.' On the contrary, 'faith by itself, if it does not have works, is dead' ([[JAS.2:17]]). As Christians we are no longer under the demands of the Old Testament law ([[ROM.3:20]]), for Christ has fulfilled the law ([[GAL.2:21]]; 3:5, 24). By God's mercy, we are brought into a new covenant relationship with Him. We who believe are granted entrance into His Kingdom by His grace. Through His mercy, we are justified by faith and empowered by God for good works or deeds of righteousness that bring glory to Him.",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "baptism",
+        "christology",
+        "covenant",
+        "eschatology",
+        "faith",
+        "israel_church",
+        "judgment",
+        "mercy",
+        "resurrection",
+        "wisdom"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/articles/NT/ROM_articles.md",
       "line_number": 51,
       "raw_match": "[[ROM.6:4]]",
       "reference_type": "wikilink",
-      "context": "W hat is baptism? Simply put, baptism is our death, burial, and resurrection in union with Jesus Christ. It is a rite of passage, given by Christ to the Church as an entrance into the Kingdom of God and eternal life. The apostle Paul describes the promise of God in this 'mystery,' as most Orthodox call it, most succinctly when he writes, 'Therefore we were buried with Him through baptism into death, that just as Christ was raised from the dead by the glory of the Father, even so we also should walk in newness of life' ([[ROM.6:4]]). To baptize (Gr. baptizo) literally means 'to immerse, to put into.' Historically, the Orthodox Church has baptized by triple immersion, 'in the name of the Father and of the Son and of the Holy Spirit' ([[MAT.28:19]]). In the Old Testament, baptism was pictured by the passage of God's people with Moses through the Red Sea ([[1CO.10:1]], [[1CO.10:2]]). John the Baptist, the last prophet of the old covenant, baptized in water for repentance ([[MRK.1:4]]; [[ACT.19:4]]). Jesus received John's baptism, thereby transforming the water and baptism itself. In the new covenant, baptism is the means by which we enter the Kingdom of God ([[JOH.3:5]]), are joined to Christ ([[ROM.6:3]]), and are granted the remission of our sins and the gift of the Holy Spirit ([[ACT.2:38]]). What results from baptism? From the start, the Church has understood baptism as: 1 A first and second dying. Our first dying with Christ in baptism was our death with Him on the Cross. In the fourth century, St. Cyril of Jerusalem instructed his new converts, 'You were led by the hand to the holy pool of divine baptism... and each of you was asked if he believed in the Name of the Father, and of the Son, and of the Holy Ghost. And you made that saving confession, you descended into the water and came up again three times. In the very same moment you died and were born.' The second death of baptism is continual-dying to sin daily as we walk in newness of life. St. Paul writes to the Colossians concerning baptism ([[COL.2:12]]) and concludes by saying, 'Therefore put to death your members which are on the earth: fornication, uncleanness, passion, evil desire, and covetousness, which is idolatry' ([[COL.3:5]]). 2 The resurrection of righteousness. This is our life in Christ, our new birth and entrance into God's Kingdom ([[JOH.3:3]]), our 'newness of life' ([[ROM.6:4]]). It is our being joined to Christ in His glorified humanity and indwelt by God Himself ([[JOH.14:23]]). Our relationship with God is not something static, a legal fiction given to us by a Divine Judge. Rather, this is a dynamic and real life in Christ, holding the promise of everlasting life. Our resurrection to new life now forms a prelude to the resurrection of our body at Christ's second coming. 3 An intimate and continual communion with God. We are raised to new life for a purpose: union and communion with God. In this sense, baptism is the beginning of eternal life. For this reason, Peter writes that baptism now saves us ([[1PE.3:21]])-it is not the mere removal of"
+      "context": "W hat is baptism? Simply put, baptism is our death, burial, and resurrection in union with Jesus Christ. It is a rite of passage, given by Christ to the Church as an entrance into the Kingdom of God and eternal life. The apostle Paul describes the promise of God in this 'mystery,' as most Orthodox call it, most succinctly when he writes, 'Therefore we were buried with Him through baptism into death, that just as Christ was raised from the dead by the glory of the Father, even so we also should walk in newness of life' ([[ROM.6:4]]). To baptize (Gr. baptizo) literally means 'to immerse, to put into.' Historically, the Orthodox Church has baptized by triple immersion, 'in the name of the Father and of the Son and of the Holy Spirit' ([[MAT.28:19]]). In the Old Testament, baptism was pictured by the passage of God's people with Moses through the Red Sea ([[1CO.10:1]], [[1CO.10:2]]). John the Baptist, the last prophet of the old covenant, baptized in water for repentance ([[MRK.1:4]]; [[ACT.19:4]]). Jesus received John's baptism, thereby transforming the water and baptism itself. In the new covenant, baptism is the means by which we enter the Kingdom of God ([[JOH.3:5]]), are joined to Christ ([[ROM.6:3]]), and are granted the remission of our sins and the gift of the Holy Spirit ([[ACT.2:38]]). What results from baptism? From the start, the Church has understood baptism as: 1 A first and second dying. Our first dying with Christ in baptism was our death with Him on the Cross. In the fourth century, St. Cyril of Jerusalem instructed his new converts, 'You were led by the hand to the holy pool of divine baptism... and each of you was asked if he believed in the Name of the Father, and of the Son, and of the Holy Ghost. And you made that saving confession, you descended into the water and came up again three times. In the very same moment you died and were born.' The second death of baptism is continual-dying to sin daily as we walk in newness of life. St. Paul writes to the Colossians concerning baptism ([[COL.2:12]]) and concludes by saying, 'Therefore put to death your members which are on the earth: fornication, uncleanness, passion, evil desire, and covetousness, which is idolatry' ([[COL.3:5]]). 2 The resurrection of righteousness. This is our life in Christ, our new birth and entrance into God's Kingdom ([[JOH.3:3]]), our 'newness of life' ([[ROM.6:4]]). It is our being joined to Christ in His glorified humanity and indwelt by God Himself ([[JOH.14:23]]). Our relationship with God is not something static, a legal fiction given to us by a Divine Judge. Rather, this is a dynamic and real life in Christ, holding the promise of everlasting life. Our resurrection to new life now forms a prelude to the resurrection of our body at Christ's second coming. 3 An intimate and continual communion with God. We are raised to new life for a purpose: union and communion with God. In this sense, baptism is the beginning of eternal life. For this reason, Peter writes that baptism now saves us ([[1PE.3:21]])-it is not the mere removal of",
+      "edge_type": "witnesses",
+      "topic_threads": [
+        "baptism",
+        "christology",
+        "covenant",
+        "creation_theology",
+        "eschatology",
+        "eucharist",
+        "exodus_typology",
+        "faith",
+        "kingdom",
+        "praise",
+        "repentance",
+        "resurrection",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/articles/NT/ROM_articles.md",
       "line_number": 56,
       "raw_match": "[[ROM.6:4]]",
       "reference_type": "wikilink",
-      "context": "W hat is baptism? Simply put, baptism is our death, burial, and resurrection in union with Jesus Christ. It is a rite of passage, given by Christ to the Church as an entrance into the Kingdom of God and eternal life. The apostle Paul describes the promise of God in this 'mystery,' as most Orthodox call it, most succinctly when he writes, 'Therefore we were buried with Him through baptism into death, that just as Christ was raised from the dead by the glory of the Father, even so we also should walk in newness of life' ([[ROM.6:4]]). To baptize (Gr. baptizo) literally means 'to immerse, to put into.' Historically, the Orthodox Church has baptized by triple immersion, 'in the name of the Father and of the Son and of the Holy Spirit' ([[MAT.28:19]]). In the Old Testament, baptism was pictured by the passage of God's people with Moses through the Red Sea ([[1CO.10:1]], [[1CO.10:2]]). John the Baptist, the last prophet of the old covenant, baptized in water for repentance ([[MRK.1:4]]; [[ACT.19:4]]). Jesus received John's baptism, thereby transforming the water and baptism itself. In the new covenant, baptism is the means by which we enter the Kingdom of God ([[JOH.3:5]]), are joined to Christ ([[ROM.6:3]]), and are granted the remission of our sins and the gift of the Holy Spirit ([[ACT.2:38]]). What results from baptism? From the start, the Church has understood baptism as: 1 A first and second dying. Our first dying with Christ in baptism was our death with Him on the Cross. In the fourth century, St. Cyril of Jerusalem instructed his new converts, 'You were led by the hand to the holy pool of divine baptism... and each of you was asked if he believed in the Name of the Father, and of the Son, and of the Holy Ghost. And you made that saving confession, you descended into the water and came up again three times. In the very same moment you died and were born.' The second death of baptism is continual-dying to sin daily as we walk in newness of life. St. Paul writes to the Colossians concerning baptism ([[COL.2:12]]) and concludes by saying, 'Therefore put to death your members which are on the earth: fornication, uncleanness, passion, evil desire, and covetousness, which is idolatry' ([[COL.3:5]]). 2 The resurrection of righteousness. This is our life in Christ, our new birth and entrance into God's Kingdom ([[JOH.3:3]]), our 'newness of life' ([[ROM.6:4]]). It is our being joined to Christ in His glorified humanity and indwelt by God Himself ([[JOH.14:23]]). Our relationship with God is not something static, a legal fiction given to us by a Divine Judge. Rather, this is a dynamic and real life in Christ, holding the promise of everlasting life. Our resurrection to new life now forms a prelude to the resurrection of our body at Christ's second coming. 3 An intimate and continual communion with God. We are raised to new life for a purpose: union and communion with God. In this sense, baptism is the beginning of eternal life. For this reason, Peter writes that baptism now saves us ([[1PE.3:21]])-it is not the mere removal of"
+      "context": "W hat is baptism? Simply put, baptism is our death, burial, and resurrection in union with Jesus Christ. It is a rite of passage, given by Christ to the Church as an entrance into the Kingdom of God and eternal life. The apostle Paul describes the promise of God in this 'mystery,' as most Orthodox call it, most succinctly when he writes, 'Therefore we were buried with Him through baptism into death, that just as Christ was raised from the dead by the glory of the Father, even so we also should walk in newness of life' ([[ROM.6:4]]). To baptize (Gr. baptizo) literally means 'to immerse, to put into.' Historically, the Orthodox Church has baptized by triple immersion, 'in the name of the Father and of the Son and of the Holy Spirit' ([[MAT.28:19]]). In the Old Testament, baptism was pictured by the passage of God's people with Moses through the Red Sea ([[1CO.10:1]], [[1CO.10:2]]). John the Baptist, the last prophet of the old covenant, baptized in water for repentance ([[MRK.1:4]]; [[ACT.19:4]]). Jesus received John's baptism, thereby transforming the water and baptism itself. In the new covenant, baptism is the means by which we enter the Kingdom of God ([[JOH.3:5]]), are joined to Christ ([[ROM.6:3]]), and are granted the remission of our sins and the gift of the Holy Spirit ([[ACT.2:38]]). What results from baptism? From the start, the Church has understood baptism as: 1 A first and second dying. Our first dying with Christ in baptism was our death with Him on the Cross. In the fourth century, St. Cyril of Jerusalem instructed his new converts, 'You were led by the hand to the holy pool of divine baptism... and each of you was asked if he believed in the Name of the Father, and of the Son, and of the Holy Ghost. And you made that saving confession, you descended into the water and came up again three times. In the very same moment you died and were born.' The second death of baptism is continual-dying to sin daily as we walk in newness of life. St. Paul writes to the Colossians concerning baptism ([[COL.2:12]]) and concludes by saying, 'Therefore put to death your members which are on the earth: fornication, uncleanness, passion, evil desire, and covetousness, which is idolatry' ([[COL.3:5]]). 2 The resurrection of righteousness. This is our life in Christ, our new birth and entrance into God's Kingdom ([[JOH.3:3]]), our 'newness of life' ([[ROM.6:4]]). It is our being joined to Christ in His glorified humanity and indwelt by God Himself ([[JOH.14:23]]). Our relationship with God is not something static, a legal fiction given to us by a Divine Judge. Rather, this is a dynamic and real life in Christ, holding the promise of everlasting life. Our resurrection to new life now forms a prelude to the resurrection of our body at Christ's second coming. 3 An intimate and continual communion with God. We are raised to new life for a purpose: union and communion with God. In this sense, baptism is the beginning of eternal life. For this reason, Peter writes that baptism now saves us ([[1PE.3:21]])-it is not the mere removal of",
+      "edge_type": "witnesses",
+      "topic_threads": [
+        "baptism",
+        "christology",
+        "covenant",
+        "creation_theology",
+        "eschatology",
+        "eucharist",
+        "exodus_typology",
+        "faith",
+        "kingdom",
+        "praise",
+        "repentance",
+        "resurrection",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/articles/OT/EXO_articles.md",
       "line_number": 18,
       "raw_match": "[[ROM.6:3]]-11",
       "reference_type": "wikilink_range",
-      "context": "Passover, the central rite and symbol of Judaism, is based on the experience of the liberation of the Hebrew people from bondage in Egypt ([[EXO.12:1]]-15:21). It is called Passover both because the Lord passed over the homes of the Hebrews, sparing them from the death that came to the first-born in Egypt, and because the Hebrews passed over the Red Sea as if it were dry land. Passover celebrates God's steadfast love and devotion to His people and their freedom in Him. Throughout the rest of the Old Testament, Passover preeminently signifies God's rescue and forging together of His chosen people, Israel. The Lord repeatedly brings this event to mind as He encourages and exhorts His people to return to their covenantal responsibilities ([[JDG.6:7]]-10; [[1SA.10:17]]-19; [[PSA.80:10]], [[PSA.80:11]]; [[JER.11:1]]-8; [[MIC.6:1]]-8). Through His saving work, Christ becomes our Passover ( pascha in Greek). Through Him we experience liberation from sin, death, and the devil. St. Paul exclaims, 'Christ, our Passover, was sacrificed for us. Therefore let us keep the feast' ([[1CO.5:7]], [[1CO.5:8]]). He is the Paschal Lamb ([[ISA.53:7]]; [[JOH.1:29]]; [[REV.5:6]]-14) who gave Himself up in sacrifice 'once for all' ([[HEB.10:10]]-14) to reconcile us with God. At every Pascha-'Easter'-the Church sings: Today a sacred Pascha is revealed to us, a new and holy Pascha, a mystical Pascha, a Pascha worthy of veneration, a Pascha which is Christ the Redeemer. In many typological details, the Passover of the Jews clearly points towards Christ as our Passover. 1 The Passover lamb, whose blood was smeared by the Hebrews on their doorposts in the sign of the Cross, was a male without blemish; Jesus was a male without blemish who died on the Cross. 2 The blood of the Passover lamb saved the first-born of the Hebrews from death; the blood of Christ saves all those believing in Him from eternal death ([[ROM.5:8]]-10; [[1PE.1:17]]-19). 3 The Passover lamb had none of its bones broken ([[EXO.12:10]], [[EXO.12:46]]); Jesus also had no bones broken as He was sacrificed ([[JOH.19:31]]-36). 4 The Hebrews escaped from the burden of slavery in Egypt by passing through the Red Sea; Christians pass 'from Egypt, from the burden of sin,' being set free and saved' through the waters of Holy Baptism (GrgNy). For in the waters of Baptism, we are 'baptized into His death,' 'crucified with Him,' and raised up 'in the likeness of His resurrection' to 'walk in newness of life' ([[ROM.6:3]]-11). #### St. John Chrysostom marvels at the power of Christ's blood: If the type of it had such great power... in the midst of Egypt, when smeared on the doorposts, much more the reality.... if death so shuddered at the shadow, tell me how would it not have dreaded the very reality? This blood is the salvation of our souls; by it the soul is washed, and made beautiful and... more gleaming than gold (see [[REV.7:13]], [[REV.7:14]]). Sustained and strengthened by the blood of Christ our Passover, we resume daily our journey to the eternal promised land, the promised kingdom to come. ### The Grace Of Christ and The Law Of Moses *(after EXO.20:6)*"
+      "context": "Passover, the central rite and symbol of Judaism, is based on the experience of the liberation of the Hebrew people from bondage in Egypt ([[EXO.12:1]]-15:21). It is called Passover both because the Lord passed over the homes of the Hebrews, sparing them from the death that came to the first-born in Egypt, and because the Hebrews passed over the Red Sea as if it were dry land. Passover celebrates God's steadfast love and devotion to His people and their freedom in Him. Throughout the rest of the Old Testament, Passover preeminently signifies God's rescue and forging together of His chosen people, Israel. The Lord repeatedly brings this event to mind as He encourages and exhorts His people to return to their covenantal responsibilities ([[JDG.6:7]]-10; [[1SA.10:17]]-19; [[PSA.80:10]], [[PSA.80:11]]; [[JER.11:1]]-8; [[MIC.6:1]]-8). Through His saving work, Christ becomes our Passover ( pascha in Greek). Through Him we experience liberation from sin, death, and the devil. St. Paul exclaims, 'Christ, our Passover, was sacrificed for us. Therefore let us keep the feast' ([[1CO.5:7]], [[1CO.5:8]]). He is the Paschal Lamb ([[ISA.53:7]]; [[JOH.1:29]]; [[REV.5:6]]-14) who gave Himself up in sacrifice 'once for all' ([[HEB.10:10]]-14) to reconcile us with God. At every Pascha-'Easter'-the Church sings: Today a sacred Pascha is revealed to us, a new and holy Pascha, a mystical Pascha, a Pascha worthy of veneration, a Pascha which is Christ the Redeemer. In many typological details, the Passover of the Jews clearly points towards Christ as our Passover. 1 The Passover lamb, whose blood was smeared by the Hebrews on their doorposts in the sign of the Cross, was a male without blemish; Jesus was a male without blemish who died on the Cross. 2 The blood of the Passover lamb saved the first-born of the Hebrews from death; the blood of Christ saves all those believing in Him from eternal death ([[ROM.5:8]]-10; [[1PE.1:17]]-19). 3 The Passover lamb had none of its bones broken ([[EXO.12:10]], [[EXO.12:46]]); Jesus also had no bones broken as He was sacrificed ([[JOH.19:31]]-36). 4 The Hebrews escaped from the burden of slavery in Egypt by passing through the Red Sea; Christians pass 'from Egypt, from the burden of sin,' being set free and saved' through the waters of Holy Baptism (GrgNy). For in the waters of Baptism, we are 'baptized into His death,' 'crucified with Him,' and raised up 'in the likeness of His resurrection' to 'walk in newness of life' ([[ROM.6:3]]-11). #### St. John Chrysostom marvels at the power of Christ's blood: If the type of it had such great power... in the midst of Egypt, when smeared on the doorposts, much more the reality.... if death so shuddered at the shadow, tell me how would it not have dreaded the very reality? This blood is the salvation of our souls; by it the soul is washed, and made beautiful and... more gleaming than gold (see [[REV.7:13]], [[REV.7:14]]). Sustained and strengthened by the blood of Christ our Passover, we resume daily our journey to the eternal promised land, the promised kingdom to come. ### The Grace Of Christ and The Law Of Moses *(after EXO.20:6)*",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "baptism",
+        "christology",
+        "covenant",
+        "exodus_typology",
+        "faith",
+        "israel_church",
+        "mercy",
+        "resurrection",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/NT/1CO_footnotes.md",
       "line_number": 416,
       "raw_match": "[[ROM.6:3]]-10",
       "reference_type": "wikilink_range",
-      "context": "When Paul calls our bodies members of Christ (see 12:12; [[ROM.6:13]]; 12:4, 5), he is reminding us of our union with Christ in baptism (see [[ROM.6:3]]-10). Fornication is therefore a sin to be fled in horror, for it joins Christ to harlots. \"We have many improper wishes, but we must repress them, for we can\" (JohnChr)."
+      "context": "When Paul calls our bodies members of Christ (see 12:12; [[ROM.6:13]]; 12:4, 5), he is reminding us of our union with Christ in baptism (see [[ROM.6:3]]-10). Fornication is therefore a sin to be fled in horror, for it joins Christ to harlots. \"We have many improper wishes, but we must repress them, for we can\" (JohnChr).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "baptism",
+        "christology",
+        "resurrection"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/NT/EPH_footnotes.md",
       "line_number": 18,
       "raw_match": "[[ROM.6:3]]-5",
       "reference_type": "wikilink_range",
-      "context": "God blesses and so is blessed. The Christian life is a response to God's initiative, especially that of the Father but also that of the Son, our Lord Jesus Christ. Spiritual blessing is primarily the work of the Spirit. The heavenly places, where the risen and ascended Christ reigns, are experienced in Christ, that is, by the life that is begun when one is joined with Christ in baptism (see [[ROM.6:3]]-5)."
+      "context": "God blesses and so is blessed. The Christian life is a response to God's initiative, especially that of the Father but also that of the Son, our Lord Jesus Christ. Spiritual blessing is primarily the work of the Spirit. The heavenly places, where the risen and ascended Christ reigns, are experienced in Christ, that is, by the life that is begun when one is joined with Christ in baptism (see [[ROM.6:3]]-5).",
+      "edge_type": "ascends_from",
+      "topic_threads": [
+        "baptism",
+        "christology",
+        "resurrection"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/NT/HEB_footnotes.md",
       "line_number": 637,
       "raw_match": "[[ROM.6:4]]",
       "reference_type": "wikilink",
-      "context": "Illuminated: Illumination, or enlightenment, refers to baptism (see 6:4; [[ROM.6:4]]; [[EPH.5:14]])."
+      "context": "Illuminated: Illumination, or enlightenment, refers to baptism (see 6:4; [[ROM.6:4]]; [[EPH.5:14]]).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "baptism",
+        "christology",
+        "resurrection"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/NT/JOH_footnotes.md",
       "line_number": 595,
       "raw_match": "[[ROM.6:3]]-6",
       "reference_type": "wikilink_range",
-      "context": "This double-basin pool, believed to have curative powers, has been discovered about 100 yards north of the temple area, near the Sheep Gate. The water for this highground pool came from underground springs and was used to wash down the sacrificial lambs before they were slain. The pool functions as a type of Christian baptism. Under the old covenant, a great multitude (v. 3) waited to enter the water for physical healing after an angel touched it (v. 4). The waters were special in that they were a way of indirectly participating in the animal sacrifices of the temple, since the animals were washed in the same water. Yet the grace was limited to the first person to enter. Under the new covenant, baptism is given to all nations as a direct participation in Christ's own sacrificial death ([[ROM.6:3]]-6) without the mediation of angels. Baptism thus grants healing of the soul and the promise of eternal resurrection of the body, and its grace in inexhaustible."
+      "context": "This double-basin pool, believed to have curative powers, has been discovered about 100 yards north of the temple area, near the Sheep Gate. The water for this highground pool came from underground springs and was used to wash down the sacrificial lambs before they were slain. The pool functions as a type of Christian baptism. Under the old covenant, a great multitude (v. 3) waited to enter the water for physical healing after an angel touched it (v. 4). The waters were special in that they were a way of indirectly participating in the animal sacrifices of the temple, since the animals were washed in the same water. Yet the grace was limited to the first person to enter. Under the new covenant, baptism is given to all nations as a direct participation in Christ's own sacrificial death ([[ROM.6:3]]-6) without the mediation of angels. Baptism thus grants healing of the soul and the promise of eternal resurrection of the body, and its grace in inexhaustible.",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "baptism",
+        "christology",
+        "covenant",
+        "faith",
+        "resurrection",
+        "shepherd",
+        "temple"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/NT/JOH_footnotes.md",
       "line_number": 1493,
       "raw_match": "[[ROM.6:3]]-11",
       "reference_type": "wikilink_range",
-      "context": "If I do not wash you, you have no part with Me (v. 8) shows the cleansing power of Christ's death and Resurrection, for only by participating in Christ's death can we be raised with Him ([[ROM.6:3]]-11). He who is bathed needs only to wash his feet (v. 10): This foot-washing also serves as an image of the sacrament of confession. Those who have completely bathed, that is, have been baptized, have no need ever to be baptized again, for baptism is indelible. The sins the believer assumes during his life must still be washed through ongoing repentance, just as the feet of a person returning from the public bath must be washed before entering the house. As Christians, we are bathed by Christ in baptism and have periodic washings in the sacrament of confession."
+      "context": "If I do not wash you, you have no part with Me (v. 8) shows the cleansing power of Christ's death and Resurrection, for only by participating in Christ's death can we be raised with Him ([[ROM.6:3]]-11). He who is bathed needs only to wash his feet (v. 10): This foot-washing also serves as an image of the sacrament of confession. Those who have completely bathed, that is, have been baptized, have no need ever to be baptized again, for baptism is indelible. The sins the believer assumes during his life must still be washed through ongoing repentance, just as the feet of a person returning from the public bath must be washed before entering the house. As Christians, we are bathed by Christ in baptism and have periodic washings in the sacrament of confession.",
+      "edge_type": "opposes",
+      "topic_threads": [
+        "baptism",
+        "christology",
+        "faith",
+        "repentance",
+        "resurrection"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/NT/LUK_footnotes.md",
       "line_number": 386,
       "raw_match": "[[ROM.6:3]]-11",
       "reference_type": "wikilink_range",
-      "context": "The call to repentance was traditional for prophets. John's baptism did not grant remission of sins once and for all, but prefigured and prepared people for the baptism of Christ which was to come (see [[ROM.6:3]]-11). John is a figure of the Law in that, like the Law, he denounced sin but could not remit (lit. \"put away\") sin. Both John and the Law point to the One who can remit sin."
+      "context": "The call to repentance was traditional for prophets. John's baptism did not grant remission of sins once and for all, but prefigured and prepared people for the baptism of Christ which was to come (see [[ROM.6:3]]-11). John is a figure of the Law in that, like the Law, he denounced sin but could not remit (lit. \"put away\") sin. Both John and the Law point to the One who can remit sin.",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "baptism",
+        "christology",
+        "repentance",
+        "resurrection"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/NT/MAT_footnotes.md",
       "line_number": 1473,
       "raw_match": "[[ROM.6:3]]-5",
       "reference_type": "wikilink_range",
-      "context": "This second feeding of a multitude should not be confused with the first (14:22- 33), for they are two distinct miracles (see 16:8-10). The variance in the number of loaves is significant. In the first instance, there were five loaves, symbolizing the Law, while here, there are seven (v. 34). Seven symbolizes completeness and here indicates spiritual perfection. Thus, in the first instance, Christ reveals Himself as fulfilling the Law, while here He shows that it is He who grants spiritual perfection. Note also these crowds had been with Christ for three days (v. 32), the number of days He would rest in the tomb. Participation in His perfection can only come through being united to Christ's death (see [[ROM.6:3]]-5)."
+      "context": "This second feeding of a multitude should not be confused with the first (14:22- 33), for they are two distinct miracles (see 16:8-10). The variance in the number of loaves is significant. In the first instance, there were five loaves, symbolizing the Law, while here, there are seven (v. 34). Seven symbolizes completeness and here indicates spiritual perfection. Thus, in the first instance, Christ reveals Himself as fulfilling the Law, while here He shows that it is He who grants spiritual perfection. Note also these crowds had been with Christ for three days (v. 32), the number of days He would rest in the tomb. Participation in His perfection can only come through being united to Christ's death (see [[ROM.6:3]]-5).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "baptism",
+        "christology",
+        "resurrection"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/NT/MAT_footnotes.md",
       "line_number": 1789,
       "raw_match": "[[ROM.6:3]]-6",
       "reference_type": "wikilink_range",
-      "context": "This quest for temporal power and glory is unfitting for a disciple and shows an earthly misunderstanding of the Kingdom of God. Matthew reports that the mother of Zebedee's sons requested this honor, but John's and James' own involvement is revealed by the plural you in v. 22, and in [[MRK.10:35]]. Christ calls His Crucifixion a cup and His death a baptism. The Cross is a cup because He drank it willingly ([[HEB.12:2]]). His death is baptism, for He was completely immersed in it, yet it cleansed the world ([[ROM.6:3]]-6). Christ's prophecy of John and James participating in the same cup and baptism shows the life of persecution and martyrdom they would lead after Pentecost. Christ declaring that the places of honor in the Kingdom are not His to give does not mean that He lacks authority. Rather, it means that they are not His to give arbitrarily. Instead, He will give them to those for whom God has prepared them. Note also that with regard to sitting as equals on the right and left hand of Christ in His Kingdom, St. John Chrysostom teaches that no one could possibly occupy such a position. With regard to the highest places of honor that can be given to man, the icons of the Church universally depict the Virgin Mary (the most blessed among women--[[LUK.1:28]]) and John the Baptist (the greatest born of women--11:11) holding these places."
+      "context": "This quest for temporal power and glory is unfitting for a disciple and shows an earthly misunderstanding of the Kingdom of God. Matthew reports that the mother of Zebedee's sons requested this honor, but John's and James' own involvement is revealed by the plural you in v. 22, and in [[MRK.10:35]]. Christ calls His Crucifixion a cup and His death a baptism. The Cross is a cup because He drank it willingly ([[HEB.12:2]]). His death is baptism, for He was completely immersed in it, yet it cleansed the world ([[ROM.6:3]]-6). Christ's prophecy of John and James participating in the same cup and baptism shows the life of persecution and martyrdom they would lead after Pentecost. Christ declaring that the places of honor in the Kingdom are not His to give does not mean that He lacks authority. Rather, it means that they are not His to give arbitrarily. Instead, He will give them to those for whom God has prepared them. Note also that with regard to sitting as equals on the right and left hand of Christ in His Kingdom, St. John Chrysostom teaches that no one could possibly occupy such a position. With regard to the highest places of honor that can be given to man, the icons of the Church universally depict the Virgin Mary (the most blessed among women--[[LUK.1:28]]) and John the Baptist (the greatest born of women--11:11) holding these places.",
+      "edge_type": "witnesses",
+      "topic_threads": [
+        "baptism",
+        "christology",
+        "kingdom",
+        "resurrection",
+        "suffering",
+        "wisdom"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/LEV_footnotes.md",
       "line_number": 41,
       "raw_match": "[[ROM.6:4]]",
       "reference_type": "wikilink",
-      "context": "In the Levitical liturgy of worship, the people participated in the worship. They were not passive observers who watched while the priests did all the work, for the word liturgy means the work of the people. Both priest and people were actively involved. Similarly, in the new covenant liturgy of worship, both laity and clergy actively participate in the worship. Here, the worshiper placed his hand on the head of the animal and killed it, and in so doing was united with the offering; for the animal's death became the death of the offerer. Similarly, in baptism, the worshiper is united with Christ, for Christ's death becomes in the mystery of baptism the very death, burial, and resurrection of the one baptized ([[ROM.6:3]], [[ROM.6:4]]). In the Levitical liturgy of worship, the burnt offering was accepted as an atonement on behalf of the worshiper. Atonement is reconciliation to God. Similarly, in the new covenant liturgy of worship, Christ's offering of Himself is accepted as the worshiper's means of reconciliation to God ([[ROM.5:10]], [[ROM.5:11]]; [[2CO.5:18]])."
+      "context": "In the Levitical liturgy of worship, the people participated in the worship. They were not passive observers who watched while the priests did all the work, for the word liturgy means the work of the people. Both priest and people were actively involved. Similarly, in the new covenant liturgy of worship, both laity and clergy actively participate in the worship. Here, the worshiper placed his hand on the head of the animal and killed it, and in so doing was united with the offering; for the animal's death became the death of the offerer. Similarly, in baptism, the worshiper is united with Christ, for Christ's death becomes in the mystery of baptism the very death, burial, and resurrection of the one baptized ([[ROM.6:3]], [[ROM.6:4]]). In the Levitical liturgy of worship, the burnt offering was accepted as an atonement on behalf of the worshiper. Atonement is reconciliation to God. Similarly, in the new covenant liturgy of worship, Christ's offering of Himself is accepted as the worshiper's means of reconciliation to God ([[ROM.5:10]], [[ROM.5:11]]; [[2CO.5:18]]).",
+      "edge_type": "ascends_from",
+      "topic_threads": [
+        "baptism",
+        "christology",
+        "covenant",
+        "logos",
+        "priesthood",
+        "resurrection"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/LEV_footnotes.md",
       "line_number": 433,
       "raw_match": "[[ROM.6:4]]",
       "reference_type": "wikilink",
-      "context": "Leprosy forced the leper into a way of life outside the camp. This way became a camp to itself. Similarly, the fallen world is a camp to itself, with its own way of life. This way of life is described as the \"old man\" ([[ROM.6:6]]). This old man was crucified with Christ in baptism, and the one baptized is raised up with Christ to walk in newness of life ([[ROM.6:3]], [[ROM.6:4]]). \"Newness of life\" is described in [[EPH.4:24]] as \"the new man which was created according to God, in true righteousness and holiness.\""
+      "context": "Leprosy forced the leper into a way of life outside the camp. This way became a camp to itself. Similarly, the fallen world is a camp to itself, with its own way of life. This way of life is described as the \"old man\" ([[ROM.6:6]]). This old man was crucified with Christ in baptism, and the one baptized is raised up with Christ to walk in newness of life ([[ROM.6:3]], [[ROM.6:4]]). \"Newness of life\" is described in [[EPH.4:24]] as \"the new man which was created according to God, in true righteousness and holiness.\"",
+      "edge_type": "ascends_from",
+      "topic_threads": [
+        "baptism",
+        "christology",
+        "creation_theology",
+        "resurrection",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/NUM_footnotes.md",
       "line_number": 729,
       "raw_match": "[[ROM.6:3]]-5",
       "reference_type": "wikilink_range",
-      "context": "; Lv 16:1-34; 23:1-44; [[NUM.28:16]]-29:38), to (5) the sabbatical year ([[EXO.23:10]], [[EXO.23:11]]; Lv 25:1-7), and eventually to (6) the Year of Remission (Lv 25:8-55; 27:17-25). Israel's liturgical worship was designed to sanctify time and all life. This sanctification would make the offerings to be a sweet aroma to the Lord (28:2). For the Lord was well-pleased when the Israelites were sanctified to the extent possible under Old Testament worship. 28:2 When Israel offered what the Lord commanded, they were only returning to Him what was His in the first place. The same is true of our offerings in the Church. \"When we make a return we give nothing of our own, but those things which we have before received from Christ, this being especially of His grace, that He should require, as from us, His own gifts. He bears witness to this in Numbers when He says: 'My gifts, My presents, My burnt offerings, you shall take care to offer Me as a sweet aroma in my feasts.' That is, those things you give Me are yours, as having received them from Me, but they are the gifts of God. Let us offer to the Lord every virtue, and that true holiness which is in Him, and in piety let us keep the feast to Him with those things He hallowed for us\" (AthanG). 30:1 Moses' greatness lay in the fact that he passed on to Israel everything the Son of God--the Lord--commanded. For He was \"over His own house,\" whereas Moses was His faithful servant \"in all His house\" ([[HEB.3:5]], [[HEB.3:6]]). We also are in His house, \"if we hold fast the confidence and the rejoicing of the hope firm to the end\" ([[HEB.3:6]]). 31:8-16 Balaam had prophesied in the Lord's name (chs. 22-24), but he caused Israel to worship idols and commit fornication (25:1-3; [[REV.2:14]]). He became a false prophet and in the end was killed for his actions, because he despised the Lord's word and taught Israel to do the same. He replaced love for the true God with love for money. His false love then led him to worship Baal and to commit fornication. As St. Paul said, \"The love of money is a root of all kinds of evil\" ([[1TI.6:10]]). Money in itself is not the root of all evil. The love of money is, for as the Lord said, \"You cannot serve God and mammon [riches]\" ([[MAT.6:24]]). The love of money is idolatry ([[COL.3:5]]). Today, \"many false prophets have gone out into the world\" ([[1JN.4:1]]). They \"run greedily in the error of Balaam for profit\" (Jude 11). \"They have forsaken the right way and gone astray, following the way of Balaam the son of Beor, who loved the wages of unrighteousness\" ([[2PE.2:15]]). Like Balaam, they have \"eyes full of adultery and that cannot cease from sin, enticing unstable souls. They have a heart trained in covetous practices, and are accursed children\" ([[2PE.2:14]]). They \"secretly bring in destructive heresies, even denying the Lord who bought them, and bring on themselves swift destruction\" ([[2PE.2:1]]). 31:21-24 The Midianites were corrupted by the love of money, idolatry, and fornication; therefore, everything taken from them had to be purified either by fire or water. Fire speaks of the Holy Spirit, and the water of purification foreshadows the waters of baptism. For in the baptismal waters, the Holy Spirit cleanses us with His fire, and we are born anew in union with Christ in His death, burial, and Resurrection. The old man of covetousness, idolatry, and fornication is crucified with Christ, and the new man is renewed to live in virtue and holiness ([[ROM.6:3]]-5; [[JOH.3:3]]-5; [[MAT.3:11]]). 32:5-7 The armies of Israel secured the lands east of the Jordan, which were suitable for cattle. The sons of Reuben and Gad requested these lands as their inheritance, without the necessity of crossing the Jordan to help their brothers fight for theirs. So they appealed to Moses as the arbitrator and judge. But Moses called these sons \"a body of sinful men\" (v. 14). They coveted what they saw at the expense of their brothers. This covetous spirit eventually led them into idolatry and into captivity in Assyria ([[1CH.5:25]], [[1CH.5:26]]). A man from the crowd asked Jesus to make his brother divide the inheritance with him, but Jesus declined, because He did not come to be a judge or arbitrator like Moses. Then He went on to say to this man, \"Take heed and beware of covetousness, for one's life does not consist in the abundance of the things he possesses\" ([[LUK.12:15]]). Jesus came to save the world, but we cannot be saved if we are covetous. 33:1 A stage was a particular place Israel camped during their forty-year journey from Egypt through the wilderness to Canaan. Thirty-eight stages are mentioned in this chapter. At the thirty-eighth stage, they \"camped west of Moab by the Jordan opposite Jericho\" (v. 48). From this location, they would soon cross over the Jordan for their conquest of Canaan, the land of promise. Life is a journey from this fallen world (Egypt and the wilderness) to the kingdom of God (the land of promise). 33:2 The Lord led Israel the entire way in their journey. He tested them with harsh experiences \"to know what was in their heart\" ([[DEU.8:2]], [[DEU.8:15]]; see also 29:4; 32:12, 16; Ps 76:21; 77:14, 52, 53; 106:7). God's people are tested with harsh experiences, which bring out what is in the heart. These tests reveal whether we truly love God or not. If we pass them, they help prepare us for entrance into the kingdom of God ([[1PE.1:3]]-7). 33:8 Many things that happened to Israel serve as types for us and for our instruction and learning ([[ROM.15:4]]; [[1CO.10:6]], [[1CO.10:11]]). For example, Israel's passage through the Red Sea was a type of baptism ([[1CO.10:1]], [[1CO.10:2]]). 33:14 Israel was tested at Rephidim, but they abused Moses and tempted the Lord (Ex 17:1-7). They failed this test, which proved they did not love God. Someone may say, \"I love God,\" but testing will prove whether or not his statement is true. 34:6 The Great Sea is the Mediterranean Sea."
+      "context": "; Lv 16:1-34; 23:1-44; [[NUM.28:16]]-29:38), to (5) the sabbatical year ([[EXO.23:10]], [[EXO.23:11]]; Lv 25:1-7), and eventually to (6) the Year of Remission (Lv 25:8-55; 27:17-25). Israel's liturgical worship was designed to sanctify time and all life. This sanctification would make the offerings to be a sweet aroma to the Lord (28:2). For the Lord was well-pleased when the Israelites were sanctified to the extent possible under Old Testament worship. 28:2 When Israel offered what the Lord commanded, they were only returning to Him what was His in the first place. The same is true of our offerings in the Church. \"When we make a return we give nothing of our own, but those things which we have before received from Christ, this being especially of His grace, that He should require, as from us, His own gifts. He bears witness to this in Numbers when He says: 'My gifts, My presents, My burnt offerings, you shall take care to offer Me as a sweet aroma in my feasts.' That is, those things you give Me are yours, as having received them from Me, but they are the gifts of God. Let us offer to the Lord every virtue, and that true holiness which is in Him, and in piety let us keep the feast to Him with those things He hallowed for us\" (AthanG). 30:1 Moses' greatness lay in the fact that he passed on to Israel everything the Son of God--the Lord--commanded. For He was \"over His own house,\" whereas Moses was His faithful servant \"in all His house\" ([[HEB.3:5]], [[HEB.3:6]]). We also are in His house, \"if we hold fast the confidence and the rejoicing of the hope firm to the end\" ([[HEB.3:6]]). 31:8-16 Balaam had prophesied in the Lord's name (chs. 22-24), but he caused Israel to worship idols and commit fornication (25:1-3; [[REV.2:14]]). He became a false prophet and in the end was killed for his actions, because he despised the Lord's word and taught Israel to do the same. He replaced love for the true God with love for money. His false love then led him to worship Baal and to commit fornication. As St. Paul said, \"The love of money is a root of all kinds of evil\" ([[1TI.6:10]]). Money in itself is not the root of all evil. The love of money is, for as the Lord said, \"You cannot serve God and mammon [riches]\" ([[MAT.6:24]]). The love of money is idolatry ([[COL.3:5]]). Today, \"many false prophets have gone out into the world\" ([[1JN.4:1]]). They \"run greedily in the error of Balaam for profit\" (Jude 11). \"They have forsaken the right way and gone astray, following the way of Balaam the son of Beor, who loved the wages of unrighteousness\" ([[2PE.2:15]]). Like Balaam, they have \"eyes full of adultery and that cannot cease from sin, enticing unstable souls. They have a heart trained in covetous practices, and are accursed children\" ([[2PE.2:14]]). They \"secretly bring in destructive heresies, even denying the Lord who bought them, and bring on themselves swift destruction\" ([[2PE.2:1]]). 31:21-24 The Midianites were corrupted by the love of money, idolatry, and fornication; therefore, everything taken from them had to be purified either by fire or water. Fire speaks of the Holy Spirit, and the water of purification foreshadows the waters of baptism. For in the baptismal waters, the Holy Spirit cleanses us with His fire, and we are born anew in union with Christ in His death, burial, and Resurrection. The old man of covetousness, idolatry, and fornication is crucified with Christ, and the new man is renewed to live in virtue and holiness ([[ROM.6:3]]-5; [[JOH.3:3]]-5; [[MAT.3:11]]). 32:5-7 The armies of Israel secured the lands east of the Jordan, which were suitable for cattle. The sons of Reuben and Gad requested these lands as their inheritance, without the necessity of crossing the Jordan to help their brothers fight for theirs. So they appealed to Moses as the arbitrator and judge. But Moses called these sons \"a body of sinful men\" (v. 14). They coveted what they saw at the expense of their brothers. This covetous spirit eventually led them into idolatry and into captivity in Assyria ([[1CH.5:25]], [[1CH.5:26]]). A man from the crowd asked Jesus to make his brother divide the inheritance with him, but Jesus declined, because He did not come to be a judge or arbitrator like Moses. Then He went on to say to this man, \"Take heed and beware of covetousness, for one's life does not consist in the abundance of the things he possesses\" ([[LUK.12:15]]). Jesus came to save the world, but we cannot be saved if we are covetous. 33:1 A stage was a particular place Israel camped during their forty-year journey from Egypt through the wilderness to Canaan. Thirty-eight stages are mentioned in this chapter. At the thirty-eighth stage, they \"camped west of Moab by the Jordan opposite Jericho\" (v. 48). From this location, they would soon cross over the Jordan for their conquest of Canaan, the land of promise. Life is a journey from this fallen world (Egypt and the wilderness) to the kingdom of God (the land of promise). 33:2 The Lord led Israel the entire way in their journey. He tested them with harsh experiences \"to know what was in their heart\" ([[DEU.8:2]], [[DEU.8:15]]; see also 29:4; 32:12, 16; Ps 76:21; 77:14, 52, 53; 106:7). God's people are tested with harsh experiences, which bring out what is in the heart. These tests reveal whether we truly love God or not. If we pass them, they help prepare us for entrance into the kingdom of God ([[1PE.1:3]]-7). 33:8 Many things that happened to Israel serve as types for us and for our instruction and learning ([[ROM.15:4]]; [[1CO.10:6]], [[1CO.10:11]]). For example, Israel's passage through the Red Sea was a type of baptism ([[1CO.10:1]], [[1CO.10:2]]). 33:14 Israel was tested at Rephidim, but they abused Moses and tempted the Lord (Ex 17:1-7). They failed this test, which proved they did not love God. Someone may say, \"I love God,\" but testing will prove whether or not his statement is true. 34:6 The Great Sea is the Mediterranean Sea.",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "baptism",
+        "christology",
+        "covenant",
+        "exodus_typology",
+        "israel_church",
+        "kingdom",
+        "logos",
+        "resurrection",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/RUT_footnotes.md",
       "line_number": 129,
       "raw_match": "[[ROM.6:3]]-11",
       "reference_type": "wikilink_range",
-      "context": "Where Boaz lies down, Ruth will lie down with him, and Boaz will instruct her. Likewise, as Christ was buried, the believer is also buried with Him in baptism, and thus learns how to live ([[ROM.6:3]]-11)."
+      "context": "Where Boaz lies down, Ruth will lie down with him, and Boaz will instruct her. Likewise, as Christ was buried, the believer is also buried with Him in baptism, and thus learns how to live ([[ROM.6:3]]-11).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "baptism",
+        "christology",
+        "faith",
+        "resurrection"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

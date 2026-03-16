@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "But Abraham said, 'Son, remember that in your lifetime you received your good things, and likewise Lazarus evil things; but now he is comforted and you are tormented.",
   "pericope": {
     "id": "LUK.P078",
@@ -12,7 +12,9 @@
     "range": "LUK.16:18-16:30",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "prayer"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 105,
       "raw_match": "[[LUK.16:22]]-31",
       "reference_type": "wikilink_range",
-      "context": "The prayer of the dead of Israel suggests the intercessions of the departed saints with the Lord (see [[LUK.16:22]]-31)."
+      "context": "The prayer of the dead of Israel suggests the intercessions of the departed saints with the Lord (see [[LUK.16:22]]-31).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "prayer"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

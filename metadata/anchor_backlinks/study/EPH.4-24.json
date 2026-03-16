@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "and that you put on the new man which was created according to God, in true righteousness and holiness.",
   "pericope": {
     "id": "EPH.P012",
@@ -12,7 +12,13 @@
     "range": "EPH.4:24-5:1",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "baptism",
+    "christology",
+    "covenant",
+    "creation_theology",
+    "suffering"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,14 +26,43 @@
       "line_number": 1279,
       "raw_match": "[[EPH.4:20]]-24",
       "reference_type": "wikilink_range",
-      "context": "This fulfills the prophecy of [[MIC.7:6]]. In addition to its literal meaning, which has been experienced in the Church since the time of Christ, the older generation being divided from the younger generation also symbolizes (1) the rejection of the new covenant by followers of the old covenant, and (2) the spiritual struggle between our old, sinful state and our renewal in Christ (see [[EPH.4:20]]-24)."
+      "context": "This fulfills the prophecy of [[MIC.7:6]]. In addition to its literal meaning, which has been experienced in the Church since the time of Christ, the older generation being divided from the younger generation also symbolizes (1) the rejection of the new covenant by followers of the old covenant, and (2) the spiritual struggle between our old, sinful state and our renewal in Christ (see [[EPH.4:20]]-24).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "covenant",
+        "creation_theology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/LEV_footnotes.md",
       "line_number": 433,
       "raw_match": "[[EPH.4:24]]",
       "reference_type": "wikilink",
-      "context": "Leprosy forced the leper into a way of life outside the camp. This way became a camp to itself. Similarly, the fallen world is a camp to itself, with its own way of life. This way of life is described as the \"old man\" ([[ROM.6:6]]). This old man was crucified with Christ in baptism, and the one baptized is raised up with Christ to walk in newness of life ([[ROM.6:3]], [[ROM.6:4]]). \"Newness of life\" is described in [[EPH.4:24]] as \"the new man which was created according to God, in true righteousness and holiness.\""
+      "context": "Leprosy forced the leper into a way of life outside the camp. This way became a camp to itself. Similarly, the fallen world is a camp to itself, with its own way of life. This way of life is described as the \"old man\" ([[ROM.6:6]]). This old man was crucified with Christ in baptism, and the one baptized is raised up with Christ to walk in newness of life ([[ROM.6:3]], [[ROM.6:4]]). \"Newness of life\" is described in [[EPH.4:24]] as \"the new man which was created according to God, in true righteousness and holiness.\"",
+      "edge_type": "ascends_from",
+      "topic_threads": [
+        "baptism",
+        "christology",
+        "creation_theology",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

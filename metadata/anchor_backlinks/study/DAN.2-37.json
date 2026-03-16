@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "You, O king, are a king of kings, to whom the God of heaven has given a strong, mighty, and highly regarded kingdom.",
   "pericope": {
     "id": "DAN.P004",
@@ -20,7 +20,16 @@
       "line_number": 148,
       "raw_match": "[[DAN.2:31]]-44",
       "reference_type": "wikilink_range",
-      "context": "[[DAN.2:31]]-44 indicates this mysterious metal foundation not only provides stability but has the ability to forcibly crush all opposition as well. These images are contrasted with the feet of clay found in [[DAN.2:33]], [[DAN.2:43]]: the kingdoms of this world are not permanent, nor ultimately triumphant."
+      "context": "[[DAN.2:31]]-44 indicates this mysterious metal foundation not only provides stability but has the ability to forcibly crush all opposition as well. These images are contrasted with the feet of clay found in [[DAN.2:33]], [[DAN.2:43]]: the kingdoms of this world are not permanent, nor ultimately triumphant.",
+      "edge_type": "opposes",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

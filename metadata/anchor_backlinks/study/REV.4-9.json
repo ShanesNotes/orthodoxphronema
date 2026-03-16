@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Whenever the living creatures give glory and honor and thanks to Him who sits on the throne, who lives forever and ever,",
   "pericope": {
     "id": "REV.P010",
@@ -12,7 +12,9 @@
     "range": "REV.3:22-4:9",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "kingdom"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 29,
       "raw_match": "[[REV.4:6]]-9",
       "reference_type": "wikilink_range",
-      "context": "Ezekiel identifies the four living creatures as cherubim (10:9-16), the guardians of the throne of God ([[EXO.25:10]]-22; 3Kg 6:23-28). Like those of St. John's vision (see [[REV.4:6]]-9), they are seen by the Fathers to typify the Four Evangelists, while their unity in the spirit (vv. 12, 20) illustrates the spread of the gospel."
+      "context": "Ezekiel identifies the four living creatures as cherubim (10:9-16), the guardians of the throne of God ([[EXO.25:10]]-22; 3Kg 6:23-28). Like those of St. John's vision (see [[REV.4:6]]-9), they are seen by the Fathers to typify the Four Evangelists, while their unity in the spirit (vv. 12, 20) illustrates the spread of the gospel.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "kingdom"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 9,
+        "title": "Example: The Cherubim of Ezekiel I",
+        "polarity": "generation",
+        "operation": "inform",
+        "scale": "intercommunal"
+      }
     }
   ]
 }

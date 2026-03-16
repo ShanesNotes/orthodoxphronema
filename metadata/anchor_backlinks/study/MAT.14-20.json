@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "So they all ate and were filled, and they took up twelve baskets full of the fragments that remained.",
   "pericope": {
     "id": "MAT.P048",
@@ -12,7 +12,10 @@
     "range": "MAT.14:12-14:20",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "praise"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 125,
       "raw_match": "[[MAT.14:20]]",
       "reference_type": "wikilink",
-      "context": "In this chapter, Elisha experiences the double portion of Elijah's spirit (2:9) in performing five miracles: multiplying the poor widow's oil (vv. 1-7); providing a son to the good Shunammite in her old age (vv. 8-17); raising the lifeless child to life (vv. 18- 27); healing the death in the pottage (vv. 38-41); and feeding a hundred men with twenty small loaves (vv. 42-44). 4:1-7 This account demonstrates the wondrous acts of Christ's charity made manifest through those faithful to Him and in whom His goodness is magnified (see also [[MAT.14:20]];"
+      "context": "In this chapter, Elisha experiences the double portion of Elijah's spirit (2:9) in performing five miracles: multiplying the poor widow's oil (vv. 1-7); providing a son to the good Shunammite in her old age (vv. 8-17); raising the lifeless child to life (vv. 18- 27); healing the death in the pottage (vv. 38-41); and feeding a hundred men with twenty small loaves (vv. 42-44). 4:1-7 This account demonstrates the wondrous acts of Christ's charity made manifest through those faithful to Him and in whom His goodness is magnified (see also [[MAT.14:20]];",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology",
+        "praise"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

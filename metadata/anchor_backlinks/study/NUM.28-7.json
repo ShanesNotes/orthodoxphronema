@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Its drink offering shall be one-fourth of a hin for each male lamb; in the holy place you shall pour out the intoxicant as a drink offering to the Lord.",
   "pericope": {
     "id": "NUM.P063",
@@ -12,7 +12,13 @@
     "range": "NUM.27:23-28:7",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "creation_theology",
+    "divine_word",
+    "exodus_typology",
+    "temple"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +26,23 @@
       "line_number": 680,
       "raw_match": "[[NUM.28:3]]-8",
       "reference_type": "wikilink_range",
-      "context": "The Son of God spoke to Moses, and the things He spoke on this occasion cover chs. 28 and 29. These two chapters form a comprehensive, complete, and well-ordered arrangement of Israel's liturgical worship in any given calendar year. These liturgics, given in various places in Exodus, Leviticus and Numbers, are here brought together as one unified whole. And once Israel completed their conquest of Canaan, these could be put into effect. Israel's liturgical worship existed for the sanctification of the time and life of every Israelite. It sanctified time and life, because it was arranged around the number seven. Its beginning point and center was in the seventh day of the week--the Sabbath day. And the number seven was regulated according to the divisions of time established at Creation (Gn 1-11)--into days, weeks, months, years, and periods of years. Thus, the liturgical worship ascended from (1) the daily offerings ([[EXO.29:38]]-42; [[NUM.28:3]]-8),"
+      "context": "The Son of God spoke to Moses, and the things He spoke on this occasion cover chs. 28 and 29. These two chapters form a comprehensive, complete, and well-ordered arrangement of Israel's liturgical worship in any given calendar year. These liturgics, given in various places in Exodus, Leviticus and Numbers, are here brought together as one unified whole. And once Israel completed their conquest of Canaan, these could be put into effect. Israel's liturgical worship existed for the sanctification of the time and life of every Israelite. It sanctified time and life, because it was arranged around the number seven. Its beginning point and center was in the seventh day of the week--the Sabbath day. And the number seven was regulated according to the divisions of time established at Creation (Gn 1-11)--into days, weeks, months, years, and periods of years. Thus, the liturgical worship ascended from (1) the daily offerings ([[EXO.29:38]]-42; [[NUM.28:3]]-8),",
+      "edge_type": "echoes",
+      "topic_threads": [
+        "christology",
+        "creation_theology",
+        "divine_word",
+        "exodus_typology",
+        "temple"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

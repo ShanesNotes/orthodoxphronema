@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "and then Samson said, 'Let my life end with the Philistines.' And with all his strength, he pushed on the pillars, and the house came crashing down on the leaders and all the people in it. In his dying, Samson caused more people to die than were brought to death in his life.",
   "pericope": {
     "id": "JDG.P036",
@@ -12,7 +12,9 @@
     "range": "JDG.16:21-16:30",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "temple"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 274,
       "raw_match": "[[JDG.16:21]]-30",
       "reference_type": "wikilink_range",
-      "context": "Dagon (lit. \"a fish\") was one of the gods of the Philistines, a seafaring people, and was represented by a man's torso with the tail of a fish. Dagon had two temples mentioned in the Bible, one at Gaza ([[JDG.16:21]]-30) and one at Ashdod (1Kg 5:5; 1Ch 10:10)."
+      "context": "Dagon (lit. \"a fish\") was one of the gods of the Philistines, a seafaring people, and was represented by a man's torso with the tail of a fish. Dagon had two temples mentioned in the Bible, one at Gaza ([[JDG.16:21]]-30) and one at Ashdod (1Kg 5:5; 1Ch 10:10).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "temple"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

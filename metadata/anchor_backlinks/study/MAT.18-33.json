@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Should you not also have had compassion on your fellow servant, just as I had pity on you?'",
   "pericope": {
     "id": "MAT.P062",
@@ -12,7 +12,11 @@
     "range": "MAT.18:20-19:11",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "mercy",
+    "suffering"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +24,21 @@
       "line_number": 775,
       "raw_match": "[[MAT.18:23]]-35",
       "reference_type": "wikilink_range",
-      "context": "One of the most powerful of Christ's parables greatly amplifies this common human failing ([[MAT.18:23]]-35)."
+      "context": "One of the most powerful of Christ's parables greatly amplifies this common human failing ([[MAT.18:23]]-35).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "mercy",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 9,
+        "title": "Example: The Cherubim of Ezekiel I",
+        "polarity": "generation",
+        "operation": "inform",
+        "scale": "intercommunal"
+      }
     }
   ]
 }

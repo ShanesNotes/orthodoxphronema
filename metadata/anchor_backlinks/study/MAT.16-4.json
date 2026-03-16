@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "A wicked and adulterous generation seeks after a sign, and no sign shall be given to it except the sign of the prophet a Jonah.' And He left them and departed.",
   "pericope": {
     "id": "MAT.P052",
@@ -12,7 +12,9 @@
     "range": "MAT.16:4-16:11",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 57,
       "raw_match": "[[MAT.16:4]]",
       "reference_type": "wikilink",
-      "context": "Three days and three nights is a prophetic type of Christ's three-day sojourn in the \"heart of the earth [Sheol]\" ([[MAT.12:40]]; see also [[MAT.16:4]]; [[1PE.3:19]]: \"He [Jesus] went and preached to the spirits in prison [Sheol or Gr. Hades]\")."
+      "context": "Three days and three nights is a prophetic type of Christ's three-day sojourn in the \"heart of the earth [Sheol]\" ([[MAT.12:40]]; see also [[MAT.16:4]]; [[1PE.3:19]]: \"He [Jesus] went and preached to the spirits in prison [Sheol or Gr. Hades]\").",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

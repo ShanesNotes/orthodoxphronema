@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Set a watch, O Lord, before my mouth, A door of enclosure about my lips.",
   "pericope": {
     "id": "PSA.P140",
@@ -20,14 +20,24 @@
       "line_number": 584,
       "raw_match": "[[PSA.140:3]]",
       "reference_type": "wikilink",
-      "context": "This passage amplifies [[PSA.140:3]], which is sung at Vespers."
+      "context": "This passage amplifies [[PSA.140:3]], which is sung at Vespers.",
+      "edge_type": "echoes"
     },
     {
       "source_file": "study/footnotes/OT/SIR_footnotes.md",
       "line_number": 793,
       "raw_match": "[[PSA.140:3]]",
       "reference_type": "wikilink",
-      "context": "The Church teaches us to weigh our words and to pray, \"Set a watch, O Lord, before my mouth\" ([[PSA.140:3]]). He who lies in wait is Satan, who desires to capture our soul."
+      "context": "The Church teaches us to weigh our words and to pray, \"Set a watch, O Lord, before my mouth\" ([[PSA.140:3]]). He who lies in wait is Satan, who desires to capture our soul.",
+      "edge_type": "instantiates",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

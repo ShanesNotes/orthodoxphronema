@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "All Scripture is given by inspiration of God, and is profitable for doctrine, for reproof, for correction, for instruction in righteousness,",
   "pericope": {
     "id": "2TI.P010",
@@ -20,7 +20,16 @@
       "line_number": 135,
       "raw_match": "[[2TI.3:15]]-17",
       "reference_type": "wikilink_range",
-      "context": "While the Scriptures are the inspired truth of God in human words ([[2TI.3:15]]-17), the Church is the pillar and ground of that truth."
+      "context": "While the Scriptures are the inspired truth of God in human words ([[2TI.3:15]]-17), the Church is the pillar and ground of that truth.",
+      "edge_type": "instantiates",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

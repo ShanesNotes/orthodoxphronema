@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Then Moses said to the Lord, 'I pray, O Lord, I am not capable, neither before nor since You spoke to Your servant; but I am weak in speech and slow of tongue.'",
   "pericope": {
     "id": "EXO.P005",
@@ -20,7 +20,16 @@
       "line_number": 30,
       "raw_match": "[[EXO.4:10]]",
       "reference_type": "wikilink",
-      "context": "Like Moses before him ([[EXO.4:10]]), Jeremiah claims he does not know how to speak. As with all the prophets, God put His words in Jeremiah's mouth (v. 9)."
+      "context": "Like Moses before him ([[EXO.4:10]]), Jeremiah claims he does not know how to speak. As with all the prophets, God put His words in Jeremiah's mouth (v. 9).",
+      "edge_type": "instantiates",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "O daughter of my people, dress yourself in sackcloth and sprinkle yourself with ashes. Make for yourself a bitter lamentation as if for a beloved son, because suddenly misery will come upon you.",
   "pericope": {
     "id": "JER.P012",
@@ -12,7 +12,10 @@
     "range": "JER.5:31-6:29",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "prayer",
+    "repentance"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 99,
       "raw_match": "[[JER.6:26]]",
       "reference_type": "wikilink",
-      "context": "In an amazing response to Jonah's preaching, the Ninevites show us the true meaning of repentance in the following ways: (1) By the ancient practice of fasting, which implied a total fast. (2) By wearing sackcloth and ashes. Sackcloth was a rough, uncomfortable cloth made of goat or camel hair, used for making grain bags. It was worn as a sign of mourning (see [[GEN.37:34]]; [[EST.4:3]]; 1Mc 2:14; [[MAT.11:21]]). Putting ashes on one's head also symbolized mourning or repentance (see 2Kg 13:19; Is 58:5; [[JER.6:26]]). (3) By prayer. (4) By changing their behavior. True repentance is not just feeling sorry, but involves both the heart and actions."
+      "context": "In an amazing response to Jonah's preaching, the Ninevites show us the true meaning of repentance in the following ways: (1) By the ancient practice of fasting, which implied a total fast. (2) By wearing sackcloth and ashes. Sackcloth was a rough, uncomfortable cloth made of goat or camel hair, used for making grain bags. It was worn as a sign of mourning (see [[GEN.37:34]]; [[EST.4:3]]; 1Mc 2:14; [[MAT.11:21]]). Putting ashes on one's head also symbolized mourning or repentance (see 2Kg 13:19; Is 58:5; [[JER.6:26]]). (3) By prayer. (4) By changing their behavior. True repentance is not just feeling sorry, but involves both the heart and actions.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "prayer",
+        "repentance"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Therefore bear fruits worthy of repentance,",
   "pericope": {
     "id": "MAT.P006",
@@ -12,7 +12,9 @@
     "range": "MAT.2:23-3:11",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "repentance"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,14 +22,38 @@
       "line_number": 396,
       "raw_match": "[[MAT.3:8]]-10",
       "reference_type": "wikilink_range",
-      "context": "These verses are reminiscent of John the Baptist's and Jesus' images and parables of trees and their fruit ([[MAT.3:8]]-10; 7:16-20; 12:33; 21:19)."
+      "context": "These verses are reminiscent of John the Baptist's and Jesus' images and parables of trees and their fruit ([[MAT.3:8]]-10; 7:16-20; 12:33; 21:19).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "repentance"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/NUM_footnotes.md",
       "line_number": 170,
       "raw_match": "[[MAT.3:8]]",
       "reference_type": "wikilink",
-      "context": "Confession of wrongs to a neighbor must be accompanied by restitution. Zacchaeus went beyond this law and made restitution fourfold, plus he gave half his goods to the poor. Thus, he \"bore fruits worthy of repentance\" ([[MAT.3:8]]). So Jesus said to him, \"Today salvation has come to this house\" ([[LUK.19:9]])."
+      "context": "Confession of wrongs to a neighbor must be accompanied by restitution. Zacchaeus went beyond this law and made restitution fourfold, plus he gave half his goods to the poor. Thus, he \"bore fruits worthy of repentance\" ([[MAT.3:8]]). So Jesus said to him, \"Today salvation has come to this house\" ([[LUK.19:9]]).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "repentance"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

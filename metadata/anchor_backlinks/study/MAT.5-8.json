@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Blessed are the pure in heart, For they shall see God.",
   "pericope": {
     "id": "MAT.P011",
@@ -12,7 +12,15 @@
     "range": "MAT.4:25-5:15",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "creation_theology",
+    "divine_light",
+    "eschatology",
+    "faith",
+    "praise",
+    "priesthood"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,14 +28,45 @@
       "line_number": 1873,
       "raw_match": "[[MAT.5:8]]",
       "reference_type": "wikilink",
-      "context": "The OT prophecies concerning the glorification of Jerusalem are fulfilled in the eternal Kingdom (see Is 60). Created light is unnecessary. For the everlasting Uncreated Light will illumine all ([[PSA.35:10]]) with true and clear vision to see things as they really are. The true Light, the Light of the world ([[JOH.8:12]]), was incarnate ([[JOH.1:9]]), and even while on earth He shone with Uncreated Light ([[MRK.9:2]]-8; [[2PE.1:16]]-18). As prophesied, all the earth will stream to the Holy City to honor it (Is 55:5; [[JER.16:19]]-21; Tb 13:13; see also 1En 10:21; 48:4, 5)--it has no enemies--but only the pure will live within it ([[MAT.5:8]])."
+      "context": "The OT prophecies concerning the glorification of Jerusalem are fulfilled in the eternal Kingdom (see Is 60). Created light is unnecessary. For the everlasting Uncreated Light will illumine all ([[PSA.35:10]]) with true and clear vision to see things as they really are. The true Light, the Light of the world ([[JOH.8:12]]), was incarnate ([[JOH.1:9]]), and even while on earth He shone with Uncreated Light ([[MRK.9:2]]-8; [[2PE.1:16]]-18). As prophesied, all the earth will stream to the Holy City to honor it (Is 55:5; [[JER.16:19]]-21; Tb 13:13; see also 1En 10:21; 48:4, 5)--it has no enemies--but only the pure will live within it ([[MAT.5:8]]).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "creation_theology",
+        "divine_light",
+        "praise"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/NT/REV_footnotes.md",
       "line_number": 1899,
       "raw_match": "[[MAT.5:8]]",
       "reference_type": "wikilink",
-      "context": "The face of God is that of the glorified Christ (see [[JOH.14:9]]; [[1JN.3:2]]). The face which cannot be seen is the hidden essence of God ([[JOH.1:18]]; [[1TI.6:16]]). Normally, even to see His energy is not possible in this life ([[EXO.33:20]]-23; [[MAT.5:8]]; [[JOH.1:18]]; [[1CO.13:12]]; [[HEB.12:14]]; [[1JN.3:2]]). But in the age to come the faithful, who bear Jesus' name... on their foreheads, may see Him ceaselessly. In the OT only the high priest bore the unspeakable name of God on his forehead, and that he did externally, on a golden headband around his turban ([[EXO.28:31]]-33; see [[EZK.9:4]]-6; [[REV.3:12]]; 7:3). In the NT, all who believe are granted His name."
+      "context": "The face of God is that of the glorified Christ (see [[JOH.14:9]]; [[1JN.3:2]]). The face which cannot be seen is the hidden essence of God ([[JOH.1:18]]; [[1TI.6:16]]). Normally, even to see His energy is not possible in this life ([[EXO.33:20]]-23; [[MAT.5:8]]; [[JOH.1:18]]; [[1CO.13:12]]; [[HEB.12:14]]; [[1JN.3:2]]). But in the age to come the faithful, who bear Jesus' name... on their foreheads, may see Him ceaselessly. In the OT only the high priest bore the unspeakable name of God on his forehead, and that he did externally, on a golden headband around his turban ([[EXO.28:31]]-33; see [[EZK.9:4]]-6; [[REV.3:12]]; 7:3). In the NT, all who believe are granted His name.",
+      "edge_type": "ascends_from",
+      "topic_threads": [
+        "christology",
+        "eschatology",
+        "faith",
+        "praise",
+        "priesthood"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

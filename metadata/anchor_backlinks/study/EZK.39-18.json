@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "You will eat the flesh of mighty men and drink the blood of the rulers of the earth: the rams, the young bulls, and the male goats; for they are all fatted animals.",
   "pericope": {
     "id": "EZK.P066",
@@ -12,7 +12,11 @@
     "range": "EZK.39:16-39:28",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "judgment",
+    "logos"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +24,21 @@
       "line_number": 1676,
       "raw_match": "[[EZK.39:17]]-20",
       "reference_type": "wikilink_range",
-      "context": "The sharp sword from the mouth is judgment, the prophetic word fulfilled (1:16; 2:12; 11:6; Is 11:4); the rod of iron (2:27; 12:5; [[PSA.2:9]]) is rule. He treads the winepress, executing God's wrath on earth (14:19, 20; Is 63:3; [[LAM.1:15]]). 19:17, 18 A graphic portrayal of the triumph of Christ over Antichrist, forming a macabre contrast with the wedding supper of the Lamb of God (v. 9; 2:17; 3:20). The destruction is total (see Is 34:1-7; [[EZK.39:17]]-20; [[MAT.24:28]]). 19:20, 21 Worldly authority and worldly religion are overthrown. The first beast (false deity) and the second beast (false prophet) of 13:11-15 are captured and cast alive into the lake of fire, hell. Hell is pictured in Gehenna, the noxious, smoldering garbage dump just outside Jerusalem in the Valley of Hinnom. In the past, pagan rituals, including child sacrifice, had occurred in this valley. It came to be associated with the abode of the wicked dead, either awaiting final judgment or actually experiencing eternal torment (see [[MAT.18:9]]). Brimstone, a yellow sulphurous substance that burns easily, exuding a foul odor, is found in the Dead Sea region. The rest were killed (v. 21) so as to await the final judgment."
+      "context": "The sharp sword from the mouth is judgment, the prophetic word fulfilled (1:16; 2:12; 11:6; Is 11:4); the rod of iron (2:27; 12:5; [[PSA.2:9]]) is rule. He treads the winepress, executing God's wrath on earth (14:19, 20; Is 63:3; [[LAM.1:15]]). 19:17, 18 A graphic portrayal of the triumph of Christ over Antichrist, forming a macabre contrast with the wedding supper of the Lamb of God (v. 9; 2:17; 3:20). The destruction is total (see Is 34:1-7; [[EZK.39:17]]-20; [[MAT.24:28]]). 19:20, 21 Worldly authority and worldly religion are overthrown. The first beast (false deity) and the second beast (false prophet) of 13:11-15 are captured and cast alive into the lake of fire, hell. Hell is pictured in Gehenna, the noxious, smoldering garbage dump just outside Jerusalem in the Valley of Hinnom. In the past, pagan rituals, including child sacrifice, had occurred in this valley. It came to be associated with the abode of the wicked dead, either awaiting final judgment or actually experiencing eternal torment (see [[MAT.18:9]]). Brimstone, a yellow sulphurous substance that burns easily, exuding a foul odor, is found in the Dead Sea region. The rest were killed (v. 21) so as to await the final judgment.",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "judgment",
+        "logos"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

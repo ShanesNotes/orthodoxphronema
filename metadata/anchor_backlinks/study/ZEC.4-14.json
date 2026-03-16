@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "And he said, 'These are the two sons of richness who stand beside the Lord of all the earth.'",
   "pericope": {
     "id": "ZEC.P007",
@@ -12,7 +12,10 @@
     "range": "ZEC.4:14-5:10",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "eschatology",
+    "priesthood"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 969,
       "raw_match": "[[ZEC.4:14]]",
       "reference_type": "wikilink",
-      "context": "These two olive trees and the two lampstands who stand before... God are the eschatological agents of God at work on earth. This symbolic description of the witnesses is derived from Zechariah's vision concerning Zerubbabel the governor and Joshua the high priest, who are described as standing \"beside the Lord of all the earth\" ([[ZEC.4:14]])."
+      "context": "These two olive trees and the two lampstands who stand before... God are the eschatological agents of God at work on earth. This symbolic description of the witnesses is derived from Zechariah's vision concerning Zerubbabel the governor and Joshua the high priest, who are described as standing \"beside the Lord of all the earth\" ([[ZEC.4:14]]).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "eschatology",
+        "priesthood"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

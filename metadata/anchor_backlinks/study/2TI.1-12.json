@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "For this reason I also suffer these things; nevertheless I am not ashamed, for I know whom I have believed and am persuaded that He is able to keep what I have committed to Him until that Day.",
   "pericope": {
     "id": "2TI.P004",
@@ -12,7 +12,11 @@
     "range": "2TI.1:12-1:17",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "faith",
+    "suffering"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +24,21 @@
       "line_number": 15,
       "raw_match": "[[2TI.1:12]]",
       "reference_type": "wikilink",
-      "context": "Preserved in Jesus Christ is a promise of God to all faithful. But not all are so faithful, as Jude will relate in this letter (see [[JOH.10:27]]-30; [[2TI.1:12]]; [[HEB.12:2]])."
+      "context": "Preserved in Jesus Christ is a promise of God to all faithful. But not all are so faithful, as Jude will relate in this letter (see [[JOH.10:27]]-30; [[2TI.1:12]]; [[HEB.12:2]]).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology",
+        "faith",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

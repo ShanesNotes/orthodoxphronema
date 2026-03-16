@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "And when Herodias' daughter herself came in and danced, and pleased Herod and those who sat with him, the king said to the girl, 'Ask me whatever you want, and I will give it to you.'",
   "pericope": {
     "id": "MRK.P024",
@@ -20,7 +20,16 @@
       "line_number": 866,
       "raw_match": "[[MRK.6:14]]-28",
       "reference_type": "wikilink_range",
-      "context": "This is the same Herod to whom Pilate would send Jesus during His trial (23:7). He is the son of the Herod who slew the innocent infants in Bethlehem ([[MAT.2:16]]). The incident of the beheading of St. John is found in [[MRK.6:14]]-28."
+      "context": "This is the same Herod to whom Pilate would send Jesus during His trial (23:7). He is the son of the Herod who slew the innocent infants in Bethlehem ([[MAT.2:16]]). The incident of the beheading of St. John is found in [[MRK.6:14]]-28.",
+      "edge_type": "instantiates",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

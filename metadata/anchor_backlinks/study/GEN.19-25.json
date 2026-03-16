@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Thus He overthrew those cities, all the plain, all the inhabitants of the cities, and whatever grew on the ground.",
   "pericope": {
     "id": "GEN.P026",
@@ -12,7 +12,14 @@
     "range": "GEN.18:33-19:28",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "baptism",
+    "christology",
+    "exodus_typology",
+    "faith",
+    "judgment",
+    "repentance"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +27,24 @@
       "line_number": 48,
       "raw_match": "[[GEN.19:1]]-29",
       "reference_type": "wikilink_range",
-      "context": "The recipients of this letter once knew this (v. 5), the mysteries of the faith, because the totality of that faith had already been delivered to them (v. 3). Jude gives three arresting examples of the danger of departing from truth and righteousness: (1) In the Exodus from Egypt (v. 5), all were saved through the baptism of the Red Sea, but not all responded to their deliverance with ongoing deeds of repentance and godliness ([[NUM.14:26]]-37; see [[1CO.10:1]]-13). The lesson for us as Christians is to keep walking in our union with Christ. (2) The proper domain of the angels is in their likeness and proximity to God. Their own abode is heaven, though they may serve elsewhere. Those who left their proper place are confined far from God, having become bound to spiritual darkness. They await the judgment (see [[2PE.2:4]]), when bonds with God will be demolished forever. The lesson for Christians is that their proper domain is in being children of God by grace, and their own abode is in the one holy Church. (3) The men in the plains around Sodom and Gomorrah lusted after angels because of their sin of immorality and homosexuality ([[GEN.19:1]]-29). The lesson for Christians is to live under God's call to a chaste and pure life."
+      "context": "The recipients of this letter once knew this (v. 5), the mysteries of the faith, because the totality of that faith had already been delivered to them (v. 3). Jude gives three arresting examples of the danger of departing from truth and righteousness: (1) In the Exodus from Egypt (v. 5), all were saved through the baptism of the Red Sea, but not all responded to their deliverance with ongoing deeds of repentance and godliness ([[NUM.14:26]]-37; see [[1CO.10:1]]-13). The lesson for us as Christians is to keep walking in our union with Christ. (2) The proper domain of the angels is in their likeness and proximity to God. Their own abode is heaven, though they may serve elsewhere. Those who left their proper place are confined far from God, having become bound to spiritual darkness. They await the judgment (see [[2PE.2:4]]), when bonds with God will be demolished forever. The lesson for Christians is that their proper domain is in being children of God by grace, and their own abode is in the one holy Church. (3) The men in the plains around Sodom and Gomorrah lusted after angels because of their sin of immorality and homosexuality ([[GEN.19:1]]-29). The lesson for Christians is to live under God's call to a chaste and pure life.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "baptism",
+        "christology",
+        "exodus_typology",
+        "faith",
+        "judgment",
+        "repentance"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

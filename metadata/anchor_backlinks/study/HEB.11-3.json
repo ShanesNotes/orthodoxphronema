@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "By faith we understand that the worlds were framed by the word of God, so that the things which are seen were not made of things which are visible.",
   "pericope": {
     "id": "HEB.P028",
@@ -12,7 +12,12 @@
     "range": "HEB.11:3-11:6",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "creation_theology",
+    "divine_word",
+    "faith",
+    "logos"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +25,22 @@
       "line_number": 328,
       "raw_match": "[[HEB.11:3]]",
       "reference_type": "wikilink",
-      "context": "That God created the universe out of nothing is a fundamental teaching of the Holy Scriptures ([[GEN.1:1]]; also see [[HEB.11:3]])."
+      "context": "That God created the universe out of nothing is a fundamental teaching of the Holy Scriptures ([[GEN.1:1]]; also see [[HEB.11:3]]).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "creation_theology",
+        "divine_word",
+        "faith",
+        "logos"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 6,
+        "title": "The Universe As a Language",
+        "polarity": "generation",
+        "operation": "descend",
+        "scale": "communal"
+      }
     }
   ]
 }

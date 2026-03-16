@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-15T23:42:04+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "And listen to Israel your father.",
   "pericope": {
     "id": "GEN.P079",
@@ -20,7 +20,16 @@
       "line_number": 78,
       "raw_match": "[[GEN.49:2]]",
       "reference_type": "wikilink",
-      "context": "**49:1** \u2014 [[GEN.49:1]], [[GEN.49:2]], [[GEN.49:8]]\u201312: This passage is read during Saturday Vespers in the sixth week of Great Lent."
+      "context": "**49:1** \u2014 [[GEN.49:1]], [[GEN.49:2]], [[GEN.49:8]]\u201312: This passage is read during Saturday Vespers in the sixth week of Great Lent.",
+      "edge_type": "echoes",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

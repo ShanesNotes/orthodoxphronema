@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Then Miriam the prophetess, the sister of Aaron, took the timbrel in her hand; and all the women went out after her with timbrels and dances.",
   "pericope": {
     "id": "EXO.P029",
@@ -12,7 +12,10 @@
     "range": "EXO.15:19-15:21",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "covenant",
+    "faith"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,14 +23,36 @@
       "line_number": 1302,
       "raw_match": "[[EXO.15:20]]",
       "reference_type": "wikilink",
-      "context": "Prophecy is the gift of the Holy Spirit to speak the will of God authoritatively. This gift is given to both men and women (see [[1CO.11:4]], [[1CO.11:5]]), and many holy women were prophets, including Miriam ([[EXO.15:20]], [[EXO.15:21]]), Deborah ([[JDG.4:4]]), Huldah ([[2KI.22:14]]), Isaiah's wife (Is 8:3), the Virgin Mary ([[LUK.1:46]]-55), and Anna ([[LUK.2:36]]-38)."
+      "context": "Prophecy is the gift of the Holy Spirit to speak the will of God authoritatively. This gift is given to both men and women (see [[1CO.11:4]], [[1CO.11:5]]), and many holy women were prophets, including Miriam ([[EXO.15:20]], [[EXO.15:21]]), Deborah ([[JDG.4:4]]), Huldah ([[2KI.22:14]]), Isaiah's wife (Is 8:3), the Virgin Mary ([[LUK.1:46]]-55), and Anna ([[LUK.2:36]]-38).",
+      "edge_type": "instantiates",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/JDG_footnotes.md",
       "line_number": 115,
       "raw_match": "[[EXO.15:20]]",
       "reference_type": "wikilink",
-      "context": "St. Ambrose comments on the story of Deborah, Barak, and Jael: \"And so according to history, that the minds of women might be stirred up, a woman became: a judge, a woman who set all in order; a woman who prophesied; a woman who triumphed; and joining in battle array, taught men to war under a woman's counsel. But in a mystery, it is the battle of faith and the victory of the Church.\" Deborah is one of three prophetesses mentioned in the Old Testament, the other two being Miriam ([[EXO.15:20]]) and Huldah (2Kg 22:14)."
+      "context": "St. Ambrose comments on the story of Deborah, Barak, and Jael: \"And so according to history, that the minds of women might be stirred up, a woman became: a judge, a woman who set all in order; a woman who prophesied; a woman who triumphed; and joining in battle array, taught men to war under a woman's counsel. But in a mystery, it is the battle of faith and the victory of the Church.\" Deborah is one of three prophetesses mentioned in the Old Testament, the other two being Miriam ([[EXO.15:20]]) and Huldah (2Kg 22:14).",
+      "edge_type": "witnesses",
+      "topic_threads": [
+        "covenant",
+        "faith"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

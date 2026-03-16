@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "For the End; a psalm by David.",
   "pericope": {
     "id": "PSA.P012",
@@ -12,7 +12,10 @@
     "range": "PSA.12:1-12:6",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "covenant",
+    "praise"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 27,
       "raw_match": "[[PSA.12:1]]",
       "reference_type": "wikilink",
-      "context": "Habakkuk laments the seeming silence of God in response to the rampant injustice and violence in the nation. When God reveals to Habakkuk the horrors in Judean society from His point of view, the prophet is horrified. He cries for God to act, but there is no answer from God. \"How long?\" is a familiar refrain among the Old Testament prophets ([[ZEC.1:12]]) and the psalmists ([[PSA.12:1]]) when God appears silent, remote, and powerless (Is 63:15). God hates violence on the earth and will judge severely the cruel treatment of humans by other humans ([[GEN.6:5]]-7; [[PSA.10:6]]; [[REV.6:10]])."
+      "context": "Habakkuk laments the seeming silence of God in response to the rampant injustice and violence in the nation. When God reveals to Habakkuk the horrors in Judean society from His point of view, the prophet is horrified. He cries for God to act, but there is no answer from God. \"How long?\" is a familiar refrain among the Old Testament prophets ([[ZEC.1:12]]) and the psalmists ([[PSA.12:1]]) when God appears silent, remote, and powerless (Is 63:15). God hates violence on the earth and will judge severely the cruel treatment of humans by other humans ([[GEN.6:5]]-7; [[PSA.10:6]]; [[REV.6:10]]).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "covenant",
+        "praise"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Therefore the land shall mourn And be diminished with all the things that dwell in it: The wild beasts of the field, the reptiles of the earth, And the birds of the sky, And the fish of the sea shall come to an end;",
   "pericope": {
     "id": "HOS.P012",
@@ -20,7 +20,16 @@
       "line_number": 453,
       "raw_match": "[[HOS.4:1]]-6",
       "reference_type": "wikilink_range",
-      "context": "To \"play the harlot\" or take a concubine was an expression typically used to paint a prophetic picture of people following false gods, often Baal, whose followers often became involved in extreme sexual misconduct ([[HOS.4:1]]-6; [[JER.3:1]], [[JER.3:8]]; [[EZK.16:41]]; 23:44)."
+      "context": "To \"play the harlot\" or take a concubine was an expression typically used to paint a prophetic picture of people following false gods, often Baal, whose followers often became involved in extreme sexual misconduct ([[HOS.4:1]]-6; [[JER.3:1]], [[JER.3:8]]; [[EZK.16:41]]; 23:44).",
+      "edge_type": "instantiates",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

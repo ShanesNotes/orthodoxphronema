@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "For out of the heart proceed evil thoughts, murders, adulteries, fornications, thefts, false witness, blasphemies.",
   "pericope": {
     "id": "MAT.P050",
@@ -12,7 +12,9 @@
     "range": "MAT.14:36-15:30",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 1351,
       "raw_match": "[[MAT.15:19]]",
       "reference_type": "wikilink",
-      "context": "Moth larvae are hatched from eggs laid by moths within the fabric of garments. The analogy is that wickedness comes from within the heart, as Christ taught ([[MAT.15:19]]). Ben Sirach had in mind the fall of Eve, thus sin from a woman."
+      "context": "Moth larvae are hatched from eggs laid by moths within the fabric of garments. The analogy is that wickedness comes from within the heart, as Christ taught ([[MAT.15:19]]). Ben Sirach had in mind the fall of Eve, thus sin from a woman.",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 6,
+        "title": "The Universe As a Language",
+        "polarity": "generation",
+        "operation": "descend",
+        "scale": "communal"
+      }
     }
   ]
 }

@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Then, six days before the Passover, Jesus came to Bethany, where Lazarus was who had been dead, whom He had raised from the dead.",
   "pericope": {
     "id": "JOH.P040",
@@ -12,7 +12,11 @@
     "range": "JOH.11:57-12:10",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "exodus_typology",
+    "faith",
+    "resurrection"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +24,21 @@
       "line_number": 2301,
       "raw_match": "[[JOH.12:1]]-8",
       "reference_type": "wikilink_range",
-      "context": "Because of her fervent faith, Jesus promises perpetual public memory of this woman. There is no consensus among the Fathers as to her identity in relation to accounts of similar events in [[MRK.14:3]]-9; [[LUK.7:36]]-38; and [[JOH.12:1]]-8. Some Fathers say that there were three different women in these four accounts, others that there were only two."
+      "context": "Because of her fervent faith, Jesus promises perpetual public memory of this woman. There is no consensus among the Fathers as to her identity in relation to accounts of similar events in [[MRK.14:3]]-9; [[LUK.7:36]]-38; and [[JOH.12:1]]-8. Some Fathers say that there were three different women in these four accounts, others that there were only two.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "exodus_typology",
+        "faith",
+        "resurrection"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

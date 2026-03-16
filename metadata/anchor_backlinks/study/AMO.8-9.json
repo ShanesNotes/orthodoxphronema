@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "'And it will come to pass in that day,' says the Lord God, 'the sun will set at noon, and the light of day will grow dark over the land.",
   "pericope": {
     "id": "AMO.P010",
@@ -20,14 +20,32 @@
       "line_number": 2452,
       "raw_match": "[[AMO.8:9]]",
       "reference_type": "wikilink",
-      "context": "Darkness: See [[ZEC.14:6]], [[ZEC.14:7]]; [[AMO.8:9]]."
+      "context": "Darkness: See [[ZEC.14:6]], [[ZEC.14:7]]; [[AMO.8:9]].",
+      "edge_type": "instantiates",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/NT/MRK_footnotes.md",
       "line_number": 494,
       "raw_match": "[[AMO.8:9]]",
       "reference_type": "wikilink",
-      "context": "Darkness: See [[ZEC.14:6]], [[ZEC.14:7]]; [[AMO.8:9]]."
+      "context": "Darkness: See [[ZEC.14:6]], [[ZEC.14:7]]; [[AMO.8:9]].",
+      "edge_type": "instantiates",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

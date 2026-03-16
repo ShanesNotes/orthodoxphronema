@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "He said to me, 'Son of man, have you seen this?' Then he led me to the bank of the river.",
   "pericope": {
     "id": "EZK.P088",
@@ -12,7 +12,14 @@
     "range": "EZK.46:24-47:22",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "baptism",
+    "christology",
+    "divine_light",
+    "kingdom",
+    "suffering",
+    "temple"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +27,24 @@
       "line_number": 1879,
       "raw_match": "[[EZK.47:1]]-12",
       "reference_type": "wikilink_range",
-      "context": "The river of water of life manifests the Giver of Life, the Holy Spirit (see 21:6; also [[EZK.47:1]]-12; [[ZEC.14:8]]; see also 2En 8:5). The OT Feast of Tabernacles, the festival of the Messianic Kingdom, emphasized light and water. As in his Gospel, so here John shows these themes are fulfilled by Christ and His Church. Christ is the Light of the World (21:23-26; 22:5 with [[JOH.8:12]]); the Holy Spirit is the Water of Life (22:1, 2; 21:6 with Jn 7:37-39). The Church is the Messianic Kingdom. God the Father and the Lamb, the Son incarnate, share one throne, for they are consubstantial and one worship is offered them. With the Spirit proceeding from the throne, the entire Trinity is here. 22:2, 3 The tree of life, a symbol of Christ Himself, gives immortality. It fulfills the tree of life in Paradise ([[GEN.3:22]]) and the other tree of life, the Cross of the Savior, the tree of obedience ([[1PE.2:24]]), a tree of curse ([[GAL.3:13]]). But there is no more curse (v. 3) in the Holy City: a reversal of the curse of [[GEN.3:16]]-19. The fruits and leaves of the tree are completely and universally therapeutic, reversing the effects of the fruit of the tree of disobedience ([[GEN.3:6]])."
+      "context": "The river of water of life manifests the Giver of Life, the Holy Spirit (see 21:6; also [[EZK.47:1]]-12; [[ZEC.14:8]]; see also 2En 8:5). The OT Feast of Tabernacles, the festival of the Messianic Kingdom, emphasized light and water. As in his Gospel, so here John shows these themes are fulfilled by Christ and His Church. Christ is the Light of the World (21:23-26; 22:5 with [[JOH.8:12]]); the Holy Spirit is the Water of Life (22:1, 2; 21:6 with Jn 7:37-39). The Church is the Messianic Kingdom. God the Father and the Lamb, the Son incarnate, share one throne, for they are consubstantial and one worship is offered them. With the Spirit proceeding from the throne, the entire Trinity is here. 22:2, 3 The tree of life, a symbol of Christ Himself, gives immortality. It fulfills the tree of life in Paradise ([[GEN.3:22]]) and the other tree of life, the Cross of the Savior, the tree of obedience ([[1PE.2:24]]), a tree of curse ([[GAL.3:13]]). But there is no more curse (v. 3) in the Holy City: a reversal of the curse of [[GEN.3:16]]-19. The fruits and leaves of the tree are completely and universally therapeutic, reversing the effects of the fruit of the tree of disobedience ([[GEN.3:6]]).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "baptism",
+        "christology",
+        "divine_light",
+        "kingdom",
+        "suffering",
+        "temple"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

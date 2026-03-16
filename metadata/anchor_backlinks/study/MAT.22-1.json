@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "And Jesus answered and spoke to them again by parables and said:",
   "pericope": {
     "id": "MAT.P072",
@@ -12,7 +12,20 @@
     "range": "MAT.21:46-22:32",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "baptism",
+    "christology",
+    "eschatology",
+    "eucharist",
+    "exodus_typology",
+    "faith",
+    "israel_church",
+    "logos",
+    "praise",
+    "resurrection",
+    "suffering",
+    "temple"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,21 +33,69 @@
       "line_number": 680,
       "raw_match": "[[MAT.22:1]]-4",
       "reference_type": "wikilink_range",
-      "context": "The cry of the martyrs for vengeance is not vindictive; they are pleading with God to hasten the end of persecution and the consummation of His plans for the world. In the interim, the martyrs are consoled by the white robe (v. 11)--a Jewish symbol of resurrection from the dead. Elsewhere it is a symbol of blessedness, good deeds, innocence, victory, purity, new and eternal life, transfiguration, a resurrected and glorified body, vesting in Christ, and the wedding garment of salvation (3:5; 7:9, 13-17; 19:8, 9; Is 61:10; [[DAN.10:5]]; [[MAT.22:1]]-4; [[GAL.3:27]]; see also 1En 62:16). The martyrs are called to have patience until the fullness of their number is complete. The vision of the souls of the martyrs under the altar (v. 9) derives from the OT practice of pouring the blood (the physical manifestation of the life of the soul) of sin offerings at the base of the altar of burnt offering. It is a basis for the historic Christian practices of building church buildings over tombs of martyrs, placing relics of saints in the altar when a church is consecrated, and burying baptized people under the altar. Thus, in the Divine Liturgy Orthodox Christians remember \"those who lie asleep here and in all the world.\""
+      "context": "The cry of the martyrs for vengeance is not vindictive; they are pleading with God to hasten the end of persecution and the consummation of His plans for the world. In the interim, the martyrs are consoled by the white robe (v. 11)--a Jewish symbol of resurrection from the dead. Elsewhere it is a symbol of blessedness, good deeds, innocence, victory, purity, new and eternal life, transfiguration, a resurrected and glorified body, vesting in Christ, and the wedding garment of salvation (3:5; 7:9, 13-17; 19:8, 9; Is 61:10; [[DAN.10:5]]; [[MAT.22:1]]-4; [[GAL.3:27]]; see also 1En 62:16). The martyrs are called to have patience until the fullness of their number is complete. The vision of the souls of the martyrs under the altar (v. 9) derives from the OT practice of pouring the blood (the physical manifestation of the life of the soul) of sin offerings at the base of the altar of burnt offering. It is a basis for the historic Christian practices of building church buildings over tombs of martyrs, placing relics of saints in the altar when a church is consecrated, and burying baptized people under the altar. Thus, in the Divine Liturgy Orthodox Christians remember \"those who lie asleep here and in all the world.\"",
+      "edge_type": "echoes",
+      "topic_threads": [
+        "baptism",
+        "christology",
+        "resurrection",
+        "suffering",
+        "temple"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/NT/REV_footnotes.md",
       "line_number": 1616,
       "raw_match": "[[MAT.22:1]]-14",
       "reference_type": "wikilink_range",
-      "context": "For the use of the term Omnipotent (Gr. pantokrator), see 1:8; 4:8; 11:17; 15:3; 16:7, 14; 19:15; 21:22, as well as [[HOS.12:6]]; [[AMO.4:13]]. It is used in the NT only in Revelation and once in [[2CO.6:18]], in a quote from the OT. The word means \"almighty, all-powerful.\" 19:6-9 At the Passover, deliverance from Egypt--the \"Babylon\" of Moses' day--was united with the theme of Israel's betrothal to the Lord (for further nuptial imagery, see Song of Songs; [[HOS.2:19]]; [[ROM.7:1]]-6). For marriage is a symbol of the union of God with His people (see Is 54:1-8; [[EZK.16:7]]-14; [[HOS.2:1]]-23), of Christ with His Church ([[MAT.22:1]]-14; [[2CO.11:2]]; [[EPH.5:22]]-32). This union is fulfilled in the rest of Revelation: Jesus, the Passover Lamb ([[1CO.5:7]]) whose death has ransomed the New Israel, is also the divine Bridegroom ([[MAT.22:2]]; 25:1-13). A wedding in the Middle East consisted of two parts: the betrothal and the wedding proper. The wedding itself began with the procession of the groom to the bride's home and concluded with the procession of all back to the bridegroom's home for the wedding supper. By analogy, the Church is now betrothed to Christ by faith. She awaits the coming of the Bridegroom for the marriage supper of the Lamb (v. 9), the final eschatological union of Christ and His Church. The recompense to the faithful for having remained steadfast and pure under persecution (see [[MAT.5:12]]; [[1PE.4:13]]) is to be clothed with fine linen, clean and bright (v. 8; see 3:4, 5; 7:14)--the clothes of grace, holiness, and incorruption--and to participate in this mystical supper both as guest (v. 9) and as bride (in apocalyptic literature it is not uncommon to find mixed images). This supper has already begun in the Eucharist, a foretaste of the Kingdom (see [[MAT.26:29]]; [[LUK.13:29]]; 22:30). The Orthodox sing on Pascha (Easter): \"Shine, shine, O New Jerusalem; the glory of the Lord has shone on you.... Grant that we may evermore perfectly partake of You in the never-ending Day of Your Kingdom.\""
+      "context": "For the use of the term Omnipotent (Gr. pantokrator), see 1:8; 4:8; 11:17; 15:3; 16:7, 14; 19:15; 21:22, as well as [[HOS.12:6]]; [[AMO.4:13]]. It is used in the NT only in Revelation and once in [[2CO.6:18]], in a quote from the OT. The word means \"almighty, all-powerful.\" 19:6-9 At the Passover, deliverance from Egypt--the \"Babylon\" of Moses' day--was united with the theme of Israel's betrothal to the Lord (for further nuptial imagery, see Song of Songs; [[HOS.2:19]]; [[ROM.7:1]]-6). For marriage is a symbol of the union of God with His people (see Is 54:1-8; [[EZK.16:7]]-14; [[HOS.2:1]]-23), of Christ with His Church ([[MAT.22:1]]-14; [[2CO.11:2]]; [[EPH.5:22]]-32). This union is fulfilled in the rest of Revelation: Jesus, the Passover Lamb ([[1CO.5:7]]) whose death has ransomed the New Israel, is also the divine Bridegroom ([[MAT.22:2]]; 25:1-13). A wedding in the Middle East consisted of two parts: the betrothal and the wedding proper. The wedding itself began with the procession of the groom to the bride's home and concluded with the procession of all back to the bridegroom's home for the wedding supper. By analogy, the Church is now betrothed to Christ by faith. She awaits the coming of the Bridegroom for the marriage supper of the Lamb (v. 9), the final eschatological union of Christ and His Church. The recompense to the faithful for having remained steadfast and pure under persecution (see [[MAT.5:12]]; [[1PE.4:13]]) is to be clothed with fine linen, clean and bright (v. 8; see 3:4, 5; 7:14)--the clothes of grace, holiness, and incorruption--and to participate in this mystical supper both as guest (v. 9) and as bride (in apocalyptic literature it is not uncommon to find mixed images). This supper has already begun in the Eucharist, a foretaste of the Kingdom (see [[MAT.26:29]]; [[LUK.13:29]]; 22:30). The Orthodox sing on Pascha (Easter): \"Shine, shine, O New Jerusalem; the glory of the Lord has shone on you.... Grant that we may evermore perfectly partake of You in the never-ending Day of Your Kingdom.\"",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "eschatology",
+        "eucharist",
+        "exodus_typology",
+        "faith",
+        "israel_church",
+        "logos",
+        "resurrection",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/EST_footnotes.md",
       "line_number": 34,
       "raw_match": "[[MAT.22:1]]-14",
       "reference_type": "wikilink_range",
-      "context": "Queen Vashti's refusal to attend the king's festival, being preoccupied with her own, serves as a warning to those who see themselves as followers of the King but whose heart is self-centered, as in Christ's parable of the wedding feast ([[MAT.22:1]]-14; [[LUK.14:15]]-24)."
+      "context": "Queen Vashti's refusal to attend the king's festival, being preoccupied with her own, serves as a warning to those who see themselves as followers of the King but whose heart is self-centered, as in Christ's parable of the wedding feast ([[MAT.22:1]]-14; [[LUK.14:15]]-24).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

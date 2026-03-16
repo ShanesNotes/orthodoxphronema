@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "But Abram said to the king of Sodom, 'I have raised my hand to God Most High, Creator of heaven and earth,",
   "pericope": {
     "id": "GEN.P019",
@@ -12,7 +12,10 @@
     "range": "GEN.14:16-14:22",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "creation_theology"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,21 +23,58 @@
       "line_number": 912,
       "raw_match": "[[GEN.14:22]]",
       "reference_type": "wikilink",
-      "context": "The angel, lifting his hand in the form for taking an oath (see [[GEN.14:22]]; [[DAN.12:7]]), swears that the fullness of time has arrived and God's plan for history (the mystery of God, v. 7) is to be completed. This recalls [[PSA.118:126]], proclaimed by the deacon at the beginning of the Divine Liturgy: \"It is time for the Lord to act!\" as an answer to the question of the martyrs dwelling under the altar (6:10-11). Lives forever and ever (v. 6) is literally \"unto ages of ages,\" the closing phrase of most Orthodox Christian prayers."
+      "context": "The angel, lifting his hand in the form for taking an oath (see [[GEN.14:22]]; [[DAN.12:7]]), swears that the fullness of time has arrived and God's plan for history (the mystery of God, v. 7) is to be completed. This recalls [[PSA.118:126]], proclaimed by the deacon at the beginning of the Divine Liturgy: \"It is time for the Lord to act!\" as an answer to the question of the martyrs dwelling under the altar (6:10-11). Lives forever and ever (v. 6) is literally \"unto ages of ages,\" the closing phrase of most Orthodox Christian prayers.",
+      "edge_type": "echoes",
+      "topic_threads": [
+        "christology",
+        "creation_theology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/3MA_footnotes.md",
       "line_number": 542,
       "raw_match": "[[GEN.14:19]]-22",
       "reference_type": "wikilink_range",
-      "context": "God the most High: Another ancient way of referring to the God of Israel, and one frequently used in localities where non-Jews abound (see [[GEN.14:19]]-22; [[DAN.3:26]]; [[MRK.5:7]]; [[LUK.8:28]]; [[ACT.16:17]])."
+      "context": "God the most High: Another ancient way of referring to the God of Israel, and one frequently used in localities where non-Jews abound (see [[GEN.14:19]]-22; [[DAN.3:26]]; [[MRK.5:7]]; [[LUK.8:28]]; [[ACT.16:17]]).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "creation_theology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/JDT_footnotes.md",
       "line_number": 278,
       "raw_match": "[[GEN.14:22]]",
       "reference_type": "wikilink",
-      "context": "In imitation of Abraham ([[GEN.14:22]], [[GEN.14:23]]), and Elisha ([[2KI.5:16]]), Judith took nothing for herself, but dedicated all the property to the Lord."
+      "context": "In imitation of Abraham ([[GEN.14:22]], [[GEN.14:23]]), and Elisha ([[2KI.5:16]]), Judith took nothing for herself, but dedicated all the property to the Lord.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "creation_theology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

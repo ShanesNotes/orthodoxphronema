@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Knowing, therefore, the terror of the Lord, we persuade men; but we are well known to God, and I also trust are well known in your consciences.",
   "pericope": {
     "id": "2CO.P017",
@@ -12,7 +12,10 @@
     "range": "2CO.5:8-5:14",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "judgment"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 848,
       "raw_match": "[[2CO.5:11]]",
       "reference_type": "wikilink",
-      "context": "Ps 74 is a prophecy concerning the Judgment Seat of Christ (the End, v. 1; see also [[2CO.5:10]], [[2CO.5:11]]). Therefore, all men are commanded not to corrupt (v. 1), that is, do not transgress the law, nor exalt yourselves in sin (v. 5). For God Incarnate is judge (God is judge, v. 8), and the Lord's cup of judgment is in His hand (vv. 8, 9). Then the horns of corrupt men shall be crushed, but those of the righteous man shall be exalted (v. 11). And this man shall greatly rejoice forever in the world to come (v. 10; see also Creed)."
+      "context": "Ps 74 is a prophecy concerning the Judgment Seat of Christ (the End, v. 1; see also [[2CO.5:10]], [[2CO.5:11]]). Therefore, all men are commanded not to corrupt (v. 1), that is, do not transgress the law, nor exalt yourselves in sin (v. 5). For God Incarnate is judge (God is judge, v. 8), and the Lord's cup of judgment is in His hand (vv. 8, 9). Then the horns of corrupt men shall be crushed, but those of the righteous man shall be exalted (v. 11). And this man shall greatly rejoice forever in the world to come (v. 10; see also Creed).",
+      "edge_type": "ascends_from",
+      "topic_threads": [
+        "christology",
+        "judgment"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

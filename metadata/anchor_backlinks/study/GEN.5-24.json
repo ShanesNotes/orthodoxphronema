@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Thus Enoch was well-pleasing to God, and was not found, for God translated him.",
   "pericope": {
     "id": "GEN.P006",
@@ -20,14 +20,32 @@
       "line_number": 41,
       "raw_match": "[[GEN.5:24]]",
       "reference_type": "wikilink",
-      "context": "As Enoch ([[GEN.5:24]]) was translated to heaven without experiencing his own death, so too was Elijah--thus making known to us that God alone has the keys of life, death, and the grave."
+      "context": "As Enoch ([[GEN.5:24]]) was translated to heaven without experiencing his own death, so too was Elijah--thus making known to us that God alone has the keys of life, death, and the grave.",
+      "edge_type": "opposes",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/WIS_footnotes.md",
       "line_number": 95,
       "raw_match": "[[GEN.5:18]]-24",
       "reference_type": "wikilink_range",
-      "context": "Though he is not named in this passage, this is a specific reference to Enoch, who was taken up to be with the Lord and made perfect ([[GEN.5:18]]-24)."
+      "context": "Though he is not named in this passage, this is a specific reference to Enoch, who was taken up to be with the Lord and made perfect ([[GEN.5:18]]-24).",
+      "edge_type": "instantiates",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

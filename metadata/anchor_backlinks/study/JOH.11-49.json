@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "And one of them, Caiaphas, being high priest that year, said to them, 'You know nothing at all,",
   "pericope": {
     "id": "JOH.P039",
@@ -12,7 +12,10 @@
     "range": "JOH.11:44-11:56",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "priesthood"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 2434,
       "raw_match": "[[JOH.11:49]]-51",
       "reference_type": "wikilink_range",
-      "context": "Every king is proclaimed by his soldiers. Even though the intention was mockery, it is prophetic that Jesus should be crowned and hailed as King by soldiers of the governor (see also [[JOH.11:49]]-51, where Caiaphas unwittingly prophesies of Christ's redemptive work). This mockery shows Jesus as the One despised and rejected by men who bears the iniquity of us all (see Is 53:3-9). Jesus is clothed in scarlet, representing both His royalty and the sins of humanity which He has taken upon Himself."
+      "context": "Every king is proclaimed by his soldiers. Even though the intention was mockery, it is prophetic that Jesus should be crowned and hailed as King by soldiers of the governor (see also [[JOH.11:49]]-51, where Caiaphas unwittingly prophesies of Christ's redemptive work). This mockery shows Jesus as the One despised and rejected by men who bears the iniquity of us all (see Is 53:3-9). Jesus is clothed in scarlet, representing both His royalty and the sins of humanity which He has taken upon Himself.",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "priesthood"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

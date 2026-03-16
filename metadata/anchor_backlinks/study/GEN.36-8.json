@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "So Esau dwelt in Mount Seir. Esau is Edom.",
   "pericope": {
     "id": "GEN.P060",
@@ -20,7 +20,8 @@
       "line_number": 409,
       "raw_match": "[[GEN.36:8]]",
       "reference_type": "wikilink",
-      "context": "Mount Seir is Edom (v. 15), where Esau, brother of Jacob, settled ([[GEN.36:8]]). See [[DEU.2:1]]-6 and note."
+      "context": "Mount Seir is Edom (v. 15), where Esau, brother of Jacob, settled ([[GEN.36:8]]). See [[DEU.2:1]]-6 and note.",
+      "edge_type": "instantiates"
     }
   ]
 }

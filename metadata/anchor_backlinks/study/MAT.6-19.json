@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "'Do not lay up for yourselves treasures on earth, where moth and rust destroy and where thieves break in and steal;",
   "pericope": {
     "id": "MAT.P015",
@@ -12,7 +12,10 @@
     "range": "MAT.6:15-6:33",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "suffering"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 811,
       "raw_match": "[[MAT.6:19]]-21",
       "reference_type": "wikilink_range",
-      "context": "This passage is a precursor to Christ's words in [[MAT.6:19]]-21. Since the Sermon on the Mount is the heart of the Lord's teachings, and since it rings with many words and concepts from Sirach, it is easy to see why the early Church gave the book the nickname \"Ecclesiasticus\" (Church Book). Verses 12 and 13 instruct us to keep an alms fund in a safe place so it will be available when we meet a needy person. One who is generous to the poor will be protected from affliction and his enemy. Perhaps following the Old Latin, some fathers read v. 12 as, \"Store up your alms in the heart of the poor man.\""
+      "context": "This passage is a precursor to Christ's words in [[MAT.6:19]]-21. Since the Sermon on the Mount is the heart of the Lord's teachings, and since it rings with many words and concepts from Sirach, it is easy to see why the early Church gave the book the nickname \"Ecclesiasticus\" (Church Book). Verses 12 and 13 instruct us to keep an alms fund in a safe place so it will be available when we meet a needy person. One who is generous to the poor will be protected from affliction and his enemy. Perhaps following the Old Latin, some fathers read v. 12 as, \"Store up your alms in the heart of the poor man.\"",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

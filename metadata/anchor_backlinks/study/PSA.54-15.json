@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Who together with me sweetened our meals; In God's house we walked in unity.",
   "pericope": {
     "id": "PSA.P054",
@@ -12,7 +12,9 @@
     "range": "PSA.54:1-54:24",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 403,
       "raw_match": "[[PSA.54:13]]-15",
       "reference_type": "wikilink_range",
-      "context": "Christ emphasizes both that His betrayer is one of the twelve and that he is one who dips with Me in the dish not so much to identify the person as to emphasize the level of betrayal, that this was one of His closest friends (see [[PSA.54:13]]-15)."
+      "context": "Christ emphasizes both that His betrayer is one of the twelve and that he is one who dips with Me in the dish not so much to identify the person as to emphasize the level of betrayal, that this was one of His closest friends (see [[PSA.54:13]]-15).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

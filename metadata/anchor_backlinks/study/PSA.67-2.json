@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Let God arise, and let His enemies be scattered, And let those who hate Him flee from before His face.",
   "pericope": {
     "id": "PSA.P067",
@@ -12,7 +12,9 @@
     "range": "PSA.67:1-67:36",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "resurrection"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 25,
       "raw_match": "[[PSA.67:2]]",
       "reference_type": "wikilink",
-      "context": "Like wax before the fire echoes [[PSA.67:2]], which is used in the Resurrection services in the Orthodox Church."
+      "context": "Like wax before the fire echoes [[PSA.67:2]], which is used in the Resurrection services in the Orthodox Church.",
+      "edge_type": "ascends_from",
+      "topic_threads": [
+        "resurrection"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 7,
+        "title": "Symbolism and the Spiritual Worldview",
+        "polarity": "luminosity",
+        "operation": "eat",
+        "scale": "individual"
+      }
     }
   ]
 }

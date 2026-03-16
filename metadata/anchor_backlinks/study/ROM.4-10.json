@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "How then was it accounted? While he was circumcised, or uncircumcised? Not while circumcised, but while uncircumcised.",
   "pericope": {
     "id": "ROM.P010",
@@ -12,7 +12,13 @@
     "range": "ROM.3:31-4:11",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "covenant",
+    "faith",
+    "israel_church",
+    "judgment"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,14 +26,42 @@
       "line_number": 618,
       "raw_match": "[[ROM.4:9]]-17",
       "reference_type": "wikilink_range",
-      "context": "The rite of circumcision was not the covenant itself. It was a sign of the covenant (v. 11). It was a temporary sign, because it applied only to Abraham's genealogy (v. 12), that is, to Abraham's physical lineage, and also to those born in his house or bought with his money. Thus, the rite did not apply to the \"many nations,\" or Gentiles, to be made righteous by faith in the gospel (v. 3; see also [[ROM.4:9]]-17). Christ Himself fulfilled this rite and brought it to an end when He was circumcised on the eighth day after His birth from the Virgin ([[LUK.2:21]])."
+      "context": "The rite of circumcision was not the covenant itself. It was a sign of the covenant (v. 11). It was a temporary sign, because it applied only to Abraham's genealogy (v. 12), that is, to Abraham's physical lineage, and also to those born in his house or bought with his money. Thus, the rite did not apply to the \"many nations,\" or Gentiles, to be made righteous by faith in the gospel (v. 3; see also [[ROM.4:9]]-17). Christ Himself fulfilled this rite and brought it to an end when He was circumcised on the eighth day after His birth from the Virgin ([[LUK.2:21]]).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "covenant",
+        "faith"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/SIR_footnotes.md",
       "line_number": 348,
       "raw_match": "[[ROM.4:9]]-16",
       "reference_type": "wikilink_range",
-      "context": "God intended Israel (v. 14) to be a tight-knit, unified nation. But He also intended her to have open and honorable relations with every nation (v. 14), that is, the Gentiles, ultimately becoming the instrument of their salvation. However, as a nation they did not fulfill this divine intent. Their unity became centered in their ethnicity rather than their relationship with God. They even grew to despise the Gentiles with no concern for their salvation. It is extremely important for us within the Church, the new Israel, not to fall into this same sin and incur the same judgment (see [[ROM.11:11]]-36). For the fulfillment of God's promises to Israel in the Church, see the following passages: [[ROM.4:9]]-16; 9:6, 8, 23-27; 11:7; [[1CO.10:18]]; [[GAL.6:16]]; [[1PE.2:4]]-12; [[REV.3:12]]; 21:2, 10."
+      "context": "God intended Israel (v. 14) to be a tight-knit, unified nation. But He also intended her to have open and honorable relations with every nation (v. 14), that is, the Gentiles, ultimately becoming the instrument of their salvation. However, as a nation they did not fulfill this divine intent. Their unity became centered in their ethnicity rather than their relationship with God. They even grew to despise the Gentiles with no concern for their salvation. It is extremely important for us within the Church, the new Israel, not to fall into this same sin and incur the same judgment (see [[ROM.11:11]]-36). For the fulfillment of God's promises to Israel in the Church, see the following passages: [[ROM.4:9]]-16; 9:6, 8, 23-27; 11:7; [[1CO.10:18]]; [[GAL.6:16]]; [[1PE.2:4]]-12; [[REV.3:12]]; 21:2, 10.",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "covenant",
+        "israel_church",
+        "judgment"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "and when James, Cephas, and John, who seemed to be pillars, perceived the grace that had been given to me, they gave me and Barnabas the right hand of fellowship, that we should go to the Gentiles and they to the circumcised.",
   "pericope": {
     "id": "GAL.P005",
@@ -12,7 +12,14 @@
     "range": "GAL.1:24-2:9",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "covenant",
+    "creation_theology",
+    "faith",
+    "prayer",
+    "resurrection"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,14 +27,44 @@
       "line_number": 877,
       "raw_match": "[[GAL.2:2]]-10",
       "reference_type": "wikilink_range",
-      "context": "Paul delivered an apostolic tradition of Christ's Resurrection which is unchanging and sufficient for salvation (v. 2). How had Paul received his gospel? By direct experience with the risen Lord (v. 8), confirmed by his interactions with the original apostles ([[GAL.2:2]]-10) and the whole Church. It is impossible to decipher what he learned where; in Paul's mind, his gospel forms a seamless whole. \"To receive\" designates the passing on of tradition (see 11:2, 23; [[GAL.1:9]]; [[PHP.4:9]]; [[1TH.2:13]]; 4:1). 15:3-4 This concise statement of the gospel is probably part of an early creed or catechism. (See [[PSA.16:9]]-12; [[GAL.1:4]]; [[1JN.2:2]]; 4:10.)"
+      "context": "Paul delivered an apostolic tradition of Christ's Resurrection which is unchanging and sufficient for salvation (v. 2). How had Paul received his gospel? By direct experience with the risen Lord (v. 8), confirmed by his interactions with the original apostles ([[GAL.2:2]]-10) and the whole Church. It is impossible to decipher what he learned where; in Paul's mind, his gospel forms a seamless whole. \"To receive\" designates the passing on of tradition (see 11:2, 23; [[GAL.1:9]]; [[PHP.4:9]]; [[1TH.2:13]]; 4:1). 15:3-4 This concise statement of the gospel is probably part of an early creed or catechism. (See [[PSA.16:9]]-12; [[GAL.1:4]]; [[1JN.2:2]]; 4:10.)",
+      "edge_type": "ascends_from",
+      "topic_threads": [
+        "christology",
+        "covenant",
+        "resurrection"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/NT/MAT_footnotes.md",
       "line_number": 1596,
       "raw_match": "[[GAL.2:9]]",
       "reference_type": "wikilink",
-      "context": "St. John Chrysostom notes this rebuke is directed at the nine disciples who could not cast out the demon, whereas \"the pillars\" of faith--Peter, James, and John ([[GAL.2:9]])-- were not included in the rebuke, as they had been on the mountain with Christ (v. 1). This kind (v. 21) refers to all powers of darkness, not simply those that cause a particular illness. The banishment of demons requires faith (v. 20), prayer, and fasting (v. 21), for there is no healing and no victory in spiritual warfare without all three. Beginning with the Didache, the Fathers have taught that both the person in need of healing and the person performing the healing must believe, pray, and fast. On moving a mountain, see note at 21:21."
+      "context": "St. John Chrysostom notes this rebuke is directed at the nine disciples who could not cast out the demon, whereas \"the pillars\" of faith--Peter, James, and John ([[GAL.2:9]])-- were not included in the rebuke, as they had been on the mountain with Christ (v. 1). This kind (v. 21) refers to all powers of darkness, not simply those that cause a particular illness. The banishment of demons requires faith (v. 20), prayer, and fasting (v. 21), for there is no healing and no victory in spiritual warfare without all three. Beginning with the Didache, the Fathers have taught that both the person in need of healing and the person performing the healing must believe, pray, and fast. On moving a mountain, see note at 21:21.",
+      "edge_type": "witnesses",
+      "topic_threads": [
+        "christology",
+        "covenant",
+        "creation_theology",
+        "faith",
+        "prayer"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

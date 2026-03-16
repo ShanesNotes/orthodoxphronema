@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Then he went up and lay on the child, and put his mouth on his mouth, his eyes on his eyes, and his hands on his hands; and he bowed himself down upon him, and the flesh of the child warmed.",
   "pericope": {
     "id": "2KI.P007",
@@ -20,7 +20,16 @@
       "line_number": 1241,
       "raw_match": "[[2KI.4:34]]",
       "reference_type": "wikilink",
-      "context": "See [[2KI.4:34]]."
+      "context": "See [[2KI.4:34]].",
+      "edge_type": "instantiates",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

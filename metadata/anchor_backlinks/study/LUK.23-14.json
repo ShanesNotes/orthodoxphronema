@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "said to them, 'You have brought this Man to me, as one who misleads the people. And indeed, having examined Him in your presence, I have found no fault in this Man concerning those things of which you accuse Him;",
   "pericope": {
     "id": "LUK.P115",
@@ -12,7 +12,14 @@
     "range": "LUK.23:12-23:24",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "baptism",
+    "christology",
+    "covenant",
+    "creation_theology",
+    "eucharist",
+    "suffering"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +27,24 @@
       "line_number": 138,
       "raw_match": "[[LUK.23:13]]-25",
       "reference_type": "wikilink_range",
-      "context": "Basil the Great, quoting this passage, comments that it is shameful when we spend our time running about \"searching for anything not demanded by real necessity but calculated to provide a wretched delight and ruinous vainglory.\" 6:12 Justice was overturned when Pilate, having declared that Christ was innocent, submitted to the anger of the Jews and allowed Him to be crucified ([[LUK.23:13]]-25). Chrysostom remarks further that bitterness was hell's response when Christ entered. 7:2 Like all true prophets, Amos grieves and intercedes on behalf of his people. 7:7 Adamant is a stone of unbreakable substance. Ephraim the Syrian writes that this \"stone\" is Christ, set in the midst of the people. \"The leaders of the people were gathered together against Him and wanted His downfall because His teaching did not please them. But He said, 'It will crush and destroy whomever it falls upon' ([[MAT.21:44]]), because He had resisted idolatry, among other things.\" 7:14-15 Gregory the Great writes on the work of grace in the life of the humble: \"What a skilled worker this Spirit is. There is no question of delay in learning what the Spirit teaches us. No sooner does the Spirit touch our minds in regard to anything than we are taught; the Spirit's very touch is teaching. The Spirit changes the human heart in a moment, filling it with light. Suddenly we are no longer what we were; suddenly we are something we never used to be.\" 8:8-10 The day of Christ's Crucifixion was indeed a day of mourning (v. 10). The earth quaked ([[MAT.27:50]]-53), and the sun was darkened at midday ([[MRK.15:33]]). In a more immediate sense, this prophecy may also have been fulfilled on June 15, 763 BC, when a total solar eclipse occurred in Palestine. 8:11 Basil the Great writes that when the people \"put to death the bread of life, a hunger for the bread came upon them.\" 9:1-15 This prophecy is fulfilled in Christ and His Church. In the Incarnation, He shook the gateway of humanity under the Old Covenant; destroyed demonic powers with the sword of the Spirit; descended into Hades (v. 2); sanctified creation in the river (v. 5) of baptism; made his ascent to the heaven (v. 6); and established His Church on the earth ([[ACT.1:8]], [[ACT.1:9]]; 2:1-11). He restored the faithful remnant (v. 12); brought in the nations (v. 12); and planted His Church among them. Drink wine (v. 14) foreshadows the Eucharist."
+      "context": "Basil the Great, quoting this passage, comments that it is shameful when we spend our time running about \"searching for anything not demanded by real necessity but calculated to provide a wretched delight and ruinous vainglory.\" 6:12 Justice was overturned when Pilate, having declared that Christ was innocent, submitted to the anger of the Jews and allowed Him to be crucified ([[LUK.23:13]]-25). Chrysostom remarks further that bitterness was hell's response when Christ entered. 7:2 Like all true prophets, Amos grieves and intercedes on behalf of his people. 7:7 Adamant is a stone of unbreakable substance. Ephraim the Syrian writes that this \"stone\" is Christ, set in the midst of the people. \"The leaders of the people were gathered together against Him and wanted His downfall because His teaching did not please them. But He said, 'It will crush and destroy whomever it falls upon' ([[MAT.21:44]]), because He had resisted idolatry, among other things.\" 7:14-15 Gregory the Great writes on the work of grace in the life of the humble: \"What a skilled worker this Spirit is. There is no question of delay in learning what the Spirit teaches us. No sooner does the Spirit touch our minds in regard to anything than we are taught; the Spirit's very touch is teaching. The Spirit changes the human heart in a moment, filling it with light. Suddenly we are no longer what we were; suddenly we are something we never used to be.\" 8:8-10 The day of Christ's Crucifixion was indeed a day of mourning (v. 10). The earth quaked ([[MAT.27:50]]-53), and the sun was darkened at midday ([[MRK.15:33]]). In a more immediate sense, this prophecy may also have been fulfilled on June 15, 763 BC, when a total solar eclipse occurred in Palestine. 8:11 Basil the Great writes that when the people \"put to death the bread of life, a hunger for the bread came upon them.\" 9:1-15 This prophecy is fulfilled in Christ and His Church. In the Incarnation, He shook the gateway of humanity under the Old Covenant; destroyed demonic powers with the sword of the Spirit; descended into Hades (v. 2); sanctified creation in the river (v. 5) of baptism; made his ascent to the heaven (v. 6); and established His Church on the earth ([[ACT.1:8]], [[ACT.1:9]]; 2:1-11). He restored the faithful remnant (v. 12); brought in the nations (v. 12); and planted His Church among them. Drink wine (v. 14) foreshadows the Eucharist.",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "baptism",
+        "christology",
+        "covenant",
+        "creation_theology",
+        "eucharist",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

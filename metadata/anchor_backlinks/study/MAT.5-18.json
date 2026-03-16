@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "For assuredly, I say to you, till heaven and earth pass away, one jot or one tittle will by no means pass from the law till all is fulfilled.",
   "pericope": {
     "id": "MAT.P012",
@@ -12,7 +12,9 @@
     "range": "MAT.5:16-5:19",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "creation_theology"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,14 +22,35 @@
       "line_number": 220,
       "raw_match": "[[MAT.5:17]]-19",
       "reference_type": "wikilink_range",
-      "context": "The issue here is not the observation of Jewish customs or traditions, which Jesus certainly does not prohibit ([[MAT.5:17]]-19; 23:23). At issue is setting human tradition contrary to the tradition of God (v. 8). The tradition of the elders (v. 3) is a body of interpretations of the Law, which for the Pharisees and the scribes (v. 1) was as authoritative as the Law and often superseded it. According to this tradition, offerings (called Corban, v. 11) could be promised to God in such a way that property or earnings could still be used for oneself, but not for anybody else, including one's parents. Secondary traditions such as this obscure the primary tradition of the Law, which is contained in God's commandments."
+      "context": "The issue here is not the observation of Jewish customs or traditions, which Jesus certainly does not prohibit ([[MAT.5:17]]-19; 23:23). At issue is setting human tradition contrary to the tradition of God (v. 8). The tradition of the elders (v. 3) is a body of interpretations of the Law, which for the Pharisees and the scribes (v. 1) was as authoritative as the Law and often superseded it. According to this tradition, offerings (called Corban, v. 11) could be promised to God in such a way that property or earnings could still be used for oneself, but not for anybody else, including one's parents. Secondary traditions such as this obscure the primary tradition of the Law, which is contained in God's commandments.",
+      "edge_type": "instantiates",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/NT/REV_footnotes.md",
       "line_number": 1789,
       "raw_match": "[[MAT.5:18]]",
       "reference_type": "wikilink",
-      "context": "The NT teaching that the present world will pass away (see [[MAT.5:18]]; [[MRK.13:31]]; 1Co 7:31; [[2PE.3:10]]-13; [[1JN.2:17]]) does not mean the present creation will be utterly destroyed. It will be totally renewed (5:9; 21:5; Is 65:17-25; [[ROM.8:19]]-22; [[2CO.5:17]]; [[2PE.3:13]]): freed from corruption, purified, transfigured, glorified. The first cosmos will pass away."
+      "context": "The NT teaching that the present world will pass away (see [[MAT.5:18]]; [[MRK.13:31]]; 1Co 7:31; [[2PE.3:10]]-13; [[1JN.2:17]]) does not mean the present creation will be utterly destroyed. It will be totally renewed (5:9; 21:5; Is 65:17-25; [[ROM.8:19]]-22; [[2CO.5:17]]; [[2PE.3:13]]): freed from corruption, purified, transfigured, glorified. The first cosmos will pass away.",
+      "edge_type": "ascends_from",
+      "topic_threads": [
+        "creation_theology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

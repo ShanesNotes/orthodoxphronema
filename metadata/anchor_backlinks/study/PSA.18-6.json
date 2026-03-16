@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "And it rejoices exceedingly Like a bridegroom coming forth from his bridal chamber, Like a strong man to run a race.",
   "pericope": {
     "id": "PSA.P018",
@@ -20,7 +20,16 @@
       "line_number": 1400,
       "raw_match": "[[PSA.18:5]]-7",
       "reference_type": "wikilink_range",
-      "context": "A similar teaching on the sun appears in [[PSA.18:5]]-7."
+      "context": "A similar teaching on the sun appears in [[PSA.18:5]]-7.",
+      "edge_type": "instantiates",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 2,
+        "title": "Coming Full Circle: The Copernican Revolution",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

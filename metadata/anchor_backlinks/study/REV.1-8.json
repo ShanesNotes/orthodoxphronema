@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "And all the tribes of the earth will mourn because of Him. Even so, Amen. 'I am the Alpha and the Omega, the Beginning and the End,' says the Lord,'who is and who was and who is to come, the Almighty.'",
   "pericope": {
     "id": "REV.P003",
@@ -12,7 +12,12 @@
     "range": "REV.1:8-1:19",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "creation_theology",
+    "faith",
+    "resurrection"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,14 +25,42 @@
       "line_number": 727,
       "raw_match": "[[REV.1:8]]",
       "reference_type": "wikilink",
-      "context": "Christ declares in the Book of Revelation, \"I am the Alpha and the Omega, the Beginning and the End\" ([[REV.1:8]])."
+      "context": "Christ declares in the Book of Revelation, \"I am the Alpha and the Omega, the Beginning and the End\" ([[REV.1:8]]).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "creation_theology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/PSA_footnotes.md",
       "line_number": 54,
       "raw_match": "[[REV.1:8]]",
       "reference_type": "wikilink",
-      "context": "Ps 4 emphasizes the End (vv. 1, 2). Christ \"is the end of the law for righteousness to everyone who believes\" ([[ROM.10:4]]), and He is \"the Alpha and the Omega, the Beginning and the End\" ([[REV.1:8]]). He exhorts people not to be slow of heart, and not to love vain things, nor to seek after lies (v. 3). Rather, they should realize that the Lord, who is the Father, has made His Holy One, who is Christ, to be wondrous (v. 4) in His death and Resurrection (v. 9)."
+      "context": "Ps 4 emphasizes the End (vv. 1, 2). Christ \"is the end of the law for righteousness to everyone who believes\" ([[ROM.10:4]]), and He is \"the Alpha and the Omega, the Beginning and the End\" ([[REV.1:8]]). He exhorts people not to be slow of heart, and not to love vain things, nor to seek after lies (v. 3). Rather, they should realize that the Lord, who is the Father, has made His Holy One, who is Christ, to be wondrous (v. 4) in His death and Resurrection (v. 9).",
+      "edge_type": "ascends_from",
+      "topic_threads": [
+        "christology",
+        "creation_theology",
+        "faith",
+        "resurrection"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "For when God made a promise to Abraham, because He could swear by no one greater, He swore by Himself,",
   "pericope": {
     "id": "HEB.P014",
@@ -12,7 +12,10 @@
     "range": "HEB.6:12-6:19",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "covenant"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 842,
       "raw_match": "[[HEB.6:13]]-20",
       "reference_type": "wikilink_range",
-      "context": "Abraham and Abimelech counseled together and swore by the greater, namely, by the name of God (21:23, 24). The seven ewe lambs confirmed the oath, and Abraham named the place the Well of Oath. So they were reconciled. However, God cannot swear by anyone greater; therefore, He swore by Himself. He confirmed the oath by His Lamb, the Son of God, through whom God's eternal covenant is established ([[HEB.6:13]]-20). The Well of Oath foreshadows the reconciliation of man to God through Jesus Christ."
+      "context": "Abraham and Abimelech counseled together and swore by the greater, namely, by the name of God (21:23, 24). The seven ewe lambs confirmed the oath, and Abraham named the place the Well of Oath. So they were reconciled. However, God cannot swear by anyone greater; therefore, He swore by Himself. He confirmed the oath by His Lamb, the Son of God, through whom God's eternal covenant is established ([[HEB.6:13]]-20). The Well of Oath foreshadows the reconciliation of man to God through Jesus Christ.",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "covenant"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

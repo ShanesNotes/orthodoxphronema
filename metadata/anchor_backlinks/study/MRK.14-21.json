@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "The Son of Man indeed goes just as it is written of Him, but woe to that man by whom the Son of Man is betrayed! It would have been good for that man if he had never been born.'",
   "pericope": {
     "id": "MRK.P052",
@@ -12,7 +12,9 @@
     "range": "MRK.14:16-14:31",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 1674,
       "raw_match": "[[MRK.14:21]]",
       "reference_type": "wikilink",
-      "context": "Judas Iscariot betrayed the Lord Jesus with a voluntary kiss, and He said of him: \"It would have been good for that man if he had never been born\" ([[MRK.14:21]])."
+      "context": "Judas Iscariot betrayed the Lord Jesus with a voluntary kiss, and He said of him: \"It would have been good for that man if he had never been born\" ([[MRK.14:21]]).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "to the weak I became as a weak, that I might win the weak. I have become all things to all men, that I might by all means save some.",
   "pericope": {
     "id": "1CO.P021",
@@ -12,7 +12,9 @@
     "range": "1CO.9:14-9:22",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,14 +22,35 @@
       "line_number": 1292,
       "raw_match": "[[1CO.9:1]]-23",
       "reference_type": "wikilink_range",
-      "context": "While St. Paul teaches the clergy should be supported materially by the faithful ([[1CO.9:1]]-23), he has not required this for himself from the communities he established. This allowed Paul to preach all the more freely and took away any opportunity for others to question his motives (compare with [[NEH.5:14]]-19; 13:10-13). The quotation from Christ (v. 35) is not recorded in the four Gospels (see [[JOH.21:25]])."
+      "context": "While St. Paul teaches the clergy should be supported materially by the faithful ([[1CO.9:1]]-23), he has not required this for himself from the communities he established. This allowed Paul to preach all the more freely and took away any opportunity for others to question his motives (compare with [[NEH.5:14]]-19; 13:10-13). The quotation from Christ (v. 35) is not recorded in the four Gospels (see [[JOH.21:25]]).",
+      "edge_type": "witnesses",
+      "topic_threads": [
+        "christology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 6,
+        "title": "The Universe As a Language",
+        "polarity": "generation",
+        "operation": "descend",
+        "scale": "communal"
+      }
     },
     {
       "source_file": "study/footnotes/NT/LUK_footnotes.md",
       "line_number": 576,
       "raw_match": "[[1CO.9:19]]-23",
       "reference_type": "wikilink_range",
-      "context": "The Lord draws people to Himself by things that are familiar to them. As He drew the Magi with a star ([[MAT.2:2]]), as He would draw tax collectors by a tax collector (5:29), here He draws the fishermen with fish (see [[1CO.9:19]]-23)."
+      "context": "The Lord draws people to Himself by things that are familiar to them. As He drew the Magi with a star ([[MAT.2:2]]), as He would draw tax collectors by a tax collector (5:29), here He draws the fishermen with fish (see [[1CO.9:19]]-23).",
+      "edge_type": "instantiates",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 6,
+        "title": "The Universe As a Language",
+        "polarity": "generation",
+        "operation": "descend",
+        "scale": "communal"
+      }
     }
   ]
 }

@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "But whoever denies Me before men, him I will also deny before My Father who is in heaven.",
   "pericope": {
     "id": "MAT.P029",
@@ -12,7 +12,9 @@
     "range": "MAT.10:23-10:41",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 23,
       "raw_match": "[[MAT.10:33]]",
       "reference_type": "wikilink",
-      "context": "While any Christian may be persecuted ([[JOH.15:20]]; see [[MAT.5:11]], [[MAT.5:12]] and note), we reject feelings of fear or timidity. We do not \"quench the Spirit\" ([[1TH.5:19]]), but act with power and courage (2:12; see [[MAT.10:33]]; [[LUK.9:26]])."
+      "context": "While any Christian may be persecuted ([[JOH.15:20]]; see [[MAT.5:11]], [[MAT.5:12]] and note), we reject feelings of fear or timidity. We do not \"quench the Spirit\" ([[1TH.5:19]]), but act with power and courage (2:12; see [[MAT.10:33]]; [[LUK.9:26]]).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 9,
+        "title": "Example: The Cherubim of Ezekiel I",
+        "polarity": "generation",
+        "operation": "inform",
+        "scale": "intercommunal"
+      }
     }
   ]
 }

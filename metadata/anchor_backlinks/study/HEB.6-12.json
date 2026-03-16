@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "that you do not become sluggish, but imitate those who through faith and patience inherit the promises.",
   "pericope": {
     "id": "HEB.P014",
@@ -12,7 +12,9 @@
     "range": "HEB.6:12-6:19",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "faith"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 89,
       "raw_match": "[[HEB.6:12]]",
       "reference_type": "wikilink",
-      "context": "See [[1CO.11:1]]; [[HEB.6:12]]."
+      "context": "See [[1CO.11:1]]; [[HEB.6:12]].",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "faith"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 7,
+        "title": "Symbolism and the Spiritual Worldview",
+        "polarity": "luminosity",
+        "operation": "eat",
+        "scale": "individual"
+      }
     }
   ]
 }

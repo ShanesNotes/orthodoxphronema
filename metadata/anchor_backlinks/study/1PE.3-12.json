@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "For the eyes of the LORD are on the righteous, And His ears are open to their prayers; But the face of the LORD is against those who do evil.'",
   "pericope": {
     "id": "1PE.P011",
@@ -12,7 +12,11 @@
     "range": "1PE.3:12-3:16",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "eucharist",
+    "faith"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,14 +24,39 @@
       "line_number": 128,
       "raw_match": "[[1PE.3:10]]-12",
       "reference_type": "wikilink_range",
-      "context": "Ps 10 shows what it means for the Church to trust in the Lord Jesus Christ (v. 1), for He is the End. (1) Trusting in the Lord overcomes cowardice (Flee to the mountains like a sparrow, v. 1). (2) Trusting in the Lord overcomes the devil and his angels (vv. 2, 3; see also [[EPH.6:16]]). (3) Trusting in the Lord makes the Church a dwelling place of God (v. 4a; see also [[1CO.3:16]], [[1CO.3:17]]; [[EPH.2:21]], [[EPH.2:22]]). (4) Trusting in the Lord keeps one poor in spirit (v. 4b; see also [[MAT.5:3]]). (5) Trusting in the Lord helps one love virtue and hate vice (vv. 5-7; see also [[HEB.1:9]]; [[1PE.3:10]]-12)."
+      "context": "Ps 10 shows what it means for the Church to trust in the Lord Jesus Christ (v. 1), for He is the End. (1) Trusting in the Lord overcomes cowardice (Flee to the mountains like a sparrow, v. 1). (2) Trusting in the Lord overcomes the devil and his angels (vv. 2, 3; see also [[EPH.6:16]]). (3) Trusting in the Lord makes the Church a dwelling place of God (v. 4a; see also [[1CO.3:16]], [[1CO.3:17]]; [[EPH.2:21]], [[EPH.2:22]]). (4) Trusting in the Lord keeps one poor in spirit (v. 4b; see also [[MAT.5:3]]). (5) Trusting in the Lord helps one love virtue and hate vice (vv. 5-7; see also [[HEB.1:9]]; [[1PE.3:10]]-12).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology",
+        "faith"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/PSA_footnotes.md",
       "line_number": 412,
       "raw_match": "[[1PE.3:10]]-12",
       "reference_type": "wikilink_range",
-      "context": "Ps 33 is a prophecy teaching how Holy Communion (v. 9) is to be received in the Church: (1) with a gentle spirit (v. 3); (2) as a sojourner in the world (v. 5); (3) with a poor, broken, and humble spirit (vv. 7, 19); (4) with the fear of God (vv. 8, 10, 12); (5) with hope in the world to come (vv. 9, 23); (6) with clean lips and a peaceful heart (vv. 13-17; see also [[1PE.3:10]]-12)."
+      "context": "Ps 33 is a prophecy teaching how Holy Communion (v. 9) is to be received in the Church: (1) with a gentle spirit (v. 3); (2) as a sojourner in the world (v. 5); (3) with a poor, broken, and humble spirit (vv. 7, 19); (4) with the fear of God (vv. 8, 10, 12); (5) with hope in the world to come (vv. 9, 23); (6) with clean lips and a peaceful heart (vv. 13-17; see also [[1PE.3:10]]-12).",
+      "edge_type": "descends_to",
+      "topic_threads": [
+        "eucharist"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

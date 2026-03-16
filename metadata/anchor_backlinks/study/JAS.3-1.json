@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "My brethren, let not many of you become teachers, knowing that we shall receive a stricter judgment.",
   "pericope": {
     "id": "JAS.P007",
@@ -12,7 +12,9 @@
     "range": "JAS.2:26-3:11",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "judgment"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,14 +22,38 @@
       "line_number": 1246,
       "raw_match": "[[JAS.3:1]]",
       "reference_type": "wikilink",
-      "context": "The judgment of the teachers of the Church will be strict ([[JAS.3:1]]). The many stripes given to those who are willfully and knowingly disobedient symbolize condemnation. The few stripes are for those disobedient out of ignorance and indicate chastisement or correction."
+      "context": "The judgment of the teachers of the Church will be strict ([[JAS.3:1]]). The many stripes given to those who are willfully and knowingly disobedient symbolize condemnation. The few stripes are for those disobedient out of ignorance and indicate chastisement or correction.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "judgment"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/NT/MAT_footnotes.md",
       "line_number": 2048,
       "raw_match": "[[JAS.3:1]]",
       "reference_type": "wikilink",
-      "context": "Because the example of a leader can be so influential, leaders who do not love God can hinder others from finding Him as well. Thus, leaders are held to a higher standard ([[JAS.3:1]])."
+      "context": "Because the example of a leader can be so influential, leaders who do not love God can hinder others from finding Him as well. Thus, leaders are held to a higher standard ([[JAS.3:1]]).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "judgment"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

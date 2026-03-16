@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "But to each one of us grace was given according to the measure of Christ's gift.",
   "pericope": {
     "id": "EPH.P010",
@@ -12,7 +12,9 @@
     "range": "EPH.3:21-4:11",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 734,
       "raw_match": "[[EPH.4:7]]-12",
       "reference_type": "wikilink_range",
-      "context": "This list of nine gifts is not exhaustive (see 14:1-5; [[ROM.12:6]]-8; [[EPH.4:7]]-12)."
+      "context": "This list of nine gifts is not exhaustive (see 14:1-5; [[ROM.12:6]]-8; [[EPH.4:7]]-12).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

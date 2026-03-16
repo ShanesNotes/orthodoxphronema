@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Marriage is honorable among all, and the bed undefiled; but fornicators and adulterers God will judge.",
   "pericope": {
     "id": "HEB.P035",
@@ -12,7 +12,18 @@
     "range": "HEB.12:27-13:6",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "baptism",
+    "christology",
+    "covenant",
+    "creation_theology",
+    "israel_church",
+    "kingdom",
+    "logos",
+    "resurrection",
+    "suffering",
+    "wisdom"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,21 +31,67 @@
       "line_number": 246,
       "raw_match": "[[HEB.13:4]]",
       "reference_type": "wikilink",
-      "context": "The wedding in Cana is the setting for the first of the seven signs (v. 11) performed by Jesus in the Gospel of John. John uses the term signs to show that these miraculous actions point beyond themselves to the truth that the Kingdom of God has come among us in the Person of Jesus Christ. The seven signs are (1) changing water into wine (2:1-11); (2) curing the nobleman's son (4:46-54); (3) healing the paralytic (5:1- 15); (4) feeding the five thousand (6:1-14); (5) walking on water (6:15-21); (6) opening the eyes of a blind man (9:1-41); and (7) raising Lazarus from the dead (11:38-44). The setting here is significant. In the OT, marriage feasts symbolized the union of God with His Bride, Israel. Jesus begins His ministry at Galilee, which had a large Gentile population; this was a sign of the spread of the gospel to all the world. That this wedding took place on the third day sets a resurrectional tone, showing that the marriage of God and His Church will be fulfilled in Christ's Resurrection. Other parallels between the marriage here and the Resurrection account in 20:1-18 are that both involve a woman named Mary who makes an appeal, and in both passages the disciples are invited to witness the event. Furthermore, the Resurrection account (20:11-18) has a striking similarity to SS 3:1-5, again showing the unity between marriage and our Lord's Resurrection. By His presence at this wedding, Jesus further declares marriage to be holy and honorable ([[HEB.13:4]]); therefore, this passage is read at Orthodox weddings, and these images are incorporated into many prayers in the wedding service."
+      "context": "The wedding in Cana is the setting for the first of the seven signs (v. 11) performed by Jesus in the Gospel of John. John uses the term signs to show that these miraculous actions point beyond themselves to the truth that the Kingdom of God has come among us in the Person of Jesus Christ. The seven signs are (1) changing water into wine (2:1-11); (2) curing the nobleman's son (4:46-54); (3) healing the paralytic (5:1- 15); (4) feeding the five thousand (6:1-14); (5) walking on water (6:15-21); (6) opening the eyes of a blind man (9:1-41); and (7) raising Lazarus from the dead (11:38-44). The setting here is significant. In the OT, marriage feasts symbolized the union of God with His Bride, Israel. Jesus begins His ministry at Galilee, which had a large Gentile population; this was a sign of the spread of the gospel to all the world. That this wedding took place on the third day sets a resurrectional tone, showing that the marriage of God and His Church will be fulfilled in Christ's Resurrection. Other parallels between the marriage here and the Resurrection account in 20:1-18 are that both involve a woman named Mary who makes an appeal, and in both passages the disciples are invited to witness the event. Furthermore, the Resurrection account (20:11-18) has a striking similarity to SS 3:1-5, again showing the unity between marriage and our Lord's Resurrection. By His presence at this wedding, Jesus further declares marriage to be holy and honorable ([[HEB.13:4]]); therefore, this passage is read at Orthodox weddings, and these images are incorporated into many prayers in the wedding service.",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "israel_church",
+        "kingdom",
+        "resurrection"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/LEV_footnotes.md",
       "line_number": 395,
       "raw_match": "[[HEB.13:4]]",
       "reference_type": "wikilink",
-      "context": "Marriage, conception, and birth are honorable in every way: \"Marriage is honorable among all, and the bed undefiled\" ([[HEB.13:4]]). Since these things are true, in what sense do conception and birth relate to uncleanness in the Mosaic Law? They were symbolic of the meaning of baptism. The water of baptism is the womb into which the old life of sins is buried, as indicated by the seven days (v. 2). The eighth day (v. 3) speaks of the renewal of man's nature in baptism by the Holy Spirit into the world to come. Circumcision on this day is typical of the cutting away of sins by the circumcision of Christ, effected in baptism ([[COL.2:11]], [[COL.2:12]])."
+      "context": "Marriage, conception, and birth are honorable in every way: \"Marriage is honorable among all, and the bed undefiled\" ([[HEB.13:4]]). Since these things are true, in what sense do conception and birth relate to uncleanness in the Mosaic Law? They were symbolic of the meaning of baptism. The water of baptism is the womb into which the old life of sins is buried, as indicated by the seven days (v. 2). The eighth day (v. 3) speaks of the renewal of man's nature in baptism by the Holy Spirit into the world to come. Circumcision on this day is typical of the cutting away of sins by the circumcision of Christ, effected in baptism ([[COL.2:11]], [[COL.2:12]]).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "baptism",
+        "christology",
+        "covenant"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/PRO_footnotes.md",
       "line_number": 204,
       "raw_match": "[[HEB.13:4]]",
       "reference_type": "wikilink",
-      "context": "Prostitution here refers to engaging in sex outside marriage, which may or may not involve the payment of money. The sons of Wisdom need to obey Him and His teachings, and stay away from sex outside marriage (vv. 7, 8). For the perils are many. In fornication, a man becomes one flesh with numerous women, which in the end brings regret and a totally dissipated life (vv. 9-11; see also St. Paul's teaching in [[1CO.6:15]]-20). Such a son will regret hating the instruction and reproofs of Wisdom (vv. 12, 13). Furthermore, little by little, this lifestyle leads to other sins, which are evident not only to God but to the church (v. 14). 5:15-19 Marriage is sacred, here called waters which are pure, for it was ordained by Wisdom (v. 15; see also [[GEN.2:23]], [[GEN.2:24]]). But adultery spills these waters and damages the marriage bond (v. 16). However, faithfulness in marriage is called wide places, because it is filled with blessings from Wisdom (vv. 16-18). For within it, both husband and wife rejoice together (v. 18), and the wife's love and companionship make her husband great (v. 19). 5:20-23 In conclusion, the eyes of God keep close watch on a man (vv. 20, 21). For a man who embraces a woman not his wife may do so in the dark, but what he does is fully exposed before God. And although a lawless woman may ensnare a man, the man also is responsible for chaining himself with his own sins (v. 22). For he refuses Wisdom's crown of discernment, and is finally destroyed with the rest of the undiscerning (v. 23; see also [[HEB.13:4]]). 6:1-40 This chapter warns against four vices or sinful passions: a careless tongue (vv. 1-6), laziness (vv. 7-16), a lawless spirit (vv. 17-25), and unlawful sexual intercourse (vv. 26- 40). 6:1-6 Assuming debt for a friend in this instance refers to a son of Wisdom pledging with his lips to join with a friend in his evil undertakings (v. 1). As St. Paul said, \"Evil company corrupts good habits\" ([[1CO.15:33]]). With such a pledge, a man's tongue becomes his worst enemy (v. 2). Wisdom speaks to His son, commanding him to save himself (v. 3), for this son cannot save his friend before he saves himself. And he certainly cannot save him while participating with him in his sins (v. 3). So Wisdom commands His son to cease being a coward (Do not be faint, v. 4), to reject his careless pledge to his friend, and to provoke his friend to change as well. Furthermore, this son is to awake from his spiritual slumber and move forward quickly with this matter, that he may save himself, like a gazelle from the snares and a bird from a trap (vv. 5, 6; see also [[EPH.5:14]], [[EPH.5:15]]). 6:7-16 Laziness, both of body and soul, leads to poverty (vv. 13-15). But Wisdom commands His son to be diligent (v. 16). To achieve this, he must mark the behavior of two created things: the ant and the honeybee. Outwardly they appear insignificant (v. 8) and weak (v. 12), but one who discovers their habits will also find the Word and Wisdom of God, who is Christ Himself. And when he imitates their way of life through the grace of Christ (vv. 7, 9, 10, 11), his laziness will be cured."
+      "context": "Prostitution here refers to engaging in sex outside marriage, which may or may not involve the payment of money. The sons of Wisdom need to obey Him and His teachings, and stay away from sex outside marriage (vv. 7, 8). For the perils are many. In fornication, a man becomes one flesh with numerous women, which in the end brings regret and a totally dissipated life (vv. 9-11; see also St. Paul's teaching in [[1CO.6:15]]-20). Such a son will regret hating the instruction and reproofs of Wisdom (vv. 12, 13). Furthermore, little by little, this lifestyle leads to other sins, which are evident not only to God but to the church (v. 14). 5:15-19 Marriage is sacred, here called waters which are pure, for it was ordained by Wisdom (v. 15; see also [[GEN.2:23]], [[GEN.2:24]]). But adultery spills these waters and damages the marriage bond (v. 16). However, faithfulness in marriage is called wide places, because it is filled with blessings from Wisdom (vv. 16-18). For within it, both husband and wife rejoice together (v. 18), and the wife's love and companionship make her husband great (v. 19). 5:20-23 In conclusion, the eyes of God keep close watch on a man (vv. 20, 21). For a man who embraces a woman not his wife may do so in the dark, but what he does is fully exposed before God. And although a lawless woman may ensnare a man, the man also is responsible for chaining himself with his own sins (v. 22). For he refuses Wisdom's crown of discernment, and is finally destroyed with the rest of the undiscerning (v. 23; see also [[HEB.13:4]]). 6:1-40 This chapter warns against four vices or sinful passions: a careless tongue (vv. 1-6), laziness (vv. 7-16), a lawless spirit (vv. 17-25), and unlawful sexual intercourse (vv. 26- 40). 6:1-6 Assuming debt for a friend in this instance refers to a son of Wisdom pledging with his lips to join with a friend in his evil undertakings (v. 1). As St. Paul said, \"Evil company corrupts good habits\" ([[1CO.15:33]]). With such a pledge, a man's tongue becomes his worst enemy (v. 2). Wisdom speaks to His son, commanding him to save himself (v. 3), for this son cannot save his friend before he saves himself. And he certainly cannot save him while participating with him in his sins (v. 3). So Wisdom commands His son to cease being a coward (Do not be faint, v. 4), to reject his careless pledge to his friend, and to provoke his friend to change as well. Furthermore, this son is to awake from his spiritual slumber and move forward quickly with this matter, that he may save himself, like a gazelle from the snares and a bird from a trap (vv. 5, 6; see also [[EPH.5:14]], [[EPH.5:15]]). 6:7-16 Laziness, both of body and soul, leads to poverty (vv. 13-15). But Wisdom commands His son to be diligent (v. 16). To achieve this, he must mark the behavior of two created things: the ant and the honeybee. Outwardly they appear insignificant (v. 8) and weak (v. 12), but one who discovers their habits will also find the Word and Wisdom of God, who is Christ Himself. And when he imitates their way of life through the grace of Christ (vv. 7, 9, 10, 11), his laziness will be cured.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "baptism",
+        "christology",
+        "creation_theology",
+        "logos",
+        "suffering",
+        "wisdom"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

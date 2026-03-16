@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "This is He of whom I said, 'After me comes a Man who is preferred before me, for He was before me.'",
   "pericope": {
     "id": "JOH.P005",
@@ -12,7 +12,11 @@
     "range": "JOH.1:28-1:33",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "baptism",
+    "christology",
+    "faith"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +24,21 @@
       "line_number": 729,
       "raw_match": "[[JOH.1:29]]-31",
       "reference_type": "wikilink_range",
-      "context": "John the Baptist was imprisoned soon after Jesus was baptized ([[MRK.1:14]]). Though John directed his disciples to follow Christ ([[JOH.1:29]]-31, 35-37), some remained with him. While John's own faith was undoubtedly strengthened by the signs Christ performed, the Fathers universally see this encounter as a means John used to convince his remaining disciples that Jesus was indeed the Coming One."
+      "context": "John the Baptist was imprisoned soon after Jesus was baptized ([[MRK.1:14]]). Though John directed his disciples to follow Christ ([[JOH.1:29]]-31, 35-37), some remained with him. While John's own faith was undoubtedly strengthened by the signs Christ performed, the Fathers universally see this encounter as a means John used to convince his remaining disciples that Jesus was indeed the Coming One.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "baptism",
+        "christology",
+        "faith"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

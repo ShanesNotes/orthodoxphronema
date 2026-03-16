@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "After this, you shall say, 'Thus Babylon shall sink and not rise, because of the calamities I bring upon her.' '",
   "pericope": {
     "id": "JER.P050",
@@ -12,7 +12,11 @@
     "range": "JER.24:10-38:39",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "creation_theology",
+    "theosis"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +24,21 @@
       "line_number": 1573,
       "raw_match": "[[JER.28:60]]",
       "reference_type": "wikilink",
-      "context": "The great millstone thrown into the sea recalls Babylon's disasters and annihilation ([[JER.28:59]], [[JER.28:60]]; [[NAH.3:4]]-7). Her spell of idolatry, vice, and murder bound the whole civilized world with a bewitching belief that she was immortal and secure. But as her influence was total, so her destruction is total. No signs of life are seen or heard; an eerie silence pervades. In her was found the blood of prophets and saints (v. 24) here alludes directly to the massacres of Christians under such as Nero and Domitian. However, Babylon as the center of opposition to God and self-deification of creation continues beyond the immediate incarnation to be seen in the Roman Empire."
+      "context": "The great millstone thrown into the sea recalls Babylon's disasters and annihilation ([[JER.28:59]], [[JER.28:60]]; [[NAH.3:4]]-7). Her spell of idolatry, vice, and murder bound the whole civilized world with a bewitching belief that she was immortal and secure. But as her influence was total, so her destruction is total. No signs of life are seen or heard; an eerie silence pervades. In her was found the blood of prophets and saints (v. 24) here alludes directly to the massacres of Christians under such as Nero and Domitian. However, Babylon as the center of opposition to God and self-deification of creation continues beyond the immediate incarnation to be seen in the Roman Empire.",
+      "edge_type": "ascends_from",
+      "topic_threads": [
+        "christology",
+        "creation_theology",
+        "theosis"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

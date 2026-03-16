@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "You who make your boast in the law, do you dishonor God through breaking the law?",
   "pericope": {
     "id": "ROM.P007",
@@ -12,7 +12,12 @@
     "range": "ROM.2:17-2:28",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "israel_church",
+    "judgment",
+    "repentance"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +25,22 @@
       "line_number": 301,
       "raw_match": "[[ROM.2:23]]",
       "reference_type": "wikilink",
-      "context": "Bamah: There is a play on words here: abamah means \"high place\" in Hebrew; bema in Greek means the same. St. Jerome translates this as excelsum (\"the exalted place\"), reflecting this connection. But Israel used this high place for idolatry (v. 28) and abominations (v. 30). 20:33-44 A prophecy fulfilled ultimately in the Church. The scepter (v. 37) promises Christ, a new king for the people of God. Those who revolted (v. 38) will be culled out, while those who know... the Lord will find the way (v. 44). 21:8 To be sure that Israel understands, the Lord restates His warning to the unrighteous and lawless, saying I will draw my sword. 21:23-25 The king of Babylon is Nebuchadnezzar, who will use his sword against Rabbath, the main city of Ammon, and against Jerusalem. 22:1 The city of blood is Jerusalem, an especially tragic description since the literal meaning of Jerusalem is \"possession of peace.\" 22:7 From here to v. 12, seven times the phrase within you is used, underscoring not only the grievous sins, but the fact that these were committed in the Holy City. 23:1-49 These two sisters image all who turn from God to satisfy their own desires. Oholah (i.e., Samaria) is like those who do not have the Law ([[ROM.1:23]]), yet despise the natural law within them ([[ROM.1:32]]). Oholibah (i.e., Judah) is like those who have the Law, yet \"dishonor God through breaking the law\" ([[ROM.2:23]]). The righteous men (vv. 45-49) typify the apostles, who preached to both Jew and Gentile ([[ROM.3:30]]). 24:1-14 This parable speaks the coming judgment of Jerusalem, the house which provokes. 24:15-27 Ezekiel's loss of his wife (v. 18) speaks of the passing away of Israel, whose husband was the Lord (Is 54:5). See 33:21-33 and note."
+      "context": "Bamah: There is a play on words here: abamah means \"high place\" in Hebrew; bema in Greek means the same. St. Jerome translates this as excelsum (\"the exalted place\"), reflecting this connection. But Israel used this high place for idolatry (v. 28) and abominations (v. 30). 20:33-44 A prophecy fulfilled ultimately in the Church. The scepter (v. 37) promises Christ, a new king for the people of God. Those who revolted (v. 38) will be culled out, while those who know... the Lord will find the way (v. 44). 21:8 To be sure that Israel understands, the Lord restates His warning to the unrighteous and lawless, saying I will draw my sword. 21:23-25 The king of Babylon is Nebuchadnezzar, who will use his sword against Rabbath, the main city of Ammon, and against Jerusalem. 22:1 The city of blood is Jerusalem, an especially tragic description since the literal meaning of Jerusalem is \"possession of peace.\" 22:7 From here to v. 12, seven times the phrase within you is used, underscoring not only the grievous sins, but the fact that these were committed in the Holy City. 23:1-49 These two sisters image all who turn from God to satisfy their own desires. Oholah (i.e., Samaria) is like those who do not have the Law ([[ROM.1:23]]), yet despise the natural law within them ([[ROM.1:32]]). Oholibah (i.e., Judah) is like those who have the Law, yet \"dishonor God through breaking the law\" ([[ROM.2:23]]). The righteous men (vv. 45-49) typify the apostles, who preached to both Jew and Gentile ([[ROM.3:30]]). 24:1-14 This parable speaks the coming judgment of Jerusalem, the house which provokes. 24:15-27 Ezekiel's loss of his wife (v. 18) speaks of the passing away of Israel, whose husband was the Lord (Is 54:5). See 33:21-33 and note.",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "israel_church",
+        "judgment",
+        "repentance"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

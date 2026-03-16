@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "that we should no longer be children, tossed to and fro and carried about with every wind of doctrine, by the trickery of men, in the cunning craftiness of deceitful plotting,",
   "pericope": {
     "id": "EPH.P011",
@@ -12,7 +12,9 @@
     "range": "EPH.4:12-4:23",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,14 +22,35 @@
       "line_number": 212,
       "raw_match": "[[EPH.4:14]]",
       "reference_type": "wikilink",
-      "context": "Self-appointed prophets have no firm foundation of truth, but run after \"every wind of doctrine\" ([[EPH.4:14]]). True prophets discern when a message is from God and not \"from their hearts\" (v. 3)."
+      "context": "Self-appointed prophets have no firm foundation of truth, but run after \"every wind of doctrine\" ([[EPH.4:14]]). True prophets discern when a message is from God and not \"from their hearts\" (v. 3).",
+      "edge_type": "fulfills",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/JOB_footnotes.md",
       "line_number": 429,
       "raw_match": "[[EPH.4:14]]",
       "reference_type": "wikilink",
-      "context": "St. Gregory sees these younger men, along with the fathers who taught them, as heretics. But they also can be seen more universally to illustrate those who teach, and those who follow, false doctrines. They are in want and famine (v. 3) because they are lost and spiritually malnourished. Salty herbs, says St Gregory, means they \"observe the least precepts and disregard the greater ones.\" They no longer understand the truth, but are content to chew its roots. The thieves are those who would steal the faithful away from the Church. Indeed, the true Church is taunted by her critics, while the name of the Lord Jesus Christ is used as a byword (v. 9) by these sons of fools (v. 8), who misuse and exploit it as they pursue every \"wind of doctrine\" ([[EPH.4:14]])."
+      "context": "St. Gregory sees these younger men, along with the fathers who taught them, as heretics. But they also can be seen more universally to illustrate those who teach, and those who follow, false doctrines. They are in want and famine (v. 3) because they are lost and spiritually malnourished. Salty herbs, says St Gregory, means they \"observe the least precepts and disregard the greater ones.\" They no longer understand the truth, but are content to chew its roots. The thieves are those who would steal the faithful away from the Church. Indeed, the true Church is taunted by her critics, while the name of the Lord Jesus Christ is used as a byword (v. 9) by these sons of fools (v. 8), who misuse and exploit it as they pursue every \"wind of doctrine\" ([[EPH.4:14]]).",
+      "edge_type": "witnesses",
+      "topic_threads": [
+        "christology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

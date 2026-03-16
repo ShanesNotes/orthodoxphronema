@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "and were continually in the temple praising and ablessing God. Amen.",
   "pericope": {
     "id": "LUK.P121",
@@ -12,7 +12,13 @@
     "range": "LUK.23:56-24:53",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "creation_theology",
+    "praise",
+    "temple",
+    "wisdom"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +26,23 @@
       "line_number": 18,
       "raw_match": "[[LUK.24:50]]-53",
       "reference_type": "wikilink_range",
-      "context": "Like Solomon, Christ will be established and magnified (v. 1); and like the king before the old altar (vv. 3-6), Christ will break bread with His disciples for the last time on earth ([[LUK.24:33]]-42). He will impart to them His own wisdom and understanding (v. 10; [[LUK.24:45]]). He will bear witness (v. 13) to them of His divinity. Then, He will ascend ([[LUK.24:50]]-53) into the heavenly Jerusalem (v. 13; [[HEB.12:22]]), bringing all creation with Him."
+      "context": "Like Solomon, Christ will be established and magnified (v. 1); and like the king before the old altar (vv. 3-6), Christ will break bread with His disciples for the last time on earth ([[LUK.24:33]]-42). He will impart to them His own wisdom and understanding (v. 10; [[LUK.24:45]]). He will bear witness (v. 13) to them of His divinity. Then, He will ascend ([[LUK.24:50]]-53) into the heavenly Jerusalem (v. 13; [[HEB.12:22]]), bringing all creation with Him.",
+      "edge_type": "opposes",
+      "topic_threads": [
+        "christology",
+        "creation_theology",
+        "praise",
+        "temple",
+        "wisdom"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

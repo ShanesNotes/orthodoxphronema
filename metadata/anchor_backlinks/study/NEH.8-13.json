@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Now on the second day the heads of the fathers' houses of all the people, with the priests and Levites, were gathered to Ezra the scribe in order to understand the words of the Law.",
   "pericope": {
     "id": "NEH.P024",
@@ -12,7 +12,9 @@
     "range": "NEH.7:73-13:31",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "priesthood"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 55,
       "raw_match": "[[NEH.8:13]]-18",
       "reference_type": "wikilink_range",
-      "context": "It is noteworthy that an eighth day was added to this celebration (see [[NEH.8:13]]-18). This section of 2 Maccabees is referring to the feast of Hanukkah, which celebrates fire and light (see note at 1:9)."
+      "context": "It is noteworthy that an eighth day was added to this celebration (see [[NEH.8:13]]-18). This section of 2 Maccabees is referring to the feast of Hanukkah, which celebrates fire and light (see note at 1:9).",
+      "edge_type": "echoes",
+      "topic_threads": [
+        "priesthood"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

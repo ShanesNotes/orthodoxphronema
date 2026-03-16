@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "The former account I made, O Theophilus, of all that Jesus began both to do and teach,",
   "pericope": {
     "id": "ACT.P001",
@@ -12,7 +12,11 @@
     "range": "ACT.1:1-1:7",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "creation_theology",
+    "wisdom"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +24,21 @@
       "line_number": 17,
       "raw_match": "[[ACT.1:1]]",
       "reference_type": "wikilink",
-      "context": "Luke was not a disciple from the beginning, yet he has perfect understanding of the gospel because his sources were the apostles themselves, the eyewitnesses of Christ. Luke wrote his Gospel to Theophilus, a prominent Gentile who had received Christian instruction (see also [[ACT.1:1]]). St. Ambrose notes that Theophilus can simply mean any \"lover of God,\" and therefore he writes, \"If you love God, it was written to you.\""
+      "context": "Luke was not a disciple from the beginning, yet he has perfect understanding of the gospel because his sources were the apostles themselves, the eyewitnesses of Christ. Luke wrote his Gospel to Theophilus, a prominent Gentile who had received Christian instruction (see also [[ACT.1:1]]). St. Ambrose notes that Theophilus can simply mean any \"lover of God,\" and therefore he writes, \"If you love God, it was written to you.\"",
+      "edge_type": "witnesses",
+      "topic_threads": [
+        "christology",
+        "creation_theology",
+        "wisdom"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

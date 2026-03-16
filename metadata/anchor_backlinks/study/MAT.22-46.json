@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "And no one was able to answer Him word, nor from that day on did anyone dare question Him anymore.",
   "pericope": {
     "id": "MAT.P075",
@@ -12,7 +12,11 @@
     "range": "MAT.22:46-24:1",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "logos",
+    "repentance"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,14 +24,39 @@
       "line_number": 1779,
       "raw_match": "[[MAT.22:41]]-46",
       "reference_type": "wikilink_range",
-      "context": "The first reference to the L ORD applies to God the Father, while the term my Lord refers to Christ. This question is answered in that Christ is the Son of David in His humanity and David's Lord in His divinity (see note at [[MAT.22:41]]-46)."
+      "context": "The first reference to the L ORD applies to God the Father, while the term my Lord refers to Christ. This question is answered in that Christ is the Son of David in His humanity and David's Lord in His divinity (see note at [[MAT.22:41]]-46).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/NT/LUK_footnotes.md",
       "line_number": 1924,
       "raw_match": "[[MAT.22:41]]-46",
       "reference_type": "wikilink_range",
-      "context": "Jesus asked many questions of the Jewish leaders which they refused to answer because doing so would have meant confessing Him as the Christ (20:4-7; [[MAT.22:41]]-46; [[MRK.3:4]])."
+      "context": "Jesus asked many questions of the Jewish leaders which they refused to answer because doing so would have meant confessing Him as the Christ (20:4-7; [[MAT.22:41]]-46; [[MRK.3:4]]).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology",
+        "repentance"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

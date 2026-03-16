@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "and to esteem them very highly in love for their work's sake. Be at peace among yourselves.",
   "pericope": {
     "id": "1TH.P009",
@@ -20,7 +20,16 @@
       "line_number": 326,
       "raw_match": "[[1TH.5:13]]",
       "reference_type": "wikilink",
-      "context": "Humility is the foundation of virtue; it is learned through submission and obedience to godly elders. In submitting to one another, we humble ourselves under the mighty hand of God (see [[1TH.5:12]], [[1TH.5:13]]; [[HEB.13:7]], [[HEB.13:17]])."
+      "context": "Humility is the foundation of virtue; it is learned through submission and obedience to godly elders. In submitting to one another, we humble ourselves under the mighty hand of God (see [[1TH.5:12]], [[1TH.5:13]]; [[HEB.13:7]], [[HEB.13:17]]).",
+      "edge_type": "descends_to",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

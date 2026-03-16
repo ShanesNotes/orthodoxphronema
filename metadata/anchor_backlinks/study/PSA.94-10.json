@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "For forty years I was treated with contempt by that generation, And I said, 'They always go astray in their heart, And they do not know My ways';",
   "pericope": {
     "id": "PSA.P094",
@@ -20,7 +20,16 @@
       "line_number": 623,
       "raw_match": "[[PSA.94:10]]",
       "reference_type": "wikilink",
-      "context": "The first census of the men of war was 603,550 (1:46). From this massive number, only two survived to enter the land of promise! Why? Because they always went astray in their heart and did not know the Lord's ways ([[PSA.94:10]]; [[HEB.3:10]]). Their hearts were blinded by rebellion against the Lord, who said of them, \"They shall surely die in the desert.\" Therefore, we, too, are admonished, \"Beware, brethren, lest there be in any of you an evil heart of unbelief in departing from the living God\" ([[HEB.3:12]]). This evil heart of unbelief is equated with the sin of rebellion, which is inexcusable."
+      "context": "The first census of the men of war was 603,550 (1:46). From this massive number, only two survived to enter the land of promise! Why? Because they always went astray in their heart and did not know the Lord's ways ([[PSA.94:10]]; [[HEB.3:10]]). Their hearts were blinded by rebellion against the Lord, who said of them, \"They shall surely die in the desert.\" Therefore, we, too, are admonished, \"Beware, brethren, lest there be in any of you an evil heart of unbelief in departing from the living God\" ([[HEB.3:12]]). This evil heart of unbelief is equated with the sin of rebellion, which is inexcusable.",
+      "edge_type": "instantiates",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

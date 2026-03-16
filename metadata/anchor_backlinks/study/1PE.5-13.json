@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "She who is in Babylon, elect together with you, greets you; and so does Mark my son.",
   "pericope": {
     "id": "1PE.P017",
@@ -12,7 +12,12 @@
     "range": "1PE.5:11-5:15",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "creation_theology",
+    "eucharist",
+    "israel_church"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,14 +25,41 @@
       "line_number": 841,
       "raw_match": "[[1PE.5:13]]",
       "reference_type": "wikilink",
-      "context": "John whose surname was Mark is St. Mark the Evangelist, who would compose the Gospel of Mark. He would later become a coworker with Paul and Barnabas (v. 25; [[COL.4:10]]) and still later with Peter ([[1PE.5:13]])."
+      "context": "John whose surname was Mark is St. Mark the Evangelist, who would compose the Gospel of Mark. He would later become a coworker with Paul and Barnabas (v. 25; [[COL.4:10]]) and still later with Peter ([[1PE.5:13]]).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "israel_church"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/NT/REV_footnotes.md",
       "line_number": 1479,
       "raw_match": "[[1PE.5:13]]",
       "reference_type": "wikilink",
-      "context": "Roman law stated harlots must wear headbands exhibiting their name. This great harlot bears the mysterious name of BABYLON... MOTHER OF HARLOTS. For the late-first-century Christians, Babylon was incarnate in Rome (see [[1PE.5:13]]), but it is primarily a spiritual reality, a \"mystery,\" transcending concrete manifestations. For Babylon has always stood for rebellion against God (see Gn 11): self-exaltation and idolatry. She is the mother OF THE ABOMINATIONS OF THE EARTH (lit., \"detestable things\"), the prostitution of God's creation. And she finds her life in a perverse eucharist, the death of those united with Life Incarnate."
+      "context": "Roman law stated harlots must wear headbands exhibiting their name. This great harlot bears the mysterious name of BABYLON... MOTHER OF HARLOTS. For the late-first-century Christians, Babylon was incarnate in Rome (see [[1PE.5:13]]), but it is primarily a spiritual reality, a \"mystery,\" transcending concrete manifestations. For Babylon has always stood for rebellion against God (see Gn 11): self-exaltation and idolatry. She is the mother OF THE ABOMINATIONS OF THE EARTH (lit., \"detestable things\"), the prostitution of God's creation. And she finds her life in a perverse eucharist, the death of those united with Life Incarnate.",
+      "edge_type": "opposes",
+      "topic_threads": [
+        "christology",
+        "creation_theology",
+        "eucharist",
+        "israel_church"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 5,
+        "title": "Heaven and Earth: A Spiritual Perspective",
+        "polarity": "generation",
+        "operation": "inform",
+        "scale": "individual"
+      }
     }
   ]
 }

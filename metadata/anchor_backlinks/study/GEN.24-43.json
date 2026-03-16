@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "behold, I stand by the well of water; and it shall come to pass that when the daughters of the men come to draw water, and the virgin to whom I will say, 'Give me a little water from your pitcher to drink,'",
   "pericope": {
     "id": "GEN.P035",
@@ -20,7 +20,16 @@
       "line_number": 1103,
       "raw_match": "[[GEN.24:1]]-67",
       "reference_type": "wikilink_range",
-      "context": "Women of ancient times often had little or no choice concerning the man they would accept to marry. As with Isaac and Rebekah, for example ([[GEN.24:1]]-67), marriages were often arranged by parents or someone in authority. It is worth noting, however, that some sociological studies indicate there was not the unhappiness arising from this practice that we moderns are prone to imagine, and certainly not the divorce rate! The Scriptures laud a woman who is beautiful, both outwardly (v. 22) and inwardly (v. 23)."
+      "context": "Women of ancient times often had little or no choice concerning the man they would accept to marry. As with Isaac and Rebekah, for example ([[GEN.24:1]]-67), marriages were often arranged by parents or someone in authority. It is worth noting, however, that some sociological studies indicate there was not the unhappiness arising from this practice that we moderns are prone to imagine, and certainly not the divorce rate! The Scriptures laud a woman who is beautiful, both outwardly (v. 22) and inwardly (v. 23).",
+      "edge_type": "instantiates",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "You will dwell in the land I gave to your fathers. You will be My people, and I shall be your God.",
   "pericope": {
     "id": "EZK.P059",
@@ -12,7 +12,10 @@
     "range": "EZK.36:15-36:38",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "covenant"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 99,
       "raw_match": "[[EZK.36:26]]-29",
       "reference_type": "wikilink_range",
-      "context": "The everlasting covenant is fulfilled in Christ and His new covenant (Jer 32:38- 41; [[EZK.36:26]]-29; [[AMO.9:15]]; [[HEB.13:20]])."
+      "context": "The everlasting covenant is fulfilled in Christ and His new covenant (Jer 32:38- 41; [[EZK.36:26]]-29; [[AMO.9:15]]; [[HEB.13:20]]).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "covenant"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

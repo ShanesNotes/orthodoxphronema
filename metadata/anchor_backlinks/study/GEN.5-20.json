@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "So all the days of Jared were nine hundred and sixty-two years, and he died.",
   "pericope": {
     "id": "GEN.P006",
@@ -20,7 +20,16 @@
       "line_number": 95,
       "raw_match": "[[GEN.5:18]]-24",
       "reference_type": "wikilink_range",
-      "context": "Though he is not named in this passage, this is a specific reference to Enoch, who was taken up to be with the Lord and made perfect ([[GEN.5:18]]-24)."
+      "context": "Though he is not named in this passage, this is a specific reference to Enoch, who was taken up to be with the Lord and made perfect ([[GEN.5:18]]-24).",
+      "edge_type": "instantiates",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

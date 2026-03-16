@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Therefore whatever you have spoken in the dark will be heard in the light, and what you have spoken in the ear in inner rooms will be proclaimed on the housetops.",
   "pericope": {
     "id": "LUK.P059",
@@ -20,7 +20,16 @@
       "line_number": 228,
       "raw_match": "[[LUK.12:3]]",
       "reference_type": "wikilink",
-      "context": "What is done in secret is shouted from the housetops ([[LUK.12:3]]). Haman's plot was made in secret, but now the bodies of his sons are exposed (v. 13) as was his secret plot (see also [[LUK.8:17]])."
+      "context": "What is done in secret is shouted from the housetops ([[LUK.12:3]]). Haman's plot was made in secret, but now the bodies of his sons are exposed (v. 13) as was his secret plot (see also [[LUK.8:17]]).",
+      "edge_type": "instantiates",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

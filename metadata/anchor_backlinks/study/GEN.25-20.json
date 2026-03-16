@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Isaac was forty years old when he took Rebekah as his wife, the daughter of Bethuel the Syrian of Mesopotamia, and the sister of Laban the Syrian.",
   "pericope": {
     "id": "GEN.P038",
@@ -12,7 +12,9 @@
     "range": "GEN.25:11-25:25",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "covenant"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 16,
       "raw_match": "[[GEN.25:19]]-26",
       "reference_type": "wikilink_range",
-      "context": "The Old Testament contains twelve references to men named Obadiah. Of this prophet we know little except that his name means \"Servant of the Lord.\" The people of Edom, descendants of Jacob's elder twin, Esau (see [[GEN.25:19]]-26), often stood in conflict with Israel (see 3Kg 11:14-17). Throughout this short book, Edom and Esau are employed interchangeably as titles for an actual kingdom and as general examples of rebellious humanity."
+      "context": "The Old Testament contains twelve references to men named Obadiah. Of this prophet we know little except that his name means \"Servant of the Lord.\" The people of Edom, descendants of Jacob's elder twin, Esau (see [[GEN.25:19]]-26), often stood in conflict with Israel (see 3Kg 11:14-17). Throughout this short book, Edom and Esau are employed interchangeably as titles for an actual kingdom and as general examples of rebellious humanity.",
+      "edge_type": "descends_to",
+      "topic_threads": [
+        "covenant"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

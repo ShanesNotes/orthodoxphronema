@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Jesus said to him, 'Then the sons are free. Nevertheless, lest we offend them, go to the sea, cast in a hook, and take the fish that comes up first. And when you have opened its mouth, you will find a piece of money; take that and give it to them for Me and you.'",
   "pericope": {
     "id": "MAT.P058",
@@ -12,7 +12,13 @@
     "range": "MAT.17:23-18:4",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "creation_theology",
+    "exodus_typology",
+    "priesthood",
+    "temple"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +26,23 @@
       "line_number": 105,
       "raw_match": "[[MAT.17:24]]-27",
       "reference_type": "wikilink_range",
-      "context": "[[NUM.3:11]]-13, 40-51: The Lord ransomed the firstborn sons of Israel in Egypt with the blood of a lamb; therefore, the firstborn sons belonged to Him. Fourteen months later in the Wilderness of Sinai (1:1), He accepted the males in the tribe of Levi (a month old and above--22,000 in number) as a ransom payment for the firstborn of the twelve tribes. Thus an exchange took place in which the Levites became the Lord's liturgical ministers of the tabernacle. However, the census among the firstborn of the twelve tribes revealed the number of Israel's firstborn sons to be 22,373. Therefore, a ransom payment was owed to the Lord for this excess number of 373 of Israel's firstborn males. These males were required to ransom themselves by paying the Levites a redemption tax which totaled 1365 shekels (v. 50). This redemption tax became a tradition in Israel. The firstborn males were required to pay this tax in their hometowns. Jesus' hometown in His adulthood was Capernaum. So on one occasion in Capernaum, Peter was asked if his teacher paid this tax ([[MAT.17:24]]-27). Peter replied, \"Yes.\" However, Jesus had no obligation to pay the tax because He is the Son of the King, the heavenly Father, and Jesus, too, is King. Kings exact tax payments from their subjects, not from their sons. Nevertheless, to avoid offense, Jesus told Peter to catch a fish, and it would have money in its mouth to pay the tax--not only for Himself, but also for Peter. For Peter, too, was a firstborn son. So this tax payment from the mouth of the fish demonstrated Jesus to be the Lord and King over creation and the eternal Son of the heavenly King, the Father (JohnChr). This also demonstrated it was the Son of God, the King Himself, who ordered the redemption tax to be paid when Israel was in the Wilderness of Sinai."
+      "context": "[[NUM.3:11]]-13, 40-51: The Lord ransomed the firstborn sons of Israel in Egypt with the blood of a lamb; therefore, the firstborn sons belonged to Him. Fourteen months later in the Wilderness of Sinai (1:1), He accepted the males in the tribe of Levi (a month old and above--22,000 in number) as a ransom payment for the firstborn of the twelve tribes. Thus an exchange took place in which the Levites became the Lord's liturgical ministers of the tabernacle. However, the census among the firstborn of the twelve tribes revealed the number of Israel's firstborn sons to be 22,373. Therefore, a ransom payment was owed to the Lord for this excess number of 373 of Israel's firstborn males. These males were required to ransom themselves by paying the Levites a redemption tax which totaled 1365 shekels (v. 50). This redemption tax became a tradition in Israel. The firstborn males were required to pay this tax in their hometowns. Jesus' hometown in His adulthood was Capernaum. So on one occasion in Capernaum, Peter was asked if his teacher paid this tax ([[MAT.17:24]]-27). Peter replied, \"Yes.\" However, Jesus had no obligation to pay the tax because He is the Son of the King, the heavenly Father, and Jesus, too, is King. Kings exact tax payments from their subjects, not from their sons. Nevertheless, to avoid offense, Jesus told Peter to catch a fish, and it would have money in its mouth to pay the tax--not only for Himself, but also for Peter. For Peter, too, was a firstborn son. So this tax payment from the mouth of the fish demonstrated Jesus to be the Lord and King over creation and the eternal Son of the heavenly King, the Father (JohnChr). This also demonstrated it was the Son of God, the King Himself, who ordered the redemption tax to be paid when Israel was in the Wilderness of Sinai.",
+      "edge_type": "echoes",
+      "topic_threads": [
+        "christology",
+        "creation_theology",
+        "exodus_typology",
+        "priesthood",
+        "temple"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

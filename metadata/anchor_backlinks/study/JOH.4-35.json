@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Do you not say, 'There are still four months and then comes the harvest'? Behold, I say to you, lift up your eyes and look at the fields, for they are already white for harvest!",
   "pericope": {
     "id": "JOH.P011",
@@ -12,7 +12,16 @@
     "range": "JOH.3:21-4:44",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "covenant",
+    "creation_theology",
+    "exodus_typology",
+    "repentance",
+    "resurrection",
+    "suffering",
+    "wisdom"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,21 +29,63 @@
       "line_number": 32,
       "raw_match": "[[JOH.4:1]]-42",
       "reference_type": "wikilink_range",
-      "context": ", 7 Samaritans were among the first to repent and receive the gospel ([[JOH.4:1]]-42). Therefore, this prophecy is ultimately fulfilled in the Church, Christ's vineyard."
+      "context": ", 7 Samaritans were among the first to repent and receive the gospel ([[JOH.4:1]]-42). Therefore, this prophecy is ultimately fulfilled in the Church, Christ's vineyard.",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "repentance"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/RUT_footnotes.md",
       "line_number": 67,
       "raw_match": "[[JOH.4:35]]",
       "reference_type": "wikilink",
-      "context": "The beginning of barley harvest was in April. It would have occurred at about the time of the Passover, and thus of the crucifixion and Resurrection of Christ. Jesus Himself refers to the new covenant as a time of harvest ([[MAT.9:37]], [[MAT.9:38]]; [[JOH.4:35]]). Ruth is accepted at this time, showing that the Gentiles would be received into the Church."
+      "context": "The beginning of barley harvest was in April. It would have occurred at about the time of the Passover, and thus of the crucifixion and Resurrection of Christ. Jesus Himself refers to the new covenant as a time of harvest ([[MAT.9:37]], [[MAT.9:38]]; [[JOH.4:35]]). Ruth is accepted at this time, showing that the Gentiles would be received into the Church.",
+      "edge_type": "ascends_from",
+      "topic_threads": [
+        "christology",
+        "covenant",
+        "creation_theology",
+        "exodus_typology",
+        "resurrection",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/SNG_footnotes.md",
       "line_number": 528,
       "raw_match": "[[JOH.4:35]]",
       "reference_type": "wikilink",
-      "context": "Jesus told His disciples, \"the fields... are already white for harvest\" ([[JOH.4:35]]), a picture of the Gentile Church. St. Ambrose supports this understanding, seeing she who comes up as \"the Church; for Solomon chose her, whose hidden love he had discerned.\" Further, he sees the mother as \"Mary, whose soul God pierces and divides\" (see Lk 2:35)."
+      "context": "Jesus told His disciples, \"the fields... are already white for harvest\" ([[JOH.4:35]]), a picture of the Gentile Church. St. Ambrose supports this understanding, seeing she who comes up as \"the Church; for Solomon chose her, whose hidden love he had discerned.\" Further, he sees the mother as \"Mary, whose soul God pierces and divides\" (see Lk 2:35).",
+      "edge_type": "witnesses",
+      "topic_threads": [
+        "wisdom"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

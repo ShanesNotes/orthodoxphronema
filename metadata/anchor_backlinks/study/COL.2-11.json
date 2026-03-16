@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "In Him you were also circumcised with the circumcision made without hands, by putting off the body of the sins of the flesh, by the circumcision of Christ,",
   "pericope": {
     "id": "COL.P008",
@@ -12,7 +12,11 @@
     "range": "COL.2:5-2:14",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "baptism",
+    "christology",
+    "covenant"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,21 +24,63 @@
       "line_number": 210,
       "raw_match": "[[COL.2:11]]",
       "reference_type": "wikilink",
-      "context": "Circumcision was a sign of Israel's covenant with God and the means by which a male became a member of God's community ([[GEN.17:10]]-14; Lv 12:3). In Christ, circumcision is fulfilled in baptism (see [[COL.2:11]] and the article, \"Holy Baptism,\" at Rom 6)."
+      "context": "Circumcision was a sign of Israel's covenant with God and the means by which a male became a member of God's community ([[GEN.17:10]]-14; Lv 12:3). In Christ, circumcision is fulfilled in baptism (see [[COL.2:11]] and the article, \"Holy Baptism,\" at Rom 6).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "baptism",
+        "christology",
+        "covenant"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/JER_footnotes.md",
       "line_number": 92,
       "raw_match": "[[COL.2:11]]",
       "reference_type": "wikilink",
-      "context": "Circumcise... your heart: St. Cyprian tells us \"the first circumcision of the flesh is made void, and the second circumcision of the spirit is promised instead\" (see [[COL.2:11]]). He further notes, \"Then, because that sign did not avail women, but all are sealed by the sign of the Lord\" (that is, Holy Baptism)."
+      "context": "Circumcise... your heart: St. Cyprian tells us \"the first circumcision of the flesh is made void, and the second circumcision of the spirit is promised instead\" (see [[COL.2:11]]). He further notes, \"Then, because that sign did not avail women, but all are sealed by the sign of the Lord\" (that is, Holy Baptism).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "baptism",
+        "christology",
+        "covenant"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/LEV_footnotes.md",
       "line_number": 400,
       "raw_match": "[[COL.2:11]]",
       "reference_type": "wikilink",
-      "context": "Marriage, conception, and birth are honorable in every way: \"Marriage is honorable among all, and the bed undefiled\" ([[HEB.13:4]]). Since these things are true, in what sense do conception and birth relate to uncleanness in the Mosaic Law? They were symbolic of the meaning of baptism. The water of baptism is the womb into which the old life of sins is buried, as indicated by the seven days (v. 2). The eighth day (v. 3) speaks of the renewal of man's nature in baptism by the Holy Spirit into the world to come. Circumcision on this day is typical of the cutting away of sins by the circumcision of Christ, effected in baptism ([[COL.2:11]], [[COL.2:12]])."
+      "context": "Marriage, conception, and birth are honorable in every way: \"Marriage is honorable among all, and the bed undefiled\" ([[HEB.13:4]]). Since these things are true, in what sense do conception and birth relate to uncleanness in the Mosaic Law? They were symbolic of the meaning of baptism. The water of baptism is the womb into which the old life of sins is buried, as indicated by the seven days (v. 2). The eighth day (v. 3) speaks of the renewal of man's nature in baptism by the Holy Spirit into the world to come. Circumcision on this day is typical of the cutting away of sins by the circumcision of Christ, effected in baptism ([[COL.2:11]], [[COL.2:12]]).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "baptism",
+        "christology",
+        "covenant"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

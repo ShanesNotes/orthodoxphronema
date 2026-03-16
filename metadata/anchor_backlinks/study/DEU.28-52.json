@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "and wipe you out in all your cities, until your high and fortified walls in which you trust come down throughout all your land; and He will afflict you in all your cities the Lord your God gave you.",
   "pericope": {
     "id": "DEU.P060",
@@ -12,7 +12,10 @@
     "range": "DEU.27:26-28:68",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "divine_word",
+    "suffering"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 46,
       "raw_match": "[[DEU.28:15]]-68",
       "reference_type": "wikilink_range",
-      "context": "I provoked His mouth is a reference to breaking the laws God spoke to Moses and thus to His people. From 1:18-22, the \"I\" is the city of Jerusalem, and the warning for her disobedience was issued and recorded in [[DEU.28:15]]-68."
+      "context": "I provoked His mouth is a reference to breaking the laws God spoke to Moses and thus to His people. From 1:18-22, the \"I\" is the city of Jerusalem, and the warning for her disobedience was issued and recorded in [[DEU.28:15]]-68.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "divine_word",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

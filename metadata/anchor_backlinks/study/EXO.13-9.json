@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "It shall be as a sign to you on your hand and as a memorial before your eyes, that the Lord's law may be in your mouth; for with a strong hand the Lord God brought you out of Egypt.",
   "pericope": {
     "id": "EXO.P025",
@@ -12,7 +12,9 @@
     "range": "EXO.13:2-13:9",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "exodus_typology"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 2027,
       "raw_match": "[[EXO.13:9]]",
       "reference_type": "wikilink",
-      "context": "Phylacteries are small leather pouches containing passages of Scripture worn on the arm or forehead. The idea was to keep God's Law always in mind (see [[EXO.13:9]]), but the Pharisees had used them as a show of false piety, making them increasingly larger and more noticeable."
+      "context": "Phylacteries are small leather pouches containing passages of Scripture worn on the arm or forehead. The idea was to keep God's Law always in mind (see [[EXO.13:9]]), but the Pharisees had used them as a show of false piety, making them increasingly larger and more noticeable.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "exodus_typology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

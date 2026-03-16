@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "But if I cast out demons by the Spirit of God, surely the kingdom of God has come upon you.",
   "pericope": {
     "id": "MAT.P036",
@@ -12,7 +12,13 @@
     "range": "MAT.12:21-12:44",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "exodus_typology",
+    "kingdom",
+    "logos",
+    "suffering"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,35 +26,100 @@
       "line_number": 287,
       "raw_match": "[[MAT.12:28]]",
       "reference_type": "wikilink",
-      "context": "What about those Christians who are not living righteously? Sin leading to death is willful, continual disbelief in the grace of the Holy Spirit toward us. (See [[MAT.12:28]], [[MAT.12:31]], 32; [[HEB.6:4]]-6; 10:26-31.)"
+      "context": "What about those Christians who are not living righteously? Sin leading to death is willful, continual disbelief in the grace of the Holy Spirit toward us. (See [[MAT.12:28]], [[MAT.12:31]], 32; [[HEB.6:4]]-6; 10:26-31.)",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology",
+        "kingdom"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/NT/LUK_footnotes.md",
       "line_number": 1109,
       "raw_match": "[[MAT.12:28]]",
       "reference_type": "wikilink",
-      "context": "Finger of God: the Holy Spirit ([[MAT.12:28]])."
+      "context": "Finger of God: the Holy Spirit ([[MAT.12:28]]).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "kingdom"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 9,
+        "title": "Example: The Cherubim of Ezekiel I",
+        "polarity": "generation",
+        "operation": "inform",
+        "scale": "intercommunal"
+      }
     },
     {
       "source_file": "study/footnotes/NT/REV_footnotes.md",
       "line_number": 1718,
       "raw_match": "[[MAT.12:28]]",
       "reference_type": "wikilink",
-      "context": "The devil is thrown into the pit, which is shut and sealed for a thousand years-- meaning a long period of time--to allow the Church to be planted, to grow and to overcome, even in times of persecution and trial. The word \"millennium\" is synonymous with thousand years, and carries with it no connotations of peace and prosperity. The Bible teaches that Satan was bound at the completion of Christ's saving work ([[MAT.12:28]], 29; [[LUK.10:17]], [[LUK.10:18]]; [[JOH.12:31]], [[JOH.12:32]]; [[COL.2:15]]). He is not totally inactive ([[ACT.5:3]]; [[1CO.5:5]]; Eph 6:11), but he cannot deceive the nations by keeping the gospel from them. At the close of the millennium or Church age, Satan will be released for a little while (vv. 7, 8)."
+      "context": "The devil is thrown into the pit, which is shut and sealed for a thousand years-- meaning a long period of time--to allow the Church to be planted, to grow and to overcome, even in times of persecution and trial. The word \"millennium\" is synonymous with thousand years, and carries with it no connotations of peace and prosperity. The Bible teaches that Satan was bound at the completion of Christ's saving work ([[MAT.12:28]], 29; [[LUK.10:17]], [[LUK.10:18]]; [[JOH.12:31]], [[JOH.12:32]]; [[COL.2:15]]). He is not totally inactive ([[ACT.5:3]]; [[1CO.5:5]]; Eph 6:11), but he cannot deceive the nations by keeping the gospel from them. At the close of the millennium or Church age, Satan will be released for a little while (vv. 7, 8).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology",
+        "kingdom",
+        "logos",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/EXO_footnotes.md",
       "line_number": 319,
       "raw_match": "[[MAT.12:28]]",
       "reference_type": "wikilink",
-      "context": "The finger of God is the Holy Spirit ([[MAT.12:28]]; [[LUK.11:20]]). The operation of the Spirit brought the lice upon Egypt, for the Father works through the Son and in the Spirit."
+      "context": "The finger of God is the Holy Spirit ([[MAT.12:28]]; [[LUK.11:20]]). The operation of the Spirit brought the lice upon Egypt, for the Father works through the Son and in the Spirit.",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "exodus_typology",
+        "kingdom"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 9,
+        "title": "Example: The Cherubim of Ezekiel I",
+        "polarity": "generation",
+        "operation": "inform",
+        "scale": "intercommunal"
+      }
     },
     {
       "source_file": "study/footnotes/OT/EXO_footnotes.md",
       "line_number": 1078,
       "raw_match": "[[MAT.12:28]]",
       "reference_type": "wikilink",
-      "context": "The finger of God is the Holy Spirit ([[MAT.12:28]]; [[LUK.11:20]])."
+      "context": "The finger of God is the Holy Spirit ([[MAT.12:28]]; [[LUK.11:20]]).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "kingdom"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 9,
+        "title": "Example: The Cherubim of Ezekiel I",
+        "polarity": "generation",
+        "operation": "inform",
+        "scale": "intercommunal"
+      }
     }
   ]
 }

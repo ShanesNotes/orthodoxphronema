@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Then the disciples came to Jesus privately and said, 'Why could we not cast it out?'",
   "pericope": {
     "id": "MAT.P056",
@@ -12,7 +12,10 @@
     "range": "MAT.17:13-17:20",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "faith"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 956,
       "raw_match": "[[MAT.17:19]]",
       "reference_type": "wikilink",
-      "context": "While the disciples' faith was incomplete ([[MAT.17:19]], [[MAT.17:20]]), Christ's rebuke is also to the crowds, whose faith was weaker still (see [[MRK.9:22]]-24)."
+      "context": "While the disciples' faith was incomplete ([[MAT.17:19]], [[MAT.17:20]]), Christ's rebuke is also to the crowds, whose faith was weaker still (see [[MRK.9:22]]-24).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology",
+        "faith"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

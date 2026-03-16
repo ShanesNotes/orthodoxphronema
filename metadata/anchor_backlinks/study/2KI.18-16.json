@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "At that time Hezekiah stripped the gold from the doors of the temple of the Lord, and from the pillars Hezekiah king of Judah had overlaid, and gave it to the king of Assyria.",
   "pericope": {
     "id": "2KI.P049",
@@ -12,7 +12,9 @@
     "range": "2KI.18:12-18:36",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "temple"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 597,
       "raw_match": "[[2KI.18:13]]-20",
       "reference_type": "wikilink_range",
-      "context": "Showing no apparent concern for his people and their posterity, King Hezekiah seems concerned only for peace and righteousness during his own times. 36:1-8 The Fathers agree that the prophet adds these narratives (which are almost identical to [[2KI.18:13]]-20:19) in order to emphasize that his prophecies are from God, as evidenced by their fulfillment in history."
+      "context": "Showing no apparent concern for his people and their posterity, King Hezekiah seems concerned only for peace and righteousness during his own times. 36:1-8 The Fathers agree that the prophet adds these narratives (which are almost identical to [[2KI.18:13]]-20:19) in order to emphasize that his prophecies are from God, as evidenced by their fulfillment in history.",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "temple"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

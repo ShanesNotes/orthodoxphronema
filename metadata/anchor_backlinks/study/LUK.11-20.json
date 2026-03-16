@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "But if I cast out demons with the finger of God, surely the kingdom of God has come upon you.",
   "pericope": {
     "id": "LUK.P056",
@@ -12,7 +12,10 @@
     "range": "LUK.11:15-11:31",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "exodus_typology",
+    "kingdom"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,14 +23,39 @@
       "line_number": 319,
       "raw_match": "[[LUK.11:20]]",
       "reference_type": "wikilink",
-      "context": "The finger of God is the Holy Spirit ([[MAT.12:28]]; [[LUK.11:20]]). The operation of the Spirit brought the lice upon Egypt, for the Father works through the Son and in the Spirit."
+      "context": "The finger of God is the Holy Spirit ([[MAT.12:28]]; [[LUK.11:20]]). The operation of the Spirit brought the lice upon Egypt, for the Father works through the Son and in the Spirit.",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "exodus_typology",
+        "kingdom"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 9,
+        "title": "Example: The Cherubim of Ezekiel I",
+        "polarity": "generation",
+        "operation": "inform",
+        "scale": "intercommunal"
+      }
     },
     {
       "source_file": "study/footnotes/OT/EXO_footnotes.md",
       "line_number": 1078,
       "raw_match": "[[LUK.11:20]]",
       "reference_type": "wikilink",
-      "context": "The finger of God is the Holy Spirit ([[MAT.12:28]]; [[LUK.11:20]])."
+      "context": "The finger of God is the Holy Spirit ([[MAT.12:28]]; [[LUK.11:20]]).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "kingdom"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 9,
+        "title": "Example: The Cherubim of Ezekiel I",
+        "polarity": "generation",
+        "operation": "inform",
+        "scale": "intercommunal"
+      }
     }
   ]
 }

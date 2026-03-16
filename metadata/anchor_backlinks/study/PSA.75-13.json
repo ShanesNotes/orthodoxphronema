@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "To the fearsome One, and to Him who takes away the spirits of rulers, To the fearsome One among the kings of the earth.",
   "pericope": {
     "id": "PSA.P075",
@@ -12,7 +12,9 @@
     "range": "PSA.75:1-75:13",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "judgment"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 1546,
       "raw_match": "[[PSA.75:13]]",
       "reference_type": "wikilink",
-      "context": "God's people are called to come out of her so as not to partake of her punishment, destruction, and devastation (see [[NUM.33:51]]-56; Is 52:11; [[JER.27:8]]; 28:6, 46). Separation from this world is spiritual, not necessarily a physical move but a refusal to participate in the works of darkness ([[2CO.6:14]]-18). As Babylon (Rome) has proclaimed her own sovereign greatness, sitting as queen (v. 7), so her sins have reached to heaven (v. 5), recalling the Tower of Babel ([[GEN.11:4]]), a symbol of excessive arrogance. God's judgment will be swift, in one day (v. 8). In Hebrew day denotes not so much a chronological period as a completed act. 18:9, 10 The kings of the earth who committed fornication will mourn (but from a distance), stunned by the judgment of Rome and the specter of their own economic loss, when they see her devastation (see [[PSA.75:13]]; [[NAH.3:4]]-7). What happened to Sodom (Gn 19:28) and Edom (Is 34:6-10) is befalling Rome."
+      "context": "God's people are called to come out of her so as not to partake of her punishment, destruction, and devastation (see [[NUM.33:51]]-56; Is 52:11; [[JER.27:8]]; 28:6, 46). Separation from this world is spiritual, not necessarily a physical move but a refusal to participate in the works of darkness ([[2CO.6:14]]-18). As Babylon (Rome) has proclaimed her own sovereign greatness, sitting as queen (v. 7), so her sins have reached to heaven (v. 5), recalling the Tower of Babel ([[GEN.11:4]]), a symbol of excessive arrogance. God's judgment will be swift, in one day (v. 8). In Hebrew day denotes not so much a chronological period as a completed act. 18:9, 10 The kings of the earth who committed fornication will mourn (but from a distance), stunned by the judgment of Rome and the specter of their own economic loss, when they see her devastation (see [[PSA.75:13]]; [[NAH.3:4]]-7). What happened to Sodom (Gn 19:28) and Edom (Is 34:6-10) is befalling Rome.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "judgment"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

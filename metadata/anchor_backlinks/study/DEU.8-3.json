@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "So He dealt harshly with you and weakened you with hunger, and fed you with manna, which your fathers did not know, that He might make you know that man shall not live by bread alone, but by every word proceeding from the mouth of God man shall live.",
   "pericope": {
     "id": "DEU.P020",
@@ -12,7 +12,12 @@
     "range": "DEU.7:26-8:19",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "eucharist",
+    "israel_church",
+    "logos"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,14 +25,41 @@
       "line_number": 305,
       "raw_match": "[[DEU.8:2]]-5",
       "reference_type": "wikilink_range",
-      "context": "Jesus reverses Israel's falling to temptation in the wilderness. The Israelites were tested forty years in the wilderness and proved disobedient and disloyal. God humbled them by first letting them go hungry and then feeding them with manna to help them learn to be dependent on Him ([[DEU.8:2]]-5). Here, Jesus is tested with hunger for forty days, but He does not sin. His answers to Satan are from Deuteronomy, and all call for loyalty to God. Jesus fasted to overcome temptation, giving us an example of our own power and limitations in the face of temptation. The hunger of His flesh does not control Him; rather, He controls His flesh. Our Lord's fast of forty days is the foundation of the Church's forty-day Lenten fast before Holy Week and of the fast before Christmas."
+      "context": "Jesus reverses Israel's falling to temptation in the wilderness. The Israelites were tested forty years in the wilderness and proved disobedient and disloyal. God humbled them by first letting them go hungry and then feeding them with manna to help them learn to be dependent on Him ([[DEU.8:2]]-5). Here, Jesus is tested with hunger for forty days, but He does not sin. His answers to Satan are from Deuteronomy, and all call for loyalty to God. Jesus fasted to overcome temptation, giving us an example of our own power and limitations in the face of temptation. The hunger of His flesh does not control Him; rather, He controls His flesh. Our Lord's fast of forty days is the foundation of the Church's forty-day Lenten fast before Holy Week and of the fast before Christmas.",
+      "edge_type": "echoes",
+      "topic_threads": [
+        "christology",
+        "israel_church",
+        "logos"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/LEV_footnotes.md",
       "line_number": 948,
       "raw_match": "[[DEU.8:3]]",
       "reference_type": "wikilink",
-      "context": "The land was to be left at rest every seventh year. Crops were not to be sown or cultivated. This was a reminder that \"man shall not live by bread alone\" ([[DEU.8:3]]; [[MAT.4:4]]). The person who, without rest, pursues the temporal bread of this life will not pursue the eternal Bread of Life as he or she ought. Jesus taught us to pray, \"Give us this day our daily bread,\" so as to remember that our toil alone does not give us bread. Only with the blessing of God do we partake of daily bread and the Bread of Life, which is eaten in the Eucharist. The land needs rest and man needs rest that he might pursue the true Bread."
+      "context": "The land was to be left at rest every seventh year. Crops were not to be sown or cultivated. This was a reminder that \"man shall not live by bread alone\" ([[DEU.8:3]]; [[MAT.4:4]]). The person who, without rest, pursues the temporal bread of this life will not pursue the eternal Bread of Life as he or she ought. Jesus taught us to pray, \"Give us this day our daily bread,\" so as to remember that our toil alone does not give us bread. Only with the blessing of God do we partake of daily bread and the Bread of Life, which is eaten in the Eucharist. The land needs rest and man needs rest that he might pursue the true Bread.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "eucharist",
+        "logos"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

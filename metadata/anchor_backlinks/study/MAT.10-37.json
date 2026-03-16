@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "He who loves father or mother more than Me is not worthy of Me. And he who loves son or daughter more than Me is not worthy of Me.",
   "pericope": {
     "id": "MAT.P029",
@@ -20,7 +20,16 @@
       "line_number": 844,
       "raw_match": "[[MAT.10:37]]",
       "reference_type": "wikilink",
-      "context": "Commitment to the Lord takes precedence over commitment to family ([[MAT.10:37]]- 39; JohnChr; AmbM)."
+      "context": "Commitment to the Lord takes precedence over commitment to family ([[MAT.10:37]]- 39; JohnChr; AmbM).",
+      "edge_type": "fulfills",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

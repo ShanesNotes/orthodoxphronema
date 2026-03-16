@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "It was Mary Magdalene, Joanna, Mary the mother of James, and the other women with them, who told these things to the apostles.",
   "pericope": {
     "id": "LUK.P121",
@@ -12,7 +12,13 @@
     "range": "LUK.23:56-24:53",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "baptism",
+    "christology",
+    "creation_theology",
+    "faith",
+    "resurrection"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,21 +26,57 @@
       "line_number": 74,
       "raw_match": "[[LUK.24:8]]-12",
       "reference_type": "wikilink_range",
-      "context": "Peter knew by experience the failure to perceive the truth until he saw it with his eyes (see [[LUK.24:8]]-12; [[ACT.10:39]]-43). Here he addresses those who believe Him whom they have not seen. This is the faith of baptism and the faith of eternal life."
+      "context": "Peter knew by experience the failure to perceive the truth until he saw it with his eyes (see [[LUK.24:8]]-12; [[ACT.10:39]]-43). Here he addresses those who believe Him whom they have not seen. This is the faith of baptism and the faith of eternal life.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "baptism",
+        "faith"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/NT/JOH_footnotes.md",
       "line_number": 2109,
       "raw_match": "[[LUK.24:10]]",
       "reference_type": "wikilink",
-      "context": "Though John does not mention the other myrrhbearing women ([[MRK.16:1]]; [[LUK.24:10]]), Mary's use of we indicates they were present."
+      "context": "Though John does not mention the other myrrhbearing women ([[MRK.16:1]]; [[LUK.24:10]]), Mary's use of we indicates they were present.",
+      "edge_type": "instantiates",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/NT/MRK_footnotes.md",
       "line_number": 509,
       "raw_match": "[[LUK.24:9]]-11",
       "reference_type": "wikilink_range",
-      "context": "The faithfulness of the women shows that in Christ, divine order is being restored to the fallen world. Whereas Eve was created to complete Adam ([[GEN.2:18]]), but instead led him to sin ([[GEN.3:6]]), now the women disciples remain faithful while the men flee and hide. It is the women who bring the message of the Resurrection to the men (16:9-11; [[LUK.24:9]]-11), thus restoring that which had been broken through sin."
+      "context": "The faithfulness of the women shows that in Christ, divine order is being restored to the fallen world. Whereas Eve was created to complete Adam ([[GEN.2:18]]), but instead led him to sin ([[GEN.3:6]]), now the women disciples remain faithful while the men flee and hide. It is the women who bring the message of the Resurrection to the men (16:9-11; [[LUK.24:9]]-11), thus restoring that which had been broken through sin.",
+      "edge_type": "opposes",
+      "topic_threads": [
+        "christology",
+        "creation_theology",
+        "resurrection"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

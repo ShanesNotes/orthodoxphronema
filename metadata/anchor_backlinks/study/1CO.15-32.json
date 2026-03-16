@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "If, in the manner of men, I have fought with beasts at Ephesus, what advantage is it to me? If the dead do not rise, 'Let us eat and drink, for tomorrow we die!'",
   "pericope": {
     "id": "1CO.P035",
@@ -12,7 +12,9 @@
     "range": "1CO.15:19-15:33",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "suffering"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 1265,
       "raw_match": "[[1CO.15:32]]",
       "reference_type": "wikilink",
-      "context": "Paul reminds his hearers of the tears and trials he faced in Ephesus in order to strengthen them for what is to come. Paul's persecutions in Ephesus (Asia Minor) were among the worst he faced ([[1CO.15:32]]; [[2CO.1:8]])."
+      "context": "Paul reminds his hearers of the tears and trials he faced in Ephesus in order to strengthen them for what is to come. Paul's persecutions in Ephesus (Asia Minor) were among the worst he faced ([[1CO.15:32]]; [[2CO.1:8]]).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

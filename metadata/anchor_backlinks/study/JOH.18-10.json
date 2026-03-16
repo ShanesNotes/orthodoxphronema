@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Then Simon Peter, having a sword, drew it and struck the high priest's servant, and cut off his right ear. The servant's name was Malchus.",
   "pericope": {
     "id": "JOH.P063",
@@ -12,7 +12,10 @@
     "range": "JOH.17:26-19:3",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "priesthood"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 2365,
       "raw_match": "[[JOH.18:10]]",
       "reference_type": "wikilink",
-      "context": "Jesus rebukes Peter (identified in [[JOH.18:10]]) for using the sword, for he still does not understand that Christ is going to His death willingly, that salvation for mankind might be fulfilled. A legion is 6,000 soldiers, so twelve legions equal 72,000 angels. That this death was foretold in the Scriptures served to strengthen the disciples at their hour of greatest test."
+      "context": "Jesus rebukes Peter (identified in [[JOH.18:10]]) for using the sword, for he still does not understand that Christ is going to His death willingly, that salvation for mankind might be fulfilled. A legion is 6,000 soldiers, so twelve legions equal 72,000 angels. That this death was foretold in the Scriptures served to strengthen the disciples at their hour of greatest test.",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "priesthood"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

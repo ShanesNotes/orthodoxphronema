@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "The world cannot hate you, but it hates Me because I testify of it that its works are evil.",
   "pericope": {
     "id": "JOH.P021",
@@ -12,7 +12,9 @@
     "range": "JOH.6:71-7:12",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 116,
       "raw_match": "[[JOH.7:7]]",
       "reference_type": "wikilink",
-      "context": "Christ, the upright word Incarnate, was hated for publicly rebuking the scribes and Pharisees in the gates ([[MAT.21:45]], [[MAT.21:46]]; [[LUK.11:45]]-12:1; 13:14-17; [[JOH.7:7]]; 8:20; see also Pr"
+      "context": "Christ, the upright word Incarnate, was hated for publicly rebuking the scribes and Pharisees in the gates ([[MAT.21:45]], [[MAT.21:46]]; [[LUK.11:45]]-12:1; 13:14-17; [[JOH.7:7]]; 8:20; see also Pr",
+      "edge_type": "descends_to",
+      "topic_threads": [
+        "christology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 9,
+        "title": "Example: The Cherubim of Ezekiel I",
+        "polarity": "generation",
+        "operation": "inform",
+        "scale": "intercommunal"
+      }
     }
   ]
 }

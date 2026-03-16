@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "For I wish that all men were even as I myself. But each one has his own gift from God, one in this manner and another in that.",
   "pericope": {
     "id": "1CO.P016",
@@ -12,7 +12,11 @@
     "range": "1CO.6:20-7:23",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "kingdom",
+    "wisdom"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +24,21 @@
       "line_number": 1703,
       "raw_match": "[[1CO.7:7]]",
       "reference_type": "wikilink",
-      "context": "Christ steers the disciples toward understanding the holiness of virginity, not as a rejection of marriage, but as a special calling for those to whom it has been given. Eunuchs were men who had been castrated, whether by birth defect, disease, or mutilation, and were often employed to guard women of nobility. Here, Jesus uses the term figuratively for those who freely choose lifelong celibacy for the sake of the kingdom of heaven. This consecrated virginity is not to be confused with selfmutilation, which the Church condemned at the First Ecumenical Council (AD 325). See also [[1CO.7:7]], [[1CO.7:25]]-38."
+      "context": "Christ steers the disciples toward understanding the holiness of virginity, not as a rejection of marriage, but as a special calling for those to whom it has been given. Eunuchs were men who had been castrated, whether by birth defect, disease, or mutilation, and were often employed to guard women of nobility. Here, Jesus uses the term figuratively for those who freely choose lifelong celibacy for the sake of the kingdom of heaven. This consecrated virginity is not to be confused with selfmutilation, which the Church condemned at the First Ecumenical Council (AD 325). See also [[1CO.7:7]], [[1CO.7:25]]-38.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology",
+        "kingdom",
+        "wisdom"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

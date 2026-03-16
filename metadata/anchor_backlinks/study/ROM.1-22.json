@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Professing to be wise, they became fools,",
   "pericope": {
     "id": "ROM.P004",
@@ -12,7 +12,9 @@
     "range": "ROM.1:17-1:27",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "creation_theology"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,14 +22,35 @@
       "line_number": 139,
       "raw_match": "[[ROM.1:18]]-32",
       "reference_type": "wikilink_range",
-      "context": "Elsewhere, Hosea describes the fundamental human problem as lack of knowledge of God ([[HOS.4:1]], [[HOS.4:6]]; 6:6). This ignorance unfortunately is self-inflicted because men suppress the truth about God ([[ROM.1:18]]-32)."
+      "context": "Elsewhere, Hosea describes the fundamental human problem as lack of knowledge of God ([[HOS.4:1]], [[HOS.4:6]]; 6:6). This ignorance unfortunately is self-inflicted because men suppress the truth about God ([[ROM.1:18]]-32).",
+      "edge_type": "fulfills",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/ISA_footnotes.md",
       "line_number": 735,
       "raw_match": "[[ROM.1:22]]",
       "reference_type": "wikilink",
-      "context": "St. Paul writes that God has declared Himself since creation. But men hide themselves from God, making and worshiping idols, changing \"the glory of the incorruptible God into an image made like corruptible man--and birds and four-footed animals and creeping things\" ([[ROM.1:22]], [[ROM.1:23]])."
+      "context": "St. Paul writes that God has declared Himself since creation. But men hide themselves from God, making and worshiping idols, changing \"the glory of the incorruptible God into an image made like corruptible man--and birds and four-footed animals and creeping things\" ([[ROM.1:22]], [[ROM.1:23]]).",
+      "edge_type": "witnesses",
+      "topic_threads": [
+        "creation_theology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

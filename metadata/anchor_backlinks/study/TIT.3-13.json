@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Send Zenas the lawyer and Apollos on their journey with haste, that they may lack nothing.",
   "pericope": {
     "id": "TIT.P009",
@@ -12,7 +12,11 @@
     "range": "TIT.3:10-3:15",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "baptism",
+    "christology",
+    "exodus_typology"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +24,21 @@
       "line_number": 72,
       "raw_match": "[[TIT.3:13]]",
       "reference_type": "wikilink",
-      "context": "Apollos was a learned Jew from Alexandria, Egypt, \"mighty in the Scriptures\" (Acts 18:24). Originally a follower of \"the baptism of John\" ([[ACT.18:25]]), he was taught more fully about Christ by Priscilla and Aquila at Ephesus, and he later preached at Corinth, where some saw him as a rival to Paul. Tradition tells us Apollos became the first bishop of Crete (see [[TIT.3:13]]). Paul makes it plain that he and Apollos are partners in apostolic work and that Apollos would not approve of the factionalism in Corinth (3:4-6; 4:6; 16:12)."
+      "context": "Apollos was a learned Jew from Alexandria, Egypt, \"mighty in the Scriptures\" (Acts 18:24). Originally a follower of \"the baptism of John\" ([[ACT.18:25]]), he was taught more fully about Christ by Priscilla and Aquila at Ephesus, and he later preached at Corinth, where some saw him as a rival to Paul. Tradition tells us Apollos became the first bishop of Crete (see [[TIT.3:13]]). Paul makes it plain that he and Apollos are partners in apostolic work and that Apollos would not approve of the factionalism in Corinth (3:4-6; 4:6; 16:12).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "baptism",
+        "christology",
+        "exodus_typology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

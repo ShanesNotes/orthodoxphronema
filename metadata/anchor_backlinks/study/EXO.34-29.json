@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Now when Moses came down from Mount Sinai (and the two tablets were in Moses' hand when he came down from the mountain), he did not know the skin of his face was glorified while God talked with Him.",
   "pericope": {
     "id": "EXO.P075",
@@ -12,7 +12,12 @@
     "range": "EXO.34:28-34:34",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "eschatology",
+    "faith",
+    "praise"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,14 +25,41 @@
       "line_number": 365,
       "raw_match": "[[EXO.34:29]]-35",
       "reference_type": "wikilink_range",
-      "context": "Those who become one with Christ receive this divine radiance revealed in Stephen's face. This is a preview of the glory all believers will share in the age to come ([[2CO.3:18]]). See also [[EXO.34:29]]-35."
+      "context": "Those who become one with Christ receive this divine radiance revealed in Stephen's face. This is a preview of the glory all believers will share in the age to come ([[2CO.3:18]]). See also [[EXO.34:29]]-35.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology",
+        "eschatology",
+        "faith",
+        "praise"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/NT/REV_footnotes.md",
       "line_number": 1524,
       "raw_match": "[[EXO.34:29]]-35",
       "reference_type": "wikilink_range",
-      "context": "As God is light (4:3; [[PSA.103:2]]; [[1TI.6:16]]), so the angel coming down from heaven exudes a lingering radiance (see Moses in [[EXO.34:29]]-35)."
+      "context": "As God is light (4:3; [[PSA.103:2]]; [[1TI.6:16]]), so the angel coming down from heaven exudes a lingering radiance (see Moses in [[EXO.34:29]]-35).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "praise"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 6,
+        "title": "The Universe As a Language",
+        "polarity": "generation",
+        "operation": "descend",
+        "scale": "communal"
+      }
     }
   ]
 }

@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "'Woe to you, Chorazin! Woe to you, Bethsaida! For if the mighty works which were done in you had been done in Tyre and Sidon, they would have repented long ago in sackcloth and ashes.",
   "pericope": {
     "id": "MAT.P032",
@@ -12,7 +12,13 @@
     "range": "MAT.11:19-11:23",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "eschatology",
+    "faith",
+    "prayer",
+    "repentance"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,21 +26,62 @@
       "line_number": 260,
       "raw_match": "[[MAT.11:21]]",
       "reference_type": "wikilink",
-      "context": "The people of Bethsaida were unbelieving ([[MAT.11:21]]); thus, Jesus leads the blind man out of the town to heal him, so that the people would not scoff at the miracle and bring upon themselves greater condemnation. That the blind man was healed in stages (vv. 23-25) shows that he had only a small amount of faith, for healing occurs according to one's faith (6:5, 6); yet this little faith was enough, and it increased with the touch of Christ. Christ's command not to return to the town (v. 26) symbolizes that we must not return to our sins once we have been forgiven."
+      "context": "The people of Bethsaida were unbelieving ([[MAT.11:21]]); thus, Jesus leads the blind man out of the town to heal him, so that the people would not scoff at the miracle and bring upon themselves greater condemnation. That the blind man was healed in stages (vv. 23-25) shows that he had only a small amount of faith, for healing occurs according to one's faith (6:5, 6); yet this little faith was enough, and it increased with the touch of Christ. Christ's command not to return to the town (v. 26) symbolizes that we must not return to our sins once we have been forgiven.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology",
+        "faith",
+        "repentance"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/NT/REV_footnotes.md",
       "line_number": 958,
       "raw_match": "[[MAT.11:21]]",
       "reference_type": "wikilink",
-      "context": "The identity of the two witnesses is much disputed. The most common opinion of the church fathers is that they represent Elijah and Enoch, who were believed to have ascended to heaven. In Jewish tradition, Moses is frequently substituted for Enoch on the basis of the tradition that he, too, ascended to heaven. It was Moses who appeared with Elijah at the Transfiguration of Jesus. John most likely drew on the Jewish tradition that Elijah would return to preach in the last days ([[MAL.3:22]]; [[MAT.4:5]]). Although Jesus identified the Elijah figure with John the Baptist, many continued to believe in an actual appearance of Elijah before the end. Sackcloth was the ancient garb of penitence (see [[JER.4:8]]; [[MAT.11:21]]). The prophecy of the two witnesses will continue for 1,260 days (42 months or 3-1/2 years; see [[DAN.7:25]]; 12:7). This period may be interpreted as \"fullness\" (i.e., seven) arrested halfway, imperfect, impermanent, not necessarily to be taken in a numerically literal manner."
+      "context": "The identity of the two witnesses is much disputed. The most common opinion of the church fathers is that they represent Elijah and Enoch, who were believed to have ascended to heaven. In Jewish tradition, Moses is frequently substituted for Enoch on the basis of the tradition that he, too, ascended to heaven. It was Moses who appeared with Elijah at the Transfiguration of Jesus. John most likely drew on the Jewish tradition that Elijah would return to preach in the last days ([[MAL.3:22]]; [[MAT.4:5]]). Although Jesus identified the Elijah figure with John the Baptist, many continued to believe in an actual appearance of Elijah before the end. Sackcloth was the ancient garb of penitence (see [[JER.4:8]]; [[MAT.11:21]]). The prophecy of the two witnesses will continue for 1,260 days (42 months or 3-1/2 years; see [[DAN.7:25]]; 12:7). This period may be interpreted as \"fullness\" (i.e., seven) arrested halfway, imperfect, impermanent, not necessarily to be taken in a numerically literal manner.",
+      "edge_type": "witnesses",
+      "topic_threads": [
+        "eschatology",
+        "faith",
+        "repentance"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/JON_footnotes.md",
       "line_number": 98,
       "raw_match": "[[MAT.11:21]]",
       "reference_type": "wikilink",
-      "context": "In an amazing response to Jonah's preaching, the Ninevites show us the true meaning of repentance in the following ways: (1) By the ancient practice of fasting, which implied a total fast. (2) By wearing sackcloth and ashes. Sackcloth was a rough, uncomfortable cloth made of goat or camel hair, used for making grain bags. It was worn as a sign of mourning (see [[GEN.37:34]]; [[EST.4:3]]; 1Mc 2:14; [[MAT.11:21]]). Putting ashes on one's head also symbolized mourning or repentance (see 2Kg 13:19; Is 58:5; [[JER.6:26]]). (3) By prayer. (4) By changing their behavior. True repentance is not just feeling sorry, but involves both the heart and actions."
+      "context": "In an amazing response to Jonah's preaching, the Ninevites show us the true meaning of repentance in the following ways: (1) By the ancient practice of fasting, which implied a total fast. (2) By wearing sackcloth and ashes. Sackcloth was a rough, uncomfortable cloth made of goat or camel hair, used for making grain bags. It was worn as a sign of mourning (see [[GEN.37:34]]; [[EST.4:3]]; 1Mc 2:14; [[MAT.11:21]]). Putting ashes on one's head also symbolized mourning or repentance (see 2Kg 13:19; Is 58:5; [[JER.6:26]]). (3) By prayer. (4) By changing their behavior. True repentance is not just feeling sorry, but involves both the heart and actions.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "prayer",
+        "repentance"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

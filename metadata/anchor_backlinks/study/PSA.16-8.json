@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Keep me as the apple of Your eye; In the shelter of Your wings, You will shelter me",
   "pericope": {
     "id": "PSA.P016",
@@ -12,7 +12,9 @@
     "range": "PSA.16:1-16:15",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 145,
       "raw_match": "[[PSA.16:8]]",
       "reference_type": "wikilink",
-      "context": "The Bride now speaks, exalting the Bridegroom. Of all the trees of the woods, the apple tree gives nourishment with sweet fruit. In Scripture, the apple is a symbol of favor ([[DEU.32:10]]; [[PSA.16:8]]; [[ZEC.2:12]]). Christ the beloved far surpasses in glory the sons, the righteous, for they become by grace what He is by nature. His commandments are sweet to those who thirst for the living Word ([[PSA.118:103]])."
+      "context": "The Bride now speaks, exalting the Bridegroom. Of all the trees of the woods, the apple tree gives nourishment with sweet fruit. In Scripture, the apple is a symbol of favor ([[DEU.32:10]]; [[PSA.16:8]]; [[ZEC.2:12]]). Christ the beloved far surpasses in glory the sons, the righteous, for they become by grace what He is by nature. His commandments are sweet to those who thirst for the living Word ([[PSA.118:103]]).",
+      "edge_type": "ascends_from",
+      "topic_threads": [
+        "christology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

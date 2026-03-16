@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "When they saw Him, they worshiped Him; but some doubted.",
   "pericope": {
     "id": "MAT.P096",
@@ -20,7 +20,16 @@
       "line_number": 152,
       "raw_match": "[[MAT.28:16]]-20",
       "reference_type": "wikilink_range",
-      "context": "Having exhorted Timothy with the example of his own steadfastness (vv. 10-13), Paul now issues a reminder of the depth of Timothy's training, which combined both oral and written instruction (see [[MAT.28:16]]-20; [[1CO.11:2]]; [[2TH.2:15]]; 3:6). A part of this tradition is Scripture. Paul, of course, speaks of the OT, since the NT did not yet exist."
+      "context": "Having exhorted Timothy with the example of his own steadfastness (vv. 10-13), Paul now issues a reminder of the depth of Timothy's training, which combined both oral and written instruction (see [[MAT.28:16]]-20; [[1CO.11:2]]; [[2TH.2:15]]; 3:6). A part of this tradition is Scripture. Paul, of course, speaks of the OT, since the NT did not yet exist.",
+      "edge_type": "instantiates",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "I will show Him, but not now; I bless Him, but He is not near. A Star shall rise out of Jacob; And a Man shall rise out of Israel. He shall break in pieces the rulers of Moab And plunder all the sons of Seth.",
   "pericope": {
     "id": "NUM.P058",
@@ -12,7 +12,11 @@
     "range": "NUM.24:14-24:25",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "creation_theology",
+    "theosis"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +24,21 @@
       "line_number": 108,
       "raw_match": "[[NUM.24:17]]",
       "reference_type": "wikilink",
-      "context": "The star proclaims the extraordinary birth of Christ. To ancient pagans, a star signified a god, a deified king ([[NUM.24:17]]). Christ being born under this star fulfills the prophecy in [[PSA.109:3]] and shows all of creation participating in the Incarnation. (See also Pss 18:2; 148:3.)"
+      "context": "The star proclaims the extraordinary birth of Christ. To ancient pagans, a star signified a god, a deified king ([[NUM.24:17]]). Christ being born under this star fulfills the prophecy in [[PSA.109:3]] and shows all of creation participating in the Incarnation. (See also Pss 18:2; 148:3.)",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "creation_theology",
+        "theosis"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

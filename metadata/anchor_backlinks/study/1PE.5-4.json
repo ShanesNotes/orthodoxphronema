@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "and when the Chief Shepherd appears, you will receive the crown of glory that does not fade away.",
   "pericope": {
     "id": "1PE.P016",
@@ -12,7 +12,11 @@
     "range": "1PE.4:19-5:10",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "shepherd",
+    "suffering"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +24,21 @@
       "line_number": 269,
       "raw_match": "[[1PE.5:4]]",
       "reference_type": "wikilink",
-      "context": "The persecution will be completed in ten days, a limited time likely not meant to be taken literally, and some may undergo martyrdom. Christ encourages faithfulness to the end. The crown of life, an allusion to the wreath awarded to a victor in an arena ([[PHP.3:14]]; [[2TI.2:5]]; [[1PE.5:4]]), is the reward of eternal life granted to those who conquer in Christ. The second death (v. 11) indicates eternal damnation, the \"lake of fire,\" wherein sinners will receive their reward of final and lasting estrangement from God (20:6, 14, 15; 21:8)."
+      "context": "The persecution will be completed in ten days, a limited time likely not meant to be taken literally, and some may undergo martyrdom. Christ encourages faithfulness to the end. The crown of life, an allusion to the wreath awarded to a victor in an arena ([[PHP.3:14]]; [[2TI.2:5]]; [[1PE.5:4]]), is the reward of eternal life granted to those who conquer in Christ. The second death (v. 11) indicates eternal damnation, the \"lake of fire,\" wherein sinners will receive their reward of final and lasting estrangement from God (20:6, 14, 15; 21:8).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology",
+        "shepherd",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

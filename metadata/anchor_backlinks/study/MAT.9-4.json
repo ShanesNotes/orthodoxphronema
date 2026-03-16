@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "But Jesus, knowing their thoughts, said, 'Why do you think evil in your hearts?",
   "pericope": {
     "id": "MAT.P019",
@@ -12,7 +12,10 @@
     "range": "MAT.8:27-9:7",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "faith"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,14 +23,36 @@
       "line_number": 905,
       "raw_match": "[[MAT.9:1]]-7",
       "reference_type": "wikilink_range",
-      "context": "This Angel has the authority to forgive sins, for the Father's name is in Him. The Father's name is the Lord; therefore, the Son is also called by this name (AmbM). When He became incarnate, He also forgave sins. But the Jews challenged His authority in vain, because they did not believe He was the Son of God ([[MAT.9:1]]-7)."
+      "context": "This Angel has the authority to forgive sins, for the Father's name is in Him. The Father's name is the Lord; therefore, the Son is also called by this name (AmbM). When He became incarnate, He also forgave sins. But the Jews challenged His authority in vain, because they did not believe He was the Son of God ([[MAT.9:1]]-7).",
+      "edge_type": "descends_to",
+      "topic_threads": [
+        "christology",
+        "faith"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/JER_footnotes.md",
       "line_number": 531,
       "raw_match": "[[MAT.9:4]]",
       "reference_type": "wikilink",
-      "context": "The heart is deep beyond all things: St. John Chrysostom labors the point that only God can know men's hearts, citing [[PSA.7:9]]; 1Kg 16:7; C2hr 6:30; and [[MAT.9:3]], [[MAT.9:4]]."
+      "context": "The heart is deep beyond all things: St. John Chrysostom labors the point that only God can know men's hearts, citing [[PSA.7:9]]; 1Kg 16:7; C2hr 6:30; and [[MAT.9:3]], [[MAT.9:4]].",
+      "edge_type": "witnesses",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 7,
+        "title": "Symbolism and the Spiritual Worldview",
+        "polarity": "luminosity",
+        "operation": "eat",
+        "scale": "individual"
+      }
     }
   ]
 }

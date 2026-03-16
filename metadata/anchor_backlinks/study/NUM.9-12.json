@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "They shall leave none of it until morning, nor break one of its bones. According to all the rule of Pascha, they shall keep it.",
   "pericope": {
     "id": "NUM.P020",
@@ -12,7 +12,10 @@
     "range": "NUM.8:26-9:13",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "resurrection"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 423,
       "raw_match": "[[NUM.9:12]]",
       "reference_type": "wikilink",
-      "context": "Not a bone of Christ's Body was broken ([[JOH.19:33]], [[JOH.19:36]]), which fulfilled this commandment concerning Pascha (see also [[NUM.9:12]]). We see the strong connection between the type and the reality (JohnChr)."
+      "context": "Not a bone of Christ's Body was broken ([[JOH.19:33]], [[JOH.19:36]]), which fulfilled this commandment concerning Pascha (see also [[NUM.9:12]]). We see the strong connection between the type and the reality (JohnChr).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "resurrection"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

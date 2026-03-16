@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "And he said, 'Who are You, Lord?'",
   "pericope": {
     "id": "ACT.P029",
@@ -12,7 +12,13 @@
     "range": "ACT.8:40-9:17",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "baptism",
+    "christology",
+    "creation_theology",
+    "resurrection",
+    "suffering"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,21 +26,58 @@
       "line_number": 94,
       "raw_match": "[[ACT.9:5]]",
       "reference_type": "wikilink",
-      "context": "Christ and the Church are so intimately united that, as we suffer and die with Him (beginning at baptism), so Christ suffers with us in our work of reconciliation. (See Mt 25:40; [[LUK.10:16]]; [[JOH.15:18]]-21; [[ACT.9:1]], [[ACT.9:4]], [[ACT.9:5]]; [[ROM.8:17]]; [[2CO.1:5]]; 4:10; [[PHP.1:20]]; 3:10.)"
+      "context": "Christ and the Church are so intimately united that, as we suffer and die with Him (beginning at baptism), so Christ suffers with us in our work of reconciliation. (See Mt 25:40; [[LUK.10:16]]; [[JOH.15:18]]-21; [[ACT.9:1]], [[ACT.9:4]], [[ACT.9:5]]; [[ROM.8:17]]; [[2CO.1:5]]; 4:10; [[PHP.1:20]]; 3:10.)",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "baptism",
+        "christology",
+        "creation_theology",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/NT/GAL_footnotes.md",
       "line_number": 55,
       "raw_match": "[[ACT.9:3]]-6",
       "reference_type": "wikilink_range",
-      "context": "The true gospel is taught by true apostles, but many declare themselves to be apostles. How can we know true apostles from false? (1) True apostles are called by God. They learn the gospel by revelation, either directly from the risen Son, as did the original apostles (1:11, 12), or by the revelation of apostolic tradition ([[2TI.2:2]]). They are called by grace, not according to works or a \"proper\" background (1:13-17). A true apostle brings glory to God, not to himself (1:18-23). (2) True apostles form one church government, holding the same doctrine and working by agreement reached in council (2:6-10). (3) True apostles stand firm in matters of conscience and are correctable when mistaken (2:11-14). Thus, Paul rebukes Peter sharply in public for his hypocritical ethnic elitism. 1:11-12 Apostolic tradition is grounded in divine revelation from Jesus Christ. Just as the Twelve were called by Christ, so was Paul (v. 1). Just as the Twelve received the gospel directly from Christ, so did Paul ([[ACT.9:3]]-6; 26:13-18). Just as the Twelve stood together as one, so Paul entered their unity in consensus and mutual submission."
+      "context": "The true gospel is taught by true apostles, but many declare themselves to be apostles. How can we know true apostles from false? (1) True apostles are called by God. They learn the gospel by revelation, either directly from the risen Son, as did the original apostles (1:11, 12), or by the revelation of apostolic tradition ([[2TI.2:2]]). They are called by grace, not according to works or a \"proper\" background (1:13-17). A true apostle brings glory to God, not to himself (1:18-23). (2) True apostles form one church government, holding the same doctrine and working by agreement reached in council (2:6-10). (3) True apostles stand firm in matters of conscience and are correctable when mistaken (2:11-14). Thus, Paul rebukes Peter sharply in public for his hypocritical ethnic elitism. 1:11-12 Apostolic tradition is grounded in divine revelation from Jesus Christ. Just as the Twelve were called by Christ, so was Paul (v. 1). Just as the Twelve received the gospel directly from Christ, so did Paul ([[ACT.9:3]]-6; 26:13-18). Just as the Twelve stood together as one, so Paul entered their unity in consensus and mutual submission.",
+      "edge_type": "scales_to",
+      "topic_threads": [
+        "christology",
+        "resurrection"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/JOB_footnotes.md",
       "line_number": 405,
       "raw_match": "[[ACT.9:1]]-12",
       "reference_type": "wikilink_range",
-      "context": "\"Oh what a spoil did the Church take from the mouth of the devil, when, by converting, she carried off Saul himself, the spoiler!\" (GrgGt; see [[ACT.9:1]]-12)."
+      "context": "\"Oh what a spoil did the Church take from the mouth of the devil, when, by converting, she carried off Saul himself, the spoiler!\" (GrgGt; see [[ACT.9:1]]-12).",
+      "edge_type": "instantiates",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

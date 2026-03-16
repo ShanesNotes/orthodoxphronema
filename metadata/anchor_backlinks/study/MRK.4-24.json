@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Then He said to them, 'Take heed what you hear. With the same measure you use, it will be measured to you; and to you who hear, more will be given.",
   "pericope": {
     "id": "MRK.P015",
@@ -12,7 +12,10 @@
     "range": "MRK.4:20-4:24",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "judgment",
+    "repentance"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 755,
       "raw_match": "[[MRK.4:24]]",
       "reference_type": "wikilink",
-      "context": "We will be judged with our own level of judgment because we are guilty of the very things we judge in others ([[ROM.2:1]]). We ourselves have failed in repentance and in fleeing from sin. To pass judgment is to assume God's authority. The second part of this verse is found in [[MRK.4:24]] and in [[LUK.6:38]], each in a different context, as Jesus no doubt repeated this particular message many times."
+      "context": "We will be judged with our own level of judgment because we are guilty of the very things we judge in others ([[ROM.2:1]]). We ourselves have failed in repentance and in fleeing from sin. To pass judgment is to assume God's authority. The second part of this verse is found in [[MRK.4:24]] and in [[LUK.6:38]], each in a different context, as Jesus no doubt repeated this particular message many times.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "judgment",
+        "repentance"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

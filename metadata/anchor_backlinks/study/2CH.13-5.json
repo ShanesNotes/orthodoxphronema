@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "do you not know that the Lord God of Israel gave the dominion over Israel to David and his sons forever by a covenant of salt?",
   "pericope": {
     "id": "2CH.P021",
@@ -12,7 +12,14 @@
     "range": "2CH.12:16-13:15",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "covenant",
+    "creation_theology",
+    "divine_light",
+    "faith",
+    "resurrection"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +27,24 @@
       "line_number": 484,
       "raw_match": "[[2CH.13:5]]",
       "reference_type": "wikilink",
-      "context": "Salt and light illustrate the role of disciples in society. Because of its preservative powers, its necessity for life, and its ability to give flavor, salt had religious and sacrificial significance (Lv 2:13; see also [[NUM.18:19]]; [[2CH.13:5]]). To eat salt with someone meant to be bound together in loyalty. As the salt of the earth, Christians are preservers of God's covenant and give true flavor to the world. God is the true and uncreated Light. In the OT light is symbolic of God (Is 60:1-3), the divine Law ([[PSA.118:105]]), and Israel in contrast to all other nations. In the NT, the Son of God is called \"light\" ([[JOH.1:4]]-9; 8:12; [[1JN.1:5]]). Light is necessary both for clear vision and for life itself. Faith relies on this divine light, and believers become \"sons of light\" (Jn 12:36; [[1TH.5:5]]) who shine in a perverse world ([[PHP.2:15]]). In many parishes, the Pascha (Easter) Liturgy begins with a candle being presented and the invitation to \"come receive the Light which is never overtaken by night.\""
+      "context": "Salt and light illustrate the role of disciples in society. Because of its preservative powers, its necessity for life, and its ability to give flavor, salt had religious and sacrificial significance (Lv 2:13; see also [[NUM.18:19]]; [[2CH.13:5]]). To eat salt with someone meant to be bound together in loyalty. As the salt of the earth, Christians are preservers of God's covenant and give true flavor to the world. God is the true and uncreated Light. In the OT light is symbolic of God (Is 60:1-3), the divine Law ([[PSA.118:105]]), and Israel in contrast to all other nations. In the NT, the Son of God is called \"light\" ([[JOH.1:4]]-9; 8:12; [[1JN.1:5]]). Light is necessary both for clear vision and for life itself. Faith relies on this divine light, and believers become \"sons of light\" (Jn 12:36; [[1TH.5:5]]) who shine in a perverse world ([[PHP.2:15]]). In many parishes, the Pascha (Easter) Liturgy begins with a candle being presented and the invitation to \"come receive the Light which is never overtaken by night.\"",
+      "edge_type": "opposes",
+      "topic_threads": [
+        "christology",
+        "covenant",
+        "creation_theology",
+        "divine_light",
+        "faith",
+        "resurrection"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

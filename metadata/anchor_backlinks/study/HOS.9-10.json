@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "'I found Israel as grapes in the wilderness, And I saw their fathers as an early guard at their fig tree. They went in to Baal Peor And were shamefully estranged; And the beloved ones became abominable.",
   "pericope": {
     "id": "HOS.P012",
@@ -12,7 +12,11 @@
     "range": "HOS.2:23-14:9",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "faith",
+    "israel_church"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,14 +24,37 @@
       "line_number": 327,
       "raw_match": "[[HOS.9:10]]",
       "reference_type": "wikilink",
-      "context": "It was not the season for figs means that this fig tree had sprouted an early full foliage, indicating a first crop, but without bearing any fruit. Jesus, finding not even one fig, condemns it. In Scripture a fig tree is often a symbol of Israel ([[HOS.9:10]]). Her fruitfulness has ceased, so the Kingdom will be taken from her and given to another people, who are called to bear spiritual fruit (see [[MAT.21:43]]; [[GAL.5:22]], [[GAL.5:23]]; see note at Mt 21:19)."
+      "context": "It was not the season for figs means that this fig tree had sprouted an early full foliage, indicating a first crop, but without bearing any fruit. Jesus, finding not even one fig, condemns it. In Scripture a fig tree is often a symbol of Israel ([[HOS.9:10]]). Her fruitfulness has ceased, so the Kingdom will be taken from her and given to another people, who are called to bear spiritual fruit (see [[MAT.21:43]]; [[GAL.5:22]], [[GAL.5:23]]; see note at Mt 21:19).",
+      "edge_type": "instantiates",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/SNG_footnotes.md",
       "line_number": 208,
       "raw_match": "[[HOS.9:10]]",
       "reference_type": "wikilink",
-      "context": "The fig tree is a figure of Israel, God's people before the Incarnation ([[HOS.9:10]]; Mt 21:19-21; [[MRK.11:13]], [[MRK.11:20]], [[MRK.11:21]]; [[LUK.13:6]], [[LUK.13:7]]). But the figs are young and immature, like those believers who have not grown in their faith ([[1CO.3:1]]). The true vine is Christ ([[JOH.15:1]]-5), and the vines are the Church, the New Israel. We are the fragrance of Christ to God the Father ([[2CO.2:15]])."
+      "context": "The fig tree is a figure of Israel, God's people before the Incarnation ([[HOS.9:10]]; Mt 21:19-21; [[MRK.11:13]], [[MRK.11:20]], [[MRK.11:21]]; [[LUK.13:6]], [[LUK.13:7]]). But the figs are young and immature, like those believers who have not grown in their faith ([[1CO.3:1]]). The true vine is Christ ([[JOH.15:1]]-5), and the vines are the Church, the New Israel. We are the fragrance of Christ to God the Father ([[2CO.2:15]]).",
+      "edge_type": "descends_to",
+      "topic_threads": [
+        "christology",
+        "faith",
+        "israel_church"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

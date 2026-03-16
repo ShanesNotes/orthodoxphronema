@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Joel, and Jehu the son of Joshibiah, the son of Seraiah, the son of Asiel;",
   "pericope": {
     "id": "1CH.P015",
@@ -12,7 +12,12 @@
     "range": "1CH.4:23-4:42",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "divine_word",
+    "faith",
+    "logos"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +25,22 @@
       "line_number": 22,
       "raw_match": "[[1CH.4:35]]",
       "reference_type": "wikilink",
-      "context": "Cyril of Alexandria interprets ch. 1 as a prophecy of the coming of Christ, when the Jews would revile and reject Him and incur the curses mentioned, understood spiritually. But Cyril is optimistic about the full restitution of the Jews, noting the solution found in v. 20 --they need only to look up to God in faith. The book begins in a manner similar to the other prophets, describing the advent of the Word of God to Joel. This is not merely a formula (see [[JER.1:2]]; [[EZK.1:3]]; [[HOS.1:1]]), but is God's way of arresting our attention, beckoning us to read the work not merely as literature, but as Holy Scripture. The advent of the word of the Lord to the prophet should lift our minds to Christ, the eternal Word of God. Joel the son of Pethuel: The prophet's patronymic is included since Joel was a relatively common name (see [[1CH.4:35]]; 5:4, 8, 12; 6:13, 18, 21; etc.). Furthermore, the meanings of names in the ancient world were considered far more significant than they are today, and the overtones of Joel and Pethuel resonate throughout the text. The meanings of these names are ambiguous, although Jerome understood Joel to mean \"God is\" or \"God is setting out,\" and Pethuel to mean \"God is opening.\""
+      "context": "Cyril of Alexandria interprets ch. 1 as a prophecy of the coming of Christ, when the Jews would revile and reject Him and incur the curses mentioned, understood spiritually. But Cyril is optimistic about the full restitution of the Jews, noting the solution found in v. 20 --they need only to look up to God in faith. The book begins in a manner similar to the other prophets, describing the advent of the Word of God to Joel. This is not merely a formula (see [[JER.1:2]]; [[EZK.1:3]]; [[HOS.1:1]]), but is God's way of arresting our attention, beckoning us to read the work not merely as literature, but as Holy Scripture. The advent of the word of the Lord to the prophet should lift our minds to Christ, the eternal Word of God. Joel the son of Pethuel: The prophet's patronymic is included since Joel was a relatively common name (see [[1CH.4:35]]; 5:4, 8, 12; 6:13, 18, 21; etc.). Furthermore, the meanings of names in the ancient world were considered far more significant than they are today, and the overtones of Joel and Pethuel resonate throughout the text. The meanings of these names are ambiguous, although Jerome understood Joel to mean \"God is\" or \"God is setting out,\" and Pethuel to mean \"God is opening.\"",
+      "edge_type": "witnesses",
+      "topic_threads": [
+        "christology",
+        "divine_word",
+        "faith",
+        "logos"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 2,
+        "title": "Coming Full Circle: The Copernican Revolution",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "He also took butter and milk and the calf he prepared, and set it before them; and he stood by them under the tree as they ate.",
   "pericope": {
     "id": "GEN.P024",
@@ -12,7 +12,10 @@
     "range": "GEN.18:8-18:14",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "prayer"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,14 +23,39 @@
       "line_number": 22,
       "raw_match": "[[GEN.18:1]]-16",
       "reference_type": "wikilink_range",
-      "context": "An often cited theophany of Christ occurs in the visit of the 'three men' to Abraham and Sarah in [[GEN.18:1]]-16: 'Then God appeared to him at the oak of Mamre' (v. 1). Though three men are there, Abraham addresses them in the singular, 'Lord.' He responds in the singular (vv. 9-15). As St. Ephraim the Syrian says, 'Therefore the Lord... now appeared to Abraham clearly in one of the three.' The three are generally considered to be Christ the Lord, along with two attending angels. At [[GEN.32:25]]-31, Christ is the 'man' who wrestles with Jacob, after which Jacob says, 'I saw God face to face' (v. 30). St. Cyril of Jerusalem asks the Jews concerning these theophanies to Abraham and Jacob, 'What strange thing do we announce in saying that God was made Man, when you yourselves say that Abraham received the Lord as a guest? What strange thing do we announce, when Jacob says, 'For I have seen God face to face, and my life is preserved'? The Lord, who ate with Abraham, also ate with us.' In the Book of Daniel, a heathen king bears witness to another theophany of Christ. When King Nebuchadnezzar of Babylon peers into the fiery furnace, upon seeing a 'fourth man' he exclaims, 'The vision of the fourth is like the Son of God' ([[DAN.3:92]]). #### Other Appearances Of God"
+      "context": "An often cited theophany of Christ occurs in the visit of the 'three men' to Abraham and Sarah in [[GEN.18:1]]-16: 'Then God appeared to him at the oak of Mamre' (v. 1). Though three men are there, Abraham addresses them in the singular, 'Lord.' He responds in the singular (vv. 9-15). As St. Ephraim the Syrian says, 'Therefore the Lord... now appeared to Abraham clearly in one of the three.' The three are generally considered to be Christ the Lord, along with two attending angels. At [[GEN.32:25]]-31, Christ is the 'man' who wrestles with Jacob, after which Jacob says, 'I saw God face to face' (v. 30). St. Cyril of Jerusalem asks the Jews concerning these theophanies to Abraham and Jacob, 'What strange thing do we announce in saying that God was made Man, when you yourselves say that Abraham received the Lord as a guest? What strange thing do we announce, when Jacob says, 'For I have seen God face to face, and my life is preserved'? The Lord, who ate with Abraham, also ate with us.' In the Book of Daniel, a heathen king bears witness to another theophany of Christ. When King Nebuchadnezzar of Babylon peers into the fiery furnace, upon seeing a 'fourth man' he exclaims, 'The vision of the fourth is like the Son of God' ([[DAN.3:92]]). #### Other Appearances Of God",
+      "edge_type": "witnesses",
+      "topic_threads": [
+        "christology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/NT/HEB_footnotes.md",
       "line_number": 795,
       "raw_match": "[[GEN.18:1]]-8",
       "reference_type": "wikilink_range",
-      "context": "Practical brotherly love is to be shown toward all Christians, but especially for the lowly, the powerless, and the victims of injustice. Strangers (v. 2) are travelers in need of hospitality. Abraham's hospitality is recalled ([[GEN.18:1]]-8; also 19:1-3). Prisoners (v. 3) are to be prayed for and aided if possible, for all those in the body of Christ, the Church, are members of one another ([[1CO.12:12]]-27)."
+      "context": "Practical brotherly love is to be shown toward all Christians, but especially for the lowly, the powerless, and the victims of injustice. Strangers (v. 2) are travelers in need of hospitality. Abraham's hospitality is recalled ([[GEN.18:1]]-8; also 19:1-3). Prisoners (v. 3) are to be prayed for and aided if possible, for all those in the body of Christ, the Church, are members of one another ([[1CO.12:12]]-27).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology",
+        "prayer"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "For by grace you have been saved through faith, and that not of yourselves; it is the gift of God,",
   "pericope": {
     "id": "EPH.P004",
@@ -12,7 +12,9 @@
     "range": "EPH.1:23-2:9",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "faith"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 29,
       "raw_match": "[[EPH.2:8]]-10",
       "reference_type": "wikilink_range",
-      "context": "Our salvation and calling are based on His grace and love, not on anything we have done to merit God's favor ([[EPH.2:8]]-10; [[TIT.3:5]], [[TIT.3:6]])."
+      "context": "Our salvation and calling are based on His grace and love, not on anything we have done to merit God's favor ([[EPH.2:8]]-10; [[TIT.3:5]], [[TIT.3:6]]).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "faith"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

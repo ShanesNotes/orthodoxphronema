@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "But by the grace of God I am what I am, and His grace toward me was not in vain; but I labored more abundantly than they all, yet not I, but the grace of God which was with me.",
   "pericope": {
     "id": "1CO.P033",
@@ -12,7 +12,9 @@
     "range": "1CO.14:40-15:10",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "logos"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 1473,
       "raw_match": "[[1CO.15:10]]",
       "reference_type": "wikilink",
-      "context": "Jacob knew the grace of God, which enabled him to accept whatever the outcome would be in the case of Simeon and Benjamin. St. Paul also said, \"By the grace of God I am what I am\" ([[1CO.15:10]]). And St. Athanasius the Great said that man fell into death because he abandoned the grace of God the Word."
+      "context": "Jacob knew the grace of God, which enabled him to accept whatever the outcome would be in the case of Simeon and Benjamin. St. Paul also said, \"By the grace of God I am what I am\" ([[1CO.15:10]]). And St. Athanasius the Great said that man fell into death because he abandoned the grace of God the Word.",
+      "edge_type": "witnesses",
+      "topic_threads": [
+        "logos"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

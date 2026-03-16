@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "I commend to you Phoebe our sister, who is a servant of the church in Cenchrea,",
   "pericope": {
     "id": "ROM.P044",
@@ -12,7 +12,9 @@
     "range": "ROM.15:33-16:15",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 95,
       "raw_match": "[[ROM.16:1]]",
       "reference_type": "wikilink",
-      "context": "The Church's greatest saint is a woman, the Virgin Mary, Mother of God. Some women, including Mary Magdalene, are called \"Equal to the Apostles,\" others serve as deacons ([[ROM.16:1]]). While sharing full equality in Christ, women are not ordained to the offices of bishop and presbyter."
+      "context": "The Church's greatest saint is a woman, the Virgin Mary, Mother of God. Some women, including Mary Magdalene, are called \"Equal to the Apostles,\" others serve as deacons ([[ROM.16:1]]). While sharing full equality in Christ, women are not ordained to the offices of bishop and presbyter.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

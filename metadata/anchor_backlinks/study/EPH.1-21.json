@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "far above all principality and power and might and dominion, and every name that is named, not only in this age but also in that which is to come.",
   "pericope": {
     "id": "EPH.P003",
@@ -12,7 +12,9 @@
     "range": "EPH.1:13-1:22",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "suffering"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 54,
       "raw_match": "[[EPH.1:21]]",
       "reference_type": "wikilink",
-      "context": "Authority (lit., \"lordships\"; also translated \"dominion\"; see [[EPH.1:21]]; [[COL.1:16]]) and dignitaries (lit., \"glories\") refer to angels, perhaps in this case to fallen angels (see the parallel in [[2PE.2:10]]). Although, they are hostile to God, they are nonetheless to be treated dispassionately."
+      "context": "Authority (lit., \"lordships\"; also translated \"dominion\"; see [[EPH.1:21]]; [[COL.1:16]]) and dignitaries (lit., \"glories\") refer to angels, perhaps in this case to fallen angels (see the parallel in [[2PE.2:10]]). Although, they are hostile to God, they are nonetheless to be treated dispassionately.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

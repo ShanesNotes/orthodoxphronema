@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "'The Lord your God will raise up for you a Prophet like me from your brethren. Him you shall hear,",
   "pericope": {
     "id": "DEU.P040",
@@ -12,7 +12,13 @@
     "range": "DEU.18:14-19:12",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "eschatology",
+    "faith",
+    "priesthood",
+    "resurrection"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,35 +26,100 @@
       "line_number": 168,
       "raw_match": "[[DEU.18:15]]-19",
       "reference_type": "wikilink_range",
-      "context": "John the Baptist is a prophet but not the Prophet, the Messiah, whose coming Moses foretold ([[DEU.18:15]]-19)."
+      "context": "John the Baptist is a prophet but not the Prophet, the Messiah, whose coming Moses foretold ([[DEU.18:15]]-19).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 2,
+        "title": "Coming Full Circle: The Copernican Revolution",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/NT/JOH_footnotes.md",
       "line_number": 452,
       "raw_match": "[[DEU.18:15]]-18",
       "reference_type": "wikilink_range",
-      "context": "Since Jesus perceived she was living with a man without being married, and as He knew of her string of husbands, the woman perceives He is a prophet. As the Samaritans did not accept any prophets after Moses, the only prophet they expected was the Messiah whom Moses foretold ([[DEU.18:15]]-18). Christ's insight into people's hearts, reported many times in the Gospels, underscores His divine nature."
+      "context": "Since Jesus perceived she was living with a man without being married, and as He knew of her string of husbands, the woman perceives He is a prophet. As the Samaritans did not accept any prophets after Moses, the only prophet they expected was the Messiah whom Moses foretold ([[DEU.18:15]]-18). Christ's insight into people's hearts, reported many times in the Gospels, underscores His divine nature.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 6,
+        "title": "The Universe As a Language",
+        "polarity": "generation",
+        "operation": "descend",
+        "scale": "communal"
+      }
     },
     {
       "source_file": "study/footnotes/NT/JOH_footnotes.md",
       "line_number": 832,
       "raw_match": "[[DEU.18:15]]-19",
       "reference_type": "wikilink_range",
-      "context": "The Prophet refers to the expected Messiah, the Savior Moses foretold would come ([[DEU.18:15]]-19)."
+      "context": "The Prophet refers to the expected Messiah, the Savior Moses foretold would come ([[DEU.18:15]]-19).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/NT/LUK_footnotes.md",
       "line_number": 89,
       "raw_match": "[[DEU.18:15]]-18",
       "reference_type": "wikilink_range",
-      "context": "You will be mute: Zacharias is disciplined for his lack of faith, yet this also serves as proof that Gabriel's announcement (v. 19) is true. The silencing of the high priest also reveals a deeper mystery. The Messiah was expected to fulfill three crucial roles held by various people in the OT: prophet, priest, and king. Only Jesus Christ can be said to have fulfilled all three offices perfectly. He is the true Prophet ([[DEU.18:15]]-18), the true King (23:3; Is 9:6; [[MIC.5:1]]), and the true High Priest ([[PSA.109:4]]; [[HEB.4:14]]). In preparation for Christ's coming, God had silenced the prophets for many years (see note for v. 24), and also permitted an illegitimate usurper to occupy the position of king of Judea (see note for v. 5). Here, in the last days before Christ's coming, the high priest is also silenced. With these three roles vacant, illegitimate, and silent, all is ready for the Son of God to be revealed as Prophet, King, and Priest."
+      "context": "You will be mute: Zacharias is disciplined for his lack of faith, yet this also serves as proof that Gabriel's announcement (v. 19) is true. The silencing of the high priest also reveals a deeper mystery. The Messiah was expected to fulfill three crucial roles held by various people in the OT: prophet, priest, and king. Only Jesus Christ can be said to have fulfilled all three offices perfectly. He is the true Prophet ([[DEU.18:15]]-18), the true King (23:3; Is 9:6; [[MIC.5:1]]), and the true High Priest ([[PSA.109:4]]; [[HEB.4:14]]). In preparation for Christ's coming, God had silenced the prophets for many years (see note for v. 24), and also permitted an illegitimate usurper to occupy the position of king of Judea (see note for v. 5). Here, in the last days before Christ's coming, the high priest is also silenced. With these three roles vacant, illegitimate, and silent, all is ready for the Son of God to be revealed as Prophet, King, and Priest.",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "eschatology",
+        "faith",
+        "priesthood"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/NT/MRK_footnotes.md",
       "line_number": 168,
       "raw_match": "[[DEU.18:15]]",
       "reference_type": "wikilink",
-      "context": "Elijah was expected to return and work signs before the second coming of the Lord (Mal 4:5). The Prophet is interpreted by some to be a reference to the Messiah, the One whom Moses foretold ([[DEU.18:15]]), while others interpret it as simply meaning a new prophet had arisen."
+      "context": "Elijah was expected to return and work signs before the second coming of the Lord (Mal 4:5). The Prophet is interpreted by some to be a reference to the Messiah, the One whom Moses foretold ([[DEU.18:15]]), while others interpret it as simply meaning a new prophet had arisen.",
+      "edge_type": "ascends_from",
+      "topic_threads": [
+        "christology",
+        "eschatology",
+        "resurrection"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

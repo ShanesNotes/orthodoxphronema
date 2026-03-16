@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "And Jesus said, 'For judgment I have come into this world, that those who do not see may see, and that those who see may be made blind.'",
   "pericope": {
     "id": "JOH.P031",
@@ -12,7 +12,11 @@
     "range": "JOH.9:13-9:40",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "baptism",
+    "christology",
+    "judgment"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +24,21 @@
       "line_number": 563,
       "raw_match": "[[JOH.9:39]]",
       "reference_type": "wikilink",
-      "context": "Saul's blindness illustrates Christ's teachings on spiritual blindness ([[JOH.9:39]]). As long as Saul saw things from his own perspective, he was spiritually blind. Only by having his earthly vision taken away does Saul become capable of truly seeing Christ in glory and truth. This action also drives Saul to submit to the Church for baptism."
+      "context": "Saul's blindness illustrates Christ's teachings on spiritual blindness ([[JOH.9:39]]). As long as Saul saw things from his own perspective, he was spiritually blind. Only by having his earthly vision taken away does Saul become capable of truly seeing Christ in glory and truth. This action also drives Saul to submit to the Church for baptism.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "baptism",
+        "christology",
+        "judgment"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

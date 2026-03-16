@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "So he began to speak boldly in the synagogue. When Aquila and Priscilla heard him, they took him aside and explained to him the way of God more accurately.",
   "pericope": {
     "id": "ACT.P069",
@@ -20,14 +20,32 @@
       "line_number": 993,
       "raw_match": "[[ACT.18:26]]",
       "reference_type": "wikilink",
-      "context": "Aquila and Priscilla were Jews who had been among those expelled from Rome by Claudius in AD 49-50. They had resided in Corinth for a while ([[ACT.18:2]]) and then moved to Ephesus ([[ACT.18:26]])."
+      "context": "Aquila and Priscilla were Jews who had been among those expelled from Rome by Claudius in AD 49-50. They had resided in Corinth for a while ([[ACT.18:2]]) and then moved to Ephesus ([[ACT.18:26]]).",
+      "edge_type": "instantiates",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/NT/ROM_footnotes.md",
       "line_number": 1134,
       "raw_match": "[[ACT.18:26]]",
       "reference_type": "wikilink",
-      "context": "Priscilla and Aquila were a married couple, Jewish business people, and Paul's coworkers (see [[ACT.18:18]], [[ACT.18:26]])."
+      "context": "Priscilla and Aquila were a married couple, Jewish business people, and Paul's coworkers (see [[ACT.18:18]], [[ACT.18:26]]).",
+      "edge_type": "instantiates",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

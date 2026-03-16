@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "But I say, did Israel not know? First Moses says: 'I will provoke you to jealousy by those who are not a nation, I will move you to anger by a foolish nation.'",
   "pericope": {
     "id": "ROM.P028",
@@ -12,7 +12,11 @@
     "range": "ROM.10:18-11:9",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "faith",
+    "logos"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +24,21 @@
       "line_number": 786,
       "raw_match": "[[ROM.10:19]]",
       "reference_type": "wikilink",
-      "context": "This is a prophecy concerning the Gentiles who would become God's children through faith in Christ, thus provoking the Jews to jealousy ([[ROM.10:19]]). The Speaker in this prophecy (vv. 20, 21) is the Word and Son of God (AthanG; HilryP)."
+      "context": "This is a prophecy concerning the Gentiles who would become God's children through faith in Christ, thus provoking the Jews to jealousy ([[ROM.10:19]]). The Speaker in this prophecy (vv. 20, 21) is the Word and Son of God (AthanG; HilryP).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "faith",
+        "logos"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

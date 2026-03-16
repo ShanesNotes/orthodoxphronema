@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "The Lord swore and will not repent, \"You are a priest forever according to the order of Melchizedek.\"",
   "pericope": {
     "id": "PSA.P109",
@@ -12,7 +12,19 @@
     "range": "PSA.109:1-109:7",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "covenant",
+    "eschatology",
+    "eucharist",
+    "exodus_typology",
+    "faith",
+    "praise",
+    "priesthood",
+    "repentance",
+    "temple",
+    "wisdom"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,35 +32,113 @@
       "line_number": 20,
       "raw_match": "[[PSA.109:4]]",
       "reference_type": "wikilink",
-      "context": "Typology was the primary lens used by the Church through which the Old Testament was read and interpreted. St. Irenaeus writes concerning the Old Testament, 'If anyone, therefore, reads the Scriptures with attention, he will find in them an account of Christ, and a foreshadowing of the new calling.... The treasure hidden in the Scriptures is Christ, since He was pointed out by means of types and prophecies.' Christ indeed came to fulfill in reality what had been in the Old Testament but 'a shadow of the good things to come' ([[HEB.10:1]]). Jesus told His apostles, 'All things must be fulfilled which were written in the Law of Moses and the Prophets and the Psalms concerning Me' ([[LUK.24:44]], [[LUK.24:45]]; see also 24:27; [[JOH.5:38]], [[JOH.5:46]]). Sometimes Old Testament prophecies refer to past events as types-for example, the reference in [[PSA.109:4]] to Melchizedek, and in [[JER.38:31]]-34 to the Old Covenant. Yet it is the New Testament which confirms typology as the key to understanding the Old Testament. This is evident in the famous exclamation by St. John the Baptist when Jesus approached him at the Jordan: 'Behold! The Lamb of God who takes away the sin of the world!' ([[JOH.1:29]]). Here John not only is asserting that Jesus is the fulfillment of prophecy ([[ISA.53:7]]), but he is also making the first recorded public declaration linking the Person of Jesus with an Old Testament event-the sacrifice of the lamb at Passover ([[EXO.12:1]]-11; see also [[1CO.5:7]]; [[1PE.1:18]], [[1PE.1:19]]). The ultimate sacrifice of the Only Begotten Son of God was also foreshadowed in type by Abraham's offering of his son, Isaac ([[GEN.22:1]]-14). #### The New Testament, Looking Back"
+      "context": "Typology was the primary lens used by the Church through which the Old Testament was read and interpreted. St. Irenaeus writes concerning the Old Testament, 'If anyone, therefore, reads the Scriptures with attention, he will find in them an account of Christ, and a foreshadowing of the new calling.... The treasure hidden in the Scriptures is Christ, since He was pointed out by means of types and prophecies.' Christ indeed came to fulfill in reality what had been in the Old Testament but 'a shadow of the good things to come' ([[HEB.10:1]]). Jesus told His apostles, 'All things must be fulfilled which were written in the Law of Moses and the Prophets and the Psalms concerning Me' ([[LUK.24:44]], [[LUK.24:45]]; see also 24:27; [[JOH.5:38]], [[JOH.5:46]]). Sometimes Old Testament prophecies refer to past events as types-for example, the reference in [[PSA.109:4]] to Melchizedek, and in [[JER.38:31]]-34 to the Old Covenant. Yet it is the New Testament which confirms typology as the key to understanding the Old Testament. This is evident in the famous exclamation by St. John the Baptist when Jesus approached him at the Jordan: 'Behold! The Lamb of God who takes away the sin of the world!' ([[JOH.1:29]]). Here John not only is asserting that Jesus is the fulfillment of prophecy ([[ISA.53:7]]), but he is also making the first recorded public declaration linking the Person of Jesus with an Old Testament event-the sacrifice of the lamb at Passover ([[EXO.12:1]]-11; see also [[1CO.5:7]]; [[1PE.1:18]], [[1PE.1:19]]). The ultimate sacrifice of the Only Begotten Son of God was also foreshadowed in type by Abraham's offering of his son, Isaac ([[GEN.22:1]]-14). #### The New Testament, Looking Back",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "covenant",
+        "exodus_typology",
+        "praise",
+        "priesthood",
+        "repentance",
+        "wisdom"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/NT/LUK_footnotes.md",
       "line_number": 90,
       "raw_match": "[[PSA.109:4]]",
       "reference_type": "wikilink",
-      "context": "You will be mute: Zacharias is disciplined for his lack of faith, yet this also serves as proof that Gabriel's announcement (v. 19) is true. The silencing of the high priest also reveals a deeper mystery. The Messiah was expected to fulfill three crucial roles held by various people in the OT: prophet, priest, and king. Only Jesus Christ can be said to have fulfilled all three offices perfectly. He is the true Prophet ([[DEU.18:15]]-18), the true King (23:3; Is 9:6; [[MIC.5:1]]), and the true High Priest ([[PSA.109:4]]; [[HEB.4:14]]). In preparation for Christ's coming, God had silenced the prophets for many years (see note for v. 24), and also permitted an illegitimate usurper to occupy the position of king of Judea (see note for v. 5). Here, in the last days before Christ's coming, the high priest is also silenced. With these three roles vacant, illegitimate, and silent, all is ready for the Son of God to be revealed as Prophet, King, and Priest."
+      "context": "You will be mute: Zacharias is disciplined for his lack of faith, yet this also serves as proof that Gabriel's announcement (v. 19) is true. The silencing of the high priest also reveals a deeper mystery. The Messiah was expected to fulfill three crucial roles held by various people in the OT: prophet, priest, and king. Only Jesus Christ can be said to have fulfilled all three offices perfectly. He is the true Prophet ([[DEU.18:15]]-18), the true King (23:3; Is 9:6; [[MIC.5:1]]), and the true High Priest ([[PSA.109:4]]; [[HEB.4:14]]). In preparation for Christ's coming, God had silenced the prophets for many years (see note for v. 24), and also permitted an illegitimate usurper to occupy the position of king of Judea (see note for v. 5). Here, in the last days before Christ's coming, the high priest is also silenced. With these three roles vacant, illegitimate, and silent, all is ready for the Son of God to be revealed as Prophet, King, and Priest.",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "eschatology",
+        "faith",
+        "priesthood",
+        "repentance"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/NT/LUK_footnotes.md",
       "line_number": 1739,
       "raw_match": "[[PSA.109:4]]",
       "reference_type": "wikilink",
-      "context": "These things refers to Christ's Triumphal Entry into Jerusalem as Messiah (19:35- 38), the cleansing of the temple (19:45), and His preaching (20:1). The elders confront Jesus since it was the duty of the priestly descendants of Levi to manage the temple. While Christ was descended from Judah (3:33), yet He is the High Priest \"according to the order of Melchizedek\" ([[PSA.109:4]]), a priestly line far greater than that of Levi, for His authority is from the Father."
+      "context": "These things refers to Christ's Triumphal Entry into Jerusalem as Messiah (19:35- 38), the cleansing of the temple (19:45), and His preaching (20:1). The elders confront Jesus since it was the duty of the priestly descendants of Levi to manage the temple. While Christ was descended from Judah (3:33), yet He is the High Priest \"according to the order of Melchizedek\" ([[PSA.109:4]]), a priestly line far greater than that of Levi, for His authority is from the Father.",
+      "edge_type": "descends_to",
+      "topic_threads": [
+        "christology",
+        "priesthood",
+        "repentance",
+        "temple"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/GEN_footnotes.md",
       "line_number": 468,
       "raw_match": "[[PSA.109:4]]",
       "reference_type": "wikilink",
-      "context": "Melchizedek brought out bread and wine to Abraham. His priesthood typified the High Priesthood of Christ, who gives His precious body and blood to the faithful in the bread and wine of the Eucharist (CypC). Christ's priesthood is called \"the order of Melchizedek\" ([[PSA.109:4]]; [[HEB.5:6]]), and it is superior to the order of Aaron in the Mosaic Law ([[HEB.7:11]]). The Book of Hebrews gives numerous reasons for this superiority."
+      "context": "Melchizedek brought out bread and wine to Abraham. His priesthood typified the High Priesthood of Christ, who gives His precious body and blood to the faithful in the bread and wine of the Eucharist (CypC). Christ's priesthood is called \"the order of Melchizedek\" ([[PSA.109:4]]; [[HEB.5:6]]), and it is superior to the order of Aaron in the Mosaic Law ([[HEB.7:11]]). The Book of Hebrews gives numerous reasons for this superiority.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology",
+        "eucharist",
+        "priesthood",
+        "repentance"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/GEN_footnotes.md",
       "line_number": 1146,
       "raw_match": "[[PSA.109:4]]",
       "reference_type": "wikilink",
-      "context": ", 35 Levi was the forefather of the levitical priesthood, also known as the order of Aaron, for Aaron came from Levi ([[HEB.7:11]]). But the Christ could not be part of this order, because He would descend from Judah ([[HEB.7:14]]). However, the prophecy said Christ would be the High Priest of the order of Melchizedek ([[PSA.109:4]]). Thus, both orders cannot coexist as the way to be perfected. The order of Aaron became obsolete because Levi and his offspring are still dead, whereas Christ is alive from the dead. Therefore, Jews are not made children of God through the order of Aaron. Both Jews and Gentiles become the children of God only through the order of Melchizedek, in the one body of Christ, the Church, which is also called \"the Israel of God\" ([[GAL.6:16]])."
+      "context": ", 35 Levi was the forefather of the levitical priesthood, also known as the order of Aaron, for Aaron came from Levi ([[HEB.7:11]]). But the Christ could not be part of this order, because He would descend from Judah ([[HEB.7:14]]). However, the prophecy said Christ would be the High Priest of the order of Melchizedek ([[PSA.109:4]]). Thus, both orders cannot coexist as the way to be perfected. The order of Aaron became obsolete because Levi and his offspring are still dead, whereas Christ is alive from the dead. Therefore, Jews are not made children of God through the order of Aaron. Both Jews and Gentiles become the children of God only through the order of Melchizedek, in the one body of Christ, the Church, which is also called \"the Israel of God\" ([[GAL.6:16]]).",
+      "edge_type": "opposes",
+      "topic_threads": [
+        "christology",
+        "priesthood",
+        "repentance"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

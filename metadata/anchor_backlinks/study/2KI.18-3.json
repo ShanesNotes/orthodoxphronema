@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "And he did what was right in the eyes of the Lord, according to everything his father David did.",
   "pericope": {
     "id": "2KI.P048",
@@ -12,7 +12,15 @@
     "range": "2KI.17:41-18:11",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "covenant",
+    "exodus_typology",
+    "israel_church",
+    "mercy",
+    "praise",
+    "temple"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,14 +28,44 @@
       "line_number": 33,
       "raw_match": "[[2KI.18:3]]",
       "reference_type": "wikilink",
-      "context": "Many people have been taught that the second of the Ten Commandments prohibits icons. However, if correct, all artistic representations of anything would be forbidden. The Lord Himself in the same book of Exodus commanded Moses to make two gold cherubim (angels) 'of hammered work,' and to place them at each end of the mercy seat on the ark of the covenant ([[EXO.25:17]]-21). The Lord also stipulated that the ten curtains of the tabernacle be woven with images of cherubim on them ([[EXO.26:1]]), and likewise the veil ([[EXO.26:31]]). When King Solomon built the temple, the huge basin, or's ea,' was set upon twelve statues of oxen ([[1KI.7:13]], 30). And upon the ten bases of the sea were cast or engraved 'lions, oxen, and cherubim' ([[1KI.7:16]]), as well as palm trees ([[1KI.7:22]]). The Lord bestowed His blessing upon all these artistic representations first by filling the new temple with His Glory ([[1KI.8:10]], 11), and then by declaring to Solomon, 'I have consecrated this house which you have built to put My name there forever, and My eyes and My heart will be there perpetually' ([[1KI.9:3]]). Perhaps a most striking example of an image made at God's command in the Old Testament is the bronze serpent that God ordered Moses to make and put on a pole in order to protect the Hebrews bitten by the deadly serpents ([[NUM.21:4]]-9; see [[JOH.3:14]], [[JOH.3:15]]). Hundreds of years later, when the Israelites were offering incense to this same bronze serpent in a kind of idol-worship, King Hezekiah, who 'did what was right in the sight of the Lord,' had the serpent smashed into pieces ([[2KI.18:3]], [[2KI.18:4]]). So it is not the image itself which is faulty or prohibited, but rather its improper use. The prohibition in [[EXO.20:4]] is not against all artistic representations. Rather, it is against images, whether in human form or not, which would be worshipped as gods and goddesses -'gods of silver, and gods of gold' ([[EXO.20:23]]). For the Lord knew that such images would tempt the Hebrews to depart from worshipping Him, the One true God ([[EXO.20:3]]-5). Certainly, before the invisible and limitless Lord God of Israel became incarnate, it was impossible to make an image of Him. However, after God the Son assumed a visible and tangible human body, it was natural and beneficial for the Church to create artistic representations of Him-and of His holy Mother, and of the saints and angels-from the earliest times. According to tradition, St. Luke the Evangelist made at least three icons of Christ and His Mother. Every image, or icon, of Christ has significant theological content. For it proclaims anew the Incarnation of God, who 'became flesh' for our salvation ([[JOH.1:14]]). Recognized icons of our Savior, prayerfully made, provide us with inspired, trustworthy representations of Him. The Seventh Ecumenical Council, held in Nicea in AD 787, condemned the heresy of iconoclasm (the rejection, and even destruction, of icons). These Holy Fathers articulated the critical distinction between the worship reserved for God alone, and the veneration/honor/ reverence given to the icons. In addition, this Council declared that 'the honor given to the image passes on to that which the image represents.' Through icons, Orthodox Christians are drawn closer to Christ. A hymn sung the first Sunday of Great Lent, which commemorates the restoration of icons in AD 843, declares: 'the icons that depict Thy flesh lead us to the desire and love of Thee.'"
+      "context": "Many people have been taught that the second of the Ten Commandments prohibits icons. However, if correct, all artistic representations of anything would be forbidden. The Lord Himself in the same book of Exodus commanded Moses to make two gold cherubim (angels) 'of hammered work,' and to place them at each end of the mercy seat on the ark of the covenant ([[EXO.25:17]]-21). The Lord also stipulated that the ten curtains of the tabernacle be woven with images of cherubim on them ([[EXO.26:1]]), and likewise the veil ([[EXO.26:31]]). When King Solomon built the temple, the huge basin, or's ea,' was set upon twelve statues of oxen ([[1KI.7:13]], 30). And upon the ten bases of the sea were cast or engraved 'lions, oxen, and cherubim' ([[1KI.7:16]]), as well as palm trees ([[1KI.7:22]]). The Lord bestowed His blessing upon all these artistic representations first by filling the new temple with His Glory ([[1KI.8:10]], 11), and then by declaring to Solomon, 'I have consecrated this house which you have built to put My name there forever, and My eyes and My heart will be there perpetually' ([[1KI.9:3]]). Perhaps a most striking example of an image made at God's command in the Old Testament is the bronze serpent that God ordered Moses to make and put on a pole in order to protect the Hebrews bitten by the deadly serpents ([[NUM.21:4]]-9; see [[JOH.3:14]], [[JOH.3:15]]). Hundreds of years later, when the Israelites were offering incense to this same bronze serpent in a kind of idol-worship, King Hezekiah, who 'did what was right in the sight of the Lord,' had the serpent smashed into pieces ([[2KI.18:3]], [[2KI.18:4]]). So it is not the image itself which is faulty or prohibited, but rather its improper use. The prohibition in [[EXO.20:4]] is not against all artistic representations. Rather, it is against images, whether in human form or not, which would be worshipped as gods and goddesses -'gods of silver, and gods of gold' ([[EXO.20:23]]). For the Lord knew that such images would tempt the Hebrews to depart from worshipping Him, the One true God ([[EXO.20:3]]-5). Certainly, before the invisible and limitless Lord God of Israel became incarnate, it was impossible to make an image of Him. However, after God the Son assumed a visible and tangible human body, it was natural and beneficial for the Church to create artistic representations of Him-and of His holy Mother, and of the saints and angels-from the earliest times. According to tradition, St. Luke the Evangelist made at least three icons of Christ and His Mother. Every image, or icon, of Christ has significant theological content. For it proclaims anew the Incarnation of God, who 'became flesh' for our salvation ([[JOH.1:14]]). Recognized icons of our Savior, prayerfully made, provide us with inspired, trustworthy representations of Him. The Seventh Ecumenical Council, held in Nicea in AD 787, condemned the heresy of iconoclasm (the rejection, and even destruction, of icons). These Holy Fathers articulated the critical distinction between the worship reserved for God alone, and the veneration/honor/ reverence given to the icons. In addition, this Council declared that 'the honor given to the image passes on to that which the image represents.' Through icons, Orthodox Christians are drawn closer to Christ. A hymn sung the first Sunday of Great Lent, which commemorates the restoration of icons in AD 843, declares: 'the icons that depict Thy flesh lead us to the desire and love of Thee.'",
+      "edge_type": "witnesses",
+      "topic_threads": [
+        "christology",
+        "covenant",
+        "exodus_typology",
+        "israel_church",
+        "mercy",
+        "praise",
+        "temple"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/2CH_footnotes.md",
       "line_number": 251,
       "raw_match": "[[2KI.18:1]]-8",
       "reference_type": "wikilink_range",
-      "context": "Hezekiah prefigures Christ, who opened the doors (v. 3) to heaven, gathered the faithful, and set the captives free (see [[2KI.18:1]]-8)."
+      "context": "Hezekiah prefigures Christ, who opened the doors (v. 3) to heaven, gathered the faithful, and set the captives free (see [[2KI.18:1]]-8).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

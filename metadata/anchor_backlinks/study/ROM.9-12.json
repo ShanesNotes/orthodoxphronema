@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "it was said to her, 'The older shall serve the younger.'",
   "pericope": {
     "id": "ROM.P023",
@@ -12,7 +12,9 @@
     "range": "ROM.9:8-9:12",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "covenant"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 25,
       "raw_match": "[[ROM.9:10]]-13",
       "reference_type": "wikilink_range",
-      "context": "In what way have You loved us? God declares His love for His people, but they reply coldly. God reminds them of the covenant with Abraham, Isaac, and Jacob. Jacob I have loved, but Esau I have hated is a Semitic way of emphasizing God's choice of Jacob, not of indicating hatred for the unchosen (see [[GEN.25:23]]; [[LUK.14:26]]; [[ROM.9:10]]-13)."
+      "context": "In what way have You loved us? God declares His love for His people, but they reply coldly. God reminds them of the covenant with Abraham, Isaac, and Jacob. Jacob I have loved, but Esau I have hated is a Semitic way of emphasizing God's choice of Jacob, not of indicating hatred for the unchosen (see [[GEN.25:23]]; [[LUK.14:26]]; [[ROM.9:10]]-13).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "covenant"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

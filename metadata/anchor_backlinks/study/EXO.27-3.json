@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Also you shall make a crown around the altar; and its cover, its libation bowls, its flesh-hooks, its incense bowl, and all its utensils you shall make of bronze.",
   "pericope": {
     "id": "EXO.P055",
@@ -12,7 +12,12 @@
     "range": "EXO.26:37-27:7",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "covenant",
+    "judgment",
+    "priesthood",
+    "temple"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +25,22 @@
       "line_number": 1317,
       "raw_match": "[[EXO.27:3]]",
       "reference_type": "wikilink",
-      "context": "The temple of the tabernacle of the testimony is the heavenly prototype of the earthly \"tabernacle of testimony\" ([[NUM.17:7]]), containing the witness of God's covenant, the tablets of the Law brought down from Mt. Sinai by Moses ([[EXO.32:15]])--which was itself the archetype of the temple of Jerusalem (see [[EXO.25:9]], [[EXO.25:40]]; [[HEB.8:5]]; 9:11; 13:10; Acts 7:44). Seven angels (v. 6) appear out of the temple in priestly vesture ([[EZK.9:2]]; Dan 10:5; [[HEB.1:14]]; [[REV.1:13]]; 19:14). They are given golden bowls (see the vessels used by the priests in the Jerusalem temple, 5:8; [[EXO.27:3]]; Nm 7) by one of the living creatures (v. 7; see 4:6). God's judgment is meted out within the framework of this apocalyptic liturgical theophany."
+      "context": "The temple of the tabernacle of the testimony is the heavenly prototype of the earthly \"tabernacle of testimony\" ([[NUM.17:7]]), containing the witness of God's covenant, the tablets of the Law brought down from Mt. Sinai by Moses ([[EXO.32:15]])--which was itself the archetype of the temple of Jerusalem (see [[EXO.25:9]], [[EXO.25:40]]; [[HEB.8:5]]; 9:11; 13:10; Acts 7:44). Seven angels (v. 6) appear out of the temple in priestly vesture ([[EZK.9:2]]; Dan 10:5; [[HEB.1:14]]; [[REV.1:13]]; 19:14). They are given golden bowls (see the vessels used by the priests in the Jerusalem temple, 5:8; [[EXO.27:3]]; Nm 7) by one of the living creatures (v. 7; see 4:6). God's judgment is meted out within the framework of this apocalyptic liturgical theophany.",
+      "edge_type": "echoes",
+      "topic_threads": [
+        "covenant",
+        "judgment",
+        "priesthood",
+        "temple"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

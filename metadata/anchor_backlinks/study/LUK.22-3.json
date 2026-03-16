@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Then Satan entered Judas, surnamed Iscariot, who was numbered among the twelve.",
   "pericope": {
     "id": "LUK.P104",
@@ -12,7 +12,10 @@
     "range": "LUK.21:38-22:5",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "repentance"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 2331,
       "raw_match": "[[LUK.22:3]]",
       "reference_type": "wikilink",
-      "context": "That it is written of Him does not cancel Judas' responsibility. God foresees but does not cause the evil actions of humans, who always have free will (see also note at [[LUK.22:3]]). Jesus lets Judas accuse himself, yet even hearing that Christ knew of his deception, Judas does not repent."
+      "context": "That it is written of Him does not cancel Judas' responsibility. God foresees but does not cause the evil actions of humans, who always have free will (see also note at [[LUK.22:3]]). Jesus lets Judas accuse himself, yet even hearing that Christ knew of his deception, Judas does not repent.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology",
+        "repentance"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

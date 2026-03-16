@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Then He said to them, 'Is it lawful on the Sabbath to do good or to do evil, to save life or to kill?' But they kept silent.",
   "pericope": {
     "id": "MRK.P009",
@@ -12,7 +12,10 @@
     "range": "MRK.2:22-3:5",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "repentance"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 1925,
       "raw_match": "[[MRK.3:4]]",
       "reference_type": "wikilink",
-      "context": "Jesus asked many questions of the Jewish leaders which they refused to answer because doing so would have meant confessing Him as the Christ (20:4-7; [[MAT.22:41]]-46; [[MRK.3:4]])."
+      "context": "Jesus asked many questions of the Jewish leaders which they refused to answer because doing so would have meant confessing Him as the Christ (20:4-7; [[MAT.22:41]]-46; [[MRK.3:4]]).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology",
+        "repentance"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

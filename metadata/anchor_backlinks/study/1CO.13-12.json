@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "For now we see in amirror, dimly, but then face to face. Now I know in part, but then I shall know just as I also am known.",
   "pericope": {
     "id": "1CO.P029",
@@ -12,7 +12,23 @@
     "range": "1CO.12:26-13:12",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "baptism",
+    "christology",
+    "covenant",
+    "creation_theology",
+    "eschatology",
+    "faith",
+    "kingdom",
+    "logos",
+    "mercy",
+    "praise",
+    "prayer",
+    "priesthood",
+    "repentance",
+    "temple",
+    "theosis"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,35 +36,117 @@
       "line_number": 42,
       "raw_match": "[[1CO.13:12]]",
       "reference_type": "wikilink",
-      "context": "F ew saints have been blessed with a vision of heaven while still in this life. Isaiah saw heaven ([[ISA.6:1]]-8), as did Ezekiel ([[EZK.1:1]]-28), and the apostle John saw a new heaven-God's eternal Kingdom revealed as a city ([[REV.21:1]]-22:5). When we read these passages, we note an abundance of mystical, apocalyptic imagery. But the strong similarities between these passages suggests an inspired consistency of reporting on the visions. The living creatures, the light, the cherubic beings, the throne, and the glory of the Lord all work together to unveil a Kingdom of celestial majesty and splendor. While confessing with the prophet Isaiah and the apostle Paul that 'eye has not seen, nor ear heard, nor have entered into the heart of man the things which God has prepared for those who love Him' ([[1CO.2:9]]), we nonetheless find, taking the Scriptures as a whole, that certain things can be said about the eternal Kingdom. 1 The saints who inhabit God's Kingdom live in active fulfillment of His eternal plan. In the Kingdom, humanity becomes all it is meant to be. There is nothing at all in Scripture to suggest that eternal life means people passively afloat on huge white clouds strumming harps unto the ages of ages. Originally created to inhabit Paradise, our first parents chose to sin against God and were expelled from the Garden. The Kingdom of God was closed to mankind ([[GEN.3:24]]). But God in His love called His creation back to Himself, speaking to us through the law and the prophets and ultimately through His incarnate Son. Through new life in Jesus Christ, we are brought back by God's mercy into the new creation, His everlasting Kingdom. As kings and priests we will reign with Him forever ([[REV.1:6]]). 2 We experience a foretaste of the Kingdom in the Church. The very first words of the Divine Liturgy spoken by the priest are, 'Blessed is the Kingdom of the Father and of the Son and of the Holy Spirit, now and ever and unto ages of ages.' The Church at worship enters or ascends to the heavenly Kingdom. For it is in the Church that we are seated 'together in the heavenly places in Christ Jesus' ([[EPH.2:6]]) and are raised to 'where Christ is, sitting at the right hand of God' ([[COL.3:1]]). In worship we join the heavenly hosts-the saints and the angels-in giving praise to our God. As the body of Christ, we participate with that 'great cloud of witnesses' ([[HEB.12:1]]) surrounding us as we come to 'the throne of God' ([[HEB.12:2]]). We come liturgically 'to the city of the living God, the heavenly Jerusalem, to an innumerable company of angels, to the general assembly and church of the firstborn who are registered in heaven, to God the Judge of all' ([[HEB.12:22]], [[HEB.12:23]]). With this heavenly vision, the Orthodox Church each Sunday remembers not only those in the parish but 'all those who in faith have gone on before us to their rest.' 3 Knowledge of the Kingdom motivates us to live in complete devotion to Christ. In this life, we have a foretaste of the Kingdom that inspires us to seek its fullness. In Paul's words, 'For now we see in a mirror, dimly, but then face to face' ([[1CO.13:12]]). Worship is not a solitary act. Rather it is the Bride of Christ, the one Church-those on earth joining with those in heaven-giving thanks to our God and King, who has made us citizens of His magnificent domain. The apostle John writes, 'Beloved, now we are children of God; and it has not yet been revealed what we shall be, but we know that when He is revealed, we shall be like Him, for we shall see Him as He is. And everyone who has this hope in Him purifies himself, just as He is pure' ([[1JN.3:2]], [[1JN.3:3]])."
+      "context": "F ew saints have been blessed with a vision of heaven while still in this life. Isaiah saw heaven ([[ISA.6:1]]-8), as did Ezekiel ([[EZK.1:1]]-28), and the apostle John saw a new heaven-God's eternal Kingdom revealed as a city ([[REV.21:1]]-22:5). When we read these passages, we note an abundance of mystical, apocalyptic imagery. But the strong similarities between these passages suggests an inspired consistency of reporting on the visions. The living creatures, the light, the cherubic beings, the throne, and the glory of the Lord all work together to unveil a Kingdom of celestial majesty and splendor. While confessing with the prophet Isaiah and the apostle Paul that 'eye has not seen, nor ear heard, nor have entered into the heart of man the things which God has prepared for those who love Him' ([[1CO.2:9]]), we nonetheless find, taking the Scriptures as a whole, that certain things can be said about the eternal Kingdom. 1 The saints who inhabit God's Kingdom live in active fulfillment of His eternal plan. In the Kingdom, humanity becomes all it is meant to be. There is nothing at all in Scripture to suggest that eternal life means people passively afloat on huge white clouds strumming harps unto the ages of ages. Originally created to inhabit Paradise, our first parents chose to sin against God and were expelled from the Garden. The Kingdom of God was closed to mankind ([[GEN.3:24]]). But God in His love called His creation back to Himself, speaking to us through the law and the prophets and ultimately through His incarnate Son. Through new life in Jesus Christ, we are brought back by God's mercy into the new creation, His everlasting Kingdom. As kings and priests we will reign with Him forever ([[REV.1:6]]). 2 We experience a foretaste of the Kingdom in the Church. The very first words of the Divine Liturgy spoken by the priest are, 'Blessed is the Kingdom of the Father and of the Son and of the Holy Spirit, now and ever and unto ages of ages.' The Church at worship enters or ascends to the heavenly Kingdom. For it is in the Church that we are seated 'together in the heavenly places in Christ Jesus' ([[EPH.2:6]]) and are raised to 'where Christ is, sitting at the right hand of God' ([[COL.3:1]]). In worship we join the heavenly hosts-the saints and the angels-in giving praise to our God. As the body of Christ, we participate with that 'great cloud of witnesses' ([[HEB.12:1]]) surrounding us as we come to 'the throne of God' ([[HEB.12:2]]). We come liturgically 'to the city of the living God, the heavenly Jerusalem, to an innumerable company of angels, to the general assembly and church of the firstborn who are registered in heaven, to God the Judge of all' ([[HEB.12:22]], [[HEB.12:23]]). With this heavenly vision, the Orthodox Church each Sunday remembers not only those in the parish but 'all those who in faith have gone on before us to their rest.' 3 Knowledge of the Kingdom motivates us to live in complete devotion to Christ. In this life, we have a foretaste of the Kingdom that inspires us to seek its fullness. In Paul's words, 'For now we see in a mirror, dimly, but then face to face' ([[1CO.13:12]]). Worship is not a solitary act. Rather it is the Bride of Christ, the one Church-those on earth joining with those in heaven-giving thanks to our God and King, who has made us citizens of His magnificent domain. The apostle John writes, 'Beloved, now we are children of God; and it has not yet been revealed what we shall be, but we know that when He is revealed, we shall be like Him, for we shall see Him as He is. And everyone who has this hope in Him purifies himself, just as He is pure' ([[1JN.3:2]], [[1JN.3:3]]).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "creation_theology",
+        "faith",
+        "kingdom",
+        "mercy",
+        "praise",
+        "priesthood",
+        "repentance"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 9,
+        "title": "Example: The Cherubim of Ezekiel I",
+        "polarity": "generation",
+        "operation": "inform",
+        "scale": "intercommunal"
+      }
     },
     {
       "source_file": "study/footnotes/NT/1JN_footnotes.md",
       "line_number": 184,
       "raw_match": "[[1CO.13:12]]",
       "reference_type": "wikilink",
-      "context": "Made in God's image and likeness, we are fulfilled by becoming like Him, a process called sanctification or deification. Being \"partakers of the divine nature\" ([[2PE.1:4]]), we are \"transformed into the same image from glory to glory\" ([[2CO.3:18]]). When we see Him as He is, in the fullness of His glory at the last day, this process will be supremely magnified. John had seen the foretaste of this glory on the Mount of Transfiguration (Mt 17:1-9; [[MRK.9:2]]-9; [[LUK.9:28]]-36). How shall we see Him? Through our likeness to Him; our human nature will be glorified with the glorified humanity of the Son (see [[COL.3:3]], [[COL.3:4]]) and through a knowledge of all three Persons of the Trinity. (Note Paul's expressions, \"face to face\" and \"with unveiled face\" in [[1CO.13:12]]; [[2CO.3:18]])."
+      "context": "Made in God's image and likeness, we are fulfilled by becoming like Him, a process called sanctification or deification. Being \"partakers of the divine nature\" ([[2PE.1:4]]), we are \"transformed into the same image from glory to glory\" ([[2CO.3:18]]). When we see Him as He is, in the fullness of His glory at the last day, this process will be supremely magnified. John had seen the foretaste of this glory on the Mount of Transfiguration (Mt 17:1-9; [[MRK.9:2]]-9; [[LUK.9:28]]-36). How shall we see Him? Through our likeness to Him; our human nature will be glorified with the glorified humanity of the Son (see [[COL.3:3]], [[COL.3:4]]) and through a knowledge of all three Persons of the Trinity. (Note Paul's expressions, \"face to face\" and \"with unveiled face\" in [[1CO.13:12]]; [[2CO.3:18]]).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "eschatology",
+        "praise",
+        "theosis"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/NT/2CO_footnotes.md",
       "line_number": 173,
       "raw_match": "[[1CO.13:12]]",
       "reference_type": "wikilink",
-      "context": "The work of the Holy Spirit brings liberty (v. 17), freeing us to behold God and have open access to Him. Created as the image of God, we see His uncreated image, the Son, the glory of the Lord (v. 18; see 4:4-6), in two ways: (1) through the Son's deified humanity (see [[1CO.13:12]]; [[JAS.1:23]]-25) and (2) in the power of the Spirit. As we behold Him, we become what we were created to be. God is infinite; therefore, growing in His image and glory has no limits. We shall ever see God more clearly and ever be transformed into His likeness."
+      "context": "The work of the Holy Spirit brings liberty (v. 17), freeing us to behold God and have open access to Him. Created as the image of God, we see His uncreated image, the Son, the glory of the Lord (v. 18; see 4:4-6), in two ways: (1) through the Son's deified humanity (see [[1CO.13:12]]; [[JAS.1:23]]-25) and (2) in the power of the Spirit. As we behold Him, we become what we were created to be. God is infinite; therefore, growing in His image and glory has no limits. We shall ever see God more clearly and ever be transformed into His likeness.",
+      "edge_type": "ascends_from",
+      "topic_threads": [
+        "creation_theology",
+        "theosis"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/NT/REV_footnotes.md",
       "line_number": 1899,
       "raw_match": "[[1CO.13:12]]",
       "reference_type": "wikilink",
-      "context": "The face of God is that of the glorified Christ (see [[JOH.14:9]]; [[1JN.3:2]]). The face which cannot be seen is the hidden essence of God ([[JOH.1:18]]; [[1TI.6:16]]). Normally, even to see His energy is not possible in this life ([[EXO.33:20]]-23; [[MAT.5:8]]; [[JOH.1:18]]; [[1CO.13:12]]; [[HEB.12:14]]; [[1JN.3:2]]). But in the age to come the faithful, who bear Jesus' name... on their foreheads, may see Him ceaselessly. In the OT only the high priest bore the unspeakable name of God on his forehead, and that he did externally, on a golden headband around his turban ([[EXO.28:31]]-33; see [[EZK.9:4]]-6; [[REV.3:12]]; 7:3). In the NT, all who believe are granted His name."
+      "context": "The face of God is that of the glorified Christ (see [[JOH.14:9]]; [[1JN.3:2]]). The face which cannot be seen is the hidden essence of God ([[JOH.1:18]]; [[1TI.6:16]]). Normally, even to see His energy is not possible in this life ([[EXO.33:20]]-23; [[MAT.5:8]]; [[JOH.1:18]]; [[1CO.13:12]]; [[HEB.12:14]]; [[1JN.3:2]]). But in the age to come the faithful, who bear Jesus' name... on their foreheads, may see Him ceaselessly. In the OT only the high priest bore the unspeakable name of God on his forehead, and that he did externally, on a golden headband around his turban ([[EXO.28:31]]-33; see [[EZK.9:4]]-6; [[REV.3:12]]; 7:3). In the NT, all who believe are granted His name.",
+      "edge_type": "ascends_from",
+      "topic_threads": [
+        "christology",
+        "eschatology",
+        "faith",
+        "praise",
+        "priesthood"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/2CH_footnotes.md",
       "line_number": 51,
       "raw_match": "[[1CO.13:12]]",
       "reference_type": "wikilink",
-      "context": ") ever viewed as prohibiting images in worship. The warning is against false images or idols--like the golden calf. The carved (v. 7) and woven (v. 14) icons in the temple foreshadow icons in the Orthodox Church. Under the old covenant, all images in the temple are earthly except the cherubim (v. 7; see Is 37:6; [[HEB.9:5]]), which signify God's inconceivable majesty. When Christ brings heaven and earth together in His Church, the things of heaven are more clearly depicted. Until Christ comes again, icons will be used in worship as windows into heaven, for as St. Paul writes, \"For now we see in a mirror, dimly, but then face to face\" ([[1CO.13:12]]). 3:8 Christ will fulfill the most holy place when He brings earth to heaven. 4:2-6 Christ, who is called the \"lily of the valleys\" (v. 5; SS 2:1), is also the sea of bronze; and the Holy Spirit is represented by the water. All who are cleansed in the basins or lavers of baptism have identified themselves with Christ's death, and have been raised up in Him into newness of life; partaking indeed of \"living water\" ([[JOH.4:10]]), they have \"put on Christ\" ([[GAL.3:27]]). 4:7-8 The lampstands and the bowls symbolize Christ and His Church. In the old tabernacle, there was one laver and one lampstand with six bowls ([[EXO.25:31]]-39); now there are ten of each and one hundred golden bowls. This signifies the \"great quantity\" (v. 18) of blessings in Christ's kingdom. 5:1 Solomon's finished work on the temple will be fulfilled in Christ. 5:2-13 This passage foreshadows the falling asleep of the Theotokos, the Mother of God: \"The Ark of God departed from Mount Zion for the heavenly country, borne on the shoulders of the apostles. Angels overshadowed it with their wings, accompanying it, together with the whole assembly of the Church.... So is it now with the dwelling-place of the true ark, no longer of the testimony, but the very substance of God the Word. The new Solomon, the Prince of peace, the Creator of all things in the heavens and on the earth, assembled together today the supporters of the new covenant, that is the apostles, with all the people of the saints in Jerusalem, brought in her soul through angels to the true Holy of Holies\" (JohnDm). 5:13 As one: In His High Priestly Prayer, the Lord prays for the faithful, \"that they all may be one in Us\" ([[JOH.17:21]]). Hence at Divine Liturgy the faithful pray, \"And grant us with one mouth and one heart to glorify and praise Your all-honorable and majestic Name.\" 5:13-2 The glory of the Lord represents the divine nature of Christ, which is joined to His human nature, the house or temple of His body, in the Incarnation. 6:2 Just as Solomon built a house, so Jesus proclaimed, \"I will build My church\" (Mt 16:18). 7:1 Fire came down from heaven: this foreshadows Pentecost (see 3Kg 18:30-38; 1Ch"
+      "context": ") ever viewed as prohibiting images in worship. The warning is against false images or idols--like the golden calf. The carved (v. 7) and woven (v. 14) icons in the temple foreshadow icons in the Orthodox Church. Under the old covenant, all images in the temple are earthly except the cherubim (v. 7; see Is 37:6; [[HEB.9:5]]), which signify God's inconceivable majesty. When Christ brings heaven and earth together in His Church, the things of heaven are more clearly depicted. Until Christ comes again, icons will be used in worship as windows into heaven, for as St. Paul writes, \"For now we see in a mirror, dimly, but then face to face\" ([[1CO.13:12]]). 3:8 Christ will fulfill the most holy place when He brings earth to heaven. 4:2-6 Christ, who is called the \"lily of the valleys\" (v. 5; SS 2:1), is also the sea of bronze; and the Holy Spirit is represented by the water. All who are cleansed in the basins or lavers of baptism have identified themselves with Christ's death, and have been raised up in Him into newness of life; partaking indeed of \"living water\" ([[JOH.4:10]]), they have \"put on Christ\" ([[GAL.3:27]]). 4:7-8 The lampstands and the bowls symbolize Christ and His Church. In the old tabernacle, there was one laver and one lampstand with six bowls ([[EXO.25:31]]-39); now there are ten of each and one hundred golden bowls. This signifies the \"great quantity\" (v. 18) of blessings in Christ's kingdom. 5:1 Solomon's finished work on the temple will be fulfilled in Christ. 5:2-13 This passage foreshadows the falling asleep of the Theotokos, the Mother of God: \"The Ark of God departed from Mount Zion for the heavenly country, borne on the shoulders of the apostles. Angels overshadowed it with their wings, accompanying it, together with the whole assembly of the Church.... So is it now with the dwelling-place of the true ark, no longer of the testimony, but the very substance of God the Word. The new Solomon, the Prince of peace, the Creator of all things in the heavens and on the earth, assembled together today the supporters of the new covenant, that is the apostles, with all the people of the saints in Jerusalem, brought in her soul through angels to the true Holy of Holies\" (JohnDm). 5:13 As one: In His High Priestly Prayer, the Lord prays for the faithful, \"that they all may be one in Us\" ([[JOH.17:21]]). Hence at Divine Liturgy the faithful pray, \"And grant us with one mouth and one heart to glorify and praise Your all-honorable and majestic Name.\" 5:13-2 The glory of the Lord represents the divine nature of Christ, which is joined to His human nature, the house or temple of His body, in the Incarnation. 6:2 Just as Solomon built a house, so Jesus proclaimed, \"I will build My church\" (Mt 16:18). 7:1 Fire came down from heaven: this foreshadows Pentecost (see 3Kg 18:30-38; 1Ch",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "baptism",
+        "christology",
+        "covenant",
+        "creation_theology",
+        "logos",
+        "praise",
+        "prayer",
+        "priesthood",
+        "temple"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 9,
+        "title": "Example: The Cherubim of Ezekiel I",
+        "polarity": "generation",
+        "operation": "inform",
+        "scale": "intercommunal"
+      }
     }
   ]
 }

@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "If a man divorces his wife, and she goes from him to become another man's, may she turn back and return to him again? Would not such a woman be greatly defiled? But you committed fornication with many shepherds and have returned to Me,' says the Lord.",
   "pericope": {
     "id": "JER.P007",
@@ -12,7 +12,13 @@
     "range": "JER.2:37-3:4",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "eucharist",
+    "repentance",
+    "shepherd",
+    "suffering"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,14 +26,43 @@
       "line_number": 1450,
       "raw_match": "[[JER.3:1]]-5",
       "reference_type": "wikilink_range",
-      "context": "Fornication, committed by the kings of the earth with this harlot, is a metaphor for infidelity to the Lord ([[JER.3:1]]-5; Ezk 23; Hos 2). The vassal kingdoms within the Roman Empire have accepted the cults of Rome and her emperors and have solidified their obeisance with political and economic obligations--and have fallen into moral decadence. The wine of this fornication has made the inhabitants of the earth to become drunk, seduced and stupefied by a hideous eucharist of death, focused on the persecution and martyrdom of Christians (v. 6; see [[JER.28:7]])."
+      "context": "Fornication, committed by the kings of the earth with this harlot, is a metaphor for infidelity to the Lord ([[JER.3:1]]-5; Ezk 23; Hos 2). The vassal kingdoms within the Roman Empire have accepted the cults of Rome and her emperors and have solidified their obeisance with political and economic obligations--and have fallen into moral decadence. The wine of this fornication has made the inhabitants of the earth to become drunk, seduced and stupefied by a hideous eucharist of death, focused on the persecution and martyrdom of Christians (v. 6; see [[JER.28:7]]).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology",
+        "eucharist",
+        "repentance",
+        "shepherd",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/JDG_footnotes.md",
       "line_number": 453,
       "raw_match": "[[JER.3:1]]",
       "reference_type": "wikilink",
-      "context": "To \"play the harlot\" or take a concubine was an expression typically used to paint a prophetic picture of people following false gods, often Baal, whose followers often became involved in extreme sexual misconduct ([[HOS.4:1]]-6; [[JER.3:1]], [[JER.3:8]]; [[EZK.16:41]]; 23:44)."
+      "context": "To \"play the harlot\" or take a concubine was an expression typically used to paint a prophetic picture of people following false gods, often Baal, whose followers often became involved in extreme sexual misconduct ([[HOS.4:1]]-6; [[JER.3:1]], [[JER.3:8]]; [[EZK.16:41]]; 23:44).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "repentance",
+        "shepherd"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

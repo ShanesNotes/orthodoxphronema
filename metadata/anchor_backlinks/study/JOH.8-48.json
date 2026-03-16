@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Then the Jews answered and said to Him, 'Do we not say rightly that You are a Samaritan and have a demon?'",
   "pericope": {
     "id": "JOH.P028",
@@ -12,7 +12,9 @@
     "range": "JOH.8:36-8:50",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 1052,
       "raw_match": "[[JOH.8:48]]",
       "reference_type": "wikilink",
-      "context": "The Samaritan, while a despised foreigner, is an image of Christ ([[JOH.8:48]]), for He \"came down from heaven\" (Creed) to save even those in rebellion against Him."
+      "context": "The Samaritan, while a despised foreigner, is an image of Christ ([[JOH.8:48]]), for He \"came down from heaven\" (Creed) to save even those in rebellion against Him.",
+      "edge_type": "descends_to",
+      "topic_threads": [
+        "christology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

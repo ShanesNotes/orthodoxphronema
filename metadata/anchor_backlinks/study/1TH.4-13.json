@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "But I do not want you to be ignorant, brethren, concerning those who have fallen asleep, lest you sorrow as others who have no hope.",
   "pericope": {
     "id": "1TH.P007",
@@ -12,7 +12,12 @@
     "range": "1TH.4:12-4:17",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "faith",
+    "mercy",
+    "suffering"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,28 +25,67 @@
       "line_number": 549,
       "raw_match": "[[1TH.4:13]]",
       "reference_type": "wikilink",
-      "context": "Paul often uses I do not want you to be unaware or a similar formula (Rom 11:25; 12:1; [[2CO.1:8]]; [[COL.2:1]]; [[1TH.4:13]]) to introduce a matter vital to the Christian faith."
+      "context": "Paul often uses I do not want you to be unaware or a similar formula (Rom 11:25; 12:1; [[2CO.1:8]]; [[COL.2:1]]; [[1TH.4:13]]) to introduce a matter vital to the Christian faith.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology",
+        "faith"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 6,
+        "title": "The Universe As a Language",
+        "polarity": "generation",
+        "operation": "descend",
+        "scale": "communal"
+      }
     },
     {
       "source_file": "study/footnotes/NT/MAT_footnotes.md",
       "line_number": 2082,
       "raw_match": "[[1TH.4:13]]-17",
       "reference_type": "wikilink_range",
-      "context": "The Scriptures describe the end times in a variety of ways, so that no precise chronology can be determined (see Dan 7-12; Mk 13; Lk 21; [[1CO.15:51]]-55; [[1TH.4:13]]-17; [[2TH.2:1]]-10; and the Book of Revelation). The Lord's emphasis is on watchfulness and the practice of virtue rather than on constructing timetables of things that have not yet happened. In Matthew's account here, the end is described as encompassing (1) the initial sorrows (vv. 4-14), (2) the great tribulation (vv. 15-28), and (3) the coming of the Son of Man (vv. 29-31). The period of the great tribulation includes the entire Christian era and is not limited to the final years before Christ's return."
+      "context": "The Scriptures describe the end times in a variety of ways, so that no precise chronology can be determined (see Dan 7-12; Mk 13; Lk 21; [[1CO.15:51]]-55; [[1TH.4:13]]-17; [[2TH.2:1]]-10; and the Book of Revelation). The Lord's emphasis is on watchfulness and the practice of virtue rather than on constructing timetables of things that have not yet happened. In Matthew's account here, the end is described as encompassing (1) the initial sorrows (vv. 4-14), (2) the great tribulation (vv. 15-28), and (3) the coming of the Son of Man (vv. 29-31). The period of the great tribulation includes the entire Christian era and is not limited to the final years before Christ's return.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/NT/MAT_footnotes.md",
       "line_number": 2160,
       "raw_match": "[[1TH.4:13]]-18",
       "reference_type": "wikilink_range",
-      "context": "They will gather: See [[1TH.4:13]]-18."
+      "context": "They will gather: See [[1TH.4:13]]-18.",
+      "edge_type": "instantiates"
     },
     {
       "source_file": "study/footnotes/OT/SIR_footnotes.md",
       "line_number": 1182,
       "raw_match": "[[1TH.4:13]]",
       "reference_type": "wikilink",
-      "context": "Proper mourning for the dead is essential to the healing of our grief. An honorable burial for the departed was considered a great work of mercy in the ancient Church. Each parish had its volunteers who washed and dressed the body, making preparation for burial. We are warned not to allow our hearts to be grief-stricken (v. 18) so grief overpowers us, for some have even died from grief. Thus, St. Paul says we grieve, but not as those \"who have no hope\" ([[1TH.4:13]])."
+      "context": "Proper mourning for the dead is essential to the healing of our grief. An honorable burial for the departed was considered a great work of mercy in the ancient Church. Each parish had its volunteers who washed and dressed the body, making preparation for burial. We are warned not to allow our hearts to be grief-stricken (v. 18) so grief overpowers us, for some have even died from grief. Thus, St. Paul says we grieve, but not as those \"who have no hope\" ([[1TH.4:13]]).",
+      "edge_type": "witnesses",
+      "topic_threads": [
+        "mercy"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

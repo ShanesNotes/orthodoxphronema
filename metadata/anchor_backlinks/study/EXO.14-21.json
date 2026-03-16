@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Then Moses stretched out his hand over the sea; and the Lord carried back the sea by a strong south wind all that night and made the sea dry ground. Thus the waters were divided.",
   "pericope": {
     "id": "EXO.P028",
@@ -12,7 +12,15 @@
     "range": "EXO.13:22-15:18",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "baptism",
+    "christology",
+    "covenant",
+    "creation_theology",
+    "exodus_typology",
+    "shepherd",
+    "suffering"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,28 +28,80 @@
       "line_number": 702,
       "raw_match": "[[EXO.14:15]]-31",
       "reference_type": "wikilink_range",
-      "context": "This chapter parallels the story of the Passover and Exodus of Israel from Egypt in several important ways. (1) In the Exodus account (Ex 11-17), God first performed His signs against Pharaoh, then gave instructions on how to be saved at the time of the Passover ([[EXO.11:1]]-12:14). In this passage, the multitudes follow Christ because of His signs (v. 2), and this too takes place at Passover (v. 4). (2) In the Exodus, the Jews were said to eat unleavened bread because they were hastily driven out of Egypt and had brought no provisions for themselves ([[EXO.12:39]]). Here, Jesus feeds the multitudes with earthly bread because they had brought no provisions, having rushed out to see Him (vv. 2-14). (3) In the Exodus, Moses leads the people across the Red Sea, walking on dry ground in the midst of the water ([[EXO.14:15]]-31). Here, Christ sends His disciples across the sea (v. 17) and then walks on the sea (v. 19) as if it were dry ground. (4) In the Exodus, God fed His people manna and gave them drink from a miraculous water source ([[EXO.16:1]]-17:7). Here, Christ declares Himself to be the true food and drink, the true bread that has come down from heaven (vv. 48-58). These parallels show that Christ our God is the fulfillment of the old covenant, and that the breaking of His body and the shedding of His blood, which free mankind from the slavery of sin, fulfill the sacrifice of the Passover lambs (1:29), which brought the people out of slavery into the Promised Land."
+      "context": "This chapter parallels the story of the Passover and Exodus of Israel from Egypt in several important ways. (1) In the Exodus account (Ex 11-17), God first performed His signs against Pharaoh, then gave instructions on how to be saved at the time of the Passover ([[EXO.11:1]]-12:14). In this passage, the multitudes follow Christ because of His signs (v. 2), and this too takes place at Passover (v. 4). (2) In the Exodus, the Jews were said to eat unleavened bread because they were hastily driven out of Egypt and had brought no provisions for themselves ([[EXO.12:39]]). Here, Jesus feeds the multitudes with earthly bread because they had brought no provisions, having rushed out to see Him (vv. 2-14). (3) In the Exodus, Moses leads the people across the Red Sea, walking on dry ground in the midst of the water ([[EXO.14:15]]-31). Here, Christ sends His disciples across the sea (v. 17) and then walks on the sea (v. 19) as if it were dry ground. (4) In the Exodus, God fed His people manna and gave them drink from a miraculous water source ([[EXO.16:1]]-17:7). Here, Christ declares Himself to be the true food and drink, the true bread that has come down from heaven (vv. 48-58). These parallels show that Christ our God is the fulfillment of the old covenant, and that the breaking of His body and the shedding of His blood, which free mankind from the slavery of sin, fulfill the sacrifice of the Passover lambs (1:29), which brought the people out of slavery into the Promised Land.",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "covenant",
+        "exodus_typology",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/NT/REV_footnotes.md",
       "line_number": 1385,
       "raw_match": "[[EXO.14:21]]",
       "reference_type": "wikilink",
-      "context": "In 9:13-21 the Parthian Empire threatened the Roman Empire, as it had Israel. In this verse, the historical setting of ch. 9 is clarified: Rome will lose its natural defensive line (the Euphrates) and be punished by the kings from the east, the Parthians (see also 6:2; 17:12, 13). The OT miracles of crossing over a river on dry land ([[EXO.14:21]], [[EXO.14:22]]; Jos 3:17) are repeated (see also Is 11:15; [[JER.28:36]]; [[ZEC.10:11]])."
+      "context": "In 9:13-21 the Parthian Empire threatened the Roman Empire, as it had Israel. In this verse, the historical setting of ch. 9 is clarified: Rome will lose its natural defensive line (the Euphrates) and be punished by the kings from the east, the Parthians (see also 6:2; 17:12, 13). The OT miracles of crossing over a river on dry land ([[EXO.14:21]], [[EXO.14:22]]; Jos 3:17) are repeated (see also Is 11:15; [[JER.28:36]]; [[ZEC.10:11]]).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 6,
+        "title": "The Universe As a Language",
+        "polarity": "generation",
+        "operation": "descend",
+        "scale": "communal"
+      }
     },
     {
       "source_file": "study/footnotes/OT/2KI_footnotes.md",
       "line_number": 59,
       "raw_match": "[[EXO.14:16]]-23",
       "reference_type": "wikilink_range",
-      "context": "Moses foreshadowed baptism when he parted the Red Sea ([[EXO.14:16]]-23). Joshua parted the River Jordan with the ark of the covenant ([[JOS.3:13]]-17), and so did Elijah and Elisha when they struck the River Jordan with Elijah's mantle. \"O how great is the virtue of the Saints! Not only their words; not only their bodies, but even their very garments are always esteemed venerable by the whole creation. The sheepskin of this man divided the Jordan!\" (JohnChr)."
+      "context": "Moses foreshadowed baptism when he parted the Red Sea ([[EXO.14:16]]-23). Joshua parted the River Jordan with the ark of the covenant ([[JOS.3:13]]-17), and so did Elijah and Elisha when they struck the River Jordan with Elijah's mantle. \"O how great is the virtue of the Saints! Not only their words; not only their bodies, but even their very garments are always esteemed venerable by the whole creation. The sheepskin of this man divided the Jordan!\" (JohnChr).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "baptism",
+        "covenant",
+        "creation_theology",
+        "exodus_typology",
+        "shepherd"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/3MA_footnotes.md",
       "line_number": 124,
       "raw_match": "[[EXO.14:21]]-28",
       "reference_type": "wikilink_range",
-      "context": "The sea: See [[EXO.14:21]]-28."
+      "context": "The sea: See [[EXO.14:21]]-28.",
+      "edge_type": "instantiates",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 5,
+        "title": "Heaven and Earth: A Spiritual Perspective",
+        "polarity": "generation",
+        "operation": "inform",
+        "scale": "individual"
+      }
     }
   ]
 }

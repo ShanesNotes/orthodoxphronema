@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "When Jesus heard it, He marveled, and said to those who followed, 'Assuredly, I say to you, I have not found such great faith, not even in Israel!",
   "pericope": {
     "id": "MAT.P016",
@@ -12,7 +12,9 @@
     "range": "MAT.6:34-8:12",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "faith"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 553,
       "raw_match": "[[MAT.8:5]]-13",
       "reference_type": "wikilink_range",
-      "context": "This is the second sign (v. 54) reported in John's Gospel (see note at 2:1-11). Having revealed He can see into the hearts of people from a distance (1:45-48), the Lord now demonstrates He can heal from a distance, showing His divine power knows no earthly limits. While there are certain similarities between this sign and the miracle recorded in [[MAT.8:5]]-13, there are many crucial differences; these are clearly two different encounters."
+      "context": "This is the second sign (v. 54) reported in John's Gospel (see note at 2:1-11). Having revealed He can see into the hearts of people from a distance (1:45-48), the Lord now demonstrates He can heal from a distance, showing His divine power knows no earthly limits. While there are certain similarities between this sign and the miracle recorded in [[MAT.8:5]]-13, there are many crucial differences; these are clearly two different encounters.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "faith"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

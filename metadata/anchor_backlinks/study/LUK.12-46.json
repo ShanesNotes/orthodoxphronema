@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "the master of that servant will come on day when he is not looking for him, and at an hour when he is not aware, and will cut him in two and appoint him his portion with the unbelievers.",
   "pericope": {
     "id": "LUK.P061",
@@ -12,7 +12,10 @@
     "range": "LUK.12:34-12:47",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "faith"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 196,
       "raw_match": "[[LUK.12:42]]-48",
       "reference_type": "wikilink_range",
-      "context": "Christ echoes this passage in His parable of the good steward ([[LUK.12:42]]-48)."
+      "context": "Christ echoes this passage in His parable of the good steward ([[LUK.12:42]]-48).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology",
+        "faith"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "They shall be intoxicated with the fatness of Your house, And You will give them drink from the abundant water of Your delight.",
   "pericope": {
     "id": "PSA.P035",
@@ -12,7 +12,9 @@
     "range": "PSA.35:1-35:13",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "baptism"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,16 @@
       "line_number": 420,
       "raw_match": "[[PSA.35:9]]",
       "reference_type": "wikilink",
-      "context": "Samaria was the region to the north of Jerusalem, between Judea and Galilee. 4:6, 7 The OT does not mention Jacob's well, though Jacob did dwell in the area (Gn 33:19). Wells were significant because of their rarity and their value in desert life. Therefore, wells came to symbolize life itself ([[PSA.35:9]], [[PSA.35:10]]; 45:4; Is 55:1). This particular well is maintained as a shrine to this day, and pilgrims can drink from it. Jesus is wearied from His journey, showing His complete humanity. The sixth hour is noontime. This woman is identified in church tradition as St. Photini (see note at 4:28- 30)."
+      "context": "Samaria was the region to the north of Jerusalem, between Judea and Galilee. 4:6, 7 The OT does not mention Jacob's well, though Jacob did dwell in the area (Gn 33:19). Wells were significant because of their rarity and their value in desert life. Therefore, wells came to symbolize life itself ([[PSA.35:9]], [[PSA.35:10]]; 45:4; Is 55:1). This particular well is maintained as a shrine to this day, and pilgrims can drink from it. Jesus is wearied from His journey, showing His complete humanity. The sixth hour is noontime. This woman is identified in church tradition as St. Photini (see note at 4:28- 30).",
+      "edge_type": "instantiates",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

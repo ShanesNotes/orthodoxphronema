@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "For these are not drunk, as you suppose, since it is only the third hour of the day.",
   "pericope": {
     "id": "ACT.P006",
@@ -12,7 +12,12 @@
     "range": "ACT.2:15-2:20",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "baptism",
+    "creation_theology",
+    "mercy",
+    "praise"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +25,22 @@
       "line_number": 442,
       "raw_match": "[[ACT.2:13]]-17",
       "reference_type": "wikilink_range",
-      "context": "Ps 35 reveals the right and wrong uses of free will and the fruits that result in either case. First, it shows that sin or evil is an action of man's free will (says within himself, v. 2; acts deceitfully, lest He discover, v. 3; is unwilling, v. 4; devises, sets himself, and does not abhor, v. 5). Therefore, sin or evil is not a part of human essence or nature, for God created human nature good in itself. Sinning is altogether the wrong use of free will, and the most dangerous wrong use is arrogance, which often comes against the saints (v. 12). But such a wrong use ultimately brings down the lawless (fall there and unable to stand, v. 13). Second, this psalm reveals the proper use of free will, which is to seek out and hope (v. 8) for God's mercy (vv. 6, 11), His truth (v. 6), His righteousness (vv. 7, 11), and His judgments (v. 7). Also with free will, the upright in heart (v. 11) may be intoxicated by drinking the abundant water (v. 9) that flows from the fountain and by seeing the light which is in light (v. 10). The fountain is the Father, and the Son is the water, the light, and the life that goes forth from this fountain. Those who willingly drink of this water in baptism, and who see this light, partake of life and light (see also [[JOH.1:4]]), and also become intoxicated with the Holy Spirit (the fatness, v. 9; see also [[JOH.7:37]]-39; [[ACT.2:13]]-17; [[EPH.5:18]])."
+      "context": "Ps 35 reveals the right and wrong uses of free will and the fruits that result in either case. First, it shows that sin or evil is an action of man's free will (says within himself, v. 2; acts deceitfully, lest He discover, v. 3; is unwilling, v. 4; devises, sets himself, and does not abhor, v. 5). Therefore, sin or evil is not a part of human essence or nature, for God created human nature good in itself. Sinning is altogether the wrong use of free will, and the most dangerous wrong use is arrogance, which often comes against the saints (v. 12). But such a wrong use ultimately brings down the lawless (fall there and unable to stand, v. 13). Second, this psalm reveals the proper use of free will, which is to seek out and hope (v. 8) for God's mercy (vv. 6, 11), His truth (v. 6), His righteousness (vv. 7, 11), and His judgments (v. 7). Also with free will, the upright in heart (v. 11) may be intoxicated by drinking the abundant water (v. 9) that flows from the fountain and by seeing the light which is in light (v. 10). The fountain is the Father, and the Son is the water, the light, and the life that goes forth from this fountain. Those who willingly drink of this water in baptism, and who see this light, partake of life and light (see also [[JOH.1:4]]), and also become intoxicated with the Holy Spirit (the fatness, v. 9; see also [[JOH.7:37]]-39; [[ACT.2:13]]-17; [[EPH.5:18]]).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "baptism",
+        "creation_theology",
+        "mercy",
+        "praise"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

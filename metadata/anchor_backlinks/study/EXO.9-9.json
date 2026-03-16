@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "and let it become dust in all the land of Egypt, and it will cause boils to break out in sores on man and beast throughout all the land of Egypt.'",
   "pericope": {
     "id": "EXO.P015",
@@ -12,7 +12,9 @@
     "range": "EXO.9:7-9:11",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "exodus_typology"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 1350,
       "raw_match": "[[EXO.9:8]]-11",
       "reference_type": "wikilink_range",
-      "context": "The first bowl is poured out, and the mark of the beast breaks out on those who received it in foul and loathsome sores, like the sixth plague of [[EXO.9:8]]-11. The second (v. 3) and third (v. 4) bowls are like the first plague ([[EXO.7:20]]-21; see [[REV.8:8]]-11)."
+      "context": "The first bowl is poured out, and the mark of the beast breaks out on those who received it in foul and loathsome sores, like the sixth plague of [[EXO.9:8]]-11. The second (v. 3) and third (v. 4) bowls are like the first plague ([[EXO.7:20]]-21; see [[REV.8:8]]-11).",
+      "edge_type": "opposes",
+      "topic_threads": [
+        "exodus_typology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

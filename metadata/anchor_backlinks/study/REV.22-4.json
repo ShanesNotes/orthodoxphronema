@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "They shall see His face, and His name shall be on their foreheads.",
   "pericope": {
     "id": "REV.P062",
@@ -12,7 +12,10 @@
     "range": "REV.21:21-22:4",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "baptism",
+    "christology"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,14 +23,39 @@
       "line_number": 710,
       "raw_match": "[[REV.22:4]]",
       "reference_type": "wikilink",
-      "context": "The name of the city is the New Jerusalem ([[REV.3:12]]), the Church, which has been and is now \"continuing\" ([[HEB.13:14]]) from the day on which Christ took His place in her midst. On the final day, when the Lord comes for His Bride, those who overcome will receive a \"new name\" ([[REV.2:17]])--the name of Christ revealed--on their foreheads ([[REV.22:4]])."
+      "context": "The name of the city is the New Jerusalem ([[REV.3:12]]), the Church, which has been and is now \"continuing\" ([[HEB.13:14]]) from the day on which Christ took His place in her midst. On the final day, when the Lord comes for His Bride, those who overcome will receive a \"new name\" ([[REV.2:17]])--the name of Christ revealed--on their foreheads ([[REV.22:4]]).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/ZEC_footnotes.md",
       "line_number": 491,
       "raw_match": "[[REV.22:1]]-5",
       "reference_type": "wikilink_range",
-      "context": "Christ is the living water ([[JOH.4:10]]-14). In the Apocalypse, a river runs through the Holy City ([[REV.22:1]]-5). The Garden of Eden was at the headwaters of four great rivers ([[GEN.2:10]]-15). In the garden of Paradise, Christ is the living water who sustains, refreshes, and gives life to the inhabitants."
+      "context": "Christ is the living water ([[JOH.4:10]]-14). In the Apocalypse, a river runs through the Holy City ([[REV.22:1]]-5). The Garden of Eden was at the headwaters of four great rivers ([[GEN.2:10]]-15). In the garden of Paradise, Christ is the living water who sustains, refreshes, and gives life to the inhabitants.",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "baptism",
+        "christology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "And if anyone hears My words and does not believe, I do not judge him; for I did not come to judge the world but to save the world.",
   "pericope": {
     "id": "JOH.P046",
@@ -12,7 +12,13 @@
     "range": "JOH.12:43-12:49",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "faith",
+    "judgment",
+    "mercy",
+    "repentance"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,14 +26,46 @@
       "line_number": 375,
       "raw_match": "[[JOH.12:47]]",
       "reference_type": "wikilink",
-      "context": "\"For the goodness and the loving-kindness of God, and His boundless riches, hold righteous and sinless the man who, as Ezekiel tells, repents of sins; and reckons sinful, unrighteous, and impious the man who falls away from piety and righteousness to unrighteousness and ungodliness. Wherefore also our Lord Jesus Christ said, 'In whatsoever things I shall take you, in these I shall judge you'\" (Justin; compare [[JOH.12:47]], [[JOH.12:48]])."
+      "context": "\"For the goodness and the loving-kindness of God, and His boundless riches, hold righteous and sinless the man who, as Ezekiel tells, repents of sins; and reckons sinful, unrighteous, and impious the man who falls away from piety and righteousness to unrighteousness and ungodliness. Wherefore also our Lord Jesus Christ said, 'In whatsoever things I shall take you, in these I shall judge you'\" (Justin; compare [[JOH.12:47]], [[JOH.12:48]]).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology",
+        "faith",
+        "judgment",
+        "mercy",
+        "repentance"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 9,
+        "title": "Example: The Cherubim of Ezekiel I",
+        "polarity": "generation",
+        "operation": "inform",
+        "scale": "intercommunal"
+      }
     },
     {
       "source_file": "study/footnotes/OT/ISA_footnotes.md",
       "line_number": 897,
       "raw_match": "[[JOH.12:47]]",
       "reference_type": "wikilink",
-      "context": "Christ said, \"I did not come to judge the world but to save the world\" ([[JOH.12:47]]). God judges sin and shows mercy to those who repent. The cup of destruction is God's chastisement."
+      "context": "Christ said, \"I did not come to judge the world but to save the world\" ([[JOH.12:47]]). God judges sin and shows mercy to those who repent. The cup of destruction is God's chastisement.",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "faith",
+        "judgment",
+        "mercy",
+        "repentance"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

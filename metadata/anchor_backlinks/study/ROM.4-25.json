@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "who was delivered up because of our offenses, and was raised because of our justification.",
   "pericope": {
     "id": "ROM.P012",
@@ -12,7 +12,11 @@
     "range": "ROM.4:24-5:20",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "faith",
+    "logos"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +24,21 @@
       "line_number": 503,
       "raw_match": "[[ROM.4:17]]-25",
       "reference_type": "wikilink_range",
-      "context": "The Voice of the Lord is also the Word of the Father. He reassures Abraham that his heir will come from your own body. This refers to the birth of Isaac, based on God's promise. For man is saved by this promise through faith in Christ ([[ROM.4:17]]-25; 9:7, 8)."
+      "context": "The Voice of the Lord is also the Word of the Father. He reassures Abraham that his heir will come from your own body. This refers to the birth of Isaac, based on God's promise. For man is saved by this promise through faith in Christ ([[ROM.4:17]]-25; 9:7, 8).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "faith",
+        "logos"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

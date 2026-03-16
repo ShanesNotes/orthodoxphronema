@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-15T23:42:04+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Behold, the days of the Lord come, and your plunder will be divided among you.",
   "pericope": {
     "id": "ZEC.P018",
@@ -20,7 +20,16 @@
       "line_number": 12,
       "raw_match": "[[ZEC.14:1]]",
       "reference_type": "wikilink",
-      "context": "**14:1** \u2014 [[ZEC.14:1]], [[ZEC.14:4]]; 8\u201311: This passage is read at Vespers of the Feast of the Ascension of the Lord."
+      "context": "**14:1** \u2014 [[ZEC.14:1]], [[ZEC.14:4]]; 8\u201311: This passage is read at Vespers of the Feast of the Ascension of the Lord.",
+      "edge_type": "echoes",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

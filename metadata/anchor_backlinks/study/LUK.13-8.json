@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "But he answered and said to him, 'Sir, let it alone this year also, until I dig around it and fertilize it.",
   "pericope": {
     "id": "LUK.P064",
@@ -12,7 +12,12 @@
     "range": "LUK.13:5-13:8",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "baptism",
+    "christology",
+    "eucharist",
+    "suffering"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +25,22 @@
       "line_number": 215,
       "raw_match": "[[LUK.13:6]]-9",
       "reference_type": "wikilink_range",
-      "context": "The trees bear their fruit: In this verse Joel foreshadows the cross of Christ, the tree which bore the greatest fruit of all. The vine and the fig tree refer to the establishment of the Church (see [[ROM.11:17]]-24; [[JOH.15:1]]; [[LUK.13:6]]-9). Rain, wheat, wine, and oil refer to the food that is right for you, namely the sacraments of Holy Baptism, the Eucharist, and the sealing of the Holy Spirit."
+      "context": "The trees bear their fruit: In this verse Joel foreshadows the cross of Christ, the tree which bore the greatest fruit of all. The vine and the fig tree refer to the establishment of the Church (see [[ROM.11:17]]-24; [[JOH.15:1]]; [[LUK.13:6]]-9). Rain, wheat, wine, and oil refer to the food that is right for you, namely the sacraments of Holy Baptism, the Eucharist, and the sealing of the Holy Spirit.",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "baptism",
+        "christology",
+        "eucharist",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

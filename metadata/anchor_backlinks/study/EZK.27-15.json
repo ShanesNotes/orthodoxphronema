@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "The sons of Rodians were your traders. From the coastlands they multiplied your trade in ivory.",
   "pericope": {
     "id": "EZK.P041",
@@ -12,7 +12,9 @@
     "range": "EZK.26:21-27:34",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 1554,
       "raw_match": "[[EZK.27:12]]-25",
       "reference_type": "wikilink_range",
-      "context": "Like the political leaders (vv. 9, 10), the economic leaders, the merchants, stand astonished at Rome's sudden destruction and their own loss of revenues. Verses 11-13 list luxury items in Rome's flow of trade (see [[EZK.27:12]]-25). It was said by the rabbis that \"ten measures of wealth came down into the world; Rome received nine and all the world received one.\" These goods together with their profit made Rome queen (v. 7) of the world. While worldly possessions are not in themselves good or bad, their misuse leads to sin, complacency, and a fatal lack of poverty of spirit (see 3:17- 20). Therefore, excessive wealth easily conflicts with authentic Christian discipleship (see [[MAT.6:24]]). The last item in this list, bodies and souls (v. 13), refers to slaves sold at auction as human livestock for domestic service, prostitution, and gladiatorial amusements."
+      "context": "Like the political leaders (vv. 9, 10), the economic leaders, the merchants, stand astonished at Rome's sudden destruction and their own loss of revenues. Verses 11-13 list luxury items in Rome's flow of trade (see [[EZK.27:12]]-25). It was said by the rabbis that \"ten measures of wealth came down into the world; Rome received nine and all the world received one.\" These goods together with their profit made Rome queen (v. 7) of the world. While worldly possessions are not in themselves good or bad, their misuse leads to sin, complacency, and a fatal lack of poverty of spirit (see 3:17- 20). Therefore, excessive wealth easily conflicts with authentic Christian discipleship (see [[MAT.6:24]]). The last item in this list, bodies and souls (v. 13), refers to slaves sold at auction as human livestock for domestic service, prostitution, and gladiatorial amusements.",
+      "edge_type": "opposes",
+      "topic_threads": [
+        "christology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

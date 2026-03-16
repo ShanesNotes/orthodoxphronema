@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Then the Lord said to Moses, 'Stretch out your hand toward heaven and let there be darkness over the land of Egypt, a darkness that may be felt.'",
   "pericope": {
     "id": "EXO.P018",
@@ -12,7 +12,11 @@
     "range": "EXO.10:20-10:28",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "exodus_typology",
+    "kingdom",
+    "resurrection"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,14 +24,40 @@
       "line_number": 815,
       "raw_match": "[[EXO.10:21]]-29",
       "reference_type": "wikilink_range",
-      "context": "A three-day period of darkness was the ninth Egyptian plague ([[EXO.10:21]]-29). An unnatural darkness is one of the signs of the end of days ([[MRK.13:24]]). Darkening of the sun, moon, and stars portends cosmic catastrophe. The darkness is partial to indicate it is a warning. 9:1, 2 While the star may refer to an angel, the same angel as the one of 20:1 (such symbolism was known in Judaism: see [[JOB.38:7]]; also 1En 21:6), it may also represent the fallen world powers (see Jude 13), a fallen angel ([[LUK.10:18]]), or Satan himself (9:11; Is 14:12-15). His \"fall\" may mean \"descent\": an angel is sent from heaven by God to unlock the bottomless pit, the abyss below the earth, the place of confinement for evil spirits (11:7; 17:8; 20:1-3; also [[LUK.8:31]]). The smoke from the pit causes a darkness on the earth; this may symbolize the spiritual darkness covering the earth during the last times. Compare with 1:18, in which the key to death and Hades is given to the Risen One."
+      "context": "A three-day period of darkness was the ninth Egyptian plague ([[EXO.10:21]]-29). An unnatural darkness is one of the signs of the end of days ([[MRK.13:24]]). Darkening of the sun, moon, and stars portends cosmic catastrophe. The darkness is partial to indicate it is a warning. 9:1, 2 While the star may refer to an angel, the same angel as the one of 20:1 (such symbolism was known in Judaism: see [[JOB.38:7]]; also 1En 21:6), it may also represent the fallen world powers (see Jude 13), a fallen angel ([[LUK.10:18]]), or Satan himself (9:11; Is 14:12-15). His \"fall\" may mean \"descent\": an angel is sent from heaven by God to unlock the bottomless pit, the abyss below the earth, the place of confinement for evil spirits (11:7; 17:8; 20:1-3; also [[LUK.8:31]]). The smoke from the pit causes a darkness on the earth; this may symbolize the spiritual darkness covering the earth during the last times. Compare with 1:18, in which the key to death and Hades is given to the Risen One.",
+      "edge_type": "ascends_from",
+      "topic_threads": [
+        "exodus_typology",
+        "resurrection"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 5,
+        "title": "Heaven and Earth: A Spiritual Perspective",
+        "polarity": "generation",
+        "operation": "inform",
+        "scale": "individual"
+      }
     },
     {
       "source_file": "study/footnotes/NT/REV_footnotes.md",
       "line_number": 1375,
       "raw_match": "[[EXO.10:21]]-29",
       "reference_type": "wikilink_range",
-      "context": "The plague of darkness is similar to the ninth Egyptian plague ([[EXO.10:21]]-29). Here the throne is Rome (in contrast to 2:13), and the kingdom is the empire. Satan has shared his dominion with \"the beast from the land,\" the false prophet (13:2)."
+      "context": "The plague of darkness is similar to the ninth Egyptian plague ([[EXO.10:21]]-29). Here the throne is Rome (in contrast to 2:13), and the kingdom is the empire. Satan has shared his dominion with \"the beast from the land,\" the false prophet (13:2).",
+      "edge_type": "opposes",
+      "topic_threads": [
+        "exodus_typology",
+        "kingdom"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Yet I heard the sound of his words; and when I heard him, I was deeply troubled with my face on the ground.",
   "pericope": {
     "id": "DAN.P030",
@@ -12,7 +12,13 @@
     "range": "DAN.10:9-11:3",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "baptism",
+    "christology",
+    "divine_light",
+    "praise",
+    "resurrection"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +26,23 @@
       "line_number": 168,
       "raw_match": "[[DAN.10:7]]-9",
       "reference_type": "wikilink_range",
-      "context": "Mortal humanity cannot bear the revelation of divine glory, a frequent biblical theme (see [[EXO.19:21]]; 33:20; Is 6:5). Just as he fell prostrate at Mount Tabor ([[MAT.17:6]]), so also does John here, in the presence of the glorified Savior (see [[EZK.1:27]]; [[DAN.10:7]]-9; see also 1En 14:24). Do not be afraid is a revelatory formula from the OT. As a signal for the theophany, it was carried over into the NT (see the Annunciation, [[LUK.1:30]]; Jesus walking upon the water, [[MAT.14:27]]--\"Fear not, I AM\"; the Transfiguration, [[MAT.17:7]]). In the OT God was called \"the first and the last\" (Is 44:6; 48:12), and so, too, is the Messiah. Some early heresies (e.g. Docetism) held that Jesus only seemed to die. But the Lord Himself testified, I... was dead, affirming the authenticity of His death; alive forevermore, His Resurrection--the power of which effects His lordship over death and its realm. The Orthodox icon of the resurrected Christ depicts Him with these keys (v. 18) in hand, standing triumphantly on the open gates of Hades."
+      "context": "Mortal humanity cannot bear the revelation of divine glory, a frequent biblical theme (see [[EXO.19:21]]; 33:20; Is 6:5). Just as he fell prostrate at Mount Tabor ([[MAT.17:6]]), so also does John here, in the presence of the glorified Savior (see [[EZK.1:27]]; [[DAN.10:7]]-9; see also 1En 14:24). Do not be afraid is a revelatory formula from the OT. As a signal for the theophany, it was carried over into the NT (see the Annunciation, [[LUK.1:30]]; Jesus walking upon the water, [[MAT.14:27]]--\"Fear not, I AM\"; the Transfiguration, [[MAT.17:7]]). In the OT God was called \"the first and the last\" (Is 44:6; 48:12), and so, too, is the Messiah. Some early heresies (e.g. Docetism) held that Jesus only seemed to die. But the Lord Himself testified, I... was dead, affirming the authenticity of His death; alive forevermore, His Resurrection--the power of which effects His lordship over death and its realm. The Orthodox icon of the resurrected Christ depicts Him with these keys (v. 18) in hand, standing triumphantly on the open gates of Hades.",
+      "edge_type": "echoes",
+      "topic_threads": [
+        "baptism",
+        "christology",
+        "divine_light",
+        "praise",
+        "resurrection"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

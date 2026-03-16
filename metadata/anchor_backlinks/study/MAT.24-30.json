@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Then the sign of the Son of Man will appear in heaven, and then all the tribes of the earth will mourn, and they will see the Son of Man coming on the clouds of heaven with power and great glory.",
   "pericope": {
     "id": "MAT.P077",
@@ -12,7 +12,12 @@
     "range": "MAT.24:14-24:47",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "covenant",
+    "kingdom",
+    "priesthood"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,21 +25,60 @@
       "line_number": 129,
       "raw_match": "[[MAT.24:30]]",
       "reference_type": "wikilink",
-      "context": "One like the Son of Man recalls Daniel's messianic figure ([[DAN.7:13]]--repeated by Stephen at his martyrdom, [[ACT.7:56]]). Christ called Himself Son of Man (see especially [[MAT.24:30]]ff.), for He is the fulfillment of Daniel's prophecy. Additional parallels may be seen in both the Old and New Testaments ([[DAN.10:6]]; [[MAT.17:2]]; [[EPH.6:17]]; [[HEB.4:12]]). We also see Him vested in high-priestly garments (see [[EXO.28:4]]; 29:5; Lv 16:4; WSol 18:24; [[ZEC.3:4]], [[ZEC.3:5]]). The gold with which He is girded is both royal (1Mc 10:89) and priestly."
+      "context": "One like the Son of Man recalls Daniel's messianic figure ([[DAN.7:13]]--repeated by Stephen at his martyrdom, [[ACT.7:56]]). Christ called Himself Son of Man (see especially [[MAT.24:30]]ff.), for He is the fulfillment of Daniel's prophecy. Additional parallels may be seen in both the Old and New Testaments ([[DAN.10:6]]; [[MAT.17:2]]; [[EPH.6:17]]; [[HEB.4:12]]). We also see Him vested in high-priestly garments (see [[EXO.28:4]]; 29:5; Lv 16:4; WSol 18:24; [[ZEC.3:4]], [[ZEC.3:5]]). The gold with which He is girded is both royal (1Mc 10:89) and priestly.",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "covenant",
+        "priesthood"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 2,
+        "title": "Coming Full Circle: The Copernican Revolution",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/NT/REV_footnotes.md",
       "line_number": 693,
       "raw_match": "[[MAT.24:30]]",
       "reference_type": "wikilink",
-      "context": "The sixth seal represents the cosmic disturbances that often accompany descriptions of \"the day of the Lord,\" the return of Christ ([[JOL.3:3]], [[JOL.3:4]]; [[MAT.24:29]], [[MAT.24:30]]; and parallels). People in rebellion against God (v. 15) are terror-stricken before God's judgmental wrath."
+      "context": "The sixth seal represents the cosmic disturbances that often accompany descriptions of \"the day of the Lord,\" the return of Christ ([[JOL.3:3]], [[JOL.3:4]]; [[MAT.24:29]], [[MAT.24:30]]; and parallels). People in rebellion against God (v. 15) are terror-stricken before God's judgmental wrath.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 2,
+        "title": "Coming Full Circle: The Copernican Revolution",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/ISA_footnotes.md",
       "line_number": 485,
       "raw_match": "[[MAT.24:30]]",
       "reference_type": "wikilink",
-      "context": "Eyes set on the kingdom of heaven will behold Christ in His glory ([[MAT.24:30]])."
+      "context": "Eyes set on the kingdom of heaven will behold Christ in His glory ([[MAT.24:30]]).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "kingdom"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 2,
+        "title": "Coming Full Circle: The Copernican Revolution",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

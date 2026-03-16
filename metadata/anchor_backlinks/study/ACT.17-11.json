@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "These were more fair-minded than those in Thessalonica, in that they received the word with all readiness, and searched the Scriptures daily to find out whether these things were so.",
   "pericope": {
     "id": "ACT.P062",
@@ -12,7 +12,10 @@
     "range": "ACT.17:9-17:14",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "logos"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,14 +23,38 @@
       "line_number": 134,
       "raw_match": "[[ACT.17:11]]",
       "reference_type": "wikilink",
-      "context": "The appeal to search the king's treasure house to find the king's decree parallels the Church's readiness to search the Scriptures ([[JOH.5:39]]; [[ACT.17:11]]). Appealing to the Scriptures is how Jesus and His apostles demonstrated His genuine claim to be the Christ, the incarnate Son of God ([[LUK.24:27]]; [[ACT.17:2]], [[ACT.17:11]]; 18:28). Interestingly, the appeal to the Scriptures was also one of the ways Jesus' enemies tried to malign Him ([[MAT.4:6]]; Jn"
+      "context": "The appeal to search the king's treasure house to find the king's decree parallels the Church's readiness to search the Scriptures ([[JOH.5:39]]; [[ACT.17:11]]). Appealing to the Scriptures is how Jesus and His apostles demonstrated His genuine claim to be the Christ, the incarnate Son of God ([[LUK.24:27]]; [[ACT.17:2]], [[ACT.17:11]]; 18:28). Interestingly, the appeal to the Scriptures was also one of the ways Jesus' enemies tried to malign Him ([[MAT.4:6]]; Jn",
+      "edge_type": "descends_to",
+      "topic_threads": [
+        "christology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/EZR_footnotes.md",
       "line_number": 136,
       "raw_match": "[[ACT.17:11]]",
       "reference_type": "wikilink",
-      "context": "The appeal to search the king's treasure house to find the king's decree parallels the Church's readiness to search the Scriptures ([[JOH.5:39]]; [[ACT.17:11]]). Appealing to the Scriptures is how Jesus and His apostles demonstrated His genuine claim to be the Christ, the incarnate Son of God ([[LUK.24:27]]; [[ACT.17:2]], [[ACT.17:11]]; 18:28). Interestingly, the appeal to the Scriptures was also one of the ways Jesus' enemies tried to malign Him ([[MAT.4:6]]; Jn"
+      "context": "The appeal to search the king's treasure house to find the king's decree parallels the Church's readiness to search the Scriptures ([[JOH.5:39]]; [[ACT.17:11]]). Appealing to the Scriptures is how Jesus and His apostles demonstrated His genuine claim to be the Christ, the incarnate Son of God ([[LUK.24:27]]; [[ACT.17:2]], [[ACT.17:11]]; 18:28). Interestingly, the appeal to the Scriptures was also one of the ways Jesus' enemies tried to malign Him ([[MAT.4:6]]; Jn",
+      "edge_type": "descends_to",
+      "topic_threads": [
+        "christology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

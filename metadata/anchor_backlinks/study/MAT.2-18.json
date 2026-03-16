@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "'A voice was heard in Ramah, Lamentation, weeping, and great mourning, Rachel weeping for her children, Refusing to be comforted, Because they are no more.'",
   "pericope": {
     "id": "MAT.P005",
@@ -12,7 +12,13 @@
     "range": "MAT.2:18-2:22",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "eschatology",
+    "judgment",
+    "mercy",
+    "prayer"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,21 +26,57 @@
       "line_number": 1554,
       "raw_match": "[[MAT.2:18]]",
       "reference_type": "wikilink",
-      "context": "Some Fathers see this parable being set after the final judgment, citing the punishment and reward being received by the two men respectively. Others see this parable set at a time after death but before the second coming of Christ, as evidenced by the man interceding on behalf of his brothers who are still living. The torment he is experiencing would be but a foretaste of his final state. From this perspective, we learn that souls of the departed have awareness of and concern for the state of those still alive on earth (see 9:30, 31; 2Mc 15:12-16; [[MAT.2:18]]), but also that the intercessions of a wicked man are heard, but avail nothing (contrast [[JAS.5:16]])."
+      "context": "Some Fathers see this parable being set after the final judgment, citing the punishment and reward being received by the two men respectively. Others see this parable set at a time after death but before the second coming of Christ, as evidenced by the man interceding on behalf of his brothers who are still living. The torment he is experiencing would be but a foretaste of his final state. From this perspective, we learn that souls of the departed have awareness of and concern for the state of those still alive on earth (see 9:30, 31; 2Mc 15:12-16; [[MAT.2:18]]), but also that the intercessions of a wicked man are heard, but avail nothing (contrast [[JAS.5:16]]).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology",
+        "eschatology",
+        "judgment",
+        "prayer"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/2MA_footnotes.md",
       "line_number": 223,
       "raw_match": "[[MAT.2:16]]-18",
       "reference_type": "wikilink_range",
-      "context": "One is reminded of Herod's destruction of the innocent children without mercy at the time of the birth of Jesus ([[MAT.2:16]]-18)."
+      "context": "One is reminded of Herod's destruction of the innocent children without mercy at the time of the birth of Jesus ([[MAT.2:16]]-18).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "mercy"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/RUT_footnotes.md",
       "line_number": 60,
       "raw_match": "[[MAT.2:16]]-18",
       "reference_type": "wikilink_range",
-      "context": "Lamenting in Bethlehem over the loss of her children in Moab, Naomi prefigures Rachel, who would later lament over the loss of her children to Babylon ([[JER.31:15]]) and over the children slain by Herod ([[MAT.2:16]]-18). See 4:11."
+      "context": "Lamenting in Bethlehem over the loss of her children in Moab, Naomi prefigures Rachel, who would later lament over the loss of her children to Babylon ([[JER.31:15]]) and over the children slain by Herod ([[MAT.2:16]]-18). See 4:11.",
+      "edge_type": "fulfills",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

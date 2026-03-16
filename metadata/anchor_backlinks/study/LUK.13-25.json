@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "When once the Master of the house has risen up and shut the door, and you begin to stand outside and knock at the door, saying, 'Lord, Lord, open for us,' and He will answer and say to you, 'I do not know you, where you are from,'",
   "pericope": {
     "id": "LUK.P067",
@@ -12,7 +12,13 @@
     "range": "LUK.13:21-13:29",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "eschatology",
+    "eucharist",
+    "kingdom",
+    "resurrection"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,14 +26,42 @@
       "line_number": 800,
       "raw_match": "[[LUK.13:24]]-30",
       "reference_type": "wikilink_range",
-      "context": "The description of the two ways was widespread in Judaism ([[DEU.30:15]]-20; Ps 1; Pr 4:17, 18; 12:28; 15:23; WSir 15:17) and in early Christian writings (Didache, Barnabas). Luke's version ([[LUK.13:24]]-30) is more eschatological, referring to the end of the age. Because we wrestle against sins and human weaknesses as well as spiritual forces of evil ([[EPH.6:12]]), entering the Kingdom is the more difficult way."
+      "context": "The description of the two ways was widespread in Judaism ([[DEU.30:15]]-20; Ps 1; Pr 4:17, 18; 12:28; 15:23; WSir 15:17) and in early Christian writings (Didache, Barnabas). Luke's version ([[LUK.13:24]]-30) is more eschatological, referring to the end of the age. Because we wrestle against sins and human weaknesses as well as spiritual forces of evil ([[EPH.6:12]]), entering the Kingdom is the more difficult way.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology",
+        "eschatology",
+        "resurrection"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/NT/REV_footnotes.md",
       "line_number": 482,
       "raw_match": "[[LUK.13:25]]-30",
       "reference_type": "wikilink_range",
-      "context": "I will... dine with him if there is cooperation, the synergy of an open door. God does not force anyone to cooperate with Him. He keeps knocking, awaiting a response. This promise looks toward both the messianic banquet, the wedding supper of the Lamb of God (19:9; [[LUK.22:30]]), and the Holy Eucharist, which is a foretaste of the heavenly feast. Faithful disciples are promised they will eat and drink at table with Him ([[LUK.22:28]]-30) in the ultimate reality of the Kingdom of heaven. Note the parallels with the parable of the bridegroom ([[MAT.25:1]]-13) and with the teaching about those who will shut themselves out of the feast of the Kingdom ([[LUK.13:25]]-30)."
+      "context": "I will... dine with him if there is cooperation, the synergy of an open door. God does not force anyone to cooperate with Him. He keeps knocking, awaiting a response. This promise looks toward both the messianic banquet, the wedding supper of the Lamb of God (19:9; [[LUK.22:30]]), and the Holy Eucharist, which is a foretaste of the heavenly feast. Faithful disciples are promised they will eat and drink at table with Him ([[LUK.22:28]]-30) in the ultimate reality of the Kingdom of heaven. Note the parallels with the parable of the bridegroom ([[MAT.25:1]]-13) and with the teaching about those who will shut themselves out of the feast of the Kingdom ([[LUK.13:25]]-30).",
+      "edge_type": "echoes",
+      "topic_threads": [
+        "eucharist",
+        "kingdom",
+        "resurrection"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

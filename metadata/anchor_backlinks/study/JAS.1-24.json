@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "for he observes himself, goes away, and immediately forgets what kind of man he was.",
   "pericope": {
     "id": "JAS.P004",
@@ -12,7 +12,10 @@
     "range": "JAS.1:18-1:26",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "creation_theology",
+    "theosis"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 173,
       "raw_match": "[[JAS.1:23]]-25",
       "reference_type": "wikilink_range",
-      "context": "The work of the Holy Spirit brings liberty (v. 17), freeing us to behold God and have open access to Him. Created as the image of God, we see His uncreated image, the Son, the glory of the Lord (v. 18; see 4:4-6), in two ways: (1) through the Son's deified humanity (see [[1CO.13:12]]; [[JAS.1:23]]-25) and (2) in the power of the Spirit. As we behold Him, we become what we were created to be. God is infinite; therefore, growing in His image and glory has no limits. We shall ever see God more clearly and ever be transformed into His likeness."
+      "context": "The work of the Holy Spirit brings liberty (v. 17), freeing us to behold God and have open access to Him. Created as the image of God, we see His uncreated image, the Son, the glory of the Lord (v. 18; see 4:4-6), in two ways: (1) through the Son's deified humanity (see [[1CO.13:12]]; [[JAS.1:23]]-25) and (2) in the power of the Spirit. As we behold Him, we become what we were created to be. God is infinite; therefore, growing in His image and glory has no limits. We shall ever see God more clearly and ever be transformed into His likeness.",
+      "edge_type": "ascends_from",
+      "topic_threads": [
+        "creation_theology",
+        "theosis"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

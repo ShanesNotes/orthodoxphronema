@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "You brought all the produce into the storehouses-but it will be plundered in its house. Return now in this,' says the Lord Almighty, 'and see if I will not open for you the floodgates of heaven and pour out for you a blessing until it is overflowing.",
   "pericope": {
     "id": "MAL.P006",
@@ -12,7 +12,9 @@
     "range": "MAL.3:7-3:17",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "temple"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 77,
       "raw_match": "[[MAL.3:8]]-12",
       "reference_type": "wikilink_range",
-      "context": "Starting with Abraham ([[GEN.14:18]]-20), the tradition of God's people for giving money to the Lord is to give a tithe ([[MAL.3:8]]-12) plus freewill offerings. This is how the temple was built, and also how the Church is built."
+      "context": "Starting with Abraham ([[GEN.14:18]]-20), the tradition of God's people for giving money to the Lord is to give a tithe ([[MAL.3:8]]-12) plus freewill offerings. This is how the temple was built, and also how the Church is built.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "temple"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

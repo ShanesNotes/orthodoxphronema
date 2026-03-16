@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "But without a parable He did not speak to them. And when they were alone, He explained all things to His disciples.",
   "pericope": {
     "id": "MRK.P018",
@@ -12,7 +12,11 @@
     "range": "MRK.4:34-4:40",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "judgment",
+    "repentance"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +24,21 @@
       "line_number": 73,
       "raw_match": "[[MRK.4:34]]",
       "reference_type": "wikilink",
-      "context": "The roll of a book signifies Holy Scripture, which Christ unrolled ([[MRK.4:34]]; [[LUK.24:25]]). Scripture \"is written within by allegory, and without by history; within through spiritual understanding, but without through the plain sense of the letter still befitting the weak\" (GrgGt). Lamentation and mourning indicate repentance, while woe points to the Final Judgment ([[LUK.6:25]])."
+      "context": "The roll of a book signifies Holy Scripture, which Christ unrolled ([[MRK.4:34]]; [[LUK.24:25]]). Scripture \"is written within by allegory, and without by history; within through spiritual understanding, but without through the plain sense of the letter still befitting the weak\" (GrgGt). Lamentation and mourning indicate repentance, while woe points to the Final Judgment ([[LUK.6:25]]).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "judgment",
+        "repentance"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

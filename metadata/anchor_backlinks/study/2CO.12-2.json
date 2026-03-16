@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "I know a man in Christ who fourteen years ago-whether in the body I do not know, or whether out of the body I do not know, God knows-such a one was caught up to the third heaven.",
   "pericope": {
     "id": "2CO.P034",
@@ -12,7 +12,11 @@
     "range": "2CO.11:33-12:5",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "resurrection",
+    "suffering"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +24,21 @@
       "line_number": 239,
       "raw_match": "[[2CO.12:2]]-4",
       "reference_type": "wikilink_range",
-      "context": "The message of the Spirit to the churches is explicitly a message to all Christians. In Hebrew, \"conquering\" and \"saving\" are synonymous: Salvation is victory. He who overcomes does so by participating in Christ's victory, which is salvation. In contrast to the false Nicolaitan sect, \"overcomers\" remain faithful to Christ until the end, in spite of all obstacles. Further, they fulfill the original destiny of man by partaking of the tree of life ([[GEN.2:9]]). To eat of this tree is to receive eternal life (vv. 11, 17, 26; 3:5, 12, 21; 21:7; Jn 16:33; [[2CO.4:7]]-18). The fruit of the tree is the spiritual food of [[1CO.10:3]], the \"medicine of immortality.\" Tree of life is also an allusion to the Cross, upon which all Christians must be co-crucified with Christ ([[GAL.2:20]]), partaking in the death of Christ in order to participate in His Resurrection. The Paradise of God is heaven ([[LUK.23:43]]; [[2CO.12:2]]-4); the city of God, the New Jerusalem (see 21:1-22:5), contrasted to the original earthly paradise."
+      "context": "The message of the Spirit to the churches is explicitly a message to all Christians. In Hebrew, \"conquering\" and \"saving\" are synonymous: Salvation is victory. He who overcomes does so by participating in Christ's victory, which is salvation. In contrast to the false Nicolaitan sect, \"overcomers\" remain faithful to Christ until the end, in spite of all obstacles. Further, they fulfill the original destiny of man by partaking of the tree of life ([[GEN.2:9]]). To eat of this tree is to receive eternal life (vv. 11, 17, 26; 3:5, 12, 21; 21:7; Jn 16:33; [[2CO.4:7]]-18). The fruit of the tree is the spiritual food of [[1CO.10:3]], the \"medicine of immortality.\" Tree of life is also an allusion to the Cross, upon which all Christians must be co-crucified with Christ ([[GAL.2:20]]), partaking in the death of Christ in order to participate in His Resurrection. The Paradise of God is heaven ([[LUK.23:43]]; [[2CO.12:2]]-4); the city of God, the New Jerusalem (see 21:1-22:5), contrasted to the original earthly paradise.",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "resurrection",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 5,
+        "title": "Heaven and Earth: A Spiritual Perspective",
+        "polarity": "generation",
+        "operation": "inform",
+        "scale": "individual"
+      }
     }
   ]
 }

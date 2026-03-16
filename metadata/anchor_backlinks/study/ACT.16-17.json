@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "This girl followed Paul and us, and cried out, saying, 'These men are the servants of the Most High God, who proclaim to us the way of salvation.'",
   "pericope": {
     "id": "ACT.P057",
@@ -20,7 +20,16 @@
       "line_number": 542,
       "raw_match": "[[ACT.16:17]]",
       "reference_type": "wikilink",
-      "context": "God the most High: Another ancient way of referring to the God of Israel, and one frequently used in localities where non-Jews abound (see [[GEN.14:19]]-22; [[DAN.3:26]]; [[MRK.5:7]]; [[LUK.8:28]]; [[ACT.16:17]])."
+      "context": "God the most High: Another ancient way of referring to the God of Israel, and one frequently used in localities where non-Jews abound (see [[GEN.14:19]]-22; [[DAN.3:26]]; [[MRK.5:7]]; [[LUK.8:28]]; [[ACT.16:17]]).",
+      "edge_type": "instantiates",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "For we are to God the fragrance of Christ among those who are being saved and among those who are perishing.",
   "pericope": {
     "id": "2CO.P008",
@@ -12,7 +12,12 @@
     "range": "2CO.2:11-2:16",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "baptism",
+    "christology",
+    "faith",
+    "israel_church"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,21 +25,60 @@
       "line_number": 38,
       "raw_match": "[[2CO.2:15]]-17",
       "reference_type": "wikilink_range",
-      "context": "The Holy Spirit is Himself the ointment of the Lord. In the Nicene Creed, Christ \"became incarnate of the Holy Spirit and the Virgin Mary\" (whose name means \"myrrh\"). The smells of His ointments are the gifts of the Spirit. Likewise, the saints in their virtues have this fragrance of Christ, according to St. Paul ([[2CO.2:15]]-17). The young maidens are Christ's chosen ones, born again through holy baptism."
+      "context": "The Holy Spirit is Himself the ointment of the Lord. In the Nicene Creed, Christ \"became incarnate of the Holy Spirit and the Virgin Mary\" (whose name means \"myrrh\"). The smells of His ointments are the gifts of the Spirit. Likewise, the saints in their virtues have this fragrance of Christ, according to St. Paul ([[2CO.2:15]]-17). The young maidens are Christ's chosen ones, born again through holy baptism.",
+      "edge_type": "descends_to",
+      "topic_threads": [
+        "baptism",
+        "christology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/SNG_footnotes.md",
       "line_number": 211,
       "raw_match": "[[2CO.2:15]]",
       "reference_type": "wikilink",
-      "context": "The fig tree is a figure of Israel, God's people before the Incarnation ([[HOS.9:10]]; Mt 21:19-21; [[MRK.11:13]], [[MRK.11:20]], [[MRK.11:21]]; [[LUK.13:6]], [[LUK.13:7]]). But the figs are young and immature, like those believers who have not grown in their faith ([[1CO.3:1]]). The true vine is Christ ([[JOH.15:1]]-5), and the vines are the Church, the New Israel. We are the fragrance of Christ to God the Father ([[2CO.2:15]])."
+      "context": "The fig tree is a figure of Israel, God's people before the Incarnation ([[HOS.9:10]]; Mt 21:19-21; [[MRK.11:13]], [[MRK.11:20]], [[MRK.11:21]]; [[LUK.13:6]], [[LUK.13:7]]). But the figs are young and immature, like those believers who have not grown in their faith ([[1CO.3:1]]). The true vine is Christ ([[JOH.15:1]]-5), and the vines are the Church, the New Israel. We are the fragrance of Christ to God the Father ([[2CO.2:15]]).",
+      "edge_type": "descends_to",
+      "topic_threads": [
+        "christology",
+        "faith",
+        "israel_church"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/SNG_footnotes.md",
       "line_number": 347,
       "raw_match": "[[2CO.2:15]]",
       "reference_type": "wikilink",
-      "context": "The garments of the Church, and therefore of the saints, are her righteous deeds ([[REV.19:8]], [[REV.19:14]]), better than all spices, for they fill the world with the fragrance of Christ Himself ([[2CO.2:14]], [[2CO.2:15]])."
+      "context": "The garments of the Church, and therefore of the saints, are her righteous deeds ([[REV.19:8]], [[REV.19:14]]), better than all spices, for they fill the world with the fragrance of Christ Himself ([[2CO.2:14]], [[2CO.2:15]]).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

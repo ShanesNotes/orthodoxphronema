@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "And Mary Magdalene and Mary the mother of Joses observed where He was laid.",
   "pericope": {
     "id": "MRK.P060",
@@ -12,7 +12,10 @@
     "range": "MRK.15:47-16:7",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "praise",
+    "resurrection"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,14 +23,36 @@
       "line_number": 2092,
       "raw_match": "[[MRK.15:47]]",
       "reference_type": "wikilink",
-      "context": "Certain Fathers teach that Mary the mother of James was the wife of Alphaeus, and this James was one of the Twelve (6:15). Most, however, hold that this is the Virgin Mary, being in fact the stepmother of a different James, \"the Lord's brother\" (see Mt 13:55; compare [[MRK.15:40]], [[MRK.15:47]]). The Virgin Mary appears in certain icons of the Myrrhbearing Women, and in a hymn by St. John of Damascus, we sing, \"The angel cried to the lady full of grace, 'Rejoice, O pure Virgin: your Son is risen from His three days in the tomb.'\""
+      "context": "Certain Fathers teach that Mary the mother of James was the wife of Alphaeus, and this James was one of the Twelve (6:15). Most, however, hold that this is the Virgin Mary, being in fact the stepmother of a different James, \"the Lord's brother\" (see Mt 13:55; compare [[MRK.15:40]], [[MRK.15:47]]). The Virgin Mary appears in certain icons of the Myrrhbearing Women, and in a hymn by St. John of Damascus, we sing, \"The angel cried to the lady full of grace, 'Rejoice, O pure Virgin: your Son is risen from His three days in the tomb.'\"",
+      "edge_type": "ascends_from",
+      "topic_threads": [
+        "praise",
+        "resurrection"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/NT/MAT_footnotes.md",
       "line_number": 2504,
       "raw_match": "[[MRK.15:47]]",
       "reference_type": "wikilink",
-      "context": "Mary the mother of James and Joses: Most Fathers teach this was the Virgin Mary, being in fact the stepmother of James and Joses (see 13:55; compare [[MRK.15:40]], [[MRK.15:47]]). Theophylact summarizes the teaching of the Fathers in this way: \"James and Joses were sons of Joseph by his first wife. And since the Theotokos was called the 'wife' of Joseph, she is rightly called the 'mother' of his children, meaning 'stepmother'.\""
+      "context": "Mary the mother of James and Joses: Most Fathers teach this was the Virgin Mary, being in fact the stepmother of James and Joses (see 13:55; compare [[MRK.15:40]], [[MRK.15:47]]). Theophylact summarizes the teaching of the Fathers in this way: \"James and Joses were sons of Joseph by his first wife. And since the Theotokos was called the 'wife' of Joseph, she is rightly called the 'mother' of his children, meaning 'stepmother'.\"",
+      "edge_type": "instantiates",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

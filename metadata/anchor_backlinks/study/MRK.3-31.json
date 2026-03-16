@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Then His brothers and His mother came, and standing outside they sent to Him, calling Him.",
   "pericope": {
     "id": "MRK.P011",
@@ -12,7 +12,9 @@
     "range": "MRK.3:30-3:34",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 1131,
       "raw_match": "[[MRK.3:31]]",
       "reference_type": "wikilink",
-      "context": "Laban called Jacob my brother. Technically, Jacob was Laban's nephew. Therefore, the title brother does not necessarily mean a son of the same father or mother. In [[MAT.13:55]] and [[MRK.3:31]], Jesus is said to have brothers. These are not sons of Mary His mother. They are simply close relatives. The Church calls Mary Ever-virgin. This belief is a dogma of the Church, for she bore only one Son, the Lord Jesus Christ."
+      "context": "Laban called Jacob my brother. Technically, Jacob was Laban's nephew. Therefore, the title brother does not necessarily mean a son of the same father or mother. In [[MAT.13:55]] and [[MRK.3:31]], Jesus is said to have brothers. These are not sons of Mary His mother. They are simply close relatives. The Church calls Mary Ever-virgin. This belief is a dogma of the Church, for she bore only one Son, the Lord Jesus Christ.",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Then they understood that He did not tell them to beware of the leaven of bread, but of the doctrine of the Pharisees and Sadducees.",
   "pericope": {
     "id": "MAT.P053",
@@ -20,7 +20,16 @@
       "line_number": 252,
       "raw_match": "[[MAT.16:12]]",
       "reference_type": "wikilink",
-      "context": "The leaven of the Pharisees is their doctrine ([[MAT.16:12]]) and their hypocrisy (Lk 12:1). In Scripture, leaven is used both positively (as in [[MAT.13:33]]) and negatively, as it is here. In either case, leaven symbolizes a force powerful enough (and often subtle enough) to permeate and affect everything around it (see [[1CO.5:6]]-8)."
+      "context": "The leaven of the Pharisees is their doctrine ([[MAT.16:12]]) and their hypocrisy (Lk 12:1). In Scripture, leaven is used both positively (as in [[MAT.13:33]]) and negatively, as it is here. In either case, leaven symbolizes a force powerful enough (and often subtle enough) to permeate and affect everything around it (see [[1CO.5:6]]-8).",
+      "edge_type": "instantiates",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

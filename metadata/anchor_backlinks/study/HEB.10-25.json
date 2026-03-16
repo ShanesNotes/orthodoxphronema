@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "not forsaking the assembling of ourselves together, as is the manner of some, but exhorting one another, and so much the more as you see the Day approaching.",
   "pericope": {
     "id": "HEB.P025",
@@ -12,7 +12,9 @@
     "range": "HEB.10:24-10:30",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 263,
       "raw_match": "[[HEB.10:25]]",
       "reference_type": "wikilink",
-      "context": "This is another example of the Jews piously keeping the seventh day, the Sabbath. In the same spirit, Christians are urged to assemble for worship ([[HEB.10:25]])."
+      "context": "This is another example of the Jews piously keeping the seventh day, the Sabbath. In the same spirit, Christians are urged to assemble for worship ([[HEB.10:25]]).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

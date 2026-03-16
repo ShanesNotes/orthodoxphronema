@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "You judge according to the flesh; I judge no one.",
   "pericope": {
     "id": "JOH.P026",
@@ -12,7 +12,9 @@
     "range": "JOH.8:12-8:29",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 695,
       "raw_match": "[[JOH.8:15]]",
       "reference_type": "wikilink",
-      "context": "Christ does not judge anyone ([[JOH.8:15]]; 12:47). Therefore, \"if the Teacher does not judge, neither must the disciple, for the disciple is guilty of worse sins than those for which he judges others\" (CyrAl)."
+      "context": "Christ does not judge anyone ([[JOH.8:15]]; 12:47). Therefore, \"if the Teacher does not judge, neither must the disciple, for the disciple is guilty of worse sins than those for which he judges others\" (CyrAl).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

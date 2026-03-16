@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Its gates shall not be shut at all by day (there shall be no night there).",
   "pericope": {
     "id": "REV.P062",
@@ -12,7 +12,14 @@
     "range": "REV.21:21-22:4",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "covenant",
+    "eschatology",
+    "israel_church",
+    "judgment",
+    "prayer"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,28 +27,68 @@
       "line_number": 474,
       "raw_match": "[[REV.21:9]]-27",
       "reference_type": "wikilink_range",
-      "context": "St. Gregory the Great sees Christ in both the high mountain and the man. The city is the heavenly Jerusalem, the Church ([[HEB.12:22]]). The builder's cord symbolizes the truth taught by the apostles. The measuring rod signifies Holy Scripture. Christ stood at the gate \"because in His humanity He appeared visible, and in His divinity He remained unseen\" (GrgGt). Compare [[REV.21:9]]-27."
+      "context": "St. Gregory the Great sees Christ in both the high mountain and the man. The city is the heavenly Jerusalem, the Church ([[HEB.12:22]]). The builder's cord symbolizes the truth taught by the apostles. The measuring rod signifies Holy Scripture. Christ stood at the gate \"because in His humanity He appeared visible, and in His divinity He remained unseen\" (GrgGt). Compare [[REV.21:9]]-27.",
+      "edge_type": "witnesses",
+      "topic_threads": [
+        "christology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 7,
+        "title": "Symbolism and the Spiritual Worldview",
+        "polarity": "luminosity",
+        "operation": "eat",
+        "scale": "individual"
+      }
     },
     {
       "source_file": "study/footnotes/OT/EZK_footnotes.md",
       "line_number": 613,
       "raw_match": "[[REV.21:9]]-27",
       "reference_type": "wikilink_range",
-      "context": "He measured the house all around: Compare [[REV.21:9]]-27."
+      "context": "He measured the house all around: Compare [[REV.21:9]]-27.",
+      "edge_type": "instantiates"
     },
     {
       "source_file": "study/footnotes/OT/JOL_footnotes.md",
       "line_number": 273,
       "raw_match": "[[REV.21:9]]-27",
       "reference_type": "wikilink_range",
-      "context": "The language used by Joel is reminiscent of descriptions of the last days found in the New Testament. In the final judgment the Lord shouts out ([[1TH.4:16]]) and establishes an incorruptible Jerusalem ([[REV.21:9]]-27)."
+      "context": "The language used by Joel is reminiscent of descriptions of the last days found in the New Testament. In the final judgment the Lord shouts out ([[1TH.4:16]]) and establishes an incorruptible Jerusalem ([[REV.21:9]]-27).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "covenant",
+        "eschatology",
+        "judgment"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 4,
+        "title": "Reconstructing the Language of Creation",
+        "polarity": "vertical",
+        "operation": "ascend",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/SIR_footnotes.md",
       "line_number": 1097,
       "raw_match": "[[REV.21:9]]-27",
       "reference_type": "wikilink_range",
-      "context": "Though this prayer was for Israel, it was also for all on earth. Thus, the Church has become the New Jerusalem, the new Zion, the new nation in which the OT prophecies are fulfilled (see [[ROM.3:29]]-31; 4:13-16; [[GAL.4:21]]-31; all of Hebrews but especially 12:18-29; [[1PE.2:4]]-10; [[REV.21:9]]-27)."
+      "context": "Though this prayer was for Israel, it was also for all on earth. Thus, the Church has become the New Jerusalem, the new Zion, the new nation in which the OT prophecies are fulfilled (see [[ROM.3:29]]-31; 4:13-16; [[GAL.4:21]]-31; all of Hebrews but especially 12:18-29; [[1PE.2:4]]-10; [[REV.21:9]]-27).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "israel_church",
+        "prayer"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

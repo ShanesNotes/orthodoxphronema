@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Its rising is from one end of heaven, And its circuit runs to the other end; And nothing shall be hidden from its heat.",
   "pericope": {
     "id": "PSA.P018",
@@ -20,7 +20,16 @@
       "line_number": 1400,
       "raw_match": "[[PSA.18:5]]-7",
       "reference_type": "wikilink_range",
-      "context": "A similar teaching on the sun appears in [[PSA.18:5]]-7."
+      "context": "A similar teaching on the sun appears in [[PSA.18:5]]-7.",
+      "edge_type": "instantiates",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Little children, it is the last hour; and as you have heard that the Antichrist is coming, even now many antichrists have come, by which we know that it is the last hour.",
   "pericope": {
     "id": "1JN.P004",
@@ -12,7 +12,13 @@
     "range": "1JN.2:17-2:26",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "faith",
+    "israel_church",
+    "kingdom",
+    "temple"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,14 +26,46 @@
       "line_number": 1106,
       "raw_match": "[[1JN.2:18]]",
       "reference_type": "wikilink",
-      "context": "Satan then turns his attention to the rest of true Israel's offspring, obviously the Gentile Church, which has inherited from her both the commandments of God and faith in Christ. 13:1, 2 The beast (monster) rising up out of the sea, a composite of the four beasts of Dan 7, is the epitome of worldly kingdoms opposed to God and His Kingdom. For John, this was the Roman Empire: a monstrous creature with ten horns (very powerful), seven heads (the emperors), ten crowns, and on his heads a blasphemous name (emperors who assumed titles of divinity such as \"Lord and God,\" \"Savior,\" \"Son of God,\" etc.). In a parody of 5:12-14, where the sacrificed Lamb is enthroned, the beast is given power, not to bless the Church but to persecute it. One of the heads of this monster was \"as though it had been slaughtered to death\" (the Greek text), and is another parody of the Lamb, which was standing even though it had been slain (5:6). The deadly wound might refer to the mad emperor Nero's death (inflicted by a slit throat in the manner of temple sacrifice). For despite his death in AD 68, the empire lived on, revived under Vespasian. Many believed Nero himself would rise from the dead. Domitian (AD 81-96, the emperor at the time of the writing of Revelation) was considered to be \"Nero reincarnate\" because his cruelty surpassed Nero's. Christian tradition has also seen the beast as an image of the Antichrist, the false messiah who presents himself in the last times as God incarnate and is accepted by the world (see Jn 5:43; [[2TH.1:12]]; [[1JN.2:18]]). Since there are \"many antichrists\" ([[1JN.2:18]]), there may be more than one application of the beast figure."
+      "context": "Satan then turns his attention to the rest of true Israel's offspring, obviously the Gentile Church, which has inherited from her both the commandments of God and faith in Christ. 13:1, 2 The beast (monster) rising up out of the sea, a composite of the four beasts of Dan 7, is the epitome of worldly kingdoms opposed to God and His Kingdom. For John, this was the Roman Empire: a monstrous creature with ten horns (very powerful), seven heads (the emperors), ten crowns, and on his heads a blasphemous name (emperors who assumed titles of divinity such as \"Lord and God,\" \"Savior,\" \"Son of God,\" etc.). In a parody of 5:12-14, where the sacrificed Lamb is enthroned, the beast is given power, not to bless the Church but to persecute it. One of the heads of this monster was \"as though it had been slaughtered to death\" (the Greek text), and is another parody of the Lamb, which was standing even though it had been slain (5:6). The deadly wound might refer to the mad emperor Nero's death (inflicted by a slit throat in the manner of temple sacrifice). For despite his death in AD 68, the empire lived on, revived under Vespasian. Many believed Nero himself would rise from the dead. Domitian (AD 81-96, the emperor at the time of the writing of Revelation) was considered to be \"Nero reincarnate\" because his cruelty surpassed Nero's. Christian tradition has also seen the beast as an image of the Antichrist, the false messiah who presents himself in the last times as God incarnate and is accepted by the world (see Jn 5:43; [[2TH.1:12]]; [[1JN.2:18]]). Since there are \"many antichrists\" ([[1JN.2:18]]), there may be more than one application of the beast figure.",
+      "edge_type": "descends_to",
+      "topic_threads": [
+        "christology",
+        "faith",
+        "israel_church",
+        "kingdom",
+        "temple"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/NT/REV_footnotes.md",
       "line_number": 1106,
       "raw_match": "[[1JN.2:18]]",
       "reference_type": "wikilink",
-      "context": "Satan then turns his attention to the rest of true Israel's offspring, obviously the Gentile Church, which has inherited from her both the commandments of God and faith in Christ. 13:1, 2 The beast (monster) rising up out of the sea, a composite of the four beasts of Dan 7, is the epitome of worldly kingdoms opposed to God and His Kingdom. For John, this was the Roman Empire: a monstrous creature with ten horns (very powerful), seven heads (the emperors), ten crowns, and on his heads a blasphemous name (emperors who assumed titles of divinity such as \"Lord and God,\" \"Savior,\" \"Son of God,\" etc.). In a parody of 5:12-14, where the sacrificed Lamb is enthroned, the beast is given power, not to bless the Church but to persecute it. One of the heads of this monster was \"as though it had been slaughtered to death\" (the Greek text), and is another parody of the Lamb, which was standing even though it had been slain (5:6). The deadly wound might refer to the mad emperor Nero's death (inflicted by a slit throat in the manner of temple sacrifice). For despite his death in AD 68, the empire lived on, revived under Vespasian. Many believed Nero himself would rise from the dead. Domitian (AD 81-96, the emperor at the time of the writing of Revelation) was considered to be \"Nero reincarnate\" because his cruelty surpassed Nero's. Christian tradition has also seen the beast as an image of the Antichrist, the false messiah who presents himself in the last times as God incarnate and is accepted by the world (see Jn 5:43; [[2TH.1:12]]; [[1JN.2:18]]). Since there are \"many antichrists\" ([[1JN.2:18]]), there may be more than one application of the beast figure."
+      "context": "Satan then turns his attention to the rest of true Israel's offspring, obviously the Gentile Church, which has inherited from her both the commandments of God and faith in Christ. 13:1, 2 The beast (monster) rising up out of the sea, a composite of the four beasts of Dan 7, is the epitome of worldly kingdoms opposed to God and His Kingdom. For John, this was the Roman Empire: a monstrous creature with ten horns (very powerful), seven heads (the emperors), ten crowns, and on his heads a blasphemous name (emperors who assumed titles of divinity such as \"Lord and God,\" \"Savior,\" \"Son of God,\" etc.). In a parody of 5:12-14, where the sacrificed Lamb is enthroned, the beast is given power, not to bless the Church but to persecute it. One of the heads of this monster was \"as though it had been slaughtered to death\" (the Greek text), and is another parody of the Lamb, which was standing even though it had been slain (5:6). The deadly wound might refer to the mad emperor Nero's death (inflicted by a slit throat in the manner of temple sacrifice). For despite his death in AD 68, the empire lived on, revived under Vespasian. Many believed Nero himself would rise from the dead. Domitian (AD 81-96, the emperor at the time of the writing of Revelation) was considered to be \"Nero reincarnate\" because his cruelty surpassed Nero's. Christian tradition has also seen the beast as an image of the Antichrist, the false messiah who presents himself in the last times as God incarnate and is accepted by the world (see Jn 5:43; [[2TH.1:12]]; [[1JN.2:18]]). Since there are \"many antichrists\" ([[1JN.2:18]]), there may be more than one application of the beast figure.",
+      "edge_type": "descends_to",
+      "topic_threads": [
+        "christology",
+        "faith",
+        "israel_church",
+        "kingdom",
+        "temple"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

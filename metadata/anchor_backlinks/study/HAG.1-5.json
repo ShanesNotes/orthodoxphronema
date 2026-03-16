@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Now therefore, thus says the Lord Almighty: 'Consider your ways!",
   "pericope": {
     "id": "HAG.P002",
@@ -12,7 +12,9 @@
     "range": "HAG.1:2-1:13",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "temple"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 270,
       "raw_match": "[[HAG.1:1]]-15",
       "reference_type": "wikilink_range",
-      "context": "The temple will be rebuilt, but not as it was before. The second temple, not as glorious, was completed in approximately 515 BC (see [[HAG.1:1]]-15)."
+      "context": "The temple will be rebuilt, but not as it was before. The second temple, not as glorious, was completed in approximately 515 BC (see [[HAG.1:1]]-15).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "temple"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 6,
+        "title": "The Universe As a Language",
+        "polarity": "generation",
+        "operation": "descend",
+        "scale": "communal"
+      }
     }
   ]
 }

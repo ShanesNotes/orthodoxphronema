@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Also do not take to heart all the words people say, Lest you hear your servant cursing you.",
   "pericope": {
     "id": "ECC.P015",
@@ -12,7 +12,10 @@
     "range": "ECC.3:22-7:28",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "faith"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 18,
       "raw_match": "[[ECC.7:21]]",
       "reference_type": "wikilink",
-      "context": "Job was originally called Jobab (42:19). Thanks to the LXX text he is no longer the mystery man \"from the land of Uz.\" He is from the land of Ausitis, which was located on the borders of Edom and Arabia (42:19). He is also a descendant of Abraham through Esau, and his first wife was an Arab (42:20). This makes him a Gentile, and Esau the unbeliever was his forefather. St. John Chrysostom, quoting [[ECC.7:21]], notes that the text qualifies Job as blameless, that is, \"just,\" but that it did not say, \"without sin.\" Only Christ was without sin ([[HEB.4:15]])."
+      "context": "Job was originally called Jobab (42:19). Thanks to the LXX text he is no longer the mystery man \"from the land of Uz.\" He is from the land of Ausitis, which was located on the borders of Edom and Arabia (42:19). He is also a descendant of Abraham through Esau, and his first wife was an Arab (42:20). This makes him a Gentile, and Esau the unbeliever was his forefather. St. John Chrysostom, quoting [[ECC.7:21]], notes that the text qualifies Job as blameless, that is, \"just,\" but that it did not say, \"without sin.\" Only Christ was without sin ([[HEB.4:15]]).",
+      "edge_type": "descends_to",
+      "topic_threads": [
+        "christology",
+        "faith"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

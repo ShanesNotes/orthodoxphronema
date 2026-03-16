@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "And when the Pharisees saw it, they said to Him, 'Look, Your disciples are doing what is not lawful to do on the Sabbath!'",
   "pericope": {
     "id": "MAT.P034",
@@ -12,7 +12,15 @@
     "range": "MAT.11:30-12:13",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "eucharist",
+    "mercy",
+    "prayer",
+    "priesthood",
+    "repentance",
+    "suffering"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,14 +28,44 @@
       "line_number": 619,
       "raw_match": "[[MAT.12:1]]-8",
       "reference_type": "wikilink_range",
-      "context": "Although the Law itself does not specifically forbid the carrying of burdens on the Sabbath, this is prohibited in [[JER.17:23]] and explicitly forbidden in rabbinical teachings. That Christ is Lord over the Sabbath is made clear by His command (v. 8) and by the man's obedience (v. 9; see also [[MAT.12:1]]-8 and notes). As is often the case in John's Gospel, the term Jews here refers to the leaders and not to the people in general (see note at 2:18-21). Notice the malice of these leaders, for they focus solely on the Sabbath violation, asking the man, \"Who is the Man who said to you, 'Take up your bed'?\" but ignoring altogether the miraculous healing."
+      "context": "Although the Law itself does not specifically forbid the carrying of burdens on the Sabbath, this is prohibited in [[JER.17:23]] and explicitly forbidden in rabbinical teachings. That Christ is Lord over the Sabbath is made clear by His command (v. 8) and by the man's obedience (v. 9; see also [[MAT.12:1]]-8 and notes). As is often the case in John's Gospel, the term Jews here refers to the leaders and not to the people in general (see note at 2:18-21). Notice the malice of these leaders, for they focus solely on the Sabbath violation, asking the man, \"Who is the Man who said to you, 'Take up your bed'?\" but ignoring altogether the miraculous healing.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/1SA_footnotes.md",
       "line_number": 458,
       "raw_match": "[[MAT.12:1]]-8",
       "reference_type": "wikilink_range",
-      "context": "Only the priests were allowed to eat the holy bread; the uneaten portions were offered as a sacrifice to God. Jesus refers to this story when confronting the Pharisees about their own legalistic attitude toward the Sabbath--which held firmly to the externals, yet rejected the inner mercy and compassion of the Law (see [[MAT.12:1]]-8). In this passage, the priest has compassion on David and his men, but out of holy fear he questions their righteousness and purity before he permits them to partake of this bread reserved for priests. The bread of the Presence was a prefiguration of the bread of the Eucharist, the body of Christ. Just as David was required to be holy, each Christian approaching Communion must be prepared through prayer, fasting, and confession. Indeed, the holy things are for the holy."
+      "context": "Only the priests were allowed to eat the holy bread; the uneaten portions were offered as a sacrifice to God. Jesus refers to this story when confronting the Pharisees about their own legalistic attitude toward the Sabbath--which held firmly to the externals, yet rejected the inner mercy and compassion of the Law (see [[MAT.12:1]]-8). In this passage, the priest has compassion on David and his men, but out of holy fear he questions their righteousness and purity before he permits them to partake of this bread reserved for priests. The bread of the Presence was a prefiguration of the bread of the Eucharist, the body of Christ. Just as David was required to be holy, each Christian approaching Communion must be prepared through prayer, fasting, and confession. Indeed, the holy things are for the holy.",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "eucharist",
+        "mercy",
+        "prayer",
+        "priesthood",
+        "repentance",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

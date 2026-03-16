@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "But he who did not know, yet committed things deserving of stripes, shall be beaten with few. For everyone to whom much is given, from him much will be required; and to whom much has been committed, of him they will ask the more.",
   "pericope": {
     "id": "LUK.P062",
@@ -12,7 +12,13 @@
     "range": "LUK.12:48-12:58",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "creation_theology",
+    "judgment",
+    "kingdom",
+    "suffering"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,14 +26,42 @@
       "line_number": 196,
       "raw_match": "[[LUK.12:42]]-48",
       "reference_type": "wikilink_range",
-      "context": "Christ echoes this passage in His parable of the good steward ([[LUK.12:42]]-48)."
+      "context": "Christ echoes this passage in His parable of the good steward ([[LUK.12:42]]-48).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/JOB_footnotes.md",
       "line_number": 312,
       "raw_match": "[[LUK.12:48]]",
       "reference_type": "wikilink",
-      "context": "St. Gregory comments that the hypocrite hides his evil intentions behind soft words inspired by demons, but the faithful hide the \"honey and milk\" of heaven under their tongue (SS 4:11). 21:7-14 Some, seeing the righteous suffer and the sinner prosper, assume that God's judgment is not just. But although the ungodly may prosper on this earth, they cannot escape judgment when they die. Christ will say to all who reject Him, \"depart from Me\" ([[MAT.25:41]]; [[LUK.12:47]], [[LUK.12:48]]). 21:16 \"Let us pray together to undergo toil here, so that we may deserve to gain the consolation of eternal rest in the kingdom of heaven. For prosperity and abundance constitute a powerful inducement to do wrong; they exalt a man to pride and induce him to forget his Creator\" (AmbM)."
+      "context": "St. Gregory comments that the hypocrite hides his evil intentions behind soft words inspired by demons, but the faithful hide the \"honey and milk\" of heaven under their tongue (SS 4:11). 21:7-14 Some, seeing the righteous suffer and the sinner prosper, assume that God's judgment is not just. But although the ungodly may prosper on this earth, they cannot escape judgment when they die. Christ will say to all who reject Him, \"depart from Me\" ([[MAT.25:41]]; [[LUK.12:47]], [[LUK.12:48]]). 21:16 \"Let us pray together to undergo toil here, so that we may deserve to gain the consolation of eternal rest in the kingdom of heaven. For prosperity and abundance constitute a powerful inducement to do wrong; they exalt a man to pride and induce him to forget his Creator\" (AmbM).",
+      "edge_type": "witnesses",
+      "topic_threads": [
+        "christology",
+        "creation_theology",
+        "judgment",
+        "kingdom",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

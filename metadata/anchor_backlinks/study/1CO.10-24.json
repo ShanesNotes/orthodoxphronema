@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Let no one seek his own, but each one the other's well-being.",
   "pericope": {
     "id": "1CO.P025",
@@ -12,7 +12,11 @@
     "range": "1CO.10:22-10:33",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "exodus_typology",
+    "resurrection"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +24,21 @@
       "line_number": 17,
       "raw_match": "[[1CO.10:23]]-26",
       "reference_type": "wikilink_range",
-      "context": "The Passover under Josiah and the account of his death (vv. 26-31). Josiah was the last king of Judah to seek truth (v. 21). As such, he is a figure of Christ, who is the embodiment of truth ([[JOH.14:6]]). From Exodus 12 we learn that the Feast of the Passover is an OT type of the NT paschal feast ([[1CO.10:23]]-26), in which the Church celebrates the death and Resurrection of Christ."
+      "context": "The Passover under Josiah and the account of his death (vv. 26-31). Josiah was the last king of Judah to seek truth (v. 21). As such, he is a figure of Christ, who is the embodiment of truth ([[JOH.14:6]]). From Exodus 12 we learn that the Feast of the Passover is an OT type of the NT paschal feast ([[1CO.10:23]]-26), in which the Church celebrates the death and Resurrection of Christ.",
+      "edge_type": "echoes",
+      "topic_threads": [
+        "christology",
+        "exodus_typology",
+        "resurrection"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

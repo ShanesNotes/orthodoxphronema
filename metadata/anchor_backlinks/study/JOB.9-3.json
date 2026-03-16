@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "If he should wish to enter into judgment with Him, The Lord would not listen to him, For he could not answer to one out of a thousand of His charges.",
   "pericope": {
     "id": "JOB.P017",
@@ -12,7 +12,15 @@
     "range": "JOB.9:1-9:34",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "eschatology",
+    "faith",
+    "judgment",
+    "kingdom",
+    "resurrection",
+    "suffering"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +28,25 @@
       "line_number": 1704,
       "raw_match": "[[JOB.9:3]]",
       "reference_type": "wikilink",
-      "context": "Though most did not, a few early Fathers and writers believed in a literal thousand year binding of Satan and reign of Christ and the saints on earth (vv. 2-7). The Church, however, authoritatively rejected this teaching (called chiliasm) at the Second Ecumenical Council. In apocalyptic literature, numbers have symbolic significance. \"Thousand\" is often used in the Scriptures to denote a long period of time, a great quantity, completion, perfection, thoroughness ([[JOB.9:3]]; [[2PE.3:8]]). Here, a thousand years (vv. 2-7) is interpreted as the Church age, when Jesus reigns on earth in those who believe. It is that era between the first and second comings of Christ, also called the \"last times,\" when Satan's effectiveness at deceit is restricted through the Cross and Resurrection of Christ, and the saints share in Christ's earthly reign through the Church. For these persecuted Christians threatened by martyrdom, this is a consoling hope."
+      "context": "Though most did not, a few early Fathers and writers believed in a literal thousand year binding of Satan and reign of Christ and the saints on earth (vv. 2-7). The Church, however, authoritatively rejected this teaching (called chiliasm) at the Second Ecumenical Council. In apocalyptic literature, numbers have symbolic significance. \"Thousand\" is often used in the Scriptures to denote a long period of time, a great quantity, completion, perfection, thoroughness ([[JOB.9:3]]; [[2PE.3:8]]). Here, a thousand years (vv. 2-7) is interpreted as the Church age, when Jesus reigns on earth in those who believe. It is that era between the first and second comings of Christ, also called the \"last times,\" when Satan's effectiveness at deceit is restricted through the Cross and Resurrection of Christ, and the saints share in Christ's earthly reign through the Church. For these persecuted Christians threatened by martyrdom, this is a consoling hope.",
+      "edge_type": "ascends_from",
+      "topic_threads": [
+        "christology",
+        "eschatology",
+        "faith",
+        "judgment",
+        "kingdom",
+        "resurrection",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Surely this was the lawless action of your sister Sodom, namely, arrogance. For in fullness of bread and abundance of wine, she and her daughter lived in self-indulgence. This belonged to her and her daughters, but they did not give a helping hand to the poor and needy.",
   "pericope": {
     "id": "EZK.P019",
@@ -12,7 +12,9 @@
     "range": "EZK.16:30-16:57",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "eucharist"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 295,
       "raw_match": "[[EZK.16:49]]",
       "reference_type": "wikilink",
-      "context": "The men of Sodom are referred to here. In [[EZK.16:49]], [[EZK.16:50]] God declares the people of Sodom were arrogant and had abundant food and wine, but were unconcerned for the poor and needy. They also committed \"acts of lawlessness\" before God, which are described in Gn 19: homosexual acts of incredible disgust. The Sodomites were so \"haughty\" they had to be dealt with by God in extreme harshness."
+      "context": "The men of Sodom are referred to here. In [[EZK.16:49]], [[EZK.16:50]] God declares the people of Sodom were arrogant and had abundant food and wine, but were unconcerned for the poor and needy. They also committed \"acts of lawlessness\" before God, which are described in Gn 19: homosexual acts of incredible disgust. The Sodomites were so \"haughty\" they had to be dealt with by God in extreme harshness.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "eucharist"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

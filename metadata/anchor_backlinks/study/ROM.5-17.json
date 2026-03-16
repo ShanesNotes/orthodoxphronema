@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "For if by the one man's offense death reigned through the one, much more those who receive abundance of grace and of the gift of righteousness will reign in life through the One, Jesus Christ.)",
   "pericope": {
     "id": "ROM.P012",
@@ -12,7 +12,10 @@
     "range": "ROM.4:24-5:20",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "faith"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 518,
       "raw_match": "[[ROM.5:17]]",
       "reference_type": "wikilink",
-      "context": "Abraham believed the promise in 12:1, and he continued to believe it in 15:5. For Abraham's faith was living and growing--something dynamic. He was made righteous by this faith. So are both Jews and Gentiles. Righteousness is the gift of God through Jesus Christ ([[ROM.5:17]])."
+      "context": "Abraham believed the promise in 12:1, and he continued to believe it in 15:5. For Abraham's faith was living and growing--something dynamic. He was made righteous by this faith. So are both Jews and Gentiles. Righteousness is the gift of God through Jesus Christ ([[ROM.5:17]]).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "faith"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

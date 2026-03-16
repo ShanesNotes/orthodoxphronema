@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "saying: 'Amen! Blessing and glory and wisdom, Thanksgiving and honor and power and might, Be to our God forever and ever.",
   "pericope": {
     "id": "REV.P020",
@@ -12,7 +12,11 @@
     "range": "REV.7:5-7:16",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "priesthood",
+    "temple",
+    "wisdom"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +24,21 @@
       "line_number": 58,
       "raw_match": "[[REV.7:9]]-17",
       "reference_type": "wikilink_range",
-      "context": "Angels minister continually at the altar of the Lord, though usually unseen. Those priests of pure heart, such as Zacharias, are occasionally chosen by God to witness this angelic liturgy (see also Is 6; [[REV.7:9]]-17)."
+      "context": "Angels minister continually at the altar of the Lord, though usually unseen. Those priests of pure heart, such as Zacharias, are occasionally chosen by God to witness this angelic liturgy (see also Is 6; [[REV.7:9]]-17).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "priesthood",
+        "temple",
+        "wisdom"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

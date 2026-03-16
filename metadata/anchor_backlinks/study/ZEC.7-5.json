@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "'Speak to all the people of the land and to the priests, saying, 'Though you fasted or mourned in the fifth or seventh months, lo these seventy years, did you at all fast for Me?",
   "pericope": {
     "id": "ZEC.P009",
@@ -12,7 +12,11 @@
     "range": "ZEC.6:15-7:13",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "covenant",
+    "priesthood"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,14 +24,40 @@
       "line_number": 951,
       "raw_match": "[[ZEC.7:5]]",
       "reference_type": "wikilink",
-      "context": "The Jews typically fasted twice a week ([[LUK.18:12]]), on Monday and Thursday. In addition, public fasts were regularly observed or occasionally proclaimed ([[2CH.20:3]]; 1Ez 8:49, 50; [[EST.4:16]]; [[JOL.2:15]]), especially on the Day of Atonement (Lv 16:31-34) and in times of mourning ([[ZEC.7:5]]; 8:19). But the Jews saw the day of the Messiah as a wedding feast--a time of joy and gladness. Jesus here proclaims that day, declaring Himself to be the Messiah/Bridegroom. For Christians, fasting is not gloomy but desirable, a bright sadness, for by fasting, they gain self-control and prepare themselves for the Wedding Feast. The old garment and old wineskins stand for the Old Covenant and the Law, viewed as imperfect and temporary; the new wineskins are the New Covenant and those in Christ. The new wine is the Holy Spirit dwelling within renewed people, who cannot be constrained by the old precepts of the Law."
+      "context": "The Jews typically fasted twice a week ([[LUK.18:12]]), on Monday and Thursday. In addition, public fasts were regularly observed or occasionally proclaimed ([[2CH.20:3]]; 1Ez 8:49, 50; [[EST.4:16]]; [[JOL.2:15]]), especially on the Day of Atonement (Lv 16:31-34) and in times of mourning ([[ZEC.7:5]]; 8:19). But the Jews saw the day of the Messiah as a wedding feast--a time of joy and gladness. Jesus here proclaims that day, declaring Himself to be the Messiah/Bridegroom. For Christians, fasting is not gloomy but desirable, a bright sadness, for by fasting, they gain self-control and prepare themselves for the Wedding Feast. The old garment and old wineskins stand for the Old Covenant and the Law, viewed as imperfect and temporary; the new wineskins are the New Covenant and those in Christ. The new wine is the Holy Spirit dwelling within renewed people, who cannot be constrained by the old precepts of the Law.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology",
+        "covenant",
+        "priesthood"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/JER_footnotes.md",
       "line_number": 1135,
       "raw_match": "[[ZEC.7:5]]",
       "reference_type": "wikilink",
-      "context": "Judah. The death of Gedaliah will mark the end of the five-year stay of the Jews in Shechem, Shalem, and Samaria: Three areas near Israel in the north of Judah, which had already changed in ethnic composition after the Assyrian deportation. 48:5-8 Hence, Ishmael killed seventy men. Gedaliah himself was mourned by the exiles for those seventy years of exile by an annual fast ([[ZEC.7:5]])."
+      "context": "Judah. The death of Gedaliah will mark the end of the five-year stay of the Jews in Shechem, Shalem, and Samaria: Three areas near Israel in the north of Judah, which had already changed in ethnic composition after the Assyrian deportation. 48:5-8 Hence, Ishmael killed seventy men. Gedaliah himself was mourned by the exiles for those seventy years of exile by an annual fast ([[ZEC.7:5]]).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "priesthood"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

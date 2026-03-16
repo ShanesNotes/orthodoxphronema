@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "You walked in the way of your sister; therefore, I shall put her cup into your hands.'",
   "pericope": {
     "id": "EZK.P033",
@@ -12,7 +12,10 @@
     "range": "EZK.23:21-23:34",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "priesthood"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 1515,
       "raw_match": "[[EZK.23:11]]-35",
       "reference_type": "wikilink_range",
-      "context": "The peoples, multitudes, nations, and tongues represent the diversity of the Roman Empire (see v. 18). Reaping what she sows, Rome will be conquered as she has conquered. That the ten horns (vassal kings) and the beast (false prophet) will rise up against the harlot (v. 16) indicates the self-destructiveness of evil (see [[EZK.23:11]]-35). The Antichrist proves himself (in contrast to the true Christ, v. 14) the traitor of traitors. Rome will be stripped, devoured, and burned (see Lv 21:9, where death by fire is prescribed for a harlot who is the daughter of a priest)."
+      "context": "The peoples, multitudes, nations, and tongues represent the diversity of the Roman Empire (see v. 18). Reaping what she sows, Rome will be conquered as she has conquered. That the ten horns (vassal kings) and the beast (false prophet) will rise up against the harlot (v. 16) indicates the self-destructiveness of evil (see [[EZK.23:11]]-35). The Antichrist proves himself (in contrast to the true Christ, v. 14) the traitor of traitors. Rome will be stripped, devoured, and burned (see Lv 21:9, where death by fire is prescribed for a harlot who is the daughter of a priest).",
+      "edge_type": "opposes",
+      "topic_threads": [
+        "christology",
+        "priesthood"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

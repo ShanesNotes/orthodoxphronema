@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Is anyone among you suffering? Let him pray. Is anyone cheerful? Let him sing psalms.",
   "pericope": {
     "id": "JAS.P013",
@@ -12,7 +12,10 @@
     "range": "JAS.5:12-5:17",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "praise",
+    "suffering"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,12 @@
       "line_number": 507,
       "raw_match": "[[JAS.5:13]]",
       "reference_type": "wikilink",
-      "context": "See [[COL.3:16]]; [[JAS.5:13]]."
+      "context": "See [[COL.3:16]]; [[JAS.5:13]].",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "praise",
+        "suffering"
+      ]
     }
   ]
 }

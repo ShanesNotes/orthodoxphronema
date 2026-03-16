@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "'You shall not eat any abomination.",
   "pericope": {
     "id": "DEU.P029",
@@ -12,7 +12,9 @@
     "range": "DEU.14:2-14:20",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "israel_church"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 42,
       "raw_match": "[[DEU.14:3]]-21",
       "reference_type": "wikilink_range",
-      "context": "The bread of the Gentiles is described in [[DEU.14:3]]-21 as unclean food for the people of God."
+      "context": "The bread of the Gentiles is described in [[DEU.14:3]]-21 as unclean food for the people of God.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "israel_church"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

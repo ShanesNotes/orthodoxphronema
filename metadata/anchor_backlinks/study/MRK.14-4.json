@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "But there were some who were indignant among themselves, and said, 'Why was this fragrant oil wasted?",
   "pericope": {
     "id": "MRK.P049",
@@ -12,7 +12,9 @@
     "range": "MRK.14:2-14:8",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "faith"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 2301,
       "raw_match": "[[MRK.14:3]]-9",
       "reference_type": "wikilink_range",
-      "context": "Because of her fervent faith, Jesus promises perpetual public memory of this woman. There is no consensus among the Fathers as to her identity in relation to accounts of similar events in [[MRK.14:3]]-9; [[LUK.7:36]]-38; and [[JOH.12:1]]-8. Some Fathers say that there were three different women in these four accounts, others that there were only two."
+      "context": "Because of her fervent faith, Jesus promises perpetual public memory of this woman. There is no consensus among the Fathers as to her identity in relation to accounts of similar events in [[MRK.14:3]]-9; [[LUK.7:36]]-38; and [[JOH.12:1]]-8. Some Fathers say that there were three different women in these four accounts, others that there were only two.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "faith"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

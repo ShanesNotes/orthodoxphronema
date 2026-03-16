@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "For as the Father raises the dead and gives life to them, even so the Son gives life to whom He will.",
   "pericope": {
     "id": "JOH.P014",
@@ -12,7 +12,11 @@
     "range": "JOH.5:15-5:46",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "faith",
+    "suffering"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +24,21 @@
       "line_number": 965,
       "raw_match": "[[JOH.5:21]]",
       "reference_type": "wikilink",
-      "context": "Authority over life and death is in the hand of God alone ([[DEU.32:39]]; 1Kg 2:6). Being of one essence with the Father, Jesus has this authority ([[JOH.5:21]]). The healing of this woman demonstrates Christ's power to cleanse and heal (see 8:1-4). In the OT, hemorrhage caused ceremonial defilement, imposing religious and social restrictions, for contact with blood was strictly prohibited (Lv 15:25). This suffering woman, accounting herself unclean, nevertheless approaches Jesus secretly and with great faith. In v. 22, Jesus (1) brings her good cheer because of her faith; (2) corrects her thinking, for neither could she hide her touch from Him, nor is she excluded from Him because of her illness; and (3) exhibits her faith to all, so that they might imitate her."
+      "context": "Authority over life and death is in the hand of God alone ([[DEU.32:39]]; 1Kg 2:6). Being of one essence with the Father, Jesus has this authority ([[JOH.5:21]]). The healing of this woman demonstrates Christ's power to cleanse and heal (see 8:1-4). In the OT, hemorrhage caused ceremonial defilement, imposing religious and social restrictions, for contact with blood was strictly prohibited (Lv 15:25). This suffering woman, accounting herself unclean, nevertheless approaches Jesus secretly and with great faith. In v. 22, Jesus (1) brings her good cheer because of her faith; (2) corrects her thinking, for neither could she hide her touch from Him, nor is she excluded from Him because of her illness; and (3) exhibits her faith to all, so that they might imitate her.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology",
+        "faith",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

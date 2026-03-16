@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "It came to pass in those days that Jesus came from Nazareth of Galilee, and was baptized by John in the Jordan.",
   "pericope": {
     "id": "MRK.P002",
@@ -12,7 +12,14 @@
     "range": "MRK.1:8-1:14",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "baptism",
+    "christology",
+    "covenant",
+    "exodus_typology",
+    "faith",
+    "suffering"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +27,24 @@
       "line_number": 50,
       "raw_match": "[[MRK.1:9]]",
       "reference_type": "wikilink",
-      "context": "The Jordan River is a type of baptism, a crossing over from this fallen world to our promised inheritance--life in the world to come. Christ fulfills this promise through His Incarnation and His baptism ([[MRK.1:9]]). 2:1-8 The name Gilgal speaks of faith and hope in God as opposed to faith in the fallen world. This is where Joshua's men, in obedience and love of God, were circumcised to cut themselves off from this earthly realm. Gilgal literally means \"a rolling,\" for the Lord had rolled away Israel's reproach in Egypt ([[JOS.5:9]]). Thus, Elijah leaves the place of rolling, Gilgal, and in zeal and faith enters into Bethel, the \"house of God\"--the heavenly realm."
+      "context": "The Jordan River is a type of baptism, a crossing over from this fallen world to our promised inheritance--life in the world to come. Christ fulfills this promise through His Incarnation and His baptism ([[MRK.1:9]]). 2:1-8 The name Gilgal speaks of faith and hope in God as opposed to faith in the fallen world. This is where Joshua's men, in obedience and love of God, were circumcised to cut themselves off from this earthly realm. Gilgal literally means \"a rolling,\" for the Lord had rolled away Israel's reproach in Egypt ([[JOS.5:9]]). Thus, Elijah leaves the place of rolling, Gilgal, and in zeal and faith enters into Bethel, the \"house of God\"--the heavenly realm.",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "baptism",
+        "christology",
+        "covenant",
+        "exodus_typology",
+        "faith",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "When You give it to them, they shall gather it; When You open Your hand, all things shall be filled with Your goodness.",
   "pericope": {
     "id": "PSA.P103",
@@ -20,7 +20,16 @@
       "line_number": 146,
       "raw_match": "[[PSA.103:28]]",
       "reference_type": "wikilink",
-      "context": "Just as all the beasts look to God to give them their food in due season ([[PSA.103:27]]), so they do here, since He will fill them with every good thing by His hand ([[PSA.103:28]])."
+      "context": "Just as all the beasts look to God to give them their food in due season ([[PSA.103:27]]), so they do here, since He will fill them with every good thing by His hand ([[PSA.103:28]]).",
+      "edge_type": "instantiates",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

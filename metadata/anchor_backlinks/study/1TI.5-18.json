@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "For the Scripture says, 'You shall not muzzle an ox while it treads out the grain,' and, 'The laborer is worthy of his wages.'",
   "pericope": {
     "id": "1TI.P017",
@@ -20,7 +20,16 @@
       "line_number": 535,
       "raw_match": "[[1TI.5:18]]",
       "reference_type": "wikilink",
-      "context": "The mystery hidden in this statement refers to teachers in the Church ([[1TI.5:18]]; Lk 10:7). Those who labor like an ox in the field are worthy of receiving wages to meet their needs, for the ox worked very hard under great toil and stress. As St. John Chrysostom said concerning teachers in the Church, \"Unless he is as the ox treading out the corn, and bearing the yoke, in spite of heat and thorns, and does not cease his labors until he carries the corn into the granary, he is not worthy.\""
+      "context": "The mystery hidden in this statement refers to teachers in the Church ([[1TI.5:18]]; Lk 10:7). Those who labor like an ox in the field are worthy of receiving wages to meet their needs, for the ox worked very hard under great toil and stress. As St. John Chrysostom said concerning teachers in the Church, \"Unless he is as the ox treading out the corn, and bearing the yoke, in spite of heat and thorns, and does not cease his labors until he carries the corn into the granary, he is not worthy.\"",
+      "edge_type": "witnesses",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

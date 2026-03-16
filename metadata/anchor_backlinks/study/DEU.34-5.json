@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "So Moses the servant of the Lord died there in the land of Moab by the word of the Lord.",
   "pericope": {
     "id": "DEU.P069",
@@ -12,7 +12,12 @@
     "range": "DEU.33:32-34:12",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "divine_word",
+    "faith",
+    "israel_church",
+    "logos"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +25,22 @@
       "line_number": 62,
       "raw_match": "[[DEU.34:5]]",
       "reference_type": "wikilink",
-      "context": "Apparently from the apocryphal book The Assumption of Moses (see [[DEU.34:5]], [[DEU.34:6]] for the possibility of the assumption of Moses; also [[ZEC.3:1]], [[ZEC.3:2]]). The people of God are defended by holy angels. This is also a gracious warning to believers concerning vehement accusations against God's enemies: Let God judge. The archangel Michael showed this restraint ([[ZEC.3:2]]) even though he was dealing with the devil himself."
+      "context": "Apparently from the apocryphal book The Assumption of Moses (see [[DEU.34:5]], [[DEU.34:6]] for the possibility of the assumption of Moses; also [[ZEC.3:1]], [[ZEC.3:2]]). The people of God are defended by holy angels. This is also a gracious warning to believers concerning vehement accusations against God's enemies: Let God judge. The archangel Michael showed this restraint ([[ZEC.3:2]]) even though he was dealing with the devil himself.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "divine_word",
+        "faith",
+        "israel_church",
+        "logos"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "For the Son of God, Jesus Christ, who was preached among you by us-by me, Silvanus, and Timothy -was not Yes and No, but in Him was Yes.",
   "pericope": {
     "id": "2CO.P005",
@@ -12,7 +12,12 @@
     "range": "2CO.1:14-1:20",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "creation_theology",
+    "logos",
+    "wisdom"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +25,22 @@
       "line_number": 445,
       "raw_match": "[[2CO.1:19]]",
       "reference_type": "wikilink",
-      "context": "Laodicea (modern Eski-hisar) was 40 miles southeast of Philadelphia on the same road. It was the most prosperous city of the area, boasting a special type of wool, a large banking industry, and a famous medical school. Many Jews lived there. Paul wrote a letter to Laodicea (which no longer exists, unless it was identical to what we know as Ephesians) to be exchanged with the Colossians (see [[COL.4:16]]). Amen is a divine title applied here to Christ, who is the final ratification and accomplishment of the promise of God ([[2CO.1:19]], [[2CO.1:20]]). It affirms His sureness and steadfastness, amplified by Faithful and True Witness. The word beginning (Gr. arche) has been seized upon by ancient Arians and modern Jehovah's Witnesses, who attempt to prove Christ is created, thus denying His eternal existence. However, the term is more accurately translated as \"source\" or \"origin,\" signifying He is the Master of all. Christ the Beginning is the principle, the source of God's creation (see Pr 8:23; [[JOH.1:3]]; [[1CO.8:6]]; [[COL.1:16]], [[COL.1:17]]; [[HEB.1:2]]), the creative Word and Wisdom of God."
+      "context": "Laodicea (modern Eski-hisar) was 40 miles southeast of Philadelphia on the same road. It was the most prosperous city of the area, boasting a special type of wool, a large banking industry, and a famous medical school. Many Jews lived there. Paul wrote a letter to Laodicea (which no longer exists, unless it was identical to what we know as Ephesians) to be exchanged with the Colossians (see [[COL.4:16]]). Amen is a divine title applied here to Christ, who is the final ratification and accomplishment of the promise of God ([[2CO.1:19]], [[2CO.1:20]]). It affirms His sureness and steadfastness, amplified by Faithful and True Witness. The word beginning (Gr. arche) has been seized upon by ancient Arians and modern Jehovah's Witnesses, who attempt to prove Christ is created, thus denying His eternal existence. However, the term is more accurately translated as \"source\" or \"origin,\" signifying He is the Master of all. Christ the Beginning is the principle, the source of God's creation (see Pr 8:23; [[JOH.1:3]]; [[1CO.8:6]]; [[COL.1:16]], [[COL.1:17]]; [[HEB.1:2]]), the creative Word and Wisdom of God.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology",
+        "creation_theology",
+        "logos",
+        "wisdom"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

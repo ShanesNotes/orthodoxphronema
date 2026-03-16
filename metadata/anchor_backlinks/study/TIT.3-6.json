@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "whom He poured out on us abundantly through Jesus Christ our Savior,",
   "pericope": {
     "id": "TIT.P007",
@@ -12,7 +12,11 @@
     "range": "TIT.3:2-3:7",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "baptism",
+    "christology",
+    "faith"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,14 +24,32 @@
       "line_number": 29,
       "raw_match": "[[TIT.3:6]]",
       "reference_type": "wikilink",
-      "context": "Our salvation and calling are based on His grace and love, not on anything we have done to merit God's favor ([[EPH.2:8]]-10; [[TIT.3:5]], [[TIT.3:6]])."
+      "context": "Our salvation and calling are based on His grace and love, not on anything we have done to merit God's favor ([[EPH.2:8]]-10; [[TIT.3:5]], [[TIT.3:6]]).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology"
+      ]
     },
     {
       "source_file": "study/footnotes/NT/JOH_footnotes.md",
       "line_number": 87,
       "raw_match": "[[TIT.3:4]]-7",
       "reference_type": "wikilink_range",
-      "context": "Adoption as a child of God is not a matter of ethnic descent (of blood) as it was in the OT; nor are we children of God simply by natural birth (the will of the flesh), nor by man's own decision (the will of man). Becoming a child of God is a spiritual birth by grace, through faith, and in the Holy Spirit. This is accomplished and manifested in the sacrament of Holy Baptism (3:5-8; see [[TIT.3:4]]-7)."
+      "context": "Adoption as a child of God is not a matter of ethnic descent (of blood) as it was in the OT; nor are we children of God simply by natural birth (the will of the flesh), nor by man's own decision (the will of man). Becoming a child of God is a spiritual birth by grace, through faith, and in the Holy Spirit. This is accomplished and manifested in the sacrament of Holy Baptism (3:5-8; see [[TIT.3:4]]-7).",
+      "edge_type": "descends_to",
+      "topic_threads": [
+        "baptism",
+        "christology",
+        "faith"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 5,
+        "title": "Heaven and Earth: A Spiritual Perspective",
+        "polarity": "generation",
+        "operation": "inform",
+        "scale": "individual"
+      }
     }
   ]
 }

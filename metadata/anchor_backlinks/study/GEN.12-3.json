@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "I will bless those who bless you, and curse those who curse you; and in you all the tribes of the earth shall be blessed.'",
   "pericope": {
     "id": "GEN.P015",
@@ -12,7 +12,17 @@
     "range": "GEN.11:32-12:8",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "covenant",
+    "creation_theology",
+    "faith",
+    "israel_church",
+    "prayer",
+    "priesthood",
+    "temple",
+    "wisdom"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,28 +30,86 @@
       "line_number": 26,
       "raw_match": "[[GEN.12:1]]-3",
       "reference_type": "wikilink_range",
-      "context": "Christ is incomparably greater than Moses, for Christ, the Son of God, who brought all creation into existence from nonexistence, is building His Church. When Christ gave Moses and Israel the Law, He spoke as the Lord their God. Moses, however, spoke to Israel in the name of the Lord their God, not in his own name ([[EXO.20:22]]). When the Son of God became incarnate, He continued to speak to Israel, but now directly and not through a prophet. Although during His three-year ministry in Israel, He did works and spoke words in His almighty power, Israel refused to believe Him, their own Lord God. But to those Jews who did believe, He gave authority to become His children ([[JOH.1:11]], [[JOH.1:12]]). Christ also gave authority to believing Gentiles to become His children. In the Old Testament, He made it clear through Moses and His prophets the Gentiles would be included in promises to Israel (for example, [[GEN.12:1]]-3; [[ISA.49:5]], 6). Both would be in His Church. Race is not the issue, but rather faith in Christ. His Church is one, composed of every nation, tongue and tribe ([[REV.5:9]]). #### Harmony between Law And Grace"
+      "context": "Christ is incomparably greater than Moses, for Christ, the Son of God, who brought all creation into existence from nonexistence, is building His Church. When Christ gave Moses and Israel the Law, He spoke as the Lord their God. Moses, however, spoke to Israel in the name of the Lord their God, not in his own name ([[EXO.20:22]]). When the Son of God became incarnate, He continued to speak to Israel, but now directly and not through a prophet. Although during His three-year ministry in Israel, He did works and spoke words in His almighty power, Israel refused to believe Him, their own Lord God. But to those Jews who did believe, He gave authority to become His children ([[JOH.1:11]], [[JOH.1:12]]). Christ also gave authority to believing Gentiles to become His children. In the Old Testament, He made it clear through Moses and His prophets the Gentiles would be included in promises to Israel (for example, [[GEN.12:1]]-3; [[ISA.49:5]], 6). Both would be in His Church. Race is not the issue, but rather faith in Christ. His Church is one, composed of every nation, tongue and tribe ([[REV.5:9]]). #### Harmony between Law And Grace",
+      "edge_type": "descends_to",
+      "topic_threads": [
+        "christology",
+        "covenant",
+        "creation_theology",
+        "faith",
+        "israel_church"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/NT/JAS_footnotes.md",
       "line_number": 165,
       "raw_match": "[[GEN.12:1]]-3",
       "reference_type": "wikilink_range",
-      "context": "The faith of Abraham is living and active. (1) In [[GEN.12:1]]-3, when Abraham is 75 years old, he receives a call to forsake all and follow God. (2) In [[GEN.15:6]], when Abraham is almost 85, after he has proven his faith through years of renouncing his land, family, property, and privileges, God promises him that he will ultimately regain everything he has given up. Abraham's faith in God's promise is \"accounted to him for righteousness.\" God fulfills Abraham's faith by making a covenant with him, an OT liturgical and sacramental act. (3) In [[GEN.22:1]]-19, Abraham is at least 110. He has been tested for years concerning God's promise of a son. Now, after the covenant sacrament of initiation (circumcision) has been given in Gn 17, comes Abraham's supreme test: the sacrifice of Isaac, his son of promise ([[GEN.15:6]]). James reveals that [[GEN.15:6]] is fulfilled in Gn 22. This is a crucial lesson for us in our understanding of justification by faith. Neither Abraham's faith nor his justification is merely momentary, static, or once-and-for-all. It is dynamic, a growth process that finds its natural and normal realization in good works. Far from being just point-in-time, Abraham's justification covered at least 25 years after God first declared him just. It is living and active faith that saves!"
+      "context": "The faith of Abraham is living and active. (1) In [[GEN.12:1]]-3, when Abraham is 75 years old, he receives a call to forsake all and follow God. (2) In [[GEN.15:6]], when Abraham is almost 85, after he has proven his faith through years of renouncing his land, family, property, and privileges, God promises him that he will ultimately regain everything he has given up. Abraham's faith in God's promise is \"accounted to him for righteousness.\" God fulfills Abraham's faith by making a covenant with him, an OT liturgical and sacramental act. (3) In [[GEN.22:1]]-19, Abraham is at least 110. He has been tested for years concerning God's promise of a son. Now, after the covenant sacrament of initiation (circumcision) has been given in Gn 17, comes Abraham's supreme test: the sacrifice of Isaac, his son of promise ([[GEN.15:6]]). James reveals that [[GEN.15:6]] is fulfilled in Gn 22. This is a crucial lesson for us in our understanding of justification by faith. Neither Abraham's faith nor his justification is merely momentary, static, or once-and-for-all. It is dynamic, a growth process that finds its natural and normal realization in good works. Far from being just point-in-time, Abraham's justification covered at least 25 years after God first declared him just. It is living and active faith that saves!",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "covenant",
+        "faith",
+        "wisdom"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/NT/MAT_footnotes.md",
       "line_number": 30,
       "raw_match": "[[GEN.12:3]]",
       "reference_type": "wikilink",
-      "context": "While Luke's genealogy runs from Jesus back to Adam ([[LUK.3:23]]-38), Matthew's list descends from Abraham, with whom God established the Old Covenant of circumcision, to Jesus, the author of the New Covenant. God promised to bless all the tribes of the earth in Abraham ([[GEN.12:3]]; 28:14); this promise is fulfilled in Abraham's greatest Son, Jesus Christ."
+      "context": "While Luke's genealogy runs from Jesus back to Adam ([[LUK.3:23]]-38), Matthew's list descends from Abraham, with whom God established the Old Covenant of circumcision, to Jesus, the author of the New Covenant. God promised to bless all the tribes of the earth in Abraham ([[GEN.12:3]]; 28:14); this promise is fulfilled in Abraham's greatest Son, Jesus Christ.",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "covenant"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/NEH_footnotes.md",
       "line_number": 106,
       "raw_match": "[[GEN.12:1]]-3",
       "reference_type": "wikilink_range",
-      "context": "Being a man of wisdom, Nehemiah secretly inspects the wall of Jerusalem by night (v. 13). Not even the sentries knew what he was up to (v. 16). 2:17-18 I said to them: With the survey completed and the mission now clear, Nehemiah calls together the officials of Jerusalem and the workers (v. 16). Here he moves from mediator (2:5) to motivator: Let us rise up and let us build (v. 18). 2:19-20 Whenever God's will is being carried out, expect the critics to step forward. Jesus had the scribes and Pharisees, St. Paul had Demas and Alexander the coppersmith (2Ti 4:9-15), and Nehemiah had Sanballat, Tobiah, and Geshem, who laughed at the project. The prophet, not arguing, said, \"God... will... prosper us\" (see [[EXO.14:14]]; [[1TH.5:24]]). 3:1-32 The work to rebuild Jerusalem and restore Israel within the land God promised to their ancestors begins at once. The laborers are a veritable \"Who's Who\" of Jerusalem and the surrounding communities. They include the high priest and the priests (v. 1), and the men of Jericho (v. 2), who are likely returned exiles from that city. The Tekoites (v. 5), from Amos' hometown of Tekoa ([[AMO.1:1]]), did repair work (their nobles probably sided with Sanballat), along with the sons of other district leaders (vv. 12, 14, 16) and some Levites (v. 17)--the cooperation is stunning. The Nethinim (v. 26) are a group or order of temple servants. Even the merchants took part (v. 32). 3:36 Nehemiah's response to those openly opposed to God's will is not anger but prayer, that God will bring vengeance against them (see [[GEN.12:1]]-3; [[JOS.1:5]]; [[DEU.32:35]]; Rom"
+      "context": "Being a man of wisdom, Nehemiah secretly inspects the wall of Jerusalem by night (v. 13). Not even the sentries knew what he was up to (v. 16). 2:17-18 I said to them: With the survey completed and the mission now clear, Nehemiah calls together the officials of Jerusalem and the workers (v. 16). Here he moves from mediator (2:5) to motivator: Let us rise up and let us build (v. 18). 2:19-20 Whenever God's will is being carried out, expect the critics to step forward. Jesus had the scribes and Pharisees, St. Paul had Demas and Alexander the coppersmith (2Ti 4:9-15), and Nehemiah had Sanballat, Tobiah, and Geshem, who laughed at the project. The prophet, not arguing, said, \"God... will... prosper us\" (see [[EXO.14:14]]; [[1TH.5:24]]). 3:1-32 The work to rebuild Jerusalem and restore Israel within the land God promised to their ancestors begins at once. The laborers are a veritable \"Who's Who\" of Jerusalem and the surrounding communities. They include the high priest and the priests (v. 1), and the men of Jericho (v. 2), who are likely returned exiles from that city. The Tekoites (v. 5), from Amos' hometown of Tekoa ([[AMO.1:1]]), did repair work (their nobles probably sided with Sanballat), along with the sons of other district leaders (vv. 12, 14, 16) and some Levites (v. 17)--the cooperation is stunning. The Nethinim (v. 26) are a group or order of temple servants. Even the merchants took part (v. 32). 3:36 Nehemiah's response to those openly opposed to God's will is not anger but prayer, that God will bring vengeance against them (see [[GEN.12:1]]-3; [[JOS.1:5]]; [[DEU.32:35]]; Rom",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "prayer",
+        "priesthood",
+        "temple",
+        "wisdom"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

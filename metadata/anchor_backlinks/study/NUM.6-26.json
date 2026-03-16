@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "The Lord lift up His countenance upon you, and give you peace.'",
   "pericope": {
     "id": "NUM.P016",
@@ -12,7 +12,12 @@
     "range": "NUM.6:26-7:8",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "creation_theology",
+    "divine_light",
+    "priesthood",
+    "temple"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +25,22 @@
       "line_number": 1909,
       "raw_match": "[[NUM.6:23]]-26",
       "reference_type": "wikilink_range",
-      "context": "The Lord God gives them light perfects the priestly blessing of [[NUM.6:23]]-26, a concluding benediction of the daily morning and evening sacrifices of the OT temple. When you have God's uncreated light, there can be no night (see 21:23; Is 60:19, 20)."
+      "context": "The Lord God gives them light perfects the priestly blessing of [[NUM.6:23]]-26, a concluding benediction of the daily morning and evening sacrifices of the OT temple. When you have God's uncreated light, there can be no night (see 21:23; Is 60:19, 20).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "creation_theology",
+        "divine_light",
+        "priesthood",
+        "temple"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 10,
+        "title": "Light and Darkness: A Spiritual Perspective",
+        "polarity": "vertical",
+        "operation": "ascend",
+        "scale": "communal"
+      }
     }
   ]
 }

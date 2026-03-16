@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "But why is this granted to me, that the mother of my Lord should come to me?",
   "pericope": {
     "id": "LUK.P003",
@@ -12,7 +12,17 @@
     "range": "LUK.1:38-1:44",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "baptism",
+    "christology",
+    "creation_theology",
+    "faith",
+    "kingdom",
+    "logos",
+    "mercy",
+    "praise",
+    "prayer"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,21 +30,66 @@
       "line_number": 39,
       "raw_match": "[[LUK.1:5]]-58",
       "reference_type": "wikilink_range",
-      "context": "T he Bible and human history begin and end with marriages. Adam and Eve come together in marital union in Paradise, before the Fall, revealing marriage as a part of God's eternal purpose for humanity in the midst of creation ([[GEN.2:22]]-25). History closes with the marriage of the Bride to the Lamb ([[REV.19:7]]-9), earthly marriage being fulfilled in the heavenly, showing the eternal nature of the sacrament. Between these bookend events of history are the accounts of numerous other unions of man and wife. In the centuries-old Christian wedding ceremony used to this day in the Orthodox Church, several of these historic marriages are remembered: Abraham and Sarah ([[GEN.11:29]]-23:20); Isaac and Rebecca (Gn 24); Joachim and Anna, the parents of the Virgin Mary; and Zacharias and Elizabeth ([[LUK.1:5]]-58). The marriage most prominently featured in the wedding ceremony, however, is the one at Cana of Galilee, described in the Gospel passage read at every Orthodox wedding ([[JOH.2:1]]-11). In attending this wedding and performing His first miracle there, Jesus Christ, the Son of God, forever sanctified marriage. As with all the Christian sacraments, marriage is sacramental because it is blessed by God. Parenthetically, we note that it is at this wedding at Cana that Mary first intercedes with Christ on behalf of others: 'They have no wine' ([[JOH.2:3]]). Then she calls all humanity to obey Him: 'Whatever He says to you, do it ' ([[JOH.2:5]]). In modern society, as well as in Christendom, a recurring debate concerns the tension between equality of the partners in marriage and office or order in marriage. Often, this tension has turned into a polarity between men and women, and sometimes even breeds hostility. Two elements in the Orthodox service of marriage serve to heal such tension, while making clear the teaching of the Church on the twin themes of equality and order concerning husband and wife. As to equality, during the ceremony crowns are placed on the heads of the bride and groom. This act is symbolic of their citizenship in the Kingdom of God, where 'there is neither male nor female' ([[GAL.3:28]]), and of their dying to each other (the crown is often a symbol of martyrdom; see [[REV.2:10]]). The words of St. Paul on marital equality are clear: 'The wife does not have authority over her own body, but the husband does. And likewise the husband does not have authority over his own body, but the wife does ' ([[1CO.7:4]]). Husband and wife belong to each other as martyrs, they belong to God as royalty, and they are called to treat each other accordingly. But within marital equality there is also order. The epistle passage read at the sacrament of marriage is Ephesians 5:20-33, an exhortation to husbands and wives that begins with a call to submit to each other (v. 21). The husband is to serve God as head of his wife, as Christ is Head of the Church (v. 23). The wife is to be subject to her husband as the Church is subject to Christ (v. 24). There is nothing here to suggest the wife is oppressed in marriage, any more than one would call the Church oppressed in relationship to Christ. He who calls us 'brethren' ([[HEB.2:11]]) and 'friends' ([[JOH.15:15]]) exhorts the husband to love his wife, to nourish and cherish her as He Himself does the Church (vv. 28, 29). Thus, marriage is a sacrament-holy, blessed, and everlasting in the sight of God and His Church. Within the bonds of marriage, husband and wife experience a union with one another in love. We pray for them the fruit of children and one day the joy of grandchildren. And within the bonds of marriage there is both a fullness of equality between husband and wife and a clarity of order, with the husband as the icon of Christ and the wife as the icon of the Church."
+      "context": "T he Bible and human history begin and end with marriages. Adam and Eve come together in marital union in Paradise, before the Fall, revealing marriage as a part of God's eternal purpose for humanity in the midst of creation ([[GEN.2:22]]-25). History closes with the marriage of the Bride to the Lamb ([[REV.19:7]]-9), earthly marriage being fulfilled in the heavenly, showing the eternal nature of the sacrament. Between these bookend events of history are the accounts of numerous other unions of man and wife. In the centuries-old Christian wedding ceremony used to this day in the Orthodox Church, several of these historic marriages are remembered: Abraham and Sarah ([[GEN.11:29]]-23:20); Isaac and Rebecca (Gn 24); Joachim and Anna, the parents of the Virgin Mary; and Zacharias and Elizabeth ([[LUK.1:5]]-58). The marriage most prominently featured in the wedding ceremony, however, is the one at Cana of Galilee, described in the Gospel passage read at every Orthodox wedding ([[JOH.2:1]]-11). In attending this wedding and performing His first miracle there, Jesus Christ, the Son of God, forever sanctified marriage. As with all the Christian sacraments, marriage is sacramental because it is blessed by God. Parenthetically, we note that it is at this wedding at Cana that Mary first intercedes with Christ on behalf of others: 'They have no wine' ([[JOH.2:3]]). Then she calls all humanity to obey Him: 'Whatever He says to you, do it ' ([[JOH.2:5]]). In modern society, as well as in Christendom, a recurring debate concerns the tension between equality of the partners in marriage and office or order in marriage. Often, this tension has turned into a polarity between men and women, and sometimes even breeds hostility. Two elements in the Orthodox service of marriage serve to heal such tension, while making clear the teaching of the Church on the twin themes of equality and order concerning husband and wife. As to equality, during the ceremony crowns are placed on the heads of the bride and groom. This act is symbolic of their citizenship in the Kingdom of God, where 'there is neither male nor female' ([[GAL.3:28]]), and of their dying to each other (the crown is often a symbol of martyrdom; see [[REV.2:10]]). The words of St. Paul on marital equality are clear: 'The wife does not have authority over her own body, but the husband does. And likewise the husband does not have authority over his own body, but the wife does ' ([[1CO.7:4]]). Husband and wife belong to each other as martyrs, they belong to God as royalty, and they are called to treat each other accordingly. But within marital equality there is also order. The epistle passage read at the sacrament of marriage is Ephesians 5:20-33, an exhortation to husbands and wives that begins with a call to submit to each other (v. 21). The husband is to serve God as head of his wife, as Christ is Head of the Church (v. 23). The wife is to be subject to her husband as the Church is subject to Christ (v. 24). There is nothing here to suggest the wife is oppressed in marriage, any more than one would call the Church oppressed in relationship to Christ. He who calls us 'brethren' ([[HEB.2:11]]) and 'friends' ([[JOH.15:15]]) exhorts the husband to love his wife, to nourish and cherish her as He Himself does the Church (vv. 28, 29). Thus, marriage is a sacrament-holy, blessed, and everlasting in the sight of God and His Church. Within the bonds of marriage, husband and wife experience a union with one another in love. We pray for them the fruit of children and one day the joy of grandchildren. And within the bonds of marriage there is both a fullness of equality between husband and wife and a clarity of order, with the husband as the icon of Christ and the wife as the icon of the Church.",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "creation_theology",
+        "kingdom"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/articles/NT/LUK_articles.md",
       "line_number": 24,
       "raw_match": "[[LUK.1:43]]",
       "reference_type": "wikilink",
-      "context": "F or two thousand years the Church has preserved the memory of the Virgin Mary as the prototype of all Christians-the model of what we are to become in Christ. Mary was truly pure and unconditionally obedient to God. The tradition of the Church holds that Mary remained a virgin all her life (see note on [[MAT.12:46]]-50). While lifelong celibacy is not a model for all Christians to follow, Mary's spiritual purity, her wholehearted devotion to God, is certainly to be emulated. Mary is also our model in that she was the first person to receive Jesus Christ. As Mary bore Christ in her womb physically, all Christians now have the privilege of bearing God within them spiritually. By God's grace and mercy we are purified and empowered to become like Him. The honor we give to Mary also signifies our view of who Jesus is. From early times the church has called her Mother of God (Gr. Theotokos, lit. 'God-Bearer'), a title which implies that her Son is both fully man and fully God. As His Mother, Mary was the source of Jesus' human nature; yet the One she bore in her womb was also the eternal God. Therefore, because of her character and especially because of her role in God's plan of salvation, Christians appropriately honor Mary as the first among the saints. The archangel Gabriel initiated this honor in his address to her: 'Rejoice, highly favored one, the Lord is with you; blessed are you among women!' ([[LUK.1:28]]). This salutation clearly indicates that God Himself had chosen to honor Mary. Her favored status was confirmed when she went to visit her cousin Elizabeth, who was then six months pregnant with John the Baptist. Elizabeth greeted Mary with these words: 'Blessed are you among women, and blessed is the fruit of your womb! But why is this granted to me, that the mother of my Lord should come to me?' ([[LUK.1:42]], [[LUK.1:43]]). And Mary herself, by the inspiration of the Holy Spirit, predicted the honor that would be paid her throughout history: 'For behold, henceforth all generations will call me blessed' ([[LUK.1:48]]). In obedience to God's clear intention, therefore, the Orthodox Church honors Mary in icons, hymns, and special feast days. We entreat her, as the human being who was most intimate with Christ on earth, to intercede with her Son on our behalf. We ask her, as the first believer and the Mother of the Church, for guidance and protection. We venerate her-but we do not worship her, for worship belongs to God alone. In Matins, Vespers, and all the services of the hours of prayer, we sing this hymn, which expresses Mary's unique place in creation. It is truly right to bless you, O Theotokos, ever-blessed and most pure, and the Mother of our God. More honorable than the cherubim and more glorious beyond compare than the seraphim, without defilement you gave birth to God the Word: True Theotokos, we magnify you."
+      "context": "F or two thousand years the Church has preserved the memory of the Virgin Mary as the prototype of all Christians-the model of what we are to become in Christ. Mary was truly pure and unconditionally obedient to God. The tradition of the Church holds that Mary remained a virgin all her life (see note on [[MAT.12:46]]-50). While lifelong celibacy is not a model for all Christians to follow, Mary's spiritual purity, her wholehearted devotion to God, is certainly to be emulated. Mary is also our model in that she was the first person to receive Jesus Christ. As Mary bore Christ in her womb physically, all Christians now have the privilege of bearing God within them spiritually. By God's grace and mercy we are purified and empowered to become like Him. The honor we give to Mary also signifies our view of who Jesus is. From early times the church has called her Mother of God (Gr. Theotokos, lit. 'God-Bearer'), a title which implies that her Son is both fully man and fully God. As His Mother, Mary was the source of Jesus' human nature; yet the One she bore in her womb was also the eternal God. Therefore, because of her character and especially because of her role in God's plan of salvation, Christians appropriately honor Mary as the first among the saints. The archangel Gabriel initiated this honor in his address to her: 'Rejoice, highly favored one, the Lord is with you; blessed are you among women!' ([[LUK.1:28]]). This salutation clearly indicates that God Himself had chosen to honor Mary. Her favored status was confirmed when she went to visit her cousin Elizabeth, who was then six months pregnant with John the Baptist. Elizabeth greeted Mary with these words: 'Blessed are you among women, and blessed is the fruit of your womb! But why is this granted to me, that the mother of my Lord should come to me?' ([[LUK.1:42]], [[LUK.1:43]]). And Mary herself, by the inspiration of the Holy Spirit, predicted the honor that would be paid her throughout history: 'For behold, henceforth all generations will call me blessed' ([[LUK.1:48]]). In obedience to God's clear intention, therefore, the Orthodox Church honors Mary in icons, hymns, and special feast days. We entreat her, as the human being who was most intimate with Christ on earth, to intercede with her Son on our behalf. We ask her, as the first believer and the Mother of the Church, for guidance and protection. We venerate her-but we do not worship her, for worship belongs to God alone. In Matins, Vespers, and all the services of the hours of prayer, we sing this hymn, which expresses Mary's unique place in creation. It is truly right to bless you, O Theotokos, ever-blessed and most pure, and the Mother of our God. More honorable than the cherubim and more glorious beyond compare than the seraphim, without defilement you gave birth to God the Word: True Theotokos, we magnify you.",
+      "edge_type": "echoes",
+      "topic_threads": [
+        "christology",
+        "creation_theology",
+        "faith",
+        "logos",
+        "mercy",
+        "praise",
+        "prayer"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/NT/GAL_footnotes.md",
       "line_number": 65,
       "raw_match": "[[LUK.1:43]]",
       "reference_type": "wikilink",
-      "context": "People are called by God not according to former conduct (v. 13)--good or bad-- but by God's grace (v. 15). Paul, whom God called in mercy, received grace from Ananias' hands and the waters of baptism ([[ACT.9:10]]-19). Separated me from my mother's womb (v. 15) refers not to Paul's physical birth but to God's calling Paul to apostolic ministry before he was born (see [[PSA.138:15]], [[PSA.138:16]]; Is 49:1; [[JER.1:5]]; [[LUK.1:35]], [[LUK.1:43]], [[LUK.1:44]], [[LUK.1:48]]). As with Paul, God's intentions for a person may lie hidden for years."
+      "context": "People are called by God not according to former conduct (v. 13)--good or bad-- but by God's grace (v. 15). Paul, whom God called in mercy, received grace from Ananias' hands and the waters of baptism ([[ACT.9:10]]-19). Separated me from my mother's womb (v. 15) refers not to Paul's physical birth but to God's calling Paul to apostolic ministry before he was born (see [[PSA.138:15]], [[PSA.138:16]]; Is 49:1; [[JER.1:5]]; [[LUK.1:35]], [[LUK.1:43]], [[LUK.1:44]], [[LUK.1:48]]). As with Paul, God's intentions for a person may lie hidden for years.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "baptism",
+        "mercy"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Of His own will He brought us forth by the word of truth, that we might be a kind of firstfruits of His creatures.",
   "pericope": {
     "id": "JAS.P004",
@@ -12,7 +12,9 @@
     "range": "JAS.1:18-1:26",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "logos"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,16 @@
       "line_number": 36,
       "raw_match": "[[JAS.1:12]]-18",
       "reference_type": "wikilink_range",
-      "context": ", 14 God intends for man to have eternal life. Evil and death are not of God's making (see [[JAS.1:12]]-18)."
+      "context": ", 14 God intends for man to have eternal life. Evil and death are not of God's making (see [[JAS.1:12]]-18).",
+      "edge_type": "instantiates",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

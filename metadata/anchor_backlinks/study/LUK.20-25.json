@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "They answered and said, 'Caesar's.' And He said to them, 'Render therefore to Caesar the things that are Caesar's, and to God the things that are God's.'",
   "pericope": {
     "id": "LUK.P095",
@@ -12,7 +12,9 @@
     "range": "LUK.20:19-20:25",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "faith"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 234,
       "raw_match": "[[LUK.20:25]]",
       "reference_type": "wikilink",
-      "context": "While God commands our obedience to governing authorities ([[LUK.20:25]]; [[ROM.13:1]]- 7), obedience to God comes first. When the two are in conflict, the believer must follow God and be willing to accept the consequences."
+      "context": "While God commands our obedience to governing authorities ([[LUK.20:25]]; [[ROM.13:1]]- 7), obedience to God comes first. When the two are in conflict, the believer must follow God and be willing to accept the consequences.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "faith"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

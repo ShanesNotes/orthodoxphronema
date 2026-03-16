@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "She said to Him, 'Grant that these two sons of mine may sit, one on Your right hand and the other on the left, in Your kingdom.' But Jesus answered and said, 'You do not know what you ask. Are you able to drink the cup that I am about to drink, and be baptized with the baptism that I am baptized with?'They said to Him, 'We are able.'",
   "pericope": {
     "id": "MAT.P067",
@@ -12,7 +12,11 @@
     "range": "MAT.20:19-20:26",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "baptism",
+    "christology",
+    "suffering"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +24,21 @@
       "line_number": 1261,
       "raw_match": "[[MAT.20:20]]-23",
       "reference_type": "wikilink_range",
-      "context": "Baptism refers to Christ's Passion (see note at [[MAT.20:20]]-23)."
+      "context": "Baptism refers to Christ's Passion (see note at [[MAT.20:20]]-23).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "baptism",
+        "christology",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

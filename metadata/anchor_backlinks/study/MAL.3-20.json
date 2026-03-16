@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "But to you who fear My name the Sun of Righteousness shall arise with healing in His wings, and you shall go forth leaping as little calves released from their bonds.",
   "pericope": {
     "id": "MAL.P007",
@@ -20,7 +20,16 @@
       "line_number": 460,
       "raw_match": "[[MAL.3:20]]",
       "reference_type": "wikilink",
-      "context": "The Bride, the Church, is beautiful as the moon because she is illumined by the Sun of Righteousness ([[MAL.3:20]]) and reflects the light of His glory."
+      "context": "The Bride, the Church, is beautiful as the moon because she is illumined by the Sun of Righteousness ([[MAL.3:20]]) and reflects the light of His glory.",
+      "edge_type": "instantiates",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Do you not know that you are the temple of God and that the Spirit of God dwells in you?",
   "pericope": {
     "id": "1CO.P009",
@@ -12,7 +12,15 @@
     "range": "1CO.3:4-3:16",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "faith",
+    "israel_church",
+    "mercy",
+    "priesthood",
+    "suffering",
+    "temple"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,42 +28,124 @@
       "line_number": 148,
       "raw_match": "[[1CO.3:16]]",
       "reference_type": "wikilink",
-      "context": "Peter likens the growth of the Church to the OT temple with its attending priesthood and its sacrifice and worship, Christ Himself being the fulfillment of this imagery. Thus, in Christ we become living stones, a spiritual house, a royal priesthood (v. 5; see [[EXO.19:5]], [[EXO.19:6]]), the people of God who have obtained mercy (v. 10; see [[EPH.2:19]]-22; [[1CO.3:16]], [[1CO.3:17]]; [[2CO.6:16]]). This is salvation in all its fullness."
+      "context": "Peter likens the growth of the Church to the OT temple with its attending priesthood and its sacrifice and worship, Christ Himself being the fulfillment of this imagery. Thus, in Christ we become living stones, a spiritual house, a royal priesthood (v. 5; see [[EXO.19:5]], [[EXO.19:6]]), the people of God who have obtained mercy (v. 10; see [[EPH.2:19]]-22; [[1CO.3:16]], [[1CO.3:17]]; [[2CO.6:16]]). This is salvation in all its fullness.",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "israel_church",
+        "mercy",
+        "priesthood",
+        "temple"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/NT/MAT_footnotes.md",
       "line_number": 1854,
       "raw_match": "[[1CO.3:16]]",
       "reference_type": "wikilink",
-      "context": "Those who bought and sold were trading in live animals to be used for sacrifices. The money changers traded Roman coins for Jewish coins since Roman coins, which bore the image of Caesar, were considered defiling in the temple. The cleansing of the temple also points to the necessity that the Church be kept free from earthly pursuits. As each person is considered a temple of God ([[1CO.3:16]]; 6:19), it is also a sign that our hearts and minds must be cleansed of earthly matters."
+      "context": "Those who bought and sold were trading in live animals to be used for sacrifices. The money changers traded Roman coins for Jewish coins since Roman coins, which bore the image of Caesar, were considered defiling in the temple. The cleansing of the temple also points to the necessity that the Church be kept free from earthly pursuits. As each person is considered a temple of God ([[1CO.3:16]]; 6:19), it is also a sign that our hearts and minds must be cleansed of earthly matters.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "temple"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/NT/REV_footnotes.md",
       "line_number": 944,
       "raw_match": "[[1CO.3:16]]",
       "reference_type": "wikilink",
-      "context": "The voice of God directs John to take the book. The symbolism of eating refers to receiving a revelation from God: John's account has many parallels to the commissioning of Ezekiel ([[EZK.2:8]]-3:3; see also [[PSA.118:103]]). The contrast between sweetness in the mouth and bitterness in the stomach shows the sweetness of receiving God's revelation (announcing God's victory for His people) as opposed to the bitterness of its message of woe (announcing God's terrible judgments, as well as sufferings for His faithful ones). 11:1, 2 The measurement of the temple recalls Ezekiel's vision (Ezk 40-42). Here the measurement indicates the preservation of the temple, not restoration. Commentators variously interpret the temple as (1) a literal temple to be rebuilt in Jerusalem in the future, (2) a symbol of the Church (see [[EPH.2:19]]-21; [[1PE.2:5]]), or (3) the Jewish-Christian Church of the first century. The holy city (v. 2) shows the setting to be Jerusalem. The Synoptic Gospels also taught that Jerusalem would fall (Mt 24; Mk 13; Lk 21); Luke mentioned specifically that the Gentiles would trample Jerusalem for a period (21:24). In patristic tradition the second interpretation is preferable. The court outside (v. 2) is for both Jews and Gentiles. It will not be measured because of the large number of Christians. The forty-two months (v. 2) is three and a half years, one-half of seven, symbolizing what is not full or final but temporary, incomplete. It derives from Daniel's \"a time, two times, and half a time\" (12:7), the three-and-a-half-year period when the temple was to be profaned ([[DAN.9:27]]). John affirms the true temple, the Church, will be preserved during this Gentile onslaught. \"Temple\" is a frequent NT symbol for the Church ([[1CO.3:16]], [[1CO.3:17]]; [[2CO.6:16]]; [[EPH.2:19]]-22)."
+      "context": "The voice of God directs John to take the book. The symbolism of eating refers to receiving a revelation from God: John's account has many parallels to the commissioning of Ezekiel ([[EZK.2:8]]-3:3; see also [[PSA.118:103]]). The contrast between sweetness in the mouth and bitterness in the stomach shows the sweetness of receiving God's revelation (announcing God's victory for His people) as opposed to the bitterness of its message of woe (announcing God's terrible judgments, as well as sufferings for His faithful ones). 11:1, 2 The measurement of the temple recalls Ezekiel's vision (Ezk 40-42). Here the measurement indicates the preservation of the temple, not restoration. Commentators variously interpret the temple as (1) a literal temple to be rebuilt in Jerusalem in the future, (2) a symbol of the Church (see [[EPH.2:19]]-21; [[1PE.2:5]]), or (3) the Jewish-Christian Church of the first century. The holy city (v. 2) shows the setting to be Jerusalem. The Synoptic Gospels also taught that Jerusalem would fall (Mt 24; Mk 13; Lk 21); Luke mentioned specifically that the Gentiles would trample Jerusalem for a period (21:24). In patristic tradition the second interpretation is preferable. The court outside (v. 2) is for both Jews and Gentiles. It will not be measured because of the large number of Christians. The forty-two months (v. 2) is three and a half years, one-half of seven, symbolizing what is not full or final but temporary, incomplete. It derives from Daniel's \"a time, two times, and half a time\" (12:7), the three-and-a-half-year period when the temple was to be profaned ([[DAN.9:27]]). John affirms the true temple, the Church, will be preserved during this Gentile onslaught. \"Temple\" is a frequent NT symbol for the Church ([[1CO.3:16]], [[1CO.3:17]]; [[2CO.6:16]]; [[EPH.2:19]]-22).",
+      "edge_type": "witnesses",
+      "topic_threads": [
+        "christology",
+        "suffering",
+        "temple"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/EZR_footnotes.md",
       "line_number": 85,
       "raw_match": "[[1CO.3:9]]-17",
       "reference_type": "wikilink_range",
-      "context": "The young Levites together with the sons of Judah begin to lay the foundation for the temple. This is fulfilled through Jesus Christ and His apostles in the building of the Church ([[MAT.21:42]]; [[1CO.3:9]]-17; [[EPH.2:19]]-22)."
+      "context": "The young Levites together with the sons of Judah begin to lay the foundation for the temple. This is fulfilled through Jesus Christ and His apostles in the building of the Church ([[MAT.21:42]]; [[1CO.3:9]]-17; [[EPH.2:19]]-22).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "priesthood",
+        "temple"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/ISA_footnotes.md",
       "line_number": 467,
       "raw_match": "[[1CO.3:16]]",
       "reference_type": "wikilink",
-      "context": "According to the Fathers, the saints, who dwell with God in the heights, have also become the dwelling place of God ([[1CO.3:16]]). Zion here represents the Church."
+      "context": "According to the Fathers, the saints, who dwell with God in the heights, have also become the dwelling place of God ([[1CO.3:16]]). Zion here represents the Church.",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "temple"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/PSA_footnotes.md",
       "line_number": 126,
       "raw_match": "[[1CO.3:16]]",
       "reference_type": "wikilink",
-      "context": "Ps 10 shows what it means for the Church to trust in the Lord Jesus Christ (v. 1), for He is the End. (1) Trusting in the Lord overcomes cowardice (Flee to the mountains like a sparrow, v. 1). (2) Trusting in the Lord overcomes the devil and his angels (vv. 2, 3; see also [[EPH.6:16]]). (3) Trusting in the Lord makes the Church a dwelling place of God (v. 4a; see also [[1CO.3:16]], [[1CO.3:17]]; [[EPH.2:21]], [[EPH.2:22]]). (4) Trusting in the Lord keeps one poor in spirit (v. 4b; see also [[MAT.5:3]]). (5) Trusting in the Lord helps one love virtue and hate vice (vv. 5-7; see also [[HEB.1:9]]; [[1PE.3:10]]-12)."
+      "context": "Ps 10 shows what it means for the Church to trust in the Lord Jesus Christ (v. 1), for He is the End. (1) Trusting in the Lord overcomes cowardice (Flee to the mountains like a sparrow, v. 1). (2) Trusting in the Lord overcomes the devil and his angels (vv. 2, 3; see also [[EPH.6:16]]). (3) Trusting in the Lord makes the Church a dwelling place of God (v. 4a; see also [[1CO.3:16]], [[1CO.3:17]]; [[EPH.2:21]], [[EPH.2:22]]). (4) Trusting in the Lord keeps one poor in spirit (v. 4b; see also [[MAT.5:3]]). (5) Trusting in the Lord helps one love virtue and hate vice (vv. 5-7; see also [[HEB.1:9]]; [[1PE.3:10]]-12).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology",
+        "faith",
+        "temple"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

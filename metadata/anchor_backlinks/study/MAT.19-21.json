@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Jesus said to him, 'If you want to be perfect, go, sell what you have and give to the poor, and you will have treasure in heaven; and come, follow Me.'",
   "pericope": {
     "id": "MAT.P064",
@@ -20,7 +20,16 @@
       "line_number": 783,
       "raw_match": "[[MAT.19:21]]",
       "reference_type": "wikilink",
-      "context": "Jesus urges us to \"give to the poor\" ([[MAT.19:21]]) and to lay down our lives for others ([[JOH.15:13]]). But even such a selfless act done without love profits us nothing."
+      "context": "Jesus urges us to \"give to the poor\" ([[MAT.19:21]]) and to lay down our lives for others ([[JOH.15:13]]). But even such a selfless act done without love profits us nothing.",
+      "edge_type": "instantiates",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

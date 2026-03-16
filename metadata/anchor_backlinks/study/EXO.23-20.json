@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "'Behold, I send My Angel before your face, to keep you in the way and to bring you into the land I prepared for you.",
   "pericope": {
     "id": "EXO.P047",
@@ -20,7 +20,16 @@
       "line_number": 28,
       "raw_match": "[[EXO.23:20]]-23",
       "reference_type": "wikilink_range",
-      "context": "This verse describes the important role of the guardian angel, who watches and guides us through the day. For other examples, see [[EXO.23:20]]-23; 32:34; [[PSA.90:11]]."
+      "context": "This verse describes the important role of the guardian angel, who watches and guides us through the day. For other examples, see [[EXO.23:20]]-23; 32:34; [[PSA.90:11]].",
+      "edge_type": "instantiates",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

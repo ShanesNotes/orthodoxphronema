@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "And beginning at Moses and all the Prophets, He expounded to them in all the Scriptures the things concerning Himself.",
   "pericope": {
     "id": "LUK.P121",
@@ -12,7 +12,11 @@
     "range": "LUK.23:56-24:53",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "creation_theology",
+    "praise"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,14 +24,41 @@
       "line_number": 58,
       "raw_match": "[[LUK.24:27]]",
       "reference_type": "wikilink",
-      "context": "Because the apostles had been enlightened by Christ to understand the OT as pointing to Him and His works ([[LUK.24:27]]), Peter now sees these two prophetic psalms (v. 20) as foretelling the fate of Judas."
+      "context": "Because the apostles had been enlightened by Christ to understand the OT as pointing to Him and His works ([[LUK.24:27]]), Peter now sees these two prophetic psalms (v. 20) as foretelling the fate of Judas.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology",
+        "creation_theology",
+        "praise"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/EZR_footnotes.md",
       "line_number": 136,
       "raw_match": "[[LUK.24:27]]",
       "reference_type": "wikilink",
-      "context": "The appeal to search the king's treasure house to find the king's decree parallels the Church's readiness to search the Scriptures ([[JOH.5:39]]; [[ACT.17:11]]). Appealing to the Scriptures is how Jesus and His apostles demonstrated His genuine claim to be the Christ, the incarnate Son of God ([[LUK.24:27]]; [[ACT.17:2]], [[ACT.17:11]]; 18:28). Interestingly, the appeal to the Scriptures was also one of the ways Jesus' enemies tried to malign Him ([[MAT.4:6]]; Jn"
+      "context": "The appeal to search the king's treasure house to find the king's decree parallels the Church's readiness to search the Scriptures ([[JOH.5:39]]; [[ACT.17:11]]). Appealing to the Scriptures is how Jesus and His apostles demonstrated His genuine claim to be the Christ, the incarnate Son of God ([[LUK.24:27]]; [[ACT.17:2]], [[ACT.17:11]]; 18:28). Interestingly, the appeal to the Scriptures was also one of the ways Jesus' enemies tried to malign Him ([[MAT.4:6]]; Jn",
+      "edge_type": "descends_to",
+      "topic_threads": [
+        "christology",
+        "creation_theology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

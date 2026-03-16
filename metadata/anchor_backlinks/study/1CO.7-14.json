@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "For the unbelieving husband is sanctified by the wife, and the unbelieving wife is sanctified by the husband; otherwise your children would be unclean, but now they are holy.",
   "pericope": {
     "id": "1CO.P016",
@@ -12,7 +12,12 @@
     "range": "1CO.6:20-7:23",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "faith",
+    "israel_church",
+    "suffering"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,14 +25,42 @@
       "line_number": 1747,
       "raw_match": "[[1CO.7:12]]-16",
       "reference_type": "wikilink_range",
-      "context": "Christ is not commanding believers to divorce spouses and abandon children. According to St. John Chrysostom, this refers to keeping faith under persecution even if it means to lose one's family. It also means to accept that unbelieving family members may cut off ties because of the believer's faith (see [[1CO.7:12]]-16). Believers are promised a hundredfold of houses and relatives not in an earthly sense, but in a spiritual sense-- the fathers and mothers of the Church, our brothers and sisters in Christ, and houses of worship and fellowship."
+      "context": "Christ is not commanding believers to divorce spouses and abandon children. According to St. John Chrysostom, this refers to keeping faith under persecution even if it means to lose one's family. It also means to accept that unbelieving family members may cut off ties because of the believer's faith (see [[1CO.7:12]]-16). Believers are promised a hundredfold of houses and relatives not in an earthly sense, but in a spiritual sense-- the fathers and mothers of the Church, our brothers and sisters in Christ, and houses of worship and fellowship.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology",
+        "faith",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/HOS_footnotes.md",
       "line_number": 25,
       "raw_match": "[[1CO.7:14]]",
       "reference_type": "wikilink",
-      "context": "A wife of fornication is a woman given to prostitution. It also suggests Gomer was one of Baal's worshippers. Likely Hosea's wife was a young Israelite woman who before marriage was involved in the Canaanite rites of initiation prescribed for future brides, intended to ensure their fertility. \"From these people God will build the Church, which will be made holy through its union with the Son of God, as this woman was made holy by her union with the prophet\" (Iren). The unbelieving wife is made holy by her believing husband ([[1CO.7:14]])."
+      "context": "A wife of fornication is a woman given to prostitution. It also suggests Gomer was one of Baal's worshippers. Likely Hosea's wife was a young Israelite woman who before marriage was involved in the Canaanite rites of initiation prescribed for future brides, intended to ensure their fertility. \"From these people God will build the Church, which will be made holy through its union with the Son of God, as this woman was made holy by her union with the prophet\" (Iren). The unbelieving wife is made holy by her believing husband ([[1CO.7:14]]).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "faith",
+        "israel_church"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

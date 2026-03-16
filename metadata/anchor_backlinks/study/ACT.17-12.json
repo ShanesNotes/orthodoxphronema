@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Therefore many of them believed, and also not few of the Greeks, prominent women as well as men.",
   "pericope": {
     "id": "ACT.P062",
@@ -12,7 +12,12 @@
     "range": "ACT.17:9-17:14",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "faith",
+    "israel_church",
+    "mercy",
+    "prayer"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +25,22 @@
       "line_number": 79,
       "raw_match": "[[ACT.17:12]]",
       "reference_type": "wikilink",
-      "context": "When Israel--and the Church--receive God's mercy, the news spreads quickly (see [[ACT.17:4]], [[ACT.17:12]]). The prayer for the whole earth is a prayer for the Church to know... the Lord our God."
+      "context": "When Israel--and the Church--receive God's mercy, the news spreads quickly (see [[ACT.17:4]], [[ACT.17:12]]). The prayer for the whole earth is a prayer for the Church to know... the Lord our God.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "faith",
+        "israel_church",
+        "mercy",
+        "prayer"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

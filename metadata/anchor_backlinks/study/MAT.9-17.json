@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Nor do they put new wine into old wineskins, or else the wineskins break, the wine is spilled, and the wineskins are ruined. But they put new wine into new wineskins, and both are preserved.'",
   "pericope": {
     "id": "MAT.P022",
@@ -12,7 +12,13 @@
     "range": "MAT.9:17-9:25",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "baptism",
+    "christology",
+    "covenant",
+    "exodus_typology",
+    "praise"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,14 +26,39 @@
       "line_number": 627,
       "raw_match": "[[MAT.9:14]]-17",
       "reference_type": "wikilink_range",
-      "context": "Jesus' earthly life is a time of joyous blessings. But there will come a time when His followers will practice the fast (see notes on [[MAT.9:14]]-17; [[MRK.2:20]])."
+      "context": "Jesus' earthly life is a time of joyous blessings. But there will come a time when His followers will practice the fast (see notes on [[MAT.9:14]]-17; [[MRK.2:20]]).",
+      "edge_type": "instantiates",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/PSA_footnotes.md",
       "line_number": 906,
       "raw_match": "[[MAT.9:17]]",
       "reference_type": "wikilink",
-      "context": "Ps 80 is a psalm regarding Christ (the End) and His Church (the winepresses, v. 1). For His Church is the new wine (the new covenant), formed in the Sacrament of Baptism ([[MAT.9:16]], [[MAT.9:17]]; [[1CO.12:13]]). And Israel's deliverance from Egypt (vv. 1-11) is a type of baptism ([[1CO.10:1]], [[1CO.10:2]]). However, after baptism, the Christian is to be careful to walk in God's ways and heed His voice (vv. 12-17)."
+      "context": "Ps 80 is a psalm regarding Christ (the End) and His Church (the winepresses, v. 1). For His Church is the new wine (the new covenant), formed in the Sacrament of Baptism ([[MAT.9:16]], [[MAT.9:17]]; [[1CO.12:13]]). And Israel's deliverance from Egypt (vv. 1-11) is a type of baptism ([[1CO.10:1]], [[1CO.10:2]]). However, after baptism, the Christian is to be careful to walk in God's ways and heed His voice (vv. 12-17).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "baptism",
+        "christology",
+        "covenant",
+        "exodus_typology",
+        "praise"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

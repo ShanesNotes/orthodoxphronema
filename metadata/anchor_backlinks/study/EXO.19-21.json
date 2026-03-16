@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Then God spoke to Moses, 'Go down and solemnly charge the people, lest they break through to gaze at God, and many of them perish.",
   "pericope": {
     "id": "EXO.P035",
@@ -12,7 +12,15 @@
     "range": "EXO.18:27-19:24",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "baptism",
+    "christology",
+    "covenant",
+    "divine_light",
+    "divine_word",
+    "praise",
+    "resurrection"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,21 +28,63 @@
       "line_number": 736,
       "raw_match": "[[EXO.19:9]]-23",
       "reference_type": "wikilink_range",
-      "context": "The mountain (v. 18) of the new covenant, Mt. Zion, is the fulfillment of the mountain of the old covenant, Mt. Sinai. Sinai is remembered as the place where God first called Israel to meet Him ([[EXO.19:9]]-23; 20:18-21; [[DEU.4:11]], [[DEU.4:12]]; 5:22-26). It was a place of fear, a place not to be approached and touched, out in the desert where Israel could not live permanently. Israel met God, and God spoke, but Israel could not fully enter into God's holiness."
+      "context": "The mountain (v. 18) of the new covenant, Mt. Zion, is the fulfillment of the mountain of the old covenant, Mt. Sinai. Sinai is remembered as the place where God first called Israel to meet Him ([[EXO.19:9]]-23; 20:18-21; [[DEU.4:11]], [[DEU.4:12]]; 5:22-26). It was a place of fear, a place not to be approached and touched, out in the desert where Israel could not live permanently. Israel met God, and God spoke, but Israel could not fully enter into God's holiness.",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "covenant",
+        "divine_word"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/NT/REV_footnotes.md",
       "line_number": 167,
       "raw_match": "[[EXO.19:21]]",
       "reference_type": "wikilink",
-      "context": "Mortal humanity cannot bear the revelation of divine glory, a frequent biblical theme (see [[EXO.19:21]]; 33:20; Is 6:5). Just as he fell prostrate at Mount Tabor ([[MAT.17:6]]), so also does John here, in the presence of the glorified Savior (see [[EZK.1:27]]; [[DAN.10:7]]-9; see also 1En 14:24). Do not be afraid is a revelatory formula from the OT. As a signal for the theophany, it was carried over into the NT (see the Annunciation, [[LUK.1:30]]; Jesus walking upon the water, [[MAT.14:27]]--\"Fear not, I AM\"; the Transfiguration, [[MAT.17:7]]). In the OT God was called \"the first and the last\" (Is 44:6; 48:12), and so, too, is the Messiah. Some early heresies (e.g. Docetism) held that Jesus only seemed to die. But the Lord Himself testified, I... was dead, affirming the authenticity of His death; alive forevermore, His Resurrection--the power of which effects His lordship over death and its realm. The Orthodox icon of the resurrected Christ depicts Him with these keys (v. 18) in hand, standing triumphantly on the open gates of Hades."
+      "context": "Mortal humanity cannot bear the revelation of divine glory, a frequent biblical theme (see [[EXO.19:21]]; 33:20; Is 6:5). Just as he fell prostrate at Mount Tabor ([[MAT.17:6]]), so also does John here, in the presence of the glorified Savior (see [[EZK.1:27]]; [[DAN.10:7]]-9; see also 1En 14:24). Do not be afraid is a revelatory formula from the OT. As a signal for the theophany, it was carried over into the NT (see the Annunciation, [[LUK.1:30]]; Jesus walking upon the water, [[MAT.14:27]]--\"Fear not, I AM\"; the Transfiguration, [[MAT.17:7]]). In the OT God was called \"the first and the last\" (Is 44:6; 48:12), and so, too, is the Messiah. Some early heresies (e.g. Docetism) held that Jesus only seemed to die. But the Lord Himself testified, I... was dead, affirming the authenticity of His death; alive forevermore, His Resurrection--the power of which effects His lordship over death and its realm. The Orthodox icon of the resurrected Christ depicts Him with these keys (v. 18) in hand, standing triumphantly on the open gates of Hades.",
+      "edge_type": "echoes",
+      "topic_threads": [
+        "baptism",
+        "christology",
+        "divine_light",
+        "divine_word",
+        "praise",
+        "resurrection"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/EXO_footnotes.md",
       "line_number": 728,
       "raw_match": "[[EXO.19:21]]",
       "reference_type": "wikilink",
-      "context": "[[EXO.19:17]], [[EXO.19:20]], [[EXO.19:21]]: Moses brought out the people to meet with God, that is, with God the Son. He is the Lord who came down on Mt. Sinai, and He is God, for it was He who spoke to Moses on the mountain (HilryP)."
+      "context": "[[EXO.19:17]], [[EXO.19:20]], [[EXO.19:21]]: Moses brought out the people to meet with God, that is, with God the Son. He is the Lord who came down on Mt. Sinai, and He is God, for it was He who spoke to Moses on the mountain (HilryP).",
+      "edge_type": "descends_to",
+      "topic_threads": [
+        "divine_word"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

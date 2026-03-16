@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "And that very hour He cured many of infirmities, afflictions, and evil spirits; and to many blind He gave sight.",
   "pericope": {
     "id": "LUK.P032",
@@ -12,7 +12,10 @@
     "range": "LUK.7:10-7:34",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "suffering"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 1100,
       "raw_match": "[[LUK.7:21]]",
       "reference_type": "wikilink",
-      "context": "Isaiah predicted that these signs would accompany the coming of the Messiah (Is 61:1). Jesus performed these miracles in the presence of John's disciples ([[LUK.7:21]]) so they could see with their own eyes works that only the Messiah could do."
+      "context": "Isaiah predicted that these signs would accompany the coming of the Messiah (Is 61:1). Jesus performed these miracles in the presence of John's disciples ([[LUK.7:21]]) so they could see with their own eyes works that only the Messiah could do.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

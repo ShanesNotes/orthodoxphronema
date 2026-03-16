@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "A good man is compassionate and lends; He will manage his words with judgment,",
   "pericope": {
     "id": "PSA.P111",
@@ -12,7 +12,18 @@
     "range": "PSA.111:1-111:10",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "covenant",
+    "creation_theology",
+    "eucharist",
+    "faith",
+    "judgment",
+    "mercy",
+    "prayer",
+    "suffering",
+    "temple"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +31,28 @@
       "line_number": 788,
       "raw_match": "[[PSA.111:1]]-6",
       "reference_type": "wikilink_range",
-      "context": "What can be shaken (v. 27) is that which is created: temporal, impermanent, imperfect--except for the final consummation of the kingdom (v. 28), which is unshakable. There, life is a eucharistic liturgy. Grace (v. 28) is gratefulness that leads to serving God and worshiping Him in an acceptable way, with proper reverence and godly fear. 12:1-29 This entire passage (beginning with 10:19) is a progressive discourse imploring us to seek God's Kingdom first. Under the new covenant, we can ascend to this heavenly place in worship and in prayer. Christians experience this heavenly dimension fundamentally in the Divine Liturgy. We ascend to that place where we are surrounded by a great... cloud of witnesses (v. 1) This is not a physical place (v. 18) but a spiritual place, Mount Zion and the city of the living God, the heavenly Jerusalem (v. 22), inhabited by God, the angels, and the spirits of just men made perfect (v. 23). Here, communion of the saints is established in the NT. In 9:11, 12 we saw Christ come to the greater and more perfect tabernacle, obtaining eternal redemption for us. In 12:22 this tabernacle is that same spiritual place, showing that we enter the holy place with Christ by virtue of our union with Him (10:19, 20). This is done fundamentally in corporate worship (10:25), by faith (11:1-3), and in order to show gratitude to God (12:28, 29). The content of this worship includes remembering the departed righteous (11:4-40; see also [[PSA.111:1]]-6; Pr 10:8)."
+      "context": "What can be shaken (v. 27) is that which is created: temporal, impermanent, imperfect--except for the final consummation of the kingdom (v. 28), which is unshakable. There, life is a eucharistic liturgy. Grace (v. 28) is gratefulness that leads to serving God and worshiping Him in an acceptable way, with proper reverence and godly fear. 12:1-29 This entire passage (beginning with 10:19) is a progressive discourse imploring us to seek God's Kingdom first. Under the new covenant, we can ascend to this heavenly place in worship and in prayer. Christians experience this heavenly dimension fundamentally in the Divine Liturgy. We ascend to that place where we are surrounded by a great... cloud of witnesses (v. 1) This is not a physical place (v. 18) but a spiritual place, Mount Zion and the city of the living God, the heavenly Jerusalem (v. 22), inhabited by God, the angels, and the spirits of just men made perfect (v. 23). Here, communion of the saints is established in the NT. In 9:11, 12 we saw Christ come to the greater and more perfect tabernacle, obtaining eternal redemption for us. In 12:22 this tabernacle is that same spiritual place, showing that we enter the holy place with Christ by virtue of our union with Him (10:19, 20). This is done fundamentally in corporate worship (10:25), by faith (11:1-3), and in order to show gratitude to God (12:28, 29). The content of this worship includes remembering the departed righteous (11:4-40; see also [[PSA.111:1]]-6; Pr 10:8).",
+      "edge_type": "echoes",
+      "topic_threads": [
+        "christology",
+        "covenant",
+        "creation_theology",
+        "eucharist",
+        "faith",
+        "judgment",
+        "mercy",
+        "prayer",
+        "suffering",
+        "temple"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

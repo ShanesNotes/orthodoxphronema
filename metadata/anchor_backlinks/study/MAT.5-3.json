@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "'Blessed are the poor in spirit, For theirs is the kingdom of heaven.",
   "pericope": {
     "id": "MAT.P011",
@@ -12,7 +12,11 @@
     "range": "MAT.4:25-5:15",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "faith",
+    "kingdom"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,14 +24,40 @@
       "line_number": 51,
       "raw_match": "[[MAT.5:3]]",
       "reference_type": "wikilink",
-      "context": "Note the reversal of the order of the world. The lowly (v. 9), those who have the least here, will have the most in the Kingdom of heaven (see 2:5; [[MAT.5:3]]; [[LUK.1:52]]), but they are tempted to be bitter and envious. The rich (v. 10) may perceive their goods as passing, but they are tempted to be greedy and arrogant and may thereby lose true wealth (see 5:1-12)."
+      "context": "Note the reversal of the order of the world. The lowly (v. 9), those who have the least here, will have the most in the Kingdom of heaven (see 2:5; [[MAT.5:3]]; [[LUK.1:52]]), but they are tempted to be bitter and envious. The rich (v. 10) may perceive their goods as passing, but they are tempted to be greedy and arrogant and may thereby lose true wealth (see 5:1-12).",
+      "edge_type": "opposes",
+      "topic_threads": [
+        "kingdom"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/PSA_footnotes.md",
       "line_number": 127,
       "raw_match": "[[MAT.5:3]]",
       "reference_type": "wikilink",
-      "context": "Ps 10 shows what it means for the Church to trust in the Lord Jesus Christ (v. 1), for He is the End. (1) Trusting in the Lord overcomes cowardice (Flee to the mountains like a sparrow, v. 1). (2) Trusting in the Lord overcomes the devil and his angels (vv. 2, 3; see also [[EPH.6:16]]). (3) Trusting in the Lord makes the Church a dwelling place of God (v. 4a; see also [[1CO.3:16]], [[1CO.3:17]]; [[EPH.2:21]], [[EPH.2:22]]). (4) Trusting in the Lord keeps one poor in spirit (v. 4b; see also [[MAT.5:3]]). (5) Trusting in the Lord helps one love virtue and hate vice (vv. 5-7; see also [[HEB.1:9]]; [[1PE.3:10]]-12)."
+      "context": "Ps 10 shows what it means for the Church to trust in the Lord Jesus Christ (v. 1), for He is the End. (1) Trusting in the Lord overcomes cowardice (Flee to the mountains like a sparrow, v. 1). (2) Trusting in the Lord overcomes the devil and his angels (vv. 2, 3; see also [[EPH.6:16]]). (3) Trusting in the Lord makes the Church a dwelling place of God (v. 4a; see also [[1CO.3:16]], [[1CO.3:17]]; [[EPH.2:21]], [[EPH.2:22]]). (4) Trusting in the Lord keeps one poor in spirit (v. 4b; see also [[MAT.5:3]]). (5) Trusting in the Lord helps one love virtue and hate vice (vv. 5-7; see also [[HEB.1:9]]; [[1PE.3:10]]-12).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology",
+        "faith",
+        "kingdom"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "and their forty bases of silver: two bases for each of the posts' two joints.",
   "pericope": {
     "id": "EXO.P054",
@@ -12,7 +12,10 @@
     "range": "EXO.25:40-26:36",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "judgment",
+    "temple"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 244,
       "raw_match": "[[EXO.26:15]]-28",
       "reference_type": "wikilink_range",
-      "context": ", 2 The sickle is \"scroll\" in Hebrew. Both are indicative of judgment. The sickle is huge, of roughly the same dimensions as the tabernacle in the wilderness (see [[EXO.26:15]]-28) or the porch of Solomon's temple (see 3Kg 6:6, 7)."
+      "context": ", 2 The sickle is \"scroll\" in Hebrew. Both are indicative of judgment. The sickle is huge, of roughly the same dimensions as the tabernacle in the wilderness (see [[EXO.26:15]]-28) or the porch of Solomon's temple (see 3Kg 6:6, 7).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "judgment",
+        "temple"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 11,
+        "title": "The Spiritual and Material Dimensions",
+        "polarity": "luminosity",
+        "operation": "express",
+        "scale": "communal"
+      }
     }
   ]
 }

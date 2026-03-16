@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "This he said, not that he cared for the poor, but because he was a thief, and had the money box; and he used to take what was put in it.",
   "pericope": {
     "id": "JOH.P040",
@@ -12,7 +12,11 @@
     "range": "JOH.11:57-12:10",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "faith",
+    "praise"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,21 +24,59 @@
       "line_number": 2301,
       "raw_match": "[[JOH.12:1]]-8",
       "reference_type": "wikilink_range",
-      "context": "Because of her fervent faith, Jesus promises perpetual public memory of this woman. There is no consensus among the Fathers as to her identity in relation to accounts of similar events in [[MRK.14:3]]-9; [[LUK.7:36]]-38; and [[JOH.12:1]]-8. Some Fathers say that there were three different women in these four accounts, others that there were only two."
+      "context": "Because of her fervent faith, Jesus promises perpetual public memory of this woman. There is no consensus among the Fathers as to her identity in relation to accounts of similar events in [[MRK.14:3]]-9; [[LUK.7:36]]-38; and [[JOH.12:1]]-8. Some Fathers say that there were three different women in these four accounts, others that there were only two.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "faith"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/NT/MAT_footnotes.md",
       "line_number": 2310,
       "raw_match": "[[JOH.12:4]]-6",
       "reference_type": "wikilink_range",
-      "context": "Judas on his own initiative seeks to betray Jesus. His motives have been debated, but the Fathers and the liturgical hymns declare that greed was his primary motive. This is revealed in [[JOH.12:4]]-6, where Judas was particularly upset about the \"waste\" of myrrh in the preceding story because he was a thief (see also [[1TI.6:10]]). The phrase one of the twelve is not used so much to identify Judas, who was already known by Matthew's hearers, but to emphasize the depth of the betrayal--that it was one of Christ's closest followers."
+      "context": "Judas on his own initiative seeks to betray Jesus. His motives have been debated, but the Fathers and the liturgical hymns declare that greed was his primary motive. This is revealed in [[JOH.12:4]]-6, where Judas was particularly upset about the \"waste\" of myrrh in the preceding story because he was a thief (see also [[1TI.6:10]]). The phrase one of the twelve is not used so much to identify Judas, who was already known by Matthew's hearers, but to emphasize the depth of the betrayal--that it was one of Christ's closest followers.",
+      "edge_type": "echoes",
+      "topic_threads": [
+        "christology",
+        "praise"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/NT/MRK_footnotes.md",
       "line_number": 385,
       "raw_match": "[[JOH.12:4]]-6",
       "reference_type": "wikilink_range",
-      "context": "Judas on his own initiative seeks to betray Jesus. His motives have been debated, but the Fathers and the liturgical hymns declare that greed was his underlying motive. This is revealed in [[JOH.12:4]]-6, where Judas was particularly upset about the \"waste\" of myrrh in the preceding story because he was a thief (see also [[1TI.6:10]]). The betrayal by Judas is remembered specifically on Holy Wednesday, as many of the liturgical hymns contrast his greed with the woman's generous anointing of Christ (v. 3). It is a tradition dating back to the first century (see the Didache) that Orthodox Christians fast on most Wednesdays of the year in remembrance of the ways in which we, like Judas, betray our Savior through our sinfulness."
+      "context": "Judas on his own initiative seeks to betray Jesus. His motives have been debated, but the Fathers and the liturgical hymns declare that greed was his underlying motive. This is revealed in [[JOH.12:4]]-6, where Judas was particularly upset about the \"waste\" of myrrh in the preceding story because he was a thief (see also [[1TI.6:10]]). The betrayal by Judas is remembered specifically on Holy Wednesday, as many of the liturgical hymns contrast his greed with the woman's generous anointing of Christ (v. 3). It is a tradition dating back to the first century (see the Didache) that Orthodox Christians fast on most Wednesdays of the year in remembrance of the ways in which we, like Judas, betray our Savior through our sinfulness.",
+      "edge_type": "echoes",
+      "topic_threads": [
+        "christology",
+        "praise"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

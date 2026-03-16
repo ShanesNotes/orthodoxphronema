@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "For this reason a man shall leave his father and mother and be joined to his wife; and the two shall become one flesh.'",
   "pericope": {
     "id": "GEN.P002",
@@ -12,7 +12,15 @@
     "range": "GEN.2:7-2:24",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "baptism",
+    "christology",
+    "creation_theology",
+    "kingdom",
+    "logos",
+    "suffering",
+    "wisdom"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,21 +28,64 @@
       "line_number": 38,
       "raw_match": "[[GEN.2:22]]-25",
       "reference_type": "wikilink_range",
-      "context": "T he Bible and human history begin and end with marriages. Adam and Eve come together in marital union in Paradise, before the Fall, revealing marriage as a part of God's eternal purpose for humanity in the midst of creation ([[GEN.2:22]]-25). History closes with the marriage of the Bride to the Lamb ([[REV.19:7]]-9), earthly marriage being fulfilled in the heavenly, showing the eternal nature of the sacrament. Between these bookend events of history are the accounts of numerous other unions of man and wife. In the centuries-old Christian wedding ceremony used to this day in the Orthodox Church, several of these historic marriages are remembered: Abraham and Sarah ([[GEN.11:29]]-23:20); Isaac and Rebecca (Gn 24); Joachim and Anna, the parents of the Virgin Mary; and Zacharias and Elizabeth ([[LUK.1:5]]-58). The marriage most prominently featured in the wedding ceremony, however, is the one at Cana of Galilee, described in the Gospel passage read at every Orthodox wedding ([[JOH.2:1]]-11). In attending this wedding and performing His first miracle there, Jesus Christ, the Son of God, forever sanctified marriage. As with all the Christian sacraments, marriage is sacramental because it is blessed by God. Parenthetically, we note that it is at this wedding at Cana that Mary first intercedes with Christ on behalf of others: 'They have no wine' ([[JOH.2:3]]). Then she calls all humanity to obey Him: 'Whatever He says to you, do it ' ([[JOH.2:5]]). In modern society, as well as in Christendom, a recurring debate concerns the tension between equality of the partners in marriage and office or order in marriage. Often, this tension has turned into a polarity between men and women, and sometimes even breeds hostility. Two elements in the Orthodox service of marriage serve to heal such tension, while making clear the teaching of the Church on the twin themes of equality and order concerning husband and wife. As to equality, during the ceremony crowns are placed on the heads of the bride and groom. This act is symbolic of their citizenship in the Kingdom of God, where 'there is neither male nor female' ([[GAL.3:28]]), and of their dying to each other (the crown is often a symbol of martyrdom; see [[REV.2:10]]). The words of St. Paul on marital equality are clear: 'The wife does not have authority over her own body, but the husband does. And likewise the husband does not have authority over his own body, but the wife does ' ([[1CO.7:4]]). Husband and wife belong to each other as martyrs, they belong to God as royalty, and they are called to treat each other accordingly. But within marital equality there is also order. The epistle passage read at the sacrament of marriage is Ephesians 5:20-33, an exhortation to husbands and wives that begins with a call to submit to each other (v. 21). The husband is to serve God as head of his wife, as Christ is Head of the Church (v. 23). The wife is to be subject to her husband as the Church is subject to Christ (v. 24). There is nothing here to suggest the wife is oppressed in marriage, any more than one would call the Church oppressed in relationship to Christ. He who calls us 'brethren' ([[HEB.2:11]]) and 'friends' ([[JOH.15:15]]) exhorts the husband to love his wife, to nourish and cherish her as He Himself does the Church (vv. 28, 29). Thus, marriage is a sacrament-holy, blessed, and everlasting in the sight of God and His Church. Within the bonds of marriage, husband and wife experience a union with one another in love. We pray for them the fruit of children and one day the joy of grandchildren. And within the bonds of marriage there is both a fullness of equality between husband and wife and a clarity of order, with the husband as the icon of Christ and the wife as the icon of the Church."
+      "context": "T he Bible and human history begin and end with marriages. Adam and Eve come together in marital union in Paradise, before the Fall, revealing marriage as a part of God's eternal purpose for humanity in the midst of creation ([[GEN.2:22]]-25). History closes with the marriage of the Bride to the Lamb ([[REV.19:7]]-9), earthly marriage being fulfilled in the heavenly, showing the eternal nature of the sacrament. Between these bookend events of history are the accounts of numerous other unions of man and wife. In the centuries-old Christian wedding ceremony used to this day in the Orthodox Church, several of these historic marriages are remembered: Abraham and Sarah ([[GEN.11:29]]-23:20); Isaac and Rebecca (Gn 24); Joachim and Anna, the parents of the Virgin Mary; and Zacharias and Elizabeth ([[LUK.1:5]]-58). The marriage most prominently featured in the wedding ceremony, however, is the one at Cana of Galilee, described in the Gospel passage read at every Orthodox wedding ([[JOH.2:1]]-11). In attending this wedding and performing His first miracle there, Jesus Christ, the Son of God, forever sanctified marriage. As with all the Christian sacraments, marriage is sacramental because it is blessed by God. Parenthetically, we note that it is at this wedding at Cana that Mary first intercedes with Christ on behalf of others: 'They have no wine' ([[JOH.2:3]]). Then she calls all humanity to obey Him: 'Whatever He says to you, do it ' ([[JOH.2:5]]). In modern society, as well as in Christendom, a recurring debate concerns the tension between equality of the partners in marriage and office or order in marriage. Often, this tension has turned into a polarity between men and women, and sometimes even breeds hostility. Two elements in the Orthodox service of marriage serve to heal such tension, while making clear the teaching of the Church on the twin themes of equality and order concerning husband and wife. As to equality, during the ceremony crowns are placed on the heads of the bride and groom. This act is symbolic of their citizenship in the Kingdom of God, where 'there is neither male nor female' ([[GAL.3:28]]), and of their dying to each other (the crown is often a symbol of martyrdom; see [[REV.2:10]]). The words of St. Paul on marital equality are clear: 'The wife does not have authority over her own body, but the husband does. And likewise the husband does not have authority over his own body, but the wife does ' ([[1CO.7:4]]). Husband and wife belong to each other as martyrs, they belong to God as royalty, and they are called to treat each other accordingly. But within marital equality there is also order. The epistle passage read at the sacrament of marriage is Ephesians 5:20-33, an exhortation to husbands and wives that begins with a call to submit to each other (v. 21). The husband is to serve God as head of his wife, as Christ is Head of the Church (v. 23). The wife is to be subject to her husband as the Church is subject to Christ (v. 24). There is nothing here to suggest the wife is oppressed in marriage, any more than one would call the Church oppressed in relationship to Christ. He who calls us 'brethren' ([[HEB.2:11]]) and 'friends' ([[JOH.15:15]]) exhorts the husband to love his wife, to nourish and cherish her as He Himself does the Church (vv. 28, 29). Thus, marriage is a sacrament-holy, blessed, and everlasting in the sight of God and His Church. Within the bonds of marriage, husband and wife experience a union with one another in love. We pray for them the fruit of children and one day the joy of grandchildren. And within the bonds of marriage there is both a fullness of equality between husband and wife and a clarity of order, with the husband as the icon of Christ and the wife as the icon of the Church.",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "creation_theology",
+        "kingdom"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/1ES_footnotes.md",
       "line_number": 107,
       "raw_match": "[[GEN.2:24]]",
       "reference_type": "wikilink",
-      "context": "This is a paraphrase of [[GEN.2:24]]. According to St. Paul, the union of man and wife in marriage is an image of Christ and His Church ([[EPH.5:30]]-32; see note at 4:14, 15)."
+      "context": "This is a paraphrase of [[GEN.2:24]]. According to St. Paul, the union of man and wife in marriage is an image of Christ and His Church ([[EPH.5:30]]-32; see note at 4:14, 15).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/PRO_footnotes.md",
       "line_number": 194,
       "raw_match": "[[GEN.2:24]]",
       "reference_type": "wikilink",
-      "context": "Prostitution here refers to engaging in sex outside marriage, which may or may not involve the payment of money. The sons of Wisdom need to obey Him and His teachings, and stay away from sex outside marriage (vv. 7, 8). For the perils are many. In fornication, a man becomes one flesh with numerous women, which in the end brings regret and a totally dissipated life (vv. 9-11; see also St. Paul's teaching in [[1CO.6:15]]-20). Such a son will regret hating the instruction and reproofs of Wisdom (vv. 12, 13). Furthermore, little by little, this lifestyle leads to other sins, which are evident not only to God but to the church (v. 14). 5:15-19 Marriage is sacred, here called waters which are pure, for it was ordained by Wisdom (v. 15; see also [[GEN.2:23]], [[GEN.2:24]]). But adultery spills these waters and damages the marriage bond (v. 16). However, faithfulness in marriage is called wide places, because it is filled with blessings from Wisdom (vv. 16-18). For within it, both husband and wife rejoice together (v. 18), and the wife's love and companionship make her husband great (v. 19). 5:20-23 In conclusion, the eyes of God keep close watch on a man (vv. 20, 21). For a man who embraces a woman not his wife may do so in the dark, but what he does is fully exposed before God. And although a lawless woman may ensnare a man, the man also is responsible for chaining himself with his own sins (v. 22). For he refuses Wisdom's crown of discernment, and is finally destroyed with the rest of the undiscerning (v. 23; see also [[HEB.13:4]]). 6:1-40 This chapter warns against four vices or sinful passions: a careless tongue (vv. 1-6), laziness (vv. 7-16), a lawless spirit (vv. 17-25), and unlawful sexual intercourse (vv. 26- 40). 6:1-6 Assuming debt for a friend in this instance refers to a son of Wisdom pledging with his lips to join with a friend in his evil undertakings (v. 1). As St. Paul said, \"Evil company corrupts good habits\" ([[1CO.15:33]]). With such a pledge, a man's tongue becomes his worst enemy (v. 2). Wisdom speaks to His son, commanding him to save himself (v. 3), for this son cannot save his friend before he saves himself. And he certainly cannot save him while participating with him in his sins (v. 3). So Wisdom commands His son to cease being a coward (Do not be faint, v. 4), to reject his careless pledge to his friend, and to provoke his friend to change as well. Furthermore, this son is to awake from his spiritual slumber and move forward quickly with this matter, that he may save himself, like a gazelle from the snares and a bird from a trap (vv. 5, 6; see also [[EPH.5:14]], [[EPH.5:15]]). 6:7-16 Laziness, both of body and soul, leads to poverty (vv. 13-15). But Wisdom commands His son to be diligent (v. 16). To achieve this, he must mark the behavior of two created things: the ant and the honeybee. Outwardly they appear insignificant (v. 8) and weak (v. 12), but one who discovers their habits will also find the Word and Wisdom of God, who is Christ Himself. And when he imitates their way of life through the grace of Christ (vv. 7, 9, 10, 11), his laziness will be cured."
+      "context": "Prostitution here refers to engaging in sex outside marriage, which may or may not involve the payment of money. The sons of Wisdom need to obey Him and His teachings, and stay away from sex outside marriage (vv. 7, 8). For the perils are many. In fornication, a man becomes one flesh with numerous women, which in the end brings regret and a totally dissipated life (vv. 9-11; see also St. Paul's teaching in [[1CO.6:15]]-20). Such a son will regret hating the instruction and reproofs of Wisdom (vv. 12, 13). Furthermore, little by little, this lifestyle leads to other sins, which are evident not only to God but to the church (v. 14). 5:15-19 Marriage is sacred, here called waters which are pure, for it was ordained by Wisdom (v. 15; see also [[GEN.2:23]], [[GEN.2:24]]). But adultery spills these waters and damages the marriage bond (v. 16). However, faithfulness in marriage is called wide places, because it is filled with blessings from Wisdom (vv. 16-18). For within it, both husband and wife rejoice together (v. 18), and the wife's love and companionship make her husband great (v. 19). 5:20-23 In conclusion, the eyes of God keep close watch on a man (vv. 20, 21). For a man who embraces a woman not his wife may do so in the dark, but what he does is fully exposed before God. And although a lawless woman may ensnare a man, the man also is responsible for chaining himself with his own sins (v. 22). For he refuses Wisdom's crown of discernment, and is finally destroyed with the rest of the undiscerning (v. 23; see also [[HEB.13:4]]). 6:1-40 This chapter warns against four vices or sinful passions: a careless tongue (vv. 1-6), laziness (vv. 7-16), a lawless spirit (vv. 17-25), and unlawful sexual intercourse (vv. 26- 40). 6:1-6 Assuming debt for a friend in this instance refers to a son of Wisdom pledging with his lips to join with a friend in his evil undertakings (v. 1). As St. Paul said, \"Evil company corrupts good habits\" ([[1CO.15:33]]). With such a pledge, a man's tongue becomes his worst enemy (v. 2). Wisdom speaks to His son, commanding him to save himself (v. 3), for this son cannot save his friend before he saves himself. And he certainly cannot save him while participating with him in his sins (v. 3). So Wisdom commands His son to cease being a coward (Do not be faint, v. 4), to reject his careless pledge to his friend, and to provoke his friend to change as well. Furthermore, this son is to awake from his spiritual slumber and move forward quickly with this matter, that he may save himself, like a gazelle from the snares and a bird from a trap (vv. 5, 6; see also [[EPH.5:14]], [[EPH.5:15]]). 6:7-16 Laziness, both of body and soul, leads to poverty (vv. 13-15). But Wisdom commands His son to be diligent (v. 16). To achieve this, he must mark the behavior of two created things: the ant and the honeybee. Outwardly they appear insignificant (v. 8) and weak (v. 12), but one who discovers their habits will also find the Word and Wisdom of God, who is Christ Himself. And when he imitates their way of life through the grace of Christ (vv. 7, 9, 10, 11), his laziness will be cured.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "baptism",
+        "christology",
+        "creation_theology",
+        "logos",
+        "suffering",
+        "wisdom"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

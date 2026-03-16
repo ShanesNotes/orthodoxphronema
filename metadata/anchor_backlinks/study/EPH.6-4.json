@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "And you, fathers, do not provoke your children to wrath, but bring them up in the training and admonition of the Lord.",
   "pericope": {
     "id": "EPH.P017",
@@ -12,7 +12,9 @@
     "range": "EPH.6:4-6:8",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "logos"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 558,
       "raw_match": "[[EPH.6:4]]",
       "reference_type": "wikilink",
-      "context": "Because the father is ultimately responsible for the discipline of children, St. Paul issues a helpful word in [[EPH.6:4]]."
+      "context": "Because the father is ultimately responsible for the discipline of children, St. Paul issues a helpful word in [[EPH.6:4]].",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "logos"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "lest anyone should say that I had baptized in my own name.",
   "pericope": {
     "id": "1CO.P007",
@@ -12,7 +12,9 @@
     "range": "1CO.1:13-2:4",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "baptism"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 14,
       "raw_match": "[[1CO.1:15]]",
       "reference_type": "wikilink",
-      "context": "This is probably not the same Gaius mentioned in [[ROM.16:23]] and [[1CO.1:14]], [[1CO.1:15]]."
+      "context": "This is probably not the same Gaius mentioned in [[ROM.16:23]] and [[1CO.1:14]], [[1CO.1:15]].",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "baptism"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 7,
+        "title": "Symbolism and the Spiritual Worldview",
+        "polarity": "luminosity",
+        "operation": "eat",
+        "scale": "individual"
+      }
     }
   ]
 }

@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "And He has on His robe and on His thigh name written:",
   "pericope": {
     "id": "REV.P056",
@@ -12,7 +12,10 @@
     "range": "REV.19:16-19:20",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "divine_word",
+    "logos"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 499,
       "raw_match": "[[REV.19:16]]",
       "reference_type": "wikilink",
-      "context": "The King of kings is the Eternal Son and Word of God ( see [[REV.19:13]], [[REV.19:16]])."
+      "context": "The King of kings is the Eternal Son and Word of God ( see [[REV.19:13]], [[REV.19:16]]).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "divine_word",
+        "logos"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

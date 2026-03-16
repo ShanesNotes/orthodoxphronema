@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "For what profit is it to a man if he gains the whole world, and loses his own soul? Or what will a man give in exchange for his soul?",
   "pericope": {
     "id": "MAT.P054",
@@ -12,7 +12,9 @@
     "range": "MAT.16:20-16:27",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,14 +22,38 @@
       "line_number": 28,
       "raw_match": "[[MAT.16:26]]",
       "reference_type": "wikilink",
-      "context": "We labor that we may profit, but labor loses its meaning (see [[MAT.16:26]]) when it has no eternal purpose. From generation to generation, we inherit death ([[JOB.14:10]]). But Christ, the Sun of Righteousness (Mal 4:2), gives meaning to our labor and raises us up from death to life."
+      "context": "We labor that we may profit, but labor loses its meaning (see [[MAT.16:26]]) when it has no eternal purpose. From generation to generation, we inherit death ([[JOB.14:10]]). But Christ, the Sun of Righteousness (Mal 4:2), gives meaning to our labor and raises us up from death to life.",
+      "edge_type": "opposes",
+      "topic_threads": [
+        "christology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/SIR_footnotes.md",
       "line_number": 156,
       "raw_match": "[[MAT.16:26]]",
       "reference_type": "wikilink",
-      "context": "All human beings should humbly recognize the immense value and glory of their own soul. The Lord Jesus Christ may have had this passage in mind when He spoke the words of [[MAT.16:26]]."
+      "context": "All human beings should humbly recognize the immense value and glory of their own soul. The Lord Jesus Christ may have had this passage in mind when He spoke the words of [[MAT.16:26]].",
+      "edge_type": "descends_to",
+      "topic_threads": [
+        "christology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

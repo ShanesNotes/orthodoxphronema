@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "the Holy Spirit indicating this, that the way into the Holiest of All was not yet made manifest while the first tabernacle was still standing.",
   "pericope": {
     "id": "HEB.P018",
@@ -12,7 +12,13 @@
     "range": "HEB.8:13-9:8",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "covenant",
+    "priesthood",
+    "suffering",
+    "temple"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +26,23 @@
       "line_number": 607,
       "raw_match": "[[HEB.9:8]]",
       "reference_type": "wikilink",
-      "context": "The atonement granted this day to the people of Israel could picture only in a limited way--as is true of all types--what Christ would do in His suffering and death. This old covenant offering could not make the conscience of the worshiper perfect ([[HEB.9:8]], [[HEB.9:9]]), though it did cleanse from all sin. But our Great High Priest, Jesus Christ, entered the heavenly holy of holies, where He sprinkled His sacrificial blood to deal fully with our sins. Today is the Day of Atonement. Today is the eighth day--the day after which there are no more days. In the old covenant, the high priest went into the holy of holies once every year, and necessarily came back out immediately. Not so of Christ. He went into the heavenly holy of holies with His own blood to atone for our sins, and thus to reconcile us with God."
+      "context": "The atonement granted this day to the people of Israel could picture only in a limited way--as is true of all types--what Christ would do in His suffering and death. This old covenant offering could not make the conscience of the worshiper perfect ([[HEB.9:8]], [[HEB.9:9]]), though it did cleanse from all sin. But our Great High Priest, Jesus Christ, entered the heavenly holy of holies, where He sprinkled His sacrificial blood to deal fully with our sins. Today is the Day of Atonement. Today is the eighth day--the day after which there are no more days. In the old covenant, the high priest went into the holy of holies once every year, and necessarily came back out immediately. Not so of Christ. He went into the heavenly holy of holies with His own blood to atone for our sins, and thus to reconcile us with God.",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "covenant",
+        "priesthood",
+        "suffering",
+        "temple"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "In the days of Pekah king of Israel, Tiglath-Pileser king of Assyria came and captured Ijon, Abel Beth Maachah, Janoah, Kedesh, Hazor, Gilead, and Galilee, the entire land of Naphtali. He exiled the people to Assyria.",
   "pericope": {
     "id": "2KI.P042",
@@ -20,7 +20,16 @@
       "line_number": 20,
       "raw_match": "[[2KI.15:29]]",
       "reference_type": "wikilink",
-      "context": "Thisbe is in modern-day Lebanon (ancient Phoenicia), north of the Sea of Galilee. Naphtali (v. 1) was led captive to Assyria under the predecessor of Shalmaneser ([[2KI.15:29]])."
+      "context": "Thisbe is in modern-day Lebanon (ancient Phoenicia), north of the Sea of Galilee. Naphtali (v. 1) was led captive to Assyria under the predecessor of Shalmaneser ([[2KI.15:29]]).",
+      "edge_type": "instantiates",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

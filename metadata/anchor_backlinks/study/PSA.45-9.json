@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Come, behold the works of the Lord, The wonders He wrought on the earth.",
   "pericope": {
     "id": "PSA.P045",
@@ -12,7 +12,9 @@
     "range": "PSA.45:1-45:12",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 1186,
       "raw_match": "[[PSA.45:9]]",
       "reference_type": "wikilink",
-      "context": "Just as the Scriptures speak of \"false christs and false prophets\" ([[MRK.13:22]]), here we have a counterfeit queen of heaven (see note at v. 8). The true queen of heaven is the Mother of God, seated at the right hand of her Son and King ([[PSA.45:9]])."
+      "context": "Just as the Scriptures speak of \"false christs and false prophets\" ([[MRK.13:22]]), here we have a counterfeit queen of heaven (see note at v. 8). The true queen of heaven is the Mother of God, seated at the right hand of her Son and King ([[PSA.45:9]]).",
+      "edge_type": "scales_to",
+      "topic_threads": [
+        "christology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 5,
+        "title": "Heaven and Earth: A Spiritual Perspective",
+        "polarity": "generation",
+        "operation": "inform",
+        "scale": "individual"
+      }
     }
   ]
 }

@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "For in those days there will be tribulation, such as has not been since the beginning of the creation which God created until this time, nor ever shall be.",
   "pericope": {
     "id": "MRK.P045",
@@ -12,7 +12,13 @@
     "range": "MRK.13:2-13:22",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "covenant",
+    "creation_theology",
+    "eschatology",
+    "suffering"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +26,23 @@
       "line_number": 475,
       "raw_match": "[[MRK.13:7]]-27",
       "reference_type": "wikilink_range",
-      "context": "The prophet foresees the nations gathered in battle against Jerusalem, God's delivery of His people, and the establishment of a secure, peaceful land (see Is 66:15-23; Ezk 38-40; Joel 4:9-21; [[MRK.13:7]]-27; Rev 20-22). In the New Testament, this is to be accomplished at the Second Coming of Christ and the last battle between God and Satan."
+      "context": "The prophet foresees the nations gathered in battle against Jerusalem, God's delivery of His people, and the establishment of a secure, peaceful land (see Is 66:15-23; Ezk 38-40; Joel 4:9-21; [[MRK.13:7]]-27; Rev 20-22). In the New Testament, this is to be accomplished at the Second Coming of Christ and the last battle between God and Satan.",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "covenant",
+        "creation_theology",
+        "eschatology",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

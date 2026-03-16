@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "With trumpets of metal and the sound of a trumpet of horn, Shout aloud before the Lord our King.",
   "pericope": {
     "id": "PSA.P097",
@@ -12,7 +12,10 @@
     "range": "PSA.97:1-97:9",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "priesthood",
+    "temple"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 755,
       "raw_match": "[[PSA.97:6]]",
       "reference_type": "wikilink",
-      "context": "The seven angels receive the seven trumpets. These bodiless powers represent the OT priests, who also sounded their trumpets during the temple liturgy (see [[JOS.6:12]]; 1Ch 16:6; [[PSA.97:6]])."
+      "context": "The seven angels receive the seven trumpets. These bodiless powers represent the OT priests, who also sounded their trumpets during the temple liturgy (see [[JOS.6:12]]; 1Ch 16:6; [[PSA.97:6]]).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "priesthood",
+        "temple"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

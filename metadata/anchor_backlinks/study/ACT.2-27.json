@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "For You will not leave my soul in Hades, Nor will You allow Your Holy One to see corruption.",
   "pericope": {
     "id": "ACT.P007",
@@ -12,7 +12,11 @@
     "range": "ACT.2:21-2:35",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "praise",
+    "resurrection"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,14 +24,41 @@
       "line_number": 186,
       "raw_match": "[[ACT.2:25]]-31",
       "reference_type": "wikilink_range",
-      "context": "Ps 15, similar to Ps 14, teaches the Church the transfigured life in the Person of God Incarnate, who assumed the weakness of mortal flesh (but without sin) for the sake of the inheritance (vv. 5, 6), which is \"the world to come\" (Creed). And as Man, He interceded to the Father on behalf of the Church, (1) to preserve those who hope in the Father (v. 1, 2); (2) to magnify His will in them amid the fallen world (vv. 3, 4); (3) to enlighten them (v. 7); (4) that they should keep their eyes on the Father (v. 8); (5) that they should hope in the resurrection from the dead, because the soul of Jesus was not left in Hades, nor did His body decay in the grave, and therefore, they should not fear death (vv. 9, 10; see also [[ACT.2:25]]-31; 13:35-37); for He was raised from the dead for the sake of their life (v. 11) \"in the world to come\" (Creed)."
+      "context": "Ps 15, similar to Ps 14, teaches the Church the transfigured life in the Person of God Incarnate, who assumed the weakness of mortal flesh (but without sin) for the sake of the inheritance (vv. 5, 6), which is \"the world to come\" (Creed). And as Man, He interceded to the Father on behalf of the Church, (1) to preserve those who hope in the Father (v. 1, 2); (2) to magnify His will in them amid the fallen world (vv. 3, 4); (3) to enlighten them (v. 7); (4) that they should keep their eyes on the Father (v. 8); (5) that they should hope in the resurrection from the dead, because the soul of Jesus was not left in Hades, nor did His body decay in the grave, and therefore, they should not fear death (vv. 9, 10; see also [[ACT.2:25]]-31; 13:35-37); for He was raised from the dead for the sake of their life (v. 11) \"in the world to come\" (Creed).",
+      "edge_type": "opposes",
+      "topic_threads": [
+        "christology",
+        "praise",
+        "resurrection"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/PSA_footnotes.md",
       "line_number": 678,
       "raw_match": "[[ACT.2:25]]-32",
       "reference_type": "wikilink_range",
-      "context": "Ps 56 prophesies the death and Resurrection of Christ (the End, v. 1). He did not corrupt (v. 1), that is, His holy body did not decay in the grave (the cave, v. 1; see also Ps 15:8-11; [[ACT.2:25]]-32; 13:34-37). Verses 2-12 give the Church the hope of \"the resurrection from the dead and the life of the world to come\" (Creed)."
+      "context": "Ps 56 prophesies the death and Resurrection of Christ (the End, v. 1). He did not corrupt (v. 1), that is, His holy body did not decay in the grave (the cave, v. 1; see also Ps 15:8-11; [[ACT.2:25]]-32; 13:34-37). Verses 2-12 give the Church the hope of \"the resurrection from the dead and the life of the world to come\" (Creed).",
+      "edge_type": "opposes",
+      "topic_threads": [
+        "christology",
+        "resurrection"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

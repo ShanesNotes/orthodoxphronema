@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "His winnowing fan is in His hand, and He will thoroughly clean out His threshing floor, and gather the wheat into His barn; but the chaff He will burn with unquenchable fire.'",
   "pericope": {
     "id": "LUK.P015",
@@ -12,7 +12,11 @@
     "range": "LUK.2:52-3:19",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "baptism",
+    "christology",
+    "faith"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +24,21 @@
       "line_number": 250,
       "raw_match": "[[LUK.3:17]]",
       "reference_type": "wikilink",
-      "context": "Christ baptizes in the fire of the Holy Spirit, the power and grace of God divinely poured out on all believers at baptism. (See also fire in v. 10; note at [[LUK.3:16]], [[LUK.3:17]].) In John's culture, a slave would carry the king's sandals; thus John declares himself to be even lower than a slave of Jesus. John's inability to carry Christ's sandal has a second meaning, for carrying another's sandal once meant taking someone else's responsibility ([[RUT.4:7]]). Here it shows that John could not have carried the responsibility that Christ carries, and that the Law could not redeem the world as Christ has come to do."
+      "context": "Christ baptizes in the fire of the Holy Spirit, the power and grace of God divinely poured out on all believers at baptism. (See also fire in v. 10; note at [[LUK.3:16]], [[LUK.3:17]].) In John's culture, a slave would carry the king's sandals; thus John declares himself to be even lower than a slave of Jesus. John's inability to carry Christ's sandal has a second meaning, for carrying another's sandal once meant taking someone else's responsibility ([[RUT.4:7]]). Here it shows that John could not have carried the responsibility that Christ carries, and that the Law could not redeem the world as Christ has come to do.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "baptism",
+        "christology",
+        "faith"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

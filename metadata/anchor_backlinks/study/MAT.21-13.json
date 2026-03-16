@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "And He said to them, 'It is written, but you have made it",
   "pericope": {
     "id": "MAT.P069",
@@ -12,7 +12,15 @@
     "range": "MAT.20:34-21:27",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "faith",
+    "kingdom",
+    "praise",
+    "prayer",
+    "suffering",
+    "temple"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,21 +28,64 @@
       "line_number": 204,
       "raw_match": "[[MAT.21:13]]",
       "reference_type": "wikilink",
-      "context": "Jesus cited this verse when cleansing the temple ([[MAT.21:13]]), suggesting that while in Jeremiah's day the question of the temple being a den of robbers was preposterous, by Christ's time it was a sad fact."
+      "context": "Jesus cited this verse when cleansing the temple ([[MAT.21:13]]), suggesting that while in Jeremiah's day the question of the temple being a den of robbers was preposterous, by Christ's time it was a sad fact.",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "temple"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/PSA_footnotes.md",
       "line_number": 785,
       "raw_match": "[[MAT.21:13]]",
       "reference_type": "wikilink",
-      "context": "Ps 68 prophesies the Passion of the Lord Jesus Christ (the End, v. 1) and the changes it would bring about (concerning things that shall be changed, v. 1). The changes His Passion would bring are noted throughout the psalm. Examples are: (1) the Church would become a house of prayer for all peoples (v. 10; see also [[JOH.2:19]]; [[MAT.21:13]]; Mk 11:17; [[LUK.19:46]]); (2) the cross would bear our reproaches against God (v. 10; see also Rom 15:3); (3) the cross would destroy death (gall and vinegar, v. 22; see also [[MAT.27:34]], [[MAT.27:48]]; [[MRK.15:23]], [[MRK.15:36]]; [[LUK.23:36]]; [[JOH.19:28]]-30); and (4) the Jews would be rejected for their unbelief, and the believing Gentiles brought to salvation (vv. 23, 24; [[ROM.9:9]]-11)."
+      "context": "Ps 68 prophesies the Passion of the Lord Jesus Christ (the End, v. 1) and the changes it would bring about (concerning things that shall be changed, v. 1). The changes His Passion would bring are noted throughout the psalm. Examples are: (1) the Church would become a house of prayer for all peoples (v. 10; see also [[JOH.2:19]]; [[MAT.21:13]]; Mk 11:17; [[LUK.19:46]]); (2) the cross would bear our reproaches against God (v. 10; see also Rom 15:3); (3) the cross would destroy death (gall and vinegar, v. 22; see also [[MAT.27:34]], [[MAT.27:48]]; [[MRK.15:23]], [[MRK.15:36]]; [[LUK.23:36]]; [[JOH.19:28]]-30); and (4) the Jews would be rejected for their unbelief, and the believing Gentiles brought to salvation (vv. 23, 24; [[ROM.9:9]]-11).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology",
+        "faith",
+        "praise",
+        "prayer",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/ZEC_footnotes.md",
       "line_number": 515,
       "raw_match": "[[MAT.21:13]]",
       "reference_type": "wikilink",
-      "context": "The Canaanite is a merchant. The connotation appears to be that merchants will no longer be necessary or allowed in the Lord's house. The cleansing of the temple by Christ comes to mind in this regard (see [[MAT.21:12]], [[MAT.21:13]]; [[MRK.11:15]]-19; [[LUK.19:45]]-48; Jn 2:13-17). One is also reminded how easily God's house is turned into a bartering place and how churches can be used for profits rather than prophecy. The booming industry of Christian items today is alarming. It has always been easy to confuse piety and profits in relation to the Lord's house. The day is coming in the Kingdom of God when this shall be neither permitted nor necessary. Indeed, the coming age is one when God Himself shall supply every need of His children. Buying and selling will no longer be necessary."
+      "context": "The Canaanite is a merchant. The connotation appears to be that merchants will no longer be necessary or allowed in the Lord's house. The cleansing of the temple by Christ comes to mind in this regard (see [[MAT.21:12]], [[MAT.21:13]]; [[MRK.11:15]]-19; [[LUK.19:45]]-48; Jn 2:13-17). One is also reminded how easily God's house is turned into a bartering place and how churches can be used for profits rather than prophecy. The booming industry of Christian items today is alarming. It has always been easy to confuse piety and profits in relation to the Lord's house. The day is coming in the Kingdom of God when this shall be neither permitted nor necessary. Indeed, the coming age is one when God Himself shall supply every need of His children. Buying and selling will no longer be necessary.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology",
+        "kingdom",
+        "temple"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

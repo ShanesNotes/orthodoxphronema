@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "'Speak to the children of Israel, and tell them to make tassels for themselves on the corners of their garments throughout their generations, and to put a blue thread in the tassels of the corners.",
   "pericope": {
     "id": "NUM.P036",
@@ -20,7 +20,16 @@
       "line_number": 473,
       "raw_match": "[[NUM.15:37]]-41",
       "reference_type": "wikilink_range",
-      "context": "The commandment concerning tassels was first given in [[NUM.15:37]]-41. These were constant reminders to keep all the Lord's commandments. For the Israelites, as is true of all men, had a tendency to follow their own mind and will, rather than the will of God ([[NUM.15:39]]). The fault was not with the Law of Moses but with their own tendencies."
+      "context": "The commandment concerning tassels was first given in [[NUM.15:37]]-41. These were constant reminders to keep all the Lord's commandments. For the Israelites, as is true of all men, had a tendency to follow their own mind and will, rather than the will of God ([[NUM.15:39]]). The fault was not with the Law of Moses but with their own tendencies.",
+      "edge_type": "instantiates",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

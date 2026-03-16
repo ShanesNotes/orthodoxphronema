@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "On the first day there shall be a holy convocation, and on the seventh day there shall be a holy convocation for you. No servile work shall be done on them; and whatever must be done by each soul, this only shall be done by you.",
   "pericope": {
     "id": "EXO.P020",
@@ -12,7 +12,14 @@
     "range": "EXO.11:10-12:27",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "baptism",
+    "christology",
+    "eucharist",
+    "exodus_typology",
+    "resurrection",
+    "suffering"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,21 +27,60 @@
       "line_number": 344,
       "raw_match": "[[EXO.12:1]]-30",
       "reference_type": "wikilink_range",
-      "context": "The Israelites were to remove the leaven (v. 7) from their houses in preparation for Passover ([[EXO.12:1]]-30), the remembrance of their freedom from Pharaoh's bondage. Christ, crucified and risen, is our Paschal lamb, our Passover. United to Him in baptism, our life becomes an unending deliverance from evil. Since our life in Christ includes keeping the feast (v. 8), Passover fulfilled in Eucharist, the old leaven of malice and wickedness must be continually removed from us personally and corporately."
+      "context": "The Israelites were to remove the leaven (v. 7) from their houses in preparation for Passover ([[EXO.12:1]]-30), the remembrance of their freedom from Pharaoh's bondage. Christ, crucified and risen, is our Paschal lamb, our Passover. United to Him in baptism, our life becomes an unending deliverance from evil. Since our life in Christ includes keeping the feast (v. 8), Passover fulfilled in Eucharist, the old leaven of malice and wickedness must be continually removed from us personally and corporately.",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "baptism",
+        "christology",
+        "eucharist",
+        "exodus_typology",
+        "resurrection",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/NT/MRK_footnotes.md",
       "line_number": 372,
       "raw_match": "[[EXO.12:12]]-20",
       "reference_type": "wikilink_range",
-      "context": "The Feast of Unleavened Bread begins with the Passover meal on the evening of 15 Nisan (on the Jewish calendar) and lasts seven days ([[EXO.12:12]]-20). Together, these feasts commemorate Israel's liberation from slavery in Egypt. The word Passover refers to the angel of death \"passing over\" Hebrew homes when killing the firstborn of the Egyptians, for the Jews had put lamb's blood on their doorposts ([[EXO.12:13]]). Unleavened bread is a reminder of the haste with which the Hebrews left Egypt ([[EXO.12:39]]). This Passover was fulfilled in Christ, whose blood was shed to free humanity from bondage to sin and death."
+      "context": "The Feast of Unleavened Bread begins with the Passover meal on the evening of 15 Nisan (on the Jewish calendar) and lasts seven days ([[EXO.12:12]]-20). Together, these feasts commemorate Israel's liberation from slavery in Egypt. The word Passover refers to the angel of death \"passing over\" Hebrew homes when killing the firstborn of the Egyptians, for the Jews had put lamb's blood on their doorposts ([[EXO.12:13]]). Unleavened bread is a reminder of the haste with which the Hebrews left Egypt ([[EXO.12:39]]). This Passover was fulfilled in Christ, whose blood was shed to free humanity from bondage to sin and death.",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "exodus_typology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/NUM_footnotes.md",
       "line_number": 686,
       "raw_match": "[[EXO.12:1]]-20",
       "reference_type": "wikilink_range",
-      "context": "to (2) the weekly offerings ([[EXO.20:8]]-11; Lv 23:3; [[NUM.28:9]], [[NUM.28:10]]), to (3) the monthly offerings ([[NUM.28:11]]-15), to (4) the yearly offerings ([[EXO.12:1]]-20; 23:15, 16;"
+      "context": "to (2) the weekly offerings ([[EXO.20:8]]-11; Lv 23:3; [[NUM.28:9]], [[NUM.28:10]]), to (3) the monthly offerings ([[NUM.28:11]]-15), to (4) the yearly offerings ([[EXO.12:1]]-20; 23:15, 16;",
+      "edge_type": "instantiates",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

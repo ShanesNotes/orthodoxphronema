@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "But that you may know that the Son of Man has power on earth to forgive sins'-then He said to the paralytic, 'Arise, take up your bed, and go to your house.'",
   "pericope": {
     "id": "MAT.P019",
@@ -12,7 +12,10 @@
     "range": "MAT.8:27-9:7",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "faith"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 905,
       "raw_match": "[[MAT.9:1]]-7",
       "reference_type": "wikilink_range",
-      "context": "This Angel has the authority to forgive sins, for the Father's name is in Him. The Father's name is the Lord; therefore, the Son is also called by this name (AmbM). When He became incarnate, He also forgave sins. But the Jews challenged His authority in vain, because they did not believe He was the Son of God ([[MAT.9:1]]-7)."
+      "context": "This Angel has the authority to forgive sins, for the Father's name is in Him. The Father's name is the Lord; therefore, the Son is also called by this name (AmbM). When He became incarnate, He also forgave sins. But the Jews challenged His authority in vain, because they did not believe He was the Son of God ([[MAT.9:1]]-7).",
+      "edge_type": "descends_to",
+      "topic_threads": [
+        "christology",
+        "faith"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

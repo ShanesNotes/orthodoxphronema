@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "so that they brought the sick out into the streets and laid them on beds and couches, that at least the shadow of Peter passing by might fall on some of them.",
   "pericope": {
     "id": "ACT.P018",
@@ -12,7 +12,10 @@
     "range": "ACT.5:11-5:15",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "creation_theology",
+    "mercy"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 151,
       "raw_match": "[[ACT.5:15]]",
       "reference_type": "wikilink",
-      "context": "Anointing the sick with oil has not only medicinal value but sacramental value as well. As God's healing power is bestowed through creation (5:27; [[NUM.21:8]], [[NUM.21:9]]; [[2KI.13:21]]; [[JOH.9:6]], [[JOH.9:7]]; [[ACT.5:15]]; 19:11, 12), so oil is a vehicle of God's mercy and healing in the Church ([[JAS.5:14]])."
+      "context": "Anointing the sick with oil has not only medicinal value but sacramental value as well. As God's healing power is bestowed through creation (5:27; [[NUM.21:8]], [[NUM.21:9]]; [[2KI.13:21]]; [[JOH.9:6]], [[JOH.9:7]]; [[ACT.5:15]]; 19:11, 12), so oil is a vehicle of God's mercy and healing in the Church ([[JAS.5:14]]).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "creation_theology",
+        "mercy"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 4,
+        "title": "Reconstructing the Language of Creation",
+        "polarity": "vertical",
+        "operation": "ascend",
+        "scale": "cosmic"
+      }
     }
   ]
 }

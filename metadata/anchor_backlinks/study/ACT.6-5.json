@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "And the saying pleased the whole multitude. And they chose Stephen, a man full of faith and the Holy Spirit, and Philip, Prochorus, Nicanor, Timon, Parmenas, and Nicolas, a proselyte from Antioch,",
   "pericope": {
     "id": "ACT.P021",
@@ -12,7 +12,16 @@
     "range": "ACT.5:42-6:6",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "baptism",
+    "christology",
+    "covenant",
+    "faith",
+    "israel_church",
+    "prayer",
+    "priesthood",
+    "wisdom"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,21 +29,64 @@
       "line_number": 39,
       "raw_match": "[[ACT.6:1]]-6",
       "reference_type": "wikilink_range",
-      "context": "S acraments (or mysteries) are holy actions of the Church by which spiritual life is imparted to those receiving them. Ordination, which means's etting in place' or's election by the outstretched hand,' is one of several Orthodox sacraments. It is extended specifically to bishops, presbyters (priests), and deacons, and generally to all through Holy Baptism. 1 Bishops. Christ in His ministry ordained or's et in place' the Twelve, assuring them, 'You did not choose Me, but I chose you and appointed you that you should go and bear fruit, and that your fruit should remain' ([[JOH.15:16]]). Both the New Testament and the church fathers recognize the Twelve as the first bishops or overseers in the Church. When Judas had fallen away and the disciples were considering his successor, Peter said, 'Let another take his office' (Gr. episkopen, lit., 'bishopric'; [[ACT.1:20]]). This bishopric was given to Matthias ([[ACT.1:25]]). The apostles-these first bishops-in turn ordained presbyters and deacons. 2 Deacons. The account of the first ordination of deacons ([[ACT.6:1]]-6) is quite detailed. 'Seek out from among you seven men of good reputation, full of the Holy Spirit and wisdom,' the apostles said, 'whom we may appoint [Gr. kathistemi, 'to set down or ordain'] over this business' ([[ACT.6:3]]). The manner of this appointment is clear: 'they laid hands on them' ([[ACT.6:6]]). The ordination of deacons in the Orthodox Church takes place in this same manner today, through the laying on of hands by the bishop. 3 Presbyters. The first account of the ordination of elders or presbyters is in [[ACT.14:23]]. The apostles Paul and Barnabas 'appointed [lit., 'elected by stretching forth the hand'] elders in every church, and prayed with fasting,' then 'commended them to the Lord in whom they had believed.' Similarly, Paul reminds his apostolic apprentice, Titus, 'For this reason I left you in Crete, that you should set in order the things that are lacking, and appoint [set in place, ordain] elders in every city as I commanded you' ([[TIT.1:5]]). The Titus passage brings to mind the first prayer the bishop prays over one being ordained to the Orthodox priesthood: 'The grace divine, which always heals that which is weak and completes that which is lacking, elevates through the laying on of my hands this most devout deacon to be priest.' The bishop continues to ask God to 'fill with the gift of the Holy Spirit this man... that he may be worthy to stand in innocence before Your holy altar, to proclaim the Gospel of Your Kingdom, to minister the word of Your truth, to offer You spiritual gifts and sacrifices, to"
+      "context": "S acraments (or mysteries) are holy actions of the Church by which spiritual life is imparted to those receiving them. Ordination, which means's etting in place' or's election by the outstretched hand,' is one of several Orthodox sacraments. It is extended specifically to bishops, presbyters (priests), and deacons, and generally to all through Holy Baptism. 1 Bishops. Christ in His ministry ordained or's et in place' the Twelve, assuring them, 'You did not choose Me, but I chose you and appointed you that you should go and bear fruit, and that your fruit should remain' ([[JOH.15:16]]). Both the New Testament and the church fathers recognize the Twelve as the first bishops or overseers in the Church. When Judas had fallen away and the disciples were considering his successor, Peter said, 'Let another take his office' (Gr. episkopen, lit., 'bishopric'; [[ACT.1:20]]). This bishopric was given to Matthias ([[ACT.1:25]]). The apostles-these first bishops-in turn ordained presbyters and deacons. 2 Deacons. The account of the first ordination of deacons ([[ACT.6:1]]-6) is quite detailed. 'Seek out from among you seven men of good reputation, full of the Holy Spirit and wisdom,' the apostles said, 'whom we may appoint [Gr. kathistemi, 'to set down or ordain'] over this business' ([[ACT.6:3]]). The manner of this appointment is clear: 'they laid hands on them' ([[ACT.6:6]]). The ordination of deacons in the Orthodox Church takes place in this same manner today, through the laying on of hands by the bishop. 3 Presbyters. The first account of the ordination of elders or presbyters is in [[ACT.14:23]]. The apostles Paul and Barnabas 'appointed [lit., 'elected by stretching forth the hand'] elders in every church, and prayed with fasting,' then 'commended them to the Lord in whom they had believed.' Similarly, Paul reminds his apostolic apprentice, Titus, 'For this reason I left you in Crete, that you should set in order the things that are lacking, and appoint [set in place, ordain] elders in every city as I commanded you' ([[TIT.1:5]]). The Titus passage brings to mind the first prayer the bishop prays over one being ordained to the Orthodox priesthood: 'The grace divine, which always heals that which is weak and completes that which is lacking, elevates through the laying on of my hands this most devout deacon to be priest.' The bishop continues to ask God to 'fill with the gift of the Holy Spirit this man... that he may be worthy to stand in innocence before Your holy altar, to proclaim the Gospel of Your Kingdom, to minister the word of Your truth, to offer You spiritual gifts and sacrifices, to",
+      "edge_type": "witnesses",
+      "topic_threads": [
+        "baptism",
+        "christology",
+        "covenant",
+        "faith",
+        "israel_church",
+        "prayer",
+        "priesthood",
+        "wisdom"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/NT/1TI_footnotes.md",
       "line_number": 125,
       "raw_match": "[[ACT.6:1]]-6",
       "reference_type": "wikilink_range",
-      "context": "For qualifications for the first deacons, see [[ACT.6:1]]-6."
+      "context": "For qualifications for the first deacons, see [[ACT.6:1]]-6.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "faith"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 2,
+        "title": "Coming Full Circle: The Copernican Revolution",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/NT/REV_footnotes.md",
       "line_number": 225,
       "raw_match": "[[ACT.6:5]]",
       "reference_type": "wikilink",
-      "context": "Most scholars believe the Nicolaitans to be an early gnostic sect that tolerated idolatry and encouraged fornication. Some of the church fathers held the founder of this sect to be an apostate Nicholas, one of the original seven deacons ([[ACT.6:5]])."
+      "context": "Most scholars believe the Nicolaitans to be an early gnostic sect that tolerated idolatry and encouraged fornication. Some of the church fathers held the founder of this sect to be an apostate Nicholas, one of the original seven deacons ([[ACT.6:5]]).",
+      "edge_type": "witnesses",
+      "topic_threads": [
+        "faith"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

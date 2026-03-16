@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "for they loved the praise of men more than the praise of God.",
   "pericope": {
     "id": "JOH.P046",
@@ -12,7 +12,9 @@
     "range": "JOH.12:43-12:49",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "praise"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 414,
       "raw_match": "[[JOH.12:43]]",
       "reference_type": "wikilink",
-      "context": "The rebels accused Moses and Aaron of self-exaltation, the very sin of which they themselves were guilty. Self-exaltation is vainglory, the root of all sins. Moses, on the other hand, fell on his face, for he was the most humble man in all the earth. It is fine to be praised by another, but not by oneself: \"Let your neighbor praise you, and not your own mouth, / A stranger, and not your own lips\" (Pr 27:2). However, one is tested when praised by others: \"But a man is tested by the mouth of those who praise him\" (Pr 27:22). Korah, however, failed this test, for he \"loved the praise of men more than the praise of God\" ([[JOH.12:43]])."
+      "context": "The rebels accused Moses and Aaron of self-exaltation, the very sin of which they themselves were guilty. Self-exaltation is vainglory, the root of all sins. Moses, on the other hand, fell on his face, for he was the most humble man in all the earth. It is fine to be praised by another, but not by oneself: \"Let your neighbor praise you, and not your own mouth, / A stranger, and not your own lips\" (Pr 27:2). However, one is tested when praised by others: \"But a man is tested by the mouth of those who praise him\" (Pr 27:22). Korah, however, failed this test, for he \"loved the praise of men more than the praise of God\" ([[JOH.12:43]]).",
+      "edge_type": "ascends_from",
+      "topic_threads": [
+        "praise"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

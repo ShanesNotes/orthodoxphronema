@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "'And you, child, will be called the prophet of the Highest; For y ou will go before the face of the Lord to prepare His way s,",
   "pericope": {
     "id": "LUK.P006",
@@ -12,7 +12,9 @@
     "range": "LUK.1:66-1:78",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 1126,
       "raw_match": "[[LUK.1:76]]",
       "reference_type": "wikilink",
-      "context": "John does not ascribe to himself the role of Elijah ([[JOH.1:21]]), but Jesus does. John fulfilled the mission of Elijah ([[LUK.1:17]], [[LUK.1:76]]) and his destiny was similar. Yet John is honored over Elijah (v. 11) because John prepared the way for the advent of Christ Himself."
+      "context": "John does not ascribe to himself the role of Elijah ([[JOH.1:21]]), but Jesus does. John fulfilled the mission of Elijah ([[LUK.1:17]], [[LUK.1:76]]) and his destiny was similar. Yet John is honored over Elijah (v. 11) because John prepared the way for the advent of Christ Himself.",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

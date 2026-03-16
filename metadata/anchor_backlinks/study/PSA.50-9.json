@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "You shall sprinkle me with hyssop, and I will be cleansed; You shall wash me, and I will be made whiter than snow.",
   "pericope": {
     "id": "PSA.P050",
@@ -12,7 +12,12 @@
     "range": "PSA.50:1-50:21",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "baptism",
+    "christology",
+    "praise",
+    "resurrection"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,14 +25,41 @@
       "line_number": 586,
       "raw_match": "[[PSA.50:8]]-15",
       "reference_type": "wikilink_range",
-      "context": "A common prophetic theme throughout the OT (see 1Kg 15:22; [[PSA.50:8]]-15; Is 1:10-17; [[JER.7:21]]-26; [[HOS.6:6]]). This is not in opposition to liturgical, sacramental worship, but a statement of priority: obedience comes before praise. Sacrifice pleasing to God requires voluntary human sacrifice, not the slaughter of dumb animals. The primary instance of this is Christ, who did God's will in a liturgical, sacramental act (v. 10)."
+      "context": "A common prophetic theme throughout the OT (see 1Kg 15:22; [[PSA.50:8]]-15; Is 1:10-17; [[JER.7:21]]-26; [[HOS.6:6]]). This is not in opposition to liturgical, sacramental worship, but a statement of priority: obedience comes before praise. Sacrifice pleasing to God requires voluntary human sacrifice, not the slaughter of dumb animals. The primary instance of this is Christ, who did God's will in a liturgical, sacramental act (v. 10).",
+      "edge_type": "echoes",
+      "topic_threads": [
+        "christology",
+        "praise"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/EXO_footnotes.md",
       "line_number": 462,
       "raw_match": "[[PSA.50:9]]",
       "reference_type": "wikilink",
-      "context": "The hyssop speaks of Christ's garments that were whiter than snow in the Resurrection, and of the purity bestowed by the remission of sins in baptism (AmbM). See also [[PSA.50:9]]."
+      "context": "The hyssop speaks of Christ's garments that were whiter than snow in the Resurrection, and of the purity bestowed by the remission of sins in baptism (AmbM). See also [[PSA.50:9]].",
+      "edge_type": "ascends_from",
+      "topic_threads": [
+        "baptism",
+        "christology",
+        "resurrection"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 9,
+        "title": "Example: The Cherubim of Ezekiel I",
+        "polarity": "generation",
+        "operation": "inform",
+        "scale": "intercommunal"
+      }
     }
   ]
 }

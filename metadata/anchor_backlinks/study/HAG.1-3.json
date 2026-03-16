@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Then the word of the Lord came by Haggai the prophet, saying,",
   "pericope": {
     "id": "HAG.P002",
@@ -12,7 +12,11 @@
     "range": "HAG.1:2-1:13",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "divine_word",
+    "logos",
+    "temple"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +24,21 @@
       "line_number": 270,
       "raw_match": "[[HAG.1:1]]-15",
       "reference_type": "wikilink_range",
-      "context": "The temple will be rebuilt, but not as it was before. The second temple, not as glorious, was completed in approximately 515 BC (see [[HAG.1:1]]-15)."
+      "context": "The temple will be rebuilt, but not as it was before. The second temple, not as glorious, was completed in approximately 515 BC (see [[HAG.1:1]]-15).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "divine_word",
+        "logos",
+        "temple"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

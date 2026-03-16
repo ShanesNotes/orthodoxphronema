@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "and release those who through fear of death were all their lifetime subject to bondage.",
   "pericope": {
     "id": "HEB.P004",
@@ -12,7 +12,22 @@
     "range": "HEB.2:9-2:17",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "baptism",
+    "christology",
+    "covenant",
+    "creation_theology",
+    "eucharist",
+    "exodus_typology",
+    "israel_church",
+    "mercy",
+    "praise",
+    "resurrection",
+    "shepherd",
+    "suffering",
+    "theosis",
+    "wisdom"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,56 +35,171 @@
       "line_number": 44,
       "raw_match": "[[HEB.2:14]]-15",
       "reference_type": "wikilink_range",
-      "context": "In the Old Testament account of creation, God created mankind and established a place for him called Paradise. He also gave him a commandment regarding the tree of the knowledge of good and evil: 'And the Lord God commanded Adam, saying, 'You may eat food from every tree in the garden; but from the tree of the knowledge of good and evil you may not eat; for in whatever day you eat from it, you shall die by death' ' ([[GEN.2:16]], [[GEN.2:17]]). In that Adam and Eve did not physically die the day they ate from the tree, the words 'you shall die' indicate a spiritual death through separation from God. Ancestral sin is the disobedience of Adam to God's command regarding the tree of the knowledge of good and evil. Adam willingly disobeyed this commandment and diverted himself, or fell, from God's path to perfection, thus separating himself from His Creator, the Source of life. #### What Are The Consequences Of The Fall? 1 This Fall of Adam caused mankind to become subject to mortality. While this is often seen mainly as a punishment, or penalty, the emphasis concerning God's judgments on Adam and Eve at the Fall is best understood in terms of His mercy. So, for example, concerning man's mortality ([[GEN.3:19]]), St. Gregory the Theologian states, 'Yet here too He provides a benefit-namely death, which cuts off sin, so that evil may not be everlasting. Thus His punishment is changed into a mercy.' 2 We who are of Adam's race are not guilty because of Adam's sin, but because of our own sin. However, because all of mankind fell away from the grace of God through Adam's disobedience, man now has a propensity, a disposition, an inclination towards sin, because just as death entered the world through sin, now sin enters through fear of death. 3 Mankind's strong propensity to commit sin reveals that in the Fall, the image of God in man ([[GEN.1:26]], [[GEN.1:27]]) is also fallen. However, the ancient Fathers emphasize that the divine image in man has not been totally corrupted or obliterated. Human nature remains inherently good after the Fall; mankind is not totally depraved. People are still capable of doing good, although bondage to death and the influences of the devil can dull their perception of what is good and lead them into all kinds of evil. 4 Adam's Fall not only brought mortality and sin into the world, but also sweat, toil, hunger, thirst, weariness, sorrow, pain, suffering, sickness, tribulations, tragedy and tears. 5 Even after the Fall, the intellectual, desiring and incensive (forceful or driving) aspects of the soul are natural and therefore neutral. They can be used in a good way, or in a bad, harmful way. For instance, desire is very good when one directs it towards God. But when desire is out of control, one may use it in very inappropriate ways, such as becoming gluttonous or desiring another person's spouse. The classic analogy is that these powers of the soul are like iron, which can be made into a plow to help grow food, or into a sword to be used to kill someone. Christ, by His Death and Resurrection, conquered the devil and death, freeing mankind from the fear of death ([[HEB.2:14]]-15) and making possible a more complete communion between God and man than was ever possible before. This communion allows people to become 'partakers of the divine nature' ([[2PE.1:4]]), to transcend death and, ultimately, all the consequences of the Fall."
+      "context": "In the Old Testament account of creation, God created mankind and established a place for him called Paradise. He also gave him a commandment regarding the tree of the knowledge of good and evil: 'And the Lord God commanded Adam, saying, 'You may eat food from every tree in the garden; but from the tree of the knowledge of good and evil you may not eat; for in whatever day you eat from it, you shall die by death' ' ([[GEN.2:16]], [[GEN.2:17]]). In that Adam and Eve did not physically die the day they ate from the tree, the words 'you shall die' indicate a spiritual death through separation from God. Ancestral sin is the disobedience of Adam to God's command regarding the tree of the knowledge of good and evil. Adam willingly disobeyed this commandment and diverted himself, or fell, from God's path to perfection, thus separating himself from His Creator, the Source of life. #### What Are The Consequences Of The Fall? 1 This Fall of Adam caused mankind to become subject to mortality. While this is often seen mainly as a punishment, or penalty, the emphasis concerning God's judgments on Adam and Eve at the Fall is best understood in terms of His mercy. So, for example, concerning man's mortality ([[GEN.3:19]]), St. Gregory the Theologian states, 'Yet here too He provides a benefit-namely death, which cuts off sin, so that evil may not be everlasting. Thus His punishment is changed into a mercy.' 2 We who are of Adam's race are not guilty because of Adam's sin, but because of our own sin. However, because all of mankind fell away from the grace of God through Adam's disobedience, man now has a propensity, a disposition, an inclination towards sin, because just as death entered the world through sin, now sin enters through fear of death. 3 Mankind's strong propensity to commit sin reveals that in the Fall, the image of God in man ([[GEN.1:26]], [[GEN.1:27]]) is also fallen. However, the ancient Fathers emphasize that the divine image in man has not been totally corrupted or obliterated. Human nature remains inherently good after the Fall; mankind is not totally depraved. People are still capable of doing good, although bondage to death and the influences of the devil can dull their perception of what is good and lead them into all kinds of evil. 4 Adam's Fall not only brought mortality and sin into the world, but also sweat, toil, hunger, thirst, weariness, sorrow, pain, suffering, sickness, tribulations, tragedy and tears. 5 Even after the Fall, the intellectual, desiring and incensive (forceful or driving) aspects of the soul are natural and therefore neutral. They can be used in a good way, or in a bad, harmful way. For instance, desire is very good when one directs it towards God. But when desire is out of control, one may use it in very inappropriate ways, such as becoming gluttonous or desiring another person's spouse. The classic analogy is that these powers of the soul are like iron, which can be made into a plow to help grow food, or into a sword to be used to kill someone. Christ, by His Death and Resurrection, conquered the devil and death, freeing mankind from the fear of death ([[HEB.2:14]]-15) and making possible a more complete communion between God and man than was ever possible before. This communion allows people to become 'partakers of the divine nature' ([[2PE.1:4]]), to transcend death and, ultimately, all the consequences of the Fall.",
+      "edge_type": "witnesses",
+      "topic_threads": [
+        "christology",
+        "covenant",
+        "creation_theology",
+        "eucharist",
+        "mercy",
+        "resurrection",
+        "suffering",
+        "theosis"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/EXO_footnotes.md",
       "line_number": 29,
       "raw_match": "[[HEB.2:15]]",
       "reference_type": "wikilink",
-      "context": "The deceitfulness of Pharaoh ties this story to two others. First to the account of the serpent, who was \"more cunning than all the wild animals the Lord God made on the earth\" ([[GEN.3:1]]); and second, to a later pharaoh's attempt to outwit Moses. This early verse of Exodus introduces a major motif of this book, namely, the matching of wits--the wisdom of the serpent again encounters the wisdom of God. Similarly, when the Son of God became incarnate, He easily outwitted the devil and destroyed him and death through His Cross ([[COL.2:15]]; [[HEB.2:14]], [[HEB.2:15]])."
+      "context": "The deceitfulness of Pharaoh ties this story to two others. First to the account of the serpent, who was \"more cunning than all the wild animals the Lord God made on the earth\" ([[GEN.3:1]]); and second, to a later pharaoh's attempt to outwit Moses. This early verse of Exodus introduces a major motif of this book, namely, the matching of wits--the wisdom of the serpent again encounters the wisdom of God. Similarly, when the Son of God became incarnate, He easily outwitted the devil and destroyed him and death through His Cross ([[COL.2:15]]; [[HEB.2:14]], [[HEB.2:15]]).",
+      "edge_type": "descends_to",
+      "topic_threads": [
+        "christology",
+        "exodus_typology",
+        "suffering",
+        "wisdom"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/EXO_footnotes.md",
       "line_number": 439,
       "raw_match": "[[HEB.2:15]]",
       "reference_type": "wikilink",
-      "context": "Death would not touch Israel because of the blood. Christ's Blood destroyed death and delivers His Church from the same ([[HEB.2:14]], [[HEB.2:15]]). The firstborn were preserved by God from being touched by the destroyer to show that we who were made alive in Christ no longer die in Adam (BasilG)."
+      "context": "Death would not touch Israel because of the blood. Christ's Blood destroyed death and delivers His Church from the same ([[HEB.2:14]], [[HEB.2:15]]). The firstborn were preserved by God from being touched by the destroyer to show that we who were made alive in Christ no longer die in Adam (BasilG).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "israel_church"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/EXO_footnotes.md",
       "line_number": 479,
       "raw_match": "[[HEB.2:15]]",
       "reference_type": "wikilink",
-      "context": "The Egyptians lived under the fear of death ([[HEB.2:15]])."
+      "context": "The Egyptians lived under the fear of death ([[HEB.2:15]]).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "exodus_typology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/PSA_footnotes.md",
       "line_number": 210,
       "raw_match": "[[HEB.2:15]]",
       "reference_type": "wikilink",
-      "context": "Ps 17 is set in the historical background of David's deliverance from the hand of all his enemies and from the hand of Saul (1Kg 19-31). However, this psalm is forecasting and magnifying the salvation (v. 51) of the Father's King, who is called Christ (His anointed) and David, for He is the Son of David. The seed of the Son of David is the Church. Man's enemies were death and the decay of the body in the grave, Hades, and the devil. And these held man in great fear and dread and in bondage to sinful passions (vv. 1-6; see also [[HEB.2:14]], [[HEB.2:15]]). But in His Incarnation, Christ descended from heaven (v. 10) and destroyed these enemies (vv. 7-16), and brought everything into the light (v. 29; see also [[2TI.1:10]]). He ascended on high and called the Gentiles (vv. 17-50)."
+      "context": "Ps 17 is set in the historical background of David's deliverance from the hand of all his enemies and from the hand of Saul (1Kg 19-31). However, this psalm is forecasting and magnifying the salvation (v. 51) of the Father's King, who is called Christ (His anointed) and David, for He is the Son of David. The seed of the Son of David is the Church. Man's enemies were death and the decay of the body in the grave, Hades, and the devil. And these held man in great fear and dread and in bondage to sinful passions (vv. 1-6; see also [[HEB.2:14]], [[HEB.2:15]]). But in His Incarnation, Christ descended from heaven (v. 10) and destroyed these enemies (vv. 7-16), and brought everything into the light (v. 29; see also [[2TI.1:10]]). He ascended on high and called the Gentiles (vv. 17-50).",
+      "edge_type": "ascends_from",
+      "topic_threads": [
+        "christology",
+        "praise",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/PSA_footnotes.md",
       "line_number": 274,
       "raw_match": "[[HEB.2:15]]",
       "reference_type": "wikilink",
-      "context": "Ps 22 is the Church speaking about the Lord Jesus (vv. 1-3) and to the Lord Jesus (vv. 4-6). In speaking about the Lord, the Church (the sheep; see also [[JOH.10:1]]-5) identifies Him as my shepherd (v. 1; see also [[JOH.10:14]]), thus indicating a close relationship with Him. And in this relationship of Shepherd and sheep, the Church lacks nothing, for example, the green pastures of kingdom life (v. 2; see also [[JOH.10:10]]); the still waters of baptism (v. 2; see also [[JOH.3:5]]); and the conversion of the soul to the paths of righteousness (v. 3; see also [[JOH.10:3]], [[JOH.10:4]], [[JOH.10:7]]). And in speaking to the Lord, the Church is grateful to Him (1) for deliverance from the fear of death (v. 4; see also [[HEB.2:14]], [[HEB.2:15]]); (2) for the Eucharist (v. 5; see also [[LUK.22:14]]-20); and (3) for a lifetime of mercy (v. 6; see also [[LUK.1:50]], [[LUK.1:54]])."
+      "context": "Ps 22 is the Church speaking about the Lord Jesus (vv. 1-3) and to the Lord Jesus (vv. 4-6). In speaking about the Lord, the Church (the sheep; see also [[JOH.10:1]]-5) identifies Him as my shepherd (v. 1; see also [[JOH.10:14]]), thus indicating a close relationship with Him. And in this relationship of Shepherd and sheep, the Church lacks nothing, for example, the green pastures of kingdom life (v. 2; see also [[JOH.10:10]]); the still waters of baptism (v. 2; see also [[JOH.3:5]]); and the conversion of the soul to the paths of righteousness (v. 3; see also [[JOH.10:3]], [[JOH.10:4]], [[JOH.10:7]]). And in speaking to the Lord, the Church is grateful to Him (1) for deliverance from the fear of death (v. 4; see also [[HEB.2:14]], [[HEB.2:15]]); (2) for the Eucharist (v. 5; see also [[LUK.22:14]]-20); and (3) for a lifetime of mercy (v. 6; see also [[LUK.1:50]], [[LUK.1:54]]).",
+      "edge_type": "opposes",
+      "topic_threads": [
+        "baptism",
+        "eucharist",
+        "mercy",
+        "shepherd"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/PSA_footnotes.md",
       "line_number": 320,
       "raw_match": "[[HEB.2:15]]",
       "reference_type": "wikilink",
-      "context": "Ps 26 is a prophecy concerning baptism, which is a declaration of war (v. 3) against the devil and his angels. This war is declared by the Church in the prayers at the reception of catechumens. In this psalm, these fallen angels are called the wicked (v. 2), my enemies (vv. 2, 6, 11), an army (v. 3), and unjust witnesses (v. 12). And in this war, St. Paul describes them as \"principalities,\" \"powers,\" \"the rulers of the darkness of this age,\" \"spiritual hosts of wickedness in the heavenly places\" ([[EPH.6:12]]). Therefore, in baptism, the Lord Jesus Christ becomes my light, my savior, and my defender in relation to this war (v. 1). And with the Lord's help, these enemies are overcome in battle (weakened and fell, v. 2). So as a result, the fruit borne in the Church is freedom from the fear of death (my heart shall not be afraid, v. 3; see also [[HEB.2:14]], [[HEB.2:15]]); a strong relationship with the Lord (vv. 4-12); and an earnest expectation for the land of the living (vv. 13, 14), which is \"the resurrection from the dead and the life of the world to come\" (Creed)."
+      "context": "Ps 26 is a prophecy concerning baptism, which is a declaration of war (v. 3) against the devil and his angels. This war is declared by the Church in the prayers at the reception of catechumens. In this psalm, these fallen angels are called the wicked (v. 2), my enemies (vv. 2, 6, 11), an army (v. 3), and unjust witnesses (v. 12). And in this war, St. Paul describes them as \"principalities,\" \"powers,\" \"the rulers of the darkness of this age,\" \"spiritual hosts of wickedness in the heavenly places\" ([[EPH.6:12]]). Therefore, in baptism, the Lord Jesus Christ becomes my light, my savior, and my defender in relation to this war (v. 1). And with the Lord's help, these enemies are overcome in battle (weakened and fell, v. 2). So as a result, the fruit borne in the Church is freedom from the fear of death (my heart shall not be afraid, v. 3; see also [[HEB.2:14]], [[HEB.2:15]]); a strong relationship with the Lord (vv. 4-12); and an earnest expectation for the land of the living (vv. 13, 14), which is \"the resurrection from the dead and the life of the world to come\" (Creed).",
+      "edge_type": "opposes",
+      "topic_threads": [
+        "baptism",
+        "christology",
+        "praise",
+        "resurrection"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/PSA_footnotes.md",
       "line_number": 809,
       "raw_match": "[[HEB.2:15]]",
       "reference_type": "wikilink",
-      "context": "Ps 70 teaches the Church about deliverance from captivity (taken captive, v. 1) to the devil and his angels (my enemies, v. 10; see also [[EPH.6:12]]). For these enemies ensnared mankind in the fear of death and the lifetime of bondage it engendered (see [[HEB.2:15]]). But from birth to death, we are delivered by the Lord Jesus Christ from this fear (from birth, v. 6; to old age and to my last breath, v. 18). For we are delivered and set free in His righteousness (v. 2), on which we meditate... all the day long v. 24)."
+      "context": "Ps 70 teaches the Church about deliverance from captivity (taken captive, v. 1) to the devil and his angels (my enemies, v. 10; see also [[EPH.6:12]]). For these enemies ensnared mankind in the fear of death and the lifetime of bondage it engendered (see [[HEB.2:15]]). But from birth to death, we are delivered by the Lord Jesus Christ from this fear (from birth, v. 6; to old age and to my last breath, v. 18). For we are delivered and set free in His righteousness (v. 2), on which we meditate... all the day long v. 24).",
+      "edge_type": "opposes",
+      "topic_threads": [
+        "christology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

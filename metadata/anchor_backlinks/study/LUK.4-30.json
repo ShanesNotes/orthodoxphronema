@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Then passing through the midst of them, He went His way.",
   "pericope": {
     "id": "LUK.P020",
@@ -12,7 +12,10 @@
     "range": "LUK.4:15-4:36",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "suffering"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 1196,
       "raw_match": "[[LUK.4:28]]-30",
       "reference_type": "wikilink_range",
-      "context": "Because Christ is going to His Passion voluntarily and according to His own will (vv. 17, 18), His accusers cannot arrest Him until He is ready (7:30; 8:20; see [[LUK.4:28]]-30)."
+      "context": "Because Christ is going to His Passion voluntarily and according to His own will (vv. 17, 18), His accusers cannot arrest Him until He is ready (7:30; 8:20; see [[LUK.4:28]]-30).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "David was clothed with a robe of fine linen, as were all the Levites who bore the ark, the singers, and Chenaniah the music master with the singers. David also wore a linen ephod.",
   "pericope": {
     "id": "1CH.P046",
@@ -12,7 +12,10 @@
     "range": "1CH.15:24-16:5",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "priesthood",
+    "temple"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 172,
       "raw_match": "[[1CH.15:25]]-29",
       "reference_type": "wikilink_range",
-      "context": "Having seen that the ark has brought blessing to the house of a Philistine, David is willing to have it enter Jerusalem after all (see [[1CH.15:25]]-29). Greeting the ark with dancing is perhaps an import from Canaanite practices. A tabernacle (\"tent of meeting\") is pitched for the ark in Jerusalem. The distribution of the offering, and thus the blessing associated with it, is made from Dan to Beersheba (v. 19), the geographical boundaries of Israel at the height of David's rule."
+      "context": "Having seen that the ark has brought blessing to the house of a Philistine, David is willing to have it enter Jerusalem after all (see [[1CH.15:25]]-29). Greeting the ark with dancing is perhaps an import from Canaanite practices. A tabernacle (\"tent of meeting\") is pitched for the ark in Jerusalem. The distribution of the offering, and thus the blessing associated with it, is made from Dan to Beersheba (v. 19), the geographical boundaries of Israel at the height of David's rule.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "priesthood",
+        "temple"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

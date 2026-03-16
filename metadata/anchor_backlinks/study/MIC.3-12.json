@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Therefore on account of you, Zion shall be plowed as a field; Jerusalem shall be as ashed in the field, and the mountain of the house as a grove of trees.",
   "pericope": {
     "id": "MIC.P006",
@@ -20,7 +20,16 @@
       "line_number": 786,
       "raw_match": "[[MIC.3:12]]",
       "reference_type": "wikilink",
-      "context": "This refers to the prophet Micah ([[MIC.1:1]]). The prophecy in question comes from [[MIC.3:12]]."
+      "context": "This refers to the prophet Micah ([[MIC.1:1]]). The prophecy in question comes from [[MIC.3:12]].",
+      "edge_type": "instantiates",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "When He had said these things, He spat on the ground and made clay with the saliva; and He anointed the eyes of the blind man with the clay.",
   "pericope": {
     "id": "JOH.P030",
@@ -12,7 +12,12 @@
     "range": "JOH.8:59-9:12",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "creation_theology",
+    "faith",
+    "mercy"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,14 +25,41 @@
       "line_number": 1174,
       "raw_match": "[[JOH.9:6]]",
       "reference_type": "wikilink",
-      "context": "The miracles performed here follow those performed by Christ and show that Christ lives and works through His followers. Of particular significance is the way physical objects (handkerchiefs and aprons, v. 12) become instruments of grace when touched by people of great faith. That God works wonders both through His saints and through created objects shows that creation itself is being renewed. (For other examples of objects bestowing grace, see 5:15; [[NUM.21:8]], [[NUM.21:9]]; [[2KI.13:20]], [[2KI.13:21]]; [[MRK.6:12]], [[MRK.6:13]]; [[LUK.8:41]]-48; [[JOH.9:6]], [[JOH.9:7]].)"
+      "context": "The miracles performed here follow those performed by Christ and show that Christ lives and works through His followers. Of particular significance is the way physical objects (handkerchiefs and aprons, v. 12) become instruments of grace when touched by people of great faith. That God works wonders both through His saints and through created objects shows that creation itself is being renewed. (For other examples of objects bestowing grace, see 5:15; [[NUM.21:8]], [[NUM.21:9]]; [[2KI.13:20]], [[2KI.13:21]]; [[MRK.6:12]], [[MRK.6:13]]; [[LUK.8:41]]-48; [[JOH.9:6]], [[JOH.9:7]].)",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology",
+        "creation_theology",
+        "faith"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 4,
+        "title": "Reconstructing the Language of Creation",
+        "polarity": "vertical",
+        "operation": "ascend",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/NT/MRK_footnotes.md",
       "line_number": 151,
       "raw_match": "[[JOH.9:6]]",
       "reference_type": "wikilink",
-      "context": "Anointing the sick with oil has not only medicinal value but sacramental value as well. As God's healing power is bestowed through creation (5:27; [[NUM.21:8]], [[NUM.21:9]]; [[2KI.13:21]]; [[JOH.9:6]], [[JOH.9:7]]; [[ACT.5:15]]; 19:11, 12), so oil is a vehicle of God's mercy and healing in the Church ([[JAS.5:14]])."
+      "context": "Anointing the sick with oil has not only medicinal value but sacramental value as well. As God's healing power is bestowed through creation (5:27; [[NUM.21:8]], [[NUM.21:9]]; [[2KI.13:21]]; [[JOH.9:6]], [[JOH.9:7]]; [[ACT.5:15]]; 19:11, 12), so oil is a vehicle of God's mercy and healing in the Church ([[JAS.5:14]]).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "creation_theology",
+        "mercy"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 4,
+        "title": "Reconstructing the Language of Creation",
+        "polarity": "vertical",
+        "operation": "ascend",
+        "scale": "cosmic"
+      }
     }
   ]
 }

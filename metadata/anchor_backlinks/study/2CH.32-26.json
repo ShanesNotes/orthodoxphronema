@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Hezekiah was humbled because of his exalted heart, he and the inhabitants of Jerusalem, but the wrath of the Lord did not come upon them in the days of Hezekiah.",
   "pericope": {
     "id": "2CH.P063",
@@ -12,7 +12,11 @@
     "range": "2CH.32:24-33:9",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "logos",
+    "prayer",
+    "suffering"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +24,21 @@
       "line_number": 572,
       "raw_match": "[[2CH.32:26]]",
       "reference_type": "wikilink",
-      "context": "At the time of his physical affliction, Hezekiah had also become afflicted with pride (see [[2CH.32:25]], [[2CH.32:26]]). By telling him of his imminent death, the Lord revealed Himself to Hezekiah, who wept loudly. He humbled himself and prayed, and immediately, Isaiah was given a new word for the king: healing and another fifteen years of life."
+      "context": "At the time of his physical affliction, Hezekiah had also become afflicted with pride (see [[2CH.32:25]], [[2CH.32:26]]). By telling him of his imminent death, the Lord revealed Himself to Hezekiah, who wept loudly. He humbled himself and prayed, and immediately, Isaiah was given a new word for the king: healing and another fifteen years of life.",
+      "edge_type": "opposes",
+      "topic_threads": [
+        "logos",
+        "prayer",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

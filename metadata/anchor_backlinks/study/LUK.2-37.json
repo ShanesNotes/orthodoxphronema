@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "and this woman was a widow of about eighty-four years, who did not depart from the temple, but served God with fastings and prayers night and day.",
   "pericope": {
     "id": "LUK.P011",
@@ -12,7 +12,11 @@
     "range": "LUK.2:35-2:37",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "israel_church",
+    "temple"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,21 +24,59 @@
       "line_number": 1303,
       "raw_match": "[[LUK.2:36]]-38",
       "reference_type": "wikilink_range",
-      "context": "Prophecy is the gift of the Holy Spirit to speak the will of God authoritatively. This gift is given to both men and women (see [[1CO.11:4]], [[1CO.11:5]]), and many holy women were prophets, including Miriam ([[EXO.15:20]], [[EXO.15:21]]), Deborah ([[JDG.4:4]]), Huldah ([[2KI.22:14]]), Isaiah's wife (Is 8:3), the Virgin Mary ([[LUK.1:46]]-55), and Anna ([[LUK.2:36]]-38)."
+      "context": "Prophecy is the gift of the Holy Spirit to speak the will of God authoritatively. This gift is given to both men and women (see [[1CO.11:4]], [[1CO.11:5]]), and many holy women were prophets, including Miriam ([[EXO.15:20]], [[EXO.15:21]]), Deborah ([[JDG.4:4]]), Huldah ([[2KI.22:14]]), Isaiah's wife (Is 8:3), the Virgin Mary ([[LUK.1:46]]-55), and Anna ([[LUK.2:36]]-38).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "temple"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/ISA_footnotes.md",
       "line_number": 1165,
       "raw_match": "[[LUK.2:36]]-38",
       "reference_type": "wikilink_range",
-      "context": "Many in Zion awaited the Messiah, glory instead of ashes. One thinks of the aged Simeon ([[LUK.2:22]]-35), who was \"waiting for the Consolation of Israel,\" and the prophetess Anna ([[LUK.2:36]]-38), \"who looked for redemption in Jerusalem.\""
+      "context": "Many in Zion awaited the Messiah, glory instead of ashes. One thinks of the aged Simeon ([[LUK.2:22]]-35), who was \"waiting for the Consolation of Israel,\" and the prophetess Anna ([[LUK.2:36]]-38), \"who looked for redemption in Jerusalem.\"",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "temple"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/JDT_footnotes.md",
       "line_number": 285,
       "raw_match": "[[LUK.2:37]]",
       "reference_type": "wikilink",
-      "context": "Judith maintained her widowhood until the end of her life, a common practice in Israel ([[LUK.2:36]], [[LUK.2:37]]) and in the Church ([[1CO.7:8]], [[1CO.7:39]], [[1CO.7:40]]; [[1TI.5:5]]). The phrase was buried with his people is indicative of the Hebrew practice of burying succeeding generations of the family in a common grave site ([[GEN.49:29]])."
+      "context": "Judith maintained her widowhood until the end of her life, a common practice in Israel ([[LUK.2:36]], [[LUK.2:37]]) and in the Church ([[1CO.7:8]], [[1CO.7:39]], [[1CO.7:40]]; [[1TI.5:5]]). The phrase was buried with his people is indicative of the Hebrew practice of burying succeeding generations of the family in a common grave site ([[GEN.49:29]]).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "israel_church",
+        "temple"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

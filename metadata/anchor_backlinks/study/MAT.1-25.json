@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "and did not know her till she had brought forth her firstborn Son. And he called His name JESUS.",
   "pericope": {
     "id": "MAT.P002",
@@ -12,7 +12,10 @@
     "range": "MAT.1:25-2:11",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "israel_church"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,14 +23,35 @@
       "line_number": 194,
       "raw_match": "[[MAT.1:25]]",
       "reference_type": "wikilink",
-      "context": "The Lord calls Israel His firstborn son. The use of the term firstborn in this verse, therefore, cannot imply other offspring born afterward. Similarly, Jesus is called the \"firstborn\" of the Virgin Mary ([[MAT.1:25]]). Therefore, no one can claim this necessarily implies she had other children, for in truth He was her only offspring."
+      "context": "The Lord calls Israel His firstborn son. The use of the term firstborn in this verse, therefore, cannot imply other offspring born afterward. Similarly, Jesus is called the \"firstborn\" of the Virgin Mary ([[MAT.1:25]]). Therefore, no one can claim this necessarily implies she had other children, for in truth He was her only offspring.",
+      "edge_type": "instantiates",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/EXO_footnotes.md",
       "line_number": 492,
       "raw_match": "[[MAT.1:25]]",
       "reference_type": "wikilink",
-      "context": "The sanctification of the firstborn foreshadows the Incarnation of the Son of God. For He is the Firstborn of the Mother of God ([[MAT.1:25]]; [[LUK.2:7]]). The Church of the Firstborn are His brethren, whose names are registered in heaven ([[HEB.2:11]], [[HEB.2:17]]; 12:23)."
+      "context": "The sanctification of the firstborn foreshadows the Incarnation of the Son of God. For He is the Firstborn of the Mother of God ([[MAT.1:25]]; [[LUK.2:7]]). The Church of the Firstborn are His brethren, whose names are registered in heaven ([[HEB.2:11]], [[HEB.2:17]]; 12:23).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

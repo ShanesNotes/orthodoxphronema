@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Then he charged them and said to them, 'I am to be added to my people; bury me with my fathers in the cave in the field of Ephron the Hittite,",
   "pericope": {
     "id": "GEN.P080",
@@ -12,7 +12,9 @@
     "range": "GEN.49:27-50:13",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "israel_church"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 287,
       "raw_match": "[[GEN.49:29]]",
       "reference_type": "wikilink",
-      "context": "Judith maintained her widowhood until the end of her life, a common practice in Israel ([[LUK.2:36]], [[LUK.2:37]]) and in the Church ([[1CO.7:8]], [[1CO.7:39]], [[1CO.7:40]]; [[1TI.5:5]]). The phrase was buried with his people is indicative of the Hebrew practice of burying succeeding generations of the family in a common grave site ([[GEN.49:29]])."
+      "context": "Judith maintained her widowhood until the end of her life, a common practice in Israel ([[LUK.2:36]], [[LUK.2:37]]) and in the Church ([[1CO.7:8]], [[1CO.7:39]], [[1CO.7:40]]; [[1TI.5:5]]). The phrase was buried with his people is indicative of the Hebrew practice of burying succeeding generations of the family in a common grave site ([[GEN.49:29]]).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "israel_church"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

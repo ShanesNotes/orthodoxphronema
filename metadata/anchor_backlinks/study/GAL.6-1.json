@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Brethren, if a man is overtaken in any trespass, you who are spiritual restore such a one in a spirit of gentleness, considering yourself lest you also be tempted.",
   "pericope": {
     "id": "GAL.P020",
@@ -12,7 +12,9 @@
     "range": "GAL.5:26-6:9",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "repentance"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 1658,
       "raw_match": "[[GAL.6:1]]",
       "reference_type": "wikilink",
-      "context": "Church discipline is based on mutual correction in three expanding stages. Sin and correction are to remain private unless the offender refuses to repent. All correction must be done with great care and humility, with the highest concern being the salvation of the offender (see [[1CO.5:5]]; [[GAL.6:1]]). Nevertheless, correction must take place so that the sin does not spread to others as well."
+      "context": "Church discipline is based on mutual correction in three expanding stages. Sin and correction are to remain private unless the offender refuses to repent. All correction must be done with great care and humility, with the highest concern being the salvation of the offender (see [[1CO.5:5]]; [[GAL.6:1]]). Nevertheless, correction must take place so that the sin does not spread to others as well.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "repentance"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

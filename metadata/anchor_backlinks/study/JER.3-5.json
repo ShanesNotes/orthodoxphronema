@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Will this appearance continue forever, or be maintained to the end? Behold, you said and did these evil things as you were able.'",
   "pericope": {
     "id": "JER.P008",
@@ -12,7 +12,11 @@
     "range": "JER.3:5-4:3",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "eucharist",
+    "suffering"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +24,21 @@
       "line_number": 1450,
       "raw_match": "[[JER.3:1]]-5",
       "reference_type": "wikilink_range",
-      "context": "Fornication, committed by the kings of the earth with this harlot, is a metaphor for infidelity to the Lord ([[JER.3:1]]-5; Ezk 23; Hos 2). The vassal kingdoms within the Roman Empire have accepted the cults of Rome and her emperors and have solidified their obeisance with political and economic obligations--and have fallen into moral decadence. The wine of this fornication has made the inhabitants of the earth to become drunk, seduced and stupefied by a hideous eucharist of death, focused on the persecution and martyrdom of Christians (v. 6; see [[JER.28:7]])."
+      "context": "Fornication, committed by the kings of the earth with this harlot, is a metaphor for infidelity to the Lord ([[JER.3:1]]-5; Ezk 23; Hos 2). The vassal kingdoms within the Roman Empire have accepted the cults of Rome and her emperors and have solidified their obeisance with political and economic obligations--and have fallen into moral decadence. The wine of this fornication has made the inhabitants of the earth to become drunk, seduced and stupefied by a hideous eucharist of death, focused on the persecution and martyrdom of Christians (v. 6; see [[JER.28:7]]).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology",
+        "eucharist",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

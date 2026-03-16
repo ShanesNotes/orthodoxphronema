@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "But the other, answering, rebuked him, saying, 'Do you not even fear God, seeing you are under the same condemnation?",
   "pericope": {
     "id": "LUK.P118",
@@ -12,7 +12,10 @@
     "range": "LUK.23:38-23:42",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "repentance",
+    "suffering"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 2446,
       "raw_match": "[[LUK.23:39]]-43",
       "reference_type": "wikilink_range",
-      "context": "Jesus accepts mockery and endures the weakness of our body in His own to take upon Himself our sufferings. This He accomplishes by uniting His divine nature to our human nature. His humanity is indeed our humanity. Although He has no sin, He was made to be sin for us, that through His flesh He might condemn sin itself ([[ROM.8:3]]; 2Co 5:21; [[HEB.2:9]]). Two robbers (v. 38): Although one would later repent ([[LUK.23:39]]-43), at first both criminals mock Jesus (v. 44)."
+      "context": "Jesus accepts mockery and endures the weakness of our body in His own to take upon Himself our sufferings. This He accomplishes by uniting His divine nature to our human nature. His humanity is indeed our humanity. Although He has no sin, He was made to be sin for us, that through His flesh He might condemn sin itself ([[ROM.8:3]]; 2Co 5:21; [[HEB.2:9]]). Two robbers (v. 38): Although one would later repent ([[LUK.23:39]]-43), at first both criminals mock Jesus (v. 44).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "repentance",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

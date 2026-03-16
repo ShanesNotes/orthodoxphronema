@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "And He marveled because of their unbelief. Then He went about the villages in a circuit, teaching.",
   "pericope": {
     "id": "MRK.P023",
@@ -20,7 +20,16 @@
       "line_number": 859,
       "raw_match": "[[MRK.6:6]]",
       "reference_type": "wikilink",
-      "context": "Twice in the gospels it is said of Jesus that He marveled: (1) at the unbelief in His hometown of Nazareth ([[MRK.6:6]]), and (2) at the belief of this foreigner."
+      "context": "Twice in the gospels it is said of Jesus that He marveled: (1) at the unbelief in His hometown of Nazareth ([[MRK.6:6]]), and (2) at the belief of this foreigner.",
+      "edge_type": "instantiates",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

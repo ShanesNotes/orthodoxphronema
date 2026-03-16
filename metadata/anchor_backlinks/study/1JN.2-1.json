@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "My little children, these things I write to you, so that you may not sin. And if anyone sins, we have an Advocate with the Father, Jesus Christ the righteous.",
   "pericope": {
     "id": "1JN.P003",
@@ -12,7 +12,11 @@
     "range": "1JN.1:10-2:16",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "israel_church",
+    "prayer"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +24,21 @@
       "line_number": 661,
       "raw_match": "[[1JN.2:1]]",
       "reference_type": "wikilink",
-      "context": "Jesus, being the Son of God, does not pray as if to obtain grace or revelation from the Father. Rather, as the Son of Man, He prays as the Advocate for humanity (AmbM; see [[1JN.2:1]]). Jesus spent all night in prayer before selecting the twelve apostles to teach us that before choosing a candidate for any spiritual ministry, we should pray that God will reveal to us the one suited for the task (Theoph)."
+      "context": "Jesus, being the Son of God, does not pray as if to obtain grace or revelation from the Father. Rather, as the Son of Man, He prays as the Advocate for humanity (AmbM; see [[1JN.2:1]]). Jesus spent all night in prayer before selecting the twelve apostles to teach us that before choosing a candidate for any spiritual ministry, we should pray that God will reveal to us the one suited for the task (Theoph).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology",
+        "israel_church",
+        "prayer"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

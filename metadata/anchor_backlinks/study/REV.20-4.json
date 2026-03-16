@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "And I saw thrones, and they sat on them, and judgment was committed to them. Then I saw the souls of those who had been beheaded for their witness to Jesus and for the word of God, who had not worshiped the beast or his image, and had not received his mark on their foreheads or on their hands. And they lived and reigned with Christ for a a thousand years.",
   "pericope": {
     "id": "REV.P057",
@@ -12,7 +12,13 @@
     "range": "REV.19:21-20:5",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "divine_word",
+    "judgment",
+    "kingdom",
+    "logos"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +26,23 @@
       "line_number": 373,
       "raw_match": "[[REV.20:4]]",
       "reference_type": "wikilink",
-      "context": "Saints will judge the world (v. 2) and angels (v. 3) because in Christ, Christians share in His authority to judge (see [[MAT.19:28]]; [[JOH.5:22]], [[JOH.5:27]]; [[2PE.2:4]]; Jude 6; [[REV.20:4]]). This being so, how much more are we able to judge the everyday concerns of this life (v. 3)?"
+      "context": "Saints will judge the world (v. 2) and angels (v. 3) because in Christ, Christians share in His authority to judge (see [[MAT.19:28]]; [[JOH.5:22]], [[JOH.5:27]]; [[2PE.2:4]]; Jude 6; [[REV.20:4]]). This being so, how much more are we able to judge the everyday concerns of this life (v. 3)?",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology",
+        "divine_word",
+        "judgment",
+        "kingdom",
+        "logos"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "'And it shall come to pass in the last days, says God, That I will pour out of My Spirit on all flesh; Your sons and your daughters shall prophesy, Your young men shall see visions, Your old men shall dream dreams.",
   "pericope": {
     "id": "ACT.P006",
@@ -12,7 +12,18 @@
     "range": "ACT.2:15-2:20",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "baptism",
+    "christology",
+    "covenant",
+    "creation_theology",
+    "eschatology",
+    "israel_church",
+    "logos",
+    "mercy",
+    "praise",
+    "resurrection"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,28 +31,88 @@
       "line_number": 35,
       "raw_match": "[[ACT.2:17]]",
       "reference_type": "wikilink",
-      "context": "[[JOH.1:1]]-3-The Word is the Son of God, who was present with the Father at the beginning of creation. He was Co-worker with the Father in creating the world. [[JOH.8:58]]-Jesus identifies Himself as having existed before Abraham. Before His coming in the flesh as Man, Jesus existed as the eternal Son of the Father, for He is begotten from the Father before all time and ages. He appeared to Moses in the burning bush and proclaimed Himself as 'I Am' ([[EXO.3:1]]). [[ACT.2:17]]-The Holy Spirit's descent at Pentecost affirms His presence in the Old Testament ([[JOL.2:28]]-32). [[HEB.1:8]]-10-This Scripture affirms the Father is speaking to the Son in [[PSA.44:7]] and 101:26-28, in which the Father acknowledges the Son as God and Creator of the world. For the Son was the Father's Co-worker in creation. #### The Incarnate Son Fully Reveals The Holy Trinity"
+      "context": "[[JOH.1:1]]-3-The Word is the Son of God, who was present with the Father at the beginning of creation. He was Co-worker with the Father in creating the world. [[JOH.8:58]]-Jesus identifies Himself as having existed before Abraham. Before His coming in the flesh as Man, Jesus existed as the eternal Son of the Father, for He is begotten from the Father before all time and ages. He appeared to Moses in the burning bush and proclaimed Himself as 'I Am' ([[EXO.3:1]]). [[ACT.2:17]]-The Holy Spirit's descent at Pentecost affirms His presence in the Old Testament ([[JOL.2:28]]-32). [[HEB.1:8]]-10-This Scripture affirms the Father is speaking to the Son in [[PSA.44:7]] and 101:26-28, in which the Father acknowledges the Son as God and Creator of the world. For the Son was the Father's Co-worker in creation. #### The Incarnate Son Fully Reveals The Holy Trinity",
+      "edge_type": "echoes",
+      "topic_threads": [
+        "christology",
+        "covenant",
+        "creation_theology",
+        "eschatology",
+        "logos"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/JOL_footnotes.md",
       "line_number": 220,
       "raw_match": "[[ACT.2:17]]",
       "reference_type": "wikilink",
-      "context": "When Peter quotes this verse, he changes after this to \"in the last days\" ([[ACT.2:17]]), one of several modest modifications of the verse. Peter's adaptation of Joel indicates that he understood the passage to be eschatological. Your sons and daughters shall prophesy: The gift of prophecy was to be given to both men and women without distinction (see [[ACT.21:9]])."
+      "context": "When Peter quotes this verse, he changes after this to \"in the last days\" ([[ACT.2:17]]), one of several modest modifications of the verse. Peter's adaptation of Joel indicates that he understood the passage to be eschatological. Your sons and daughters shall prophesy: The gift of prophecy was to be given to both men and women without distinction (see [[ACT.21:9]]).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "eschatology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/LEV_footnotes.md",
       "line_number": 906,
       "raw_match": "[[ACT.2:17]]",
       "reference_type": "wikilink",
-      "context": "The Feast of Pentecost also sanctified the time and life of Israel as a sign pointing to the coming of the Holy Spirit and the harvesting of the Church. It was precisely seven full Sabbaths (forty-nine days) plus one day after Pascha, and marked the completion of the grain harvest. Here, the offering was not a sheaf of grain, but rather baked loaves, signifying the Church. Thus, Pentecost also sanctifies the time and life of the Church each year, but not as a sign. For Christ is the sheaf, the firstfruit. The loaves are the many from the harvest, those from Christ and in Christ--in the Church. In [[JOH.12:24]] Jesus said, \"Most assuredly, I say to you, unless a grain of wheat falls into the ground and dies, it remains alone; but if it dies, it produces much grain.\" This grain is the Church, harvested by the Holy Spirit. Hence, the ancient Feast of Pentecost prophetically prefigures the birth of the Church through Christ and the Holy Spirit. At the same time, it also signifies the beginning of the end of the age. On the Day of Pentecost, fifty days after the Resurrection of Christ, the apostle Peter quoted the prophet Joel to explain what was taking place, \"'It shall come to pass in the last days, says God, / That I will pour out of My Spirit on all flesh'\" ([[ACT.2:17]]). The gifts of the Spirit for the age of God's kingdom are given to the people of God while still living in this age, as a foretaste of the world to come."
+      "context": "The Feast of Pentecost also sanctified the time and life of Israel as a sign pointing to the coming of the Holy Spirit and the harvesting of the Church. It was precisely seven full Sabbaths (forty-nine days) plus one day after Pascha, and marked the completion of the grain harvest. Here, the offering was not a sheaf of grain, but rather baked loaves, signifying the Church. Thus, Pentecost also sanctifies the time and life of the Church each year, but not as a sign. For Christ is the sheaf, the firstfruit. The loaves are the many from the harvest, those from Christ and in Christ--in the Church. In [[JOH.12:24]] Jesus said, \"Most assuredly, I say to you, unless a grain of wheat falls into the ground and dies, it remains alone; but if it dies, it produces much grain.\" This grain is the Church, harvested by the Holy Spirit. Hence, the ancient Feast of Pentecost prophetically prefigures the birth of the Church through Christ and the Holy Spirit. At the same time, it also signifies the beginning of the end of the age. On the Day of Pentecost, fifty days after the Resurrection of Christ, the apostle Peter quoted the prophet Joel to explain what was taking place, \"'It shall come to pass in the last days, says God, / That I will pour out of My Spirit on all flesh'\" ([[ACT.2:17]]). The gifts of the Spirit for the age of God's kingdom are given to the people of God while still living in this age, as a foretaste of the world to come.",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "creation_theology",
+        "eschatology",
+        "israel_church",
+        "resurrection"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 2,
+        "title": "Coming Full Circle: The Copernican Revolution",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/PSA_footnotes.md",
       "line_number": 442,
       "raw_match": "[[ACT.2:13]]-17",
       "reference_type": "wikilink_range",
-      "context": "Ps 35 reveals the right and wrong uses of free will and the fruits that result in either case. First, it shows that sin or evil is an action of man's free will (says within himself, v. 2; acts deceitfully, lest He discover, v. 3; is unwilling, v. 4; devises, sets himself, and does not abhor, v. 5). Therefore, sin or evil is not a part of human essence or nature, for God created human nature good in itself. Sinning is altogether the wrong use of free will, and the most dangerous wrong use is arrogance, which often comes against the saints (v. 12). But such a wrong use ultimately brings down the lawless (fall there and unable to stand, v. 13). Second, this psalm reveals the proper use of free will, which is to seek out and hope (v. 8) for God's mercy (vv. 6, 11), His truth (v. 6), His righteousness (vv. 7, 11), and His judgments (v. 7). Also with free will, the upright in heart (v. 11) may be intoxicated by drinking the abundant water (v. 9) that flows from the fountain and by seeing the light which is in light (v. 10). The fountain is the Father, and the Son is the water, the light, and the life that goes forth from this fountain. Those who willingly drink of this water in baptism, and who see this light, partake of life and light (see also [[JOH.1:4]]), and also become intoxicated with the Holy Spirit (the fatness, v. 9; see also [[JOH.7:37]]-39; [[ACT.2:13]]-17; [[EPH.5:18]])."
+      "context": "Ps 35 reveals the right and wrong uses of free will and the fruits that result in either case. First, it shows that sin or evil is an action of man's free will (says within himself, v. 2; acts deceitfully, lest He discover, v. 3; is unwilling, v. 4; devises, sets himself, and does not abhor, v. 5). Therefore, sin or evil is not a part of human essence or nature, for God created human nature good in itself. Sinning is altogether the wrong use of free will, and the most dangerous wrong use is arrogance, which often comes against the saints (v. 12). But such a wrong use ultimately brings down the lawless (fall there and unable to stand, v. 13). Second, this psalm reveals the proper use of free will, which is to seek out and hope (v. 8) for God's mercy (vv. 6, 11), His truth (v. 6), His righteousness (vv. 7, 11), and His judgments (v. 7). Also with free will, the upright in heart (v. 11) may be intoxicated by drinking the abundant water (v. 9) that flows from the fountain and by seeing the light which is in light (v. 10). The fountain is the Father, and the Son is the water, the light, and the life that goes forth from this fountain. Those who willingly drink of this water in baptism, and who see this light, partake of life and light (see also [[JOH.1:4]]), and also become intoxicated with the Holy Spirit (the fatness, v. 9; see also [[JOH.7:37]]-39; [[ACT.2:13]]-17; [[EPH.5:18]]).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "baptism",
+        "creation_theology",
+        "eschatology",
+        "mercy",
+        "praise"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

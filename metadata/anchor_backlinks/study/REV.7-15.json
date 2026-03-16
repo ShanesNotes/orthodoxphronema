@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "So he said to me, 'These are the ones who come out of the great tribulation, and washed their robes and made them white in the blood of the Lamb. Therefore they are before the throne of God, and serve Him day and night in His temple. And He who sits on the throne will dwell among them.",
   "pericope": {
     "id": "REV.P020",
@@ -12,7 +12,12 @@
     "range": "REV.7:5-7:16",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "kingdom",
+    "priesthood",
+    "suffering",
+    "temple"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +25,22 @@
       "line_number": 58,
       "raw_match": "[[REV.7:9]]-17",
       "reference_type": "wikilink_range",
-      "context": "Angels minister continually at the altar of the Lord, though usually unseen. Those priests of pure heart, such as Zacharias, are occasionally chosen by God to witness this angelic liturgy (see also Is 6; [[REV.7:9]]-17)."
+      "context": "Angels minister continually at the altar of the Lord, though usually unseen. Those priests of pure heart, such as Zacharias, are occasionally chosen by God to witness this angelic liturgy (see also Is 6; [[REV.7:9]]-17).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "kingdom",
+        "priesthood",
+        "suffering",
+        "temple"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

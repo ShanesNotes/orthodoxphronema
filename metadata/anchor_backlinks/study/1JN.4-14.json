@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "And we have seen and testify that the Father has sent the Son as Savior of the world.",
   "pericope": {
     "id": "1JN.P009",
@@ -12,7 +12,11 @@
     "range": "1JN.4:11-4:15",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "covenant",
+    "exodus_typology"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,21 +24,56 @@
       "line_number": 597,
       "raw_match": "[[1JN.4:7]]-21",
       "reference_type": "wikilink_range",
-      "context": "Freed from hate, sadness, and anger, we are able to receive the greatest virtue: perfect love. The love of enemies is not merely an emotion, but includes decision and action. It is to treat and see our enemies as the closest members of our own family. (See [[1JN.4:7]]-21.)"
+      "context": "Freed from hate, sadness, and anger, we are able to receive the greatest virtue: perfect love. The love of enemies is not merely an emotion, but includes decision and action. It is to treat and see our enemies as the closest members of our own family. (See [[1JN.4:7]]-21.)",
+      "edge_type": "instantiates",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/NT/MAT_footnotes.md",
       "line_number": 1410,
       "raw_match": "[[1JN.4:7]]-21",
       "reference_type": "wikilink_range",
-      "context": "Christ shows that the commandment of God cannot be superseded by man's religious traditions. Devotion to God includes both obedience to His commandments and service to others--these two cannot be separated (see also [[JAS.2:14]]-18; [[1JN.4:7]]-21)."
+      "context": "Christ shows that the commandment of God cannot be superseded by man's religious traditions. Devotion to God includes both obedience to His commandments and service to others--these two cannot be separated (see also [[JAS.2:14]]-18; [[1JN.4:7]]-21).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/EXO_footnotes.md",
       "line_number": 1108,
       "raw_match": "[[1JN.4:14]]",
       "reference_type": "wikilink",
-      "context": "[[EXO.33:3]], [[EXO.33:12]]-17: My Angel is the Son of the Father, and He sent Him to lead Israel to the promised land (GrgNy). \"Angel\" means \"messenger,\" for the Son is the Will and Word of the Father (AthanG). He is the Angel who appeared to Moses in Exodus 3 and said, \"I AM the Existing One\" (3:2, 14). The Father also sent Him to become incarnate for the salvation of the world ([[1JN.4:14]])."
+      "context": "[[EXO.33:3]], [[EXO.33:12]]-17: My Angel is the Son of the Father, and He sent Him to lead Israel to the promised land (GrgNy). \"Angel\" means \"messenger,\" for the Son is the Will and Word of the Father (AthanG). He is the Angel who appeared to Moses in Exodus 3 and said, \"I AM the Existing One\" (3:2, 14). The Father also sent Him to become incarnate for the salvation of the world ([[1JN.4:14]]).",
+      "edge_type": "descends_to",
+      "topic_threads": [
+        "christology",
+        "covenant",
+        "exodus_typology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "The Lord was with him. He prospered wherever he went. So he rebelled against the king of Assyria and did not serve him.",
   "pericope": {
     "id": "2KI.P048",
@@ -12,7 +12,9 @@
     "range": "2KI.17:41-18:11",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 251,
       "raw_match": "[[2KI.18:1]]-8",
       "reference_type": "wikilink_range",
-      "context": "Hezekiah prefigures Christ, who opened the doors (v. 3) to heaven, gathered the faithful, and set the captives free (see [[2KI.18:1]]-8)."
+      "context": "Hezekiah prefigures Christ, who opened the doors (v. 3) to heaven, gathered the faithful, and set the captives free (see [[2KI.18:1]]-8).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

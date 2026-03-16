@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "having been born again, not of corruptible seed but incorruptible, through the word of God which lives and abides forever,",
   "pericope": {
     "id": "1PE.P004",
@@ -12,7 +12,13 @@
     "range": "1PE.1:20-1:24",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "divine_word",
+    "eucharist",
+    "faith",
+    "logos"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +26,23 @@
       "line_number": 165,
       "raw_match": "[[1PE.1:23]]",
       "reference_type": "wikilink",
-      "context": "The word (Gr. logos) of God is the Son ([[JOH.1:1]]; [[HEB.4:12]]; [[1PE.1:23]]; [[1JN.1:1]]; Rev 19:13). A word of God in the NT can be God's creative will ([[2PE.3:5]], [[2PE.3:7]]), the OT ([[MRK.7:13]]), a blessing using God's name (as here), the gospel itself ([[ACT.4:31]]; 6:7; 13:5, 26; 15:7, 36; [[1TH.2:13]]), or a special message from God. The Son is the ultimate reference for every other word of God. Sometimes it is difficult to tell whether \"word\" refers to Christ Himself or words about Him ([[COL.1:25]]). To spread the word of God is to spread Christ Himself. (The Greek rema is identically translated as \"word\" whether it refers to the gospel [Heb 6:5; [[1PE.1:25]]], a message from God [1Pt 1:25], or an act of God [Heb 11:3].) Words of faith (v. 6) means speech consonant with the gospel. Doctrine, or \"teaching,\" is the content of the gospel. Thus, the rich and manifold speech concerning salvation serves our communion with Christ, the Word of God. He is the reason these words are vital and powerful. Using words without the Word is vain."
+      "context": "The word (Gr. logos) of God is the Son ([[JOH.1:1]]; [[HEB.4:12]]; [[1PE.1:23]]; [[1JN.1:1]]; Rev 19:13). A word of God in the NT can be God's creative will ([[2PE.3:5]], [[2PE.3:7]]), the OT ([[MRK.7:13]]), a blessing using God's name (as here), the gospel itself ([[ACT.4:31]]; 6:7; 13:5, 26; 15:7, 36; [[1TH.2:13]]), or a special message from God. The Son is the ultimate reference for every other word of God. Sometimes it is difficult to tell whether \"word\" refers to Christ Himself or words about Him ([[COL.1:25]]). To spread the word of God is to spread Christ Himself. (The Greek rema is identically translated as \"word\" whether it refers to the gospel [Heb 6:5; [[1PE.1:25]]], a message from God [1Pt 1:25], or an act of God [Heb 11:3].) Words of faith (v. 6) means speech consonant with the gospel. Doctrine, or \"teaching,\" is the content of the gospel. Thus, the rich and manifold speech concerning salvation serves our communion with Christ, the Word of God. He is the reason these words are vital and powerful. Using words without the Word is vain.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology",
+        "divine_word",
+        "eucharist",
+        "faith",
+        "logos"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

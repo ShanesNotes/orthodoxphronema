@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Let the word of Christ dwell in you richly in all wisdom, teaching and admonishing one another in psalms and hymns and spiritual songs, singing with grace in your hearts to the Lord.",
   "pericope": {
     "id": "COL.P010",
@@ -12,7 +12,12 @@
     "range": "COL.2:23-3:16",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "logos",
+    "praise",
+    "wisdom"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +25,22 @@
       "line_number": 507,
       "raw_match": "[[COL.3:16]]",
       "reference_type": "wikilink",
-      "context": "See [[COL.3:16]]; [[JAS.5:13]]."
+      "context": "See [[COL.3:16]]; [[JAS.5:13]].",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology",
+        "logos",
+        "praise",
+        "wisdom"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

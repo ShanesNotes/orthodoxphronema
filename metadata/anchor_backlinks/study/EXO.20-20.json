@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "And Moses said to the people, 'Be of good courage, for God is come to test you, that His fear may be among you so you may not sin.'",
   "pericope": {
     "id": "EXO.P037",
@@ -12,7 +12,10 @@
     "range": "EXO.20:17-20:20",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "covenant"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,14 +23,36 @@
       "line_number": 23,
       "raw_match": "[[EXO.20:1]]-26",
       "reference_type": "wikilink_range",
-      "context": "Christ and Moses were friends and conversed as friends. The pre-incarnate Christ gave Moses the Law; in turn, Moses gave it to Israel ([[EXO.20:1]]-26). As the Lawgiver, Christ, not Moses, was the Author of the Law. Moses was His servant. In the New Testament, Moses and Elijah appeared with Christ on the Mount of Transfiguration, and they conversed with Him as friend with friend ([[MAT.17:1]]-8). The presence of Moses shows Christ as the fulfillment of the Law. The presence of Elijah shows Christ as the fulfillment of the Prophets. #### Contrast Between Christ And Moses"
+      "context": "Christ and Moses were friends and conversed as friends. The pre-incarnate Christ gave Moses the Law; in turn, Moses gave it to Israel ([[EXO.20:1]]-26). As the Lawgiver, Christ, not Moses, was the Author of the Law. Moses was His servant. In the New Testament, Moses and Elijah appeared with Christ on the Mount of Transfiguration, and they conversed with Him as friend with friend ([[MAT.17:1]]-8). The presence of Moses shows Christ as the fulfillment of the Law. The presence of Elijah shows Christ as the fulfillment of the Prophets. #### Contrast Between Christ And Moses",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "covenant"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/DEU_footnotes.md",
       "line_number": 354,
       "raw_match": "[[EXO.20:20]]",
       "reference_type": "wikilink",
-      "context": "The words of the people, \"Let us not hear again the voice of the Lord our God, nor let us see this great fire any more, lest we die,\" were spoken to Moses in [[EXO.20:19]] at the giving of the Ten Commandments from Mt. Sinai. But Moses said nothing at this time about the coming of a Prophet like himself. Rather, his response to the people at that time was, \"Be of good courage, for God is come to test you, that His fear may be among you, so you may not sin\" ([[EXO.20:20]]). Thus, it was first necessary for them to be tested, so as to fear the Lord and not sin, for they were too dull of hearing to hear about another Prophet to come. However, they failed the test and died in the desert, because they would not obey the prophet Moses."
+      "context": "The words of the people, \"Let us not hear again the voice of the Lord our God, nor let us see this great fire any more, lest we die,\" were spoken to Moses in [[EXO.20:19]] at the giving of the Ten Commandments from Mt. Sinai. But Moses said nothing at this time about the coming of a Prophet like himself. Rather, his response to the people at that time was, \"Be of good courage, for God is come to test you, that His fear may be among you, so you may not sin\" ([[EXO.20:20]]). Thus, it was first necessary for them to be tested, so as to fear the Lord and not sin, for they were too dull of hearing to hear about another Prophet to come. However, they failed the test and died in the desert, because they would not obey the prophet Moses.",
+      "edge_type": "instantiates",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

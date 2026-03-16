@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "when I call to remembrance the genuine faith that is in you, which dwelt first in your grandmother Lois and your mother Eunice, and I am persuaded is in you also.",
   "pericope": {
     "id": "2TI.P003",
@@ -12,7 +12,11 @@
     "range": "2TI.1:3-1:11",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "covenant",
+    "faith"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +24,21 @@
       "line_number": 463,
       "raw_match": "[[2TI.1:5]]",
       "reference_type": "wikilink",
-      "context": "In Judaism the family was joined to the covenant through the father. But in the Church, the family is holy if either spouse is a believer (see also [[2TI.1:5]]). This does not mean that all are saved, but all are affected by the faith of a Christian spouse. The family is a spiritual unit: if one member is a Christian, the whole family is set apart by God's grace."
+      "context": "In Judaism the family was joined to the covenant through the father. But in the Church, the family is holy if either spouse is a believer (see also [[2TI.1:5]]). This does not mean that all are saved, but all are affected by the faith of a Christian spouse. The family is a spiritual unit: if one member is a Christian, the whole family is set apart by God's grace.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology",
+        "covenant",
+        "faith"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

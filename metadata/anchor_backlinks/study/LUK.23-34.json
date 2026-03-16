@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Then Jesus said, 'Father, forgive them, for they do not know what they do.'And they divided His garments and cast lots.",
   "pericope": {
     "id": "LUK.P117",
@@ -12,7 +12,12 @@
     "range": "LUK.23:31-23:37",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "prayer",
+    "priesthood",
+    "suffering"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,14 +25,41 @@
       "line_number": 443,
       "raw_match": "[[LUK.23:34]]",
       "reference_type": "wikilink",
-      "context": "In imitation of his Savior ([[LUK.23:34]]), Stephen offers his soul to God and prays for the forgiveness of his enemies."
+      "context": "In imitation of his Savior ([[LUK.23:34]]), Stephen offers his soul to God and prays for the forgiveness of his enemies.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "prayer"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/JOB_footnotes.md",
       "line_number": 766,
       "raw_match": "[[LUK.23:34]]",
       "reference_type": "wikilink",
-      "context": "Job images Christ as suffering servant, High Priest, and Intercessor on behalf of all. St. Gregory writes that he also images the Church. Job's intercession is echoed by Abraham and Moses (see [[GEN.18:22]]-33; [[EXO.32:32]]) and fulfilled by Christ ([[LUK.23:34]]). As we worship during Divine Liturgy, we offer up ourselves and, because Christ offered Himself first for our sake, we receive acceptance and forgiveness through Him."
+      "context": "Job images Christ as suffering servant, High Priest, and Intercessor on behalf of all. St. Gregory writes that he also images the Church. Job's intercession is echoed by Abraham and Moses (see [[GEN.18:22]]-33; [[EXO.32:32]]) and fulfilled by Christ ([[LUK.23:34]]). As we worship during Divine Liturgy, we offer up ourselves and, because Christ offered Himself first for our sake, we receive acceptance and forgiveness through Him.",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "prayer",
+        "priesthood",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

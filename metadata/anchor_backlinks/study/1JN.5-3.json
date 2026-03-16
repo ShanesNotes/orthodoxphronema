@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "For this is the love of God, that we keep His commandments. And His commandments are not burdensome.",
   "pericope": {
     "id": "1JN.P012",
@@ -12,7 +12,9 @@
     "range": "1JN.4:21-5:4",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "judgment"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 18,
       "raw_match": "[[1JN.5:3]]",
       "reference_type": "wikilink",
-      "context": "Prophets frequently describe prophetic oracles as \"burdens\" (Heb. massa I: \"burden, carrying\" and massa II: \"pronouncement, prophecy,\" both deriving from a verbal root nasa, \"to carry\") from the Lord, possibly because the oracles nearly always spell out heavy judgment from God ([[JER.23:33]]). In contrast, Jesus describes his burden as \"light\" (Mt 11:30). John says that because of all God's love has done for us, keeping His commandments is not burdensome ([[1JN.5:3]])."
+      "context": "Prophets frequently describe prophetic oracles as \"burdens\" (Heb. massa I: \"burden, carrying\" and massa II: \"pronouncement, prophecy,\" both deriving from a verbal root nasa, \"to carry\") from the Lord, possibly because the oracles nearly always spell out heavy judgment from God ([[JER.23:33]]). In contrast, Jesus describes his burden as \"light\" (Mt 11:30). John says that because of all God's love has done for us, keeping His commandments is not burdensome ([[1JN.5:3]]).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "judgment"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 6,
+        "title": "The Universe As a Language",
+        "polarity": "generation",
+        "operation": "descend",
+        "scale": "communal"
+      }
     }
   ]
 }

@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Therefore let him who speaks in a tongue pray that he may interpret.",
   "pericope": {
     "id": "1CO.P030",
@@ -20,7 +20,16 @@
       "line_number": 48,
       "raw_match": "[[1CO.14:1]]-25",
       "reference_type": "wikilink_range",
-      "context": "Note that the king's decree was distributed to all people according to their own language, so that all could understand and follow. This is why in the Orthodox Church throughout the world it is imperative that the gospel be preached ([[ACT.2:4]]-11) and the liturgy be celebrated ([[1CO.14:1]]-25) in the language spoken by the people (see also 3:12)."
+      "context": "Note that the king's decree was distributed to all people according to their own language, so that all could understand and follow. This is why in the Orthodox Church throughout the world it is imperative that the gospel be preached ([[ACT.2:4]]-11) and the liturgy be celebrated ([[1CO.14:1]]-25) in the language spoken by the people (see also 3:12).",
+      "edge_type": "instantiates",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 6,
+        "title": "The Universe As a Language",
+        "polarity": "generation",
+        "operation": "descend",
+        "scale": "communal"
+      }
     }
   ]
 }

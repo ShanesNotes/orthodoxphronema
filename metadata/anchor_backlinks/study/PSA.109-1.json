@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "A psalm by David. The Lord said to my Lord, \"Sit at My right hand, Until I make Your enemies the footstool of Your feet.\"",
   "pericope": {
     "id": "PSA.P109",
@@ -12,7 +12,11 @@
     "range": "PSA.109:1-109:7",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "praise",
+    "repentance"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +24,21 @@
       "line_number": 1990,
       "raw_match": "[[PSA.109:1]]",
       "reference_type": "wikilink",
-      "context": "Christ asks this question to lead the Pharisees to the only logical conclusion: that He is God incarnate. They supposed the Messiah to be a mere man, and therefore reply that the Messiah would be a Son of David. David, as king of Israel, could not and would not address anyone as \"Lord\" except God. Yet in [[PSA.109:1]], David refers to the Messiah as \"Lord.\" Therefore, the Messiah must be God. The only possible conclusion is that the Messiah is a descendant of David only according to the flesh, yet is also truly divine, sharing His Lordship with God the Father and the Holy Spirit. The Pharisees do not answer because they realize the implications and are afraid to confess Jesus to be the Son of God. See also note at [[LUK.20:41]]-44."
+      "context": "Christ asks this question to lead the Pharisees to the only logical conclusion: that He is God incarnate. They supposed the Messiah to be a mere man, and therefore reply that the Messiah would be a Son of David. David, as king of Israel, could not and would not address anyone as \"Lord\" except God. Yet in [[PSA.109:1]], David refers to the Messiah as \"Lord.\" Therefore, the Messiah must be God. The only possible conclusion is that the Messiah is a descendant of David only according to the flesh, yet is also truly divine, sharing His Lordship with God the Father and the Holy Spirit. The Pharisees do not answer because they realize the implications and are afraid to confess Jesus to be the Son of God. See also note at [[LUK.20:41]]-44.",
+      "edge_type": "descends_to",
+      "topic_threads": [
+        "christology",
+        "praise",
+        "repentance"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

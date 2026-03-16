@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "When the seventy years are fulfilled, I will take vengeance on that nation, and I will appoint them for perpetual destruction.",
   "pericope": {
     "id": "JER.P050",
@@ -12,7 +12,14 @@
     "range": "JER.24:10-38:39",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "judgment",
+    "priesthood",
+    "repentance",
+    "suffering",
+    "temple"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,14 +27,42 @@
       "line_number": 369,
       "raw_match": "[[JER.25:9]]-12",
       "reference_type": "wikilink_range",
-      "context": "God's judgment on Judah is justified, for the priests and the people have gone beyond the point of no return and will not repent (see [[2KI.25:8]]-21). Seventy years (v. 29) is the approximate time of the exile in Babylon (see also [[JER.25:9]]-12; 27:6-8; 29:10; Lv 26:34-43)."
+      "context": "God's judgment on Judah is justified, for the priests and the people have gone beyond the point of no return and will not repent (see [[2KI.25:8]]-21). Seventy years (v. 29) is the approximate time of the exile in Babylon (see also [[JER.25:9]]-12; 27:6-8; 29:10; Lv 26:34-43).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "judgment",
+        "priesthood",
+        "repentance"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 9,
+        "title": "Example: The Cherubim of Ezekiel I",
+        "polarity": "generation",
+        "operation": "inform",
+        "scale": "intercommunal"
+      }
     },
     {
       "source_file": "study/footnotes/OT/DAN_footnotes.md",
       "line_number": 305,
       "raw_match": "[[JER.25:12]]",
       "reference_type": "wikilink",
-      "context": "The Epistle of Barnabas (ch. 16) observes that this passage was fulfilled when the temple (the sanctuary, v. 26) was destroyed by the Romans in AD 70. But Barnabas also points out that a true temple remains, the Body of Christ, a spiritual temple in which God truly dwells. Seventy weeks is interpreted to mean seventy weeks of years, or 490 years (seventy times seven years). This prophecy applies also to Jeremiah's \"seventy years\" (see 9:2; [[JER.25:11]], [[JER.25:12]]; 29:10). According to Hippolytus, Daniel's vision concerned the time when the temple would be rebuilt, as well as the time of the coming of the Messiah. First, the Jews would return and resume sacrifice after seventy years of captivity. \"Having mentioned therefore seventy weeks, and having divided them into two parts, in order that what was spoken by him to the prophet might be better understood, he proceeds thus, until Messiah the Prince there shall be seven weeks, which make forty-nine years. It was in the twenty-first year [of Nebuchadnezzar's reign] that Daniel saw these things in Babylon. Hence, the forty-nine years added to the twenty-one, make up the seventy years, of which the blessed Jeremiah spoke\" ([[JER.25:11]]). Second, Jesus the Messiah would be crucified in AD 30, about 490 years (seventy weeks) after Artaxerxes commissioned Ezra to rebuild Jerusalem in 458 BC (2Ez 7:7, 8). 9:27 Hippolytus comments that after \"Christ is come, and the gospel is preached in every place, the times being then accomplished, there will remain only one week, the last, in which Elias will appear, and Enoch. And in the midst of it the abomination of desolations will be manifested, that is, Antichrist, announcing desolation to the world. And when he comes, the sacrifice and oblation will be removed, which now are offered to God in every place by the nations\" (see [[MAT.24:15]] and note). 10:1 The third year of Cyrus was 533 BC."
+      "context": "The Epistle of Barnabas (ch. 16) observes that this passage was fulfilled when the temple (the sanctuary, v. 26) was destroyed by the Romans in AD 70. But Barnabas also points out that a true temple remains, the Body of Christ, a spiritual temple in which God truly dwells. Seventy weeks is interpreted to mean seventy weeks of years, or 490 years (seventy times seven years). This prophecy applies also to Jeremiah's \"seventy years\" (see 9:2; [[JER.25:11]], [[JER.25:12]]; 29:10). According to Hippolytus, Daniel's vision concerned the time when the temple would be rebuilt, as well as the time of the coming of the Messiah. First, the Jews would return and resume sacrifice after seventy years of captivity. \"Having mentioned therefore seventy weeks, and having divided them into two parts, in order that what was spoken by him to the prophet might be better understood, he proceeds thus, until Messiah the Prince there shall be seven weeks, which make forty-nine years. It was in the twenty-first year [of Nebuchadnezzar's reign] that Daniel saw these things in Babylon. Hence, the forty-nine years added to the twenty-one, make up the seventy years, of which the blessed Jeremiah spoke\" ([[JER.25:11]]). Second, Jesus the Messiah would be crucified in AD 30, about 490 years (seventy weeks) after Artaxerxes commissioned Ezra to rebuild Jerusalem in 458 BC (2Ez 7:7, 8). 9:27 Hippolytus comments that after \"Christ is come, and the gospel is preached in every place, the times being then accomplished, there will remain only one week, the last, in which Elias will appear, and Enoch. And in the midst of it the abomination of desolations will be manifested, that is, Antichrist, announcing desolation to the world. And when he comes, the sacrifice and oblation will be removed, which now are offered to God in every place by the nations\" (see [[MAT.24:15]] and note). 10:1 The third year of Cyrus was 533 BC.",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "suffering",
+        "temple"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

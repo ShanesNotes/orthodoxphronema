@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "I thank God that I baptized none of you except Crispus and Gaius,",
   "pericope": {
     "id": "1CO.P007",
@@ -12,7 +12,9 @@
     "range": "1CO.1:13-2:4",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "baptism"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,14 +22,38 @@
       "line_number": 14,
       "raw_match": "[[1CO.1:14]]",
       "reference_type": "wikilink",
-      "context": "This is probably not the same Gaius mentioned in [[ROM.16:23]] and [[1CO.1:14]], [[1CO.1:15]]."
+      "context": "This is probably not the same Gaius mentioned in [[ROM.16:23]] and [[1CO.1:14]], [[1CO.1:15]].",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "baptism"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 9,
+        "title": "Example: The Cherubim of Ezekiel I",
+        "polarity": "generation",
+        "operation": "inform",
+        "scale": "intercommunal"
+      }
     },
     {
       "source_file": "study/footnotes/NT/ACT_footnotes.md",
       "line_number": 1196,
       "raw_match": "[[1CO.1:14]]",
       "reference_type": "wikilink",
-      "context": "Gaius, from Asia Minor (20:4) is perhaps the same person mentioned in [[ROM.16:23]] and [[1CO.1:14]]. Aristarchus is a Thessalonian (20:4; [[COL.4:10]])."
+      "context": "Gaius, from Asia Minor (20:4) is perhaps the same person mentioned in [[ROM.16:23]] and [[1CO.1:14]]. Aristarchus is a Thessalonian (20:4; [[COL.4:10]]).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "baptism"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 9,
+        "title": "Example: The Cherubim of Ezekiel I",
+        "polarity": "generation",
+        "operation": "inform",
+        "scale": "intercommunal"
+      }
     }
   ]
 }

@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "or ministry, let us use it in our ministering; he who teaches, in teaching;",
   "pericope": {
     "id": "ROM.P034",
@@ -20,21 +20,40 @@
       "line_number": 734,
       "raw_match": "[[ROM.12:6]]-8",
       "reference_type": "wikilink_range",
-      "context": "This list of nine gifts is not exhaustive (see 14:1-5; [[ROM.12:6]]-8; [[EPH.4:7]]-12)."
+      "context": "This list of nine gifts is not exhaustive (see 14:1-5; [[ROM.12:6]]-8; [[EPH.4:7]]-12).",
+      "edge_type": "instantiates"
     },
     {
       "source_file": "study/footnotes/NT/1PE_footnotes.md",
       "line_number": 284,
       "raw_match": "[[ROM.12:4]]-10",
       "reference_type": "wikilink_range",
-      "context": "Whatever gifts God has given to His people are to be used for the glory of God and in a spirit of love (see [[ROM.12:4]]-10; 1Co 12-14)."
+      "context": "Whatever gifts God has given to His people are to be used for the glory of God and in a spirit of love (see [[ROM.12:4]]-10; 1Co 12-14).",
+      "edge_type": "instantiates",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/NT/MAT_footnotes.md",
       "line_number": 2223,
       "raw_match": "[[ROM.12:4]]-7",
       "reference_type": "wikilink_range",
-      "context": "This parable illustrates the use of gifts given by God. Even one talent was a great sum of money; here it represents the goodness God has bestowed on each person. The amount each receives is based on that person's abilities ([[ROM.12:4]]-7). God does not show partiality in the ultimate reward, for all are invited to share the same joy (vv. 21, 23). The wicked and lazy servant (v. 26) could not evade responsibility for ignoring his talent, for idleness is as much a rejection of God as outright wickedness. Burying the talent in the ground (v. 18) is an illustration of using one's God-given gifts for earthly pursuits. The bankers (v. 27) represent other faithful people to whom the man could have turned to help him use his talents wisely. Since help was available to him in the Church, the man has no excuse."
+      "context": "This parable illustrates the use of gifts given by God. Even one talent was a great sum of money; here it represents the goodness God has bestowed on each person. The amount each receives is based on that person's abilities ([[ROM.12:4]]-7). God does not show partiality in the ultimate reward, for all are invited to share the same joy (vv. 21, 23). The wicked and lazy servant (v. 26) could not evade responsibility for ignoring his talent, for idleness is as much a rejection of God as outright wickedness. Burying the talent in the ground (v. 18) is an illustration of using one's God-given gifts for earthly pursuits. The bankers (v. 27) represent other faithful people to whom the man could have turned to help him use his talents wisely. Since help was available to him in the Church, the man has no excuse.",
+      "edge_type": "instantiates",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

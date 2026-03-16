@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Then the Chaldeans spoke to the king in the Syrian language, 'O king, live forever. Tell your servants the dream, and we will tell you its interpretation.'",
   "pericope": {
     "id": "DAN.P002",
@@ -20,7 +20,16 @@
       "line_number": 66,
       "raw_match": "[[DAN.2:4]]",
       "reference_type": "wikilink",
-      "context": "May the king live forever! was the common way to greet a king (see [[DAN.2:4]]; 5:10;"
+      "context": "May the king live forever! was the common way to greet a king (see [[DAN.2:4]]; 5:10;",
+      "edge_type": "instantiates",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

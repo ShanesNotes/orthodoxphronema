@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "'On the first of every month, you shall offer a whole burnt offering to the Lord: two young bulls from the oxen, one ram, and seven unblemished male lambs in their first year,",
   "pericope": {
     "id": "NUM.P065",
@@ -20,7 +20,16 @@
       "line_number": 686,
       "raw_match": "[[NUM.28:11]]-15",
       "reference_type": "wikilink_range",
-      "context": "to (2) the weekly offerings ([[EXO.20:8]]-11; Lv 23:3; [[NUM.28:9]], [[NUM.28:10]]), to (3) the monthly offerings ([[NUM.28:11]]-15), to (4) the yearly offerings ([[EXO.12:1]]-20; 23:15, 16;"
+      "context": "to (2) the weekly offerings ([[EXO.20:8]]-11; Lv 23:3; [[NUM.28:9]], [[NUM.28:10]]), to (3) the monthly offerings ([[NUM.28:11]]-15), to (4) the yearly offerings ([[EXO.12:1]]-20; 23:15, 16;",
+      "edge_type": "instantiates",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

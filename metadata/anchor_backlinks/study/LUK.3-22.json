@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "And the Holy Spirit descended in bodily form like adove upon Him, and a voice came from heaven which said, 'You are My beloved Son; in You I am well pleased.'",
   "pericope": {
     "id": "LUK.P017",
@@ -12,7 +12,10 @@
     "range": "LUK.3:22-3:37",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "baptism",
+    "christology"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 348,
       "raw_match": "[[LUK.3:22]]",
       "reference_type": "wikilink",
-      "context": "Ps 28 is a prophecy concerning the baptism of Jesus Christ in the Jordan River, celebrated in the services of Theophany (Epiphany). Both words, epiphany and theophany, mean \"manifestation\" or \"revelation,\" and theophany has the additional meaning, \"revelation of God.\" The God who is revealed in Christ's Baptism is God the Trinity: Father, Son, and Holy Spirit. Thus this event also reveals that Jesus Christ (the Son) is one of the Trinity. Ps 28 reveals the Father as the voice speaking from heaven at Jesus' Baptism (vv. 3-5, 7-9; see also [[MAT.3:17]]; [[MRK.1:11]]; [[LUK.3:22]]). It also reveals the Son (His beloved, v. 6) and the Holy Spirit (fiery flames, v. 7; see also canticles four and five of Compline in the Forefeast of Theophany). Unicorns (v. 6) are often symbols of purity."
+      "context": "Ps 28 is a prophecy concerning the baptism of Jesus Christ in the Jordan River, celebrated in the services of Theophany (Epiphany). Both words, epiphany and theophany, mean \"manifestation\" or \"revelation,\" and theophany has the additional meaning, \"revelation of God.\" The God who is revealed in Christ's Baptism is God the Trinity: Father, Son, and Holy Spirit. Thus this event also reveals that Jesus Christ (the Son) is one of the Trinity. Ps 28 reveals the Father as the voice speaking from heaven at Jesus' Baptism (vv. 3-5, 7-9; see also [[MAT.3:17]]; [[MRK.1:11]]; [[LUK.3:22]]). It also reveals the Son (His beloved, v. 6) and the Holy Spirit (fiery flames, v. 7; see also canticles four and five of Compline in the Forefeast of Theophany). Unicorns (v. 6) are often symbols of purity.",
+      "edge_type": "echoes",
+      "topic_threads": [
+        "baptism",
+        "christology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 5,
+        "title": "Heaven and Earth: A Spiritual Perspective",
+        "polarity": "generation",
+        "operation": "inform",
+        "scale": "individual"
+      }
     }
   ]
 }

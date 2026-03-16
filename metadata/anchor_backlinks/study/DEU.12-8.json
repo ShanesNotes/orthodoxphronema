@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "'You shall not at all do as we are doing here today-every man doing whatever is right in his own eyes-",
   "pericope": {
     "id": "DEU.P026",
@@ -20,7 +20,16 @@
       "line_number": 519,
       "raw_match": "[[DEU.12:8]]",
       "reference_type": "wikilink",
-      "context": "Lawlessness is any form of rebellion against the duly constituted authority over us. God calls it \"every man doing whatever is right in his own eyes\" ([[DEU.12:8]])."
+      "context": "Lawlessness is any form of rebellion against the duly constituted authority over us. God calls it \"every man doing whatever is right in his own eyes\" ([[DEU.12:8]]).",
+      "edge_type": "instantiates",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

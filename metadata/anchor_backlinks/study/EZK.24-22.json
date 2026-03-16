@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "You will do as I have done. You will not be comforted by their mouth, nor eat the bread of men.",
   "pericope": {
     "id": "EZK.P035",
@@ -20,7 +20,16 @@
       "line_number": 43,
       "raw_match": "[[EZK.24:17]]-23",
       "reference_type": "wikilink_range",
-      "context": "Barefoot and naked: See [[EZK.24:17]]-23; Is 20:2; 2Kg 15:30."
+      "context": "Barefoot and naked: See [[EZK.24:17]]-23; Is 20:2; 2Kg 15:30.",
+      "edge_type": "instantiates",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 9,
+        "title": "Example: The Cherubim of Ezekiel I",
+        "polarity": "generation",
+        "operation": "inform",
+        "scale": "intercommunal"
+      }
     }
   ]
 }

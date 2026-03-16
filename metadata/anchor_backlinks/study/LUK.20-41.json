@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "And He said to them, 'How can they say that the Christ is the Son of David?",
   "pericope": {
     "id": "LUK.P097",
@@ -12,7 +12,10 @@
     "range": "LUK.20:40-20:43",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "repentance"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 1995,
       "raw_match": "[[LUK.20:41]]-44",
       "reference_type": "wikilink_range",
-      "context": "Christ asks this question to lead the Pharisees to the only logical conclusion: that He is God incarnate. They supposed the Messiah to be a mere man, and therefore reply that the Messiah would be a Son of David. David, as king of Israel, could not and would not address anyone as \"Lord\" except God. Yet in [[PSA.109:1]], David refers to the Messiah as \"Lord.\" Therefore, the Messiah must be God. The only possible conclusion is that the Messiah is a descendant of David only according to the flesh, yet is also truly divine, sharing His Lordship with God the Father and the Holy Spirit. The Pharisees do not answer because they realize the implications and are afraid to confess Jesus to be the Son of God. See also note at [[LUK.20:41]]-44."
+      "context": "Christ asks this question to lead the Pharisees to the only logical conclusion: that He is God incarnate. They supposed the Messiah to be a mere man, and therefore reply that the Messiah would be a Son of David. David, as king of Israel, could not and would not address anyone as \"Lord\" except God. Yet in [[PSA.109:1]], David refers to the Messiah as \"Lord.\" Therefore, the Messiah must be God. The only possible conclusion is that the Messiah is a descendant of David only according to the flesh, yet is also truly divine, sharing His Lordship with God the Father and the Holy Spirit. The Pharisees do not answer because they realize the implications and are afraid to confess Jesus to be the Son of God. See also note at [[LUK.20:41]]-44.",
+      "edge_type": "descends_to",
+      "topic_threads": [
+        "christology",
+        "repentance"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

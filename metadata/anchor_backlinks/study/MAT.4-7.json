@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "and, 'I n their hands they shall bear you up, Lest you dash your foot against a stone.' ' a Jesus said to him, 'It is written again, 'You shall not tempt the Lord your God.' '",
   "pericope": {
     "id": "MAT.P008",
@@ -12,7 +12,12 @@
     "range": "MAT.3:17-4:16",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "faith",
+    "logos",
+    "suffering"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,21 +25,60 @@
       "line_number": 474,
       "raw_match": "[[MAT.4:1]]-11",
       "reference_type": "wikilink_range",
-      "context": "On the temptation of Christ, see notes at [[MAT.4:1]]-11."
+      "context": "On the temptation of Christ, see notes at [[MAT.4:1]]-11.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/NT/MRK_footnotes.md",
       "line_number": 561,
       "raw_match": "[[MAT.4:7]]",
       "reference_type": "wikilink",
-      "context": "To take up serpents refers primarily to spiritual battle against demons ([[LUK.10:19]]). Thus, Christ is promising to deliver believers from the powers of sin. Furthermore, this would include certain physical protection as well. St. Paul was bitten by a serpent and suffered no harm ([[ACT.28:3]]-6), and according to tradition, Barsabas Justus ([[ACT.1:23]]) was forced by unbelievers to drink poison and survived. Nevertheless, while God's grace can protect believers from both physical and spiritual harm, to test God by deliberately committing harmful acts against oneself is a grave sin ([[DEU.6:16]]; [[MAT.4:7]])."
+      "context": "To take up serpents refers primarily to spiritual battle against demons ([[LUK.10:19]]). Thus, Christ is promising to deliver believers from the powers of sin. Furthermore, this would include certain physical protection as well. St. Paul was bitten by a serpent and suffered no harm ([[ACT.28:3]]-6), and according to tradition, Barsabas Justus ([[ACT.1:23]]) was forced by unbelievers to drink poison and survived. Nevertheless, while God's grace can protect believers from both physical and spiritual harm, to test God by deliberately committing harmful acts against oneself is a grave sin ([[DEU.6:16]]; [[MAT.4:7]]).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology",
+        "faith",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/ZEC_footnotes.md",
       "line_number": 181,
       "raw_match": "[[MAT.4:1]]-11",
       "reference_type": "wikilink_range",
-      "context": "St. Michael the Archangel would not dispute with the devil over the body of Moses, but said, \"The Lord rebuke you\" (Jude 9). Even more astoundingly, Jesus Christ (the Lord) says, \"The Lord rebukes you.\" This is fulfilled in the temptation of Christ, when He relies upon the written word of Holy Scripture rather than His own power as Son of God to rebuke Satan and resist temptation ([[MAT.4:1]]-11; [[MRK.1:12]], [[MRK.1:13]]; [[LUK.4:1]]-13)."
+      "context": "St. Michael the Archangel would not dispute with the devil over the body of Moses, but said, \"The Lord rebuke you\" (Jude 9). Even more astoundingly, Jesus Christ (the Lord) says, \"The Lord rebukes you.\" This is fulfilled in the temptation of Christ, when He relies upon the written word of Holy Scripture rather than His own power as Son of God to rebuke Satan and resist temptation ([[MAT.4:1]]-11; [[MRK.1:12]], [[MRK.1:13]]; [[LUK.4:1]]-13).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "logos"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

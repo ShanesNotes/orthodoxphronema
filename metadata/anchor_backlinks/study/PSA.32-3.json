@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Sing to Him a new song; Sing praises beautifully with a shout.",
   "pericope": {
     "id": "PSA.P032",
@@ -12,7 +12,9 @@
     "range": "PSA.32:1-32:22",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "temple"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 1220,
       "raw_match": "[[PSA.32:3]]",
       "reference_type": "wikilink",
-      "context": "The voice from heaven that made the voice of many waters, loud thunder, and harps recalls the sounds of the temple liturgy. This voice sings a new song (v. 3; see 5:8-10; [[EXO.15:1]]-18; [[PSA.32:3]]; 98:1; 149:1; Is 42:10) which only the redeemed faithful from the earth are able to learn."
+      "context": "The voice from heaven that made the voice of many waters, loud thunder, and harps recalls the sounds of the temple liturgy. This voice sings a new song (v. 3; see 5:8-10; [[EXO.15:1]]-18; [[PSA.32:3]]; 98:1; 149:1; Is 42:10) which only the redeemed faithful from the earth are able to learn.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "temple"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "For He will be delivered to the Gentiles and will be mocked and insulted and spit upon.",
   "pericope": {
     "id": "LUK.P087",
@@ -12,7 +12,10 @@
     "range": "LUK.18:29-18:33",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "suffering"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 109,
       "raw_match": "[[LUK.18:32]]",
       "reference_type": "wikilink",
-      "context": "Like Elisha before the youths, Christ will also be mocked ([[LUK.18:32]]). \"For what is, 'Go up!'? 'Crucify Him! Crucify Him!' For childhood is set before us to imitate humility, and... to beware of foolishness\" (Aur)."
+      "context": "Like Elisha before the youths, Christ will also be mocked ([[LUK.18:32]]). \"For what is, 'Go up!'? 'Crucify Him! Crucify Him!' For childhood is set before us to imitate humility, and... to beware of foolishness\" (Aur).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

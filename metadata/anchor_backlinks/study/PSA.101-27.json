@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "They shall perish, but You shall remain, And all things shall grow old like a garment, And like a cloak You shall change them, And they shall be changed;",
   "pericope": {
     "id": "PSA.P101",
@@ -20,7 +20,16 @@
       "line_number": 95,
       "raw_match": "[[PSA.101:26]]-28",
       "reference_type": "wikilink_range",
-      "context": "In this quotation from [[PSA.101:26]]-28, God the Father (v. 9) is addressing Another as \"Lord,\" that is, as God."
+      "context": "In this quotation from [[PSA.101:26]]-28, God the Father (v. 9) is addressing Another as \"Lord,\" that is, as God.",
+      "edge_type": "instantiates",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 6,
+        "title": "The Universe As a Language",
+        "polarity": "generation",
+        "operation": "descend",
+        "scale": "communal"
+      }
     }
   ]
 }

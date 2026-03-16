@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "'So let all their evil come before Your face, And do to them as they did to me Concerning all my sins. My groaning is great, And my heart is grieved.'",
   "pericope": {
     "id": "LAM.P001",
@@ -20,7 +20,16 @@
       "line_number": 161,
       "raw_match": "[[LAM.1:22]]",
       "reference_type": "wikilink",
-      "context": "See [[LAM.1:22]]. To glean a vine is to strip it of all its fruit, leaving it desolate, as is promised with the coming attack on Israel."
+      "context": "See [[LAM.1:22]]. To glean a vine is to strip it of all its fruit, leaving it desolate, as is promised with the coming attack on Israel.",
+      "edge_type": "instantiates",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

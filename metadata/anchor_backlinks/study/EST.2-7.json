@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "He had raised the daughter of Abihail, his father's brother, and her name was Esther; and when her parents died, he brought her up to be his wife, and she was beautiful.",
   "pericope": {
     "id": "EST.P006",
@@ -12,7 +12,9 @@
     "range": "EST.2:7-2:22",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "mercy"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 77,
       "raw_match": "[[EST.2:7]]",
       "reference_type": "wikilink",
-      "context": "The righteousness of Joseph consisted of a mercy that transcends the Law ([[HOS.6:6]]). Joseph showed this mercy by his unwillingness to expose Mary's supposed sin, even though he was obliged by the Law to do so. Her husband: The Bible calls engaged couples husband and wife before their marriage (Rachel was called the wife of Jacob before marriage by virtue of their engagement in [[GEN.29:21]]; see also [[DEU.22:23]], [[DEU.22:24]]). Thus, Joseph is called the husband of Mary, and Mary is called his wife (vv. 20, 24). In the Church, Joseph is remembered as the Betrothed, pointing out Mary's ever-virginity. (See also note on [[EST.2:7]].)"
+      "context": "The righteousness of Joseph consisted of a mercy that transcends the Law ([[HOS.6:6]]). Joseph showed this mercy by his unwillingness to expose Mary's supposed sin, even though he was obliged by the Law to do so. Her husband: The Bible calls engaged couples husband and wife before their marriage (Rachel was called the wife of Jacob before marriage by virtue of their engagement in [[GEN.29:21]]; see also [[DEU.22:23]], [[DEU.22:24]]). Thus, Joseph is called the husband of Mary, and Mary is called his wife (vv. 20, 24). In the Church, Joseph is remembered as the Betrothed, pointing out Mary's ever-virginity. (See also note on [[EST.2:7]].)",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "mercy"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "You cannot drink the cup of the Lord and the cup of demons; you cannot partake of the Lord's table and of the table of demons.",
   "pericope": {
     "id": "1CO.P024",
@@ -12,7 +12,10 @@
     "range": "1CO.10:13-10:21",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "exodus_typology",
+    "repentance"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 882,
       "raw_match": "[[1CO.10:21]]",
       "reference_type": "wikilink",
-      "context": "Unfortunately, humanity is so addicted to sin that even these terrifying plagues do not cause the survivors to repent (see [[1CO.8:4]]). Paul ([[1CO.10:20]], [[1CO.10:21]]) and early fathers such as Justin Martyr and Irenaeus also connected idol worship with the worship of demons."
+      "context": "Unfortunately, humanity is so addicted to sin that even these terrifying plagues do not cause the survivors to repent (see [[1CO.8:4]]). Paul ([[1CO.10:20]], [[1CO.10:21]]) and early fathers such as Justin Martyr and Irenaeus also connected idol worship with the worship of demons.",
+      "edge_type": "witnesses",
+      "topic_threads": [
+        "exodus_typology",
+        "repentance"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

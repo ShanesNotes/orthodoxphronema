@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Now Nebuchadnezzar heard their singing, and he marveled and rose up in haste, and said to his nobles, 'Did we not cast three men bound into the fire?' They replied to the king, 'Truly, O king.'",
   "pericope": {
     "id": "DAN.P011",
@@ -12,7 +12,9 @@
     "range": "DAN.3:90-3:96",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "praise"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 500,
       "raw_match": "[[DAN.3:23]]-91",
       "reference_type": "wikilink_range",
-      "context": "Ode of their fathers: Undoubtedly a psalm or the song of the three young men in the fiery furnace ([[DAN.3:23]]-91). This would have become a regular feature in Jewish liturgical practice. How much more appropriate at such a celebration--and everyone would know the words!"
+      "context": "Ode of their fathers: Undoubtedly a psalm or the song of the three young men in the fiery furnace ([[DAN.3:23]]-91). This would have become a regular feature in Jewish liturgical practice. How much more appropriate at such a celebration--and everyone would know the words!",
+      "edge_type": "echoes",
+      "topic_threads": [
+        "praise"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

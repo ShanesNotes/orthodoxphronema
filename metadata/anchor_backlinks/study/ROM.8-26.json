@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Likewise the Spirit also helps in our weaknesses. For we do not know what we should pray for as we ought, but the Spirit Himself makes intercession for us with groanings which cannot be uttered.",
   "pericope": {
     "id": "ROM.P019",
@@ -12,7 +12,11 @@
     "range": "ROM.8:17-8:26",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "faith",
+    "prayer"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,21 +24,60 @@
       "line_number": 1604,
       "raw_match": "[[ROM.8:26]]",
       "reference_type": "wikilink",
-      "context": "The Spirit of truth is in each believer, and we are called to know Him. The Holy Spirit prays in us and for us when we do not know how to pray, enabling us to pray in Christ's name (14:13, 14; [[ROM.8:26]]) and giving us words of witness when we speak the gospel ([[MRK.13:11]])."
+      "context": "The Spirit of truth is in each believer, and we are called to know Him. The Holy Spirit prays in us and for us when we do not know how to pray, enabling us to pray in Christ's name (14:13, 14; [[ROM.8:26]]) and giving us words of witness when we speak the gospel ([[MRK.13:11]]).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology",
+        "faith",
+        "prayer"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/NT/JOH_footnotes.md",
       "line_number": 1766,
       "raw_match": "[[ROM.8:26]]",
       "reference_type": "wikilink",
-      "context": "We know prayer is offered in the name of God the Father, for Christ taught us to pray that way ([[MAT.6:9]]), and He Himself prayed to the Father (11:41; 12:28; 17:1). In Christ, we have direct access to the Father, and thus we pray in the name of the Son as well (see note at 14:13, 14). After Pentecost, we learn the Holy Spirit Himself \"makes intercession for us\" ([[ROM.8:26]]), and we are instructed to pray always \"in the Spirit\" ([[EPH.6:18]]). Therefore, as Orthodox Christians, we pray continually and with confidence to all three Persons of the Trinity, \"in the name of the Father, and the Son, and the Holy Spirit.\""
+      "context": "We know prayer is offered in the name of God the Father, for Christ taught us to pray that way ([[MAT.6:9]]), and He Himself prayed to the Father (11:41; 12:28; 17:1). In Christ, we have direct access to the Father, and thus we pray in the name of the Son as well (see note at 14:13, 14). After Pentecost, we learn the Holy Spirit Himself \"makes intercession for us\" ([[ROM.8:26]]), and we are instructed to pray always \"in the Spirit\" ([[EPH.6:18]]). Therefore, as Orthodox Christians, we pray continually and with confidence to all three Persons of the Trinity, \"in the name of the Father, and the Son, and the Holy Spirit.\"",
+      "edge_type": "echoes",
+      "topic_threads": [
+        "christology",
+        "prayer"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/ISA_footnotes.md",
       "line_number": 355,
       "raw_match": "[[ROM.8:26]]",
       "reference_type": "wikilink",
-      "context": "A right heart before God in prayer is even more important than right words, for God hears our \"groanings which cannot be uttered\" ([[ROM.8:26]]; see also [[MRK.7:6]], [[MRK.7:7]])."
+      "context": "A right heart before God in prayer is even more important than right words, for God hears our \"groanings which cannot be uttered\" ([[ROM.8:26]]; see also [[MRK.7:6]], [[MRK.7:7]]).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "prayer"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 6,
+        "title": "The Universe As a Language",
+        "polarity": "generation",
+        "operation": "descend",
+        "scale": "communal"
+      }
     }
   ]
 }

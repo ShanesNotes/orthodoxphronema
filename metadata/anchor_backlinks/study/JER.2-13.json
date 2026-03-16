@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "'For My people have committed two evils: They forsook Me, the fountain of living water, and hewed for themselves broken cisterns, unable to hold water.",
   "pericope": {
     "id": "JER.P005",
@@ -12,7 +12,9 @@
     "range": "JER.2:13-2:27",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "wisdom"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 110,
       "raw_match": "[[JER.2:13]]",
       "reference_type": "wikilink",
-      "context": "The fountain of wisdom is a likely reference to God the Father (see [[JER.2:13]], where the Father and Son are together depicted as a fountain and living water). In WSir 1:5, the Word is described as the fountain of wisdom (see [[LUK.2:40]], [[LUK.2:52]]; 21:15; [[JOH.4:13]], [[JOH.4:14]])."
+      "context": "The fountain of wisdom is a likely reference to God the Father (see [[JER.2:13]], where the Father and Son are together depicted as a fountain and living water). In WSir 1:5, the Word is described as the fountain of wisdom (see [[LUK.2:40]], [[LUK.2:52]]; 21:15; [[JOH.4:13]], [[JOH.4:14]]).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "wisdom"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

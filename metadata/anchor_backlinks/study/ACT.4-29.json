@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Now, Lord, look on their threats, and grant to Your servants that with all boldness they may speak Your word,",
   "pericope": {
     "id": "ACT.P015",
@@ -12,7 +12,11 @@
     "range": "ACT.4:22-4:30",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "logos",
+    "repentance"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,14 +24,39 @@
       "line_number": 61,
       "raw_match": "[[ACT.4:29]]-31",
       "reference_type": "wikilink_range",
-      "context": "Christians are repeatedly challenged in the NT to be bold in confessing Christ before others (see [[ACT.4:29]]-31; [[ROM.1:16]]). 2:4-6 Paul has been accused of seeking his own glory, but he knows God does not share His glory with any other (Is 48:11). As His servants, we must step outside the circle of world-pleasers and into the arena of pleasing God, whatever the cost. 2:7, 8 Spreading the gospel means putting our lives on the line for those we seek to reach, as a mother sacrifices herself for her children. Thus, the holy martyrs gave their lives with great joy for Christ and His Church."
+      "context": "Christians are repeatedly challenged in the NT to be bold in confessing Christ before others (see [[ACT.4:29]]-31; [[ROM.1:16]]). 2:4-6 Paul has been accused of seeking his own glory, but he knows God does not share His glory with any other (Is 48:11). As His servants, we must step outside the circle of world-pleasers and into the arena of pleasing God, whatever the cost. 2:7, 8 Spreading the gospel means putting our lives on the line for those we seek to reach, as a mother sacrifices herself for her children. Thus, the holy martyrs gave their lives with great joy for Christ and His Church.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology",
+        "repentance"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/NT/LUK_footnotes.md",
       "line_number": 551,
       "raw_match": "[[ACT.4:29]]",
       "reference_type": "wikilink",
-      "context": "Christ's primary mission was to preach the kingdom. Miracles and healings testify both to the truth of the message and the identity of the Teacher (see 5:24). This same pattern holds true in the Church ([[ACT.4:29]], [[ACT.4:30]])."
+      "context": "Christ's primary mission was to preach the kingdom. Miracles and healings testify both to the truth of the message and the identity of the Teacher (see 5:24). This same pattern holds true in the Church ([[ACT.4:29]], [[ACT.4:30]]).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

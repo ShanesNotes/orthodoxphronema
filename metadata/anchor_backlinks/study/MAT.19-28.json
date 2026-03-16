@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "So Jesus said to them, 'Assuredly I say to you, that in the regeneration, when the Son of Man sits on the throne of His glory, you who have followed Me will also sit on twelve thrones, judging the twelve tribes of Israel.",
   "pericope": {
     "id": "MAT.P064",
@@ -12,7 +12,11 @@
     "range": "MAT.19:15-19:29",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "judgment",
+    "kingdom"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +24,21 @@
       "line_number": 373,
       "raw_match": "[[MAT.19:28]]",
       "reference_type": "wikilink",
-      "context": "Saints will judge the world (v. 2) and angels (v. 3) because in Christ, Christians share in His authority to judge (see [[MAT.19:28]]; [[JOH.5:22]], [[JOH.5:27]]; [[2PE.2:4]]; Jude 6; [[REV.20:4]]). This being so, how much more are we able to judge the everyday concerns of this life (v. 3)?"
+      "context": "Saints will judge the world (v. 2) and angels (v. 3) because in Christ, Christians share in His authority to judge (see [[MAT.19:28]]; [[JOH.5:22]], [[JOH.5:27]]; [[2PE.2:4]]; Jude 6; [[REV.20:4]]). This being so, how much more are we able to judge the everyday concerns of this life (v. 3)?",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology",
+        "judgment",
+        "kingdom"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

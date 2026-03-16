@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Now the cherubim were standing on the right side of the house as the man was entering, and the cloud filled the inner court.",
   "pericope": {
     "id": "EZK.P009",
@@ -12,7 +12,11 @@
     "range": "EZK.9:11-10:20",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "judgment",
+    "priesthood",
+    "temple"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +24,21 @@
       "line_number": 1324,
       "raw_match": "[[EZK.10:3]]",
       "reference_type": "wikilink",
-      "context": "The temple was filled with smoke from the glory of God (see Is 6:4; [[EZK.10:3]], 4), so that no one was able to enter the temple (see [[EXO.40:29]], where Moses was unable to enter the tabernacle; and 3Kg 8:10, 11 where the priests were unable to enter the temple for the same reason). None may enter to intercede for the earth or to divert the coming catastrophe of God's sworn judgment."
+      "context": "The temple was filled with smoke from the glory of God (see Is 6:4; [[EZK.10:3]], 4), so that no one was able to enter the temple (see [[EXO.40:29]], where Moses was unable to enter the tabernacle; and 3Kg 8:10, 11 where the priests were unable to enter the temple for the same reason). None may enter to intercede for the earth or to divert the coming catastrophe of God's sworn judgment.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "judgment",
+        "priesthood",
+        "temple"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

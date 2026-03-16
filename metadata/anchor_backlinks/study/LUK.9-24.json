@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "For whoever desires to save his life will lose it, but whoever loses his life for My sake will save it.",
   "pericope": {
     "id": "LUK.P044",
@@ -12,7 +12,10 @@
     "range": "LUK.9:17-9:26",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "faith"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 1238,
       "raw_match": "[[LUK.9:24]]",
       "reference_type": "wikilink",
-      "context": "Thomas's statement is an unwitting prophecy of his own future martyrdom. It also illustrates the path that all believers must take--that we die daily to the world for the sake of following Christ ([[LUK.9:23]], [[LUK.9:24]])."
+      "context": "Thomas's statement is an unwitting prophecy of his own future martyrdom. It also illustrates the path that all believers must take--that we die daily to the world for the sake of following Christ ([[LUK.9:23]], [[LUK.9:24]]).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology",
+        "faith"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

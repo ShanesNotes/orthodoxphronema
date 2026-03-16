@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "And suddenly there came a sound from heaven, as of a rushing mighty wind, and it filled the whole house where they were sitting.",
   "pericope": {
     "id": "ACT.P004",
@@ -12,7 +12,11 @@
     "range": "ACT.1:26-2:12",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "creation_theology",
+    "judgment"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,21 +24,55 @@
       "line_number": 407,
       "raw_match": "[[ACT.2:1]]-4",
       "reference_type": "wikilink_range",
-      "context": "Fire in this context has the primary meaning of the gift of the Holy Spirit, which is given to the world at Pentecost ([[ACT.2:1]]-4). It further declares the judgment of Christ, in which the faithless will burn (see [[2TH.1:6]]-10; 2:8). Note that this fire is one. It is the same Power and the same Spirit which both enlivens the faithful and destroys the faithless."
+      "context": "Fire in this context has the primary meaning of the gift of the Holy Spirit, which is given to the world at Pentecost ([[ACT.2:1]]-4). It further declares the judgment of Christ, in which the faithless will burn (see [[2TH.1:6]]-10; 2:8). Note that this fire is one. It is the same Power and the same Spirit which both enlivens the faithful and destroys the faithless.",
+      "edge_type": "echoes",
+      "topic_threads": [
+        "christology",
+        "judgment"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/NT/MRK_footnotes.md",
       "line_number": 550,
       "raw_match": "[[ACT.2:1]]-11",
       "reference_type": "wikilink_range",
-      "context": "New tongues refers to the ability to speak in languages that one has not learned in order to edify others in worship (1Co 14) and to preach the gospel ([[ACT.2:1]]-11)."
+      "context": "New tongues refers to the ability to speak in languages that one has not learned in order to edify others in worship (1Co 14) and to preach the gospel ([[ACT.2:1]]-11).",
+      "edge_type": "instantiates",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/SNG_footnotes.md",
       "line_number": 368,
       "raw_match": "[[ACT.2:2]]",
       "reference_type": "wikilink",
-      "context": "The wind being called upon to blow upon the garden can be likened to the Holy Spirit, the strong wind that blew on the Apostles beginning in the upper room ([[ACT.2:2]])."
+      "context": "The wind being called upon to blow upon the garden can be likened to the Holy Spirit, the strong wind that blew on the Apostles beginning in the upper room ([[ACT.2:2]]).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "creation_theology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

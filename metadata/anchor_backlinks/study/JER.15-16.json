@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Make an end to them, and Your word shall be the gladness and joy of my heart; for I am called by Your name, O Lord, the Almighty.",
   "pericope": {
     "id": "JER.P030",
@@ -12,7 +12,10 @@
     "range": "JER.15:9-15:17",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "logos"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 82,
       "raw_match": "[[JER.15:16]]",
       "reference_type": "wikilink",
-      "context": "For the faithful, the taste of Christ the Word in our mouth is even sweeter than honey (see [[PSA.18:10]]; 118:103; [[JER.15:16]]; [[ZEC.5:1]]-4; [[REV.10:8]]-11)."
+      "context": "For the faithful, the taste of Christ the Word in our mouth is even sweeter than honey (see [[PSA.18:10]]; 118:103; [[JER.15:16]]; [[ZEC.5:1]]-4; [[REV.10:8]]-11).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology",
+        "logos"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

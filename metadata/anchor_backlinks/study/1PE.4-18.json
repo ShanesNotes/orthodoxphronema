@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Now 'If the righteous one is scarcely saved, Where will the ungodly and the sinner appear?'",
   "pericope": {
     "id": "1PE.P015",
@@ -12,7 +12,9 @@
     "range": "1PE.4:11-4:18",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "suffering"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 600,
       "raw_match": "[[1PE.4:18]]",
       "reference_type": "wikilink",
-      "context": "The apostle Peter quotes this verse in [[1PE.4:18]]. The righteous man suffers according to the will of God, but this verse encourages him constantly to commit his soul to God and His faithfulness. For the persecutor will receive his recompense in due time."
+      "context": "The apostle Peter quotes this verse in [[1PE.4:18]]. The righteous man suffers according to the will of God, but this verse encourages him constantly to commit his soul to God and His faithfulness. For the persecutor will receive his recompense in due time.",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

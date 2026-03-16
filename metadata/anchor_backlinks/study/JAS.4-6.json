@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "But He gives more grace. Therefore He says: 'God resists the proud, But gives grace to the humble.'",
   "pericope": {
     "id": "JAS.P009",
@@ -12,7 +12,9 @@
     "range": "JAS.3:18-4:9",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 1355,
       "raw_match": "[[JAS.4:6]]",
       "reference_type": "wikilink",
-      "context": "These parables are directed toward guests (vv. 7-11) and hosts (vv. 12-14). In imitation of Christ, perfect humility is expected of guests, and boundless charity is demanded of hosts (see [[JAS.4:6]])."
+      "context": "These parables are directed toward guests (vv. 7-11) and hosts (vv. 12-14). In imitation of Christ, perfect humility is expected of guests, and boundless charity is demanded of hosts (see [[JAS.4:6]]).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

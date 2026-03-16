@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "I planted, Apollos watered, but God gave the increase.",
   "pericope": {
     "id": "1CO.P009",
@@ -12,7 +12,14 @@
     "range": "1CO.3:4-3:16",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "baptism",
+    "christology",
+    "covenant",
+    "israel_church",
+    "priesthood",
+    "suffering"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,14 +27,41 @@
       "line_number": 26,
       "raw_match": "[[1CO.3:6]]-10",
       "reference_type": "wikilink_range",
-      "context": "When Paul evangelized an area, he did not leave it unattended ([[1CO.3:6]]-10; [[COL.1:7]]). 1:5-9 All Christians are priests in Christ. Candidates for eldership, that is, for the special priesthood inside the general priesthood of all, should exhibit a wholesome and united family life (v. 6), control over passions and emotions (v. 7), loving and righteous relations with others (v. 8), and careful adherence to tradition (v. 9; see also [[1TI.3:1]]-16; 5:21; 2Ti 2:2)."
+      "context": "When Paul evangelized an area, he did not leave it unattended ([[1CO.3:6]]-10; [[COL.1:7]]). 1:5-9 All Christians are priests in Christ. Candidates for eldership, that is, for the special priesthood inside the general priesthood of all, should exhibit a wholesome and united family life (v. 6), control over passions and emotions (v. 7), loving and righteous relations with others (v. 8), and careful adherence to tradition (v. 9; see also [[1TI.3:1]]-16; 5:21; 2Ti 2:2).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology",
+        "priesthood",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/JER_footnotes.md",
       "line_number": 915,
       "raw_match": "[[1CO.3:6]]-8",
       "reference_type": "wikilink_range",
-      "context": "The new planting is the Church, the new Israel, as well as the New Testament ([[1CO.3:6]]-8)."
+      "context": "The new planting is the Church, the new Israel, as well as the New Testament ([[1CO.3:6]]-8).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "covenant",
+        "israel_church"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 6,
+        "title": "The Universe As a Language",
+        "polarity": "generation",
+        "operation": "descend",
+        "scale": "communal"
+      }
     }
   ]
 }

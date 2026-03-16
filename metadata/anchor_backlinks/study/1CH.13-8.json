@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Then David and all Israel played music before God with all their strength, with singing, on harps, on stringed instruments, on tambourines, on cymbals, and with trumpets.",
   "pericope": {
     "id": "1CH.P042",
@@ -12,7 +12,9 @@
     "range": "1CH.12:41-13:13",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "temple"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 156,
       "raw_match": "[[1CH.13:1]]-14",
       "reference_type": "wikilink_range",
-      "context": "The ark is now to be brought up to Jerusalem from Gibeon (see [[1CH.13:1]]-14). It has been in the care of Eleazar (see 1Kg 7:1). This will help unify Judah and Israel by establishing Jerusalem as the primary sanctuary."
+      "context": "The ark is now to be brought up to Jerusalem from Gibeon (see [[1CH.13:1]]-14). It has been in the care of Eleazar (see 1Kg 7:1). This will help unify Judah and Israel by establishing Jerusalem as the primary sanctuary.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "temple"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

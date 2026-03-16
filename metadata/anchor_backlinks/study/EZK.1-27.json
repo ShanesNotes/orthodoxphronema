@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Like the appearance of a rainbow in a cloud on a rainy day, so was the condition of the surrounding brightness.",
   "pericope": {
     "id": "EZK.P002",
@@ -12,7 +12,21 @@
     "range": "EZK.1:27-3:14",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "baptism",
+    "christology",
+    "covenant",
+    "creation_theology",
+    "divine_light",
+    "faith",
+    "judgment",
+    "kingdom",
+    "mercy",
+    "praise",
+    "priesthood",
+    "repentance",
+    "resurrection"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,28 +34,87 @@
       "line_number": 35,
       "raw_match": "[[EZK.1:1]]-28",
       "reference_type": "wikilink_range",
-      "context": "F ew saints have been blessed with a vision of heaven while still in this life. Isaiah saw heaven ([[ISA.6:1]]-8), as did Ezekiel ([[EZK.1:1]]-28), and the apostle John saw a new heaven-God's eternal Kingdom revealed as a city ([[REV.21:1]]-22:5). When we read these passages, we note an abundance of mystical, apocalyptic imagery. But the strong similarities between these passages suggests an inspired consistency of reporting on the visions. The living creatures, the light, the cherubic beings, the throne, and the glory of the Lord all work together to unveil a Kingdom of celestial majesty and splendor. While confessing with the prophet Isaiah and the apostle Paul that 'eye has not seen, nor ear heard, nor have entered into the heart of man the things which God has prepared for those who love Him' ([[1CO.2:9]]), we nonetheless find, taking the Scriptures as a whole, that certain things can be said about the eternal Kingdom. 1 The saints who inhabit God's Kingdom live in active fulfillment of His eternal plan. In the Kingdom, humanity becomes all it is meant to be. There is nothing at all in Scripture to suggest that eternal life means people passively afloat on huge white clouds strumming harps unto the ages of ages. Originally created to inhabit Paradise, our first parents chose to sin against God and were expelled from the Garden. The Kingdom of God was closed to mankind ([[GEN.3:24]]). But God in His love called His creation back to Himself, speaking to us through the law and the prophets and ultimately through His incarnate Son. Through new life in Jesus Christ, we are brought back by God's mercy into the new creation, His everlasting Kingdom. As kings and priests we will reign with Him forever ([[REV.1:6]]). 2 We experience a foretaste of the Kingdom in the Church. The very first words of the Divine Liturgy spoken by the priest are, 'Blessed is the Kingdom of the Father and of the Son and of the Holy Spirit, now and ever and unto ages of ages.' The Church at worship enters or ascends to the heavenly Kingdom. For it is in the Church that we are seated 'together in the heavenly places in Christ Jesus' ([[EPH.2:6]]) and are raised to 'where Christ is, sitting at the right hand of God' ([[COL.3:1]]). In worship we join the heavenly hosts-the saints and the angels-in giving praise to our God. As the body of Christ, we participate with that 'great cloud of witnesses' ([[HEB.12:1]]) surrounding us as we come to 'the throne of God' ([[HEB.12:2]]). We come liturgically 'to the city of the living God, the heavenly Jerusalem, to an innumerable company of angels, to the general assembly and church of the firstborn who are registered in heaven, to God the Judge of all' ([[HEB.12:22]], [[HEB.12:23]]). With this heavenly vision, the Orthodox Church each Sunday remembers not only those in the parish but 'all those who in faith have gone on before us to their rest.' 3 Knowledge of the Kingdom motivates us to live in complete devotion to Christ. In this life, we have a foretaste of the Kingdom that inspires us to seek its fullness. In Paul's words, 'For now we see in a mirror, dimly, but then face to face' ([[1CO.13:12]]). Worship is not a solitary act. Rather it is the Bride of Christ, the one Church-those on earth joining with those in heaven-giving thanks to our God and King, who has made us citizens of His magnificent domain. The apostle John writes, 'Beloved, now we are children of God; and it has not yet been revealed what we shall be, but we know that when He is revealed, we shall be like Him, for we shall see Him as He is. And everyone who has this hope in Him purifies himself, just as He is pure' ([[1JN.3:2]], [[1JN.3:3]])."
+      "context": "F ew saints have been blessed with a vision of heaven while still in this life. Isaiah saw heaven ([[ISA.6:1]]-8), as did Ezekiel ([[EZK.1:1]]-28), and the apostle John saw a new heaven-God's eternal Kingdom revealed as a city ([[REV.21:1]]-22:5). When we read these passages, we note an abundance of mystical, apocalyptic imagery. But the strong similarities between these passages suggests an inspired consistency of reporting on the visions. The living creatures, the light, the cherubic beings, the throne, and the glory of the Lord all work together to unveil a Kingdom of celestial majesty and splendor. While confessing with the prophet Isaiah and the apostle Paul that 'eye has not seen, nor ear heard, nor have entered into the heart of man the things which God has prepared for those who love Him' ([[1CO.2:9]]), we nonetheless find, taking the Scriptures as a whole, that certain things can be said about the eternal Kingdom. 1 The saints who inhabit God's Kingdom live in active fulfillment of His eternal plan. In the Kingdom, humanity becomes all it is meant to be. There is nothing at all in Scripture to suggest that eternal life means people passively afloat on huge white clouds strumming harps unto the ages of ages. Originally created to inhabit Paradise, our first parents chose to sin against God and were expelled from the Garden. The Kingdom of God was closed to mankind ([[GEN.3:24]]). But God in His love called His creation back to Himself, speaking to us through the law and the prophets and ultimately through His incarnate Son. Through new life in Jesus Christ, we are brought back by God's mercy into the new creation, His everlasting Kingdom. As kings and priests we will reign with Him forever ([[REV.1:6]]). 2 We experience a foretaste of the Kingdom in the Church. The very first words of the Divine Liturgy spoken by the priest are, 'Blessed is the Kingdom of the Father and of the Son and of the Holy Spirit, now and ever and unto ages of ages.' The Church at worship enters or ascends to the heavenly Kingdom. For it is in the Church that we are seated 'together in the heavenly places in Christ Jesus' ([[EPH.2:6]]) and are raised to 'where Christ is, sitting at the right hand of God' ([[COL.3:1]]). In worship we join the heavenly hosts-the saints and the angels-in giving praise to our God. As the body of Christ, we participate with that 'great cloud of witnesses' ([[HEB.12:1]]) surrounding us as we come to 'the throne of God' ([[HEB.12:2]]). We come liturgically 'to the city of the living God, the heavenly Jerusalem, to an innumerable company of angels, to the general assembly and church of the firstborn who are registered in heaven, to God the Judge of all' ([[HEB.12:22]], [[HEB.12:23]]). With this heavenly vision, the Orthodox Church each Sunday remembers not only those in the parish but 'all those who in faith have gone on before us to their rest.' 3 Knowledge of the Kingdom motivates us to live in complete devotion to Christ. In this life, we have a foretaste of the Kingdom that inspires us to seek its fullness. In Paul's words, 'For now we see in a mirror, dimly, but then face to face' ([[1CO.13:12]]). Worship is not a solitary act. Rather it is the Bride of Christ, the one Church-those on earth joining with those in heaven-giving thanks to our God and King, who has made us citizens of His magnificent domain. The apostle John writes, 'Beloved, now we are children of God; and it has not yet been revealed what we shall be, but we know that when He is revealed, we shall be like Him, for we shall see Him as He is. And everyone who has this hope in Him purifies himself, just as He is pure' ([[1JN.3:2]], [[1JN.3:3]]).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "creation_theology",
+        "faith",
+        "kingdom",
+        "mercy",
+        "praise",
+        "priesthood",
+        "repentance"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/NT/REV_footnotes.md",
       "line_number": 168,
       "raw_match": "[[EZK.1:27]]",
       "reference_type": "wikilink",
-      "context": "Mortal humanity cannot bear the revelation of divine glory, a frequent biblical theme (see [[EXO.19:21]]; 33:20; Is 6:5). Just as he fell prostrate at Mount Tabor ([[MAT.17:6]]), so also does John here, in the presence of the glorified Savior (see [[EZK.1:27]]; [[DAN.10:7]]-9; see also 1En 14:24). Do not be afraid is a revelatory formula from the OT. As a signal for the theophany, it was carried over into the NT (see the Annunciation, [[LUK.1:30]]; Jesus walking upon the water, [[MAT.14:27]]--\"Fear not, I AM\"; the Transfiguration, [[MAT.17:7]]). In the OT God was called \"the first and the last\" (Is 44:6; 48:12), and so, too, is the Messiah. Some early heresies (e.g. Docetism) held that Jesus only seemed to die. But the Lord Himself testified, I... was dead, affirming the authenticity of His death; alive forevermore, His Resurrection--the power of which effects His lordship over death and its realm. The Orthodox icon of the resurrected Christ depicts Him with these keys (v. 18) in hand, standing triumphantly on the open gates of Hades."
+      "context": "Mortal humanity cannot bear the revelation of divine glory, a frequent biblical theme (see [[EXO.19:21]]; 33:20; Is 6:5). Just as he fell prostrate at Mount Tabor ([[MAT.17:6]]), so also does John here, in the presence of the glorified Savior (see [[EZK.1:27]]; [[DAN.10:7]]-9; see also 1En 14:24). Do not be afraid is a revelatory formula from the OT. As a signal for the theophany, it was carried over into the NT (see the Annunciation, [[LUK.1:30]]; Jesus walking upon the water, [[MAT.14:27]]--\"Fear not, I AM\"; the Transfiguration, [[MAT.17:7]]). In the OT God was called \"the first and the last\" (Is 44:6; 48:12), and so, too, is the Messiah. Some early heresies (e.g. Docetism) held that Jesus only seemed to die. But the Lord Himself testified, I... was dead, affirming the authenticity of His death; alive forevermore, His Resurrection--the power of which effects His lordship over death and its realm. The Orthodox icon of the resurrected Christ depicts Him with these keys (v. 18) in hand, standing triumphantly on the open gates of Hades.",
+      "edge_type": "echoes",
+      "topic_threads": [
+        "baptism",
+        "christology",
+        "divine_light",
+        "praise",
+        "resurrection"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/NT/REV_footnotes.md",
       "line_number": 510,
       "raw_match": "[[EZK.1:25]]-27",
       "reference_type": "wikilink_range",
-      "context": "God is seen in biblical visions as sitting on a throne, a symbol of His sovereign lordship (3Kg 22:19; [[PSA.46:9]]; Is 6:1; [[EZK.1:25]]-27; [[DAN.7:9]]; [[MAT.5:34]]; 23:22; see also 1En 14:18, 19). The image of this throne occurs over 40 times in Revelation and is further described as \"a great white throne\" (20:11), a throne of judgment. But here His throne is surrounded by a rainbow (v. 3), the sign of God's everlasting covenant according to which He will not judge man again as He did at the Flood ([[GEN.9:12]]-17). Mercy triumphs over judgment ([[MAT.9:13]]). Thus, in the Orthodox Church, the altar table is sometimes called \"the throne.\""
+      "context": "God is seen in biblical visions as sitting on a throne, a symbol of His sovereign lordship (3Kg 22:19; [[PSA.46:9]]; Is 6:1; [[EZK.1:25]]-27; [[DAN.7:9]]; [[MAT.5:34]]; 23:22; see also 1En 14:18, 19). The image of this throne occurs over 40 times in Revelation and is further described as \"a great white throne\" (20:11), a throne of judgment. But here His throne is surrounded by a rainbow (v. 3), the sign of God's everlasting covenant according to which He will not judge man again as He did at the Flood ([[GEN.9:12]]-17). Mercy triumphs over judgment ([[MAT.9:13]]). Thus, in the Orthodox Church, the altar table is sometimes called \"the throne.\"",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "covenant",
+        "judgment",
+        "kingdom",
+        "mercy"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/NT/REV_footnotes.md",
       "line_number": 895,
       "raw_match": "[[EZK.1:27]]",
       "reference_type": "wikilink",
-      "context": "A parenthesis between the sixth and seventh trumpets. The passage consists of two visions: (1) the angel with the book; (2) the two witnesses. Dan 12 provides many of the images. 10:1, 2 John once again beholds from earth the angel's descent. God's message comes to him in a little book (v. 2) or scroll. The descriptive features of the angel are common symbols for divine glory ([[EZK.1:26]], [[EZK.1:27]]; [[MAT.17:2]]). His feet on the sea and land (v. 2) show his immensity and his authority to speak to the whole earth."
+      "context": "A parenthesis between the sixth and seventh trumpets. The passage consists of two visions: (1) the angel with the book; (2) the two witnesses. Dan 12 provides many of the images. 10:1, 2 John once again beholds from earth the angel's descent. God's message comes to him in a little book (v. 2) or scroll. The descriptive features of the angel are common symbols for divine glory ([[EZK.1:26]], [[EZK.1:27]]; [[MAT.17:2]]). His feet on the sea and land (v. 2) show his immensity and his authority to speak to the whole earth.",
+      "edge_type": "descends_to",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

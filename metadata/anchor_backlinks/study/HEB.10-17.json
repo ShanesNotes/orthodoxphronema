@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "then He adds, 'Their sins and their lawless deeds I will remember no more.'",
   "pericope": {
     "id": "HEB.P023",
@@ -12,7 +12,12 @@
     "range": "HEB.10:7-10:17",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "covenant",
+    "faith",
+    "suffering"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,21 +25,59 @@
       "line_number": 796,
       "raw_match": "[[HEB.10:17]]",
       "reference_type": "wikilink",
-      "context": "How do we know we are acting with love (v. 4)? This passage gives specific characteristics of love: (1) it suffers long, is patient ([[1TH.5:14]]); (2) it is kind, gentle, especially with those who hurt ([[EPH.4:32]]); (3) it does not envy, is not jealous of what others have (Pr 23:17); (4) it does not parade itself, put itself on display ([[JOH.3:30]]); (5) it is not puffed up, arrogant, proud ([[GAL.6:3]]); (6) it does not act rudely, brashly, mean-spiritedly, insulting others ([[ECC.5:2]]); (7) it does not seek its own way, act pushy (10:24); (8) it is not provoked or angered (Pr 19:11); (9) it thinks no evil, does not keep score on others ([[HEB.10:17]]); (10) it rejoices not in iniquity, takes no pleasure when others fall into sin ([[MRK.3:5]]); (11) it rejoices in the truth, is joyful when righteousness prevails (2Jn 4); (12) it bears all things, handles the burdensome ([[GAL.6:2]]); (13) it believes all things, trusts in God no matter what (Pr 3:5); (14) it hopes all things, keeps looking up, does not despair ([[PHP.3:13]]); (15) it endures all things, \"puts up with everything\" (JohnChr), does not wear out ([[GAL.6:9]]); (16) it never fails. The only thing love cannot do is fail (16:14)."
+      "context": "How do we know we are acting with love (v. 4)? This passage gives specific characteristics of love: (1) it suffers long, is patient ([[1TH.5:14]]); (2) it is kind, gentle, especially with those who hurt ([[EPH.4:32]]); (3) it does not envy, is not jealous of what others have (Pr 23:17); (4) it does not parade itself, put itself on display ([[JOH.3:30]]); (5) it is not puffed up, arrogant, proud ([[GAL.6:3]]); (6) it does not act rudely, brashly, mean-spiritedly, insulting others ([[ECC.5:2]]); (7) it does not seek its own way, act pushy (10:24); (8) it is not provoked or angered (Pr 19:11); (9) it thinks no evil, does not keep score on others ([[HEB.10:17]]); (10) it rejoices not in iniquity, takes no pleasure when others fall into sin ([[MRK.3:5]]); (11) it rejoices in the truth, is joyful when righteousness prevails (2Jn 4); (12) it bears all things, handles the burdensome ([[GAL.6:2]]); (13) it believes all things, trusts in God no matter what (Pr 3:5); (14) it hopes all things, keeps looking up, does not despair ([[PHP.3:13]]); (15) it endures all things, \"puts up with everything\" (JohnChr), does not wear out ([[GAL.6:9]]); (16) it never fails. The only thing love cannot do is fail (16:14).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "faith",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 9,
+        "title": "Example: The Cherubim of Ezekiel I",
+        "polarity": "generation",
+        "operation": "inform",
+        "scale": "intercommunal"
+      }
     },
     {
       "source_file": "study/footnotes/OT/JER_footnotes.md",
       "line_number": 927,
       "raw_match": "[[HEB.10:15]]-18",
       "reference_type": "wikilink_range",
-      "context": "The implanting of the new covenant, the law in the heart, was clearly effected with the coming of Christ ([[2CO.3:3]]; [[HEB.10:15]]-18)."
+      "context": "The implanting of the new covenant, the law in the heart, was clearly effected with the coming of Christ ([[2CO.3:3]]; [[HEB.10:15]]-18).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "covenant"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 9,
+        "title": "Example: The Cherubim of Ezekiel I",
+        "polarity": "generation",
+        "operation": "inform",
+        "scale": "intercommunal"
+      }
     },
     {
       "source_file": "study/footnotes/OT/MAL_footnotes.md",
       "line_number": 181,
       "raw_match": "[[HEB.10:17]]",
       "reference_type": "wikilink",
-      "context": "The Giver of the Law of Moses will soon become incarnate, writing His laws on our hearts and minds and remembering our sins and lawless deeds no more ([[HEB.10:16]], [[HEB.10:17]])."
+      "context": "The Giver of the Law of Moses will soon become incarnate, writing His laws on our hearts and minds and remembering our sins and lawless deeds no more ([[HEB.10:16]], [[HEB.10:17]]).",
+      "edge_type": "descends_to",
+      "topic_threads": [
+        "christology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 9,
+        "title": "Example: The Cherubim of Ezekiel I",
+        "polarity": "generation",
+        "operation": "inform",
+        "scale": "intercommunal"
+      }
     }
   ]
 }

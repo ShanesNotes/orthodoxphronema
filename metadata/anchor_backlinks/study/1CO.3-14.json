@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "If anyone's work which he has built on it endures, he will receive areward.",
   "pericope": {
     "id": "1CO.P009",
@@ -12,7 +12,14 @@
     "range": "1CO.3:4-3:16",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "faith",
+    "judgment",
+    "priesthood",
+    "suffering",
+    "temple"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,28 +27,69 @@
       "line_number": 68,
       "raw_match": "[[1CO.3:10]]-15",
       "reference_type": "wikilink_range",
-      "context": "The incorruptible inheritance is reserved for those who have true faith, the faith that by God's grace perseveres to the end. 1:6, 7 To reach the joy and blessing of eternal life in Christ, we first experience the sadness of the passing world, along with the afflictions we must face here (see also [[JAS.1:1]]-12). To the watching world, the perseverance of the faithful during affliction appears foolish and even contemptible. But Peter shows that faith under trial is precious indeed, bearing more glory and honor as it continues to stand under trial (see [[MAT.25:31]]-46; [[1CO.3:10]]-15)."
+      "context": "The incorruptible inheritance is reserved for those who have true faith, the faith that by God's grace perseveres to the end. 1:6, 7 To reach the joy and blessing of eternal life in Christ, we first experience the sadness of the passing world, along with the afflictions we must face here (see also [[JAS.1:1]]-12). To the watching world, the perseverance of the faithful during affliction appears foolish and even contemptible. But Peter shows that faith under trial is precious indeed, bearing more glory and honor as it continues to stand under trial (see [[MAT.25:31]]-46; [[1CO.3:10]]-15).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology",
+        "faith",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/NT/LUK_footnotes.md",
       "line_number": 1256,
       "raw_match": "[[1CO.3:12]]-15",
       "reference_type": "wikilink_range",
-      "context": "Fire references the proclamation of the gospel and the gift of the Holy Spirit. This fire both enlivens the faithful and judges the faithless; it purifies virtue and destroys sin (see 3:16; [[1CO.3:12]]-15)."
+      "context": "Fire references the proclamation of the gospel and the gift of the Holy Spirit. This fire both enlivens the faithful and judges the faithless; it purifies virtue and destroys sin (see 3:16; [[1CO.3:12]]-15).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "judgment"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/NT/LUK_footnotes.md",
       "line_number": 1406,
       "raw_match": "[[1CO.3:10]]-15",
       "reference_type": "wikilink_range",
-      "context": "Build a tower: See [[1CO.3:10]]-15."
+      "context": "Build a tower: See [[1CO.3:10]]-15.",
+      "edge_type": "instantiates"
     },
     {
       "source_file": "study/footnotes/OT/EZR_footnotes.md",
       "line_number": 85,
       "raw_match": "[[1CO.3:9]]-17",
       "reference_type": "wikilink_range",
-      "context": "The young Levites together with the sons of Judah begin to lay the foundation for the temple. This is fulfilled through Jesus Christ and His apostles in the building of the Church ([[MAT.21:42]]; [[1CO.3:9]]-17; [[EPH.2:19]]-22)."
+      "context": "The young Levites together with the sons of Judah begin to lay the foundation for the temple. This is fulfilled through Jesus Christ and His apostles in the building of the Church ([[MAT.21:42]]; [[1CO.3:9]]-17; [[EPH.2:19]]-22).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "priesthood",
+        "temple"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

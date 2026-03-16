@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "For you shall remember you were a servant in the land of Egypt, and the Lord your God redeemed you from that place; therefore, I command you this thing.",
   "pericope": {
     "id": "DEU.P032",
@@ -12,7 +12,9 @@
     "range": "DEU.15:11-15:17",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "exodus_typology"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 992,
       "raw_match": "[[DEU.15:12]]-15",
       "reference_type": "wikilink_range",
-      "context": "Setting his servant free comes in obedience to the Law ([[DEU.15:12]]-15)."
+      "context": "Setting his servant free comes in obedience to the Law ([[DEU.15:12]]-15).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "exodus_typology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

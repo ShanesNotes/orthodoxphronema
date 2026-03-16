@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "You shall gather all its plunder into the middle of the street, and completely burn the city and all its plunder with fire before the Lord your God. It shall be uninhabited forever; it shall never be built again.",
   "pericope": {
     "id": "DEU.P027",
@@ -12,7 +12,11 @@
     "range": "DEU.12:28-13:18",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "mercy",
+    "repentance"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +24,21 @@
       "line_number": 889,
       "raw_match": "[[DEU.13:17]]",
       "reference_type": "wikilink",
-      "context": "Christ's answer confounds the Pharisees, for He upholds a great principle of the Law--that the wages of sin is death ([[GEN.2:17]]; [[ROM.6:23]])--without neglecting its greater aspect of mercy ([[DEU.13:17]]; [[PSA.116:2]]-117:4; [[HOS.6:6]]). This mercy is offered freely to all repentant sinners. In order for us to receive this gift, we must in turn flee from sin (v. 11)."
+      "context": "Christ's answer confounds the Pharisees, for He upholds a great principle of the Law--that the wages of sin is death ([[GEN.2:17]]; [[ROM.6:23]])--without neglecting its greater aspect of mercy ([[DEU.13:17]]; [[PSA.116:2]]-117:4; [[HOS.6:6]]). This mercy is offered freely to all repentant sinners. In order for us to receive this gift, we must in turn flee from sin (v. 11).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology",
+        "mercy",
+        "repentance"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

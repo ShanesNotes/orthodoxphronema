@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "And He called the twelve to Himself, and began to send them out two by two, and gave them power over unclean spirits.",
   "pericope": {
     "id": "MRK.P023",
@@ -12,7 +12,9 @@
     "range": "MRK.6:6-6:12",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "eucharist"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,14 +22,35 @@
       "line_number": 1360,
       "raw_match": "[[MRK.6:7]]",
       "reference_type": "wikilink",
-      "context": "The other disciples said the same thing Judas said (v. 5), but with a very different motive (see [[MAT.26:6]]-13 and note). Judas spoke from greed, while the others spoke from the virtue of charity. That Jesus put a thief in charge of the money shows that by every means He attempted to save Judas: He fulfilled Judas' lust for money; He allowed Judas to exercise apostolic authority (6:11; see also [[MRK.6:7]]); He washed Judas' feet with the other disciples (13:5); and He allowed him to partake at the table of the Mystical Supper (13:26). Yet Judas could never overcome his greed (see note at [[MAT.26:14]]-16)."
+      "context": "The other disciples said the same thing Judas said (v. 5), but with a very different motive (see [[MAT.26:6]]-13 and note). Judas spoke from greed, while the others spoke from the virtue of charity. That Jesus put a thief in charge of the money shows that by every means He attempted to save Judas: He fulfilled Judas' lust for money; He allowed Judas to exercise apostolic authority (6:11; see also [[MRK.6:7]]); He washed Judas' feet with the other disciples (13:5); and He allowed him to partake at the table of the Mystical Supper (13:26). Yet Judas could never overcome his greed (see note at [[MAT.26:14]]-16).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "eucharist"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/NT/MAT_footnotes.md",
       "line_number": 1014,
       "raw_match": "[[MRK.6:7]]",
       "reference_type": "wikilink",
-      "context": "Disciples (v. 1) and apostles (v. 2) are often used interchangeably for the twelve. Disciple means \"learner,\" and apostle means \"one sent out.\" Jesus gave them power to perform miracles, while He performed them by His own power. The names of the Twelve are not the same in all lists, as many people had more than one name. The names here are given in pairs, suggesting who may have traveled together on this \"first missionary journey,\" as Mark reports they were sent out two by two ([[MRK.6:7]])."
+      "context": "Disciples (v. 1) and apostles (v. 2) are often used interchangeably for the twelve. Disciple means \"learner,\" and apostle means \"one sent out.\" Jesus gave them power to perform miracles, while He performed them by His own power. The names of the Twelve are not the same in all lists, as many people had more than one name. The names here are given in pairs, suggesting who may have traveled together on this \"first missionary journey,\" as Mark reports they were sent out two by two ([[MRK.6:7]]).",
+      "edge_type": "instantiates",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

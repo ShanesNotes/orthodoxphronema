@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "he who exhorts, in exhortation; he who gives, with liberality; he who leads, with diligence; he who shows mercy, with cheerfulness.",
   "pericope": {
     "id": "ROM.P034",
@@ -12,7 +12,9 @@
     "range": "ROM.12:6-12:20",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "mercy"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,14 +22,30 @@
       "line_number": 734,
       "raw_match": "[[ROM.12:6]]-8",
       "reference_type": "wikilink_range",
-      "context": "This list of nine gifts is not exhaustive (see 14:1-5; [[ROM.12:6]]-8; [[EPH.4:7]]-12)."
+      "context": "This list of nine gifts is not exhaustive (see 14:1-5; [[ROM.12:6]]-8; [[EPH.4:7]]-12).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "mercy"
+      ]
     },
     {
       "source_file": "study/footnotes/NT/1PE_footnotes.md",
       "line_number": 284,
       "raw_match": "[[ROM.12:4]]-10",
       "reference_type": "wikilink_range",
-      "context": "Whatever gifts God has given to His people are to be used for the glory of God and in a spirit of love (see [[ROM.12:4]]-10; 1Co 12-14)."
+      "context": "Whatever gifts God has given to His people are to be used for the glory of God and in a spirit of love (see [[ROM.12:4]]-10; 1Co 12-14).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "mercy"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

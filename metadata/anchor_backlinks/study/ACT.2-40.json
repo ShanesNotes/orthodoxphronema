@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "And with many other words he testified and exhorted them, saying, 'Be saved from this perverse generation.'",
   "pericope": {
     "id": "ACT.P009",
@@ -12,7 +12,11 @@
     "range": "ACT.2:39-2:40",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "creation_theology",
+    "faith",
+    "repentance"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +24,21 @@
       "line_number": 50,
       "raw_match": "[[ACT.2:38]]-41",
       "reference_type": "wikilink_range",
-      "context": "God's power in nature, combined with Jonah's witness, persuade the sailors to convert to the God of Israel. Later, the Spirit's presence in Jonah will convince the Ninevites to repent and seek salvation. Similarly, God's presence in creation ([[ROM.1:20]]), combined with the presence of the Holy Spirit in believers ([[ACT.2:38]]-41), draws men to God."
+      "context": "God's power in nature, combined with Jonah's witness, persuade the sailors to convert to the God of Israel. Later, the Spirit's presence in Jonah will convince the Ninevites to repent and seek salvation. Similarly, God's presence in creation ([[ROM.1:20]]), combined with the presence of the Holy Spirit in believers ([[ACT.2:38]]-41), draws men to God.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "creation_theology",
+        "faith",
+        "repentance"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

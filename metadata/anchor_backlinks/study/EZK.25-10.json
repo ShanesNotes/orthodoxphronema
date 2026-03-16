@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "I have given these cities, as well as the children of Ammon, as an inheritance to the sons of Kedem, so there may be no memory of the sons of Ammon.",
   "pericope": {
     "id": "EZK.P037",
@@ -20,7 +20,16 @@
       "line_number": 715,
       "raw_match": "[[EZK.25:10]]",
       "reference_type": "wikilink",
-      "context": "Kedar: The descendants of the son of Ishmael ([[GEN.25:13]]). The sons of Kedem were associated with the Ammonites (see [[EZK.25:4]], [[EZK.25:10]])."
+      "context": "Kedar: The descendants of the son of Ishmael ([[GEN.25:13]]). The sons of Kedem were associated with the Ammonites (see [[EZK.25:4]], [[EZK.25:10]]).",
+      "edge_type": "descends_to",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Come near to Me, hear this: I have not spoken in secret from the beginning, nor did I speak in a dark place of the earth. When it took place, I was there, and now the Lord and His Spirit have sent Me.'",
   "pericope": {
     "id": "ISA.P002",
@@ -12,7 +12,11 @@
     "range": "ISA.2:1-66:24",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "baptism",
+    "covenant",
+    "creation_theology"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +24,21 @@
       "line_number": 33,
       "raw_match": "[[ISA.48:16]]",
       "reference_type": "wikilink",
-      "context": "[[ISA.63:16]]-The Father is our Redeemer. He not only created the world but redeems it as well. [[PSA.2:7]], [[PSA.2:8]]-The Father's decree reveals the Son as inheriting the world. This inheritance is the people saved by the Son. [[ISA.6:1]]-3-The words 'Holy, Holy, Holy' declare the three Persons who save us. The name 'Lord' declares the one essence of the Three. [[ISA.44:3]]-The Father pours out His Spirit on people like water on dry ground. The Holy Spirit quenches the thirst of the person who thirsts for salvation. [[ISA.48:16]], [[ISA.48:17]]-The Son declares that the Father and the Spirit sent Him to redeem the world. Although the Son alone became a Man, all three Persons save mankind. #### The New Testament Affirms The Holy Trinity In The Old Testament"
+      "context": "[[ISA.63:16]]-The Father is our Redeemer. He not only created the world but redeems it as well. [[PSA.2:7]], [[PSA.2:8]]-The Father's decree reveals the Son as inheriting the world. This inheritance is the people saved by the Son. [[ISA.6:1]]-3-The words 'Holy, Holy, Holy' declare the three Persons who save us. The name 'Lord' declares the one essence of the Three. [[ISA.44:3]]-The Father pours out His Spirit on people like water on dry ground. The Holy Spirit quenches the thirst of the person who thirsts for salvation. [[ISA.48:16]], [[ISA.48:17]]-The Son declares that the Father and the Spirit sent Him to redeem the world. Although the Son alone became a Man, all three Persons save mankind. #### The New Testament Affirms The Holy Trinity In The Old Testament",
+      "edge_type": "comments",
+      "topic_threads": [
+        "baptism",
+        "covenant",
+        "creation_theology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "For as in Adam all die, even so in Christ all shall be made alive.",
   "pericope": {
     "id": "1CO.P035",
@@ -12,7 +12,14 @@
     "range": "1CO.15:19-15:33",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "baptism",
+    "christology",
+    "covenant",
+    "praise",
+    "priesthood",
+    "suffering"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,28 +27,82 @@
       "line_number": 22,
       "raw_match": "[[1CO.15:20]]-22",
       "reference_type": "wikilink_range",
-      "context": "In the Gospels, Christ sometimes refers to Old Testament events that typologically pointed forward to Himself, such as the serpent in the wilderness ([[NUM.21:4]]-9; [[JOH.3:14]], [[JOH.3:15]]), the manna in the wilderness ([[EXO.16:11]]-36; [[JOH.6:30]]-35, 47-51), and Jonah's three days and nights in the belly of the great fish ([[JON.2:1]]-11; [[MAT.12:39]], [[MAT.12:40]]). Saints Paul and Peter, writing under the inspiration of the Holy Spirit, also reveal truths found in Old Testament types, such as Adam/Christ ([[GEN.2:7]]-9, 15-17; [[1CO.15:20]]-22), Melchizedek/Christ ([[GEN.14:18]]-20; [[HEB.6:19]], [[HEB.6:20]]) and Noah and the Flood/Baptism ([[GEN.7:1]]-8:19; [[1PE.3:20]], [[1PE.3:21]]). Typological revelation further plays an important role in the hymns of the Church. For example: The bush on the mountain that was not consumed by fire ([[EXO.3:1]]-6), and the Chaldean furnace that brought refreshment as the dew ([[DAN.3:19]]-50), plainly prefigured thee, O Bride of God. For in a material womb, unconsumed thou hast received the divine and immaterial Fire (Matins, Nativity of the Theotokos). With the Old Testament looking forward to the New through types, theophanies, and prophecies, and the New, in antitypes and fulfillment, pointing back to the Old, the essential unity of the two Testaments within one comprehensive Testament is revealed. As St. Maximus observes, 'The Old and New Testaments together form a single mystery.'"
+      "context": "In the Gospels, Christ sometimes refers to Old Testament events that typologically pointed forward to Himself, such as the serpent in the wilderness ([[NUM.21:4]]-9; [[JOH.3:14]], [[JOH.3:15]]), the manna in the wilderness ([[EXO.16:11]]-36; [[JOH.6:30]]-35, 47-51), and Jonah's three days and nights in the belly of the great fish ([[JON.2:1]]-11; [[MAT.12:39]], [[MAT.12:40]]). Saints Paul and Peter, writing under the inspiration of the Holy Spirit, also reveal truths found in Old Testament types, such as Adam/Christ ([[GEN.2:7]]-9, 15-17; [[1CO.15:20]]-22), Melchizedek/Christ ([[GEN.14:18]]-20; [[HEB.6:19]], [[HEB.6:20]]) and Noah and the Flood/Baptism ([[GEN.7:1]]-8:19; [[1PE.3:20]], [[1PE.3:21]]). Typological revelation further plays an important role in the hymns of the Church. For example: The bush on the mountain that was not consumed by fire ([[EXO.3:1]]-6), and the Chaldean furnace that brought refreshment as the dew ([[DAN.3:19]]-50), plainly prefigured thee, O Bride of God. For in a material womb, unconsumed thou hast received the divine and immaterial Fire (Matins, Nativity of the Theotokos). With the Old Testament looking forward to the New through types, theophanies, and prophecies, and the New, in antitypes and fulfillment, pointing back to the Old, the essential unity of the two Testaments within one comprehensive Testament is revealed. As St. Maximus observes, 'The Old and New Testaments together form a single mystery.'",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "baptism",
+        "christology",
+        "covenant",
+        "praise",
+        "priesthood"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/NT/LUK_footnotes.md",
       "line_number": 2035,
       "raw_match": "[[1CO.15:20]]-28",
       "reference_type": "wikilink_range",
-      "context": "Jesus does not have His life taken from Him, but will voluntarily commit it to the Father. His was the first human soul not to be taken to Hades; instead it was freely given into the hands of God. Thus, Christ frees all of humanity from death's grip. His death reconciles mankind to God, not by satisfying the Father's need for blood-justice as some might teach, but by causing every aspect of our corrupt human nature to be transformed, for whatever divinity touches is healed. Christ accepts human nature in order to sanctify human nature; He accepts our weakness in order to make us strong; He takes on our sin in order to free us from sin; He suffers in order to transfigure suffering; and He enters death in order to destroy it ([[1CO.15:20]]-28; see note at [[MAT.27:50]])."
+      "context": "Jesus does not have His life taken from Him, but will voluntarily commit it to the Father. His was the first human soul not to be taken to Hades; instead it was freely given into the hands of God. Thus, Christ frees all of humanity from death's grip. His death reconciles mankind to God, not by satisfying the Father's need for blood-justice as some might teach, but by causing every aspect of our corrupt human nature to be transformed, for whatever divinity touches is healed. Christ accepts human nature in order to sanctify human nature; He accepts our weakness in order to make us strong; He takes on our sin in order to free us from sin; He suffers in order to transfigure suffering; and He enters death in order to destroy it ([[1CO.15:20]]-28; see note at [[MAT.27:50]]).",
+      "edge_type": "ascends_from",
+      "topic_threads": [
+        "christology",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/NT/MAT_footnotes.md",
       "line_number": 2472,
       "raw_match": "[[1CO.15:20]]-28",
       "reference_type": "wikilink_range",
-      "context": "Yielded up His spirit: Christ's death was voluntary to the very end, for even on the Cross, His life could not be taken from Him against His will. Christ accepts death on the Cross neither to receive the Father's punishment on our behalf, nor to satisfy the Father's need for blood-justice (as if God would demand such things), but so that by entering death as the divine Son of God, He can destroy this last enemy, which is death itself ([[1CO.15:20]]-28; see note at [[LUK.23:46]])."
+      "context": "Yielded up His spirit: Christ's death was voluntary to the very end, for even on the Cross, His life could not be taken from Him against His will. Christ accepts death on the Cross neither to receive the Father's punishment on our behalf, nor to satisfy the Father's need for blood-justice (as if God would demand such things), but so that by entering death as the divine Son of God, He can destroy this last enemy, which is death itself ([[1CO.15:20]]-28; see note at [[LUK.23:46]]).",
+      "edge_type": "opposes",
+      "topic_threads": [
+        "christology",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/NT/MAT_footnotes.md",
       "line_number": 2553,
       "raw_match": "[[1CO.15:20]]-28",
       "reference_type": "wikilink_range",
-      "context": "All authority has been given to Me: Christ declares that the authority that was His by nature in His divinity is now also possessed by His glorified human nature. This human nature has now trampled the final enemy--death ([[1CO.15:20]]-28)."
+      "context": "All authority has been given to Me: Christ declares that the authority that was His by nature in His divinity is now also possessed by His glorified human nature. This human nature has now trampled the final enemy--death ([[1CO.15:20]]-28).",
+      "edge_type": "ascends_from",
+      "topic_threads": [
+        "christology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

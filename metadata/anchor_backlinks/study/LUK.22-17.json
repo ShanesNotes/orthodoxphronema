@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Then He took the cup, and gave thanks, and said, 'Take this and divide it among yourselves;",
   "pericope": {
     "id": "LUK.P105",
@@ -12,7 +12,12 @@
     "range": "LUK.22:6-22:18",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "baptism",
+    "eucharist",
+    "mercy",
+    "shepherd"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +25,22 @@
       "line_number": 275,
       "raw_match": "[[LUK.22:14]]-20",
       "reference_type": "wikilink_range",
-      "context": "Ps 22 is the Church speaking about the Lord Jesus (vv. 1-3) and to the Lord Jesus (vv. 4-6). In speaking about the Lord, the Church (the sheep; see also [[JOH.10:1]]-5) identifies Him as my shepherd (v. 1; see also [[JOH.10:14]]), thus indicating a close relationship with Him. And in this relationship of Shepherd and sheep, the Church lacks nothing, for example, the green pastures of kingdom life (v. 2; see also [[JOH.10:10]]); the still waters of baptism (v. 2; see also [[JOH.3:5]]); and the conversion of the soul to the paths of righteousness (v. 3; see also [[JOH.10:3]], [[JOH.10:4]], [[JOH.10:7]]). And in speaking to the Lord, the Church is grateful to Him (1) for deliverance from the fear of death (v. 4; see also [[HEB.2:14]], [[HEB.2:15]]); (2) for the Eucharist (v. 5; see also [[LUK.22:14]]-20); and (3) for a lifetime of mercy (v. 6; see also [[LUK.1:50]], [[LUK.1:54]])."
+      "context": "Ps 22 is the Church speaking about the Lord Jesus (vv. 1-3) and to the Lord Jesus (vv. 4-6). In speaking about the Lord, the Church (the sheep; see also [[JOH.10:1]]-5) identifies Him as my shepherd (v. 1; see also [[JOH.10:14]]), thus indicating a close relationship with Him. And in this relationship of Shepherd and sheep, the Church lacks nothing, for example, the green pastures of kingdom life (v. 2; see also [[JOH.10:10]]); the still waters of baptism (v. 2; see also [[JOH.3:5]]); and the conversion of the soul to the paths of righteousness (v. 3; see also [[JOH.10:3]], [[JOH.10:4]], [[JOH.10:7]]). And in speaking to the Lord, the Church is grateful to Him (1) for deliverance from the fear of death (v. 4; see also [[HEB.2:14]], [[HEB.2:15]]); (2) for the Eucharist (v. 5; see also [[LUK.22:14]]-20); and (3) for a lifetime of mercy (v. 6; see also [[LUK.1:50]], [[LUK.1:54]]).",
+      "edge_type": "opposes",
+      "topic_threads": [
+        "baptism",
+        "eucharist",
+        "mercy",
+        "shepherd"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "So the whole assembly of those who had returned from the captivity made booths and sat under the booths; for since the days of Joshua the son of Nun until that day the sons of Israel had not done so. And there was very great gladness.",
   "pericope": {
     "id": "NEH.P024",
@@ -20,7 +20,16 @@
       "line_number": 55,
       "raw_match": "[[NEH.8:13]]-18",
       "reference_type": "wikilink_range",
-      "context": "It is noteworthy that an eighth day was added to this celebration (see [[NEH.8:13]]-18). This section of 2 Maccabees is referring to the feast of Hanukkah, which celebrates fire and light (see note at 1:9)."
+      "context": "It is noteworthy that an eighth day was added to this celebration (see [[NEH.8:13]]-18). This section of 2 Maccabees is referring to the feast of Hanukkah, which celebrates fire and light (see note at 1:9).",
+      "edge_type": "echoes",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

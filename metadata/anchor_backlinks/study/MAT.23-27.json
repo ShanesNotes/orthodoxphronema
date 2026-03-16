@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "'Woe to you, scribes and Pharisees, hypocrites! For you are like whitewashed tombs which indeed appear beautiful outwardly, but inside are full of dead men's bones and all uncleanness.",
   "pericope": {
     "id": "MAT.P075",
@@ -12,7 +12,13 @@
     "range": "MAT.22:46-24:1",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "covenant",
+    "faith",
+    "mercy",
+    "priesthood"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +26,23 @@
       "line_number": 219,
       "raw_match": "[[MAT.23:27]]",
       "reference_type": "wikilink",
-      "context": "Christ condemns the Pharisees with similar language, calling them \"whitewashed tombs\" ([[MAT.23:27]]), while Paul calls the high priest Ananias a \"whitewashed wall\" (Acts 23:3). 14:12-14 God sometimes uses evil to bring good. For instance, God will cut off the supply of food so that hardship might bring His people back to Him. None but the likes of righteous Noah, Daniel, and Job--all of whom typify Christ--would listen. Yet in His mercy, the Lord leads \"sons and daughters\" (v. 22), who typify the Church, to salvation. 15:1, 2 Chapters 15-17 reveal the passing away of the old covenant and the coming of the new covenant in Christ. Chapters 15 and 17 are parables, while ch. 16 speaks of God's love for lawless Jerusalem. The vine is an image of Israel under the old covenant, which was replaced when Christ, the \"true vine,\" came (see [[JOH.15:1]]-6). The branches in the forest typify the Gentile nations from which believers will be \"grafted into\" the vine (see Rom 11:17-25)."
+      "context": "Christ condemns the Pharisees with similar language, calling them \"whitewashed tombs\" ([[MAT.23:27]]), while Paul calls the high priest Ananias a \"whitewashed wall\" (Acts 23:3). 14:12-14 God sometimes uses evil to bring good. For instance, God will cut off the supply of food so that hardship might bring His people back to Him. None but the likes of righteous Noah, Daniel, and Job--all of whom typify Christ--would listen. Yet in His mercy, the Lord leads \"sons and daughters\" (v. 22), who typify the Church, to salvation. 15:1, 2 Chapters 15-17 reveal the passing away of the old covenant and the coming of the new covenant in Christ. Chapters 15 and 17 are parables, while ch. 16 speaks of God's love for lawless Jerusalem. The vine is an image of Israel under the old covenant, which was replaced when Christ, the \"true vine,\" came (see [[JOH.15:1]]-6). The branches in the forest typify the Gentile nations from which believers will be \"grafted into\" the vine (see Rom 11:17-25).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology",
+        "covenant",
+        "faith",
+        "mercy",
+        "priesthood"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 2,
+        "title": "Coming Full Circle: The Copernican Revolution",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

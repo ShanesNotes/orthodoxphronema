@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "The men of Nineveh will rise up in the judgment with this generation and condemn it, for they repented at the preaching of Jonah; and indeed agreater than Jonah is here.",
   "pericope": {
     "id": "LUK.P057",
@@ -12,7 +12,11 @@
     "range": "LUK.11:32-11:35",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "judgment",
+    "repentance"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +24,21 @@
       "line_number": 87,
       "raw_match": "[[LUK.11:29]]-33",
       "reference_type": "wikilink_range",
-      "context": "Israel rejected Christ, but the Gentiles received Him ([[LUK.11:29]]-33)."
+      "context": "Israel rejected Christ, but the Gentiles received Him ([[LUK.11:29]]-33).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "judgment",
+        "repentance"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

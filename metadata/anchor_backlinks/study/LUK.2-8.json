@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "The Witness of the Shepherds Now there were in the same country shepherds living out in the fields, keeping watch over their flock by night.",
   "pericope": {
     "id": "LUK.P007",
@@ -12,7 +12,11 @@
     "range": "LUK.1:79-2:19",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "praise",
+    "shepherd"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +24,21 @@
       "line_number": 125,
       "raw_match": "[[LUK.2:8]]-20",
       "reference_type": "wikilink_range",
-      "context": "Into the house: Whereas the Jewish shepherds worshiped the Savior in the cave on the day He was born ([[LUK.2:8]]-20), the Gentile magi came to worship Him some time later. By then, Joseph and Mary had found a house in which to dwell. This indicates that Christ first came to the Jews and then afterward was worshiped by the Gentiles. The significance of the Magi's gifts is revealed in a hymn sung at Compline of the Nativity: \"Gold is for the King of ages. Frankincense is for the God of all. Myrrh is offered to the Immortal One, who shall be three days dead.\""
+      "context": "Into the house: Whereas the Jewish shepherds worshiped the Savior in the cave on the day He was born ([[LUK.2:8]]-20), the Gentile magi came to worship Him some time later. By then, Joseph and Mary had found a house in which to dwell. This indicates that Christ first came to the Jews and then afterward was worshiped by the Gentiles. The significance of the Magi's gifts is revealed in a hymn sung at Compline of the Nativity: \"Gold is for the King of ages. Frankincense is for the God of all. Myrrh is offered to the Immortal One, who shall be three days dead.\"",
+      "edge_type": "opposes",
+      "topic_threads": [
+        "christology",
+        "praise",
+        "shepherd"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

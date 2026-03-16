@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Now Aaron shall make atonement upon its horns once a year, purging it with the blood of purification throughout your generations. It is most holy to the Lord.'",
   "pericope": {
     "id": "EXO.P063",
@@ -12,7 +12,9 @@
     "range": "EXO.30:10-30:15",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "priesthood"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 45,
       "raw_match": "[[EXO.30:10]]",
       "reference_type": "wikilink",
-      "context": "Evidently, Ptolemy thought the Jews were making up the law to keep him out. They read him the law to try to convince him ([[EXO.30:10]]; Lv 16:2, 11, 12, 15, 34). The king feels slighted and sees the high priest as beneath him."
+      "context": "Evidently, Ptolemy thought the Jews were making up the law to keep him out. They read him the law to try to convince him ([[EXO.30:10]]; Lv 16:2, 11, 12, 15, 34). The king feels slighted and sees the high priest as beneath him.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "priesthood"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "'Not one of these men shall see this good land I swore to give their fathers",
   "pericope": {
     "id": "DEU.P004",
@@ -12,7 +12,9 @@
     "range": "DEU.1:32-1:45",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "exodus_typology"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 249,
       "raw_match": "[[DEU.1:34]]-40",
       "reference_type": "wikilink_range",
-      "context": "Joshua and Caleb were the only two men who left Egypt and entered into Canaan (Nm 14:28-32; [[DEU.1:34]]-40). They had not participated in the disobedience of Egypt. The possession of Canaan under Joshua, though, was not the promised rest. Otherwise, David would not have spoken centuries later of a rest still remaining for us."
+      "context": "Joshua and Caleb were the only two men who left Egypt and entered into Canaan (Nm 14:28-32; [[DEU.1:34]]-40). They had not participated in the disobedience of Egypt. The possession of Canaan under Joshua, though, was not the promised rest. Otherwise, David would not have spoken centuries later of a rest still remaining for us.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "exodus_typology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

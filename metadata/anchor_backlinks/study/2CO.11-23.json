@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Are they ministers of Christ?-I speak as a fool-I am more: in labors more abundant, in stripes above measure, in prisons more frequently, in deaths often.",
   "pericope": {
     "id": "2CO.P033",
@@ -12,7 +12,10 @@
     "range": "2CO.11:21-11:32",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "faith"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 214,
       "raw_match": "[[2CO.11:13]]-23",
       "reference_type": "wikilink_range",
-      "context": "The Ephesian church had persevered in orthodox faith and moral uprightness, but had left its first love (v. 4), presumably for God and each other. False apostles were a serious problem in the early Church (see [[2CO.11:13]]-23), and Paul warned they would ravage the church of Ephesus ([[ACT.20:29]]). However, in the early second century, St. Ignatius of Antioch praised the Ephesians for their continuing resistance to heresy. The lampstand (v. 5) is probably the Ephesian church's honor as the metropolitan church of Asia."
+      "context": "The Ephesian church had persevered in orthodox faith and moral uprightness, but had left its first love (v. 4), presumably for God and each other. False apostles were a serious problem in the early Church (see [[2CO.11:13]]-23), and Paul warned they would ravage the church of Ephesus ([[ACT.20:29]]). However, in the early second century, St. Ignatius of Antioch praised the Ephesians for their continuing resistance to heresy. The lampstand (v. 5) is probably the Ephesian church's honor as the metropolitan church of Asia.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology",
+        "faith"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

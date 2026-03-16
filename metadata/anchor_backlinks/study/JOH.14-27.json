@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Peace I leave with you, My peace I give to you; not as the world gives do I give to you. Let not your heart be troubled, neither let it be afraid.",
   "pericope": {
     "id": "JOH.P054",
@@ -12,7 +12,11 @@
     "range": "JOH.14:24-14:30",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "creation_theology",
+    "prayer"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,14 +24,39 @@
       "line_number": 35,
       "raw_match": "[[JOH.14:27]]",
       "reference_type": "wikilink",
-      "context": "Grace is God's unlimited, unconditional, uncreated love, freely given to those who do not deserve it. Peace is our reconciliation with God and with each other. \"Peace to you,\" found repeatedly in the OT, is the common everyday greeting then and now throughout the Middle East. \"Peace be to you\" in the Orthodox Divine Liturgy is connected to the reading of the Gospel, the kiss of peace, and the Lord's Prayer. Jesus gave to the disciples the gift of peace, which is the presence of the Holy Spirit ([[JOH.14:27]]; 20:19)."
+      "context": "Grace is God's unlimited, unconditional, uncreated love, freely given to those who do not deserve it. Peace is our reconciliation with God and with each other. \"Peace to you,\" found repeatedly in the OT, is the common everyday greeting then and now throughout the Middle East. \"Peace be to you\" in the Orthodox Divine Liturgy is connected to the reading of the Gospel, the kiss of peace, and the Lord's Prayer. Jesus gave to the disciples the gift of peace, which is the presence of the Holy Spirit ([[JOH.14:27]]; 20:19).",
+      "edge_type": "echoes",
+      "topic_threads": [
+        "creation_theology",
+        "prayer"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/NT/MAT_footnotes.md",
       "line_number": 1031,
       "raw_match": "[[JOH.14:27]]",
       "reference_type": "wikilink",
-      "context": "Christ commissions His servants to give a greeting of peace, the same peace that was proclaimed by the prophets (Is 52:7), that He would offer to the disciples ([[JOH.14:27]]; 20:19), and that would be revealed as a fruit of the Holy Spirit ([[GAL.5:22]]). To this day, Christ's peace is offered to the faithful in the Liturgy with the words, \"Peace be to all.\""
+      "context": "Christ commissions His servants to give a greeting of peace, the same peace that was proclaimed by the prophets (Is 52:7), that He would offer to the disciples ([[JOH.14:27]]; 20:19), and that would be revealed as a fruit of the Holy Spirit ([[GAL.5:22]]). To this day, Christ's peace is offered to the faithful in the Liturgy with the words, \"Peace be to all.\"",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

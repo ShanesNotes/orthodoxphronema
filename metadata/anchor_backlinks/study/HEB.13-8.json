@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Jesus Christ is the same yesterday, today, and forever.",
   "pericope": {
     "id": "HEB.P037",
@@ -12,7 +12,14 @@
     "range": "HEB.13:8-13:15",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "eschatology",
+    "exodus_typology",
+    "kingdom",
+    "praise",
+    "repentance"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,21 +27,62 @@
       "line_number": 55,
       "raw_match": "[[HEB.13:8]]",
       "reference_type": "wikilink",
-      "context": "Church tradition maintains St. John dwelt and was bishop in Ephesus, in an area where the seven churches were located along a major roadway. The number seven signifies fullness, suggesting the entire Church is also in view. The doxology is Trinitarian, involving the Father (vv. 4, 6), the Spirit (v. 4), and the Son (vv. 5, 6). This initial greeting (lit., \"the Existing, the Was, and the Coming\") may express the Father, the one who is ([[EXO.3:14]]); the Son, who was ([[JOH.1:1]]); and the Holy Spirit, who is to come (Acts 2) at Pentecost and shall always be present. Or it may denote the character of the Holy One, who is eternally present and exercises lordship throughout history (see [[HEB.13:8]]). God reveals the meaning of the present in light of the past and the age to come. This title may be a paraphrase of the Tetragrammaton, YHWH (\"I Am\"), of [[EXO.3:14]]. Seven is the number of fullness or completion. The seven Spirits of God most likely refers to the Holy Spirit and His several gifts, as this phrase is included in the blessing with the Father and the Son. Alternately the term could refer to the seven archangels who, according to Jewish tradition, stand before the throne of God (Tb 12:15; see also 1En 20:1-8; 90:21, 22; TLev 8:2)."
+      "context": "Church tradition maintains St. John dwelt and was bishop in Ephesus, in an area where the seven churches were located along a major roadway. The number seven signifies fullness, suggesting the entire Church is also in view. The doxology is Trinitarian, involving the Father (vv. 4, 6), the Spirit (v. 4), and the Son (vv. 5, 6). This initial greeting (lit., \"the Existing, the Was, and the Coming\") may express the Father, the one who is ([[EXO.3:14]]); the Son, who was ([[JOH.1:1]]); and the Holy Spirit, who is to come (Acts 2) at Pentecost and shall always be present. Or it may denote the character of the Holy One, who is eternally present and exercises lordship throughout history (see [[HEB.13:8]]). God reveals the meaning of the present in light of the past and the age to come. This title may be a paraphrase of the Tetragrammaton, YHWH (\"I Am\"), of [[EXO.3:14]]. Seven is the number of fullness or completion. The seven Spirits of God most likely refers to the Holy Spirit and His several gifts, as this phrase is included in the blessing with the Father and the Son. Alternately the term could refer to the seven archangels who, according to Jewish tradition, stand before the throne of God (Tb 12:15; see also 1En 20:1-8; 90:21, 22; TLev 8:2).",
+      "edge_type": "echoes",
+      "topic_threads": [
+        "christology",
+        "eschatology",
+        "kingdom",
+        "praise"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/MAL_footnotes.md",
       "line_number": 135,
       "raw_match": "[[HEB.13:8]]",
       "reference_type": "wikilink",
-      "context": ", 7 God has not changed and does not change. The Scriptures ([[HEB.13:8]]) and the Church Fathers apply this verse to Christ."
+      "context": ", 7 God has not changed and does not change. The Scriptures ([[HEB.13:8]]) and the Church Fathers apply this verse to Christ.",
+      "edge_type": "witnesses",
+      "topic_threads": [
+        "christology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/ZEC_footnotes.md",
       "line_number": 65,
       "raw_match": "[[HEB.13:8]]",
       "reference_type": "wikilink",
-      "context": "Zechariah asks a question that plagues humanity: Where are your fathers and the prophets? He reminds them of their own mortality by reminding them of the death of their fathers and the prophets. The prophets and their fathers are dead and buried in Mesopotamia because they did not repent. Zechariah is also presenting a contrast between men, who are transient and mortal, and God, who is immortal and transcendent. The previous generation is dead and gone, but God lives and remains the same. As Paul exclaims, \"Jesus Christ is the same yesterday, today, and forever\" ([[HEB.13:8]])."
+      "context": "Zechariah asks a question that plagues humanity: Where are your fathers and the prophets? He reminds them of their own mortality by reminding them of the death of their fathers and the prophets. The prophets and their fathers are dead and buried in Mesopotamia because they did not repent. Zechariah is also presenting a contrast between men, who are transient and mortal, and God, who is immortal and transcendent. The previous generation is dead and gone, but God lives and remains the same. As Paul exclaims, \"Jesus Christ is the same yesterday, today, and forever\" ([[HEB.13:8]]).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "exodus_typology",
+        "repentance"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 6,
+        "title": "The Universe As a Language",
+        "polarity": "generation",
+        "operation": "descend",
+        "scale": "communal"
+      }
     }
   ]
 }

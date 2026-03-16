@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "The height of one pillar was eighteen cubits, and the capital on it was of bronze. The height of the capital was three cubits, and the network and pomegranates all around the capital were all of bronze. The second pillar was the same, with a network.",
   "pericope": {
     "id": "2KI.P069",
@@ -12,7 +12,11 @@
     "range": "2KI.25:7-25:20",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "judgment",
+    "priesthood",
+    "repentance"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,14 +24,37 @@
       "line_number": 368,
       "raw_match": "[[2KI.25:8]]-21",
       "reference_type": "wikilink_range",
-      "context": "God's judgment on Judah is justified, for the priests and the people have gone beyond the point of no return and will not repent (see [[2KI.25:8]]-21). Seventy years (v. 29) is the approximate time of the exile in Babylon (see also [[JER.25:9]]-12; 27:6-8; 29:10; Lv 26:34-43)."
+      "context": "God's judgment on Judah is justified, for the priests and the people have gone beyond the point of no return and will not repent (see [[2KI.25:8]]-21). Seventy years (v. 29) is the approximate time of the exile in Babylon (see also [[JER.25:9]]-12; 27:6-8; 29:10; Lv 26:34-43).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "judgment",
+        "priesthood",
+        "repentance"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/SIR_footnotes.md",
       "line_number": 1694,
       "raw_match": "[[2KI.25:1]]-21",
       "reference_type": "wikilink_range",
-      "context": ", 7 The sad prophecies of Jeremiah were a great burden to him. On one occasion he determined not to speak them, but could not hold them back ([[JER.20:9]]). His prophecies about the destruction and burning of Jerusalem were completely fulfilled (see [[JER.38:14]]- 39:10; 52:12, 13; [[2KI.25:1]]-21)."
+      "context": ", 7 The sad prophecies of Jeremiah were a great burden to him. On one occasion he determined not to speak them, but could not hold them back ([[JER.20:9]]). His prophecies about the destruction and burning of Jerusalem were completely fulfilled (see [[JER.38:14]]- 39:10; 52:12, 13; [[2KI.25:1]]-21).",
+      "edge_type": "fulfills",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "If any of you are scattered from one end of heaven to the other end, from there the Lord your God will gather you, and from there the Lord your God will bring you.",
   "pericope": {
     "id": "DEU.P062",
@@ -12,7 +12,9 @@
     "range": "DEU.29:28-30:18",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "prayer"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 50,
       "raw_match": "[[DEU.30:1]]-5",
       "reference_type": "wikilink_range",
-      "context": "No indeed is Nehemiah's way of saying, \"I'm not putting up with the damaged state of the walls and gates of Jerusalem.\" Nehemiah's prayer reflects his devotion to the words of Scripture. The phrase great and awesome God is from [[DEU.7:21]]. Verses 8 and 9 quote [[DEU.30:1]]-5. This man... the king is Artaxerxes I, under whom Nehemiah held the office of cupbearer (v. 11). He it is who would grant Nehemiah's request to return to Jerusalem (2:6-8)."
+      "context": "No indeed is Nehemiah's way of saying, \"I'm not putting up with the damaged state of the walls and gates of Jerusalem.\" Nehemiah's prayer reflects his devotion to the words of Scripture. The phrase great and awesome God is from [[DEU.7:21]]. Verses 8 and 9 quote [[DEU.30:1]]-5. This man... the king is Artaxerxes I, under whom Nehemiah held the office of cupbearer (v. 11). He it is who would grant Nehemiah's request to return to Jerusalem (2:6-8).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "prayer"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "For consider Him who endured such hostility from sinners against Himself, lest you become weary and discouraged in your souls.",
   "pericope": {
     "id": "HEB.P034",
@@ -12,7 +12,9 @@
     "range": "HEB.12:1-12:26",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 285,
       "raw_match": "[[HEB.12:1]]-3",
       "reference_type": "wikilink_range",
-      "context": "The faithful are still strangers and sojourners on this earth, but are now in Christ, who has given us strength to run \"the race that is set before us\" ([[HEB.12:1]]-3)."
+      "context": "The faithful are still strangers and sojourners on this earth, but are now in Christ, who has given us strength to run \"the race that is set before us\" ([[HEB.12:1]]-3).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

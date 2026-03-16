@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "The news resounded in the valley of judgment, for the day of the Lord is near in the valley of judgment.",
   "pericope": {
     "id": "JOL.P005",
@@ -12,7 +12,10 @@
     "range": "JOL.2:28-3:21",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "judgment"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 1260,
       "raw_match": "[[JOL.3:12]]-14",
       "reference_type": "wikilink_range",
-      "context": "In the OT, metaphors of sowing and harvesting are common ([[PSA.125:5]]; [[JER.38:27]]- 30; [[HOS.2:21]]-23; [[JOL.3:12]]-14), as this was a part of daily life. Here, Jesus reveals Himself as the promised Messiah, the sower in the earth, who had been foretold in Is 55:10-13."
+      "context": "In the OT, metaphors of sowing and harvesting are common ([[PSA.125:5]]; [[JER.38:27]]- 30; [[HOS.2:21]]-23; [[JOL.3:12]]-14), as this was a part of daily life. Here, Jesus reveals Himself as the promised Messiah, the sower in the earth, who had been foretold in Is 55:10-13.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology",
+        "judgment"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 6,
+        "title": "The Universe As a Language",
+        "polarity": "generation",
+        "operation": "descend",
+        "scale": "communal"
+      }
     }
   ]
 }

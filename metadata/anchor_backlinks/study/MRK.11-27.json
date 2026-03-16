@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Then they came again to Jerusalem. And as He was walking in the temple, the chief priests, the scribes, and the elders came to Him.",
   "pericope": {
     "id": "MRK.P038",
@@ -12,7 +12,10 @@
     "range": "MRK.10:52-11:33",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "priesthood",
+    "temple"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 746,
       "raw_match": "[[MRK.11:27]]-33",
       "reference_type": "wikilink_range",
-      "context": "See [[MRK.11:27]]-33."
+      "context": "See [[MRK.11:27]]-33.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "priesthood",
+        "temple"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

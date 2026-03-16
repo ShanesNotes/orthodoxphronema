@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "'If any man should shrink back, My soul will not be well pleased in him; but the righteous shall live by My faith.",
   "pericope": {
     "id": "HAB.P002",
@@ -12,7 +12,12 @@
     "range": "HAB.2:1-2:20",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "covenant",
+    "eucharist",
+    "faith"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +25,22 @@
       "line_number": 89,
       "raw_match": "[[HAB.2:4]]",
       "reference_type": "wikilink",
-      "context": "The righteousness of God is to be in a continuous state of communion with Him. This state of being right with God originates with God and is accepted by mankind in faith. From faith to faith: We first receive Jesus Christ by faith and then live in Him by that faith. \"The just shall live by faith\" is one of the passages of the OT ([[HAB.2:4]]) most quoted in the NT. It shows the harmony between both testaments and summarizes the theme of Romans: faith is a way of life. The righteous (just means \"righteous\") are those who not only believe, but live righteously in accordance with their faith."
+      "context": "The righteousness of God is to be in a continuous state of communion with Him. This state of being right with God originates with God and is accepted by mankind in faith. From faith to faith: We first receive Jesus Christ by faith and then live in Him by that faith. \"The just shall live by faith\" is one of the passages of the OT ([[HAB.2:4]]) most quoted in the NT. It shows the harmony between both testaments and summarizes the theme of Romans: faith is a way of life. The righteous (just means \"righteous\") are those who not only believe, but live righteously in accordance with their faith.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology",
+        "covenant",
+        "eucharist",
+        "faith"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

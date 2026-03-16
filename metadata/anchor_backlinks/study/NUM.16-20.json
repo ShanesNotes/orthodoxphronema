@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "The Lord then spoke to Moses and Aaron, saying,",
   "pericope": {
     "id": "NUM.P037",
@@ -20,7 +20,16 @@
       "line_number": 82,
       "raw_match": "[[NUM.16:1]]-35",
       "reference_type": "wikilink_range",
-      "context": "A threefold woe or warning of great sorrow, using a triad of Israel's most famous offenders: (1) Cain ([[GEN.4:3]]-24) sinned by faithlessness and envy, especially over an honor given to another. His sin led to murder ([[GEN.4:16]]-24). (2) Balaam (Nm 22-24) sinned by greed, which led to lying and an all-out assault upon the truth, which he knew as well. (3) Korah ([[NUM.16:1]]-35) sinned by ambition, pride, and arrogance, grasping for leadership against God's will. His sin led to blatant rebellion against God."
+      "context": "A threefold woe or warning of great sorrow, using a triad of Israel's most famous offenders: (1) Cain ([[GEN.4:3]]-24) sinned by faithlessness and envy, especially over an honor given to another. His sin led to murder ([[GEN.4:16]]-24). (2) Balaam (Nm 22-24) sinned by greed, which led to lying and an all-out assault upon the truth, which he knew as well. (3) Korah ([[NUM.16:1]]-35) sinned by ambition, pride, and arrogance, grasping for leadership against God's will. His sin led to blatant rebellion against God.",
+      "edge_type": "instantiates",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

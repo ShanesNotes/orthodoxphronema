@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "His eye is too pure to see evil, and You are not able to look upon affliction. Why then do You pay attention to those who scoff and keep silence when the ungodly swallow up the just?",
   "pericope": {
     "id": "HAB.P001",
@@ -12,7 +12,9 @@
     "range": "HAB.1:1-1:17",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "suffering"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 535,
       "raw_match": "[[HAB.1:13]]",
       "reference_type": "wikilink",
-      "context": "\"Not only does the Lord not countenance wrongs, but He does not even wish to look on them\" (JohnChr; see [[HAB.1:13]])."
+      "context": "\"Not only does the Lord not countenance wrongs, but He does not even wish to look on them\" (JohnChr; see [[HAB.1:13]]).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

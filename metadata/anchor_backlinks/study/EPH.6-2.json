@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "'Honor your father and mother,' which is the first commandment with promise:",
   "pericope": {
     "id": "EPH.P016",
@@ -20,7 +20,16 @@
       "line_number": 784,
       "raw_match": "[[EPH.6:2]]",
       "reference_type": "wikilink",
-      "context": "God offers no rewards in the prohibitions of the Ten Commandments. God's promise of reward is offered to those who keep the positive ones. For example, to honor one's father and mother is the first commandment in the Ten to promise a reward, namely, a long and spiritually prosperous life on earth ([[EPH.6:1]], [[EPH.6:2]]; JohnChr)."
+      "context": "God offers no rewards in the prohibitions of the Ten Commandments. God's promise of reward is offered to those who keep the positive ones. For example, to honor one's father and mother is the first commandment in the Ten to promise a reward, namely, a long and spiritually prosperous life on earth ([[EPH.6:1]], [[EPH.6:2]]; JohnChr).",
+      "edge_type": "fulfills",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

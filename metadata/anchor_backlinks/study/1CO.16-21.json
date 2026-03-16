@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Greet one another with aholy kiss. The salutation with my own hand-Paul's.",
   "pericope": {
     "id": "1CO.P042",
@@ -20,7 +20,16 @@
       "line_number": 1155,
       "raw_match": "[[1CO.16:21]]",
       "reference_type": "wikilink",
-      "context": "While Paul is the author of this epistle (1:1), Tertius wrote it down as Paul's secretary. Paul frequently dictated his epistles to a scribe ([[1CO.16:21]]; [[COL.4:18]]; [[2TH.2:17]]; Phm 19)."
+      "context": "While Paul is the author of this epistle (1:1), Tertius wrote it down as Paul's secretary. Paul frequently dictated his epistles to a scribe ([[1CO.16:21]]; [[COL.4:18]]; [[2TH.2:17]]; Phm 19).",
+      "edge_type": "instantiates",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

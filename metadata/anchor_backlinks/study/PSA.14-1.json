@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-15T23:42:04+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "A psalm by David. O Lord, who shall dwell in Your tabernacle? Who shall live in Your holy mountain?",
   "pericope": {
     "id": "PSA.P014",
@@ -12,7 +12,10 @@
     "range": "PSA.14:1-14:5",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "praise",
+    "temple"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 32,
       "raw_match": "[[PSA.14:1]]",
       "reference_type": "wikilink",
-      "context": "**14:1** \u2014 [[PSA.14:1]] is used in Orthros for the Feast of the Transfiguration."
+      "context": "**14:1** \u2014 [[PSA.14:1]] is used in Orthros for the Feast of the Transfiguration.",
+      "edge_type": "echoes",
+      "topic_threads": [
+        "praise",
+        "temple"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

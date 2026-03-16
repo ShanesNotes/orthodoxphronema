@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "But Peter and the other apostles answered and said: 'We ought to obey God rather than men.",
   "pericope": {
     "id": "ACT.P019",
@@ -20,7 +20,16 @@
       "line_number": 770,
       "raw_match": "[[ACT.5:29]]",
       "reference_type": "wikilink",
-      "context": "St. Basil the Great teaches there are three reasons, all biblical and all God-given, that people follow the Lord: (1) fear (Pr 1:7); (2) obedience, a recognition that because He is God we must follow Him ([[ACT.5:29]]); and (3) love ([[1JN.4:19]]). And while we must aim to do all things out of love, we also must not cease fearing God and obeying Him. To a church preoccupied with tongues, Paul teaches the ultimate gift: love."
+      "context": "St. Basil the Great teaches there are three reasons, all biblical and all God-given, that people follow the Lord: (1) fear (Pr 1:7); (2) obedience, a recognition that because He is God we must follow Him ([[ACT.5:29]]); and (3) love ([[1JN.4:19]]). And while we must aim to do all things out of love, we also must not cease fearing God and obeying Him. To a church preoccupied with tongues, Paul teaches the ultimate gift: love.",
+      "edge_type": "witnesses",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

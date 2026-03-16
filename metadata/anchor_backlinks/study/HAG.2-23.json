@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "In that day,' says the Lord Almighty, 'I shall take you, Zerubbabel, My servant, the son of Shealtiel,' says the Lord, 'and shall make you like a signet ring; for I have chosen you.'",
   "pericope": {
     "id": "HAG.P005",
@@ -12,7 +12,9 @@
     "range": "HAG.2:19-2:23",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "baptism"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 1465,
       "raw_match": "[[HAG.2:23]]",
       "reference_type": "wikilink",
-      "context": "The significance of the robe is righteousness granted by baptism (Is 61:10), the signet ring is family identity ([[HAG.2:23]]), and the sandals refer to walking according to the gospel ([[EPH.6:15]])."
+      "context": "The significance of the robe is righteousness granted by baptism (Is 61:10), the signet ring is family identity ([[HAG.2:23]]), and the sandals refer to walking according to the gospel ([[EPH.6:15]]).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "baptism"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

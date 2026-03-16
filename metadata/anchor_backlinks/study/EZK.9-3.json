@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Then the glory of the God of Israel went up from the cherubim, and the glory which was over them went into the inner court of the house. He called to the man clothed with the long robe with the belt on his waist,",
   "pericope": {
     "id": "EZK.P008",
@@ -12,7 +12,10 @@
     "range": "EZK.7:27-9:10",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "israel_church",
+    "judgment"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,19 @@
       "line_number": 708,
       "raw_match": "[[EZK.9:1]]-11",
       "reference_type": "wikilink_range",
-      "context": "The seventh (and final) seal will yet be opened (8:1). The visions here of the faithful Church form an interlude wherein the Lord's faithful are \"sealed\" against His wrath. \"Who is able to stand?\" (6:17). The faithful, who will be sealed and will then assemble for worship. 7:1-3 The four winds are symbolic \"winds of judgment,\" as in Jewish apocalyptic literature ([[JER.25:16]]; [[ZEC.2:10]]; [[DAN.8:8]]; [[MRK.13:27]]; see also 1En 76:1-4). They are restrained until God's servants (Is 44:5; [[2CO.1:22]]; [[2TI.2:19]]) are sealed (v. 3), that is, given a special protection from the ensuing judgments ([[EZK.9:1]]-11)."
+      "context": "The seventh (and final) seal will yet be opened (8:1). The visions here of the faithful Church form an interlude wherein the Lord's faithful are \"sealed\" against His wrath. \"Who is able to stand?\" (6:17). The faithful, who will be sealed and will then assemble for worship. 7:1-3 The four winds are symbolic \"winds of judgment,\" as in Jewish apocalyptic literature ([[JER.25:16]]; [[ZEC.2:10]]; [[DAN.8:8]]; [[MRK.13:27]]; see also 1En 76:1-4). They are restrained until God's servants (Is 44:5; [[2CO.1:22]]; [[2TI.2:19]]) are sealed (v. 3), that is, given a special protection from the ensuing judgments ([[EZK.9:1]]-11).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "judgment"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

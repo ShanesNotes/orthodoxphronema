@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "There is therefore now no condemnation to those who are in Christ Jesus, who do not walk according to the flesh, but according to the Spirit.",
   "pericope": {
     "id": "ROM.P017",
@@ -12,7 +12,10 @@
     "range": "ROM.7:26-8:10",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "israel_church"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 676,
       "raw_match": "[[ROM.8:1]]-4",
       "reference_type": "wikilink_range",
-      "context": "Israel was to walk in the ordinances of the Mosaic Law. The Church, on the other hand, is to walk in the Law of Christ, a higher standard than the Mosaic ([[ROM.8:1]]-4)."
+      "context": "Israel was to walk in the ordinances of the Mosaic Law. The Church, on the other hand, is to walk in the Law of Christ, a higher standard than the Mosaic ([[ROM.8:1]]-4).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "israel_church"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

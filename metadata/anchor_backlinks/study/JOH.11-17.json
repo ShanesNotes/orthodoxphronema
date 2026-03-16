@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "So when Jesus came, He found that he had already been in the tomb four days.",
   "pericope": {
     "id": "JOH.P037",
@@ -12,7 +12,11 @@
     "range": "JOH.11:16-11:36",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "resurrection",
+    "suffering"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,14 +24,41 @@
       "line_number": 716,
       "raw_match": "[[JOH.11:1]]-44",
       "reference_type": "wikilink_range",
-      "context": "This is one of three resurrections performed by our Lord as recorded in the Gospels (see also 8:41-56; [[JOH.11:1]]-44). They confirm the promise given to the prophet Ezekiel that God will one day open the graves and raise all the dead ([[EZK.37:1]]-14). Many people have exercised authority over the living; only the Son of God \"has power over both the living and the dead\" (funeral service). While Christ has power through His word alone (Jn 11:43), here He also touched the coffin to show that His very body is life-giving. This event also prefigures Christ's own Resurrection. As Mary would weep for Jesus at the Cross, yet her tears would be turned to joy by the Resurrection, here a widow's only son is raised from the dead, putting an end to her weeping (AmbM)."
+      "context": "This is one of three resurrections performed by our Lord as recorded in the Gospels (see also 8:41-56; [[JOH.11:1]]-44). They confirm the promise given to the prophet Ezekiel that God will one day open the graves and raise all the dead ([[EZK.37:1]]-14). Many people have exercised authority over the living; only the Son of God \"has power over both the living and the dead\" (funeral service). While Christ has power through His word alone (Jn 11:43), here He also touched the coffin to show that His very body is life-giving. This event also prefigures Christ's own Resurrection. As Mary would weep for Jesus at the Cross, yet her tears would be turned to joy by the Resurrection, here a widow's only son is raised from the dead, putting an end to her weeping (AmbM).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "resurrection",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/DAN_footnotes.md",
       "line_number": 220,
       "raw_match": "[[JOH.11:1]]-45",
       "reference_type": "wikilink_range",
-      "context": "St. Ephraim of Syria writes that both the OT Daniel and the NT Lazarus (see [[JOH.11:1]]-45) illustrate Christ in His tomb. \"A type of You therefore was Daniel, and also Lazarus; one in the den, which the Gentiles sealed up, and one in the sepulchre, that the people opened. Lo! their signs and their seals reproved them. Their mouth would have been open, if they had left Your sepulchre open. But they went away because they had shut Your sepulchre and sealed it, and closed up their own mouths. Yes, they closed it, and when they had senselessly covered Your sepulchre, all the slanderers covered their own heads. But in Your Resurrection You persuaded them concerning Your Birth; since the womb was sealed, and the sepulchre closed up; being alike pure in the womb, and living in the sepulchre. The womb and the sepulchre being sealed were witnesses unto You.\" 6:19 Note how a pagan king kept vigil and fasted while his friend Daniel was in danger."
+      "context": "St. Ephraim of Syria writes that both the OT Daniel and the NT Lazarus (see [[JOH.11:1]]-45) illustrate Christ in His tomb. \"A type of You therefore was Daniel, and also Lazarus; one in the den, which the Gentiles sealed up, and one in the sepulchre, that the people opened. Lo! their signs and their seals reproved them. Their mouth would have been open, if they had left Your sepulchre open. But they went away because they had shut Your sepulchre and sealed it, and closed up their own mouths. Yes, they closed it, and when they had senselessly covered Your sepulchre, all the slanderers covered their own heads. But in Your Resurrection You persuaded them concerning Your Birth; since the womb was sealed, and the sepulchre closed up; being alike pure in the womb, and living in the sepulchre. The womb and the sepulchre being sealed were witnesses unto You.\" 6:19 Note how a pagan king kept vigil and fasted while his friend Daniel was in danger.",
+      "edge_type": "ascends_from",
+      "topic_threads": [
+        "christology",
+        "resurrection"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

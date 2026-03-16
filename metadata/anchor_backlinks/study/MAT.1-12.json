@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "And after they were brought to Babylon, Jeconiah begot Shealtiel, and Shealtiel begot Zerubbabel.",
   "pericope": {
     "id": "MAT.P001",
@@ -12,7 +12,10 @@
     "range": "MAT.1:1-1:24",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "temple"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 87,
       "raw_match": "[[MAT.1:12]]",
       "reference_type": "wikilink",
-      "context": "The third, named Zerubbabel, is the only one of the three bodyguards who is named. He is of Christ's lineage ([[MAT.1:12]]), a leader in the rebuilding of the temple, and a figure of Christ."
+      "context": "The third, named Zerubbabel, is the only one of the three bodyguards who is named. He is of Christ's lineage ([[MAT.1:12]]), a leader in the rebuilding of the temple, and a figure of Christ.",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "temple"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

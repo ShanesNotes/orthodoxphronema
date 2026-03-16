@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Behold, I send My messenger, and he will prepare the way before Me. And the Lord, whom you seek, will suddenly come into His temple, even the Messenger of the covenant, whom you desire. Behold, He is coming,' says the Lord Almighty.",
   "pericope": {
     "id": "MAL.P005",
@@ -12,7 +12,11 @@
     "range": "MAL.2:17-3:6",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "covenant",
+    "temple"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +24,21 @@
       "line_number": 270,
       "raw_match": "[[MAL.3:1]]",
       "reference_type": "wikilink",
-      "context": "God had prepared the people: Christ warns His followers to watch, for you do not know when the master of the house is coming--lest coming suddenly, he find you sleeping ([[MRK.13:35]], [[MRK.13:36]]; see also [[MAL.3:1]])."
+      "context": "God had prepared the people: Christ warns His followers to watch, for you do not know when the master of the house is coming--lest coming suddenly, he find you sleeping ([[MRK.13:35]], [[MRK.13:36]]; see also [[MAL.3:1]]).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology",
+        "covenant",
+        "temple"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

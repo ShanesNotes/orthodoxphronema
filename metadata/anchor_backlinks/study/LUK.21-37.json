@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "And in the daytime He was teaching in the temple, but at night He went out and stayed on the mountain called Olivet.",
   "pericope": {
     "id": "LUK.P103",
@@ -12,7 +12,12 @@
     "range": "LUK.21:33-21:37",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "eschatology",
+    "judgment",
+    "temple"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +25,22 @@
       "line_number": 482,
       "raw_match": "[[LUK.21:37]]",
       "reference_type": "wikilink",
-      "context": "The Lord's feet will stand on the Mount of Olives in this reference to the Messianic Age. This applies both to the Incarnation and the Second Coming of Christ. Jesus and the disciples stayed on the Mount of Olives during Holy Week ([[LUK.21:37]]), and, of course, Jesus spent the night on the Mount of Olives when He was betrayed (Mt 26:30). Whether or not Christ will touch down upon the Mount of Olives at His Second Coming is another question. The eschatological imagery here, however, indicates judgment in the presence of God."
+      "context": "The Lord's feet will stand on the Mount of Olives in this reference to the Messianic Age. This applies both to the Incarnation and the Second Coming of Christ. Jesus and the disciples stayed on the Mount of Olives during Holy Week ([[LUK.21:37]]), and, of course, Jesus spent the night on the Mount of Olives when He was betrayed (Mt 26:30). Whether or not Christ will touch down upon the Mount of Olives at His Second Coming is another question. The eschatological imagery here, however, indicates judgment in the presence of God.",
+      "edge_type": "echoes",
+      "topic_threads": [
+        "christology",
+        "eschatology",
+        "judgment",
+        "temple"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

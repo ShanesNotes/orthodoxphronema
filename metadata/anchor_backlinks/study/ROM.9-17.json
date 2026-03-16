@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "For the Scripture says to the Pharaoh, 'For this very purpose I have raised you up, that I may show My power in you, and that My name may be declared in all the earth.'",
   "pericope": {
     "id": "ROM.P024",
@@ -12,7 +12,11 @@
     "range": "ROM.9:13-9:29",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "exodus_typology",
+    "mercy",
+    "suffering"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,14 +24,40 @@
       "line_number": 119,
       "raw_match": "[[ROM.9:17]]",
       "reference_type": "wikilink",
-      "context": "Punishment on... Pharaoh: See Ex 5-12; [[ROM.9:17]]."
+      "context": "Punishment on... Pharaoh: See Ex 5-12; [[ROM.9:17]].",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "exodus_typology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/EXO_footnotes.md",
       "line_number": 340,
       "raw_match": "[[ROM.9:17]]",
       "reference_type": "wikilink",
-      "context": "The Lord of all the earth used Pharaoh to declare His mighty power throughout the earth, for He shows compassion to whom He will, and He shows mercy to whom He will ([[ROM.9:17]], [[ROM.9:18]]). We should never inquire into why God does what He does, nor even raise any questions about it. Our response should be obedience to Him (JohnChr)."
+      "context": "The Lord of all the earth used Pharaoh to declare His mighty power throughout the earth, for He shows compassion to whom He will, and He shows mercy to whom He will ([[ROM.9:17]], [[ROM.9:18]]). We should never inquire into why God does what He does, nor even raise any questions about it. Our response should be obedience to Him (JohnChr).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "exodus_typology",
+        "mercy",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

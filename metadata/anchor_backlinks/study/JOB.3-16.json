@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Or I would have been like an untimely birth Proceeding from his mother's womb, Or like infants who never saw the light.",
   "pericope": {
     "id": "JOB.P005",
@@ -12,7 +12,10 @@
     "range": "JOB.2:15-3:20",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "eucharist"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,14 +23,36 @@
       "line_number": 122,
       "raw_match": "[[JOB.3:16]]",
       "reference_type": "wikilink",
-      "context": "The young have seen the light, i.e., have been born alive (see [[JOB.3:16]])."
+      "context": "The young have seen the light, i.e., have been born alive (see [[JOB.3:16]]).",
+      "edge_type": "instantiates",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 9,
+        "title": "Example: The Cherubim of Ezekiel I",
+        "polarity": "generation",
+        "operation": "inform",
+        "scale": "intercommunal"
+      }
     },
     {
       "source_file": "study/footnotes/OT/ECC_footnotes.md",
       "line_number": 112,
       "raw_match": "[[JOB.3:10]]-16",
       "reference_type": "wikilink_range",
-      "context": "Job expressed a similar sentiment of being oppressed when he wished that he had never been born to see such sorrow ([[JOB.3:10]]-16). But Christ has sent a comforter, the Holy Spirit ([[JOH.14:16]]), to wipe away all tears. Verse 2 speaks of the communion of the saints."
+      "context": "Job expressed a similar sentiment of being oppressed when he wished that he had never been born to see such sorrow ([[JOB.3:10]]-16). But Christ has sent a comforter, the Holy Spirit ([[JOH.14:16]]), to wipe away all tears. Verse 2 speaks of the communion of the saints.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology",
+        "eucharist"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

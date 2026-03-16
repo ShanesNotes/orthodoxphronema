@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "The night is far spent, the day is at hand. Therefore let us cast off the works of darkness, and let us put on the armor of light.",
   "pericope": {
     "id": "ROM.P037",
@@ -12,7 +12,9 @@
     "range": "ROM.13:10-13:13",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,14 +22,38 @@
       "line_number": 197,
       "raw_match": "[[ROM.13:12]]",
       "reference_type": "wikilink",
-      "context": "St. Paul writes similarly to the Christians in Rome ([[ROM.13:12]])."
+      "context": "St. Paul writes similarly to the Christians in Rome ([[ROM.13:12]]).",
+      "edge_type": "witnesses",
+      "topic_threads": [
+        "christology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/SNG_footnotes.md",
       "line_number": 231,
       "raw_match": "[[ROM.13:12]]",
       "reference_type": "wikilink",
-      "context": "This is the dawning of the eternal day, and the shadows of ignorance and error depart in the radiance of Christ's glory ([[ROM.13:12]])."
+      "context": "This is the dawning of the eternal day, and the shadows of ignorance and error depart in the radiance of Christ's glory ([[ROM.13:12]]).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

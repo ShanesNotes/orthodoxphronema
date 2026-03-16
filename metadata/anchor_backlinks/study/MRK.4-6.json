@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "But when the sun was up it was scorched, and because it had no root it withered away.",
   "pericope": {
     "id": "MRK.P012",
@@ -12,7 +12,9 @@
     "range": "MRK.3:35-4:8",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 217,
       "raw_match": "[[MRK.4:6]]",
       "reference_type": "wikilink",
-      "context": "Those in Christ are not immune to turning away from God. There is a temporary attractiveness in sin, which leads to a hardened heart and ultimately apostasy. We must take constant daily care not to be deceived and thus fall away (see [[MRK.4:5]], [[MRK.4:6]], [[MRK.4:16]], [[MRK.4:17]])."
+      "context": "Those in Christ are not immune to turning away from God. There is a temporary attractiveness in sin, which leads to a hardened heart and ultimately apostasy. We must take constant daily care not to be deceived and thus fall away (see [[MRK.4:5]], [[MRK.4:6]], [[MRK.4:16]], [[MRK.4:17]]).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

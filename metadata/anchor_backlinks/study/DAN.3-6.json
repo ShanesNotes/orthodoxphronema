@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "But whoever does not fall down and worship shall be cast into the burning fiery furnace.'",
   "pericope": {
     "id": "DAN.P006",
@@ -20,7 +20,16 @@
       "line_number": 15,
       "raw_match": "[[DAN.3:1]]-7",
       "reference_type": "wikilink_range",
-      "context": "This verse describes a pagan religious procession such as someone like Daniel would daily witness (see [[DAN.3:1]]-7)."
+      "context": "This verse describes a pagan religious procession such as someone like Daniel would daily witness (see [[DAN.3:1]]-7).",
+      "edge_type": "instantiates",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 6,
+        "title": "The Universe As a Language",
+        "polarity": "generation",
+        "operation": "descend",
+        "scale": "communal"
+      }
     }
   ]
 }

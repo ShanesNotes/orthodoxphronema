@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "They said to Him, 'Caesar's.'",
   "pericope": {
     "id": "MAT.P072",
@@ -12,7 +12,9 @@
     "range": "MAT.21:46-22:32",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 179,
       "raw_match": "[[MAT.22:21]]",
       "reference_type": "wikilink",
-      "context": "(See also [[ROM.13:1]]-7; [[MAT.22:21]]; [[TIT.3:1]].) Peter urges his readers to be obedient to civil government. While Christians serve a higher authority, God Himself, it is God who calls us to submit to earthly leaders for the Lord's sake (v. 13). This is not a call to \"separate\" Church from state, but rather a call to cooperate with and enhance the state-- realizing that at times Church and state have been at great odds. When ultimate loyalty and obedience to Christ and His gospel are at stake, Peter's actions show that we are to obey God rather than man, even to the point of prison or death ([[ACT.4:19]], [[ACT.4:20]])."
+      "context": "(See also [[ROM.13:1]]-7; [[MAT.22:21]]; [[TIT.3:1]].) Peter urges his readers to be obedient to civil government. While Christians serve a higher authority, God Himself, it is God who calls us to submit to earthly leaders for the Lord's sake (v. 13). This is not a call to \"separate\" Church from state, but rather a call to cooperate with and enhance the state-- realizing that at times Church and state have been at great odds. When ultimate loyalty and obedience to Christ and His gospel are at stake, Peter's actions show that we are to obey God rather than man, even to the point of prison or death ([[ACT.4:19]], [[ACT.4:20]]).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

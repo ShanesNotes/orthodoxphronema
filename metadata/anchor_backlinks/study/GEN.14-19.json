@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "He blessed Abram and said, 'Blessed be Abram of God Most High, Creator of heaven and earth;",
   "pericope": {
     "id": "GEN.P019",
@@ -12,7 +12,16 @@
     "range": "GEN.14:16-14:22",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "baptism",
+    "christology",
+    "covenant",
+    "creation_theology",
+    "israel_church",
+    "praise",
+    "priesthood",
+    "temple"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,42 +29,126 @@
       "line_number": 22,
       "raw_match": "[[GEN.14:18]]-20",
       "reference_type": "wikilink_range",
-      "context": "In the Gospels, Christ sometimes refers to Old Testament events that typologically pointed forward to Himself, such as the serpent in the wilderness ([[NUM.21:4]]-9; [[JOH.3:14]], [[JOH.3:15]]), the manna in the wilderness ([[EXO.16:11]]-36; [[JOH.6:30]]-35, 47-51), and Jonah's three days and nights in the belly of the great fish ([[JON.2:1]]-11; [[MAT.12:39]], [[MAT.12:40]]). Saints Paul and Peter, writing under the inspiration of the Holy Spirit, also reveal truths found in Old Testament types, such as Adam/Christ ([[GEN.2:7]]-9, 15-17; [[1CO.15:20]]-22), Melchizedek/Christ ([[GEN.14:18]]-20; [[HEB.6:19]], [[HEB.6:20]]) and Noah and the Flood/Baptism ([[GEN.7:1]]-8:19; [[1PE.3:20]], [[1PE.3:21]]). Typological revelation further plays an important role in the hymns of the Church. For example: The bush on the mountain that was not consumed by fire ([[EXO.3:1]]-6), and the Chaldean furnace that brought refreshment as the dew ([[DAN.3:19]]-50), plainly prefigured thee, O Bride of God. For in a material womb, unconsumed thou hast received the divine and immaterial Fire (Matins, Nativity of the Theotokos). With the Old Testament looking forward to the New through types, theophanies, and prophecies, and the New, in antitypes and fulfillment, pointing back to the Old, the essential unity of the two Testaments within one comprehensive Testament is revealed. As St. Maximus observes, 'The Old and New Testaments together form a single mystery.'"
+      "context": "In the Gospels, Christ sometimes refers to Old Testament events that typologically pointed forward to Himself, such as the serpent in the wilderness ([[NUM.21:4]]-9; [[JOH.3:14]], [[JOH.3:15]]), the manna in the wilderness ([[EXO.16:11]]-36; [[JOH.6:30]]-35, 47-51), and Jonah's three days and nights in the belly of the great fish ([[JON.2:1]]-11; [[MAT.12:39]], [[MAT.12:40]]). Saints Paul and Peter, writing under the inspiration of the Holy Spirit, also reveal truths found in Old Testament types, such as Adam/Christ ([[GEN.2:7]]-9, 15-17; [[1CO.15:20]]-22), Melchizedek/Christ ([[GEN.14:18]]-20; [[HEB.6:19]], [[HEB.6:20]]) and Noah and the Flood/Baptism ([[GEN.7:1]]-8:19; [[1PE.3:20]], [[1PE.3:21]]). Typological revelation further plays an important role in the hymns of the Church. For example: The bush on the mountain that was not consumed by fire ([[EXO.3:1]]-6), and the Chaldean furnace that brought refreshment as the dew ([[DAN.3:19]]-50), plainly prefigured thee, O Bride of God. For in a material womb, unconsumed thou hast received the divine and immaterial Fire (Matins, Nativity of the Theotokos). With the Old Testament looking forward to the New through types, theophanies, and prophecies, and the New, in antitypes and fulfillment, pointing back to the Old, the essential unity of the two Testaments within one comprehensive Testament is revealed. As St. Maximus observes, 'The Old and New Testaments together form a single mystery.'",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "baptism",
+        "christology",
+        "covenant",
+        "creation_theology",
+        "praise",
+        "priesthood"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/NT/HEB_footnotes.md",
       "line_number": 306,
       "raw_match": "[[GEN.14:18]]-20",
       "reference_type": "wikilink_range",
-      "context": "Christ assumes and fulfills the OT priesthood (see 5:1-4): Like Melchizedek (v. 6; see 7:1-21; [[GEN.14:18]]-20), Jesus is both Priest and King. He does not sin; His sacrifice is the human sacrifice of Himself, and His perfect priesthood continues in the Church to this day."
+      "context": "Christ assumes and fulfills the OT priesthood (see 5:1-4): Like Melchizedek (v. 6; see 7:1-21; [[GEN.14:18]]-20), Jesus is both Priest and King. He does not sin; His sacrifice is the human sacrifice of Himself, and His perfect priesthood continues in the Church to this day.",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "creation_theology",
+        "priesthood"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/3MA_footnotes.md",
       "line_number": 542,
       "raw_match": "[[GEN.14:19]]-22",
       "reference_type": "wikilink_range",
-      "context": "God the most High: Another ancient way of referring to the God of Israel, and one frequently used in localities where non-Jews abound (see [[GEN.14:19]]-22; [[DAN.3:26]]; [[MRK.5:7]]; [[LUK.8:28]]; [[ACT.16:17]])."
+      "context": "God the most High: Another ancient way of referring to the God of Israel, and one frequently used in localities where non-Jews abound (see [[GEN.14:19]]-22; [[DAN.3:26]]; [[MRK.5:7]]; [[LUK.8:28]]; [[ACT.16:17]]).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "creation_theology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/EZR_footnotes.md",
       "line_number": 76,
       "raw_match": "[[GEN.14:18]]-20",
       "reference_type": "wikilink_range",
-      "context": "Starting with Abraham ([[GEN.14:18]]-20), the tradition of God's people for giving money to the Lord is to give a tithe ([[MAL.3:8]]-12) plus freewill offerings. This is how the temple was built, and also how the Church is built."
+      "context": "Starting with Abraham ([[GEN.14:18]]-20), the tradition of God's people for giving money to the Lord is to give a tithe ([[MAL.3:8]]-12) plus freewill offerings. This is how the temple was built, and also how the Church is built.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "creation_theology",
+        "temple"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/MAL_footnotes.md",
       "line_number": 144,
       "raw_match": "[[GEN.14:18]]-20",
       "reference_type": "wikilink_range",
-      "context": "How have we insulted you? God answers this self-righteous question pointedly: they have withheld tithes and offerings. A tithe is a tenth of one's income; offerings are additional gifts. Some modern Christians reject tithing, claiming it is a part of the Law not applicable today. But they forget that Abram (Abraham) tithed to Melchizedek five hundred years before the Law was given to Moses ([[GEN.14:18]]-20). And Melchizedek is a type of Christ ([[HEB.6:19]]-7:6). To those who tithe, God promises a blessing until it is overflowing."
+      "context": "How have we insulted you? God answers this self-righteous question pointedly: they have withheld tithes and offerings. A tithe is a tenth of one's income; offerings are additional gifts. Some modern Christians reject tithing, claiming it is a part of the Law not applicable today. But they forget that Abram (Abraham) tithed to Melchizedek five hundred years before the Law was given to Moses ([[GEN.14:18]]-20). And Melchizedek is a type of Christ ([[HEB.6:19]]-7:6). To those who tithe, God promises a blessing until it is overflowing.",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "creation_theology",
+        "priesthood"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/PSA_footnotes.md",
       "line_number": 1226,
       "raw_match": "[[GEN.14:18]]-20",
       "reference_type": "wikilink_range",
-      "context": "Ps 109 is a prophecy concerning the Melchizedek Priesthood of the Lord Jesus Christ, which explains the true meaning of the Nativity. In [[GEN.14:18]]-20, Melchizedek is called the king of Salem and priest of the Most High God (see also [[HEB.7:1]]). His priesthood was not based on genealogy ([[HEB.7:3]]). It was based on himself alone, for no one preceded him in priesthood, nor succeeded him ([[HEB.7:8]]). On this basis he was a type of Christ, whose priesthood is based in His endless life, for He rose again from the dead ([[HEB.7:16]]). The Lord [the Father] said to my Lord [Christ], \"Sit at My right hand\" (v. 1). For Christ is not only Man, but also the Lord God, coequal and one in nature with the Father. For He is begotten from the Father before all time (before the morning star, v. 3), and is therefore His eternal Son (v. 3; see also Creed). He is the Son of David according to the flesh ([[MAT.1:1]]), but He is also the Lord of David according to His divinity (see also Mt 22:41-45). At the Father's right hand, this Melchizedek Priest rules and reigns over all things, including His enemies (vv. 1, 2, 5-7), and leads His Church in heavenly worship of the Blessed Trinity (v. 3)."
+      "context": "Ps 109 is a prophecy concerning the Melchizedek Priesthood of the Lord Jesus Christ, which explains the true meaning of the Nativity. In [[GEN.14:18]]-20, Melchizedek is called the king of Salem and priest of the Most High God (see also [[HEB.7:1]]). His priesthood was not based on genealogy ([[HEB.7:3]]). It was based on himself alone, for no one preceded him in priesthood, nor succeeded him ([[HEB.7:8]]). On this basis he was a type of Christ, whose priesthood is based in His endless life, for He rose again from the dead ([[HEB.7:16]]). The Lord [the Father] said to my Lord [Christ], \"Sit at My right hand\" (v. 1). For Christ is not only Man, but also the Lord God, coequal and one in nature with the Father. For He is begotten from the Father before all time (before the morning star, v. 3), and is therefore His eternal Son (v. 3; see also Creed). He is the Son of David according to the flesh ([[MAT.1:1]]), but He is also the Lord of David according to His divinity (see also Mt 22:41-45). At the Father's right hand, this Melchizedek Priest rules and reigns over all things, including His enemies (vv. 1, 2, 5-7), and leads His Church in heavenly worship of the Blessed Trinity (v. 3).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "creation_theology",
+        "priesthood"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

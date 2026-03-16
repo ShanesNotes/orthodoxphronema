@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "saying, 'I have sinned by betraying innocent blood.'",
   "pericope": {
     "id": "MAT.P088",
@@ -12,7 +12,9 @@
     "range": "MAT.27:2-27:9",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "judgment"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 64,
       "raw_match": "[[MAT.27:3]]-5",
       "reference_type": "wikilink_range",
-      "context": "See [[MAT.27:3]]-5. Though the accounts may seem to differ, Luke's report here is merely a more detailed account of Judas' end. This should also be understood in a spiritual sense, that the heart and soul of the rebellious or faithless person will be spilled out in the final judgment."
+      "context": "See [[MAT.27:3]]-5. Though the accounts may seem to differ, Luke's report here is merely a more detailed account of Judas' end. This should also be understood in a spiritual sense, that the heart and soul of the rebellious or faithless person will be spilled out in the final judgment.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "judgment"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Work shall be done for six days, but the seventh is the Sabbath, a holy rest to the Lord. Whoever works on the seventh day shall be put to death.",
   "pericope": {
     "id": "EXO.P068",
@@ -12,7 +12,11 @@
     "range": "EXO.31:11-31:17",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "covenant",
+    "creation_theology",
+    "exodus_typology"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,14 +24,37 @@
       "line_number": 21,
       "raw_match": "[[EXO.31:12]]-17",
       "reference_type": "wikilink_range",
-      "context": "When the Lord commanded the Hebrews, in the fourth of the Ten Commandments, to 'Remember the Sabbath day, to keep it holy,' He also gave them the reason: 'For in six days the Lord made heaven and earth, the sea, and everything in them, and rested on the seventh day. Therefore, the Lord blessed the Sabbath day and hallowed it' ([[EXO.20:8]], [[EXO.20:11]]; cf. [[GEN.2:1]]-3). When Moses restated the Ten Commandments in Deuteronomy 5, he added another reason: 'Remember, you were a servant in the land of Egypt, and the Lord your God brought you out from there by a mighty hand and by an outstretched arm; therefore, the Lord your God ordered you to guard the Sabbath day and to sanctify it' (5:15). The Hebrews were called to 'remember' ([[EXO.20:8]]), to 'keep' ([[LEV.19:3]], 30), and to 'hallow' or's anctify' ([[JER.17:19]]-27; [[EZK.20:19]], [[EZK.20:20]]; [[NEH.13:15]]-22) the Sabbath by resting from almost every kind of work. God provided them this sacred time each week to help them contemplate His awesome work in creation and their miraculous deliverance from Egypt. Stipulating the faithful observance of the Sabbath was one of the main ways God ordained to reinforce the people's covenant with Him ([[EXO.31:12]]-17; cf. [[LEV.24:8]]). Originally, communal worship was not linked with Sabbath observance; but with the development of the synagogue, probably during the Hebrews' exile in Babylon (sixth century BC), the Sabbath naturally became the day for synagogue worship, as it is for the Jews today. #### Sunday, The Day Of Worship"
+      "context": "When the Lord commanded the Hebrews, in the fourth of the Ten Commandments, to 'Remember the Sabbath day, to keep it holy,' He also gave them the reason: 'For in six days the Lord made heaven and earth, the sea, and everything in them, and rested on the seventh day. Therefore, the Lord blessed the Sabbath day and hallowed it' ([[EXO.20:8]], [[EXO.20:11]]; cf. [[GEN.2:1]]-3). When Moses restated the Ten Commandments in Deuteronomy 5, he added another reason: 'Remember, you were a servant in the land of Egypt, and the Lord your God brought you out from there by a mighty hand and by an outstretched arm; therefore, the Lord your God ordered you to guard the Sabbath day and to sanctify it' (5:15). The Hebrews were called to 'remember' ([[EXO.20:8]]), to 'keep' ([[LEV.19:3]], 30), and to 'hallow' or's anctify' ([[JER.17:19]]-27; [[EZK.20:19]], [[EZK.20:20]]; [[NEH.13:15]]-22) the Sabbath by resting from almost every kind of work. God provided them this sacred time each week to help them contemplate His awesome work in creation and their miraculous deliverance from Egypt. Stipulating the faithful observance of the Sabbath was one of the main ways God ordained to reinforce the people's covenant with Him ([[EXO.31:12]]-17; cf. [[LEV.24:8]]). Originally, communal worship was not linked with Sabbath observance; but with the development of the synagogue, probably during the Hebrews' exile in Babylon (sixth century BC), the Sabbath naturally became the day for synagogue worship, as it is for the Jews today. #### Sunday, The Day Of Worship",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "covenant",
+        "creation_theology",
+        "exodus_typology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/1MA_footnotes.md",
       "line_number": 108,
       "raw_match": "[[EXO.31:12]]-18",
       "reference_type": "wikilink_range",
-      "context": "It was forbidden for Jews to fight on the Sabbath ([[EXO.31:12]]-18), and Antiochus' soldiers took full advantage of this fact (v. 38)."
+      "context": "It was forbidden for Jews to fight on the Sabbath ([[EXO.31:12]]-18), and Antiochus' soldiers took full advantage of this fact (v. 38).",
+      "edge_type": "instantiates",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "So a young man ran and told Moses, and said, 'Eldad and Medad are prophesying in the camp.'",
   "pericope": {
     "id": "NUM.P025",
@@ -12,7 +12,22 @@
     "range": "NUM.11:9-11:29",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "baptism",
+    "christology",
+    "covenant",
+    "eschatology",
+    "exodus_typology",
+    "faith",
+    "israel_church",
+    "kingdom",
+    "praise",
+    "priesthood",
+    "resurrection",
+    "shepherd",
+    "suffering",
+    "temple"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +35,32 @@
       "line_number": 257,
       "raw_match": "[[NUM.11:24]]-29",
       "reference_type": "wikilink_range",
-      "context": ", 2 describes this offering: \"I beseech you therefore, brethren, by the mercies of God, that you present your bodies a living sacrifice, holy, acceptable to God, which is your reasonable service. And do not be conformed to this world, but be transformed by the renewing of your mind, that you may prove what is that good and acceptable and perfect will of God.\" 8:6 [[NUM.8:6]], [[NUM.8:7]], [[NUM.8:19]]: In the liturgical service of worship, the children of Israel could not draw near the holy things, for their bodies were not purified by the water of purification, as were the Levites. Under the new covenant, the Levites are the clergy of the Church who officiate at the altar. However, in the liturgical service of worship, both clergy and laity draw near the heavenly holy of holies by the blood of Jesus. The conditions for entering the heavenly holy of holies are \"a true heart in full assurance of faith, having our hearts sprinkled from an evil conscience and our bodies washed with pure water\" ([[HEB.10:22]]). 9:3 Pascha, or Passover, was to be kept according to its rule and practice. Its \"rule and practice\" refers to its liturgical order of service and worship. This was spelled out very carefully in the Law of Moses. In the Church, the rule and practice of Pascha is also carefully spelled out in Holy Tradition as the Church moves through its liturgical order of service and worship in Great Lent, Holy Week, and the Easter season. 9:6-9 The Law of Moses could not cover every situation that might arise regarding Pascha. For this law did not exist in a vacuum to itself. Rather, it was ever united to the Lawgiver, the Son of God, who speaks to His people. Similarly, the Holy Tradition of the Church cannot cover every situation that might arise. The Good Shepherd speaks to His Church, and those who have ears to hear follow Him ([[JOH.10:27]]). 9:21 When the cloud ascended from the tabernacle, Israel would break camp and move toward the promised land. Therefore, their liturgical worship was to be dynamic and not static. They had an objective to achieve. Psalms 120-133 are called \"Odes of Ascent.\" These odes reveal aspects of the dynamic and living nature of liturgical worship. Similarly, the Lord ascended into heaven to teach the Church the dynamic and living nature of worship. For liturgical worship is like an ascent in which the worshipers draw near and enter the heavenly holy of holies. The final objective is \"the resurrection from the dead and the life of the world to come\" (Creed). 10:10 The Son of God is the I Am, the Lord God of Israel ([[JOH.8:58]]; [[EXO.3:14]]). He is one of the three Persons of the Holy Trinity. 10:29 Moses informed his brother-in-law of the purpose for breaking camp. It was to head for the place the Lord spoke of. This place was Canaan, the land of promise. For the Church, the land of promise is the kingdom of God, the fullness of which will be realized in the world to come. As the Church passes through this present world, she partakes of the kingdom to the extent of the grace she experiences and expresses. In this sense, the Church is God's kingdom in this world, and she will be His kingdom in the fullest sense in the new world. 10:29 Moses informed his brother-in-law of the purpose for breaking camp. It was to head for the place the Lord spoke of. This place was Canaan, the land of promise. For the Church, the land of promise is the kingdom of God, the fullness of which will be realized in the world to come. As the Church passes through this present world, she partakes of the kingdom to the extent of the grace she experiences and expresses. In this sense, the Church is God's kingdom in this world, and she will be His kingdom in the fullest sense in the new world. 10:33-36 Rise up, O Lord was a foreshadowing of Christ's Resurrection, and return, O Lord, of His second coming. 11:1-3 This place was called Burning (v. 3) because the Lord hates grumbling, which is an expression of ingratitude. This was written to admonish us not to grumble, complain, and murmur about things we may not like ([[1CO.10:10]], [[1CO.10:11]]). Grumbling is one of the sins that undermines spiritual stability: \"Therefore let him who thinks he stands take heed lest he fall\" ([[1CO.10:12]]). We are to do all things without grumbling; otherwise, our lights will not shine in the midst of the fallen world ([[PHP.2:14]], [[PHP.2:15]]). 11:4-34 This place was called Graves of Lust (v. 34) because the desires of the people were out of control (hungered exceedingly, v. 4). Thus, many of them died. In itself, desire is a blameless passion. But if it is not controlled, it can go astray and become a sinful passion--for example, gluttony. Now the children of Israel and the Gentiles who came with them out of Egypt were grumbling about food, which, in turn, caused them to lose control of their desires. This resulted in gluttony (v. 32). Their belly became their god ([[PHP.3:19]]). Grumbling and gluttony are an evil combination. 11:16 [[NUM.11:16]], [[NUM.11:17]], [[NUM.11:24]]-29: This passage is read at Vespers of the Feast of Pentecost. 11:17 [[NUM.11:17]], [[NUM.11:25]], [[NUM.11:26]], [[NUM.11:29]]: The Spirit is the Holy Spirit, one of the three Persons in the Holy Trinity. Therefore, Moses believed in the Trinity, and those who claim him as a forefather should also embrace his faith."
+      "context": ", 2 describes this offering: \"I beseech you therefore, brethren, by the mercies of God, that you present your bodies a living sacrifice, holy, acceptable to God, which is your reasonable service. And do not be conformed to this world, but be transformed by the renewing of your mind, that you may prove what is that good and acceptable and perfect will of God.\" 8:6 [[NUM.8:6]], [[NUM.8:7]], [[NUM.8:19]]: In the liturgical service of worship, the children of Israel could not draw near the holy things, for their bodies were not purified by the water of purification, as were the Levites. Under the new covenant, the Levites are the clergy of the Church who officiate at the altar. However, in the liturgical service of worship, both clergy and laity draw near the heavenly holy of holies by the blood of Jesus. The conditions for entering the heavenly holy of holies are \"a true heart in full assurance of faith, having our hearts sprinkled from an evil conscience and our bodies washed with pure water\" ([[HEB.10:22]]). 9:3 Pascha, or Passover, was to be kept according to its rule and practice. Its \"rule and practice\" refers to its liturgical order of service and worship. This was spelled out very carefully in the Law of Moses. In the Church, the rule and practice of Pascha is also carefully spelled out in Holy Tradition as the Church moves through its liturgical order of service and worship in Great Lent, Holy Week, and the Easter season. 9:6-9 The Law of Moses could not cover every situation that might arise regarding Pascha. For this law did not exist in a vacuum to itself. Rather, it was ever united to the Lawgiver, the Son of God, who speaks to His people. Similarly, the Holy Tradition of the Church cannot cover every situation that might arise. The Good Shepherd speaks to His Church, and those who have ears to hear follow Him ([[JOH.10:27]]). 9:21 When the cloud ascended from the tabernacle, Israel would break camp and move toward the promised land. Therefore, their liturgical worship was to be dynamic and not static. They had an objective to achieve. Psalms 120-133 are called \"Odes of Ascent.\" These odes reveal aspects of the dynamic and living nature of liturgical worship. Similarly, the Lord ascended into heaven to teach the Church the dynamic and living nature of worship. For liturgical worship is like an ascent in which the worshipers draw near and enter the heavenly holy of holies. The final objective is \"the resurrection from the dead and the life of the world to come\" (Creed). 10:10 The Son of God is the I Am, the Lord God of Israel ([[JOH.8:58]]; [[EXO.3:14]]). He is one of the three Persons of the Holy Trinity. 10:29 Moses informed his brother-in-law of the purpose for breaking camp. It was to head for the place the Lord spoke of. This place was Canaan, the land of promise. For the Church, the land of promise is the kingdom of God, the fullness of which will be realized in the world to come. As the Church passes through this present world, she partakes of the kingdom to the extent of the grace she experiences and expresses. In this sense, the Church is God's kingdom in this world, and she will be His kingdom in the fullest sense in the new world. 10:29 Moses informed his brother-in-law of the purpose for breaking camp. It was to head for the place the Lord spoke of. This place was Canaan, the land of promise. For the Church, the land of promise is the kingdom of God, the fullness of which will be realized in the world to come. As the Church passes through this present world, she partakes of the kingdom to the extent of the grace she experiences and expresses. In this sense, the Church is God's kingdom in this world, and she will be His kingdom in the fullest sense in the new world. 10:33-36 Rise up, O Lord was a foreshadowing of Christ's Resurrection, and return, O Lord, of His second coming. 11:1-3 This place was called Burning (v. 3) because the Lord hates grumbling, which is an expression of ingratitude. This was written to admonish us not to grumble, complain, and murmur about things we may not like ([[1CO.10:10]], [[1CO.10:11]]). Grumbling is one of the sins that undermines spiritual stability: \"Therefore let him who thinks he stands take heed lest he fall\" ([[1CO.10:12]]). We are to do all things without grumbling; otherwise, our lights will not shine in the midst of the fallen world ([[PHP.2:14]], [[PHP.2:15]]). 11:4-34 This place was called Graves of Lust (v. 34) because the desires of the people were out of control (hungered exceedingly, v. 4). Thus, many of them died. In itself, desire is a blameless passion. But if it is not controlled, it can go astray and become a sinful passion--for example, gluttony. Now the children of Israel and the Gentiles who came with them out of Egypt were grumbling about food, which, in turn, caused them to lose control of their desires. This resulted in gluttony (v. 32). Their belly became their god ([[PHP.3:19]]). Grumbling and gluttony are an evil combination. 11:16 [[NUM.11:16]], [[NUM.11:17]], [[NUM.11:24]]-29: This passage is read at Vespers of the Feast of Pentecost. 11:17 [[NUM.11:17]], [[NUM.11:25]], [[NUM.11:26]], [[NUM.11:29]]: The Spirit is the Holy Spirit, one of the three Persons in the Holy Trinity. Therefore, Moses believed in the Trinity, and those who claim him as a forefather should also embrace his faith.",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "baptism",
+        "christology",
+        "covenant",
+        "eschatology",
+        "exodus_typology",
+        "faith",
+        "israel_church",
+        "kingdom",
+        "praise",
+        "priesthood",
+        "resurrection",
+        "shepherd",
+        "suffering",
+        "temple"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 5,
+        "title": "Heaven and Earth: A Spiritual Perspective",
+        "polarity": "generation",
+        "operation": "inform",
+        "scale": "individual"
+      }
     }
   ]
 }

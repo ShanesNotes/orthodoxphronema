@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Yes, and all who desire to live godly in Christ Jesus will suffer persecution.",
   "pericope": {
     "id": "2TI.P010",
@@ -12,7 +12,10 @@
     "range": "2TI.3:9-3:16",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "suffering"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,14 +23,32 @@
       "line_number": 1393,
       "raw_match": "[[2TI.3:12]]",
       "reference_type": "wikilink",
-      "context": "Joseph's holiness cost him his freedom. \"Yes, and all who desire to live godly in Christ Jesus will suffer persecution\" ([[2TI.3:12]])."
+      "context": "Joseph's holiness cost him his freedom. \"Yes, and all who desire to live godly in Christ Jesus will suffer persecution\" ([[2TI.3:12]]).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "suffering"
+      ]
     },
     {
       "source_file": "study/footnotes/OT/PSA_footnotes.md",
       "line_number": 924,
       "raw_match": "[[2TI.3:12]]",
       "reference_type": "wikilink",
-      "context": "Ps 82 prophesies that all who hate Christ (v. 3) will also persecute His saints (vv. 4- 9; see also [[JOH.15:18]]; [[2TI.3:12]]). Various nations mentioned (vv. 7-9) represent the kinds of persecutors who seek to destroy the Church. Even avowed enemies find a common ground of unity in order to persecute the Church (v. 6). But the Church is taught how to pray in times of persecution (vv. 10-19), and even some of these enemies are converted to the Lord (v. 17)."
+      "context": "Ps 82 prophesies that all who hate Christ (v. 3) will also persecute His saints (vv. 4- 9; see also [[JOH.15:18]]; [[2TI.3:12]]). Various nations mentioned (vv. 7-9) represent the kinds of persecutors who seek to destroy the Church. Even avowed enemies find a common ground of unity in order to persecute the Church (v. 6). But the Church is taught how to pray in times of persecution (vv. 10-19), and even some of these enemies are converted to the Lord (v. 17).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

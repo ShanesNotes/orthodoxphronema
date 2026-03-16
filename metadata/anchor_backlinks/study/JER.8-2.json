@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "They shall dry them before the sun and the moon, and before all the stars and the hosts of heaven, which they loved and served, and after which they walked, devoted themselves, and worshiped. They are not to be mourned nor buried; but they are to be an example on the face of the earth,",
   "pericope": {
     "id": "JER.P015",
@@ -20,14 +20,32 @@
       "line_number": 84,
       "raw_match": "[[JER.8:1]]-2",
       "reference_type": "wikilink_range",
-      "context": "Bones... carried out, prophesied in [[JER.8:1]]-2, suggests the Babylonians desecrated the reliquaries of the patriarchs. 2:24-25 Bones... carried out, prophesied in [[JER.8:1]]-2, suggests the Babylonians desecrated the reliquaries of the patriarchs."
+      "context": "Bones... carried out, prophesied in [[JER.8:1]]-2, suggests the Babylonians desecrated the reliquaries of the patriarchs. 2:24-25 Bones... carried out, prophesied in [[JER.8:1]]-2, suggests the Babylonians desecrated the reliquaries of the patriarchs.",
+      "edge_type": "instantiates",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/BAR_footnotes.md",
       "line_number": 86,
       "raw_match": "[[JER.8:1]]-2",
       "reference_type": "wikilink_range",
-      "context": "Bones... carried out, prophesied in [[JER.8:1]]-2, suggests the Babylonians desecrated the reliquaries of the patriarchs. 2:24-25 Bones... carried out, prophesied in [[JER.8:1]]-2, suggests the Babylonians desecrated the reliquaries of the patriarchs."
+      "context": "Bones... carried out, prophesied in [[JER.8:1]]-2, suggests the Babylonians desecrated the reliquaries of the patriarchs. 2:24-25 Bones... carried out, prophesied in [[JER.8:1]]-2, suggests the Babylonians desecrated the reliquaries of the patriarchs.",
+      "edge_type": "instantiates",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Or if anyone should shove someone because of enmity, or should throw any tool at him from an ambush, and that one dies,",
   "pericope": {
     "id": "NUM.P079",
@@ -20,7 +20,16 @@
       "line_number": 413,
       "raw_match": "[[NUM.35:19]]-21",
       "reference_type": "wikilink_range",
-      "context": "The woman's story of a blood feud between her sons parallels David's (see [[NUM.35:19]]-21 re the law of blood revenge). She presses the king to absolve this blood feud, which he does, indicative of the king's power as judge."
+      "context": "The woman's story of a blood feud between her sons parallels David's (see [[NUM.35:19]]-21 re the law of blood revenge). She presses the king to absolve this blood feud, which he does, indicative of the king's power as judge.",
+      "edge_type": "instantiates",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

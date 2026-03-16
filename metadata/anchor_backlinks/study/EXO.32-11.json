@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "But Moses prayed before the Lord God and said, 'Why, O Lord, does Your wrath burn hot against Your people whom You brought out of the land of Egypt with great power and a mighty hand?",
   "pericope": {
     "id": "EXO.P069",
@@ -12,7 +12,11 @@
     "range": "EXO.31:18-32:34",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "exodus_typology",
+    "judgment",
+    "prayer"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +24,21 @@
       "line_number": 68,
       "raw_match": "[[EXO.32:11]]",
       "reference_type": "wikilink",
-      "context": "With surprising boldness, Habakkuk questions God's judgment. Here Habakkuk is like many other biblical prophets: Abraham ([[GEN.18:23]]ff.), Moses ([[EXO.32:11]]ff.), Jeremiah (20:7), or Amos (7:1ff.). Throughout the Bible, men and women wrestle mightily with God and His will, like Jacob with God at the River Jabbok ([[GEN.32:22]])."
+      "context": "With surprising boldness, Habakkuk questions God's judgment. Here Habakkuk is like many other biblical prophets: Abraham ([[GEN.18:23]]ff.), Moses ([[EXO.32:11]]ff.), Jeremiah (20:7), or Amos (7:1ff.). Throughout the Bible, men and women wrestle mightily with God and His will, like Jacob with God at the River Jabbok ([[GEN.32:22]]).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "exodus_typology",
+        "judgment",
+        "prayer"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

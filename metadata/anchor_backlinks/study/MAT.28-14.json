@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "And if this comes to the governor's ears, we will appease him and make you secure.'",
   "pericope": {
     "id": "MAT.P096",
@@ -20,7 +20,16 @@
       "line_number": 1563,
       "raw_match": "[[MAT.28:11]]-15",
       "reference_type": "wikilink_range",
-      "context": "\"The ignorance of Scripture is a great cliff and a deep abyss. It is impossible for anyone to be without benefit if he reads continually and with attention\" (JohnChr). Furthermore, the rebellious were not persuaded even when people did rise from the dead ([[MAT.28:11]]-15; [[JOH.12:9]]-11)."
+      "context": "\"The ignorance of Scripture is a great cliff and a deep abyss. It is impossible for anyone to be without benefit if he reads continually and with attention\" (JohnChr). Furthermore, the rebellious were not persuaded even when people did rise from the dead ([[MAT.28:11]]-15; [[JOH.12:9]]-11).",
+      "edge_type": "instantiates",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

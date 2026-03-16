@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "And not only that, but we also rejoice in God through our Lord Jesus Christ, through whom we have now received the reconciliation.",
   "pericope": {
     "id": "ROM.P012",
@@ -12,7 +12,14 @@
     "range": "ROM.4:24-5:20",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "baptism",
+    "christology",
+    "covenant",
+    "logos",
+    "priesthood",
+    "resurrection"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +27,24 @@
       "line_number": 44,
       "raw_match": "[[ROM.5:11]]",
       "reference_type": "wikilink",
-      "context": "In the Levitical liturgy of worship, the people participated in the worship. They were not passive observers who watched while the priests did all the work, for the word liturgy means the work of the people. Both priest and people were actively involved. Similarly, in the new covenant liturgy of worship, both laity and clergy actively participate in the worship. Here, the worshiper placed his hand on the head of the animal and killed it, and in so doing was united with the offering; for the animal's death became the death of the offerer. Similarly, in baptism, the worshiper is united with Christ, for Christ's death becomes in the mystery of baptism the very death, burial, and resurrection of the one baptized ([[ROM.6:3]], [[ROM.6:4]]). In the Levitical liturgy of worship, the burnt offering was accepted as an atonement on behalf of the worshiper. Atonement is reconciliation to God. Similarly, in the new covenant liturgy of worship, Christ's offering of Himself is accepted as the worshiper's means of reconciliation to God ([[ROM.5:10]], [[ROM.5:11]]; [[2CO.5:18]])."
+      "context": "In the Levitical liturgy of worship, the people participated in the worship. They were not passive observers who watched while the priests did all the work, for the word liturgy means the work of the people. Both priest and people were actively involved. Similarly, in the new covenant liturgy of worship, both laity and clergy actively participate in the worship. Here, the worshiper placed his hand on the head of the animal and killed it, and in so doing was united with the offering; for the animal's death became the death of the offerer. Similarly, in baptism, the worshiper is united with Christ, for Christ's death becomes in the mystery of baptism the very death, burial, and resurrection of the one baptized ([[ROM.6:3]], [[ROM.6:4]]). In the Levitical liturgy of worship, the burnt offering was accepted as an atonement on behalf of the worshiper. Atonement is reconciliation to God. Similarly, in the new covenant liturgy of worship, Christ's offering of Himself is accepted as the worshiper's means of reconciliation to God ([[ROM.5:10]], [[ROM.5:11]]; [[2CO.5:18]]).",
+      "edge_type": "ascends_from",
+      "topic_threads": [
+        "baptism",
+        "christology",
+        "covenant",
+        "logos",
+        "priesthood",
+        "resurrection"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

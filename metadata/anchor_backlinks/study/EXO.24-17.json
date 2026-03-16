@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "The sight of the Lord's glory was like a burning fire on the top of the mountain before the children of Israel.",
   "pericope": {
     "id": "EXO.P049",
@@ -12,7 +12,11 @@
     "range": "EXO.24:8-24:17",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "suffering",
+    "temple"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,14 +24,40 @@
       "line_number": 158,
       "raw_match": "[[EXO.24:16]]-18",
       "reference_type": "wikilink_range",
-      "context": "The Lord of glory demonstrates that the dignity and honor of Jesus is that of God the Father Himself ([[EXO.24:16]]-18). The incarnate Son of God, who clothes Himself \"with light as with a garment\" ([[PSA.103:2]]), stood naked before human judges, receiving blows from hands which He had formed. The Lord of Glory, the Son of the Father, was crucified in His humanity ([[ACT.2:36]]). They crucified God!"
+      "context": "The Lord of glory demonstrates that the dignity and honor of Jesus is that of God the Father Himself ([[EXO.24:16]]-18). The incarnate Son of God, who clothes Himself \"with light as with a garment\" ([[PSA.103:2]]), stood naked before human judges, receiving blows from hands which He had formed. The Lord of Glory, the Son of the Father, was crucified in His humanity ([[ACT.2:36]]). They crucified God!",
+      "edge_type": "descends_to",
+      "topic_threads": [
+        "christology",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 6,
+        "title": "The Universe As a Language",
+        "polarity": "generation",
+        "operation": "descend",
+        "scale": "communal"
+      }
     },
     {
       "source_file": "study/footnotes/OT/3MA_footnotes.md",
       "line_number": 149,
       "raw_match": "[[EXO.24:17]]",
       "reference_type": "wikilink",
-      "context": "Your glory is a reference to the shekinah, or the manifest glory of God to Israel, who dwells in the tabernacle and the temple, showing His presence among the people. For Christians, the manifest glory of God to Israel is none other than our Lord Jesus Christ, who before His Incarnation made Himself present among the Israelites ([[EXO.24:16]], [[EXO.24:17]]; 40:34, 35; Lv 9:23; [[2CH.5:14]]; 7:1-3)."
+      "context": "Your glory is a reference to the shekinah, or the manifest glory of God to Israel, who dwells in the tabernacle and the temple, showing His presence among the people. For Christians, the manifest glory of God to Israel is none other than our Lord Jesus Christ, who before His Incarnation made Himself present among the Israelites ([[EXO.24:16]], [[EXO.24:17]]; 40:34, 35; Lv 9:23; [[2CH.5:14]]; 7:1-3).",
+      "edge_type": "descends_to",
+      "topic_threads": [
+        "christology",
+        "temple"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

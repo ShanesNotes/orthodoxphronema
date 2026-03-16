@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "not as Cain who was of the wicked one and murdered his brother. And why did he murder him? Because his works were evil and his brother's righteous.",
   "pericope": {
     "id": "1JN.P006",
@@ -12,7 +12,9 @@
     "range": "1JN.3:9-3:23",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "suffering"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 163,
       "raw_match": "[[1JN.3:12]]",
       "reference_type": "wikilink",
-      "context": "The Lord rejected Cain and his gifts. Why? The inward state of his heart was not right with God. As [[1JN.3:12]] says of him, \"who was of the wicked one.\" His passions are described in Jude 11 as \"the way of Cain.\""
+      "context": "The Lord rejected Cain and his gifts. Why? The inward state of his heart was not right with God. As [[1JN.3:12]] says of him, \"who was of the wicked one.\" His passions are described in Jude 11 as \"the way of Cain.\"",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

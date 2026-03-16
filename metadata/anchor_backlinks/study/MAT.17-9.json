@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Now as they came down from the mountain, Jesus commanded them, saying, 'Tell the vision to no one until the Son of Man is risen from the dead.'",
   "pericope": {
     "id": "MAT.P055",
@@ -12,7 +12,13 @@
     "range": "MAT.16:28-17:12",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "baptism",
+    "christology",
+    "divine_light",
+    "eschatology",
+    "resurrection"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +26,23 @@
       "line_number": 31,
       "raw_match": "[[MAT.17:1]]-9",
       "reference_type": "wikilink_range",
-      "context": "When God the Son became incarnate, this can be called an everlasting theophany. For having assumed human nature, Christ not only manifests God to the world during His earthly life ([[JOH.1:14]]; see also 14:9; [[COL.2:9]]; [[1JN.1:1]]-3), but He ascends into heaven in the same glorified flesh in which He will return at His Second Coming (see [[ACT.1:9]]-11). At the baptism of Christ ([[MAT.3:13]]-17), a further theophany occurs, as all three Persons of the Holy Trinity are made known: the Father in the voice from heaven, the Holy Spirit in the form of a dove, and the Incarnate Son. Hence, the feast day commemorating this event is known as Holy Theophany. On this day the Church sings, 'When Thou, O Lord, wast baptized in the Jordan, the worship of the Trinity was made manifest.' Additionally, at Christ's Transfiguration on Mt. Tabor ([[MAT.17:1]]-9), the Father again is heard, the Holy Spirit is present in the brightness of the cloud, and the Son shines with the gleaming radiance of His Divinity. ### Apocalyptic Literature *(after DAN.7:8)*"
+      "context": "When God the Son became incarnate, this can be called an everlasting theophany. For having assumed human nature, Christ not only manifests God to the world during His earthly life ([[JOH.1:14]]; see also 14:9; [[COL.2:9]]; [[1JN.1:1]]-3), but He ascends into heaven in the same glorified flesh in which He will return at His Second Coming (see [[ACT.1:9]]-11). At the baptism of Christ ([[MAT.3:13]]-17), a further theophany occurs, as all three Persons of the Holy Trinity are made known: the Father in the voice from heaven, the Holy Spirit in the form of a dove, and the Incarnate Son. Hence, the feast day commemorating this event is known as Holy Theophany. On this day the Church sings, 'When Thou, O Lord, wast baptized in the Jordan, the worship of the Trinity was made manifest.' Additionally, at Christ's Transfiguration on Mt. Tabor ([[MAT.17:1]]-9), the Father again is heard, the Holy Spirit is present in the brightness of the cloud, and the Son shines with the gleaming radiance of His Divinity. ### Apocalyptic Literature *(after DAN.7:8)*",
+      "edge_type": "echoes",
+      "topic_threads": [
+        "baptism",
+        "christology",
+        "divine_light",
+        "eschatology",
+        "resurrection"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

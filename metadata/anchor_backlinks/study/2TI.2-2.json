@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "And the things that you have heard from me among many witnesses, commit these to faithful men who will be able to teach others also.",
   "pericope": {
     "id": "2TI.P006",
@@ -12,7 +12,10 @@
     "range": "2TI.2:2-2:12",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "resurrection"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 45,
       "raw_match": "[[2TI.2:2]]",
       "reference_type": "wikilink",
-      "context": "The true gospel is taught by true apostles, but many declare themselves to be apostles. How can we know true apostles from false? (1) True apostles are called by God. They learn the gospel by revelation, either directly from the risen Son, as did the original apostles (1:11, 12), or by the revelation of apostolic tradition ([[2TI.2:2]]). They are called by grace, not according to works or a \"proper\" background (1:13-17). A true apostle brings glory to God, not to himself (1:18-23). (2) True apostles form one church government, holding the same doctrine and working by agreement reached in council (2:6-10). (3) True apostles stand firm in matters of conscience and are correctable when mistaken (2:11-14). Thus, Paul rebukes Peter sharply in public for his hypocritical ethnic elitism. 1:11-12 Apostolic tradition is grounded in divine revelation from Jesus Christ. Just as the Twelve were called by Christ, so was Paul (v. 1). Just as the Twelve received the gospel directly from Christ, so did Paul ([[ACT.9:3]]-6; 26:13-18). Just as the Twelve stood together as one, so Paul entered their unity in consensus and mutual submission."
+      "context": "The true gospel is taught by true apostles, but many declare themselves to be apostles. How can we know true apostles from false? (1) True apostles are called by God. They learn the gospel by revelation, either directly from the risen Son, as did the original apostles (1:11, 12), or by the revelation of apostolic tradition ([[2TI.2:2]]). They are called by grace, not according to works or a \"proper\" background (1:13-17). A true apostle brings glory to God, not to himself (1:18-23). (2) True apostles form one church government, holding the same doctrine and working by agreement reached in council (2:6-10). (3) True apostles stand firm in matters of conscience and are correctable when mistaken (2:11-14). Thus, Paul rebukes Peter sharply in public for his hypocritical ethnic elitism. 1:11-12 Apostolic tradition is grounded in divine revelation from Jesus Christ. Just as the Twelve were called by Christ, so was Paul (v. 1). Just as the Twelve received the gospel directly from Christ, so did Paul ([[ACT.9:3]]-6; 26:13-18). Just as the Twelve stood together as one, so Paul entered their unity in consensus and mutual submission.",
+      "edge_type": "scales_to",
+      "topic_threads": [
+        "christology",
+        "resurrection"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "So Jacob called the name of that place, the Form of God: 'For I saw God face to face, and my soul was saved.'",
   "pericope": {
     "id": "GEN.P053",
@@ -12,7 +12,9 @@
     "range": "GEN.32:21-32:31",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 23,
       "raw_match": "[[GEN.32:25]]-31",
       "reference_type": "wikilink_range",
-      "context": "An often cited theophany of Christ occurs in the visit of the 'three men' to Abraham and Sarah in [[GEN.18:1]]-16: 'Then God appeared to him at the oak of Mamre' (v. 1). Though three men are there, Abraham addresses them in the singular, 'Lord.' He responds in the singular (vv. 9-15). As St. Ephraim the Syrian says, 'Therefore the Lord... now appeared to Abraham clearly in one of the three.' The three are generally considered to be Christ the Lord, along with two attending angels. At [[GEN.32:25]]-31, Christ is the 'man' who wrestles with Jacob, after which Jacob says, 'I saw God face to face' (v. 30). St. Cyril of Jerusalem asks the Jews concerning these theophanies to Abraham and Jacob, 'What strange thing do we announce in saying that God was made Man, when you yourselves say that Abraham received the Lord as a guest? What strange thing do we announce, when Jacob says, 'For I have seen God face to face, and my life is preserved'? The Lord, who ate with Abraham, also ate with us.' In the Book of Daniel, a heathen king bears witness to another theophany of Christ. When King Nebuchadnezzar of Babylon peers into the fiery furnace, upon seeing a 'fourth man' he exclaims, 'The vision of the fourth is like the Son of God' ([[DAN.3:92]]). #### Other Appearances Of God"
+      "context": "An often cited theophany of Christ occurs in the visit of the 'three men' to Abraham and Sarah in [[GEN.18:1]]-16: 'Then God appeared to him at the oak of Mamre' (v. 1). Though three men are there, Abraham addresses them in the singular, 'Lord.' He responds in the singular (vv. 9-15). As St. Ephraim the Syrian says, 'Therefore the Lord... now appeared to Abraham clearly in one of the three.' The three are generally considered to be Christ the Lord, along with two attending angels. At [[GEN.32:25]]-31, Christ is the 'man' who wrestles with Jacob, after which Jacob says, 'I saw God face to face' (v. 30). St. Cyril of Jerusalem asks the Jews concerning these theophanies to Abraham and Jacob, 'What strange thing do we announce in saying that God was made Man, when you yourselves say that Abraham received the Lord as a guest? What strange thing do we announce, when Jacob says, 'For I have seen God face to face, and my life is preserved'? The Lord, who ate with Abraham, also ate with us.' In the Book of Daniel, a heathen king bears witness to another theophany of Christ. When King Nebuchadnezzar of Babylon peers into the fiery furnace, upon seeing a 'fourth man' he exclaims, 'The vision of the fourth is like the Son of God' ([[DAN.3:92]]). #### Other Appearances Of God",
+      "edge_type": "witnesses",
+      "topic_threads": [
+        "christology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

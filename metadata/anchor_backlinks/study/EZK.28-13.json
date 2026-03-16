@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "You were the luxury of the paradise of God, adorned with every good stone: sardius, topaz, emerald, and diamond, sapphire, jasper, silver, and gold, stone of Liguria, agate, and amethyst, chrysolite, beryl, and onyx. You filled your treasuries and your storehouses with gold from the very day you were created.",
   "pericope": {
     "id": "EZK.P043",
@@ -12,7 +12,9 @@
     "range": "EZK.28:10-28:18",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "creation_theology"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 679,
       "raw_match": "[[EZK.28:13]]",
       "reference_type": "wikilink",
-      "context": "Satan was created first among all the angels and was exalted as ruler of creation (see [[EZK.28:12]], [[EZK.28:13]]; Is 14:12)."
+      "context": "Satan was created first among all the angels and was exalted as ruler of creation (see [[EZK.28:12]], [[EZK.28:13]]; Is 14:12).",
+      "edge_type": "ascends_from",
+      "topic_threads": [
+        "creation_theology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 4,
+        "title": "Reconstructing the Language of Creation",
+        "polarity": "vertical",
+        "operation": "ascend",
+        "scale": "cosmic"
+      }
     }
   ]
 }

@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Now Joshua the son of Nun, the servant of the Lord, died at one hundred and ten years old.",
   "pericope": {
     "id": "JDG.P008",
@@ -20,7 +20,16 @@
       "line_number": 15,
       "raw_match": "[[JDG.2:7]]-9",
       "reference_type": "wikilink_range",
-      "context": ", 2 Once Joshua died (recorded both in [[JOS.24:30]]-32 and [[JDG.2:7]]-9), the question became, \"Who will lead Israel in the fight against the Canaanites?\" This represents the transition from the people under Joshua generally obeying God and experiencing victory to their lapsing into idolatry and disobedience under the judges. Judah is a reference to the tribe."
+      "context": ", 2 Once Joshua died (recorded both in [[JOS.24:30]]-32 and [[JDG.2:7]]-9), the question became, \"Who will lead Israel in the fight against the Canaanites?\" This represents the transition from the people under Joshua generally obeying God and experiencing victory to their lapsing into idolatry and disobedience under the judges. Judah is a reference to the tribe.",
+      "edge_type": "instantiates",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

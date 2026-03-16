@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-15T23:42:04+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "But when He saw the multitudes, He was moved with compassion for them, because they were weary and scattered, like sheep having no shepherd.",
   "pericope": {
     "id": "MAT.P025",
@@ -12,7 +12,11 @@
     "range": "MAT.9:35-9:37",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "mercy",
+    "shepherd",
+    "suffering"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +24,21 @@
       "line_number": 12,
       "raw_match": "[[MAT.9:36]]",
       "reference_type": "wikilink",
-      "context": "**9:36** \u2014 [[MAT.9:36]]; 10:1\u20138: This passage is read on June 30, the Synaxis of the Twelve Apostles."
+      "context": "**9:36** \u2014 [[MAT.9:36]]; 10:1\u20138: This passage is read on June 30, the Synaxis of the Twelve Apostles.",
+      "edge_type": "echoes",
+      "topic_threads": [
+        "mercy",
+        "shepherd",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

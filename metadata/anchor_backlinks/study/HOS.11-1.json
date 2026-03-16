@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "'For Israel is a child, and I loved him, And out of Egypt I have called his children.",
   "pericope": {
     "id": "HOS.P012",
@@ -12,7 +12,10 @@
     "range": "HOS.2:23-14:9",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "exodus_typology"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 143,
       "raw_match": "[[HOS.11:1]]",
       "reference_type": "wikilink",
-      "context": "Out of Egypt I called my Son refers first to Israel being brought out of captivity ([[HOS.11:1]]). In the OT, \"son\" can refer to the whole nation of Israel. Here Jesus fulfills this calling as the true Son of God by coming out of Egypt."
+      "context": "Out of Egypt I called my Son refers first to Israel being brought out of captivity ([[HOS.11:1]]). In the OT, \"son\" can refer to the whole nation of Israel. Here Jesus fulfills this calling as the true Son of God by coming out of Egypt.",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "exodus_typology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

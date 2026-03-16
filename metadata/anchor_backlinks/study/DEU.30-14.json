@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "But the word is very near you, in your mouth, in your heart, and in your hands, that you may do it.",
   "pericope": {
     "id": "DEU.P062",
@@ -12,7 +12,10 @@
     "range": "DEU.29:28-30:18",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "faith"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 214,
       "raw_match": "[[DEU.30:14]]",
       "reference_type": "wikilink",
-      "context": "The law may be kept by obedience (Lv 18:5) and by faith ([[DEU.30:14]]). Obedience without faith cannot bring anyone to righteousness. Yet faith, even apart from the law, can bring a person to righteousness, because Jesus Christ supersedes the law."
+      "context": "The law may be kept by obedience (Lv 18:5) and by faith ([[DEU.30:14]]). Obedience without faith cannot bring anyone to righteousness. Yet faith, even apart from the law, can bring a person to righteousness, because Jesus Christ supersedes the law.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology",
+        "faith"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

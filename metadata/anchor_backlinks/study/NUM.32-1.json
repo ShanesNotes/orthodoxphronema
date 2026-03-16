@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Now the sons of Reuben and the sons of Gad had a very great multitude of cattle, and they saw the land of Jazer and the land of Gilead; and they saw the place was a place for cattle.",
   "pericope": {
     "id": "NUM.P073",
@@ -12,7 +12,9 @@
     "range": "NUM.31:54-32:41",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "shepherd"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 283,
       "raw_match": "[[NUM.32:1]]",
       "reference_type": "wikilink",
-      "context": "The veil speaks of the hidden mysteries of God in the Church. According to Scripture, Mount Gilead had exceptionally good pasture ([[NUM.32:1]]), again looking ahead to the Church."
+      "context": "The veil speaks of the hidden mysteries of God in the Church. According to Scripture, Mount Gilead had exceptionally good pasture ([[NUM.32:1]]), again looking ahead to the Church.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "shepherd"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "that I may know Him and the power of His resurrection, and the fellowship of His sufferings, being conformed to His death,",
   "pericope": {
     "id": "PHP.P008",
@@ -12,7 +12,11 @@
     "range": "PHP.2:30-3:10",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "resurrection",
+    "suffering"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +24,21 @@
       "line_number": 1751,
       "raw_match": "[[PHP.3:10]]",
       "reference_type": "wikilink",
-      "context": "No longer remembers does not imply the faithful are to forget the Passion and Cross of Christ, any more than a woman \"forgets\" labor. Rather, we now see these sufferings in light of the victory of the Resurrection, and this victory transfigures our perception of sufferings. Christ's victory allows us to rejoice in anguish because of the infinitely greater good that comes from it ([[ROM.5:3]]-5; [[PHP.3:10]])."
+      "context": "No longer remembers does not imply the faithful are to forget the Passion and Cross of Christ, any more than a woman \"forgets\" labor. Rather, we now see these sufferings in light of the victory of the Resurrection, and this victory transfigures our perception of sufferings. Christ's victory allows us to rejoice in anguish because of the infinitely greater good that comes from it ([[ROM.5:3]]-5; [[PHP.3:10]]).",
+      "edge_type": "ascends_from",
+      "topic_threads": [
+        "christology",
+        "resurrection",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

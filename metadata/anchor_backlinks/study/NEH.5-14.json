@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Moreover, from the time that I was appointed to be their governor in the land of Judah, from the twentieth year until the thirty-second year of King Artaxerxes, twelve years, neither I nor my brothers ate the governor's provisions.",
   "pericope": {
     "id": "NEH.P019",
@@ -12,7 +12,9 @@
     "range": "NEH.4:5-7:37",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 1294,
       "raw_match": "[[NEH.5:14]]-19",
       "reference_type": "wikilink_range",
-      "context": "While St. Paul teaches the clergy should be supported materially by the faithful ([[1CO.9:1]]-23), he has not required this for himself from the communities he established. This allowed Paul to preach all the more freely and took away any opportunity for others to question his motives (compare with [[NEH.5:14]]-19; 13:10-13). The quotation from Christ (v. 35) is not recorded in the four Gospels (see [[JOH.21:25]])."
+      "context": "While St. Paul teaches the clergy should be supported materially by the faithful ([[1CO.9:1]]-23), he has not required this for himself from the communities he established. This allowed Paul to preach all the more freely and took away any opportunity for others to question his motives (compare with [[NEH.5:14]]-19; 13:10-13). The quotation from Christ (v. 35) is not recorded in the four Gospels (see [[JOH.21:25]]).",
+      "edge_type": "witnesses",
+      "topic_threads": [
+        "christology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

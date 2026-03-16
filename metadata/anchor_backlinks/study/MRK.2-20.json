@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "But the days will come when the bridegroom will be taken away from them, and then they will fast in those days.",
   "pericope": {
     "id": "MRK.P008",
@@ -20,7 +20,16 @@
       "line_number": 627,
       "raw_match": "[[MRK.2:20]]",
       "reference_type": "wikilink",
-      "context": "Jesus' earthly life is a time of joyous blessings. But there will come a time when His followers will practice the fast (see notes on [[MAT.9:14]]-17; [[MRK.2:20]])."
+      "context": "Jesus' earthly life is a time of joyous blessings. But there will come a time when His followers will practice the fast (see notes on [[MAT.9:14]]-17; [[MRK.2:20]]).",
+      "edge_type": "instantiates",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

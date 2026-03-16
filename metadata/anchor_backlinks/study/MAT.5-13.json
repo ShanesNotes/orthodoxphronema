@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "'You are the salt of the earth; but if the salt loses its flavor, how shall it be seasoned? It is then good for nothing but to be thrown out and trampled underfoot by men.",
   "pericope": {
     "id": "MAT.P011",
@@ -12,7 +12,12 @@
     "range": "MAT.4:25-5:15",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "divine_light",
+    "priesthood",
+    "temple"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +25,22 @@
       "line_number": 932,
       "raw_match": "[[MAT.5:13]]",
       "reference_type": "wikilink",
-      "context": "The pure oil was for the golden lampstand that stood in the holy place along with the table of the presence and the altar of incense. Only the priests were to be in the holy place to perform their duties by the light of this lampstand. The pure oil for the lampstand, however, was to be brought by the people. Thus, they and the priests were involved with this light. Christ is the Light of the world, for He enlightens all. Twice Jesus said He was the light of the world--in [[JOH.8:12]] and 9:5--but He also told His followers they, too, were the light of the world ([[MAT.5:13]])."
+      "context": "The pure oil was for the golden lampstand that stood in the holy place along with the table of the presence and the altar of incense. Only the priests were to be in the holy place to perform their duties by the light of this lampstand. The pure oil for the lampstand, however, was to be brought by the people. Thus, they and the priests were involved with this light. Christ is the Light of the world, for He enlightens all. Twice Jesus said He was the light of the world--in [[JOH.8:12]] and 9:5--but He also told His followers they, too, were the light of the world ([[MAT.5:13]]).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "divine_light",
+        "priesthood",
+        "temple"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

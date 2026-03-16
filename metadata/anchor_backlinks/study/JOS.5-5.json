@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Joshua circumcised all these.",
   "pericope": {
     "id": "JOS.P007",
@@ -12,7 +12,12 @@
     "range": "JOS.5:1-5:11",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "covenant",
+    "repentance",
+    "suffering"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +25,22 @@
       "line_number": 57,
       "raw_match": "[[JOS.5:2]]-9",
       "reference_type": "wikilink_range",
-      "context": "Gilgal (v. 1) signifies God's covenant with Israel (see [[JOS.5:2]]-9). Just as He left the foreigners in the land of promise \"that He might test Israel\" (3:1), so God allows sin, suffering, and death to continue for a time in the world that He might test, strengthen, and draw the repentant soul to Himself. And as He raised up judges (v. 16) to deliver Israel, so He provides salvation in Christ for all who turn to Him. Those who continue in sin and would not listen (v. 17) fall into the hands of the enemy, but God delivers the faithful out of hardship (see note on 3Kg 22:23). This pattern will repeat itself: (1) God disciplines Israel for idolatry and disobedience; (2) Israel cries out in repentance for God's help; (3) God provides another judge for deliverance."
+      "context": "Gilgal (v. 1) signifies God's covenant with Israel (see [[JOS.5:2]]-9). Just as He left the foreigners in the land of promise \"that He might test Israel\" (3:1), so God allows sin, suffering, and death to continue for a time in the world that He might test, strengthen, and draw the repentant soul to Himself. And as He raised up judges (v. 16) to deliver Israel, so He provides salvation in Christ for all who turn to Him. Those who continue in sin and would not listen (v. 17) fall into the hands of the enemy, but God delivers the faithful out of hardship (see note on 3Kg 22:23). This pattern will repeat itself: (1) God disciplines Israel for idolatry and disobedience; (2) Israel cries out in repentance for God's help; (3) God provides another judge for deliverance.",
+      "edge_type": "ascends_from",
+      "topic_threads": [
+        "christology",
+        "covenant",
+        "repentance",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "though He was a Son, yet He learned obedience by the things which He suffered.",
   "pericope": {
     "id": "HEB.P012",
@@ -12,7 +12,12 @@
     "range": "HEB.5:6-6:7",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "kingdom",
+    "praise",
+    "resurrection",
+    "suffering"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +25,22 @@
       "line_number": 247,
       "raw_match": "[[HEB.5:7]]-9",
       "reference_type": "wikilink_range",
-      "context": "Ps 20 is also a royal psalm, because it is a prophecy of the King's triumphal Ascension, in which He is also the End. The Father is identified as the Lord (vv. 2, 8) and as the Most High (v. 8); and the King is also called the Lord (v. 10), who is exalted (v. 14) in His Ascension, as well as the Father's hand and right hand (v. 9). In being called by these names, Jesus is shown to be one in essence and coequal with the Father. Jesus asked the Father to raise Him from the dead and to enthrone Him at His right hand for the sake of our salvation (vv. 1-8; see also [[HEB.5:7]]-9). And in His death, Resurrection and Ascension, He destroyed all the enemies, namely, the devil and his angels (vv. 9-13). So, in response to all the Lord's mighty deeds, the Church sings and praises Him (v. 14)."
+      "context": "Ps 20 is also a royal psalm, because it is a prophecy of the King's triumphal Ascension, in which He is also the End. The Father is identified as the Lord (vv. 2, 8) and as the Most High (v. 8); and the King is also called the Lord (v. 10), who is exalted (v. 14) in His Ascension, as well as the Father's hand and right hand (v. 9). In being called by these names, Jesus is shown to be one in essence and coequal with the Father. Jesus asked the Father to raise Him from the dead and to enthrone Him at His right hand for the sake of our salvation (vv. 1-8; see also [[HEB.5:7]]-9). And in His death, Resurrection and Ascension, He destroyed all the enemies, namely, the devil and his angels (vv. 9-13). So, in response to all the Lord's mighty deeds, the Church sings and praises Him (v. 14).",
+      "edge_type": "ascends_from",
+      "topic_threads": [
+        "kingdom",
+        "praise",
+        "resurrection",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

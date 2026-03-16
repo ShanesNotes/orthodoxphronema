@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Then Abraham breathed his last and died in a good old age, old and full of days and was added to his people.",
   "pericope": {
     "id": "GEN.P037",
@@ -12,7 +12,10 @@
     "range": "GEN.25:6-25:10",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "praise",
+    "prayer"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 934,
       "raw_match": "[[GEN.25:8]]",
       "reference_type": "wikilink",
-      "context": "The Lord promises to fulfill the number of our days if we truly serve Him. Those who do so will not die before their service is completed. Abraham was an example of this ([[GEN.25:8]]), and the Psalmist prays, \"Take me not away in the midst of my days\" (Ps 101:25; AthanG)."
+      "context": "The Lord promises to fulfill the number of our days if we truly serve Him. Those who do so will not die before their service is completed. Abraham was an example of this ([[GEN.25:8]]), and the Psalmist prays, \"Take me not away in the midst of my days\" (Ps 101:25; AthanG).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "praise",
+        "prayer"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

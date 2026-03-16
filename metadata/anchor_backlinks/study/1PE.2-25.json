@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "For you were like sheep going astray, but have now returned to the Shepherd and Overseer of your souls.",
   "pericope": {
     "id": "1PE.P009",
@@ -12,7 +12,12 @@
     "range": "1PE.2:25-3:6",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "israel_church",
+    "priesthood",
+    "shepherd"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +25,22 @@
       "line_number": 87,
       "raw_match": "[[1PE.2:25]]",
       "reference_type": "wikilink",
-      "context": "The tribe of Levi was presented to Aaron and his sons to minister liturgically with them. The service of the priests and the Levites was on behalf of the children of Israel. Aaron's sons were priests, but Aaron himself was the high priest. The other Levites assisted in the liturgical worship. The liturgical service of the priests and Levites was a type of liturgical service in the Church. The high priest was a type of Christ, our Great High Priest and \"the Shepherd and Overseer [Bishop] of our souls\" ([[1PE.2:25]]). The bishops are living icons of Christ, the high priests of the Church. Similarly, the priests in the Church are also icons of Christ and serve liturgically with the bishop under whom they are assigned as his spiritual sons. The Levites served liturgically with Aaron and his sons, as their assistants. They were types of the deacons, who assist the bishop in the liturgical worship; and when the bishop is not present, they assist the priest."
+      "context": "The tribe of Levi was presented to Aaron and his sons to minister liturgically with them. The service of the priests and the Levites was on behalf of the children of Israel. Aaron's sons were priests, but Aaron himself was the high priest. The other Levites assisted in the liturgical worship. The liturgical service of the priests and Levites was a type of liturgical service in the Church. The high priest was a type of Christ, our Great High Priest and \"the Shepherd and Overseer [Bishop] of our souls\" ([[1PE.2:25]]). The bishops are living icons of Christ, the high priests of the Church. Similarly, the priests in the Church are also icons of Christ and serve liturgically with the bishop under whom they are assigned as his spiritual sons. The Levites served liturgically with Aaron and his sons, as their assistants. They were types of the deacons, who assist the bishop in the liturgical worship; and when the bishop is not present, they assist the priest.",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "israel_church",
+        "priesthood",
+        "shepherd"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

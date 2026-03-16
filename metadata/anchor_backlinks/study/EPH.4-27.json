@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "nor give place to the devil.",
   "pericope": {
     "id": "EPH.P012",
@@ -20,7 +20,16 @@
       "line_number": 551,
       "raw_match": "[[EPH.4:27]]",
       "reference_type": "wikilink",
-      "context": "Luke places this teaching in the context of the end of the age ([[LUK.12:57]]-59); here it is in the context of reconciliation surrounding the Liturgy. Delay in reconciliation allows for the spread of animosity and other evils ([[EPH.4:26]], [[EPH.4:27]])."
+      "context": "Luke places this teaching in the context of the end of the age ([[LUK.12:57]]-59); here it is in the context of reconciliation surrounding the Liturgy. Delay in reconciliation allows for the spread of animosity and other evils ([[EPH.4:26]], [[EPH.4:27]]).",
+      "edge_type": "instantiates",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

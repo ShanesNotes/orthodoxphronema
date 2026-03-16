@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "So when they had rowed about three or four miles, they saw Jesus walking on the sea and drawing near the boat; and they were afraid.",
   "pericope": {
     "id": "JOH.P016",
@@ -12,7 +12,10 @@
     "range": "JOH.6:14-6:20",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "covenant"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 171,
       "raw_match": "[[JOH.6:19]]",
       "reference_type": "wikilink",
-      "context": "Bildad's images, which rightly describe all who forget the Lord, are wasted on Job. In speaking of those who have forgotten God, St. Gregory writes that while they accept God's gifts and blessings, \"they do not seek His glory, but their own applause.\" 9:2 Job's question is answered in Christ, the only truly righteous One. 9:5 St. Ambrose sees in the mountains a type of the Old Testament and the Prophets. \"The Jew grew old; grace was renewed.\" Christ \"overturned\" the understanding of the Law ([[2CO.5:17]]) and established the comprehension that is of the Spirit. 9:8 St. Gregory the Great sees in heaven a type of the preaching of the apostles and evangelists. St. Cyril notes that this is the same Lord who, as Man, walked on the sea as on firm ground ([[JOH.6:19]])."
+      "context": "Bildad's images, which rightly describe all who forget the Lord, are wasted on Job. In speaking of those who have forgotten God, St. Gregory writes that while they accept God's gifts and blessings, \"they do not seek His glory, but their own applause.\" 9:2 Job's question is answered in Christ, the only truly righteous One. 9:5 St. Ambrose sees in the mountains a type of the Old Testament and the Prophets. \"The Jew grew old; grace was renewed.\" Christ \"overturned\" the understanding of the Law ([[2CO.5:17]]) and established the comprehension that is of the Spirit. 9:8 St. Gregory the Great sees in heaven a type of the preaching of the apostles and evangelists. St. Cyril notes that this is the same Lord who, as Man, walked on the sea as on firm ground ([[JOH.6:19]]).",
+      "edge_type": "witnesses",
+      "topic_threads": [
+        "christology",
+        "covenant"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 5,
+        "title": "Heaven and Earth: A Spiritual Perspective",
+        "polarity": "generation",
+        "operation": "inform",
+        "scale": "individual"
+      }
     }
   ]
 }

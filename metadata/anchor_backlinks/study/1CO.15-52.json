@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "in amoment, in the twinkling of an eye, at the last trumpet. For the trumpet will sound, and the dead will be raised incorruptible, and we shall be changed.",
   "pericope": {
     "id": "1CO.P038",
@@ -12,7 +12,18 @@
     "range": "1CO.15:49-15:52",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "creation_theology",
+    "eschatology",
+    "eucharist",
+    "faith",
+    "israel_church",
+    "praise",
+    "resurrection",
+    "suffering",
+    "wisdom"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,21 +31,69 @@
       "line_number": 19,
       "raw_match": "[[1CO.15:50]]-54",
       "reference_type": "wikilink_range",
-      "context": "For the ancient Hebrews, death meant a return to the same earth from which all are taken: 'For earth you are, and to the earth you shall return' ([[GEN.3:19]]; [[JOB.7:21]]). Nevertheless, a general idea developed that the souls of the dead do continue, though only in a shadowy, semi-comatose kind of existence in a netherworld called sheol, or Hades ([[GEN.37:34]], [[GEN.37:35]]; [[PSA.114:3]], 138:8; [[ISA.14:9]]-11), a land of 'oblivion' ([[PSA.87:10]]-12; [[JOB.14:18]]-22). In sheolthe depths or abyss of the earth, 'the Pit'-even the righteous dead abide, without any power of deliverance ([[JOB.7:6]]-10; [[PSA.88:48]]; [[ISA.38:18]]; [[EZK.26:19]]-21). Yet there was at least a general hope that one's memory would be kept alive by one's community and descendants ([[PSA.111:6]]; [[PRO.10:7]]; [[DEU.25:5]], [[DEU.25:6]]). Only gradually did God reveal glimpses of a glorious life after death to His people, a hope that would become available to all through the power of Christ's Resurrection. An early hint of this coming hope was revealed to Job. Amid his terrible suffering, Job asks, 'If a man dies, shall he live again?' And through a flash of divine insight, he says: 'I will wait until I arise' ([[JOB.14:14]]). Psalms also begin to reflect upon personal resurrection to everlasting life ([[PSA.15:8]]-11; 48:15; 70:20-23; 90:1-16). The first indications of a corporate resurrection of the people of Israel are given in the 8th century BC through Hosea ([[HOS.6:1]]-3; 13:14) and Isaiah ([[ISA.26:19]]). In the early 6th century BC, Ezekiel receives the dramatic vision of a miraculous reconstitution of 'the whole house of Israel' on the plain covered with dry bones ([[EZK.37:1]]-14). The Church reads this passage triumphantly on Great and Holy Saturday. Why? Because it is prophetic of the freeing of all the souls from Hades by Christ on that day ([[1PE.3:19]]; [[EPH.4:8]]-10) and the general resurrection of all the dead on the last day. By the late first century BC, as seen in the Wisdom of Solomon, immortality is directly linked with living in wisdom and righteousness: 'Kinship with Wisdom is immortality' ([[WIS.8:17]]); 'The righteous shall live forever' ([[WIS.5:15]]; see also 1:13-15; 2:22, 23; 6:1721). Various passages from this book ([[WIS.3:1]]-9; 4:7-15; 5:15-6:3) are read at Vespers in commemoration of some of the more prominent saints. At the time of Christ, the Sadducees rejected belief in an afterlife (see [[MAT.22:23]]), while the Pharisees did believe in resurrection and immortality ([[ACT.23:6]]-8). It was the Pharisees' view which came to dominate in later Judaism. Lazarus' sister Martha knew about a general 'resurrection at the last day' ([[JOH.11:24]]), but Jesus declares to her that resurrection and eternal life come only through Him ([[JOH.11:25]]; see 3:14-16; 4:14; 6:40, 47-58; 14:1-6). Christ promises that believers will be with Him after their death ([[LUK.23:42]], [[LUK.23:43]]; see [[2CO.5:8]]; [[PHP.1:21]]-23). The souls of believers are further enlightened in Christ, as they experience a foretaste of the eternal heavenly kingdom. Yet all the departed still await the general resurrection, the day when their souls will be reunited with their bodies, which are transformed into a glorified state ([[1CO.15:50]]-54) like Christ's own body ([[PHP.3:20]], [[PHP.3:21]]; [[1JN.3:2]])."
+      "context": "For the ancient Hebrews, death meant a return to the same earth from which all are taken: 'For earth you are, and to the earth you shall return' ([[GEN.3:19]]; [[JOB.7:21]]). Nevertheless, a general idea developed that the souls of the dead do continue, though only in a shadowy, semi-comatose kind of existence in a netherworld called sheol, or Hades ([[GEN.37:34]], [[GEN.37:35]]; [[PSA.114:3]], 138:8; [[ISA.14:9]]-11), a land of 'oblivion' ([[PSA.87:10]]-12; [[JOB.14:18]]-22). In sheolthe depths or abyss of the earth, 'the Pit'-even the righteous dead abide, without any power of deliverance ([[JOB.7:6]]-10; [[PSA.88:48]]; [[ISA.38:18]]; [[EZK.26:19]]-21). Yet there was at least a general hope that one's memory would be kept alive by one's community and descendants ([[PSA.111:6]]; [[PRO.10:7]]; [[DEU.25:5]], [[DEU.25:6]]). Only gradually did God reveal glimpses of a glorious life after death to His people, a hope that would become available to all through the power of Christ's Resurrection. An early hint of this coming hope was revealed to Job. Amid his terrible suffering, Job asks, 'If a man dies, shall he live again?' And through a flash of divine insight, he says: 'I will wait until I arise' ([[JOB.14:14]]). Psalms also begin to reflect upon personal resurrection to everlasting life ([[PSA.15:8]]-11; 48:15; 70:20-23; 90:1-16). The first indications of a corporate resurrection of the people of Israel are given in the 8th century BC through Hosea ([[HOS.6:1]]-3; 13:14) and Isaiah ([[ISA.26:19]]). In the early 6th century BC, Ezekiel receives the dramatic vision of a miraculous reconstitution of 'the whole house of Israel' on the plain covered with dry bones ([[EZK.37:1]]-14). The Church reads this passage triumphantly on Great and Holy Saturday. Why? Because it is prophetic of the freeing of all the souls from Hades by Christ on that day ([[1PE.3:19]]; [[EPH.4:8]]-10) and the general resurrection of all the dead on the last day. By the late first century BC, as seen in the Wisdom of Solomon, immortality is directly linked with living in wisdom and righteousness: 'Kinship with Wisdom is immortality' ([[WIS.8:17]]); 'The righteous shall live forever' ([[WIS.5:15]]; see also 1:13-15; 2:22, 23; 6:1721). Various passages from this book ([[WIS.3:1]]-9; 4:7-15; 5:15-6:3) are read at Vespers in commemoration of some of the more prominent saints. At the time of Christ, the Sadducees rejected belief in an afterlife (see [[MAT.22:23]]), while the Pharisees did believe in resurrection and immortality ([[ACT.23:6]]-8). It was the Pharisees' view which came to dominate in later Judaism. Lazarus' sister Martha knew about a general 'resurrection at the last day' ([[JOH.11:24]]), but Jesus declares to her that resurrection and eternal life come only through Him ([[JOH.11:25]]; see 3:14-16; 4:14; 6:40, 47-58; 14:1-6). Christ promises that believers will be with Him after their death ([[LUK.23:42]], [[LUK.23:43]]; see [[2CO.5:8]]; [[PHP.1:21]]-23). The souls of believers are further enlightened in Christ, as they experience a foretaste of the eternal heavenly kingdom. Yet all the departed still await the general resurrection, the day when their souls will be reunited with their bodies, which are transformed into a glorified state ([[1CO.15:50]]-54) like Christ's own body ([[PHP.3:20]], [[PHP.3:21]]; [[1JN.3:2]]).",
+      "edge_type": "opposes",
+      "topic_threads": [
+        "christology",
+        "eschatology",
+        "faith",
+        "israel_church",
+        "praise",
+        "resurrection",
+        "suffering",
+        "wisdom"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 9,
+        "title": "Example: The Cherubim of Ezekiel I",
+        "polarity": "generation",
+        "operation": "inform",
+        "scale": "intercommunal"
+      }
     },
     {
       "source_file": "study/footnotes/NT/MAT_footnotes.md",
       "line_number": 2082,
       "raw_match": "[[1CO.15:51]]-55",
       "reference_type": "wikilink_range",
-      "context": "The Scriptures describe the end times in a variety of ways, so that no precise chronology can be determined (see Dan 7-12; Mk 13; Lk 21; [[1CO.15:51]]-55; [[1TH.4:13]]-17; [[2TH.2:1]]-10; and the Book of Revelation). The Lord's emphasis is on watchfulness and the practice of virtue rather than on constructing timetables of things that have not yet happened. In Matthew's account here, the end is described as encompassing (1) the initial sorrows (vv. 4-14), (2) the great tribulation (vv. 15-28), and (3) the coming of the Son of Man (vv. 29-31). The period of the great tribulation includes the entire Christian era and is not limited to the final years before Christ's return."
+      "context": "The Scriptures describe the end times in a variety of ways, so that no precise chronology can be determined (see Dan 7-12; Mk 13; Lk 21; [[1CO.15:51]]-55; [[1TH.4:13]]-17; [[2TH.2:1]]-10; and the Book of Revelation). The Lord's emphasis is on watchfulness and the practice of virtue rather than on constructing timetables of things that have not yet happened. In Matthew's account here, the end is described as encompassing (1) the initial sorrows (vv. 4-14), (2) the great tribulation (vv. 15-28), and (3) the coming of the Son of Man (vv. 29-31). The period of the great tribulation includes the entire Christian era and is not limited to the final years before Christ's return.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/NT/REV_footnotes.md",
       "line_number": 110,
       "raw_match": "[[1CO.15:52]]",
       "reference_type": "wikilink",
-      "context": "In the Spirit may mean John received the revelation in a visionary ecstasy (see Ezk 3:12), but more probably that he was in the worship (\"in Spirit and in truth\") of the Lord. The Lord's Day is the earliest reference to the Christian name for Sunday. The Didache and St. Ignatius of Antioch show this name was used very early for the day when Christians gathered to celebrate the Resurrection in the Holy Eucharist. As a fulfillment of the first day of the week of the old creation, Sunday becomes the \"eighth day,\" the \"first day of the new creation.\" The term \"eighth day\" is seen in 2En 33:1 and inaugurates the first day of the timeless age to come. The loud voice, as of a trumpet is a traditional, eschatological, apocalyptic introduction describing an appearance of the Lord (see Ex 19:16, 19; [[MAT.24:31]]; [[1CO.15:52]]; [[1TH.4:16]])."
+      "context": "In the Spirit may mean John received the revelation in a visionary ecstasy (see Ezk 3:12), but more probably that he was in the worship (\"in Spirit and in truth\") of the Lord. The Lord's Day is the earliest reference to the Christian name for Sunday. The Didache and St. Ignatius of Antioch show this name was used very early for the day when Christians gathered to celebrate the Resurrection in the Holy Eucharist. As a fulfillment of the first day of the week of the old creation, Sunday becomes the \"eighth day,\" the \"first day of the new creation.\" The term \"eighth day\" is seen in 2En 33:1 and inaugurates the first day of the timeless age to come. The loud voice, as of a trumpet is a traditional, eschatological, apocalyptic introduction describing an appearance of the Lord (see Ex 19:16, 19; [[MAT.24:31]]; [[1CO.15:52]]; [[1TH.4:16]]).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "creation_theology",
+        "eschatology",
+        "eucharist",
+        "resurrection"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

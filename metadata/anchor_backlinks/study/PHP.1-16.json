@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "The former a preach Christ from selfish ambition, not sincerely, supposing to add affliction to my chains;",
   "pericope": {
     "id": "PHP.P003",
@@ -12,7 +12,10 @@
     "range": "PHP.1:10-1:25",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "suffering"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 510,
       "raw_match": "[[PHP.1:14]]-17",
       "reference_type": "wikilink_range",
-      "context": "Elihu has uttered great and powerful words, yet immediately follows up with pride and foolishness. He is like those who \"preach Christ even from envy and strife... not sincerely, supposing to add affliction\" to the suffering of another ([[PHP.1:14]]-17)."
+      "context": "Elihu has uttered great and powerful words, yet immediately follows up with pride and foolishness. He is like those who \"preach Christ even from envy and strife... not sincerely, supposing to add affliction\" to the suffering of another ([[PHP.1:14]]-17).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

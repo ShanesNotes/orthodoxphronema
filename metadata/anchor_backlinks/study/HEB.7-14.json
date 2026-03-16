@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "For it is evident that our Lord arose from Judah, of which tribe Moses spoke nothing concerning priesthood.",
   "pericope": {
     "id": "HEB.P015",
@@ -12,7 +12,14 @@
     "range": "HEB.6:20-7:27",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "faith",
+    "israel_church",
+    "logos",
+    "priesthood",
+    "temple"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,14 +27,44 @@
       "line_number": 1145,
       "raw_match": "[[HEB.7:14]]",
       "reference_type": "wikilink",
-      "context": ", 35 Levi was the forefather of the levitical priesthood, also known as the order of Aaron, for Aaron came from Levi ([[HEB.7:11]]). But the Christ could not be part of this order, because He would descend from Judah ([[HEB.7:14]]). However, the prophecy said Christ would be the High Priest of the order of Melchizedek ([[PSA.109:4]]). Thus, both orders cannot coexist as the way to be perfected. The order of Aaron became obsolete because Levi and his offspring are still dead, whereas Christ is alive from the dead. Therefore, Jews are not made children of God through the order of Aaron. Both Jews and Gentiles become the children of God only through the order of Melchizedek, in the one body of Christ, the Church, which is also called \"the Israel of God\" ([[GAL.6:16]])."
+      "context": ", 35 Levi was the forefather of the levitical priesthood, also known as the order of Aaron, for Aaron came from Levi ([[HEB.7:11]]). But the Christ could not be part of this order, because He would descend from Judah ([[HEB.7:14]]). However, the prophecy said Christ would be the High Priest of the order of Melchizedek ([[PSA.109:4]]). Thus, both orders cannot coexist as the way to be perfected. The order of Aaron became obsolete because Levi and his offspring are still dead, whereas Christ is alive from the dead. Therefore, Jews are not made children of God through the order of Aaron. Both Jews and Gentiles become the children of God only through the order of Melchizedek, in the one body of Christ, the Church, which is also called \"the Israel of God\" ([[GAL.6:16]]).",
+      "edge_type": "opposes",
+      "topic_threads": [
+        "christology",
+        "priesthood"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/NUM_footnotes.md",
       "line_number": 72,
       "raw_match": "[[HEB.7:14]]",
       "reference_type": "wikilink",
-      "context": "The tribe of Judah camped on the east side of the tabernacle, and Christ would come from that tribe ([[HEB.7:14]]). The word east is a synonym of the word orient, from which the word orientation is derived. The prophet Zechariah prophesied that Christ would be called \"the East\" or \"the Orient\" ([[ZEC.3:9]]). The prophet Malachi said He would rise up from the east, and thus, calls Him \"the Sun of Righteousness\" (Mal 4:2). Therefore, every Israelite was to orient his life around Christ, the Orient. Likewise, every Church member is to orient his life around Christ; otherwise, he will become \"disoriented.\" The Church whenever possible worships toward the east, \"looking unto Jesus, the author and finisher of our faith\" ([[HEB.12:2]])."
+      "context": "The tribe of Judah camped on the east side of the tabernacle, and Christ would come from that tribe ([[HEB.7:14]]). The word east is a synonym of the word orient, from which the word orientation is derived. The prophet Zechariah prophesied that Christ would be called \"the East\" or \"the Orient\" ([[ZEC.3:9]]). The prophet Malachi said He would rise up from the east, and thus, calls Him \"the Sun of Righteousness\" (Mal 4:2). Therefore, every Israelite was to orient his life around Christ, the Orient. Likewise, every Church member is to orient his life around Christ; otherwise, he will become \"disoriented.\" The Church whenever possible worships toward the east, \"looking unto Jesus, the author and finisher of our faith\" ([[HEB.12:2]]).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology",
+        "faith",
+        "israel_church",
+        "logos",
+        "priesthood",
+        "temple"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

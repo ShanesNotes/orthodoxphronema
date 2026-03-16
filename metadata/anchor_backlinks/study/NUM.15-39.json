@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Then it shall be, you shall have the tassels; and you shall look upon these, and remember all the commandments of the Lord and do them; and you shall not turn aside after your minds and your eyes by which you prostitute yourselves,",
   "pericope": {
     "id": "NUM.P036",
@@ -20,14 +20,32 @@
       "line_number": 473,
       "raw_match": "[[NUM.15:37]]-41",
       "reference_type": "wikilink_range",
-      "context": "The commandment concerning tassels was first given in [[NUM.15:37]]-41. These were constant reminders to keep all the Lord's commandments. For the Israelites, as is true of all men, had a tendency to follow their own mind and will, rather than the will of God ([[NUM.15:39]]). The fault was not with the Law of Moses but with their own tendencies."
+      "context": "The commandment concerning tassels was first given in [[NUM.15:37]]-41. These were constant reminders to keep all the Lord's commandments. For the Israelites, as is true of all men, had a tendency to follow their own mind and will, rather than the will of God ([[NUM.15:39]]). The fault was not with the Law of Moses but with their own tendencies.",
+      "edge_type": "instantiates",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/DEU_footnotes.md",
       "line_number": 476,
       "raw_match": "[[NUM.15:39]]",
       "reference_type": "wikilink",
-      "context": "The commandment concerning tassels was first given in [[NUM.15:37]]-41. These were constant reminders to keep all the Lord's commandments. For the Israelites, as is true of all men, had a tendency to follow their own mind and will, rather than the will of God ([[NUM.15:39]]). The fault was not with the Law of Moses but with their own tendencies."
+      "context": "The commandment concerning tassels was first given in [[NUM.15:37]]-41. These were constant reminders to keep all the Lord's commandments. For the Israelites, as is true of all men, had a tendency to follow their own mind and will, rather than the will of God ([[NUM.15:39]]). The fault was not with the Law of Moses but with their own tendencies.",
+      "edge_type": "instantiates",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

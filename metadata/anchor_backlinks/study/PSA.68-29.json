@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Let them be blotted out from the book of the living, And not be written with the righteous.",
   "pericope": {
     "id": "PSA.P068",
@@ -12,7 +12,10 @@
     "range": "PSA.68:1-68:37",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "baptism",
+    "creation_theology"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 389,
       "raw_match": "[[PSA.68:29]]",
       "reference_type": "wikilink",
-      "context": "The Book of Life (13:8; 17:8; 20:12, 15; [[EXO.32:32]]; [[PSA.68:29]]; [[DAN.12:1]]; [[LUK.10:20]]; see also 1En 47:3) is God's register naming all who will inherit eternal life. By the fourth century, at the beginning of Lent the names of the catechumens were enrolled in a church record book termed \"The Heavenly Book,\" or \"The Book of the Church\" (see TheoMop, JohnChr and GrgNy). The Son speaks of His Father and His angels but He also calls them His own angels ([[MAT.13:41]]; 24:31), showing His equality with the Father."
+      "context": "The Book of Life (13:8; 17:8; 20:12, 15; [[EXO.32:32]]; [[PSA.68:29]]; [[DAN.12:1]]; [[LUK.10:20]]; see also 1En 47:3) is God's register naming all who will inherit eternal life. By the fourth century, at the beginning of Lent the names of the catechumens were enrolled in a church record book termed \"The Heavenly Book,\" or \"The Book of the Church\" (see TheoMop, JohnChr and GrgNy). The Son speaks of His Father and His angels but He also calls them His own angels ([[MAT.13:41]]; 24:31), showing His equality with the Father.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "baptism",
+        "creation_theology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

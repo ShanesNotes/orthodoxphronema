@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Seeing then that we have a great High Priest who has passed through the heavens, Jesus the Son of God, let us hold fast our confession.",
   "pericope": {
     "id": "HEB.P010",
@@ -12,7 +12,13 @@
     "range": "HEB.4:13-4:15",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "eschatology",
+    "faith",
+    "priesthood",
+    "repentance"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +26,23 @@
       "line_number": 90,
       "raw_match": "[[HEB.4:14]]",
       "reference_type": "wikilink",
-      "context": "You will be mute: Zacharias is disciplined for his lack of faith, yet this also serves as proof that Gabriel's announcement (v. 19) is true. The silencing of the high priest also reveals a deeper mystery. The Messiah was expected to fulfill three crucial roles held by various people in the OT: prophet, priest, and king. Only Jesus Christ can be said to have fulfilled all three offices perfectly. He is the true Prophet ([[DEU.18:15]]-18), the true King (23:3; Is 9:6; [[MIC.5:1]]), and the true High Priest ([[PSA.109:4]]; [[HEB.4:14]]). In preparation for Christ's coming, God had silenced the prophets for many years (see note for v. 24), and also permitted an illegitimate usurper to occupy the position of king of Judea (see note for v. 5). Here, in the last days before Christ's coming, the high priest is also silenced. With these three roles vacant, illegitimate, and silent, all is ready for the Son of God to be revealed as Prophet, King, and Priest."
+      "context": "You will be mute: Zacharias is disciplined for his lack of faith, yet this also serves as proof that Gabriel's announcement (v. 19) is true. The silencing of the high priest also reveals a deeper mystery. The Messiah was expected to fulfill three crucial roles held by various people in the OT: prophet, priest, and king. Only Jesus Christ can be said to have fulfilled all three offices perfectly. He is the true Prophet ([[DEU.18:15]]-18), the true King (23:3; Is 9:6; [[MIC.5:1]]), and the true High Priest ([[PSA.109:4]]; [[HEB.4:14]]). In preparation for Christ's coming, God had silenced the prophets for many years (see note for v. 24), and also permitted an illegitimate usurper to occupy the position of king of Judea (see note for v. 5). Here, in the last days before Christ's coming, the high priest is also silenced. With these three roles vacant, illegitimate, and silent, all is ready for the Son of God to be revealed as Prophet, King, and Priest.",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "eschatology",
+        "faith",
+        "priesthood",
+        "repentance"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

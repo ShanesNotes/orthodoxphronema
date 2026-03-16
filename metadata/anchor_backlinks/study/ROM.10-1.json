@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Brethren, my heart's desire and prayer to God for Israel is that they may be saved.",
   "pericope": {
     "id": "ROM.P025",
@@ -12,7 +12,10 @@
     "range": "ROM.9:30-10:3",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "faith",
+    "prayer"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 127,
       "raw_match": "[[ROM.10:1]]",
       "reference_type": "wikilink",
-      "context": "\"One says that Israel will be weak not forever but for days. For it has been reserved for her a time of salvation and a return to faith\" (CyrAl). See also [[ROM.10:1]]; 11:26, 27."
+      "context": "\"One says that Israel will be weak not forever but for days. For it has been reserved for her a time of salvation and a return to faith\" (CyrAl). See also [[ROM.10:1]]; 11:26, 27.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "faith",
+        "prayer"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

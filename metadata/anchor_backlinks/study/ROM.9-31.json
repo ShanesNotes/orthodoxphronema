@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "but Israel, pursuing the law of righteousness, has not attained to the law of righteousness.",
   "pericope": {
     "id": "ROM.P025",
@@ -12,7 +12,13 @@
     "range": "ROM.9:30-10:3",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "faith",
+    "repentance",
+    "resurrection",
+    "suffering"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +26,23 @@
       "line_number": 685,
       "raw_match": "[[ROM.9:31]]",
       "reference_type": "wikilink",
-      "context": "Israel was to keep all the ordinances of the Law of Moses. In so doing they would attain to righ-teousness, but if they should offend in one point, they would be guilty of breaking the whole of it ([[JAS.2:10]]). There was no other way of attaining righteousness under this Law than by fulfilling the whole of it. However, they failed to attain the righteousness required by the Law ([[ROM.9:31]]), for such an attainment was an impossibility ([[ACT.15:10]]). Their failure required atonement for sins and reconciliation with God. Christ atoned for their sins and those of the entire world. Through His death and Resurrection He made possible the attainment of righteousness by faith in Him. \"Moses showed us the righteousness required by the Law, what kind it is. So what kind is it and in what does it consist? 'The man who does these things shall live by them,' Moses said. There was no other way of becoming righteous in the Law except by fulfilling the whole of it. But this was not possible for anyone, and therefore this righteousness failed them.... For that required the fulfillment of all things (for when you do all, then you shall live); but the righteousness of faith does not say this, but what does it say? 'If you confess with your mouth the Lord Jesus, and believe in your heart God raised Him from the dead, you shall be saved, for with the heart one believes unto righteousness, and with the mouth confession is made unto salvation' ([[ROM.10:9]], [[ROM.10:10]]).... There is no long journey to go on, no seas to sail over, no mountains to pass, to get saved. But if you be not minded to cross so much as the threshold, you may even while you sit at home be saved. For 'in your mouth and in your heart' is the source of salvation\" (JohnChr)."
+      "context": "Israel was to keep all the ordinances of the Law of Moses. In so doing they would attain to righ-teousness, but if they should offend in one point, they would be guilty of breaking the whole of it ([[JAS.2:10]]). There was no other way of attaining righteousness under this Law than by fulfilling the whole of it. However, they failed to attain the righteousness required by the Law ([[ROM.9:31]]), for such an attainment was an impossibility ([[ACT.15:10]]). Their failure required atonement for sins and reconciliation with God. Christ atoned for their sins and those of the entire world. Through His death and Resurrection He made possible the attainment of righteousness by faith in Him. \"Moses showed us the righteousness required by the Law, what kind it is. So what kind is it and in what does it consist? 'The man who does these things shall live by them,' Moses said. There was no other way of becoming righteous in the Law except by fulfilling the whole of it. But this was not possible for anyone, and therefore this righteousness failed them.... For that required the fulfillment of all things (for when you do all, then you shall live); but the righteousness of faith does not say this, but what does it say? 'If you confess with your mouth the Lord Jesus, and believe in your heart God raised Him from the dead, you shall be saved, for with the heart one believes unto righteousness, and with the mouth confession is made unto salvation' ([[ROM.10:9]], [[ROM.10:10]]).... There is no long journey to go on, no seas to sail over, no mountains to pass, to get saved. But if you be not minded to cross so much as the threshold, you may even while you sit at home be saved. For 'in your mouth and in your heart' is the source of salvation\" (JohnChr).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "faith",
+        "repentance",
+        "resurrection",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

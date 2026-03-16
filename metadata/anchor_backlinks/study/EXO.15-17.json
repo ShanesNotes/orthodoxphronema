@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Bring them in and plant them in the mountain of their inheritance, In Your prepared habitation, O Lord, which Your hands made ready; The sanctuary, O Lord, which Your hands established.",
   "pericope": {
     "id": "EXO.P028",
@@ -12,7 +12,14 @@
     "range": "EXO.13:22-15:18",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "baptism",
+    "christology",
+    "covenant",
+    "exodus_typology",
+    "praise",
+    "temple"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,21 +27,64 @@
       "line_number": 1220,
       "raw_match": "[[EXO.15:1]]-18",
       "reference_type": "wikilink_range",
-      "context": "The voice from heaven that made the voice of many waters, loud thunder, and harps recalls the sounds of the temple liturgy. This voice sings a new song (v. 3; see 5:8-10; [[EXO.15:1]]-18; [[PSA.32:3]]; 98:1; 149:1; Is 42:10) which only the redeemed faithful from the earth are able to learn."
+      "context": "The voice from heaven that made the voice of many waters, loud thunder, and harps recalls the sounds of the temple liturgy. This voice sings a new song (v. 3; see 5:8-10; [[EXO.15:1]]-18; [[PSA.32:3]]; 98:1; 149:1; Is 42:10) which only the redeemed faithful from the earth are able to learn.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "temple"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/NT/REV_footnotes.md",
       "line_number": 1302,
       "raw_match": "[[EXO.15:1]]-18",
       "reference_type": "wikilink_range",
-      "context": "The victory celebration for those who refuse to submit to Antichrist, perhaps a hymn used in the liturgy of the early Church. In contrast to the idolatry of the beast, this hymn emphasizes the worthiness of the true God. The song of Moses and the Lamb (v. 3) is prefigured in the hymns of [[EXO.15:1]]-18 and [[DEU.32:1]]-43, where victory over the oppression of Pharaoh and the Egyptians is celebrated. The Jews incorporated these into the Sabbath liturgy, and the Church also sings them at various times of the year (for example, in Matins, and in the Vespers of Holy Saturday). The Church sings this song of the Lamb in baptism and at the Great Blessing of Water."
+      "context": "The victory celebration for those who refuse to submit to Antichrist, perhaps a hymn used in the liturgy of the early Church. In contrast to the idolatry of the beast, this hymn emphasizes the worthiness of the true God. The song of Moses and the Lamb (v. 3) is prefigured in the hymns of [[EXO.15:1]]-18 and [[DEU.32:1]]-43, where victory over the oppression of Pharaoh and the Egyptians is celebrated. The Jews incorporated these into the Sabbath liturgy, and the Church also sings them at various times of the year (for example, in Matins, and in the Vespers of Holy Saturday). The Church sings this song of the Lamb in baptism and at the Great Blessing of Water.",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "baptism",
+        "christology",
+        "exodus_typology",
+        "praise",
+        "temple"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/JDG_footnotes.md",
       "line_number": 128,
       "raw_match": "[[EXO.15:1]]-18",
       "reference_type": "wikilink_range",
-      "context": "As was often the custom after Israel's victories, a song or psalm (v. 3) was sung, recalling the details of the conflict. This is the lengthiest and most elaborate of the Old Testament victory songs, but perhaps the most famous is Moses' song in [[EXO.15:1]]-18 celebrating deliverance from Egypt."
+      "context": "As was often the custom after Israel's victories, a song or psalm (v. 3) was sung, recalling the details of the conflict. This is the lengthiest and most elaborate of the Old Testament victory songs, but perhaps the most famous is Moses' song in [[EXO.15:1]]-18 celebrating deliverance from Egypt.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "covenant",
+        "exodus_typology",
+        "praise",
+        "temple"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 6,
+        "title": "The Universe As a Language",
+        "polarity": "generation",
+        "operation": "descend",
+        "scale": "communal"
+      }
     }
   ]
 }

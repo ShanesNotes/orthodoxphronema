@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "'Who committed no sin, Nor was deceit found in His mouth';",
   "pericope": {
     "id": "1PE.P008",
@@ -12,7 +12,10 @@
     "range": "1PE.2:17-2:24",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "suffering"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,14 +23,28 @@
       "line_number": 432,
       "raw_match": "[[1PE.2:22]]",
       "reference_type": "wikilink",
-      "context": "Under the Mosaic Law, there were two kinds of curses. One was the curse of capital punishment by hanging, and the other of being cursed for transgressing the Law (26:26). The first applied to Christ when He redeemed us by hanging on the cross. St. Paul quoted v. 23 when he said, \"Christ has redeemed us from the curse of the law, having become a curse for us (for it is written, 'Cursed is everyone who hangs on a tree')\" (Gal 3:13). He was the Innocent One who took the place of us, who were the guilty. However, the second curse in no way applies to Christ, for He never sinned, as St. Peter also said of Him by quoting Is 53:9: \"Who committed no sin, / Nor was deceit found in His mouth\" ([[1PE.2:22]]). (JohnChr)"
+      "context": "Under the Mosaic Law, there were two kinds of curses. One was the curse of capital punishment by hanging, and the other of being cursed for transgressing the Law (26:26). The first applied to Christ when He redeemed us by hanging on the cross. St. Paul quoted v. 23 when he said, \"Christ has redeemed us from the curse of the law, having become a curse for us (for it is written, 'Cursed is everyone who hangs on a tree')\" (Gal 3:13). He was the Innocent One who took the place of us, who were the guilty. However, the second curse in no way applies to Christ, for He never sinned, as St. Peter also said of Him by quoting Is 53:9: \"Who committed no sin, / Nor was deceit found in His mouth\" ([[1PE.2:22]]). (JohnChr)",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/JOB_footnotes.md",
       "line_number": 255,
       "raw_match": "[[1PE.2:22]]",
       "reference_type": "wikilink",
-      "context": "Compare this verse to [[1PE.2:22]] and [[LUK.23:24]]."
+      "context": "Compare this verse to [[1PE.2:22]] and [[LUK.23:24]].",
+      "edge_type": "instantiates"
     }
   ]
 }

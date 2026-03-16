@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "At the beginning of your prayer, the word went out, and I have come to tell you, for you are a man of desires. Therefore, consider the matter and understand the vision:",
   "pericope": {
     "id": "DAN.P028",
@@ -12,7 +12,14 @@
     "range": "DAN.9:19-9:26",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "creation_theology",
+    "logos",
+    "prayer",
+    "shepherd",
+    "temple"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +27,23 @@
       "line_number": 2116,
       "raw_match": "[[DAN.9:23]]",
       "reference_type": "wikilink",
-      "context": "Daniel's prophecy of the abomination of desolation ([[DAN.9:23]]) was fulfilled in AD 70, when the Roman general Titus entered the Most Holy Place and had a statue of himself erected in the temple before having the temple destroyed. The Lord's phrase when you see indicates that many of the disciples would still be alive at that time. The words whoever reads, let him understand are commonly understood to be inserted by Matthew into Christ's address as an encouragement to his early Christian flock, who may have witnessed this event."
+      "context": "Daniel's prophecy of the abomination of desolation ([[DAN.9:23]]) was fulfilled in AD 70, when the Roman general Titus entered the Most Holy Place and had a statue of himself erected in the temple before having the temple destroyed. The Lord's phrase when you see indicates that many of the disciples would still be alive at that time. The words whoever reads, let him understand are commonly understood to be inserted by Matthew into Christ's address as an encouragement to his early Christian flock, who may have witnessed this event.",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "creation_theology",
+        "prayer",
+        "shepherd",
+        "temple"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

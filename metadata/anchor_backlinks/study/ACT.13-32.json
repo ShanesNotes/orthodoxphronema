@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "And we declare to you glad tidings-that promise which was made to the fathers.",
   "pericope": {
     "id": "ACT.P044",
@@ -12,7 +12,11 @@
     "range": "ACT.13:12-13:42",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "creation_theology",
+    "resurrection"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +24,21 @@
       "line_number": 32,
       "raw_match": "[[ACT.13:32]]",
       "reference_type": "wikilink",
-      "context": "The Lord in Ps 2 is God the Father, and Jesus is called His anointed (v. 2), which means \"His Christ.\" Jesus is also called King (v. 6), which is declared by the Father's eternal decree. Jesus is King without beginning and without end, and He is King over His holy hill of Zion, which is the Church. Jesus is also the Son of God the Father (v. 7), for He was begotten from the Father outside of time and \"before all worlds\" (Creed). He was also begotten in these last times by the Holy Spirit and the Virgin Mary, \"for us men and for our salvation\" (Creed). Then again, He was begotten in the sense of His Resurrection from the dead ([[ACT.13:32]], [[ACT.13:33]]). But Jesus is also the King over the nations (v. 8), which in due time, He will shatter like a potter's vessel (v. 9) when He restores heaven and earth, and reigns eternally with His saints in \"the world to come\" (Creed). Therefore, the rulers of the nations are called to serve this King, or they will be judged; but blessed are all who trust in Him (v. 12)."
+      "context": "The Lord in Ps 2 is God the Father, and Jesus is called His anointed (v. 2), which means \"His Christ.\" Jesus is also called King (v. 6), which is declared by the Father's eternal decree. Jesus is King without beginning and without end, and He is King over His holy hill of Zion, which is the Church. Jesus is also the Son of God the Father (v. 7), for He was begotten from the Father outside of time and \"before all worlds\" (Creed). He was also begotten in these last times by the Holy Spirit and the Virgin Mary, \"for us men and for our salvation\" (Creed). Then again, He was begotten in the sense of His Resurrection from the dead ([[ACT.13:32]], [[ACT.13:33]]). But Jesus is also the King over the nations (v. 8), which in due time, He will shatter like a potter's vessel (v. 9) when He restores heaven and earth, and reigns eternally with His saints in \"the world to come\" (Creed). Therefore, the rulers of the nations are called to serve this King, or they will be judged; but blessed are all who trust in Him (v. 12).",
+      "edge_type": "ascends_from",
+      "topic_threads": [
+        "christology",
+        "creation_theology",
+        "resurrection"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

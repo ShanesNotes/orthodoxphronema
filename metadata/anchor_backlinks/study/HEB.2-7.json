@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "You have made him a little lower than the angels; You have crowned him with glory and honor, And set him over the works of Your hands.",
   "pericope": {
     "id": "HEB.P003",
@@ -12,7 +12,11 @@
     "range": "HEB.1:14-2:8",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "creation_theology",
+    "praise"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +24,21 @@
       "line_number": 101,
       "raw_match": "[[HEB.2:6]]-10",
       "reference_type": "wikilink_range",
-      "context": "Ps 8 speaks of the Incarnate Lord: (1) His name is wondrous... in all the earth, and He is exalted far beyond the heavens (v. 2; see also [[PHP.2:9]]-11). (2) He brings forth praise from His humble people, who are likened to little children (v. 3; see also Mt 18:1-4; 21:15, 16). (3) He is the Creator of the universe (v. 4; see also [[HEB.1:10]]-12). (4) He remembered man and his mortal nature, for example, his fall into death and decay in the grave, and thus, became incarnate to redeem him from death and to crown him with glory and honor (vv. 5-9; see also [[HEB.2:6]]-10). (5) Because of the things mentioned above, the incarnate Lord's name is wondrous in all the earth."
+      "context": "Ps 8 speaks of the Incarnate Lord: (1) His name is wondrous... in all the earth, and He is exalted far beyond the heavens (v. 2; see also [[PHP.2:9]]-11). (2) He brings forth praise from His humble people, who are likened to little children (v. 3; see also Mt 18:1-4; 21:15, 16). (3) He is the Creator of the universe (v. 4; see also [[HEB.1:10]]-12). (4) He remembered man and his mortal nature, for example, his fall into death and decay in the grave, and thus, became incarnate to redeem him from death and to crown him with glory and honor (vv. 5-9; see also [[HEB.2:6]]-10). (5) Because of the things mentioned above, the incarnate Lord's name is wondrous in all the earth.",
+      "edge_type": "ascends_from",
+      "topic_threads": [
+        "christology",
+        "creation_theology",
+        "praise"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

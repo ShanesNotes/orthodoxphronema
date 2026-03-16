@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "1k Mordecai, who had seen this vision and what God was planning to do, awoke. 1l He kept it in his heart and wished to ponder it until night.",
   "pericope": {
     "id": "EST.P002",
@@ -20,7 +20,16 @@
       "line_number": 15,
       "raw_match": "[[EST.1:2]]",
       "reference_type": "wikilink",
-      "context": "Nehemiah means \"comforted of God.\" Shushan is Susa, a provincial capital in Persia, its most prominent city and winter residence of King Artaxerxes ([[EST.1:2]]). Chislev is late November/early December. The twentieth year is that of the reign of Artaxerxes I, dating this account at 445 BC."
+      "context": "Nehemiah means \"comforted of God.\" Shushan is Susa, a provincial capital in Persia, its most prominent city and winter residence of King Artaxerxes ([[EST.1:2]]). Chislev is late November/early December. The twentieth year is that of the reign of Artaxerxes I, dating this account at 445 BC.",
+      "edge_type": "instantiates",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

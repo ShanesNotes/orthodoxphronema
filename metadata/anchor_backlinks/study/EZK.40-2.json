@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "He took me in a vision of God into the land of Israel and set me on a very high mountain. On it, but opposite from me, was something like the structure of a city.",
   "pericope": {
     "id": "EZK.P067",
@@ -12,7 +12,17 @@
     "range": "EZK.39:29-40:3",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "covenant",
+    "eschatology",
+    "israel_church",
+    "kingdom",
+    "logos",
+    "prayer",
+    "suffering",
+    "temple"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,14 +30,45 @@
       "line_number": 34,
       "raw_match": "[[EZK.40:1]]-5",
       "reference_type": "wikilink_range",
-      "context": "Within Holy Scripture there are certain visionary, prophetic writings that are specifically seen as revelations because they reveal something about the last days, or end times. These writings within Holy Scripture are part of a larger group of works known as apocalyptic literature (from a Greek word meaning 'to uncover' or 'unveil'). From about 250 BC to AD 200, there were some thirty to forty such works circulating within the Jewish and early Christian communities. Only one of all these writings, the Revelation of John (also called the Apocalypse), was accepted by the Church to be part of Holy Scripture. There are other sections in the Bible which also are written in an apocalyptic style, such as Isaiah 24-27, 60-66; Ezekiel 38-39; Daniel 7-12; Zechariah 1-6, 9-14; and Mark 13. It is typical for apocalyptic writings to describe visions of angels, animals of various kinds, scrolls, lamps, stars, and dragons, as well as battles and various natural disasters. The Revelation of John includes much imagery found also in Ezekiel, Daniel, and Zechariah (see [[EZK.40:1]]-5 and [[REV.11:1]]; 21:9-17; [[DAN.7:1]]-8 and [[REV.13:1]]-5; [[ZEC.4:1]]-6, 11-14 and [[REV.4:5]]; 11:3, 4). About three-fourths of the 404 verses in Revelation refer to something in the Old Testament. How are we to understand this not easily understood literary form? How are we to apply these Scriptures to our lives? Christ taught it is impossible to know when He will come again ([[MAT.24:36]], [[MAT.24:44]]). It is impossible to determine the precise meaning of all the imagery in the apocalyptic writings. Rather, we are to look forward to the end of time with sober yet eager anticipation, as pilgrims seeking His eternal kingdom ([[PHP.3:20]]; [[COL.3:1]]-4). A prayer by St. Basil the Great says, 'Grant us to pass through all the night of this present life with vigilant heart and sober thought, in expectancy of the coming of the bright and manifest day of... our Lord.' The apocalyptic texts are offered to Christians in every generation to encourage them in their struggles against sin, the principalities and powers of darkness in this world ([[EPH.6:12]]) and the fear of death. These writings assure us that even in the midst of the cosmic cataclysms and battles against evil powers occurring just before Christ returns-the time of 'great tribulation' ([[MAT.24:21]])-the Lord will strengthen and guide His people ([[MAT.28:20]]), bringing them to final victory over all forces of evil ([[REV.20:7]]-10). Making references to Daniel 7 and 12 concerning the end times, St. Cyril of Jerusalem explains that as in the persecutions, God will again permit these things. Why? Not because He wants satanic power to hinder His people, but because He desires to crown His own champions for their patient endurance-just as He did His prophets and apostles-so that having toiled for a little while, they may inherit the eternal kingdom of Heaven. So the essential purpose of the apocalyptic writings is to encourage the faithful to be full of hope and prepared to persevere to the end, no matter what happens ([[MAT.24:3]]-13; [[LUK.21:25]]-28). All are inspired to look through the darkness of the present age and to behold the ultimate victory of Christ and the joyful consummation that awaits His Bride-the Churchwho, through Her sacraments, has prepared herself for the coming of the Lord ([[2PE.3:7]]-14; [[TIT.2:11]]-14). The closing words of the New Testament express this very sense of expectation: 'Even so, come, Lord Jesus' ([[REV.22:20]]). #### The Ancient of Days"
+      "context": "Within Holy Scripture there are certain visionary, prophetic writings that are specifically seen as revelations because they reveal something about the last days, or end times. These writings within Holy Scripture are part of a larger group of works known as apocalyptic literature (from a Greek word meaning 'to uncover' or 'unveil'). From about 250 BC to AD 200, there were some thirty to forty such works circulating within the Jewish and early Christian communities. Only one of all these writings, the Revelation of John (also called the Apocalypse), was accepted by the Church to be part of Holy Scripture. There are other sections in the Bible which also are written in an apocalyptic style, such as Isaiah 24-27, 60-66; Ezekiel 38-39; Daniel 7-12; Zechariah 1-6, 9-14; and Mark 13. It is typical for apocalyptic writings to describe visions of angels, animals of various kinds, scrolls, lamps, stars, and dragons, as well as battles and various natural disasters. The Revelation of John includes much imagery found also in Ezekiel, Daniel, and Zechariah (see [[EZK.40:1]]-5 and [[REV.11:1]]; 21:9-17; [[DAN.7:1]]-8 and [[REV.13:1]]-5; [[ZEC.4:1]]-6, 11-14 and [[REV.4:5]]; 11:3, 4). About three-fourths of the 404 verses in Revelation refer to something in the Old Testament. How are we to understand this not easily understood literary form? How are we to apply these Scriptures to our lives? Christ taught it is impossible to know when He will come again ([[MAT.24:36]], [[MAT.24:44]]). It is impossible to determine the precise meaning of all the imagery in the apocalyptic writings. Rather, we are to look forward to the end of time with sober yet eager anticipation, as pilgrims seeking His eternal kingdom ([[PHP.3:20]]; [[COL.3:1]]-4). A prayer by St. Basil the Great says, 'Grant us to pass through all the night of this present life with vigilant heart and sober thought, in expectancy of the coming of the bright and manifest day of... our Lord.' The apocalyptic texts are offered to Christians in every generation to encourage them in their struggles against sin, the principalities and powers of darkness in this world ([[EPH.6:12]]) and the fear of death. These writings assure us that even in the midst of the cosmic cataclysms and battles against evil powers occurring just before Christ returns-the time of 'great tribulation' ([[MAT.24:21]])-the Lord will strengthen and guide His people ([[MAT.28:20]]), bringing them to final victory over all forces of evil ([[REV.20:7]]-10). Making references to Daniel 7 and 12 concerning the end times, St. Cyril of Jerusalem explains that as in the persecutions, God will again permit these things. Why? Not because He wants satanic power to hinder His people, but because He desires to crown His own champions for their patient endurance-just as He did His prophets and apostles-so that having toiled for a little while, they may inherit the eternal kingdom of Heaven. So the essential purpose of the apocalyptic writings is to encourage the faithful to be full of hope and prepared to persevere to the end, no matter what happens ([[MAT.24:3]]-13; [[LUK.21:25]]-28). All are inspired to look through the darkness of the present age and to behold the ultimate victory of Christ and the joyful consummation that awaits His Bride-the Churchwho, through Her sacraments, has prepared herself for the coming of the Lord ([[2PE.3:7]]-14; [[TIT.2:11]]-14). The closing words of the New Testament express this very sense of expectation: 'Even so, come, Lord Jesus' ([[REV.22:20]]). #### The Ancient of Days",
+      "edge_type": "witnesses",
+      "topic_threads": [
+        "christology",
+        "covenant",
+        "eschatology",
+        "kingdom",
+        "logos",
+        "prayer",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 2,
+        "title": "Coming Full Circle: The Copernican Revolution",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/NT/REV_footnotes.md",
       "line_number": 1831,
       "raw_match": "[[EZK.40:2]]",
       "reference_type": "wikilink",
-      "context": "Like Ezekiel's, John's vantage point is a high mountain ([[EZK.40:2]]); the perfected Church he sees resembles Ezekiel's new temple (Ezk 40-42). The New Jerusalem descends out of heaven from God, for God Himself completes the reunion of heaven and earth. She completes and fulfills the old Jerusalem just as the new covenant fulfills the old."
+      "context": "Like Ezekiel's, John's vantage point is a high mountain ([[EZK.40:2]]); the perfected Church he sees resembles Ezekiel's new temple (Ezk 40-42). The New Jerusalem descends out of heaven from God, for God Himself completes the reunion of heaven and earth. She completes and fulfills the old Jerusalem just as the new covenant fulfills the old.",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "covenant",
+        "temple"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 5,
+        "title": "Heaven and Earth: A Spiritual Perspective",
+        "polarity": "generation",
+        "operation": "inform",
+        "scale": "individual"
+      }
     }
   ]
 }

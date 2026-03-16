@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Even so will it be in the day when the Son of Man is revealed.",
   "pericope": {
     "id": "LUK.P081",
@@ -12,7 +12,9 @@
     "range": "LUK.17:19-17:37",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 747,
       "raw_match": "[[LUK.17:28]]-33",
       "reference_type": "wikilink_range",
-      "context": "In [[LUK.17:28]]-33, the Lord commanded us to remember Lot's wife, for she lost her life because she turned back in disobedience to the Lord."
+      "context": "In [[LUK.17:28]]-33, the Lord commanded us to remember Lot's wife, for she lost her life because she turned back in disobedience to the Lord.",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

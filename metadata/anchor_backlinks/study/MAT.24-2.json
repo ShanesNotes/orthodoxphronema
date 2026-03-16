@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "And Jesus said to them, 'Do you not see all these things? Assuredly, I say to you, not one stone shall be left here upon another, that shall not be thrown down.'",
   "pericope": {
     "id": "MAT.P076",
@@ -12,7 +12,10 @@
     "range": "MAT.24:2-24:13",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "temple"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 1586,
       "raw_match": "[[MAT.24:2]]",
       "reference_type": "wikilink",
-      "context": "This sanctuary or temple, which had been rebuilt and refurbished by King Herod, was standing at the time of Christ. But Jesus predicted it would be utterly destroyed and not one stone would be left upon another ([[MAT.24:2]]). This prophecy was fulfilled by the Roman invaders in AD 70. The sanctuary that will last forever, and which replaces the former one, is the New Jerusalem, the Church of the Living God (see also [[MAT.23:38]], [[MAT.23:39]])."
+      "context": "This sanctuary or temple, which had been rebuilt and refurbished by King Herod, was standing at the time of Christ. But Jesus predicted it would be utterly destroyed and not one stone would be left upon another ([[MAT.24:2]]). This prophecy was fulfilled by the Roman invaders in AD 70. The sanctuary that will last forever, and which replaces the former one, is the New Jerusalem, the Church of the Living God (see also [[MAT.23:38]], [[MAT.23:39]]).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "temple"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

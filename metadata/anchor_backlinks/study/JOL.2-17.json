@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Between the porch and the altar, the priests of the altar, ministering to the Lord, will each be weeping and will say, 'O Lord, spare Your people; do not give Your inheritance to reproach, that the Gentiles should rule over them, lest they should say among the Gentiles, 'Where is their God?' '",
   "pericope": {
     "id": "JOL.P004",
@@ -12,7 +12,9 @@
     "range": "JOL.2:1-2:27",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "priesthood"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 190,
       "raw_match": "[[JOL.2:12]]-17",
       "reference_type": "wikilink_range",
-      "context": "A fast by the faithful has tremendous power in helping to discern the right way of God, and in securing His power against the enemy ([[EST.4:16]]; [[JOL.2:12]]-17; [[MAT.17:17]]- 21)."
+      "context": "A fast by the faithful has tremendous power in helping to discern the right way of God, and in securing His power against the enemy ([[EST.4:16]]; [[JOL.2:12]]-17; [[MAT.17:17]]- 21).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "priesthood"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "But the Lord said to him, 'Go, for he is a chosen vessel of Mine to bear My name before Gentiles, kings, and the children of Israel.",
   "pericope": {
     "id": "ACT.P029",
@@ -12,7 +12,10 @@
     "range": "ACT.8:40-9:17",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "baptism",
+    "mercy"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,14 +23,36 @@
       "line_number": 182,
       "raw_match": "[[ACT.9:15]]",
       "reference_type": "wikilink",
-      "context": "God's revelation to Paul began on the road to Damascus ([[ACT.22:3]]-21). God was gracious to Paul not for his own sake but for others (see [[ACT.9:15]], [[ACT.9:16]])."
+      "context": "God's revelation to Paul began on the road to Damascus ([[ACT.22:3]]-21). God was gracious to Paul not for his own sake but for others (see [[ACT.9:15]], [[ACT.9:16]]).",
+      "edge_type": "instantiates",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/NT/GAL_footnotes.md",
       "line_number": 63,
       "raw_match": "[[ACT.9:10]]-19",
       "reference_type": "wikilink_range",
-      "context": "People are called by God not according to former conduct (v. 13)--good or bad-- but by God's grace (v. 15). Paul, whom God called in mercy, received grace from Ananias' hands and the waters of baptism ([[ACT.9:10]]-19). Separated me from my mother's womb (v. 15) refers not to Paul's physical birth but to God's calling Paul to apostolic ministry before he was born (see [[PSA.138:15]], [[PSA.138:16]]; Is 49:1; [[JER.1:5]]; [[LUK.1:35]], [[LUK.1:43]], [[LUK.1:44]], [[LUK.1:48]]). As with Paul, God's intentions for a person may lie hidden for years."
+      "context": "People are called by God not according to former conduct (v. 13)--good or bad-- but by God's grace (v. 15). Paul, whom God called in mercy, received grace from Ananias' hands and the waters of baptism ([[ACT.9:10]]-19). Separated me from my mother's womb (v. 15) refers not to Paul's physical birth but to God's calling Paul to apostolic ministry before he was born (see [[PSA.138:15]], [[PSA.138:16]]; Is 49:1; [[JER.1:5]]; [[LUK.1:35]], [[LUK.1:43]], [[LUK.1:44]], [[LUK.1:48]]). As with Paul, God's intentions for a person may lie hidden for years.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "baptism",
+        "mercy"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

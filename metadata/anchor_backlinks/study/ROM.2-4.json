@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Or do you despise the riches of His goodness, forbearance, and longsuffering, not knowing that the goodness of God leads you to repentance?",
   "pericope": {
     "id": "ROM.P006",
@@ -12,7 +12,12 @@
     "range": "ROM.2:1-2:16",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "judgment",
+    "repentance",
+    "suffering"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +25,22 @@
       "line_number": 306,
       "raw_match": "[[ROM.2:4]]",
       "reference_type": "wikilink",
-      "context": "Cities of refuge were established to protect slayers who killed someone involuntarily (v. 3). They were protected from the avenger of blood until a judgment could be rendered in each case. This system of protection demonstrated the love and forbearance of God ([[ROM.2:4]]), who does not punish before judgment is rendered as to innocence or guilt. Thus, He provided a place of refuge. God also set forth Christ as a city of refuge where one is protected until he is proven innocent or guilty at the Day of Judgment, when He \"will render to each one according to his deeds\" ([[ROM.2:6]])."
+      "context": "Cities of refuge were established to protect slayers who killed someone involuntarily (v. 3). They were protected from the avenger of blood until a judgment could be rendered in each case. This system of protection demonstrated the love and forbearance of God ([[ROM.2:4]]), who does not punish before judgment is rendered as to innocence or guilt. Thus, He provided a place of refuge. God also set forth Christ as a city of refuge where one is protected until he is proven innocent or guilty at the Day of Judgment, when He \"will render to each one according to his deeds\" ([[ROM.2:6]]).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "judgment",
+        "repentance",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

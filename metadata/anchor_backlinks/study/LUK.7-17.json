@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "And this report about Him went throughout all Judea and all the surrounding region.",
   "pericope": {
     "id": "LUK.P032",
@@ -12,7 +12,9 @@
     "range": "LUK.7:10-7:34",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 137,
       "raw_match": "[[LUK.7:11]]-17",
       "reference_type": "wikilink_range",
-      "context": "On Christ raising the dead, see note at [[LUK.7:11]]-17."
+      "context": "On Christ raising the dead, see note at [[LUK.7:11]]-17.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 7,
+        "title": "Symbolism and the Spiritual Worldview",
+        "polarity": "luminosity",
+        "operation": "eat",
+        "scale": "individual"
+      }
     }
   ]
 }

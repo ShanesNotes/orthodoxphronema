@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "You shall make horns on its four corners; its horns shall be of one piece with it, and you shall overlay it with bronze.",
   "pericope": {
     "id": "EXO.P055",
@@ -20,7 +20,16 @@
       "line_number": 863,
       "raw_match": "[[EXO.27:2]]",
       "reference_type": "wikilink",
-      "context": "The four-horned altar is based on the OT prototype ([[EXO.27:2]]). The voice is a command from God allowing the four angels (v. 14) to create the spiritual conditions for the destruction of a third of mankind (v. 15). The Euphrates (v. 14) was the border of the empire beyond which fierce and menacing peoples were often feared to dwell. The number two hundred million (v. 16) makes it unlikely any earthly army is in view; as with the locusts, another infernal, demonic host is probably envisioned."
+      "context": "The four-horned altar is based on the OT prototype ([[EXO.27:2]]). The voice is a command from God allowing the four angels (v. 14) to create the spiritual conditions for the destruction of a third of mankind (v. 15). The Euphrates (v. 14) was the border of the empire beyond which fierce and menacing peoples were often feared to dwell. The number two hundred million (v. 16) makes it unlikely any earthly army is in view; as with the locusts, another infernal, demonic host is probably envisioned.",
+      "edge_type": "instantiates",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

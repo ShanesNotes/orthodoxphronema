@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Beware lest anyone cheat you through philosophy and empty deceit, according to the tradition of men, according to the basic principles of the world, and not according to Christ.",
   "pericope": {
     "id": "COL.P008",
@@ -12,7 +12,9 @@
     "range": "COL.2:5-2:14",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 333,
       "raw_match": "[[COL.2:8]]",
       "reference_type": "wikilink",
-      "context": "The elements of the world are the philosophies and traditions developed by humanity without regard to God ([[COL.2:8]])."
+      "context": "The elements of the world are the philosophies and traditions developed by humanity without regard to God ([[COL.2:8]]).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

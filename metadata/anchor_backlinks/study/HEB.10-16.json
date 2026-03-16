@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "'This is the covenant that I will make with them after those days, says the LORD: I will put My laws into their hearts, and in their minds I will write them,'",
   "pericope": {
     "id": "HEB.P023",
@@ -12,7 +12,10 @@
     "range": "HEB.10:7-10:17",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "covenant"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,14 +23,40 @@
       "line_number": 927,
       "raw_match": "[[HEB.10:15]]-18",
       "reference_type": "wikilink_range",
-      "context": "The implanting of the new covenant, the law in the heart, was clearly effected with the coming of Christ ([[2CO.3:3]]; [[HEB.10:15]]-18)."
+      "context": "The implanting of the new covenant, the law in the heart, was clearly effected with the coming of Christ ([[2CO.3:3]]; [[HEB.10:15]]-18).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "covenant"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 9,
+        "title": "Example: The Cherubim of Ezekiel I",
+        "polarity": "generation",
+        "operation": "inform",
+        "scale": "intercommunal"
+      }
     },
     {
       "source_file": "study/footnotes/OT/MAL_footnotes.md",
       "line_number": 181,
       "raw_match": "[[HEB.10:16]]",
       "reference_type": "wikilink",
-      "context": "The Giver of the Law of Moses will soon become incarnate, writing His laws on our hearts and minds and remembering our sins and lawless deeds no more ([[HEB.10:16]], [[HEB.10:17]])."
+      "context": "The Giver of the Law of Moses will soon become incarnate, writing His laws on our hearts and minds and remembering our sins and lawless deeds no more ([[HEB.10:16]], [[HEB.10:17]]).",
+      "edge_type": "descends_to",
+      "topic_threads": [
+        "christology",
+        "covenant"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 9,
+        "title": "Example: The Cherubim of Ezekiel I",
+        "polarity": "generation",
+        "operation": "inform",
+        "scale": "intercommunal"
+      }
     }
   ]
 }

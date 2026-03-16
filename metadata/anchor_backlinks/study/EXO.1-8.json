@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "But there arose a new king over Egypt who knew not Joseph.",
   "pericope": {
     "id": "EXO.P001",
@@ -12,7 +12,10 @@
     "range": "EXO.1:1-1:21",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "exodus_typology",
+    "israel_church"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 115,
       "raw_match": "[[EXO.1:8]]",
       "reference_type": "wikilink",
-      "context": "The discontinued work under Artaxerxes is reminiscent of the temporary captivity of Israel in Egypt when a new king arose who did not know the goodness of the people of God ([[EXO.1:8]])."
+      "context": "The discontinued work under Artaxerxes is reminiscent of the temporary captivity of Israel in Egypt when a new king arose who did not know the goodness of the people of God ([[EXO.1:8]]).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "exodus_typology",
+        "israel_church"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

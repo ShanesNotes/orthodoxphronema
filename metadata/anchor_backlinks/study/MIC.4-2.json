@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "And many nations will go there and say, 'Come, let us go up to the mountain of the Lord, to the house of the God of Jacob. They will teach us His ways, and we will walk in His paths.' For out of Zion the law shall go forth, and the word of the Lord from Jerusalem.",
   "pericope": {
     "id": "MIC.P006",
@@ -12,7 +12,10 @@
     "range": "MIC.3:12-4:13",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "divine_word",
+    "logos"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 63,
       "raw_match": "[[MIC.4:1]]-4",
       "reference_type": "wikilink_range",
-      "context": "The mountain is a symbol of the Church, which will proclaim God's way to all the Gentiles (see [[MIC.4:1]]-4)."
+      "context": "The mountain is a symbol of the Church, which will proclaim God's way to all the Gentiles (see [[MIC.4:1]]-4).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "divine_word",
+        "logos"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

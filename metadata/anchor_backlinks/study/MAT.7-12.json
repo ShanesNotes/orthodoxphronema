@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Therefore, whatever you want men to do to you, do also to them, for this is the Law and the Prophets.",
   "pericope": {
     "id": "MAT.P016",
@@ -12,7 +12,9 @@
     "range": "MAT.6:34-8:12",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "priesthood"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 230,
       "raw_match": "[[MAT.7:12]]",
       "reference_type": "wikilink",
-      "context": "Our behavior today has consequences for the future. The Church as a corporate priesthood is to express God's graciousness to the entire world. As we have been blessed, so must we bless (see [[MAT.7:12]])."
+      "context": "Our behavior today has consequences for the future. The Church as a corporate priesthood is to express God's graciousness to the entire world. As we have been blessed, so must we bless (see [[MAT.7:12]]).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "priesthood"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 6,
+        "title": "The Universe As a Language",
+        "polarity": "generation",
+        "operation": "descend",
+        "scale": "communal"
+      }
     }
   ]
 }

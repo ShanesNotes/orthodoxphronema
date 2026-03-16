@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "But when she saw him, she was troubled at his saying, and considered what manner of greeting this was.",
   "pericope": {
     "id": "LUK.P002",
@@ -12,7 +12,14 @@
     "range": "LUK.1:25-1:37",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "creation_theology",
+    "kingdom",
+    "resurrection",
+    "shepherd",
+    "temple"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,28 +27,78 @@
       "line_number": 39,
       "raw_match": "[[LUK.1:5]]-58",
       "reference_type": "wikilink_range",
-      "context": "T he Bible and human history begin and end with marriages. Adam and Eve come together in marital union in Paradise, before the Fall, revealing marriage as a part of God's eternal purpose for humanity in the midst of creation ([[GEN.2:22]]-25). History closes with the marriage of the Bride to the Lamb ([[REV.19:7]]-9), earthly marriage being fulfilled in the heavenly, showing the eternal nature of the sacrament. Between these bookend events of history are the accounts of numerous other unions of man and wife. In the centuries-old Christian wedding ceremony used to this day in the Orthodox Church, several of these historic marriages are remembered: Abraham and Sarah ([[GEN.11:29]]-23:20); Isaac and Rebecca (Gn 24); Joachim and Anna, the parents of the Virgin Mary; and Zacharias and Elizabeth ([[LUK.1:5]]-58). The marriage most prominently featured in the wedding ceremony, however, is the one at Cana of Galilee, described in the Gospel passage read at every Orthodox wedding ([[JOH.2:1]]-11). In attending this wedding and performing His first miracle there, Jesus Christ, the Son of God, forever sanctified marriage. As with all the Christian sacraments, marriage is sacramental because it is blessed by God. Parenthetically, we note that it is at this wedding at Cana that Mary first intercedes with Christ on behalf of others: 'They have no wine' ([[JOH.2:3]]). Then she calls all humanity to obey Him: 'Whatever He says to you, do it ' ([[JOH.2:5]]). In modern society, as well as in Christendom, a recurring debate concerns the tension between equality of the partners in marriage and office or order in marriage. Often, this tension has turned into a polarity between men and women, and sometimes even breeds hostility. Two elements in the Orthodox service of marriage serve to heal such tension, while making clear the teaching of the Church on the twin themes of equality and order concerning husband and wife. As to equality, during the ceremony crowns are placed on the heads of the bride and groom. This act is symbolic of their citizenship in the Kingdom of God, where 'there is neither male nor female' ([[GAL.3:28]]), and of their dying to each other (the crown is often a symbol of martyrdom; see [[REV.2:10]]). The words of St. Paul on marital equality are clear: 'The wife does not have authority over her own body, but the husband does. And likewise the husband does not have authority over his own body, but the wife does ' ([[1CO.7:4]]). Husband and wife belong to each other as martyrs, they belong to God as royalty, and they are called to treat each other accordingly. But within marital equality there is also order. The epistle passage read at the sacrament of marriage is Ephesians 5:20-33, an exhortation to husbands and wives that begins with a call to submit to each other (v. 21). The husband is to serve God as head of his wife, as Christ is Head of the Church (v. 23). The wife is to be subject to her husband as the Church is subject to Christ (v. 24). There is nothing here to suggest the wife is oppressed in marriage, any more than one would call the Church oppressed in relationship to Christ. He who calls us 'brethren' ([[HEB.2:11]]) and 'friends' ([[JOH.15:15]]) exhorts the husband to love his wife, to nourish and cherish her as He Himself does the Church (vv. 28, 29). Thus, marriage is a sacrament-holy, blessed, and everlasting in the sight of God and His Church. Within the bonds of marriage, husband and wife experience a union with one another in love. We pray for them the fruit of children and one day the joy of grandchildren. And within the bonds of marriage there is both a fullness of equality between husband and wife and a clarity of order, with the husband as the icon of Christ and the wife as the icon of the Church."
+      "context": "T he Bible and human history begin and end with marriages. Adam and Eve come together in marital union in Paradise, before the Fall, revealing marriage as a part of God's eternal purpose for humanity in the midst of creation ([[GEN.2:22]]-25). History closes with the marriage of the Bride to the Lamb ([[REV.19:7]]-9), earthly marriage being fulfilled in the heavenly, showing the eternal nature of the sacrament. Between these bookend events of history are the accounts of numerous other unions of man and wife. In the centuries-old Christian wedding ceremony used to this day in the Orthodox Church, several of these historic marriages are remembered: Abraham and Sarah ([[GEN.11:29]]-23:20); Isaac and Rebecca (Gn 24); Joachim and Anna, the parents of the Virgin Mary; and Zacharias and Elizabeth ([[LUK.1:5]]-58). The marriage most prominently featured in the wedding ceremony, however, is the one at Cana of Galilee, described in the Gospel passage read at every Orthodox wedding ([[JOH.2:1]]-11). In attending this wedding and performing His first miracle there, Jesus Christ, the Son of God, forever sanctified marriage. As with all the Christian sacraments, marriage is sacramental because it is blessed by God. Parenthetically, we note that it is at this wedding at Cana that Mary first intercedes with Christ on behalf of others: 'They have no wine' ([[JOH.2:3]]). Then she calls all humanity to obey Him: 'Whatever He says to you, do it ' ([[JOH.2:5]]). In modern society, as well as in Christendom, a recurring debate concerns the tension between equality of the partners in marriage and office or order in marriage. Often, this tension has turned into a polarity between men and women, and sometimes even breeds hostility. Two elements in the Orthodox service of marriage serve to heal such tension, while making clear the teaching of the Church on the twin themes of equality and order concerning husband and wife. As to equality, during the ceremony crowns are placed on the heads of the bride and groom. This act is symbolic of their citizenship in the Kingdom of God, where 'there is neither male nor female' ([[GAL.3:28]]), and of their dying to each other (the crown is often a symbol of martyrdom; see [[REV.2:10]]). The words of St. Paul on marital equality are clear: 'The wife does not have authority over her own body, but the husband does. And likewise the husband does not have authority over his own body, but the wife does ' ([[1CO.7:4]]). Husband and wife belong to each other as martyrs, they belong to God as royalty, and they are called to treat each other accordingly. But within marital equality there is also order. The epistle passage read at the sacrament of marriage is Ephesians 5:20-33, an exhortation to husbands and wives that begins with a call to submit to each other (v. 21). The husband is to serve God as head of his wife, as Christ is Head of the Church (v. 23). The wife is to be subject to her husband as the Church is subject to Christ (v. 24). There is nothing here to suggest the wife is oppressed in marriage, any more than one would call the Church oppressed in relationship to Christ. He who calls us 'brethren' ([[HEB.2:11]]) and 'friends' ([[JOH.15:15]]) exhorts the husband to love his wife, to nourish and cherish her as He Himself does the Church (vv. 28, 29). Thus, marriage is a sacrament-holy, blessed, and everlasting in the sight of God and His Church. Within the bonds of marriage, husband and wife experience a union with one another in love. We pray for them the fruit of children and one day the joy of grandchildren. And within the bonds of marriage there is both a fullness of equality between husband and wife and a clarity of order, with the husband as the icon of Christ and the wife as the icon of the Church.",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "creation_theology",
+        "kingdom"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/NT/GAL_footnotes.md",
       "line_number": 34,
       "raw_match": "[[LUK.1:26]]-38",
       "reference_type": "wikilink_range",
-      "context": "Different (Gr. heteros, v. 6) means different in kind, whereas another (Gr. allos, v. 7) means another of the same kind. Paul is saying that the teaching the Galatians are listening to is not a harmless variation of the truth, but a completely different, false gospel. This \"gospel\" (1) is a turning away from the grace of Christ (v. 6); (2) brings trouble to the faithful; (3) will pervert the gospel of Christ (v. 7)--it is a distortion of the truth, a mixture of truth and falsehood; (4) is accursed or anathematized by the Church (v. 8); and (5) is intended to please men (v. 10), not God. Paul's warning about we, or an angel from heaven is not hypothetical. Angels can and have delivered the gospel to us: they announced Christ's conception ([[LUK.1:26]]-38), birth ([[LUK.2:9]]-15), Resurrection ([[MAT.28:5]]-7), and Ascension ([[ACT.1:9]]-11). But angelic messages are not necessarily true; they may come from fallen angels, who are accursed."
+      "context": "Different (Gr. heteros, v. 6) means different in kind, whereas another (Gr. allos, v. 7) means another of the same kind. Paul is saying that the teaching the Galatians are listening to is not a harmless variation of the truth, but a completely different, false gospel. This \"gospel\" (1) is a turning away from the grace of Christ (v. 6); (2) brings trouble to the faithful; (3) will pervert the gospel of Christ (v. 7)--it is a distortion of the truth, a mixture of truth and falsehood; (4) is accursed or anathematized by the Church (v. 8); and (5) is intended to please men (v. 10), not God. Paul's warning about we, or an angel from heaven is not hypothetical. Angels can and have delivered the gospel to us: they announced Christ's conception ([[LUK.1:26]]-38), birth ([[LUK.2:9]]-15), Resurrection ([[MAT.28:5]]-7), and Ascension ([[ACT.1:9]]-11). But angelic messages are not necessarily true; they may come from fallen angels, who are accursed.",
+      "edge_type": "opposes",
+      "topic_threads": [
+        "christology",
+        "resurrection"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/EZK_footnotes.md",
       "line_number": 619,
       "raw_match": "[[LUK.1:26]]-38",
       "reference_type": "wikilink_range",
-      "context": "The prophet was led... out from the east gate, the glory of the Lord entered, and then the gate was shut (44:1). According to the Fathers, this passage, together with 44:1-5, foreshadows the Incarnation, when the Holy Spirit overshadowed the Virgin in the Temple and the Son of God was conceived in her womb ([[LUK.1:26]]-38). The sound of many voices (v. 2) is echoed by the \"multitude of the heavenly host\" announcing the Advent of Christ to the shepherds ([[LUK.2:13]])."
+      "context": "The prophet was led... out from the east gate, the glory of the Lord entered, and then the gate was shut (44:1). According to the Fathers, this passage, together with 44:1-5, foreshadows the Incarnation, when the Holy Spirit overshadowed the Virgin in the Temple and the Son of God was conceived in her womb ([[LUK.1:26]]-38). The sound of many voices (v. 2) is echoed by the \"multitude of the heavenly host\" announcing the Advent of Christ to the shepherds ([[LUK.2:13]]).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "shepherd",
+        "temple"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/TOB_footnotes.md",
       "line_number": 215,
       "raw_match": "[[LUK.1:26]]-38",
       "reference_type": "wikilink_range",
-      "context": "Raphael reveals himself to Tobit and Tobias as one of seven holy angels who appear before the glory of the Holy One (see [[REV.1:4]]). These seven are also called archangels. The names of four of them are revealed: Raphael, Gabriel ([[DAN.9:21]]; [[LUK.1:19]], [[LUK.1:26]]-38), Michael ([[DAN.10:21]]; Jude 9) and Uriel (2 Esdras 4:1)."
+      "context": "Raphael reveals himself to Tobit and Tobias as one of seven holy angels who appear before the glory of the Holy One (see [[REV.1:4]]). These seven are also called archangels. The names of four of them are revealed: Raphael, Gabriel ([[DAN.9:21]]; [[LUK.1:19]], [[LUK.1:26]]-38), Michael ([[DAN.10:21]]; Jude 9) and Uriel (2 Esdras 4:1).",
+      "edge_type": "instantiates",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

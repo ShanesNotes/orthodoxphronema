@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "'If the world hates you, you know that it hated Me before it hated you.",
   "pericope": {
     "id": "JOH.P056",
@@ -12,7 +12,14 @@
     "range": "JOH.15:17-16:4",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "baptism",
+    "christology",
+    "creation_theology",
+    "eucharist",
+    "judgment",
+    "suffering"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,35 +27,102 @@
       "line_number": 94,
       "raw_match": "[[JOH.15:18]]-21",
       "reference_type": "wikilink_range",
-      "context": "Christ and the Church are so intimately united that, as we suffer and die with Him (beginning at baptism), so Christ suffers with us in our work of reconciliation. (See Mt 25:40; [[LUK.10:16]]; [[JOH.15:18]]-21; [[ACT.9:1]], [[ACT.9:4]], [[ACT.9:5]]; [[ROM.8:17]]; [[2CO.1:5]]; 4:10; [[PHP.1:20]]; 3:10.)"
+      "context": "Christ and the Church are so intimately united that, as we suffer and die with Him (beginning at baptism), so Christ suffers with us in our work of reconciliation. (See Mt 25:40; [[LUK.10:16]]; [[JOH.15:18]]-21; [[ACT.9:1]], [[ACT.9:4]], [[ACT.9:5]]; [[ROM.8:17]]; [[2CO.1:5]]; 4:10; [[PHP.1:20]]; 3:10.)",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "baptism",
+        "christology",
+        "creation_theology",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/NT/LUK_footnotes.md",
       "line_number": 990,
       "raw_match": "[[JOH.15:18]]",
       "reference_type": "wikilink",
-      "context": "Lambs speak of the sacrificial life of the apostles and of all followers of Christ. The wolves are those who seek to frighten and devour those who follow the Lord ([[JOH.15:18]])."
+      "context": "Lambs speak of the sacrificial life of the apostles and of all followers of Christ. The wolves are those who seek to frighten and devour those who follow the Lord ([[JOH.15:18]]).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/NT/MAT_footnotes.md",
       "line_number": 469,
       "raw_match": "[[JOH.15:18]]-20",
       "reference_type": "wikilink_range",
-      "context": "Children of God uphold truth, refuse to compromise with the ways of the world, and give themselves to no other (6:24, 33; see [[1CO.6:19]], [[1CO.6:20]]). Like Jesus, these will be persecuted for righteousness' sake (see [[JOH.15:18]]-20). Christ's kingdom is the crown awaiting the righteous."
+      "context": "Children of God uphold truth, refuse to compromise with the ways of the world, and give themselves to no other (6:24, 33; see [[1CO.6:19]], [[1CO.6:20]]). Like Jesus, these will be persecuted for righteousness' sake (see [[JOH.15:18]]-20). Christ's kingdom is the crown awaiting the righteous.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/GEN_footnotes.md",
       "line_number": 1161,
       "raw_match": "[[JOH.15:18]]",
       "reference_type": "wikilink",
-      "context": "The names of the sons of Jacob reveal things concerning the Incarnation of the Son of God. For example, Rachel speaks of Dan's birth in relation to God as Judge; Christ \"shall come to judge the living and the dead\" (Creed). Also, Reuben's birth relates to humiliation (29:32); the Son humbled Himself to become Man for man's salvation (Php 2:7). Simeon's birth emphasizes hatred (29:33); Christ was hated without cause (Jn 15:25), and sometimes, so is the Church ([[JOH.15:18]]). Levi's birth speaks of union, for \"on my side\" speaks of union (29:34). Christ unites His Church to Himself in baptism (Rom 6:5). Judah's birth relates to thanksgiving (29:35); Christ established the Eucharist, which means Thanksgiving."
+      "context": "The names of the sons of Jacob reveal things concerning the Incarnation of the Son of God. For example, Rachel speaks of Dan's birth in relation to God as Judge; Christ \"shall come to judge the living and the dead\" (Creed). Also, Reuben's birth relates to humiliation (29:32); the Son humbled Himself to become Man for man's salvation (Php 2:7). Simeon's birth emphasizes hatred (29:33); Christ was hated without cause (Jn 15:25), and sometimes, so is the Church ([[JOH.15:18]]). Levi's birth speaks of union, for \"on my side\" speaks of union (29:34). Christ unites His Church to Himself in baptism (Rom 6:5). Judah's birth relates to thanksgiving (29:35); Christ established the Eucharist, which means Thanksgiving.",
+      "edge_type": "descends_to",
+      "topic_threads": [
+        "baptism",
+        "christology",
+        "eucharist",
+        "judgment"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/PSA_footnotes.md",
       "line_number": 924,
       "raw_match": "[[JOH.15:18]]",
       "reference_type": "wikilink",
-      "context": "Ps 82 prophesies that all who hate Christ (v. 3) will also persecute His saints (vv. 4- 9; see also [[JOH.15:18]]; [[2TI.3:12]]). Various nations mentioned (vv. 7-9) represent the kinds of persecutors who seek to destroy the Church. Even avowed enemies find a common ground of unity in order to persecute the Church (v. 6). But the Church is taught how to pray in times of persecution (vv. 10-19), and even some of these enemies are converted to the Lord (v. 17)."
+      "context": "Ps 82 prophesies that all who hate Christ (v. 3) will also persecute His saints (vv. 4- 9; see also [[JOH.15:18]]; [[2TI.3:12]]). Various nations mentioned (vv. 7-9) represent the kinds of persecutors who seek to destroy the Church. Even avowed enemies find a common ground of unity in order to persecute the Church (v. 6). But the Church is taught how to pray in times of persecution (vv. 10-19), and even some of these enemies are converted to the Lord (v. 17).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

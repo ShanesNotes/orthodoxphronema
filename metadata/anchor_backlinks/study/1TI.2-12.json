@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "And I do not permit a woman to teach or to have authority over a man, but to be in silence.",
   "pericope": {
     "id": "1TI.P008",
@@ -12,7 +12,10 @@
     "range": "1TI.2:5-2:15",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "creation_theology"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 862,
       "raw_match": "[[1TI.2:12]]",
       "reference_type": "wikilink",
-      "context": "An early tradition in the Church is that women shall keep silent and not talk during the Liturgy. While they are permitted to prophesy (11:5) they are not allowed to simply converse (see also [[1TI.2:12]]). With the spiritual gifts (12:12-27), all are equal in Christ, while the order of the original creation remains in the new creation."
+      "context": "An early tradition in the Church is that women shall keep silent and not talk during the Liturgy. While they are permitted to prophesy (11:5) they are not allowed to simply converse (see also [[1TI.2:12]]). With the spiritual gifts (12:12-27), all are equal in Christ, while the order of the original creation remains in the new creation.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology",
+        "creation_theology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

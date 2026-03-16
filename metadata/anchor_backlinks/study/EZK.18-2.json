@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "'Son of man, what is the meaning of this parable among the children of Israel which says, 'The fathers eat unripe grapes, and the children's teeth grind'?",
   "pericope": {
     "id": "EZK.P022",
@@ -12,7 +12,13 @@
     "range": "EZK.17:24-18:31",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "divine_word",
+    "exodus_typology",
+    "logos",
+    "wisdom"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +26,23 @@
       "line_number": 524,
       "raw_match": "[[EZK.18:1]]-4",
       "reference_type": "wikilink_range",
-      "context": "Parents could not be punished because of their children's sins, nor vice versa. The prophet Ezekiel also confirmed this: \"The word of the Lord came to me, saying, Son of man, what is the meaning of this proverb among the sons of Israel, which says: The fathers have eaten sour grapes, and the children's teeth are set on edge? As I live, says the Lord, you shall no longer use this proverb in Israel. Behold, all souls are Mine; the soul of the father as well as the soul of the son is Mine; the soul who sins shall die\" ([[EZK.18:1]]-4). Therefore, each one is accountable for his own sins. What then is the meaning of 5:9, \"repaying the sins of the fathers upon the children to the third and fourth generation of those who hate Me\"? This was not meant as a universal saying. It only referred to the children of those who sinned in Egypt, and who committed the same sins as their fathers. Anyone who reads the Scriptures regarding Israel's deliverance from Egypt will find this to be true (JohnChr). This understanding also refutes the doctrine of original sin, which claims that all mankind is guilty before God for Adam's sin. Adam was guilty for his own transgression. His transgression brought physical death upon all mankind, but not guilt before God ([[ROM.5:12]]). Each individual is accountable before God for his own sins."
+      "context": "Parents could not be punished because of their children's sins, nor vice versa. The prophet Ezekiel also confirmed this: \"The word of the Lord came to me, saying, Son of man, what is the meaning of this proverb among the sons of Israel, which says: The fathers have eaten sour grapes, and the children's teeth are set on edge? As I live, says the Lord, you shall no longer use this proverb in Israel. Behold, all souls are Mine; the soul of the father as well as the soul of the son is Mine; the soul who sins shall die\" ([[EZK.18:1]]-4). Therefore, each one is accountable for his own sins. What then is the meaning of 5:9, \"repaying the sins of the fathers upon the children to the third and fourth generation of those who hate Me\"? This was not meant as a universal saying. It only referred to the children of those who sinned in Egypt, and who committed the same sins as their fathers. Anyone who reads the Scriptures regarding Israel's deliverance from Egypt will find this to be true (JohnChr). This understanding also refutes the doctrine of original sin, which claims that all mankind is guilty before God for Adam's sin. Adam was guilty for his own transgression. His transgression brought physical death upon all mankind, but not guilt before God ([[ROM.5:12]]). Each individual is accountable before God for his own sins.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology",
+        "divine_word",
+        "exodus_typology",
+        "logos",
+        "wisdom"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 9,
+        "title": "Example: The Cherubim of Ezekiel I",
+        "polarity": "generation",
+        "operation": "inform",
+        "scale": "intercommunal"
+      }
     }
   ]
 }

@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "So Joshua the son of Nun went to the priests",
   "pericope": {
     "id": "JOS.P009",
@@ -12,7 +12,9 @@
     "range": "JOS.5:15-6:25",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "priesthood"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 453,
       "raw_match": "[[JOS.6:1]]-21",
       "reference_type": "wikilink_range",
-      "context": "See [[JOS.6:1]]-21."
+      "context": "See [[JOS.6:1]]-21.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "priesthood"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "If we live in the Spirit, let us also walk in the Spirit.",
   "pericope": {
     "id": "GAL.P019",
@@ -12,7 +12,12 @@
     "range": "GAL.5:12-5:25",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "baptism",
+    "christology",
+    "kingdom",
+    "repentance"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +25,22 @@
       "line_number": 235,
       "raw_match": "[[GAL.5:22]]-25",
       "reference_type": "wikilink_range",
-      "context": "Repentance, confession, and baptism lead to fruits worthy of repentance, a way of life consistent with the Kingdom of God (see [[GAL.5:22]]-25). If a fruitful life does not follow, sacramental acts and spiritual discipline are useless. Thus in many icons of the Baptism of Christ, an ax is pictured chopping a fruitless tree (v. 10)."
+      "context": "Repentance, confession, and baptism lead to fruits worthy of repentance, a way of life consistent with the Kingdom of God (see [[GAL.5:22]]-25). If a fruitful life does not follow, sacramental acts and spiritual discipline are useless. Thus in many icons of the Baptism of Christ, an ax is pictured chopping a fruitless tree (v. 10).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "baptism",
+        "christology",
+        "kingdom",
+        "repentance"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

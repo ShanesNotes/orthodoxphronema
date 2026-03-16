@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Then he said to Jesus, 'Lord, aremember me when You come into Your kingdom.'",
   "pericope": {
     "id": "LUK.P118",
@@ -12,7 +12,19 @@
     "range": "LUK.23:38-23:42",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "eschatology",
+    "exodus_typology",
+    "faith",
+    "israel_church",
+    "mercy",
+    "praise",
+    "repentance",
+    "resurrection",
+    "suffering",
+    "wisdom"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,28 +32,88 @@
       "line_number": 19,
       "raw_match": "[[LUK.23:42]]",
       "reference_type": "wikilink",
-      "context": "For the ancient Hebrews, death meant a return to the same earth from which all are taken: 'For earth you are, and to the earth you shall return' ([[GEN.3:19]]; [[JOB.7:21]]). Nevertheless, a general idea developed that the souls of the dead do continue, though only in a shadowy, semi-comatose kind of existence in a netherworld called sheol, or Hades ([[GEN.37:34]], [[GEN.37:35]]; [[PSA.114:3]], 138:8; [[ISA.14:9]]-11), a land of 'oblivion' ([[PSA.87:10]]-12; [[JOB.14:18]]-22). In sheolthe depths or abyss of the earth, 'the Pit'-even the righteous dead abide, without any power of deliverance ([[JOB.7:6]]-10; [[PSA.88:48]]; [[ISA.38:18]]; [[EZK.26:19]]-21). Yet there was at least a general hope that one's memory would be kept alive by one's community and descendants ([[PSA.111:6]]; [[PRO.10:7]]; [[DEU.25:5]], [[DEU.25:6]]). Only gradually did God reveal glimpses of a glorious life after death to His people, a hope that would become available to all through the power of Christ's Resurrection. An early hint of this coming hope was revealed to Job. Amid his terrible suffering, Job asks, 'If a man dies, shall he live again?' And through a flash of divine insight, he says: 'I will wait until I arise' ([[JOB.14:14]]). Psalms also begin to reflect upon personal resurrection to everlasting life ([[PSA.15:8]]-11; 48:15; 70:20-23; 90:1-16). The first indications of a corporate resurrection of the people of Israel are given in the 8th century BC through Hosea ([[HOS.6:1]]-3; 13:14) and Isaiah ([[ISA.26:19]]). In the early 6th century BC, Ezekiel receives the dramatic vision of a miraculous reconstitution of 'the whole house of Israel' on the plain covered with dry bones ([[EZK.37:1]]-14). The Church reads this passage triumphantly on Great and Holy Saturday. Why? Because it is prophetic of the freeing of all the souls from Hades by Christ on that day ([[1PE.3:19]]; [[EPH.4:8]]-10) and the general resurrection of all the dead on the last day. By the late first century BC, as seen in the Wisdom of Solomon, immortality is directly linked with living in wisdom and righteousness: 'Kinship with Wisdom is immortality' ([[WIS.8:17]]); 'The righteous shall live forever' ([[WIS.5:15]]; see also 1:13-15; 2:22, 23; 6:1721). Various passages from this book ([[WIS.3:1]]-9; 4:7-15; 5:15-6:3) are read at Vespers in commemoration of some of the more prominent saints. At the time of Christ, the Sadducees rejected belief in an afterlife (see [[MAT.22:23]]), while the Pharisees did believe in resurrection and immortality ([[ACT.23:6]]-8). It was the Pharisees' view which came to dominate in later Judaism. Lazarus' sister Martha knew about a general 'resurrection at the last day' ([[JOH.11:24]]), but Jesus declares to her that resurrection and eternal life come only through Him ([[JOH.11:25]]; see 3:14-16; 4:14; 6:40, 47-58; 14:1-6). Christ promises that believers will be with Him after their death ([[LUK.23:42]], [[LUK.23:43]]; see [[2CO.5:8]]; [[PHP.1:21]]-23). The souls of believers are further enlightened in Christ, as they experience a foretaste of the eternal heavenly kingdom. Yet all the departed still await the general resurrection, the day when their souls will be reunited with their bodies, which are transformed into a glorified state ([[1CO.15:50]]-54) like Christ's own body ([[PHP.3:20]], [[PHP.3:21]]; [[1JN.3:2]])."
+      "context": "For the ancient Hebrews, death meant a return to the same earth from which all are taken: 'For earth you are, and to the earth you shall return' ([[GEN.3:19]]; [[JOB.7:21]]). Nevertheless, a general idea developed that the souls of the dead do continue, though only in a shadowy, semi-comatose kind of existence in a netherworld called sheol, or Hades ([[GEN.37:34]], [[GEN.37:35]]; [[PSA.114:3]], 138:8; [[ISA.14:9]]-11), a land of 'oblivion' ([[PSA.87:10]]-12; [[JOB.14:18]]-22). In sheolthe depths or abyss of the earth, 'the Pit'-even the righteous dead abide, without any power of deliverance ([[JOB.7:6]]-10; [[PSA.88:48]]; [[ISA.38:18]]; [[EZK.26:19]]-21). Yet there was at least a general hope that one's memory would be kept alive by one's community and descendants ([[PSA.111:6]]; [[PRO.10:7]]; [[DEU.25:5]], [[DEU.25:6]]). Only gradually did God reveal glimpses of a glorious life after death to His people, a hope that would become available to all through the power of Christ's Resurrection. An early hint of this coming hope was revealed to Job. Amid his terrible suffering, Job asks, 'If a man dies, shall he live again?' And through a flash of divine insight, he says: 'I will wait until I arise' ([[JOB.14:14]]). Psalms also begin to reflect upon personal resurrection to everlasting life ([[PSA.15:8]]-11; 48:15; 70:20-23; 90:1-16). The first indications of a corporate resurrection of the people of Israel are given in the 8th century BC through Hosea ([[HOS.6:1]]-3; 13:14) and Isaiah ([[ISA.26:19]]). In the early 6th century BC, Ezekiel receives the dramatic vision of a miraculous reconstitution of 'the whole house of Israel' on the plain covered with dry bones ([[EZK.37:1]]-14). The Church reads this passage triumphantly on Great and Holy Saturday. Why? Because it is prophetic of the freeing of all the souls from Hades by Christ on that day ([[1PE.3:19]]; [[EPH.4:8]]-10) and the general resurrection of all the dead on the last day. By the late first century BC, as seen in the Wisdom of Solomon, immortality is directly linked with living in wisdom and righteousness: 'Kinship with Wisdom is immortality' ([[WIS.8:17]]); 'The righteous shall live forever' ([[WIS.5:15]]; see also 1:13-15; 2:22, 23; 6:1721). Various passages from this book ([[WIS.3:1]]-9; 4:7-15; 5:15-6:3) are read at Vespers in commemoration of some of the more prominent saints. At the time of Christ, the Sadducees rejected belief in an afterlife (see [[MAT.22:23]]), while the Pharisees did believe in resurrection and immortality ([[ACT.23:6]]-8). It was the Pharisees' view which came to dominate in later Judaism. Lazarus' sister Martha knew about a general 'resurrection at the last day' ([[JOH.11:24]]), but Jesus declares to her that resurrection and eternal life come only through Him ([[JOH.11:25]]; see 3:14-16; 4:14; 6:40, 47-58; 14:1-6). Christ promises that believers will be with Him after their death ([[LUK.23:42]], [[LUK.23:43]]; see [[2CO.5:8]]; [[PHP.1:21]]-23). The souls of believers are further enlightened in Christ, as they experience a foretaste of the eternal heavenly kingdom. Yet all the departed still await the general resurrection, the day when their souls will be reunited with their bodies, which are transformed into a glorified state ([[1CO.15:50]]-54) like Christ's own body ([[PHP.3:20]], [[PHP.3:21]]; [[1JN.3:2]]).",
+      "edge_type": "opposes",
+      "topic_threads": [
+        "christology",
+        "eschatology",
+        "faith",
+        "israel_church",
+        "praise",
+        "resurrection",
+        "suffering",
+        "wisdom"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 9,
+        "title": "Example: The Cherubim of Ezekiel I",
+        "polarity": "generation",
+        "operation": "inform",
+        "scale": "intercommunal"
+      }
     },
     {
       "source_file": "study/footnotes/NT/MAT_footnotes.md",
       "line_number": 2446,
       "raw_match": "[[LUK.23:39]]-43",
       "reference_type": "wikilink_range",
-      "context": "Jesus accepts mockery and endures the weakness of our body in His own to take upon Himself our sufferings. This He accomplishes by uniting His divine nature to our human nature. His humanity is indeed our humanity. Although He has no sin, He was made to be sin for us, that through His flesh He might condemn sin itself ([[ROM.8:3]]; 2Co 5:21; [[HEB.2:9]]). Two robbers (v. 38): Although one would later repent ([[LUK.23:39]]-43), at first both criminals mock Jesus (v. 44)."
+      "context": "Jesus accepts mockery and endures the weakness of our body in His own to take upon Himself our sufferings. This He accomplishes by uniting His divine nature to our human nature. His humanity is indeed our humanity. Although He has no sin, He was made to be sin for us, that through His flesh He might condemn sin itself ([[ROM.8:3]]; 2Co 5:21; [[HEB.2:9]]). Two robbers (v. 38): Although one would later repent ([[LUK.23:39]]-43), at first both criminals mock Jesus (v. 44).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "repentance",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/EZK_footnotes.md",
       "line_number": 248,
       "raw_match": "[[LUK.23:42]]",
       "reference_type": "wikilink",
-      "context": "Though we have dishonored God, still He will remember us when we turn to Him. This calls to mind the repentant thief who called out to Christ, \"Remember me when You come into Your kingdom\" ([[LUK.23:42]]). 17:1 This parable was fulfilled historically when Israel went into the Babylonian captivity. Some scholars say that the first great eagle is Nebuchadnezzar (v. 3), the second (v. 7) Pharaoh. 17:22-24 As the branches were planted on Israel's mountain, so the Gentile Church (the humble tree) grew out of earthly Israel (the high tree)."
+      "context": "Though we have dishonored God, still He will remember us when we turn to Him. This calls to mind the repentant thief who called out to Christ, \"Remember me when You come into Your kingdom\" ([[LUK.23:42]]). 17:1 This parable was fulfilled historically when Israel went into the Babylonian captivity. Some scholars say that the first great eagle is Nebuchadnezzar (v. 3), the second (v. 7) Pharaoh. 17:22-24 As the branches were planted on Israel's mountain, so the Gentile Church (the humble tree) grew out of earthly Israel (the high tree).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "exodus_typology",
+        "israel_church",
+        "repentance"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/GEN_footnotes.md",
       "line_number": 351,
       "raw_match": "[[LUK.23:42]]-43",
       "reference_type": "wikilink_range",
-      "context": "God remembered Noah and saved him from the floodwaters, for He made a wind that caused the waters to subside. Noah was saved because God remembered him. This remembrance is salvation. Many Scriptures speak of God remembering man in salvation. For example, [[PSA.24:6]], [[PSA.24:7]]: \"Remember Your compassion, O Lord, / And Your mercy, for they are from of old. / Do not remember the sins of my youth, nor of my ignorance; / But remember me according to Your mercy, / Because of Your loving-kindness, O Lord.\" The thief on the cross said to Jesus, \"Lord, remember me when You come into Your kingdom.\" And Jesus said to him, \"Assuredly, I say to you, today you will be with Me in Paradise\" ([[LUK.23:42]]-43)."
+      "context": "God remembered Noah and saved him from the floodwaters, for He made a wind that caused the waters to subside. Noah was saved because God remembered him. This remembrance is salvation. Many Scriptures speak of God remembering man in salvation. For example, [[PSA.24:6]], [[PSA.24:7]]: \"Remember Your compassion, O Lord, / And Your mercy, for they are from of old. / Do not remember the sins of my youth, nor of my ignorance; / But remember me according to Your mercy, / Because of Your loving-kindness, O Lord.\" The thief on the cross said to Jesus, \"Lord, remember me when You come into Your kingdom.\" And Jesus said to him, \"Assuredly, I say to you, today you will be with Me in Paradise\" ([[LUK.23:42]]-43).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "mercy",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

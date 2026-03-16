@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "To me, who am less than the least of all the saints, this grace was given, that I should preach among the Gentiles the unsearchable riches of Christ,",
   "pericope": {
     "id": "EPH.P008",
@@ -12,7 +12,13 @@
     "range": "EPH.3:2-3:12",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "baptism",
+    "christology",
+    "eucharist",
+    "praise",
+    "suffering"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +26,23 @@
       "line_number": 514,
       "raw_match": "[[EPH.3:8]]",
       "reference_type": "wikilink",
-      "context": "Ps 41 speaks of Christ (the End, v. 1) and His Baptism in the Jordan (from the land of the Jordan and Hermon, v. 7). His Baptism is celebrated in the Church as the Feast of Theophany. It is celebrated as a festival with great joy and praise (v. 5). His Baptism in the Jordan is our salvation (vv. 6, 12), which produces (1) a longing and thirst for union and communion with God (vv. 2, 3); (2) tears of joy in the midst of suffering (vv. 4-6, 10-12); and (3) enlightenment (understanding, v. 1) concerning the unsearchable riches of Christ (vv. 8, 9; see also [[ROM.11:33]]; [[EPH.3:8]])."
+      "context": "Ps 41 speaks of Christ (the End, v. 1) and His Baptism in the Jordan (from the land of the Jordan and Hermon, v. 7). His Baptism is celebrated in the Church as the Feast of Theophany. It is celebrated as a festival with great joy and praise (v. 5). His Baptism in the Jordan is our salvation (vv. 6, 12), which produces (1) a longing and thirst for union and communion with God (vv. 2, 3); (2) tears of joy in the midst of suffering (vv. 4-6, 10-12); and (3) enlightenment (understanding, v. 1) concerning the unsearchable riches of Christ (vv. 8, 9; see also [[ROM.11:33]]; [[EPH.3:8]]).",
+      "edge_type": "echoes",
+      "topic_threads": [
+        "baptism",
+        "christology",
+        "eucharist",
+        "praise",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

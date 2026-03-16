@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "For it is not possible that the blood of bulls and goats could take away sins.",
   "pericope": {
     "id": "HEB.P022",
@@ -12,7 +12,9 @@
     "range": "HEB.9:28-10:6",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 30,
       "raw_match": "[[HEB.10:1]]-4",
       "reference_type": "wikilink_range",
-      "context": "Christ is the Incarnate Lawgiver who offers us remission of sins through His precious blood. The old Law could never remit sins ([[HEB.10:1]]-4). Christ not only forgives sins, but also heals the damage done through sinning. This is the unspeakable grace of the Lawgiver. ### Images And Imagery *(after EXO.21:6)*"
+      "context": "Christ is the Incarnate Lawgiver who offers us remission of sins through His precious blood. The old Law could never remit sins ([[HEB.10:1]]-4). Christ not only forgives sins, but also heals the damage done through sinning. This is the unspeakable grace of the Lawgiver. ### Images And Imagery *(after EXO.21:6)*",
+      "edge_type": "descends_to",
+      "topic_threads": [
+        "christology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

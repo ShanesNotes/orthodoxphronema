@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "'For the great day of the Lord is near. It is near and quick. The sound of the day of the Lord is bitter and harsh.",
   "pericope": {
     "id": "ZEP.P001",
@@ -12,7 +12,9 @@
     "range": "ZEP.1:1-1:17",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "eschatology"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 1399,
       "raw_match": "[[ZEP.1:14]]",
       "reference_type": "wikilink",
-      "context": "Spirits of demons, performing signs are attested by our Lord ([[MRK.13:22]]; see also [[ACT.13:6]]; [[2TH.2:9]]). The great day of God Almighty (6:17, foreshadowed in Joel 2:11; [[ZEP.1:14]]; graphically described in [[2PE.3:12]]) is the eschatological Day of the Lord."
+      "context": "Spirits of demons, performing signs are attested by our Lord ([[MRK.13:22]]; see also [[ACT.13:6]]; [[2TH.2:9]]). The great day of God Almighty (6:17, foreshadowed in Joel 2:11; [[ZEP.1:14]]; graphically described in [[2PE.3:12]]) is the eschatological Day of the Lord.",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "eschatology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

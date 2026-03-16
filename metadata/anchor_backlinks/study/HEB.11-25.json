@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "choosing rather to suffer affliction with the people of God than to enjoy the passing pleasures of sin,",
   "pericope": {
     "id": "HEB.P030",
@@ -12,7 +12,12 @@
     "range": "HEB.11:22-11:30",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "exodus_typology",
+    "faith",
+    "israel_church",
+    "suffering"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +25,22 @@
       "line_number": 75,
       "raw_match": "[[HEB.11:24]]-26",
       "reference_type": "wikilink_range",
-      "context": "Moses went out to see his brethren because he refused to be called the son of Pharaoh's daughter. Why? Because of his faith, for he chose the Lord and holiness over the riches of Egypt and the passing pleasures of sin. He had his eyes on the world to come ([[HEB.11:24]]-26)."
+      "context": "Moses went out to see his brethren because he refused to be called the son of Pharaoh's daughter. Why? Because of his faith, for he chose the Lord and holiness over the riches of Egypt and the passing pleasures of sin. He had his eyes on the world to come ([[HEB.11:24]]-26).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "exodus_typology",
+        "faith",
+        "israel_church",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

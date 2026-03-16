@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "I swore an oath against them in the desert that I would no longer bring them into the land I gave them, a land flowing with milk and honey, a land sweeter than all other lands,",
   "pericope": {
     "id": "EZK.P024",
@@ -12,7 +12,10 @@
     "range": "EZK.19:14-20:43",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "covenant",
+    "eucharist"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 374,
       "raw_match": "[[EZK.20:15]]",
       "reference_type": "wikilink",
-      "context": "Milk and honey together signified the overabundance of delights in the Promised Land ([[EXO.3:8]], [[EXO.3:17]]; 13:5; 33:3; Lv 20:24; [[JOS.5:6]]; [[JER.11:5]], 39:22; [[EZK.20:6]], [[EZK.20:15]]), but bread and wine comprise the image of the marriage supper of the Lamb ([[REV.19:9]]), the Holy Eucharist. In the Church, friends and brothers are invited to eat and drink."
+      "context": "Milk and honey together signified the overabundance of delights in the Promised Land ([[EXO.3:8]], [[EXO.3:17]]; 13:5; 33:3; Lv 20:24; [[JOS.5:6]]; [[JER.11:5]], 39:22; [[EZK.20:6]], [[EZK.20:15]]), but bread and wine comprise the image of the marriage supper of the Lamb ([[REV.19:9]]), the Holy Eucharist. In the Church, friends and brothers are invited to eat and drink.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "covenant",
+        "eucharist"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

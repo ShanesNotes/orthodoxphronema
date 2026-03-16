@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Also there were many priests, because they were prevented by death from continuing.",
   "pericope": {
     "id": "HEB.P015",
@@ -12,7 +12,10 @@
     "range": "HEB.6:20-7:27",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "priesthood"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 513,
       "raw_match": "[[HEB.7:23]]-25",
       "reference_type": "wikilink_range",
-      "context": "Aaron's death revealed the weakness and temporary nature of the Aaronic priesthood, for it could not overcome death. But Christ destroyed death by His death; therefore, His priesthood continues unto ages of ages ([[HEB.7:23]]-25)."
+      "context": "Aaron's death revealed the weakness and temporary nature of the Aaronic priesthood, for it could not overcome death. But Christ destroyed death by His death; therefore, His priesthood continues unto ages of ages ([[HEB.7:23]]-25).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "priesthood"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

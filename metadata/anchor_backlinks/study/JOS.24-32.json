@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "In his grave they placed with him the stone knives with which he circumcised the sons of Israel at Gilgal, when he brought them out of Egypt, as the Lord ordered them. They remain there to this very day.",
   "pericope": {
     "id": "JOS.P054",
@@ -12,7 +12,10 @@
     "range": "JOS.24:29-24:36",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "covenant",
+    "exodus_typology"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 15,
       "raw_match": "[[JOS.24:30]]-32",
       "reference_type": "wikilink_range",
-      "context": ", 2 Once Joshua died (recorded both in [[JOS.24:30]]-32 and [[JDG.2:7]]-9), the question became, \"Who will lead Israel in the fight against the Canaanites?\" This represents the transition from the people under Joshua generally obeying God and experiencing victory to their lapsing into idolatry and disobedience under the judges. Judah is a reference to the tribe."
+      "context": ", 2 Once Joshua died (recorded both in [[JOS.24:30]]-32 and [[JDG.2:7]]-9), the question became, \"Who will lead Israel in the fight against the Canaanites?\" This represents the transition from the people under Joshua generally obeying God and experiencing victory to their lapsing into idolatry and disobedience under the judges. Judah is a reference to the tribe.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "covenant",
+        "exodus_typology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

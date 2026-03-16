@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Then the Pharisees went out and immediately plotted with the Herodians against Him, how they might destroy Him.",
   "pericope": {
     "id": "MRK.P010",
@@ -12,7 +12,9 @@
     "range": "MRK.3:6-3:29",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 555,
       "raw_match": "[[MRK.3:6]]",
       "reference_type": "wikilink",
-      "context": "As the Jews sought to devise a plan against Jeremiah to strike him down, so they also plotted against Christ, to destroy Him ([[MRK.3:6]])."
+      "context": "As the Jews sought to devise a plan against Jeremiah to strike him down, so they also plotted against Christ, to destroy Him ([[MRK.3:6]]).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 6,
+        "title": "The Universe As a Language",
+        "polarity": "generation",
+        "operation": "descend",
+        "scale": "communal"
+      }
     }
   ]
 }

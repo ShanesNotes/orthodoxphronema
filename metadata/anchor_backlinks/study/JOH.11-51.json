@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Now this he did not say on his own authority; but being high priest that year he prophesied that Jesus would die for the nation,",
   "pericope": {
     "id": "JOH.P039",
@@ -12,7 +12,11 @@
     "range": "JOH.11:44-11:56",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "priesthood",
+    "suffering"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,14 +24,40 @@
       "line_number": 2434,
       "raw_match": "[[JOH.11:49]]-51",
       "reference_type": "wikilink_range",
-      "context": "Every king is proclaimed by his soldiers. Even though the intention was mockery, it is prophetic that Jesus should be crowned and hailed as King by soldiers of the governor (see also [[JOH.11:49]]-51, where Caiaphas unwittingly prophesies of Christ's redemptive work). This mockery shows Jesus as the One despised and rejected by men who bears the iniquity of us all (see Is 53:3-9). Jesus is clothed in scarlet, representing both His royalty and the sins of humanity which He has taken upon Himself."
+      "context": "Every king is proclaimed by his soldiers. Even though the intention was mockery, it is prophetic that Jesus should be crowned and hailed as King by soldiers of the governor (see also [[JOH.11:49]]-51, where Caiaphas unwittingly prophesies of Christ's redemptive work). This mockery shows Jesus as the One despised and rejected by men who bears the iniquity of us all (see Is 53:3-9). Jesus is clothed in scarlet, representing both His royalty and the sins of humanity which He has taken upon Himself.",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "priesthood"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/EST_footnotes.md",
       "line_number": 23,
       "raw_match": "[[JOH.11:51]]",
       "reference_type": "wikilink",
-      "context": "a-1r These verses occur only in the Greek LXX manuscripts and appear there as an addition to the Book of Esther. 1:1d-1j The dream (which is interpreted in 10:1-3k) prepares Mordecai for the test he will face and reveals that God is behind the course of human events. 1:1m-1r This plot, recounted in 2:21-23, serves to describe the animosity between Haman and Mordecai. 1:1-6 Artaxerxes is imperfect, passionate, and self-indulgent. Nevertheless, by virtue of his office and by reigning over many nations, he functions as a figure for God. The dignity of an earthly office is not diminished by the failings of the person holding it (see [[JOH.11:51]]; [[ACT.23:1]]-5)."
+      "context": "a-1r These verses occur only in the Greek LXX manuscripts and appear there as an addition to the Book of Esther. 1:1d-1j The dream (which is interpreted in 10:1-3k) prepares Mordecai for the test he will face and reveals that God is behind the course of human events. 1:1m-1r This plot, recounted in 2:21-23, serves to describe the animosity between Haman and Mordecai. 1:1-6 Artaxerxes is imperfect, passionate, and self-indulgent. Nevertheless, by virtue of his office and by reigning over many nations, he functions as a figure for God. The dignity of an earthly office is not diminished by the failings of the person holding it (see [[JOH.11:51]]; [[ACT.23:1]]-5).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "priesthood",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

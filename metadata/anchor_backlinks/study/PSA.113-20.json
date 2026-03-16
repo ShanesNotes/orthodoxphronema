@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "The Lord remembered us and blessed us; He blessed the house of Israel; He blessed the house of Aaron;",
   "pericope": {
     "id": "PSA.P113",
@@ -12,7 +12,10 @@
     "range": "PSA.113:1-113:26",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "temple"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 2072,
       "raw_match": "[[PSA.113:20]]",
       "reference_type": "wikilink",
-      "context": "God's deepest desire is the reconciliation of His people, yet most do not want Him. The desolate house (v. 38) refers both to the temple and to the nation itself, for house can be used to mean \"family\" or \"tribe\" (see [[PSA.113:20]]; 134:19). Both the temple and the nation will be without God's presence once Christ departs. 24:1, 2 Christ's prophecy of the destruction of the temple was fulfilled in AD 70, when the temple was destroyed by the Romans (see note at 22:7)."
+      "context": "God's deepest desire is the reconciliation of His people, yet most do not want Him. The desolate house (v. 38) refers both to the temple and to the nation itself, for house can be used to mean \"family\" or \"tribe\" (see [[PSA.113:20]]; 134:19). Both the temple and the nation will be without God's presence once Christ departs. 24:1, 2 Christ's prophecy of the destruction of the temple was fulfilled in AD 70, when the temple was destroyed by the Romans (see note at 22:7).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "temple"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

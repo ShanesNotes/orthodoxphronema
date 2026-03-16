@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "deliver such aone to Satan for the destruction of the flesh, that his spirit may be saved in the day of the Lord Jesus.",
   "pericope": {
     "id": "1CO.P013",
@@ -12,7 +12,13 @@
     "range": "1CO.4:21-5:12",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "eschatology",
+    "logos",
+    "repentance",
+    "suffering"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,42 +26,108 @@
       "line_number": 111,
       "raw_match": "[[1CO.5:1]]-13",
       "reference_type": "wikilink_range",
-      "context": "Good theology helps us along the path to good behavior. Although the truth stands firm and unalterable and cannot tolerate the false (see [[1CO.5:1]]-13; [[2CO.6:14]]-18), it instills a reasonable patience and gentleness toward all, especially toward false teachers --while not losing sight of the fact that they are enemies and to be avoided (3:5)."
+      "context": "Good theology helps us along the path to good behavior. Although the truth stands firm and unalterable and cannot tolerate the false (see [[1CO.5:1]]-13; [[2CO.6:14]]-18), it instills a reasonable patience and gentleness toward all, especially toward false teachers --while not losing sight of the fact that they are enemies and to be avoided (3:5).",
+      "edge_type": "instantiates",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/NT/2TI_footnotes.md",
       "line_number": 121,
       "raw_match": "[[1CO.5:1]]-5",
       "reference_type": "wikilink_range",
-      "context": "While technically we have been in the last days since Christ walked the earth, the Church has seen this and other warnings as a reference to the days just before His coming again. A great decay in morals (see Mt 24; Mk 13; 2Th 2; 2Pt 2; compare Rom 1:28-32) will even infiltrate the Church (v. 5; see [[MAT.7:15]]-27; [[1CO.5:1]]-5; [[1TI.4:1]]-11). Like the prominent men of Cain's city ([[GEN.4:16]]-24), these offenders willfully reject law and morals out of love of self and love of pleasure."
+      "context": "While technically we have been in the last days since Christ walked the earth, the Church has seen this and other warnings as a reference to the days just before His coming again. A great decay in morals (see Mt 24; Mk 13; 2Th 2; 2Pt 2; compare Rom 1:28-32) will even infiltrate the Church (v. 5; see [[MAT.7:15]]-27; [[1CO.5:1]]-5; [[1TI.4:1]]-11). Like the prominent men of Cain's city ([[GEN.4:16]]-24), these offenders willfully reject law and morals out of love of self and love of pleasure.",
+      "edge_type": "opposes",
+      "topic_threads": [
+        "christology",
+        "eschatology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/NT/MAT_footnotes.md",
       "line_number": 1641,
       "raw_match": "[[1CO.5:5]]",
       "reference_type": "wikilink",
-      "context": "See also 5:29. The reference to mutilation is an illustration of decisive action to avoid sin and does not advocate literal amputation. This also refers to harmful relationships that must be severed for the salvation of all parties (see [[LUK.14:26]]; [[1CO.5:5]])."
+      "context": "See also 5:29. The reference to mutilation is an illustration of decisive action to avoid sin and does not advocate literal amputation. This also refers to harmful relationships that must be severed for the salvation of all parties (see [[LUK.14:26]]; [[1CO.5:5]]).",
+      "edge_type": "instantiates",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/NT/MAT_footnotes.md",
       "line_number": 1658,
       "raw_match": "[[1CO.5:5]]",
       "reference_type": "wikilink",
-      "context": "Church discipline is based on mutual correction in three expanding stages. Sin and correction are to remain private unless the offender refuses to repent. All correction must be done with great care and humility, with the highest concern being the salvation of the offender (see [[1CO.5:5]]; [[GAL.6:1]]). Nevertheless, correction must take place so that the sin does not spread to others as well."
+      "context": "Church discipline is based on mutual correction in three expanding stages. Sin and correction are to remain private unless the offender refuses to repent. All correction must be done with great care and humility, with the highest concern being the salvation of the offender (see [[1CO.5:5]]; [[GAL.6:1]]). Nevertheless, correction must take place so that the sin does not spread to others as well.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "repentance"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/NT/MAT_footnotes.md",
       "line_number": 1692,
       "raw_match": "[[1CO.5:5]]",
       "reference_type": "wikilink",
-      "context": "Certain Fathers give a spiritual interpretation to the punishment described here. The man represents the soul, the wife represents the body, and the children represent a person's deeds. Thus, the body and the deeds are given over to slavery, that is to Satan, so that the soul might possibly be saved (see [[1CO.5:5]])."
+      "context": "Certain Fathers give a spiritual interpretation to the punishment described here. The man represents the soul, the wife represents the body, and the children represent a person's deeds. Thus, the body and the deeds are given over to slavery, that is to Satan, so that the soul might possibly be saved (see [[1CO.5:5]]).",
+      "edge_type": "instantiates",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/NT/REV_footnotes.md",
       "line_number": 1719,
       "raw_match": "[[1CO.5:5]]",
       "reference_type": "wikilink",
-      "context": "The devil is thrown into the pit, which is shut and sealed for a thousand years-- meaning a long period of time--to allow the Church to be planted, to grow and to overcome, even in times of persecution and trial. The word \"millennium\" is synonymous with thousand years, and carries with it no connotations of peace and prosperity. The Bible teaches that Satan was bound at the completion of Christ's saving work ([[MAT.12:28]], 29; [[LUK.10:17]], [[LUK.10:18]]; [[JOH.12:31]], [[JOH.12:32]]; [[COL.2:15]]). He is not totally inactive ([[ACT.5:3]]; [[1CO.5:5]]; Eph 6:11), but he cannot deceive the nations by keeping the gospel from them. At the close of the millennium or Church age, Satan will be released for a little while (vv. 7, 8)."
+      "context": "The devil is thrown into the pit, which is shut and sealed for a thousand years-- meaning a long period of time--to allow the Church to be planted, to grow and to overcome, even in times of persecution and trial. The word \"millennium\" is synonymous with thousand years, and carries with it no connotations of peace and prosperity. The Bible teaches that Satan was bound at the completion of Christ's saving work ([[MAT.12:28]], 29; [[LUK.10:17]], [[LUK.10:18]]; [[JOH.12:31]], [[JOH.12:32]]; [[COL.2:15]]). He is not totally inactive ([[ACT.5:3]]; [[1CO.5:5]]; Eph 6:11), but he cannot deceive the nations by keeping the gospel from them. At the close of the millennium or Church age, Satan will be released for a little while (vv. 7, 8).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology",
+        "logos",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Then He will answer them, saying, 'Assuredly, I say to you, inasmuch as you did not do it to one of the least of these, you did not do it to Me.'",
   "pericope": {
     "id": "MAT.P080",
@@ -12,7 +12,13 @@
     "range": "MAT.25:30-25:45",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "faith",
+    "judgment",
+    "shepherd",
+    "suffering"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,49 +26,130 @@
       "line_number": 68,
       "raw_match": "[[MAT.25:31]]-46",
       "reference_type": "wikilink_range",
-      "context": "The incorruptible inheritance is reserved for those who have true faith, the faith that by God's grace perseveres to the end. 1:6, 7 To reach the joy and blessing of eternal life in Christ, we first experience the sadness of the passing world, along with the afflictions we must face here (see also [[JAS.1:1]]-12). To the watching world, the perseverance of the faithful during affliction appears foolish and even contemptible. But Peter shows that faith under trial is precious indeed, bearing more glory and honor as it continues to stand under trial (see [[MAT.25:31]]-46; [[1CO.3:10]]-15)."
+      "context": "The incorruptible inheritance is reserved for those who have true faith, the faith that by God's grace perseveres to the end. 1:6, 7 To reach the joy and blessing of eternal life in Christ, we first experience the sadness of the passing world, along with the afflictions we must face here (see also [[JAS.1:1]]-12). To the watching world, the perseverance of the faithful during affliction appears foolish and even contemptible. But Peter shows that faith under trial is precious indeed, bearing more glory and honor as it continues to stand under trial (see [[MAT.25:31]]-46; [[1CO.3:10]]-15).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology",
+        "faith",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/NT/ROM_footnotes.md",
       "line_number": 99,
       "raw_match": "[[MAT.25:41]]-46",
       "reference_type": "wikilink_range",
-      "context": "The wrath of God is His righteous and holy judgment. It is not a loss of temper or self-control, but the revelation of His divine truth, love, and power confronting those who reject Him (see [[MAT.25:41]]-46; [[2TH.1:6]]-10; 2:8)."
+      "context": "The wrath of God is His righteous and holy judgment. It is not a loss of temper or self-control, but the revelation of His divine truth, love, and power confronting those who reject Him (see [[MAT.25:41]]-46; [[2TH.1:6]]-10; 2:8).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "judgment"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/JDG_footnotes.md",
       "line_number": 259,
       "raw_match": "[[MAT.25:41]]-46",
       "reference_type": "wikilink_range",
-      "context": "The men of Succoth (v. 5) and Penuel (v. 8) refused to give bread to Gideon's men, questioning his victory over Midian. Their refusal to help God's servant was costly (see [[MAT.25:41]]-46)."
+      "context": "The men of Succoth (v. 5) and Penuel (v. 8) refused to give bread to Gideon's men, questioning his victory over Midian. Their refusal to help God's servant was costly (see [[MAT.25:41]]-46).",
+      "edge_type": "instantiates",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/JDG_footnotes.md",
       "line_number": 272,
       "raw_match": "[[MAT.25:41]]-46",
       "reference_type": "wikilink_range",
-      "context": "The men of Succoth (v. 5) and Penuel (v. 8) refused to give bread to Gideon's men, questioning his victory over Midian. Their refusal to help God's servant was costly (see [[MAT.25:41]]-46)."
+      "context": "The men of Succoth (v. 5) and Penuel (v. 8) refused to give bread to Gideon's men, questioning his victory over Midian. Their refusal to help God's servant was costly (see [[MAT.25:41]]-46).",
+      "edge_type": "instantiates",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/OBA_footnotes.md",
       "line_number": 53,
       "raw_match": "[[MAT.25:31]]-46",
       "reference_type": "wikilink_range",
-      "context": "This whole passage is stirringly anticipatory of Jesus' parable of the sheep and goats ([[MAT.25:31]]-46) and His proclamation that actions done or left undone to the children of God are done directly to Christ ([[MAT.25:40]], [[MAT.25:45]]). In addition to the historical events undoubtedly referred to in these verses, Edom is also taken up once again as a typification of sinful human attributes: lack of benevolence and pleasure in another's misfortune (v. 12); passivity and the desire for profit from another's loss (v. 13); the hindering of another's escape from undue persecution (v. 14)."
+      "context": "This whole passage is stirringly anticipatory of Jesus' parable of the sheep and goats ([[MAT.25:31]]-46) and His proclamation that actions done or left undone to the children of God are done directly to Christ ([[MAT.25:40]], [[MAT.25:45]]). In addition to the historical events undoubtedly referred to in these verses, Edom is also taken up once again as a typification of sinful human attributes: lack of benevolence and pleasure in another's misfortune (v. 12); passivity and the desire for profit from another's loss (v. 13); the hindering of another's escape from undue persecution (v. 14).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "shepherd",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/OBA_footnotes.md",
       "line_number": 54,
       "raw_match": "[[MAT.25:45]]",
       "reference_type": "wikilink",
-      "context": "This whole passage is stirringly anticipatory of Jesus' parable of the sheep and goats ([[MAT.25:31]]-46) and His proclamation that actions done or left undone to the children of God are done directly to Christ ([[MAT.25:40]], [[MAT.25:45]]). In addition to the historical events undoubtedly referred to in these verses, Edom is also taken up once again as a typification of sinful human attributes: lack of benevolence and pleasure in another's misfortune (v. 12); passivity and the desire for profit from another's loss (v. 13); the hindering of another's escape from undue persecution (v. 14)."
+      "context": "This whole passage is stirringly anticipatory of Jesus' parable of the sheep and goats ([[MAT.25:31]]-46) and His proclamation that actions done or left undone to the children of God are done directly to Christ ([[MAT.25:40]], [[MAT.25:45]]). In addition to the historical events undoubtedly referred to in these verses, Edom is also taken up once again as a typification of sinful human attributes: lack of benevolence and pleasure in another's misfortune (v. 12); passivity and the desire for profit from another's loss (v. 13); the hindering of another's escape from undue persecution (v. 14).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "shepherd",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/SIR_footnotes.md",
       "line_number": 311,
       "raw_match": "[[MAT.25:31]]-46",
       "reference_type": "wikilink_range",
-      "context": "The OT and NT teach us that God holds all mankind accountable and will judge us according to our works (see [[PSA.61:13]]; Pr 24:12; [[MAT.25:31]]-46)."
+      "context": "The OT and NT teach us that God holds all mankind accountable and will judge us according to our works (see [[PSA.61:13]]; Pr 24:12; [[MAT.25:31]]-46).",
+      "edge_type": "instantiates",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

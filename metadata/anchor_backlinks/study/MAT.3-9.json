@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "and do not think to say to yourselves, 'We have Abraham as our father.' For I say to you that God is able to raise up children to Abraham from these stones.",
   "pericope": {
     "id": "MAT.P006",
@@ -20,7 +20,16 @@
       "line_number": 396,
       "raw_match": "[[MAT.3:8]]-10",
       "reference_type": "wikilink_range",
-      "context": "These verses are reminiscent of John the Baptist's and Jesus' images and parables of trees and their fruit ([[MAT.3:8]]-10; 7:16-20; 12:33; 21:19)."
+      "context": "These verses are reminiscent of John the Baptist's and Jesus' images and parables of trees and their fruit ([[MAT.3:8]]-10; 7:16-20; 12:33; 21:19).",
+      "edge_type": "instantiates",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

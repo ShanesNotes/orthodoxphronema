@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Then in the fourteenth year of King Hezekiah, Sennacherib king of Assyria came up against all the fortified cities of Judah and took them.",
   "pericope": {
     "id": "2KI.P049",
@@ -12,7 +12,11 @@
     "range": "2KI.18:12-18:36",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "prayer",
+    "priesthood",
+    "repentance"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,21 +24,55 @@
       "line_number": 437,
       "raw_match": "[[2KI.18:13]]",
       "reference_type": "wikilink",
-      "context": "Eleazar likens Israel to that portion of the sacrifices which was set aside for Aaron and his sons (the priests) as their perpetual due from Israel (Lv 7:34, 35; [[NUM.18:8]]-18). The Jews have become the inheritance of the Lord ([[PSA.27:9]]; 32:12; Is 19:25). More than a chosen nation, they have been set apart for holiness. Sennacherib (v. 5) was the king of Assyria during the reign of Hezekiah, king of Judah. The episode noted is the occasion when, at the supplication of Israel, God sent an angel who in one night slew 185,000 of Sennacherib's forces, sending him home to Nineveh in humiliation and defeat. He was assassinated shortly afterwards ([[2KI.18:13]]; 19:35-37; WSir 48:18-21)."
+      "context": "Eleazar likens Israel to that portion of the sacrifices which was set aside for Aaron and his sons (the priests) as their perpetual due from Israel (Lv 7:34, 35; [[NUM.18:8]]-18). The Jews have become the inheritance of the Lord ([[PSA.27:9]]; 32:12; Is 19:25). More than a chosen nation, they have been set apart for holiness. Sennacherib (v. 5) was the king of Assyria during the reign of Hezekiah, king of Judah. The episode noted is the occasion when, at the supplication of Israel, God sent an angel who in one night slew 185,000 of Sennacherib's forces, sending him home to Nineveh in humiliation and defeat. He was assassinated shortly afterwards ([[2KI.18:13]]; 19:35-37; WSir 48:18-21).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "prayer",
+        "priesthood"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/ISA_footnotes.md",
       "line_number": 597,
       "raw_match": "[[2KI.18:13]]-20",
       "reference_type": "wikilink_range",
-      "context": "Showing no apparent concern for his people and their posterity, King Hezekiah seems concerned only for peace and righteousness during his own times. 36:1-8 The Fathers agree that the prophet adds these narratives (which are almost identical to [[2KI.18:13]]-20:19) in order to emphasize that his prophecies are from God, as evidenced by their fulfillment in history."
+      "context": "Showing no apparent concern for his people and their posterity, King Hezekiah seems concerned only for peace and righteousness during his own times. 36:1-8 The Fathers agree that the prophet adds these narratives (which are almost identical to [[2KI.18:13]]-20:19) in order to emphasize that his prophecies are from God, as evidenced by their fulfillment in history.",
+      "edge_type": "fulfills",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/SIR_footnotes.md",
       "line_number": 1674,
       "raw_match": "[[2KI.18:13]]",
       "reference_type": "wikilink",
-      "context": "Rabshakeh (v. 18) was an Assyrian title, probably meaning \"chief of staff\" or \"governor.\" Sennacharib, (v. 18) king of the Assyrians (v. 21), was encamped at Lachish and sent the insolent Rabshakeh to demand that Hezekiah surrender the city of Jerusalem to him. Hezekiah turned to the Lord in repentance and sent for guidance from Isaiah. They were rescued from Sennacharib, who ultimately died (see [[2KI.18:13]]- 19:37). The angel (v. 21) destroyed 185,000 of Sennacharib's soldiers (see [[2KI.19:35]])."
+      "context": "Rabshakeh (v. 18) was an Assyrian title, probably meaning \"chief of staff\" or \"governor.\" Sennacharib, (v. 18) king of the Assyrians (v. 21), was encamped at Lachish and sent the insolent Rabshakeh to demand that Hezekiah surrender the city of Jerusalem to him. Hezekiah turned to the Lord in repentance and sent for guidance from Isaiah. They were rescued from Sennacharib, who ultimately died (see [[2KI.18:13]]- 19:37). The angel (v. 21) destroyed 185,000 of Sennacharib's soldiers (see [[2KI.19:35]]).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "repentance"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

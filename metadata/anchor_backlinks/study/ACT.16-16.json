@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Now it happened, as we went to prayer, that a certain slave girl possessed with a spirit of divination met us, who brought her masters much profit by fortune-telling.",
   "pericope": {
     "id": "ACT.P057",
@@ -12,7 +12,10 @@
     "range": "ACT.16:15-16:17",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "prayer",
+    "priesthood"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 705,
       "raw_match": "[[ACT.16:16]]",
       "reference_type": "wikilink",
-      "context": "It is possible to get carried away and led into error. For not all gifts are from the Holy Spirit. Demons lurk behind dumb idols (v. 2), speaking evil prophecies through the religious ecstasies of their priests (see [[ACT.16:16]]). Religious ecstasy or enthusiasm is no proof of spirituality."
+      "context": "It is possible to get carried away and led into error. For not all gifts are from the Holy Spirit. Demons lurk behind dumb idols (v. 2), speaking evil prophecies through the religious ecstasies of their priests (see [[ACT.16:16]]). Religious ecstasy or enthusiasm is no proof of spirituality.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "prayer",
+        "priesthood"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

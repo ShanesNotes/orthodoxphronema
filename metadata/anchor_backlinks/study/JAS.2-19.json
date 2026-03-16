@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "You believe that there is one God. You do well. Even the demons believe-and tremble!",
   "pericope": {
     "id": "JAS.P006",
@@ -12,7 +12,12 @@
     "range": "JAS.2:13-2:25",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "eucharist",
+    "faith",
+    "logos"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,21 +25,63 @@
       "line_number": 78,
       "raw_match": "[[JAS.2:19]]",
       "reference_type": "wikilink",
-      "context": "The ancient gnostics held two false teachings on God's light: knowledge of God requires neither (1) obedience (vv. 3-8) nor (2) love of others (vv. 9-11). John answers: (1) To know God is to obey Him. His commandments (vv. 3, 4) are not a legal code but life in Christ, the way of love (vv. 5, 6). Those outside of Christ will not become partakers of His life unless they, by God's grace, practice what He says. \"In vain do we applaud Him whose commandments we do not keep\" (Bede; see also [[LUK.9:23]]; [[JAS.2:19]]). The new commandment is Christ's (v. 7), that we love as Christ loved ([[JOH.13:34]]; 15:12, 17). (2) To love God (to be in the light, vv. 9, 10) is also to love each other. \"Anyone who comes hating his brother to the font of life where he is to be reborn, to the cup of that precious blood whereby he is to be redeemed, even though he may think he is enlightened by the Lord, is still in darkness. He cannot in any way have put off the darkness of his sins when he did not take care to put on the fundamentals of love\" (Bede)."
+      "context": "The ancient gnostics held two false teachings on God's light: knowledge of God requires neither (1) obedience (vv. 3-8) nor (2) love of others (vv. 9-11). John answers: (1) To know God is to obey Him. His commandments (vv. 3, 4) are not a legal code but life in Christ, the way of love (vv. 5, 6). Those outside of Christ will not become partakers of His life unless they, by God's grace, practice what He says. \"In vain do we applaud Him whose commandments we do not keep\" (Bede; see also [[LUK.9:23]]; [[JAS.2:19]]). The new commandment is Christ's (v. 7), that we love as Christ loved ([[JOH.13:34]]; 15:12, 17). (2) To love God (to be in the light, vv. 9, 10) is also to love each other. \"Anyone who comes hating his brother to the font of life where he is to be reborn, to the cup of that precious blood whereby he is to be redeemed, even though he may think he is enlightened by the Lord, is still in darkness. He cannot in any way have put off the darkness of his sins when he did not take care to put on the fundamentals of love\" (Bede).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology",
+        "faith"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/NT/JOH_footnotes.md",
       "line_number": 411,
       "raw_match": "[[JAS.2:14]]-24",
       "reference_type": "wikilink_range",
-      "context": "John echoes the teaching of Christ Himself (v. 18). Note the absence of the word \"alone\" in this statement of faith. \"We do not from this assert that faith alone is sufficient for salvation; the directions for living that are given in many places in the Gospels show this\" (JohnChr). See also [[JAS.2:14]]-24."
+      "context": "John echoes the teaching of Christ Himself (v. 18). Note the absence of the word \"alone\" in this statement of faith. \"We do not from this assert that faith alone is sufficient for salvation; the directions for living that are given in many places in the Gospels show this\" (JohnChr). See also [[JAS.2:14]]-24.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology",
+        "faith",
+        "logos"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/NT/ROM_footnotes.md",
       "line_number": 327,
       "raw_match": "[[JAS.2:19]]",
       "reference_type": "wikilink",
-      "context": "Faith in Christ makes us justified, an ongoing state of communion with Him (see note at 3:24). Because of this ongoing communion, we have peace with God which is also ongoing. The Greek word pistis, here translated as faith, can also be rendered \"faithfulness.\" Faith is more than the conviction that something is true ([[JAS.2:19]]). Genuine faithfulness is continuous loyalty and obedience to God. Such faithfulness justifies a person through God's grace."
+      "context": "Faith in Christ makes us justified, an ongoing state of communion with Him (see note at 3:24). Because of this ongoing communion, we have peace with God which is also ongoing. The Greek word pistis, here translated as faith, can also be rendered \"faithfulness.\" Faith is more than the conviction that something is true ([[JAS.2:19]]). Genuine faithfulness is continuous loyalty and obedience to God. Such faithfulness justifies a person through God's grace.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology",
+        "eucharist",
+        "faith",
+        "logos"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

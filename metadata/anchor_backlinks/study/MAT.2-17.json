@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Then was fulfilled what was spoken by Jeremiah the prophet, saying:",
   "pericope": {
     "id": "MAT.P004",
@@ -12,7 +12,9 @@
     "range": "MAT.2:15-2:17",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "mercy"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,14 +22,35 @@
       "line_number": 223,
       "raw_match": "[[MAT.2:16]]-18",
       "reference_type": "wikilink_range",
-      "context": "One is reminded of Herod's destruction of the innocent children without mercy at the time of the birth of Jesus ([[MAT.2:16]]-18)."
+      "context": "One is reminded of Herod's destruction of the innocent children without mercy at the time of the birth of Jesus ([[MAT.2:16]]-18).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "mercy"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/RUT_footnotes.md",
       "line_number": 60,
       "raw_match": "[[MAT.2:16]]-18",
       "reference_type": "wikilink_range",
-      "context": "Lamenting in Bethlehem over the loss of her children in Moab, Naomi prefigures Rachel, who would later lament over the loss of her children to Babylon ([[JER.31:15]]) and over the children slain by Herod ([[MAT.2:16]]-18). See 4:11."
+      "context": "Lamenting in Bethlehem over the loss of her children in Moab, Naomi prefigures Rachel, who would later lament over the loss of her children to Babylon ([[JER.31:15]]) and over the children slain by Herod ([[MAT.2:16]]-18). See 4:11.",
+      "edge_type": "fulfills",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

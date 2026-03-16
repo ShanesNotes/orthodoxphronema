@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "if they fall away, to renew them again to repentance, since they crucify again for themselves the Son of God, and put Him to an open shame.",
   "pericope": {
     "id": "HEB.P012",
@@ -12,7 +12,11 @@
     "range": "HEB.5:6-6:7",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "repentance",
+    "suffering"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +24,21 @@
       "line_number": 288,
       "raw_match": "[[HEB.6:4]]-6",
       "reference_type": "wikilink_range",
-      "context": "What about those Christians who are not living righteously? Sin leading to death is willful, continual disbelief in the grace of the Holy Spirit toward us. (See [[MAT.12:28]], [[MAT.12:31]], 32; [[HEB.6:4]]-6; 10:26-31.)"
+      "context": "What about those Christians who are not living righteously? Sin leading to death is willful, continual disbelief in the grace of the Holy Spirit toward us. (See [[MAT.12:28]], [[MAT.12:31]], 32; [[HEB.6:4]]-6; 10:26-31.)",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology",
+        "repentance",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

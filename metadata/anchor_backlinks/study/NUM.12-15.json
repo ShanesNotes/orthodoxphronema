@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "So Miriam was shut out of the camp seven days, and the people did not break camp till Miriam was cleansed.",
   "pericope": {
     "id": "NUM.P027",
@@ -12,7 +12,11 @@
     "range": "NUM.11:35-12:15",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "mercy",
+    "priesthood"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +24,21 @@
       "line_number": 606,
       "raw_match": "[[NUM.12:10]]-15",
       "reference_type": "wikilink_range",
-      "context": "Show yourself to the priest: Christ gives this command in order to convince the priests by a tangible miracle that He is superior to Moses (CyrAl). The priests hold Moses to be greater than Christ, yet Christ heals a leper immediately and with His own divine authority. However, when Miriam was struck with leprosy, Moses had to seek mercy from above, and still she was only healed after seven days ([[NUM.12:10]]-15)."
+      "context": "Show yourself to the priest: Christ gives this command in order to convince the priests by a tangible miracle that He is superior to Moses (CyrAl). The priests hold Moses to be greater than Christ, yet Christ heals a leper immediately and with His own divine authority. However, when Miriam was struck with leprosy, Moses had to seek mercy from above, and still she was only healed after seven days ([[NUM.12:10]]-15).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology",
+        "mercy",
+        "priesthood"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

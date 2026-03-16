@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "But now I am going to Jerusalem to minister to the saints.",
   "pericope": {
     "id": "ROM.P043",
@@ -12,7 +12,10 @@
     "range": "ROM.15:21-15:32",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "prayer"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,21 +23,54 @@
       "line_number": 357,
       "raw_match": "[[ROM.15:25]]-28",
       "reference_type": "wikilink_range",
-      "context": "The subject of this passage is a collection from the churches in Asia Minor for the church in Jerusalem. Beyond the material help Jerusalem needs, for Paul this appears to be an important theological matter as well. It (1) relates to the unity of Jew and Gentile in the Church, (2) underscores the messianic age as having indeed come in Christ, and (3) demonstrates that the charismatic effects of Pentecost are continuing and maturing in the Church. Paul had given the Corinthians the same instruction he gave to Galatia, to contribute systematically to the fund ([[1CO.16:1]]-4). Titus is to make sure they actually have begun to do so (8:6). Paul has told the Macedonians that Corinth was exemplary in giving (9:2), but he has his doubts. So he sends Titus to Corinth to be sure the Corinthians will comply (9:3-5). Some in Corinth feel pressure, saying that Paul is \"crafty\"; he gets his way \"by cunning\" (12:16). Paul encourages the Corinthians by holding up the generosity of the poorer Macedonians as an example (8:1-5). The Corinthians actually do contribute to the fund, and Paul is pleased with them ([[ROM.15:25]]-28)."
+      "context": "The subject of this passage is a collection from the churches in Asia Minor for the church in Jerusalem. Beyond the material help Jerusalem needs, for Paul this appears to be an important theological matter as well. It (1) relates to the unity of Jew and Gentile in the Church, (2) underscores the messianic age as having indeed come in Christ, and (3) demonstrates that the charismatic effects of Pentecost are continuing and maturing in the Church. Paul had given the Corinthians the same instruction he gave to Galatia, to contribute systematically to the fund ([[1CO.16:1]]-4). Titus is to make sure they actually have begun to do so (8:6). Paul has told the Macedonians that Corinth was exemplary in giving (9:2), but he has his doubts. So he sends Titus to Corinth to be sure the Corinthians will comply (9:3-5). Some in Corinth feel pressure, saying that Paul is \"crafty\"; he gets his way \"by cunning\" (12:16). Paul encourages the Corinthians by holding up the generosity of the poorer Macedonians as an example (8:1-5). The Corinthians actually do contribute to the fund, and Paul is pleased with them ([[ROM.15:25]]-28).",
+      "edge_type": "echoes",
+      "topic_threads": [
+        "christology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/NT/ACT_footnotes.md",
       "line_number": 1491,
       "raw_match": "[[ROM.15:25]]-28",
       "reference_type": "wikilink_range",
-      "context": "This is the only time Paul reveals that bringing alms was the main reason he came to Jerusalem, showing that charity is to be performed without drawing attention to oneself ([[MAT.6:1]]-4; see also [[ROM.15:25]]-28; [[1CO.16:1]]-4; [[GAL.2:10]])."
+      "context": "This is the only time Paul reveals that bringing alms was the main reason he came to Jerusalem, showing that charity is to be performed without drawing attention to oneself ([[MAT.6:1]]-4; see also [[ROM.15:25]]-28; [[1CO.16:1]]-4; [[GAL.2:10]]).",
+      "edge_type": "instantiates",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/NT/HEB_footnotes.md",
       "line_number": 404,
       "raw_match": "[[ROM.15:25]]",
       "reference_type": "wikilink",
-      "context": "To minister is to serve someone else's will. It has a liturgical dimension. In part, ministry flows out of liturgical worship (see [[2CO.9:12]], where \"the administration of this service\" is more literally translated \"the service of this worship\"). Prayer leads to action: the supreme NT example is the collection for the church in Jerusalem ([[ROM.15:25]], [[ROM.15:31]]; [[2CO.8:4]])."
+      "context": "To minister is to serve someone else's will. It has a liturgical dimension. In part, ministry flows out of liturgical worship (see [[2CO.9:12]], where \"the administration of this service\" is more literally translated \"the service of this worship\"). Prayer leads to action: the supreme NT example is the collection for the church in Jerusalem ([[ROM.15:25]], [[ROM.15:31]]; [[2CO.8:4]]).",
+      "edge_type": "echoes",
+      "topic_threads": [
+        "prayer"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

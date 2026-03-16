@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "And my speech and my preaching were not with persuasive words of human awisdom, but in demonstration of the Spirit and of power,",
   "pericope": {
     "id": "1CO.P007",
@@ -20,7 +20,16 @@
       "line_number": 504,
       "raw_match": "[[1CO.2:4]]",
       "reference_type": "wikilink",
-      "context": "By signs of an apostle (v. 12; see [[ROM.15:19]]; [[1CO.2:4]]; 4:20; 12:28, 29; [[HEB.2:4]]) Paul seems to be referring to miracles that lead men to God and the Church, for with these signs and wonders (v. 12) the Corinthians are greatly impressed."
+      "context": "By signs of an apostle (v. 12; see [[ROM.15:19]]; [[1CO.2:4]]; 4:20; 12:28, 29; [[HEB.2:4]]) Paul seems to be referring to miracles that lead men to God and the Church, for with these signs and wonders (v. 12) the Corinthians are greatly impressed.",
+      "edge_type": "instantiates",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

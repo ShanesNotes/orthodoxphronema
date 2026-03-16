@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "'Therefore, behold, days are coming,' says the Lord, 'when I will sow Israel and Judah with the seed of man and the seed of cattle.",
   "pericope": {
     "id": "JER.P050",
@@ -12,7 +12,9 @@
     "range": "JER.24:10-38:39",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 1259,
       "raw_match": "[[JER.38:27]]",
       "reference_type": "wikilink",
-      "context": "In the OT, metaphors of sowing and harvesting are common ([[PSA.125:5]]; [[JER.38:27]]- 30; [[HOS.2:21]]-23; [[JOL.3:12]]-14), as this was a part of daily life. Here, Jesus reveals Himself as the promised Messiah, the sower in the earth, who had been foretold in Is 55:10-13."
+      "context": "In the OT, metaphors of sowing and harvesting are common ([[PSA.125:5]]; [[JER.38:27]]- 30; [[HOS.2:21]]-23; [[JOL.3:12]]-14), as this was a part of daily life. Here, Jesus reveals Himself as the promised Messiah, the sower in the earth, who had been foretold in Is 55:10-13.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 6,
+        "title": "The Universe As a Language",
+        "polarity": "generation",
+        "operation": "descend",
+        "scale": "communal"
+      }
     }
   ]
 }

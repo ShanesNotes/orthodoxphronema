@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Then I said, 'Behold, I have come- In the volume of the book it is written of Me- To do Your will, O God.' '",
   "pericope": {
     "id": "HEB.P023",
@@ -12,7 +12,10 @@
     "range": "HEB.10:7-10:17",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "resurrection"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 483,
       "raw_match": "[[HEB.10:5]]-7",
       "reference_type": "wikilink_range",
-      "context": "Ps 39 is a prophecy of the Incarnation (vv. 7-9; see also [[HEB.10:5]]-7). In His Incarnation, the Lord assumed a mortal body (v. 7) and a rational soul. But here the body is emphasized, because man's body is mortal and subject to death and decay in the grave (a miserable pit, v. 3). So by His death in the body, Christ destroyed death, and by His Resurrection (brought me up and a rock, v. 3), He overcame the decay that held man's body in the grave. He was able to do all this because of the two wills in His one Person. For He willed (v. 9) by His human will and energy. And the phrase Your will (v. 9) shows that He possessed within Himself the same will and energy as God the Father, because He is \"one in essence\" with Him (Creed). Therefore, by means of His two wills and energies, He destroyed death and decay, and put a new song in the mouth of the Church (v. 4)."
+      "context": "Ps 39 is a prophecy of the Incarnation (vv. 7-9; see also [[HEB.10:5]]-7). In His Incarnation, the Lord assumed a mortal body (v. 7) and a rational soul. But here the body is emphasized, because man's body is mortal and subject to death and decay in the grave (a miserable pit, v. 3). So by His death in the body, Christ destroyed death, and by His Resurrection (brought me up and a rock, v. 3), He overcame the decay that held man's body in the grave. He was able to do all this because of the two wills in His one Person. For He willed (v. 9) by His human will and energy. And the phrase Your will (v. 9) shows that He possessed within Himself the same will and energy as God the Father, because He is \"one in essence\" with Him (Creed). Therefore, by means of His two wills and energies, He destroyed death and decay, and put a new song in the mouth of the Church (v. 4).",
+      "edge_type": "ascends_from",
+      "topic_threads": [
+        "christology",
+        "resurrection"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

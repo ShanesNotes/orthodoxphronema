@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "And thus I saw the horses in the vision: those who sat on them had breastplates of fiery red, hyacinth blue, and sulfur yellow; and the heads of the horses were like the heads of lions; and out of their mouths came fire, smoke, and brimstone.",
   "pericope": {
     "id": "REV.P027",
@@ -20,7 +20,16 @@
       "line_number": 411,
       "raw_match": "[[REV.9:17]]",
       "reference_type": "wikilink",
-      "context": "See [[REV.9:17]]."
+      "context": "See [[REV.9:17]].",
+      "edge_type": "instantiates",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 9,
+        "title": "Example: The Cherubim of Ezekiel I",
+        "polarity": "generation",
+        "operation": "inform",
+        "scale": "intercommunal"
+      }
     }
   ]
 }

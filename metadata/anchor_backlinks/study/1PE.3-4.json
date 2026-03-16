@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "rather let it be the hidden person of the heart, with the incorruptible beauty of a gentle and quiet spirit, which is very precious in the sight of God.",
   "pericope": {
     "id": "1PE.P009",
@@ -20,7 +20,16 @@
       "line_number": 712,
       "raw_match": "[[1PE.3:1]]-6",
       "reference_type": "wikilink_range",
-      "context": "This passage makes many of the same observations as [[1PE.3:1]]-6."
+      "context": "This passage makes many of the same observations as [[1PE.3:1]]-6.",
+      "edge_type": "fulfills",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 6,
+        "title": "The Universe As a Language",
+        "polarity": "generation",
+        "operation": "descend",
+        "scale": "communal"
+      }
     }
   ]
 }

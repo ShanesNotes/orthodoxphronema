@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Thus says the Lord: 'But even if I send upon Jerusalem My four evil punishmentssword, famine, wild animals, and death-to destroy from it both man and cattle,",
   "pericope": {
     "id": "EZK.P015",
@@ -12,7 +12,9 @@
     "range": "EZK.14:11-14:22",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "creation_theology"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 455,
       "raw_match": "[[EZK.14:21]]",
       "reference_type": "wikilink",
-      "context": "Four ways: See [[EZK.14:21]]. The inclusion of beasts highlights the fact that when the Creator is incensed against sinners, not even creation itself can hold back from rising against them."
+      "context": "Four ways: See [[EZK.14:21]]. The inclusion of beasts highlights the fact that when the Creator is incensed against sinners, not even creation itself can hold back from rising against them.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "creation_theology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 4,
+        "title": "Reconstructing the Language of Creation",
+        "polarity": "vertical",
+        "operation": "ascend",
+        "scale": "cosmic"
+      }
     }
   ]
 }

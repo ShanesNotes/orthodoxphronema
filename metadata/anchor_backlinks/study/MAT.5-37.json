@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "But let your 'Yes' be 'Yes,' and your 'No,' 'No.' For whatever is more than these is from the evil one.",
   "pericope": {
     "id": "MAT.P013",
@@ -12,7 +12,9 @@
     "range": "MAT.5:20-5:47",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "faith"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 271,
       "raw_match": "[[MAT.5:33]]-37",
       "reference_type": "wikilink_range",
-      "context": "A polemic against a bad custom stemming from bad faith: the common practice of swearing by God or something that signifies God (as if swearing were a proof of truthfulness). We may swear when required to, but the solution to lack of trust is good faith--our integrity, truthfulness between a person and God. See [[MAT.5:33]]-37."
+      "context": "A polemic against a bad custom stemming from bad faith: the common practice of swearing by God or something that signifies God (as if swearing were a proof of truthfulness). We may swear when required to, but the solution to lack of trust is good faith--our integrity, truthfulness between a person and God. See [[MAT.5:33]]-37.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "faith"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

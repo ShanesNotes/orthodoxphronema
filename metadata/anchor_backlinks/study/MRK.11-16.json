@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "And He would not allow anyone to carry wares through the temple.",
   "pericope": {
     "id": "MRK.P038",
@@ -12,7 +12,11 @@
     "range": "MRK.10:52-11:33",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "kingdom",
+    "temple"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +24,21 @@
       "line_number": 515,
       "raw_match": "[[MRK.11:15]]-19",
       "reference_type": "wikilink_range",
-      "context": "The Canaanite is a merchant. The connotation appears to be that merchants will no longer be necessary or allowed in the Lord's house. The cleansing of the temple by Christ comes to mind in this regard (see [[MAT.21:12]], [[MAT.21:13]]; [[MRK.11:15]]-19; [[LUK.19:45]]-48; Jn 2:13-17). One is also reminded how easily God's house is turned into a bartering place and how churches can be used for profits rather than prophecy. The booming industry of Christian items today is alarming. It has always been easy to confuse piety and profits in relation to the Lord's house. The day is coming in the Kingdom of God when this shall be neither permitted nor necessary. Indeed, the coming age is one when God Himself shall supply every need of His children. Buying and selling will no longer be necessary."
+      "context": "The Canaanite is a merchant. The connotation appears to be that merchants will no longer be necessary or allowed in the Lord's house. The cleansing of the temple by Christ comes to mind in this regard (see [[MAT.21:12]], [[MAT.21:13]]; [[MRK.11:15]]-19; [[LUK.19:45]]-48; Jn 2:13-17). One is also reminded how easily God's house is turned into a bartering place and how churches can be used for profits rather than prophecy. The booming industry of Christian items today is alarming. It has always been easy to confuse piety and profits in relation to the Lord's house. The day is coming in the Kingdom of God when this shall be neither permitted nor necessary. Indeed, the coming age is one when God Himself shall supply every need of His children. Buying and selling will no longer be necessary.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology",
+        "kingdom",
+        "temple"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

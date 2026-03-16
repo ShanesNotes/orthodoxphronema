@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Then Jesus answered and said to them, 'Most assuredly, I say to you, the Son can do nothing of Himself, but what He sees the Father do; for whatever He does, the Son also does in like manner.",
   "pericope": {
     "id": "JOH.P014",
@@ -12,7 +12,9 @@
     "range": "JOH.5:15-5:46",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 25,
       "raw_match": "[[JOH.5:19]]",
       "reference_type": "wikilink",
-      "context": "Calling Christ the Son of the Father strongly refutes the deceivers and gnostics. Jesus is the Son; the Son is by nature what His Father is, and He does what His Father does (see [[JOH.5:19]])."
+      "context": "Calling Christ the Son of the Father strongly refutes the deceivers and gnostics. Jesus is the Son; the Son is by nature what His Father is, and He does what His Father does (see [[JOH.5:19]]).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

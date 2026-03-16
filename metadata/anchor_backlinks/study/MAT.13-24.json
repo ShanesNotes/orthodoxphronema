@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Another parable He put forth to them, saying: 'The kingdom of heaven is like a man who sowed good seed in his field;",
   "pericope": {
     "id": "MAT.P039",
@@ -12,7 +12,16 @@
     "range": "MAT.13:9-13:29",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "baptism",
+    "christology",
+    "creation_theology",
+    "eucharist",
+    "faith",
+    "judgment",
+    "kingdom",
+    "suffering"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,14 +29,46 @@
       "line_number": 100,
       "raw_match": "[[MAT.13:24]]-30",
       "reference_type": "wikilink_range",
-      "context": "Jude has a gift for using graphic word pictures. Spots should be rendered \"hidden reefs,\" those razor-sharp underwater growths that can damage and sink great ships. The love feast, or \"agape,\" was a liturgical banquet tied to the Eucharist. Designed to be a peaceful, joyful meal, it was sabotaged by the false teachers, the hidden reefs in this peaceful ocean of loving friendship. Clouds without water are spiritually dry teachers who do not possess what they claim to have. Carried about by the winds is the effect of listening to the suggestions of invisible spirits and obeying their own passions. Twice dead means they were dead before they believed and dead a second time after they turned their backs on Christ. If barrenness is worthy of being cast into the fire ([[MAT.3:10]]), how much worse is bearing rotten fruit ([[MAT.7:17]]-19). In contrast to the saints, who are firmly rooted in Christ (Eph 3:17; [[COL.2:7]]), the false teachers are pulled up by the roots and so cannot remain with Christ or in His Church ([[MAT.13:24]]-30; [[JOH.15:6]])."
+      "context": "Jude has a gift for using graphic word pictures. Spots should be rendered \"hidden reefs,\" those razor-sharp underwater growths that can damage and sink great ships. The love feast, or \"agape,\" was a liturgical banquet tied to the Eucharist. Designed to be a peaceful, joyful meal, it was sabotaged by the false teachers, the hidden reefs in this peaceful ocean of loving friendship. Clouds without water are spiritually dry teachers who do not possess what they claim to have. Carried about by the winds is the effect of listening to the suggestions of invisible spirits and obeying their own passions. Twice dead means they were dead before they believed and dead a second time after they turned their backs on Christ. If barrenness is worthy of being cast into the fire ([[MAT.3:10]]), how much worse is bearing rotten fruit ([[MAT.7:17]]-19). In contrast to the saints, who are firmly rooted in Christ (Eph 3:17; [[COL.2:7]]), the false teachers are pulled up by the roots and so cannot remain with Christ or in His Church ([[MAT.13:24]]-30; [[JOH.15:6]]).",
+      "edge_type": "opposes",
+      "topic_threads": [
+        "baptism",
+        "christology",
+        "eucharist",
+        "faith",
+        "kingdom",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/NT/REV_footnotes.md",
       "line_number": 1269,
       "raw_match": "[[MAT.13:24]]-30",
       "reference_type": "wikilink_range",
-      "context": "The Son of Man, royal conqueror (golden crown) and judge (sharp sickle; see [[MAT.3:12]]), appears, seated on a cloud (see [[MRK.13:26]]), and reaps the harvest of the earth, the beginning of the final judgment (see [[MAT.13:24]]-30, 36-43; [[MRK.4:26]]-29)."
+      "context": "The Son of Man, royal conqueror (golden crown) and judge (sharp sickle; see [[MAT.3:12]]), appears, seated on a cloud (see [[MRK.13:26]]), and reaps the harvest of the earth, the beginning of the final judgment (see [[MAT.13:24]]-30, 36-43; [[MRK.4:26]]-29).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology",
+        "creation_theology",
+        "judgment",
+        "kingdom"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Blessed are the merciful, For they shall obtain mercy.",
   "pericope": {
     "id": "MAT.P011",
@@ -12,7 +12,10 @@
     "range": "MAT.4:25-5:15",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "mercy",
+    "suffering"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 441,
       "raw_match": "[[MAT.5:7]]",
       "reference_type": "wikilink",
-      "context": "\"Who then are the 'merciful' ([[MAT.5:7]])? Those who give money or feed the poor? No. But who are they? Those who have become poor for the sake of Him who became poor for our sakes (see [[2CO.8:9]])\" (SymNew). These have nothing material to give, yet they constantly weep with compassion over the man in distress."
+      "context": "\"Who then are the 'merciful' ([[MAT.5:7]])? Those who give money or feed the poor? No. But who are they? Those who have become poor for the sake of Him who became poor for our sakes (see [[2CO.8:9]])\" (SymNew). These have nothing material to give, yet they constantly weep with compassion over the man in distress.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "mercy",
+        "suffering"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

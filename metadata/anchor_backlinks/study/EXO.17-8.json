@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "Now Amalek came and fought with Israel in Rephidim.",
   "pericope": {
     "id": "EXO.P033",
@@ -12,7 +12,10 @@
     "range": "EXO.17:7-17:15",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "israel_church",
+    "prayer"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,14 +23,36 @@
       "line_number": 138,
       "raw_match": "[[EXO.17:8]]",
       "reference_type": "wikilink",
-      "context": "The people stretched out their hands to pray. Perhaps the earliest account of the lifting of hands for intercession is in Moses' role in Israel's victory over Amalek ([[EXO.17:8]]- 13). St. Paul instructs the Church to pray \"lifting up holy hands\" ([[1TI.2:8]])."
+      "context": "The people stretched out their hands to pray. Perhaps the earliest account of the lifting of hands for intercession is in Moses' role in Israel's victory over Amalek ([[EXO.17:8]]- 13). St. Paul instructs the Church to pray \"lifting up holy hands\" ([[1TI.2:8]]).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "israel_church",
+        "prayer"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/SIR_footnotes.md",
       "line_number": 1498,
       "raw_match": "[[EXO.17:8]]-13",
       "reference_type": "wikilink_range",
-      "context": ", 2 It is probable that Ben Sirach is speaking of the incident in [[EXO.17:8]]-13 when Joshua defeated the Amalekites. Joshua prevailed in battle as long as Moses lifted up his hands, holding the rod of God in them. Due to Moses' fatigue, it became necessary for Aaron and Hur to support his arms until the battle ended. The name Joshua means savior."
+      "context": ", 2 It is probable that Ben Sirach is speaking of the incident in [[EXO.17:8]]-13 when Joshua defeated the Amalekites. Joshua prevailed in battle as long as Moses lifted up his hands, holding the rod of God in them. Due to Moses' fatigue, it became necessary for Aaron and Hur to support his arms until the battle ended. The name Joshua means savior.",
+      "edge_type": "ascends_from",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

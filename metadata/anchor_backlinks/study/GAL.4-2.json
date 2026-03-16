@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "but is under guardians and stewards until the time appointed by the father.",
   "pericope": {
     "id": "GAL.P014",
@@ -12,7 +12,11 @@
     "range": "GAL.3:29-4:6",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "covenant",
+    "repentance"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +24,21 @@
       "line_number": 22,
       "raw_match": "[[GAL.4:1]]-5",
       "reference_type": "wikilink_range",
-      "context": "Mark's written emphasis on John being put in prison before Jesus begins preaching reveals that a key purpose of the old covenant--to prepare the people for Christ--had been completed ([[GAL.4:1]]-5). Once Christ came, the time of preparation was fulfilled. To repent is to do a total \"about-face.\" The word in Greek literally means to \"change one's mind.\" Repentance is a radical change of one's spirit, mind, thought, and heart--a complete reorientation to a life centered in Christ."
+      "context": "Mark's written emphasis on John being put in prison before Jesus begins preaching reveals that a key purpose of the old covenant--to prepare the people for Christ--had been completed ([[GAL.4:1]]-5). Once Christ came, the time of preparation was fulfilled. To repent is to do a total \"about-face.\" The word in Greek literally means to \"change one's mind.\" Repentance is a radical change of one's spirit, mind, thought, and heart--a complete reorientation to a life centered in Christ.",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "covenant",
+        "repentance"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

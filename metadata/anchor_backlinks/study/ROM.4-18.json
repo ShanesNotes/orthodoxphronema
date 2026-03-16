@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "who, contrary to hope, in hope believed, so that he became the father of many nations, according to what was spoken, 'So shall your descendants be.'",
   "pericope": {
     "id": "ROM.P011",
@@ -12,7 +12,12 @@
     "range": "ROM.4:12-4:23",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "faith",
+    "logos",
+    "repentance"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,14 +25,42 @@
       "line_number": 401,
       "raw_match": "[[ROM.4:16]]-18",
       "reference_type": "wikilink_range",
-      "context": "While parents and ancestors help impart piety and holiness (see note on 1:6), ancestry itself does not make one worthy of God. Each person in every generation must bear fruits worthy of repentance. Stones symbolize the Gentiles who would become children to Abraham through faith in Christ ([[ROM.4:16]]-18)."
+      "context": "While parents and ancestors help impart piety and holiness (see note on 1:6), ancestry itself does not make one worthy of God. Each person in every generation must bear fruits worthy of repentance. Stones symbolize the Gentiles who would become children to Abraham through faith in Christ ([[ROM.4:16]]-18).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology",
+        "faith",
+        "repentance"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/GEN_footnotes.md",
       "line_number": 503,
       "raw_match": "[[ROM.4:17]]-25",
       "reference_type": "wikilink_range",
-      "context": "The Voice of the Lord is also the Word of the Father. He reassures Abraham that his heir will come from your own body. This refers to the birth of Isaac, based on God's promise. For man is saved by this promise through faith in Christ ([[ROM.4:17]]-25; 9:7, 8)."
+      "context": "The Voice of the Lord is also the Word of the Father. He reassures Abraham that his heir will come from your own body. This refers to the birth of Isaac, based on God's promise. For man is saved by this promise through faith in Christ ([[ROM.4:17]]-25; 9:7, 8).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "faith",
+        "logos"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

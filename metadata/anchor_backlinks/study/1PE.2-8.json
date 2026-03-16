@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "and 'A stone of stumbling And a rock of offense.'They stumble, being disobedient to the word, to which they also were appointed.",
   "pericope": {
     "id": "1PE.P006",
@@ -12,7 +12,15 @@
     "range": "1PE.2:2-2:8",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "israel_church",
+    "judgment",
+    "logos",
+    "prayer",
+    "priesthood",
+    "temple"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,35 +28,98 @@
       "line_number": 1861,
       "raw_match": "[[1PE.2:4]]-10",
       "reference_type": "wikilink_range",
-      "context": "There is no temple in the old sense in the New Jerusalem ([[JOH.4:21]]). Its temple is the presence of God in all (v. 22; [[1CO.15:28]]; [[COL.3:11]]; [[1PE.2:4]]-10). The Church itself is the temple."
+      "context": "There is no temple in the old sense in the New Jerusalem ([[JOH.4:21]]). Its temple is the presence of God in all (v. 22; [[1CO.15:28]]; [[COL.3:11]]; [[1PE.2:4]]-10). The Church itself is the temple.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "temple"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/EXO_footnotes.md",
       "line_number": 709,
       "raw_match": "[[1PE.2:4]]-10",
       "reference_type": "wikilink_range",
-      "context": "The children of Israel were to be a holy nation and a royal priesthood. These things were fulfilled in the Church ([[1PE.2:4]]-10)."
+      "context": "The children of Israel were to be a holy nation and a royal priesthood. These things were fulfilled in the Church ([[1PE.2:4]]-10).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "israel_church",
+        "priesthood"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/GEN_footnotes.md",
       "line_number": 1111,
       "raw_match": "[[1PE.2:4]]-8",
       "reference_type": "wikilink_range",
-      "context": "The stone is Christ, the foundation stone of the Church ([[MAT.21:42]]-44; [[MRK.12:10]]; [[LUK.20:17]], [[LUK.20:18]]; [[ACT.4:11]]; [[ROM.9:32]], [[ROM.9:33]]; [[1CO.3:10]], [[1CO.3:11]]; [[1PE.2:4]]-8). The oil signifies Christ, whose human nature was anointed by the Holy Spirit ([[MAT.1:18]]; 3:16; [[HEB.1:9]])."
+      "context": "The stone is Christ, the foundation stone of the Church ([[MAT.21:42]]-44; [[MRK.12:10]]; [[LUK.20:17]], [[LUK.20:18]]; [[ACT.4:11]]; [[ROM.9:32]], [[ROM.9:33]]; [[1CO.3:10]], [[1CO.3:11]]; [[1PE.2:4]]-8). The oil signifies Christ, whose human nature was anointed by the Holy Spirit ([[MAT.1:18]]; 3:16; [[HEB.1:9]]).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/SIR_footnotes.md",
       "line_number": 348,
       "raw_match": "[[1PE.2:4]]-12",
       "reference_type": "wikilink_range",
-      "context": "God intended Israel (v. 14) to be a tight-knit, unified nation. But He also intended her to have open and honorable relations with every nation (v. 14), that is, the Gentiles, ultimately becoming the instrument of their salvation. However, as a nation they did not fulfill this divine intent. Their unity became centered in their ethnicity rather than their relationship with God. They even grew to despise the Gentiles with no concern for their salvation. It is extremely important for us within the Church, the new Israel, not to fall into this same sin and incur the same judgment (see [[ROM.11:11]]-36). For the fulfillment of God's promises to Israel in the Church, see the following passages: [[ROM.4:9]]-16; 9:6, 8, 23-27; 11:7; [[1CO.10:18]]; [[GAL.6:16]]; [[1PE.2:4]]-12; [[REV.3:12]]; 21:2, 10."
+      "context": "God intended Israel (v. 14) to be a tight-knit, unified nation. But He also intended her to have open and honorable relations with every nation (v. 14), that is, the Gentiles, ultimately becoming the instrument of their salvation. However, as a nation they did not fulfill this divine intent. Their unity became centered in their ethnicity rather than their relationship with God. They even grew to despise the Gentiles with no concern for their salvation. It is extremely important for us within the Church, the new Israel, not to fall into this same sin and incur the same judgment (see [[ROM.11:11]]-36). For the fulfillment of God's promises to Israel in the Church, see the following passages: [[ROM.4:9]]-16; 9:6, 8, 23-27; 11:7; [[1CO.10:18]]; [[GAL.6:16]]; [[1PE.2:4]]-12; [[REV.3:12]]; 21:2, 10.",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "israel_church",
+        "judgment"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/OT/SIR_footnotes.md",
       "line_number": 1097,
       "raw_match": "[[1PE.2:4]]-10",
       "reference_type": "wikilink_range",
-      "context": "Though this prayer was for Israel, it was also for all on earth. Thus, the Church has become the New Jerusalem, the new Zion, the new nation in which the OT prophecies are fulfilled (see [[ROM.3:29]]-31; 4:13-16; [[GAL.4:21]]-31; all of Hebrews but especially 12:18-29; [[1PE.2:4]]-10; [[REV.21:9]]-27)."
+      "context": "Though this prayer was for Israel, it was also for all on earth. Thus, the Church has become the New Jerusalem, the new Zion, the new nation in which the OT prophecies are fulfilled (see [[ROM.3:29]]-31; 4:13-16; [[GAL.4:21]]-31; all of Hebrews but especially 12:18-29; [[1PE.2:4]]-10; [[REV.21:9]]-27).",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "israel_church",
+        "prayer"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "The word of the Lord came to Micah of Moresheth in the days of Jotham, and Ahaz, and Hezekiah, kings of Judah, concerning what he saw as it relates to Samaria and Jerusalem.",
   "pericope": {
     "id": "MIC.P001",
@@ -12,7 +12,10 @@
     "range": "MIC.1:1-1:6",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "divine_word",
+    "logos"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 785,
       "raw_match": "[[MIC.1:1]]",
       "reference_type": "wikilink",
-      "context": "This refers to the prophet Micah ([[MIC.1:1]]). The prophecy in question comes from [[MIC.3:12]]."
+      "context": "This refers to the prophet Micah ([[MIC.1:1]]). The prophecy in question comes from [[MIC.3:12]].",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "divine_word",
+        "logos"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

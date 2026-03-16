@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "that I will take nothing of yours, from a thread to a sandal strap, lest you should say, 'I have made Abram rich'\u2014",
   "pericope": {
     "id": "GEN.P020",
@@ -20,7 +20,16 @@
       "line_number": 278,
       "raw_match": "[[GEN.14:23]]",
       "reference_type": "wikilink",
-      "context": "In imitation of Abraham ([[GEN.14:22]], [[GEN.14:23]]), and Elisha ([[2KI.5:16]]), Judith took nothing for herself, but dedicated all the property to the Lord."
+      "context": "In imitation of Abraham ([[GEN.14:22]], [[GEN.14:23]]), and Elisha ([[2KI.5:16]]), Judith took nothing for herself, but dedicated all the property to the Lord.",
+      "edge_type": "instantiates",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

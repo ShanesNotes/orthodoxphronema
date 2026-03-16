@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "But God gives it abody as He pleases, and to each seed its own body.",
   "pericope": {
     "id": "1CO.P036",
@@ -12,7 +12,10 @@
     "range": "1CO.15:34-15:40",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "resurrection"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +23,20 @@
       "line_number": 2108,
       "raw_match": "[[1CO.15:35]]-44",
       "reference_type": "wikilink_range",
-      "context": "The nature of the resurrected body is so different from its previous state that it is not immediately recognizable ([[JOH.20:14]]; 21:4, 12; see [[1CO.15:35]]-44). It is also able to take different forms, which is what occurs here (see [[MRK.16:12]] and note). Their eyes were restrained: Christ intentionally prevents them from recognizing Him in order to expose their doubting thoughts and then cure them by means of the OT Scriptures (v. 27)."
+      "context": "The nature of the resurrected body is so different from its previous state that it is not immediately recognizable ([[JOH.20:14]]; 21:4, 12; see [[1CO.15:35]]-44). It is also able to take different forms, which is what occurs here (see [[MRK.16:12]] and note). Their eyes were restrained: Christ intentionally prevents them from recognizing Him in order to expose their doubting thoughts and then cure them by means of the OT Scriptures (v. 27).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology",
+        "resurrection"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

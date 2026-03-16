@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "I continued to observe the vision in the night, and behold, One like the Son of Man was coming with the clouds of heaven, until He came to the Ancient of Days and approached Him.",
   "pericope": {
     "id": "DAN.P023",
@@ -12,7 +12,13 @@
     "range": "DAN.6:29-7:13",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "covenant",
+    "kingdom",
+    "priesthood",
+    "repentance"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,28 +26,81 @@
       "line_number": 221,
       "raw_match": "[[DAN.7:13]]",
       "reference_type": "wikilink",
-      "context": "The title Son of Man is a title of the Messiah that had a level of mystery in its meaning, indicating a man of heavenly origin who would usher in the Kingdom of God ([[DAN.7:13]], [[DAN.7:14]]). In an OT prophecy, Jacob dreamed of a ladder connecting earth to heaven, upon which the angels of God were ascending and descending ([[GEN.28:12]]-15). Jesus is this \"ladder\" who unites earth to heaven, and therefore is this Son of Man."
+      "context": "The title Son of Man is a title of the Messiah that had a level of mystery in its meaning, indicating a man of heavenly origin who would usher in the Kingdom of God ([[DAN.7:13]], [[DAN.7:14]]). In an OT prophecy, Jacob dreamed of a ladder connecting earth to heaven, upon which the angels of God were ascending and descending ([[GEN.28:12]]-15). Jesus is this \"ladder\" who unites earth to heaven, and therefore is this Son of Man.",
+      "edge_type": "ascends_from",
+      "topic_threads": [
+        "christology",
+        "kingdom"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/NT/MAT_footnotes.md",
       "line_number": 884,
       "raw_match": "[[DAN.7:13]]",
       "reference_type": "wikilink",
-      "context": "Since the term Son of Man refers to the Messiah ([[DAN.7:13]]), it expresses both His humanity and His divinity. Here it refers to Christ's human condition; in 25:31-33 it describes His divine authority."
+      "context": "Since the term Son of Man refers to the Messiah ([[DAN.7:13]]), it expresses both His humanity and His divinity. Here it refers to Christ's human condition; in 25:31-33 it describes His divine authority.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/NT/MAT_footnotes.md",
       "line_number": 2380,
       "raw_match": "[[DAN.7:13]]",
       "reference_type": "wikilink",
-      "context": "Quoting from Ps 109 and [[DAN.7:13]], Jesus confesses that He is the Messiah, both fully Man and fully God, for only a divine One could sit at the right hand of the Power, sharing authority with the Father. This statement was clearly understood by the high priest to be a claim of equality with God the Father (v. 65). For a mere man to claim this was punishable by death (Lv 24:16), but Christ is no mere man, and thus this declaration of equality is not blasphemy."
+      "context": "Quoting from Ps 109 and [[DAN.7:13]], Jesus confesses that He is the Messiah, both fully Man and fully God, for only a divine One could sit at the right hand of the Power, sharing authority with the Father. This statement was clearly understood by the high priest to be a claim of equality with God the Father (v. 65). For a mere man to claim this was punishable by death (Lv 24:16), but Christ is no mere man, and thus this declaration of equality is not blasphemy.",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "christology",
+        "priesthood",
+        "repentance"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     },
     {
       "source_file": "study/footnotes/NT/REV_footnotes.md",
       "line_number": 127,
       "raw_match": "[[DAN.7:13]]",
       "reference_type": "wikilink",
-      "context": "One like the Son of Man recalls Daniel's messianic figure ([[DAN.7:13]]--repeated by Stephen at his martyrdom, [[ACT.7:56]]). Christ called Himself Son of Man (see especially [[MAT.24:30]]ff.), for He is the fulfillment of Daniel's prophecy. Additional parallels may be seen in both the Old and New Testaments ([[DAN.10:6]]; [[MAT.17:2]]; [[EPH.6:17]]; [[HEB.4:12]]). We also see Him vested in high-priestly garments (see [[EXO.28:4]]; 29:5; Lv 16:4; WSol 18:24; [[ZEC.3:4]], [[ZEC.3:5]]). The gold with which He is girded is both royal (1Mc 10:89) and priestly."
+      "context": "One like the Son of Man recalls Daniel's messianic figure ([[DAN.7:13]]--repeated by Stephen at his martyrdom, [[ACT.7:56]]). Christ called Himself Son of Man (see especially [[MAT.24:30]]ff.), for He is the fulfillment of Daniel's prophecy. Additional parallels may be seen in both the Old and New Testaments ([[DAN.10:6]]; [[MAT.17:2]]; [[EPH.6:17]]; [[HEB.4:12]]). We also see Him vested in high-priestly garments (see [[EXO.28:4]]; 29:5; Lv 16:4; WSol 18:24; [[ZEC.3:4]], [[ZEC.3:5]]). The gold with which He is girded is both royal (1Mc 10:89) and priestly.",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "covenant",
+        "priesthood"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

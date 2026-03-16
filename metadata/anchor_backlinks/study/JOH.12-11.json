@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "because on account of him many of the Jews went away and believed in Jesus.",
   "pericope": {
     "id": "JOH.P041",
@@ -12,7 +12,9 @@
     "range": "JOH.12:11-12:15",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "faith"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +22,19 @@
       "line_number": 1563,
       "raw_match": "[[JOH.12:9]]-11",
       "reference_type": "wikilink_range",
-      "context": "\"The ignorance of Scripture is a great cliff and a deep abyss. It is impossible for anyone to be without benefit if he reads continually and with attention\" (JohnChr). Furthermore, the rebellious were not persuaded even when people did rise from the dead ([[MAT.28:11]]-15; [[JOH.12:9]]-11)."
+      "context": "\"The ignorance of Scripture is a great cliff and a deep abyss. It is impossible for anyone to be without benefit if he reads continually and with attention\" (JohnChr). Furthermore, the rebellious were not persuaded even when people did rise from the dead ([[MAT.28:11]]-15; [[JOH.12:9]]-11).",
+      "edge_type": "instantiates",
+      "topic_threads": [
+        "faith"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

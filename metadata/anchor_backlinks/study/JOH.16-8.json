@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "And when He has come, He will convict the world of sin, and of righteousness, and of judgment:",
   "pericope": {
     "id": "JOH.P057",
@@ -12,7 +12,13 @@
     "range": "JOH.16:5-16:14",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "covenant",
+    "judgment",
+    "repentance",
+    "theosis"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,7 +26,23 @@
       "line_number": 28,
       "raw_match": "[[JOH.16:8]]",
       "reference_type": "wikilink",
-      "context": "Christ is the Lawgiver in both Old and New Testaments. Therefore, there is no opposition or contradiction between the old and new laws. In His Incarnation, the Lawgiver Himself fulfilled the old Law, making it obsolete ([[HEB.8:13]]). Christ gave His written Law through Moses to make sin known ([[ROM.3:20]]; 7:7). Man's God-given natural law, written in the conscience, was dulled through disobedience in the years between Adam and Moses. The Mosaic Law helped renew this knowledge of sin to lead man to repentance. After His Ascension, Christ sent the Holy Spirit at Pentecost to convict the world of sin ([[JOH.16:8]]), to renew the natural law in man's conscience ([[HEB.8:10]]), to lead us into all truth ([[JOH.16:13]]), and to make it possible for us to become partakers of the divine nature ([[2PE.1:4]]). #### Grace From The Lawgiver"
+      "context": "Christ is the Lawgiver in both Old and New Testaments. Therefore, there is no opposition or contradiction between the old and new laws. In His Incarnation, the Lawgiver Himself fulfilled the old Law, making it obsolete ([[HEB.8:13]]). Christ gave His written Law through Moses to make sin known ([[ROM.3:20]]; 7:7). Man's God-given natural law, written in the conscience, was dulled through disobedience in the years between Adam and Moses. The Mosaic Law helped renew this knowledge of sin to lead man to repentance. After His Ascension, Christ sent the Holy Spirit at Pentecost to convict the world of sin ([[JOH.16:8]]), to renew the natural law in man's conscience ([[HEB.8:10]]), to lead us into all truth ([[JOH.16:13]]), and to make it possible for us to become partakers of the divine nature ([[2PE.1:4]]). #### Grace From The Lawgiver",
+      "edge_type": "fulfills",
+      "topic_threads": [
+        "christology",
+        "covenant",
+        "judgment",
+        "repentance",
+        "theosis"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }

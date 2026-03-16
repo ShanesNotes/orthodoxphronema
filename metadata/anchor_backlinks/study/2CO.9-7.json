@@ -4,7 +4,7 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
-  "schema_version": "v2",
+  "schema_version": "v3",
   "verse_text": "So let each one give as he purposes in his heart, not grudgingly or of necessity; for God loves a cheerful giver.",
   "pericope": {
     "id": "2CO.P026",
@@ -12,7 +12,10 @@
     "range": "2CO.9:5-9:14",
     "liturgical_use": []
   },
-  "topic_threads": [],
+  "topic_threads": [
+    "christology",
+    "covenant"
+  ],
   "depth_available": 3,
   "links": [
     {
@@ -20,14 +23,36 @@
       "line_number": 1218,
       "raw_match": "[[2CO.9:7]]",
       "reference_type": "wikilink",
-      "context": ", 7 When the will of the people works freely in synergy with the will of God, the offerings exceed the needs. God loves this kind of giving ([[2CO.9:7]])."
+      "context": ", 7 When the will of the people works freely in synergy with the will of God, the offerings exceed the needs. God loves this kind of giving ([[2CO.9:7]]).",
+      "edge_type": "fulfills",
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 6,
+        "title": "The Universe As a Language",
+        "polarity": "generation",
+        "operation": "descend",
+        "scale": "communal"
+      }
     },
     {
       "source_file": "study/footnotes/OT/SIR_footnotes.md",
       "line_number": 1019,
       "raw_match": "[[2CO.9:7]]",
       "reference_type": "wikilink",
-      "context": "St. Paul writes, \"God loves a cheerful giver\" ([[2CO.9:7]]). The tithe is the giving of ten percent of our income. Is the tithe only for Israel? St. Irenaeus wrote in the second century, \"Thus the Jews consecrated tithes of their goods to Him, but those who have received liberty [in Christ] set aside all their possessions for the Lord's purposes.\" In other words, giving ten percent is minimal. St. John Chrysostom wrote in the fourth century, \"If there was a danger then [under the Old Covenant] in omitting tithes, think how great it must be now!\""
+      "context": "St. Paul writes, \"God loves a cheerful giver\" ([[2CO.9:7]]). The tithe is the giving of ten percent of our income. Is the tithe only for Israel? St. Irenaeus wrote in the second century, \"Thus the Jews consecrated tithes of their goods to Him, but those who have received liberty [in Christ] set aside all their possessions for the Lord's purposes.\" In other words, giving ten percent is minimal. St. John Chrysostom wrote in the fourth century, \"If there was a danger then [under the Old Covenant] in omitting tithes, think how great it must be now!\"",
+      "edge_type": "witnesses",
+      "topic_threads": [
+        "christology",
+        "covenant"
+      ],
+      "symbolic": {
+        "source": "pageau",
+        "chapter": 3,
+        "title": "Returning to the Garden of Eden",
+        "polarity": "light",
+        "operation": "inform",
+        "scale": "cosmic"
+      }
     }
   ]
 }
