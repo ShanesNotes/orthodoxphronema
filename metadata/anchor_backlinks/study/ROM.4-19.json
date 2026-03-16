@@ -2,22 +2,32 @@
   "anchor_id": "ROM.4:19",
   "canon_uri": "canon/NT/ROM.md#ROM.4:19",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "And not being weak in faith, he did not consider his own body, already dead (since he was about a hundred years old), and the deadness of Sarah's womb.",
+  "pericope": {
+    "id": "ROM.P011",
+    "title": "Abraham's Children: Faithful Believers",
+    "range": "ROM.4:12-4:23",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/DEU_footnotes.md",
-      "line_number": 1079,
+      "source_file": "study/footnotes/OT/DEU_footnotes.md",
+      "line_number": 686,
       "raw_match": "[[ROM.4:19]]",
       "reference_type": "wikilink",
-      "context": "and the impossibilities raised by it, and left all to the power and glory of God ([[ROM.4:19]]-"
+      "context": "The word is the word concerning the attainment of righteousness before God. It is the word that casts out human reasoning and the supposed impossibilities raised by it. This word is so very near a person that it is in one's very mouth, heart, and hands. One does not need to ascend to heaven to find it, nor cross the sea. It is God's word sown in a believing heart, confessed with the mouth, and worked out with the hands. It is righteousness through faith. It is the faith of Abraham, who cast out all human reasoning and the impossibilities raised by it, and left all to the power and glory of God ([[ROM.4:19]]- 22). In [[ROM.10:6]]-8, St. Paul refers to vv. 11-14, saying Moses commandment speaks of \"the righteousness of faith\" and \"the word of faith.\" He also shows it was the Lord Jesus Christ who made this faith possible ([[ROM.10:9]], [[ROM.10:10]]). \"What does the phrase mean, 'The word is near you'? It means, 'It is easy.' For in your heart and on your tongue is your salvation. There is no long journey to go on, no seas to sail over, no mountains to climb, to get saved. But if you have such a heart, you may even be saved while you sit at home. For 'in your mouth and heart' is the source of salvation. On another score, Paul also makes the word of faith easy, and says, 'God raised Him from the dead.' For just reflect upon the worthiness of the Worker, and you will no longer see any difficulty in the thing\" (JohnChr)."
     },
     {
-      "source_file": "staging/validated/OT/GEN_footnotes.md",
-      "line_number": 720,
+      "source_file": "study/footnotes/OT/GEN_footnotes.md",
+      "line_number": 503,
       "raw_match": "[[ROM.4:17]]-25",
       "reference_type": "wikilink_range",
-      "context": "God's promise. For man is saved by this promise through faith in Christ ([[ROM.4:17]]-25; 9:7, 8)."
+      "context": "The Voice of the Lord is also the Word of the Father. He reassures Abraham that his heir will come from your own body. This refers to the birth of Isaac, based on God's promise. For man is saved by this promise through faith in Christ ([[ROM.4:17]]-25; 9:7, 8)."
     }
   ]
 }

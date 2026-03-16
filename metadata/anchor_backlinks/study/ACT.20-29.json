@@ -2,15 +2,25 @@
   "anchor_id": "ACT.20:29",
   "canon_uri": "canon/NT/ACT.md#ACT.20:29",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "For I know this, that after my departure savage wolves will come in among you, not sparing the flock.",
+  "pericope": {
+    "id": "ACT.P076",
+    "title": "Paul's Farewell Address",
+    "range": "ACT.20:12-20:36",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/REV_footnotes.md",
-      "line_number": 349,
+      "source_file": "study/footnotes/NT/REV_footnotes.md",
+      "line_number": 215,
       "raw_match": "[[ACT.20:29]]",
       "reference_type": "wikilink",
-      "context": "ravage the church of Ephesus ([[ACT.20:29]]). However, in the early second century, St."
+      "context": "The Ephesian church had persevered in orthodox faith and moral uprightness, but had left its first love (v. 4), presumably for God and each other. False apostles were a serious problem in the early Church (see [[2CO.11:13]]-23), and Paul warned they would ravage the church of Ephesus ([[ACT.20:29]]). However, in the early second century, St. Ignatius of Antioch praised the Ephesians for their continuing resistance to heresy. The lampstand (v. 5) is probably the Ephesian church's honor as the metropolitan church of Asia."
     }
   ]
 }

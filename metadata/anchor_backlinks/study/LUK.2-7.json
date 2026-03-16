@@ -2,29 +2,39 @@
   "anchor_id": "LUK.2:7",
   "canon_uri": "canon/NT/LUK.md#LUK.2:7",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "And she brought forth her firstborn Son, and wrapped Him in swaddling cloths, and laid Him in amanger, because there was no room for them in the inn.",
+  "pericope": {
+    "id": "LUK.P007",
+    "title": "John's Growth",
+    "range": "LUK.1:79-2:19",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/JOH_footnotes.md",
-      "line_number": 1277,
+      "source_file": "study/footnotes/NT/JOH_footnotes.md",
+      "line_number": 795,
       "raw_match": "[[LUK.2:1]]-7",
       "reference_type": "wikilink_range",
-      "context": "[[LUK.2:1]]-7). Beyond this, they cannot comprehend that He has come from the Father in"
+      "context": "We know where this Man is from: The crowds are mistaken, both in an earthly sense and in a divine sense. Humanly speaking, they think of Jesus as being from Nazareth of Galilee; they are not aware that He was actually born in Bethlehem (v. 42; see [[LUK.2:1]]-7). Beyond this, they cannot comprehend that He has come from the Father in Heaven, eternally begotten before all ages, and thus His divine \"origin\" remains unknown to them as well."
     },
     {
-      "source_file": "staging/validated/OT/EXO_footnotes.md",
-      "line_number": 646,
+      "source_file": "study/footnotes/OT/EXO_footnotes.md",
+      "line_number": 492,
       "raw_match": "[[LUK.2:7]]",
       "reference_type": "wikilink",
-      "context": "He is the Firstborn of the Mother of God ([[MAT.1:25]]; [[LUK.2:7]]). The Church of the Firstborn"
+      "context": "The sanctification of the firstborn foreshadows the Incarnation of the Son of God. For He is the Firstborn of the Mother of God ([[MAT.1:25]]; [[LUK.2:7]]). The Church of the Firstborn are His brethren, whose names are registered in heaven ([[HEB.2:11]], [[HEB.2:17]]; 12:23)."
     },
     {
-      "source_file": "staging/validated/OT/WIS_footnotes.md",
-      "line_number": 204,
+      "source_file": "study/footnotes/OT/WIS_footnotes.md",
+      "line_number": 172,
       "raw_match": "[[LUK.2:7]]",
       "reference_type": "wikilink",
-      "context": "wrapped in swaddling cloths (see [[LUK.2:7]], [[LUK.2:12]])."
+      "context": "Solomon is a type of Christ, who was also born a king (see Is 9:6; [[MAT.2:2]]) yet wrapped in swaddling cloths (see [[LUK.2:7]], [[LUK.2:12]])."
     }
   ]
 }

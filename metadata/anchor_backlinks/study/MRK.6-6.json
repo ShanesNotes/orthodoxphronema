@@ -2,15 +2,25 @@
   "anchor_id": "MRK.6:6",
   "canon_uri": "canon/NT/MRK.md#MRK.6:6",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "And He marveled because of their unbelief. Then He went about the villages in a circuit, teaching.",
+  "pericope": {
+    "id": "MRK.P023",
+    "title": "The Mission of the Twelve",
+    "range": "MRK.6:6-6:12",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/MAT_footnotes.md",
-      "line_number": 1325,
+      "source_file": "study/footnotes/NT/MAT_footnotes.md",
+      "line_number": 859,
       "raw_match": "[[MRK.6:6]]",
       "reference_type": "wikilink",
-      "context": "hometown of Nazareth ([[MRK.6:6]]), and (2) at the belief of this foreigner."
+      "context": "Twice in the gospels it is said of Jesus that He marveled: (1) at the unbelief in His hometown of Nazareth ([[MRK.6:6]]), and (2) at the belief of this foreigner."
     }
   ]
 }

@@ -2,15 +2,25 @@
   "anchor_id": "EPH.6:4",
   "canon_uri": "canon/NT/EPH.md#EPH.6:4",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "And you, fathers, do not provoke your children to wrath, but bring them up in the training and admonition of the Lord.",
+  "pericope": {
+    "id": "EPH.P017",
+    "title": "Slaves and Masters",
+    "range": "EPH.6:4-6:8",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/SIR_footnotes.md",
-      "line_number": 729,
+      "source_file": "study/footnotes/OT/SIR_footnotes.md",
+      "line_number": 558,
       "raw_match": "[[EPH.6:4]]",
       "reference_type": "wikilink",
-      "context": "issues a helpful word in [[EPH.6:4]]."
+      "context": "Because the father is ultimately responsible for the discipline of children, St. Paul issues a helpful word in [[EPH.6:4]]."
     }
   ]
 }

@@ -1,0 +1,26 @@
+{
+  "anchor_id": "MAT.9:36",
+  "canon_uri": "canon/NT/MAT.md#MAT.9:36",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-15T23:42:04+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "But when He saw the multitudes, He was moved with compassion for them, because they were weary and scattered, like sheep having no shepherd.",
+  "pericope": {
+    "id": "MAT.P025",
+    "title": "A Plentiful Harvest",
+    "range": "MAT.9:35-9:37",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
+  "links": [
+    {
+      "source_file": "study/lectionary-notes/NT/MAT_lectionary.md",
+      "line_number": 12,
+      "raw_match": "[[MAT.9:36]]",
+      "reference_type": "wikilink",
+      "context": "**9:36** \u2014 [[MAT.9:36]]; 10:1\u20138: This passage is read on June 30, the Synaxis of the Twelve Apostles."
+    }
+  ]
+}

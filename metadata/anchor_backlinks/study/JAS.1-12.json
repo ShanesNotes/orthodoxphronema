@@ -2,22 +2,32 @@
   "anchor_id": "JAS.1:12",
   "canon_uri": "canon/NT/JAS.md#JAS.1:12",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Blessed is the man who endures temptation; for when he has been approved, he will receive the crown of life which the Lord has promised to those who love Him.",
+  "pericope": {
+    "id": "JAS.P003",
+    "title": "Temptations",
+    "range": "JAS.1:11-1:17",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/1PE_footnotes.md",
-      "line_number": 101,
+      "source_file": "study/footnotes/NT/1PE_footnotes.md",
+      "line_number": 65,
       "raw_match": "[[JAS.1:1]]-12",
       "reference_type": "wikilink_range",
-      "context": "of the passing world, along with the afflictions we must face here (see also [[JAS.1:1]]-12)."
+      "context": "The incorruptible inheritance is reserved for those who have true faith, the faith that by God's grace perseveres to the end. 1:6, 7 To reach the joy and blessing of eternal life in Christ, we first experience the sadness of the passing world, along with the afflictions we must face here (see also [[JAS.1:1]]-12). To the watching world, the perseverance of the faithful during affliction appears foolish and even contemptible. But Peter shows that faith under trial is precious indeed, bearing more glory and honor as it continues to stand under trial (see [[MAT.25:31]]-46; [[1CO.3:10]]-15)."
     },
     {
-      "source_file": "staging/validated/OT/WIS_footnotes.md",
-      "line_number": 40,
+      "source_file": "study/footnotes/OT/WIS_footnotes.md",
+      "line_number": 36,
       "raw_match": "[[JAS.1:12]]-18",
       "reference_type": "wikilink_range",
-      "context": "(see [[JAS.1:12]]-18)."
+      "context": ", 14 God intends for man to have eternal life. Evil and death are not of God's making (see [[JAS.1:12]]-18)."
     }
   ]
 }

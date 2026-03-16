@@ -2,15 +2,25 @@
   "anchor_id": "LEV.20:9",
   "canon_uri": "canon/OT/LEV.md#LEV.20:9",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Whatever man curses his father or mother shall surely be put to death. He cursed his father or mother. Thus he shall be guilty.",
+  "pericope": {
+    "id": "LEV.P029",
+    "title": "Penalties for Lawbreakers",
+    "range": "LEV.19:37-20:26",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/LEV_footnotes.md",
-      "line_number": 1267,
+      "source_file": "study/footnotes/OT/LEV_footnotes.md",
+      "line_number": 779,
       "raw_match": "[[LEV.20:9]]",
       "reference_type": "wikilink",
-      "context": "[[LEV.20:9]], [[LEV.20:11]], [[LEV.20:12]], [[LEV.20:16]], [[LEV.20:17]], [[LEV.20:19]], [[LEV.20:27]]: The Law of Moses taught that man is only guilty before"
+      "context": "[[LEV.20:9]], [[LEV.20:11]], [[LEV.20:12]], [[LEV.20:16]], [[LEV.20:17]], [[LEV.20:19]], [[LEV.20:27]]: The Law of Moses taught that man is only guilty before God by free choice, but not by nature. For man is good by nature; otherwise, we would be imputing guilt to God ([[GEN.1:31]]). Thus, man does not possess a sinful nature, for all sins are committed by personal choice. No one can claim he sins out of necessity. All sins therefore are contrary both to God and to nature. The Law also refuted the false notion that man is guilty before God because of Adam's sin. Adam was guilty of his own transgression, as is true of any and all."
     }
   ]
 }

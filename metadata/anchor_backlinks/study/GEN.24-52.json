@@ -2,15 +2,25 @@
   "anchor_id": "GEN.24:52",
   "canon_uri": "canon/OT/GEN.md#GEN.24:52",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "And it came to pass, when Abraham's servant heard their words, that he bowed to the earth and worshiped the Lord.",
+  "pericope": {
+    "id": "GEN.P035",
+    "title": "Isaac and Rebekah",
+    "range": "GEN.23:20-24:66",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/SIR_footnotes.md",
-      "line_number": 1413,
+      "source_file": "study/footnotes/OT/SIR_footnotes.md",
+      "line_number": 1103,
       "raw_match": "[[GEN.24:1]]-67",
       "reference_type": "wikilink_range",
-      "context": "would accept to marry. As with Isaac and Rebekah, for example ([[GEN.24:1]]-67), marriages"
+      "context": "Women of ancient times often had little or no choice concerning the man they would accept to marry. As with Isaac and Rebekah, for example ([[GEN.24:1]]-67), marriages were often arranged by parents or someone in authority. It is worth noting, however, that some sociological studies indicate there was not the unhappiness arising from this practice that we moderns are prone to imagine, and certainly not the divorce rate! The Scriptures laud a woman who is beautiful, both outwardly (v. 22) and inwardly (v. 23)."
     }
   ]
 }

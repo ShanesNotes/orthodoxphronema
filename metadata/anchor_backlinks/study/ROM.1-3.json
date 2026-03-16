@@ -2,15 +2,25 @@
   "anchor_id": "ROM.1:3",
   "canon_uri": "canon/NT/ROM.md#ROM.1:3",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "concerning His Son Jesus Christ our Lord, who was born of the seed of David according to the flesh,",
+  "pericope": {
+    "id": "ROM.P001",
+    "title": "Romans \u2014 Opening",
+    "range": "ROM.1:1-1:6",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/PSA_footnotes.md",
-      "line_number": 65,
+      "source_file": "study/footnotes/OT/PSA_footnotes.md",
+      "line_number": 43,
       "raw_match": "[[ROM.1:3]]",
       "reference_type": "wikilink",
-      "context": "flesh ([[MAT.1:1]]; [[ROM.1:3]]). Thus, Jesus is praying to the Lord, who is God the Father (vv. 2,"
+      "context": "The historical account in Ps 3 is that of King David fleeing from his son, Absalom (2Kg 15-18). But prophetically, Ps 3 is speaking of Jesus as the Son of David according to the flesh ([[MAT.1:1]]; [[ROM.1:3]]). Thus, Jesus is praying to the Lord, who is God the Father (vv. 2, 4, 5, 6, 8, 9). And the many... who rise up against me (v. 2) are the fallen angels, of whom Absalom and his army were a type. These angels, which number ten thousands (v. 7), always lie in their denial of man's salvation through Christ (v. 3). But just as Jesus always rejected their lies (vv. 4-9), so He is teaching His Church to do the same."
     }
   ]
 }

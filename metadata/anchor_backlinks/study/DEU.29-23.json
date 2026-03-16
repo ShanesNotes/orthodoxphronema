@@ -2,12 +2,22 @@
   "anchor_id": "DEU.29:23",
   "canon_uri": "canon/OT/DEU.md#DEU.29:23",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "They and all the nations will say, 'Why has the Lord done so to this land? What does the heat of this great anger mean?'",
+  "pericope": {
+    "id": "DEU.P061",
+    "title": "The Covenant in Moab",
+    "range": "DEU.28:69-29:27",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/3MA_footnotes.md",
-      "line_number": 135,
+      "source_file": "study/footnotes/OT/3MA_footnotes.md",
+      "line_number": 114,
       "raw_match": "[[DEU.29:23]]",
       "reference_type": "wikilink",
       "context": "Sodom: See [[GEN.13:13]]; [[DEU.29:23]]; WSol 10:6-8; 2Ez 2:8; [[LUK.17:29]]; [[2PE.2:6]]; [[JUD.1:7]]."

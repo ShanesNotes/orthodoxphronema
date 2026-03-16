@@ -2,22 +2,32 @@
   "anchor_id": "MAT.5:48",
   "canon_uri": "canon/NT/MAT.md#MAT.5:48",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Therefore you shall be perfect, just as your Father in heaven is perfect.",
+  "pericope": {
+    "id": "MAT.P014",
+    "title": "How to Give Alms",
+    "range": "MAT.5:48-6:14",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/GAL_footnotes.md",
-      "line_number": 683,
+      "source_file": "study/footnotes/NT/GAL_footnotes.md",
+      "line_number": 432,
       "raw_match": "[[MAT.5:48]]",
       "reference_type": "wikilink",
-      "context": "heart; (2) obedience to Christ and growth in perfection ([[MAT.5:48]]); (3) being justified by"
+      "context": "The yoke of bondage is the law. It mistakes the lesser reality, its rules and regulations, its externals, for the greater reality, God, who produced the law and to whom the externals point. The law in this sense includes: (1) the initiatory requirement to be circumcised (v. 2); (2) an obligation to perfectly obey the whole law (v. 3); (3) being justified by law--trying to establish one's own righteousness under the law (v. 4); (4) continuing bondage to sin (v. 1); (5) dependence on the \"flesh,\" corrupt human nature; (6) alienation from Christ and from grace (v. 4), which Christ calls \"labor\" and being \"heavy laden\" ([[MAT.11:28]]). By contrast, Christ's yoke is life in the Spirit, which includes: (1) the regeneration of baptism (3:27), the renewal of the entire human nature in Christ, the circumcision of the heart; (2) obedience to Christ and growth in perfection ([[MAT.5:48]]); (3) being justified by grace, God's righteousness which becomes ours; (4) freedom or liberty (v. 1) from the power of sin; (5) dependence upon the Spirit (v. 5) and access to the perfect and glorified human nature of Christ; (6) union with Christ and the grace of God. Christ calls this yoke \"rest,\" for it is \"easy\" and \"light\" ([[MAT.11:30]])."
     },
     {
-      "source_file": "staging/validated/OT/SIR_footnotes.md",
-      "line_number": 289,
+      "source_file": "study/footnotes/OT/SIR_footnotes.md",
+      "line_number": 204,
       "raw_match": "[[MAT.5:38]]-48",
       "reference_type": "wikilink_range",
-      "context": "to do so (see [[MAT.5:38]]-48; [[LUK.6:27]]-36). St. Paul sums up the Christian view of almsgiving: \"Therefore, as we have opportunity, let us do good to all, especially to those who are of"
+      "context": "These verses reflect the view of ancient societies, including the Hebrews and Greeks, that one should extend grace or do good mainly to one's family or to one who is godly. Few believed in doing good to one's enemies until Jesus Christ strongly taught us to do so (see [[MAT.5:38]]-48; [[LUK.6:27]]-36). St. Paul sums up the Christian view of almsgiving: \"Therefore, as we have opportunity, let us do good to all, especially to those who are of the household of faith\" ([[GAL.6:10]])."
     }
   ]
 }

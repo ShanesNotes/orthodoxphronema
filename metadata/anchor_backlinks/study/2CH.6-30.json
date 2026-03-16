@@ -2,15 +2,25 @@
   "anchor_id": "2CH.6:30",
   "canon_uri": "canon/OT/2CH.md#2CH.6:30",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "then hear from heaven, Your dwelling place, and forgive them. And give to everyone according to his ways, for You know his heart, since You alone know the hearts of the sons of men",
+  "pericope": {
+    "id": "2CH.P008",
+    "title": "The King's Prayer of Dedication",
+    "range": "2CH.6:11-6:41",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/MAT_footnotes.md",
-      "line_number": 1435,
+      "source_file": "study/footnotes/NT/MAT_footnotes.md",
+      "line_number": 930,
       "raw_match": "[[2CH.6:30]]",
       "reference_type": "wikilink",
-      "context": "secrets of hearts (see 1Kg 16:7; [[2CH.6:30]]); (2) He forgives sins, a power which belongs to"
+      "context": "As shown by the healing of the paralytic, faith is an indispensable condition for salvation. Faith is collective as well as personal, for the faith of the paralytic's friends helped in his healing (v. 2). Three signs of Jesus' divinity are shown: (1) He knows the secrets of hearts (see 1Kg 16:7; [[2CH.6:30]]); (2) He forgives sins, a power which belongs to God alone; and (3) He heals by the power of His word."
     }
   ]
 }

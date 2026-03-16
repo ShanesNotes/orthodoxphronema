@@ -2,15 +2,25 @@
   "anchor_id": "1TI.3:13",
   "canon_uri": "canon/NT/1TI.md#1TI.3:13",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "For those who have served well as deacons obtain for themselves a good standing and great boldness in the faith which is in Christ Jesus.",
+  "pericope": {
+    "id": "1TI.P011",
+    "title": "The Guide for Faithfulness: An Early Creed",
+    "range": "1TI.3:13-3:15",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/TIT_footnotes.md",
-      "line_number": 45,
+      "source_file": "study/footnotes/NT/TIT_footnotes.md",
+      "line_number": 31,
       "raw_match": "[[1TI.3:1]]-16",
       "reference_type": "wikilink_range",
-      "context": "with others (v. 8), and careful adherence to tradition (v. 9; see also [[1TI.3:1]]-16; 5:21; 2Ti"
+      "context": "When Paul evangelized an area, he did not leave it unattended ([[1CO.3:6]]-10; [[COL.1:7]]). 1:5-9 All Christians are priests in Christ. Candidates for eldership, that is, for the special priesthood inside the general priesthood of all, should exhibit a wholesome and united family life (v. 6), control over passions and emotions (v. 7), loving and righteous relations with others (v. 8), and careful adherence to tradition (v. 9; see also [[1TI.3:1]]-16; 5:21; 2Ti 2:2)."
     }
   ]
 }

@@ -2,22 +2,32 @@
   "anchor_id": "JOH.19:15",
   "canon_uri": "canon/NT/JOH.md#JOH.19:15",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "But they cried out, 'Away with Him, away with Him! Crucify Him!'",
+  "pericope": {
+    "id": "JOH.P064",
+    "title": "Pilate's Judgment",
+    "range": "JOH.19:4-19:15",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/ACT_footnotes.md",
-      "line_number": 2111,
+      "source_file": "study/footnotes/NT/ACT_footnotes.md",
+      "line_number": 1339,
       "raw_match": "[[JOH.19:15]]",
       "reference_type": "wikilink",
       "context": "Away with him was the same cry shouted against Jesus at His trial ([[JOH.19:15]])."
     },
     {
-      "source_file": "staging/validated/NT/LUK_footnotes.md",
-      "line_number": 787,
+      "source_file": "study/footnotes/NT/LUK_footnotes.md",
+      "line_number": 522,
       "raw_match": "[[JOH.19:15]]",
       "reference_type": "wikilink",
-      "context": "([[JOH.19:14]], [[JOH.19:15]]). Christ accepts death according to the Father's will, not at the will of the"
+      "context": "This double response of marveling (v. 22) and rejection (v. 29) occurs frequently in those who encounter Christ (see 11:14-16; [[JOH.9:16]]). His being rejected in His own country fulfills the rejection of the OT prophets such as Elijah (v. 26) and Elisha (v. 27), and foreshadows His rejection by the whole Jewish nation at His trial before Pilate ([[JOH.19:14]], [[JOH.19:15]]). Christ accepts death according to the Father's will, not at the will of the Jews. Here, the hour of His Passion has not yet come (see [[JOH.8:20]])."
     }
   ]
 }

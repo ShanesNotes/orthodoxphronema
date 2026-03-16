@@ -1,0 +1,11 @@
+{
+  "run_at": "2026-03-16T01:05:41.706612+00:00",
+  "pdf_path": "/home/ark/orthodoxphronema/src.texts/Gregory-of-Nyssa-The-Life-of-Moses.pdf",
+  "model": "gemini-embedding-2-preview",
+  "dimensions": 768,
+  "dry_run": false,
+  "sections_processed": 33,
+  "sections_skipped": 0,
+  "errors": [],
+  "total_words": 63074
+}

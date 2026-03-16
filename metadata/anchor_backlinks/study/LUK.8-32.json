@@ -2,15 +2,25 @@
   "anchor_id": "LUK.8:32",
   "canon_uri": "canon/NT/LUK.md#LUK.8:32",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Now aherd of many swine was feeding there on the mountain. So they begged Him that He would permit them to enter them. And He permitted them.",
+  "pericope": {
+    "id": "LUK.P040",
+    "title": "The Gadarene Demoniac",
+    "range": "LUK.8:27-8:38",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/JOB_footnotes.md",
-      "line_number": 69,
+      "source_file": "study/footnotes/OT/JOB_footnotes.md",
+      "line_number": 48,
       "raw_match": "[[LUK.8:32]]",
       "reference_type": "wikilink",
-      "context": "be sent into a great herd of swine ([[LUK.8:32]], [[LUK.8:33]])."
+      "context": "St. John Chrysostom remarks that Satan's will is his own, but he derives his power from God, who does not allow him to act except with justice. He cannot bring harm to the faithful, and even profits those who wage war against him, \"for tribulation makes the strong man stronger.\" Jesus conversed with evil spirits and even granted their request to be sent into a great herd of swine ([[LUK.8:32]], [[LUK.8:33]])."
     }
   ]
 }

@@ -2,15 +2,25 @@
   "anchor_id": "NEH.2:17",
   "canon_uri": "canon/OT/NEH.md#NEH.2:17",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Then I said to them, 'You see the distress we are in, how Jerusalem is laid waste and its gates are destroyed with fire. Come and let us rebuild the wall of Jerusalem, and we will no longer be a reproach.'",
+  "pericope": {
+    "id": "NEH.P011",
+    "title": "Internal Strife",
+    "range": "NEH.2:17-2:17",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/2MA_footnotes.md",
-      "line_number": 85,
+      "source_file": "study/footnotes/OT/2MA_footnotes.md",
+      "line_number": 69,
       "raw_match": "[[NEH.2:11]]-18",
       "reference_type": "wikilink_range",
-      "context": "destroyed by fire ([[NEH.2:11]]-18)."
+      "context": "The prophet Nehemiah was to rebuild the walls of Jerusalem that had been destroyed by fire ([[NEH.2:11]]-18)."
     }
   ]
 }

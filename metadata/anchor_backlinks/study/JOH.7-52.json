@@ -2,15 +2,25 @@
   "anchor_id": "JOH.7:52",
   "canon_uri": "canon/NT/JOH.md#JOH.7:52",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "They answered and said to him, 'Are you also from Galilee? Search and look, for no prophet has arisen out of Galilee.'",
+  "pericope": {
+    "id": "JOH.P024",
+    "title": "Reaction to Jesus' Teaching",
+    "range": "JOH.7:39-7:52",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/LUK_footnotes.md",
-      "line_number": 731,
+      "source_file": "study/footnotes/NT/LUK_footnotes.md",
+      "line_number": 486,
       "raw_match": "[[JOH.7:52]]",
       "reference_type": "wikilink",
-      "context": "Satan vainly tries to use the Scriptures (as do the Pharisees in [[JOH.7:52]]), but"
+      "context": "Satan vainly tries to use the Scriptures (as do the Pharisees in [[JOH.7:52]]), but understands neither their truth nor their power. Knowing and quoting Scripture without true understanding is worthless at best and ultimately condemnable. Without true understanding through the Holy Tradition of the Church, the Scriptures are robbed of their authority (see also [[2PE.1:19]]-21)."
     }
   ]
 }

@@ -2,15 +2,25 @@
   "anchor_id": "NUM.25:12",
   "canon_uri": "canon/OT/NUM.md#NUM.25:12",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Therefore say, 'Behold, I give to him My covenant of peace;",
+  "pericope": {
+    "id": "NUM.P059",
+    "title": "Israel's Sin at Moab",
+    "range": "NUM.25:1-25:17",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/MAL_footnotes.md",
-      "line_number": 90,
+      "source_file": "study/footnotes/OT/MAL_footnotes.md",
+      "line_number": 69,
       "raw_match": "[[NUM.25:12]]",
       "reference_type": "wikilink",
-      "context": "and do (see [[NUM.25:12]], [[NUM.25:13]]; [[DEU.10:8]], [[DEU.10:9]])."
+      "context": "Malachi reminds the priests of the Levitic covenant and what they are meant to be and do (see [[NUM.25:12]], [[NUM.25:13]]; [[DEU.10:8]], [[DEU.10:9]])."
     }
   ]
 }

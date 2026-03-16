@@ -2,15 +2,25 @@
   "anchor_id": "ZEC.4:14",
   "canon_uri": "canon/OT/ZEC.md#ZEC.4:14",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "And he said, 'These are the two sons of richness who stand beside the Lord of all the earth.'",
+  "pericope": {
+    "id": "ZEC.P007",
+    "title": "The Flying Sickle",
+    "range": "ZEC.4:14-5:10",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/REV_footnotes.md",
-      "line_number": 1569,
+      "source_file": "study/footnotes/NT/REV_footnotes.md",
+      "line_number": 969,
       "raw_match": "[[ZEC.4:14]]",
       "reference_type": "wikilink",
-      "context": "high priest, who are described as standing \"beside the Lord of all the earth\" ([[ZEC.4:14]])."
+      "context": "These two olive trees and the two lampstands who stand before... God are the eschatological agents of God at work on earth. This symbolic description of the witnesses is derived from Zechariah's vision concerning Zerubbabel the governor and Joshua the high priest, who are described as standing \"beside the Lord of all the earth\" ([[ZEC.4:14]])."
     }
   ]
 }

@@ -113,7 +113,7 @@ be plunged into the very darkness (v. 20) that they love so much (see [[JOH.3:19
 *(anchor: AMO.5:10)*
 
 Christ, the upright word Incarnate, was hated for publicly rebuking the scribes and
-Pharisees in the gates ([[MAT.21:45]], [[MAT.21:46]]; Lk 11:45-12:1; 13:14-17; [[JOH.7:7]]; 8:20; see also Pr
+Pharisees in the gates ([[MAT.21:45]], [[MAT.21:46]]; [[LUK.11:45]]-12:1; 13:14-17; [[JOH.7:7]]; 8:20; see also Pr
 
 ### 9:8
 *(anchor: AMO.9:8)*

@@ -1061,7 +1061,7 @@ Through Christ's affliction on the Cross, we receive mercy.
 *(anchor: SIR.36:1)*
 
 Ben Sirach prays for mercy for us (Israel); that all the nations (the Gentiles)
-would fear Him; and that God would let them see Your power. Rom 9:24-10:4 is one
+would fear Him; and that God would let them see Your power. [[ROM.9:24]]-10:4 is one
 of many biblical passages that explain how God has answered this prayer. Augustine said
 of v. 4, "We see this prophecy in the form of a wish and prayer fulfilled through Jesus
 Christ."

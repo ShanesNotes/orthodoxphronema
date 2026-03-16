@@ -2,11 +2,21 @@
   "anchor_id": "TIT.3:12",
   "canon_uri": "canon/NT/TIT.md#TIT.3:12",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "When I send Artemas to you, or Tychicus, be diligent to come to me at Nicopolis, for I have decided to spend the winter there.",
+  "pericope": {
+    "id": "TIT.P009",
+    "title": "Conclusion",
+    "range": "TIT.3:10-3:15",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/LUK_articles.md",
+      "source_file": "study/articles/NT/LUK_articles.md",
       "line_number": 38,
       "raw_match": "[[TIT.3:12]]",
       "reference_type": "wikilink",

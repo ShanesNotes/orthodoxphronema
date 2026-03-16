@@ -2,22 +2,32 @@
   "anchor_id": "JOH.10:2",
   "canon_uri": "canon/NT/JOH.md#JOH.10:2",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "But he who enters by the door is the shepherd of the sheep.",
+  "pericope": {
+    "id": "JOH.P032",
+    "title": "Jesus, the Good Shepherd",
+    "range": "JOH.9:41-10:5",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/EZK_footnotes.md",
-      "line_number": 551,
+      "source_file": "study/footnotes/OT/EZK_footnotes.md",
+      "line_number": 489,
       "raw_match": "[[JOH.10:2]]",
       "reference_type": "wikilink",
-      "context": "signifying Christ ([[JOH.10:1]], [[JOH.10:2]]), the preachers of truth ([[REV.21:21]]), the Scriptures, and the"
+      "context": "St. Gregory the Great interprets the meaning of the gates in four ways: as signifying Christ ([[JOH.10:1]], [[JOH.10:2]]), the preachers of truth ([[REV.21:21]]), the Scriptures, and the faith. The seven stairs (v. 6) signify the \"sevenfold grace of the Holy Spirit\" (see Is 11:2, 3). The chambers are \"the hearts of those whose soul is joined through love with the Unseen Bridegroom.\" The length, he writes, signifies longing for God, and the breadth is love for neighbor. Five cubits (v. 7) signifies the five outer senses. Eight cubits (v. 9) signifies spiritual perfection and the final day of resurrection. Two cubits illustrates a life that is \"led daily through charity to love of God and neighbor alike.\""
     },
     {
-      "source_file": "staging/validated/OT/PSA_footnotes.md",
-      "line_number": 439,
+      "source_file": "study/footnotes/OT/PSA_footnotes.md",
+      "line_number": 268,
       "raw_match": "[[JOH.10:1]]-5",
       "reference_type": "wikilink_range",
-      "context": "4-6). In speaking about the Lord, the Church (the sheep; see also [[JOH.10:1]]-5) identifies"
+      "context": "Ps 22 is the Church speaking about the Lord Jesus (vv. 1-3) and to the Lord Jesus (vv. 4-6). In speaking about the Lord, the Church (the sheep; see also [[JOH.10:1]]-5) identifies Him as my shepherd (v. 1; see also [[JOH.10:14]]), thus indicating a close relationship with Him. And in this relationship of Shepherd and sheep, the Church lacks nothing, for example, the green pastures of kingdom life (v. 2; see also [[JOH.10:10]]); the still waters of baptism (v. 2; see also [[JOH.3:5]]); and the conversion of the soul to the paths of righteousness (v. 3; see also [[JOH.10:3]], [[JOH.10:4]], [[JOH.10:7]]). And in speaking to the Lord, the Church is grateful to Him (1) for deliverance from the fear of death (v. 4; see also [[HEB.2:14]], [[HEB.2:15]]); (2) for the Eucharist (v. 5; see also [[LUK.22:14]]-20); and (3) for a lifetime of mercy (v. 6; see also [[LUK.1:50]], [[LUK.1:54]])."
     }
   ]
 }

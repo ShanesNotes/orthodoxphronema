@@ -2,15 +2,25 @@
   "anchor_id": "EXO.29:14",
   "canon_uri": "canon/OT/EXO.md#EXO.29:14",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "But the flesh of the young bull, with its skin and offal, you shall burn with fire outside the camp. It is a sin offering.",
+  "pericope": {
+    "id": "EXO.P060",
+    "title": "Aaron and His Sons Consecrated as Priests",
+    "range": "EXO.28:38-29:36",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/MAL_footnotes.md",
-      "line_number": 75,
+      "source_file": "study/footnotes/OT/MAL_footnotes.md",
+      "line_number": 59,
       "raw_match": "[[EXO.29:14]]",
       "reference_type": "wikilink",
-      "context": "of offerings was removed from the sanctuary and burned (see [[EXO.29:14]]; Lv 4:11, 12). God"
+      "context": "The word here is dung (Gr. anaustrov). The Hebrew text also reads \"dung.\" The offal of offerings was removed from the sanctuary and burned (see [[EXO.29:14]]; Lv 4:11, 12). God detests false offerings so intensely that He threatens to rub dung on the faces of the priests and take them out to the dung heap as refuse. This passage was so disturbing that later Targums translated it, \"I will make visible on your faces the shame of your crimes.\" In this instance, Malachi delivers an angelic message with an earthy tongue, demonstrating the severity of the priestly misdeeds."
     }
   ]
 }

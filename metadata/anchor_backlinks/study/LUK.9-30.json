@@ -2,15 +2,25 @@
   "anchor_id": "LUK.9:30",
   "canon_uri": "canon/NT/LUK.md#LUK.9:30",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "And behold, two men talked with Him, who were Moses and Elijah,",
+  "pericope": {
+    "id": "LUK.P045",
+    "title": "The Transfiguration",
+    "range": "LUK.9:27-9:35",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/1JN_footnotes.md",
-      "line_number": 287,
+      "source_file": "study/footnotes/NT/1JN_footnotes.md",
+      "line_number": 180,
       "raw_match": "[[LUK.9:28]]-36",
       "reference_type": "wikilink_range",
-      "context": "17:1-9; [[MRK.9:2]]-9; [[LUK.9:28]]-36)."
+      "context": "Made in God's image and likeness, we are fulfilled by becoming like Him, a process called sanctification or deification. Being \"partakers of the divine nature\" ([[2PE.1:4]]), we are \"transformed into the same image from glory to glory\" ([[2CO.3:18]]). When we see Him as He is, in the fullness of His glory at the last day, this process will be supremely magnified. John had seen the foretaste of this glory on the Mount of Transfiguration (Mt 17:1-9; [[MRK.9:2]]-9; [[LUK.9:28]]-36). How shall we see Him? Through our likeness to Him; our human nature will be glorified with the glorified humanity of the Son (see [[COL.3:3]], [[COL.3:4]]) and through a knowledge of all three Persons of the Trinity. (Note Paul's expressions, \"face to face\" and \"with unveiled face\" in [[1CO.13:12]]; [[2CO.3:18]])."
     }
   ]
 }

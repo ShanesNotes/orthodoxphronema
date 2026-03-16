@@ -2,22 +2,32 @@
   "anchor_id": "LUK.14:26",
   "canon_uri": "canon/NT/LUK.md#LUK.14:26",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "'If anyone comes to Me and does not hate his father and mother, wife and children, brothers and sisters, yes, and his own life also, he cannot be My disciple.",
+  "pericope": {
+    "id": "LUK.P073",
+    "title": "The Cost of Discipleship",
+    "range": "LUK.14:24-15:6",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/MAT_footnotes.md",
-      "line_number": 2545,
+      "source_file": "study/footnotes/NT/MAT_footnotes.md",
+      "line_number": 1641,
       "raw_match": "[[LUK.14:26]]",
       "reference_type": "wikilink",
-      "context": "that must be severed for the salvation of all parties (see [[LUK.14:26]]; [[1CO.5:5]])."
+      "context": "See also 5:29. The reference to mutilation is an illustration of decisive action to avoid sin and does not advocate literal amputation. This also refers to harmful relationships that must be severed for the salvation of all parties (see [[LUK.14:26]]; [[1CO.5:5]])."
     },
     {
-      "source_file": "staging/validated/OT/MAL_footnotes.md",
-      "line_number": 32,
+      "source_file": "study/footnotes/OT/MAL_footnotes.md",
+      "line_number": 25,
       "raw_match": "[[LUK.14:26]]",
       "reference_type": "wikilink",
-      "context": "Jacob, not of indicating hatred for the unchosen (see [[GEN.25:23]]; [[LUK.14:26]]; [[ROM.9:10]]-13)."
+      "context": "In what way have You loved us? God declares His love for His people, but they reply coldly. God reminds them of the covenant with Abraham, Isaac, and Jacob. Jacob I have loved, but Esau I have hated is a Semitic way of emphasizing God's choice of Jacob, not of indicating hatred for the unchosen (see [[GEN.25:23]]; [[LUK.14:26]]; [[ROM.9:10]]-13)."
     }
   ]
 }

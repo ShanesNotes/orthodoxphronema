@@ -2,15 +2,25 @@
   "anchor_id": "JOH.9:39",
   "canon_uri": "canon/NT/JOH.md#JOH.9:39",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "And Jesus said, 'For judgment I have come into this world, that those who do not see may see, and that those who see may be made blind.'",
+  "pericope": {
+    "id": "JOH.P031",
+    "title": "Those Who See, Those Who Do Not",
+    "range": "JOH.9:13-9:40",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/ACT_footnotes.md",
-      "line_number": 837,
+      "source_file": "study/footnotes/NT/ACT_footnotes.md",
+      "line_number": 563,
       "raw_match": "[[JOH.9:39]]",
       "reference_type": "wikilink",
-      "context": "Saul's blindness illustrates Christ's teachings on spiritual blindness ([[JOH.9:39]]). As long"
+      "context": "Saul's blindness illustrates Christ's teachings on spiritual blindness ([[JOH.9:39]]). As long as Saul saw things from his own perspective, he was spiritually blind. Only by having his earthly vision taken away does Saul become capable of truly seeing Christ in glory and truth. This action also drives Saul to submit to the Church for baptism."
     }
   ]
 }

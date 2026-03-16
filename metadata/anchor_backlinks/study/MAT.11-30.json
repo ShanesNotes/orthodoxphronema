@@ -2,43 +2,53 @@
   "anchor_id": "MAT.11:30",
   "canon_uri": "canon/NT/MAT.md#MAT.11:30",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "For My yoke is easy and My burden is light.'",
+  "pericope": {
+    "id": "MAT.P034",
+    "title": "The Pharisees' Hostility",
+    "range": "MAT.11:30-12:13",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/GAL_footnotes.md",
-      "line_number": 691,
+      "source_file": "study/footnotes/NT/GAL_footnotes.md",
+      "line_number": 436,
       "raw_match": "[[MAT.11:30]]",
       "reference_type": "wikilink",
-      "context": "this yoke \"rest,\" for it is \"easy\" and \"light\" ([[MAT.11:30]])."
+      "context": "The yoke of bondage is the law. It mistakes the lesser reality, its rules and regulations, its externals, for the greater reality, God, who produced the law and to whom the externals point. The law in this sense includes: (1) the initiatory requirement to be circumcised (v. 2); (2) an obligation to perfectly obey the whole law (v. 3); (3) being justified by law--trying to establish one's own righteousness under the law (v. 4); (4) continuing bondage to sin (v. 1); (5) dependence on the \"flesh,\" corrupt human nature; (6) alienation from Christ and from grace (v. 4), which Christ calls \"labor\" and being \"heavy laden\" ([[MAT.11:28]]). By contrast, Christ's yoke is life in the Spirit, which includes: (1) the regeneration of baptism (3:27), the renewal of the entire human nature in Christ, the circumcision of the heart; (2) obedience to Christ and growth in perfection ([[MAT.5:48]]); (3) being justified by grace, God's righteousness which becomes ours; (4) freedom or liberty (v. 1) from the power of sin; (5) dependence upon the Spirit (v. 5) and access to the perfect and glorified human nature of Christ; (6) union with Christ and the grace of God. Christ calls this yoke \"rest,\" for it is \"easy\" and \"light\" ([[MAT.11:30]])."
     },
     {
-      "source_file": "staging/validated/OT/DEU_footnotes.md",
-      "line_number": 150,
+      "source_file": "study/footnotes/OT/DEU_footnotes.md",
+      "line_number": 105,
       "raw_match": "[[MAT.11:28]]-30",
       "reference_type": "wikilink_range",
-      "context": "rest for your souls. For My yoke is easy and My burden is light\" ([[MAT.11:28]]-30). Therefore, the Lord Jesus is salvation. 4:2"
+      "context": "). The promise was the word of faith given Abraham concerning the birth of Isaac, which word he believed, for he was strong in faith, giving glory to God (Rom 4). But those among the children of Israel or the children of Esau who rejected this faith would not be the children of God. 2:7 The generation that died in the desert had no excuse for not believing the Lord, nor did the new generation about to enter the land of promise. For the Lord blessed them over the forty-year period in spite of their unbelief. They lacked nothing. God's gracious promise in the Gospel of Christ either saves people or makes them hard and stubborn. Yet this hardness and stubbornness is of their own free will, for He never forces anyone to respond in faith. But He does make them the offer of peace. 3:28 The name Joshua in the Hebrew language of the Old Testament was translated into the Greek language as Jesus. This was true in the Greek Old Testament as well as in the New. This name means, \"The Lord is salvation.\" Thus, the Jesus or Joshua of the Old Testament was a type of Jesus in the New. He was a type of Jesus in that he will cause them to inherit the land of Canaan. But Joshua was unable to give Israel rest in their souls ([[HEB.4:8]]). However, the Lord Jesus said, \"Come to Me, all you who labor and are heavy laden, and I will give you rest. Take My yoke upon you and learn from Me, for I am gentle and lowly in heart, and you will find rest for your souls. For My yoke is easy and My burden is light\" ([[MAT.11:28]]-30). Therefore, the Lord Jesus is salvation. 4:2 This statement by Moses is a commandment regarding God's commandments--a warning not to add to or take from them. This commandment is a warning against the traditions of men. In themselves, traditions are good, but the traditions of men are those that contradict and nullify the teachings of Scripture. Isaiah prophesied about the Jews of Jesus' day, who would \"teach as doctrines the commandments of men\" (Is 29:13; Mt"
     },
     {
-      "source_file": "staging/validated/OT/GEN_footnotes.md",
-      "line_number": 87,
+      "source_file": "study/footnotes/OT/GEN_footnotes.md",
+      "line_number": 65,
       "raw_match": "[[MAT.11:28]]-30",
       "reference_type": "wikilink_range",
-      "context": "in Himself ([[MAT.11:28]]-30)."
+      "context": "God finished the making of heaven and earth for man's sake. He rested from His creative activity on the seventh day to show His love and providential care for man, and to invite man to enjoy this Sabbath-rest. For as Jesus said, \"The Sabbath was made for man, and not man for the Sabbath\" ([[MRK.2:27]]). Man failed to keep this Sabbath-rest. But Jesus fulfilled it for man by resting in the tomb on Great and Holy Saturday, after He said on the cross, \"It is finished\" ([[JOH.19:30]]). For He destroyed sin and death, and rose again on the first day of the week. Through His saving work on man's behalf, He is man's Sabbath-rest, and He now invites all to find rest in Himself ([[MAT.11:28]]-30)."
     },
     {
-      "source_file": "staging/validated/OT/PSA_footnotes.md",
-      "line_number": 1667,
+      "source_file": "study/footnotes/OT/PSA_footnotes.md",
+      "line_number": 1020,
       "raw_match": "[[MAT.11:28]]-30",
       "reference_type": "wikilink_range",
-      "context": "that of the soul. The Lord offers us this kind of rest ([[MAT.11:28]]-30). What then is our part"
+      "context": "Ps 91 concerns the Sabbath day (v. 1), which speaks of rest. In this psalm, the rest is that of the soul. The Lord offers us this kind of rest ([[MAT.11:28]]-30). What then is our part in achieving such rest? Our part is to give thanks day and night for God's mercy and truth (vv. 2, 3), and to greatly rejoice in God's works in both creation and salvation (vv. 4-6). God the Father wrought these works by His two hands (v. 5), that is, by His Son and His Spirit. But who does not experience such rest of soul? People without discernment (v. 7), who work lawlessness (vv. 9, 10). What are the fruits of a soul at rest? Divine exaltation and rich mercy, especially in old age (v. 11); victory over enemies and evildoers (the devil and his angels, v. 12); and the flourishing, multiplication, blossoming, increasing, and prospering of the virtues of righteousness in one's life as one grows older (vv. 13- 15)."
     },
     {
-      "source_file": "staging/validated/OT/PSA_footnotes.md",
-      "line_number": 1777,
+      "source_file": "study/footnotes/OT/PSA_footnotes.md",
+      "line_number": 1081,
       "raw_match": "[[MAT.11:27]]-30",
       "reference_type": "wikilink_range",
-      "context": "[[MAT.11:27]]-30; Heb 3; 4). For those who hear this invitation (hear His voice, v. 7) but"
+      "context": "Ps 94 is an invitation to worship (come, vv. 1, 2, 6). This worship is called the praise of an ode (v. 1). An ode emphasizes great joy (v. 1), and praise is offered with thanksgiving (v. 2). The object of our worship is the Lord (vv. 1, 3, 6), God (vv. 1, 3, 7), and the King (v. 3). This Lord, God, and King is God the Father. His hand is the Son, who holds the ends of the earth (v. 4) and the people and sheep of the Father's pasture (that is, the Church, v. 7). The Father created the world by His two hands, that is, by the Son and the Holy Spirit (v. 5). Therefore, Ps 94 is an invitation to worship the Father, the Son, and the Holy Spirit. But those who refuse this invitation will never find rest for their souls (v. 11; see also [[MAT.11:27]]-30; Heb 3; 4). For those who hear this invitation (hear His voice, v. 7) but refuse it are like Israel during their forty-year wanderings in the desert (vv. 8-10). They hardened their hearts in rebellion by their own free will (v. 8), and we are warned not to harden our hearts (v. 8)."
     }
   ]
 }

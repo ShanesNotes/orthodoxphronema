@@ -2,15 +2,25 @@
   "anchor_id": "PSA.5:3",
   "canon_uri": "canon/OT/PSA.md#PSA.5:3",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Give heed to the voice of my supplication, My King and my God, For to You will I pray, O Lord.",
+  "pericope": {
+    "id": "PSA.P005",
+    "title": "Psalm 5",
+    "range": "PSA.5:1-5:13",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/JOB_footnotes.md",
-      "line_number": 217,
+      "source_file": "study/footnotes/OT/JOB_footnotes.md",
+      "line_number": 151,
       "raw_match": "[[PSA.5:3]]",
       "reference_type": "wikilink",
-      "context": "Resurrection in the morning ([[PSA.5:3]]) brought a new covenant of life and hope. 8:1-4 How long? The unjust cannot bear the edifying words of the righteous, but speak"
+      "context": "\"The strength of the righteous is to subdue the flesh, to love the hardships of this world for the sake of eternal rewards, to count the allurements of prosperity as nothing, and to overcome the dread of adversity in our heart\" (GrgGt). 6:18 Job's lament gives voice to Christ in His Passion, summed up when He cried out, \"My God, My God, why have You forsaken Me?\" ([[PSA.21:1]]; [[MAT.27:46]]). 7:8 I am no more speaks of death and judgment, for believers know that they \"will be lost if they are judged apart from mercy, for even this very life that we seem to live righteously is sin\" (GrgGt). 7:11 St. Gregory remarks that we are to approach confession with Job's frame of mind. 7:12 St. Hesychius comments that a guard refers to the enemy, who is allowed to afflict the righteous with hard trials. 7:20-21 Christ also asked \"why?\" while hanging on the Cross ([[MAT.27:46]]). Job looked to death for relief (v. 21), but Christ's death purged our lawlessness ([[JOH.1:29]]), and His Resurrection in the morning ([[PSA.5:3]]) brought a new covenant of life and hope."
     }
   ]
 }

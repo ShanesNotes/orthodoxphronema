@@ -2,15 +2,25 @@
   "anchor_id": "1CH.15:28",
   "canon_uri": "canon/OT/1CH.md#1CH.15:28",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Thus all of Israel brought up the ark of the covenant of the Lord with shouting and the sound of the horn, with trumpets and cymbals, making music with stringed instruments and harps.",
+  "pericope": {
+    "id": "1CH.P046",
+    "title": "The Ark Is Moved to Jerusalem",
+    "range": "1CH.15:24-16:5",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/2SA_footnotes.md",
-      "line_number": 221,
+      "source_file": "study/footnotes/OT/2SA_footnotes.md",
+      "line_number": 172,
       "raw_match": "[[1CH.15:25]]-29",
       "reference_type": "wikilink_range",
-      "context": "willing to have it enter Jerusalem after all (see [[1CH.15:25]]-29). Greeting the ark with"
+      "context": "Having seen that the ark has brought blessing to the house of a Philistine, David is willing to have it enter Jerusalem after all (see [[1CH.15:25]]-29). Greeting the ark with dancing is perhaps an import from Canaanite practices. A tabernacle (\"tent of meeting\") is pitched for the ark in Jerusalem. The distribution of the offering, and thus the blessing associated with it, is made from Dan to Beersheba (v. 19), the geographical boundaries of Israel at the height of David's rule."
     }
   ]
 }

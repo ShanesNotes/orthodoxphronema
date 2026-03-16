@@ -2,15 +2,25 @@
   "anchor_id": "1CH.21:1",
   "canon_uri": "canon/OT/1CH.md#1CH.21:1",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Now Satan stood up against Israel, and moved David to number Israel.",
+  "pericope": {
+    "id": "1CH.P055",
+    "title": "The Census of All Israel",
+    "range": "1CH.20:8-21:29",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/2SA_footnotes.md",
-      "line_number": 935,
+      "source_file": "study/footnotes/OT/2SA_footnotes.md",
+      "line_number": 731,
       "raw_match": "[[1CH.21:1]]",
       "reference_type": "wikilink",
-      "context": "Despite the protestations of Joab, David decides to take a census of the people. According to the narrator, the Lord has incited David to do this. However, in [[1CH.21:1]], it"
+      "context": "Despite the protestations of Joab, David decides to take a census of the people. According to the narrator, the Lord has incited David to do this. However, in [[1CH.21:1]], it is Satan who has done this. Certainly, the Lord can use the devil to do His bidding. Joab might be concerned about using a census to levy taxes on the people."
     }
   ]
 }

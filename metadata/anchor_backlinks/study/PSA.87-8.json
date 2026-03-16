@@ -2,15 +2,25 @@
   "anchor_id": "PSA.87:8",
   "canon_uri": "canon/OT/PSA.md#PSA.87:8",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Your wrath rested upon me, And You brought all Your billows over me. (Pause)",
+  "pericope": {
+    "id": "PSA.P087",
+    "title": "Psalm 87",
+    "range": "PSA.87:1-87:19",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/JON_footnotes.md",
-      "line_number": 104,
+      "source_file": "study/footnotes/OT/JON_footnotes.md",
+      "line_number": 82,
       "raw_match": "[[PSA.87:8]]",
       "reference_type": "wikilink",
-      "context": "into the sea was to sink down into Hades. See [[PSA.87:7]], [[PSA.87:8]]. 2:3-10"
+      "context": "To the Hebrews, the sea was a frightening place, full of chaos and death. To be cast into the sea was to sink down into Hades. See [[PSA.87:7]], [[PSA.87:8]]. 2:3-10 Jonah's prayer echoes the language and imagery of the Psalms. See especially Ps 17:5, 7; 30:23; 41:8; 49:14; 68:2, 3; 119:1."
     }
   ]
 }

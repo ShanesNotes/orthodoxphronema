@@ -2,15 +2,25 @@
   "anchor_id": "1PE.4:18",
   "canon_uri": "canon/NT/1PE.md#1PE.4:18",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Now 'If the righteous one is scarcely saved, Where will the ungodly and the sinner appear?'",
+  "pericope": {
+    "id": "1PE.P015",
+    "title": "Prepare for the End by Suffering",
+    "range": "1PE.4:11-4:18",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/PRO_footnotes.md",
-      "line_number": 832,
+      "source_file": "study/footnotes/OT/PRO_footnotes.md",
+      "line_number": 600,
       "raw_match": "[[1PE.4:18]]",
       "reference_type": "wikilink",
-      "context": "The apostle Peter quotes this verse in [[1PE.4:18]]. The righteous man suffers"
+      "context": "The apostle Peter quotes this verse in [[1PE.4:18]]. The righteous man suffers according to the will of God, but this verse encourages him constantly to commit his soul to God and His faithfulness. For the persecutor will receive his recompense in due time."
     }
   ]
 }

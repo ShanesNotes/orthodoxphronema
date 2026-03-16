@@ -1,0 +1,26 @@
+{
+  "anchor_id": "NUM.35:20",
+  "canon_uri": "canon/OT/NUM.md#NUM.35:20",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-16T02:01:16+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Or if anyone should shove someone because of enmity, or should throw any tool at him from an ambush, and that one dies,",
+  "pericope": {
+    "id": "NUM.P079",
+    "title": "Cities of Refuge",
+    "range": "NUM.35:8-35:33",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
+  "links": [
+    {
+      "source_file": "study/footnotes/OT/2SA_footnotes.md",
+      "line_number": 413,
+      "raw_match": "[[NUM.35:19]]-21",
+      "reference_type": "wikilink_range",
+      "context": "The woman's story of a blood feud between her sons parallels David's (see [[NUM.35:19]]-21 re the law of blood revenge). She presses the king to absolve this blood feud, which he does, indicative of the king's power as judge."
+    }
+  ]
+}

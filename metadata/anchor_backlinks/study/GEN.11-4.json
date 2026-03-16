@@ -2,29 +2,39 @@
   "anchor_id": "GEN.11:4",
   "canon_uri": "canon/OT/GEN.md#GEN.11:4",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "They also said, 'Come, let us build ourselves a city and a tower, whose top will reach to heaven; and let us make a name for ourselves, lest we be scattered abroad over the face of the whole earth.'",
+  "pericope": {
+    "id": "GEN.P012",
+    "title": "The Tower of Babel",
+    "range": "GEN.10:32-11:8",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/1CO_footnotes.md",
-      "line_number": 1239,
+      "source_file": "study/footnotes/NT/1CO_footnotes.md",
+      "line_number": 828,
       "raw_match": "[[GEN.11:1]]-9",
       "reference_type": "wikilink_range",
-      "context": "God judged the builders of the Tower of Babel ([[GEN.11:1]]-9), dividing their unity by"
+      "context": "In the Orthodox Church, what about one who speaks in a tongue? Historically, God judged the builders of the Tower of Babel ([[GEN.11:1]]-9), dividing their unity by confusing their language. At Pentecost Vespers we hear, \"Of old there was confusion of tongues because of the boldness of the tower builders.\" Then, \"God condemned the infidels.\" But at Pentecost, \"the Spirit of Christ illuminated the fishermen.\" At Babel, there was \"confusion of tongues.\" At Pentecost, \"the vision of tongues has been renewed.\" In the Church, as in the NT, the gift of tongues is last on the list of the gifts (12:10, 28), temporary (13:8), primarily for the edification of the one who speaks (v. 4), and difficult to understand (vv. 11, 14). St. John Chrysostom concludes that tongues are \"neither altogether useless, nor very profitable.\""
     },
     {
-      "source_file": "staging/validated/NT/ACT_footnotes.md",
-      "line_number": 153,
+      "source_file": "study/footnotes/NT/ACT_footnotes.md",
+      "line_number": 107,
       "raw_match": "[[GEN.11:1]]-9",
       "reference_type": "wikilink_range",
-      "context": "recapitulation of the events at the Tower of Babel ([[GEN.11:1]]-9). In the account of Babel,"
+      "context": "This is a fulfillment of the prophecy of [[JOL.3:1]] and a divine reversal or recapitulation of the events at the Tower of Babel ([[GEN.11:1]]-9). In the account of Babel, pride was shown to possess the awesome power to divide; here, the humble reception of the Holy Spirit is shown to have the overwhelming power to unite, even in diversity. A key lesson of Pentecost is that the people hear the gospel in their own language."
     },
     {
-      "source_file": "staging/validated/NT/REV_footnotes.md",
-      "line_number": 2493,
+      "source_file": "study/footnotes/NT/REV_footnotes.md",
+      "line_number": 1541,
       "raw_match": "[[GEN.11:4]]",
       "reference_type": "wikilink",
-      "context": "heaven (v. 5), recalling the Tower of Babel ([[GEN.11:4]]), a symbol of excessive arrogance."
+      "context": "God's people are called to come out of her so as not to partake of her punishment, destruction, and devastation (see [[NUM.33:51]]-56; Is 52:11; [[JER.27:8]]; 28:6, 46). Separation from this world is spiritual, not necessarily a physical move but a refusal to participate in the works of darkness ([[2CO.6:14]]-18). As Babylon (Rome) has proclaimed her own sovereign greatness, sitting as queen (v. 7), so her sins have reached to heaven (v. 5), recalling the Tower of Babel ([[GEN.11:4]]), a symbol of excessive arrogance. God's judgment will be swift, in one day (v. 8). In Hebrew day denotes not so much a chronological period as a completed act. 18:9, 10 The kings of the earth who committed fornication will mourn (but from a distance), stunned by the judgment of Rome and the specter of their own economic loss, when they see her devastation (see [[PSA.75:13]]; [[NAH.3:4]]-7). What happened to Sodom (Gn 19:28) and Edom (Is 34:6-10) is befalling Rome."
     }
   ]
 }

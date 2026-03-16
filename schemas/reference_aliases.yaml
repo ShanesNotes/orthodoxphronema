@@ -1,4 +1,4 @@
-version: 3
+version: 4
 biblical:
   - canonical: GEN
     aliases: [Gen, Gn, Genesis]
@@ -101,7 +101,7 @@ biblical:
   - canonical: MAT
     aliases: [Mt, Matt, Mat, Matthew, Μτ]
   - canonical: MRK
-    aliases: [Mk, Mrk, Mark, Μκ]
+    aliases: [Mk, Mrk, Mark, Mar, Μκ]
   - canonical: LUK
     aliases: [Lk, Luk, Luke, Λκ]
   - canonical: JOH
@@ -143,11 +143,11 @@ biblical:
   - canonical: 2PE
     aliases: [2Pt, 2Pet, 2Pe, 2 Peter]
   - canonical: 1JN
-    aliases: [1Jn, 1John, 1 John]
+    aliases: [1Jn, 1John, 1 John, 1Jo, 1JO]
   - canonical: 2JN
-    aliases: [2Jn, 2John, 2 John]
+    aliases: [2Jn, 2John, 2 John, 2Jo, 2JO]
   - canonical: 3JN
-    aliases: [3Jn, 3John, 3 John]
+    aliases: [3Jn, 3John, 3 John, 3Jo, 3JO]
   - canonical: JUD
     aliases: [Jude, Jud]
   - canonical: REV

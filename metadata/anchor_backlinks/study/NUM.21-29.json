@@ -2,15 +2,25 @@
   "anchor_id": "NUM.21:29",
   "canon_uri": "canon/OT/NUM.md#NUM.21:29",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Woe to you, Moab! You were destroyed, O people of Chemosh!",
+  "pericope": {
+    "id": "NUM.P051",
+    "title": "Defeat of King Sihon and King Og",
+    "range": "NUM.21:20-21:34",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/JDG_footnotes.md",
-      "line_number": 437,
+      "source_file": "study/footnotes/OT/JDG_footnotes.md",
+      "line_number": 344,
       "raw_match": "[[NUM.21:29]]",
       "reference_type": "wikilink",
-      "context": "Chemosh of Moab ([[NUM.21:29]]; 25:3; 3Kg 11:7, 33), Melek (Molech, Milcom) of Ammon"
+      "context": "Tola saved (judged) Israel, and Jair helped sustain the forty-five years of peace Israel enjoyed. But Israel fell into idolatry and evil again, and the Lord, for their sake, delivered them into the hands of the Philistines, later to be invaded by the Ammonites (v. 7). The false gods Israel served included Ashtoreth of Sidon (3Kg 11:5, 33), Baal-peor and Chemosh of Moab ([[NUM.21:29]]; 25:3; 3Kg 11:7, 33), Melek (Molech, Milcom) of Ammon (Lv 18:21; 3Kg 11:5, 7, 33), and Dagon and Beelzebub, gods of the Philistines (16:23; 1Kg 5:2-7; [[2KI.1:2]]-3). Molech was particularly known as a god requiring human sacrifice (Lv"
     }
   ]
 }

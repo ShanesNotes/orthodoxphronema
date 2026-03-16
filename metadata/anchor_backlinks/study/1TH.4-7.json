@@ -2,15 +2,25 @@
   "anchor_id": "1TH.4:7",
   "canon_uri": "canon/NT/1TH.md#1TH.4:7",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "For God did not call us to uncleanness, but in holiness.",
+  "pericope": {
+    "id": "1TH.P006",
+    "title": "Reminders Concerning Holiness",
+    "range": "1TH.3:13-4:11",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/LEV_footnotes.md",
-      "line_number": 716,
+      "source_file": "study/footnotes/OT/LEV_footnotes.md",
+      "line_number": 413,
       "raw_match": "[[1TH.4:7]]",
       "reference_type": "wikilink",
-      "context": "eyes of God. \"God did not call us to uncleanness, but to holiness\" ([[1TH.4:7]])."
+      "context": "A person with leprosy was pronounced unclean. Similarly, all sin is unclean in the eyes of God. \"God did not call us to uncleanness, but to holiness\" ([[1TH.4:7]])."
     }
   ]
 }

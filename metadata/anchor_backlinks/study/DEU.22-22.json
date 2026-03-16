@@ -2,15 +2,25 @@
   "anchor_id": "DEU.22:22",
   "canon_uri": "canon/OT/DEU.md#DEU.22:22",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "'If a man is found lying with a married woman, then you shall kill both of them-the man that lay with the woman and the woman; so you shall put away the evil from Israel.",
+  "pericope": {
+    "id": "DEU.P048",
+    "title": "Maintaining Sexual Purity",
+    "range": "DEU.22:12-22:28",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/HOS_footnotes.md",
-      "line_number": 76,
+      "source_file": "study/footnotes/OT/HOS_footnotes.md",
+      "line_number": 61,
       "raw_match": "[[DEU.22:22]]",
       "reference_type": "wikilink",
-      "context": "adulteress ([[EZK.16:39]], [[EZK.16:40]]; Lv 20:10; [[DEU.22:22]]). Perhaps this means Israel would"
+      "context": "Strip her naked: An act of humiliation preceding capital punishment of an adulteress ([[EZK.16:39]], [[EZK.16:40]]; Lv 20:10; [[DEU.22:22]]). Perhaps this means Israel would experience humiliation during the Assyrian exile, beginning in 722 BC."
     }
   ]
 }

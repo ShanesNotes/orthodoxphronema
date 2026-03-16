@@ -2,22 +2,32 @@
   "anchor_id": "1TI.2:4",
   "canon_uri": "canon/NT/1TI.md#1TI.2:4",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "who desires all men to be saved and to come to the knowledge of the truth.",
+  "pericope": {
+    "id": "1TI.P007",
+    "title": "Faithfulness in Prayer",
+    "range": "1TI.2:1-2:4",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/EPH_footnotes.md",
-      "line_number": 49,
+      "source_file": "study/footnotes/NT/EPH_footnotes.md",
+      "line_number": 33,
       "raw_match": "[[1TI.2:4]]",
       "reference_type": "wikilink",
-      "context": "will in salvation but the will of God, which is that all are chosen (see [[ROM.11:32]]; [[1TI.2:4]];"
+      "context": "Everything comes from God, and everything should be drawn back to Him. God's original intent for the Incarnation was not redemption from the Fall but adoption as sons of God (v. 5), that is, deification. For when God contemplated creating the world, He planned on bringing it into union with Himself through the Incarnation of His Son, that is, through the Son's union with human nature. That is why St. Athanasius can say, \"God became man that man might become god.\" The Father chose us (v. 4) in Him, the Son. Christ, who is God by nature, became Man by choice. If we choose Him, we, who are human by nature, become \"gods\" by grace. If we are in Christ, the Son of God, we are sons of God. Paul is not addressing individuals as such but us, the community, the Church. And he is not addressing the issue of human will in salvation but the will of God, which is that all are chosen (see [[ROM.11:32]]; [[1TI.2:4]]; [[2PE.3:9]]). But being predestined (v. 5) by God does not nullify human will: in everything, God is the originator, the initiator; we merely respond, but our response is necessary. Becoming a Christian is not so much inviting Christ into one's life as getting oneself into Christ's life. What is true of Christ must become true of one who is in Him."
     },
     {
-      "source_file": "staging/validated/OT/EZK_footnotes.md",
-      "line_number": 260,
+      "source_file": "study/footnotes/OT/EZK_footnotes.md",
+      "line_number": 265,
       "raw_match": "[[1TI.2:4]]",
       "reference_type": "wikilink",
-      "context": "See [[1TI.2:4]]. 19:1-14 The mother lion refers to Judah. The two young lions (v. 5) are Jehoahaz and"
+      "context": "See [[1TI.2:4]]."
     }
   ]
 }

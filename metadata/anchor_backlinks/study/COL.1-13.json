@@ -2,22 +2,32 @@
   "anchor_id": "COL.1:13",
   "canon_uri": "canon/NT/COL.md#COL.1:13",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "He has delivered us from the power of darkness and conveyed us into the kingdom of the Son of His love,",
+  "pericope": {
+    "id": "COL.P003",
+    "title": "Petition for Continued Growth",
+    "range": "COL.1:7-1:13",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/2CO_footnotes.md",
-      "line_number": 323,
-      "raw_match": "[[COL.1:13]]",
-      "reference_type": "wikilink",
-      "context": "death to life, from darkness to light ([[JOH.3:1]]-6; [[COL.1:13]], [[COL.1:14]]), through repentance, faith,"
-    },
-    {
-      "source_file": "staging/validated/OT/LEV_articles.md",
+      "source_file": "study/articles/OT/LEV_articles.md",
       "line_number": 21,
       "raw_match": "[[COL.1:13]]",
       "reference_type": "wikilink",
-      "context": "In the Old Testament animal sacrifices, the blood shed and poured out represented the lifeforce of the animal offered to God ([[GEN.9:4]]; Lv 17:11; [[DEU.12:23]]). The animal was more than simply a substitute for the worshiper. There was also identification between the animal sacrificed and the one on whose behalf it was offered, explaining the emphasis in the Old Testament on the blood of the sacrifice ([[EXO.12:13]]; 24:4-8; 29:15-21; 30:1-10; Lv 14:24, 25; [[NUM.19:1]]-4). These sacrifices point to the blood of Christ in the New Testament: 'My blood of the new covenant, which is shed for many for the remission of sins' ([[MAT.26:28]]; see also Acts On the Day of Atonement, the preeminent Old Testament sacrifice was made. It was to atone for all the sins the nation of Israel had committed that year (Lv 16:2-34). The ceremony included (1) animal sacrifices as offerings for sins, and (2) the placing of 'all the transgressions of the children of Israel... on the head of the living kid'-the scapegoatwhich was then driven off into the wilderness (Lv 16:21). This event prefigures the once-forall self-sacrifice of Christ, our great High Priest (Heb 4:14-5:10; 10:19-22), who takes upon Himself all the sins of all humanity (Is 53:11, 12; [[JOH.1:29]]; [[2CO.5:21]]; [[1PE.2:24]]), tramples down death by His voluntary Death on the cross, and thereby reconciles us to God (Is 53:5; [[GAL.3:13]], [[GAL.3:14]]; [[COL.1:13]], [[COL.1:14]]; [[TIT.2:13]], [[TIT.2:14]]; [[1PE.3:18]]). #### The New Covenant"
+      "context": "In the Old Testament animal sacrifices, the blood shed and poured out represented the life-force of the animal offered to God ([[GEN.9:4]]; [[LEV.17:11]]; [[DEU.12:23]]). The animal was more than simply a substitute for the worshiper. There was also identification between the animal sacrificed and the one on whose behalf it was offered, explaining the emphasis in the Old Testament on the blood of the sacrifice ([[EXO.12:13]]; 24:4-8; 29:15-21; 30:1-10; [[LEV.14:24]], 25; [[NUM.19:1]]-4). These sacrifices point to the blood of Christ in the New Testament: 'My blood of the new covenant, which is shed for many for the remission of sins' ([[MAT.26:28]]; see also Acts On the Day of Atonement, the preeminent Old Testament sacrifice was made. It was to atone for all the sins the nation of Israel had committed that year ([[LEV.16:2]]-34). The ceremony included (1) animal sacrifices as offerings for sins, and (2) the placing of 'all the transgressions of the children of Israel... on the head of the living kid'-the scapegoat\u2014which was then driven off into the wilderness ([[LEV.16:21]]). This event prefigures the once-for-all self-sacrifice of Christ, our great High Priest ([[HEB.4:14]]-5:10; 10:19-22), who takes upon Himself all the sins of all humanity ([[ISA.53:11]], 12; [[JOH.1:29]]; [[2CO.5:21]]; [[1PE.2:24]]), tramples down death by His voluntary Death on the cross, and thereby reconciles us to God ([[ISA.53:5]]; [[GAL.3:13]], [[GAL.3:14]]; [[COL.1:13]], [[COL.1:14]]; [[TIT.2:13]], [[TIT.2:14]]; [[1PE.3:18]])."
+    },
+    {
+      "source_file": "study/footnotes/NT/2CO_footnotes.md",
+      "line_number": 214,
+      "raw_match": "[[COL.1:13]]",
+      "reference_type": "wikilink",
+      "context": "The Orthodox Faith teaches that salvation in Christ includes: (1) a passage from death to life, from darkness to light ([[JOH.3:1]]-6; [[COL.1:13]], [[COL.1:14]]), through repentance, faith, and baptism (\"I have been saved\"); (2) a process of spiritual growth and maturation (2Pt 1:2-8) through ongoing repentance, faith, and communion, often called deification (\"I am being saved\"); and (3) a promise of eternal life (5:9-11; [[JOH.14:1]]-6), calling us to perseverance and righteousness (\"I shall be saved\"). It is this second element, the process of our salvation, that Paul describes here, saying that our inner life is being renewed day by day."
     }
   ]
 }

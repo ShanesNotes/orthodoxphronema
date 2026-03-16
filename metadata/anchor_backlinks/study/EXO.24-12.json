@@ -2,15 +2,25 @@
   "anchor_id": "EXO.24:12",
   "canon_uri": "canon/OT/EXO.md#EXO.24:12",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Then the Lord said to Moses, 'Come up to Me on the mountain and be there; and I will give you tablets of stone and the law and commandments I wrote, that you may teach them.'",
+  "pericope": {
+    "id": "EXO.P049",
+    "title": "Moses with God on Mount Sinai",
+    "range": "EXO.24:8-24:17",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/HOS_footnotes.md",
-      "line_number": 304,
+      "source_file": "study/footnotes/OT/HOS_footnotes.md",
+      "line_number": 232,
       "raw_match": "[[EXO.24:12]]",
       "reference_type": "wikilink",
-      "context": "eighth century BC the Torah (\"instruction\" or \"law\"; [[EXO.24:12]]; 34:1) was circulated, at"
+      "context": "A multitude of statutes: This saying is one of the earliest evidences that by the eighth century BC the Torah (\"instruction\" or \"law\"; [[EXO.24:12]]; 34:1) was circulated, at least partially, in a written form."
     }
   ]
 }

@@ -2,15 +2,25 @@
   "anchor_id": "EZK.25:4",
   "canon_uri": "canon/OT/EZK.md#EZK.25:4",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "therefore, behold, I shall deliver you over to the children of Kedem as an inheritance. They will dwell among you with their goods and pitch their tents among you. They will eat your fruit and drink your drinks.",
+  "pericope": {
+    "id": "EZK.P036",
+    "title": "Judgment on the Gentile Nations: Ammon",
+    "range": "EZK.25:1-25:6",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/JER_footnotes.md",
-      "line_number": 933,
+      "source_file": "study/footnotes/OT/JER_footnotes.md",
+      "line_number": 715,
       "raw_match": "[[EZK.25:4]]",
       "reference_type": "wikilink",
-      "context": "were associated with the Ammonites (see [[EZK.25:4]], [[EZK.25:10]])."
+      "context": "Kedar: The descendants of the son of Ishmael ([[GEN.25:13]]). The sons of Kedem were associated with the Ammonites (see [[EZK.25:4]], [[EZK.25:10]])."
     }
   ]
 }

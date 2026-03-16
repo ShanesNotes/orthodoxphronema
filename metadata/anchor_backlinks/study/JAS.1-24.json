@@ -2,15 +2,25 @@
   "anchor_id": "JAS.1:24",
   "canon_uri": "canon/NT/JAS.md#JAS.1:24",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "for he observes himself, goes away, and immediately forgets what kind of man he was.",
+  "pericope": {
+    "id": "JAS.P004",
+    "title": "The Corrective: Hear and Do",
+    "range": "JAS.1:18-1:26",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/2CO_footnotes.md",
-      "line_number": 265,
+      "source_file": "study/footnotes/NT/2CO_footnotes.md",
+      "line_number": 173,
       "raw_match": "[[JAS.1:23]]-25",
       "reference_type": "wikilink_range",
-      "context": "humanity (see [[1CO.13:12]]; [[JAS.1:23]]-25) and (2) in the power of the Spirit. As we behold"
+      "context": "The work of the Holy Spirit brings liberty (v. 17), freeing us to behold God and have open access to Him. Created as the image of God, we see His uncreated image, the Son, the glory of the Lord (v. 18; see 4:4-6), in two ways: (1) through the Son's deified humanity (see [[1CO.13:12]]; [[JAS.1:23]]-25) and (2) in the power of the Spirit. As we behold Him, we become what we were created to be. God is infinite; therefore, growing in His image and glory has no limits. We shall ever see God more clearly and ever be transformed into His likeness."
     }
   ]
 }

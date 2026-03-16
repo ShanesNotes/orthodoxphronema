@@ -2,22 +2,32 @@
   "anchor_id": "MAT.5:10",
   "canon_uri": "canon/NT/MAT.md#MAT.5:10",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Blessed are those who are persecuted for righteousness' sake, For theirs is the kingdom of heaven.",
+  "pericope": {
+    "id": "MAT.P011",
+    "title": "The Beatitudes: The Blessings of True Discipleship",
+    "range": "MAT.4:25-5:15",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/GEN_footnotes.md",
-      "line_number": 1889,
+      "source_file": "study/footnotes/OT/GEN_footnotes.md",
+      "line_number": 1399,
       "raw_match": "[[MAT.5:10]]",
       "reference_type": "wikilink",
-      "context": "was a blessed man ([[MAT.5:10]])."
+      "context": "Joseph suffered for righteousness' sake; therefore, the Lord was with him. Truly, he was a blessed man ([[MAT.5:10]])."
     },
     {
-      "source_file": "staging/validated/OT/JOB_footnotes.md",
-      "line_number": 56,
+      "source_file": "study/footnotes/OT/JOB_footnotes.md",
+      "line_number": 39,
       "raw_match": "[[MAT.5:10]]",
       "reference_type": "wikilink",
-      "context": "([[MAT.5:10]])."
+      "context": "The devil accuses the righteous before God \"day and night\" ([[REV.12:10]]). With God's permission, he pummels our minds with evil thoughts and weakens our bodies with pain and illness, ever seeking to influence us towards evil. But through hardship, the righteous are clothed in the \"whole armor of God\" ([[EPH.6:13]]). We are called to \"glory in tribulations\" ([[ROM.5:3]]), knowing that we are to walk in obedience to Christ's commands ([[MAT.5:10]])."
     }
   ]
 }

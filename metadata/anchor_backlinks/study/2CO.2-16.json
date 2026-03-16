@@ -2,15 +2,25 @@
   "anchor_id": "2CO.2:16",
   "canon_uri": "canon/NT/2CO.md#2CO.2:16",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "To the one we are the aroma of death leading to death, and to the other the aroma of life leading to life. And who is sufficient for these things?",
+  "pericope": {
+    "id": "2CO.P008",
+    "title": "God Triumphs in His Apostles",
+    "range": "2CO.2:11-2:16",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/SNG_footnotes.md",
-      "line_number": 53,
+      "source_file": "study/footnotes/OT/SNG_footnotes.md",
+      "line_number": 38,
       "raw_match": "[[2CO.2:15]]-17",
       "reference_type": "wikilink_range",
-      "context": "virtues have this fragrance of Christ, according to St. Paul ([[2CO.2:15]]-17). The young"
+      "context": "The Holy Spirit is Himself the ointment of the Lord. In the Nicene Creed, Christ \"became incarnate of the Holy Spirit and the Virgin Mary\" (whose name means \"myrrh\"). The smells of His ointments are the gifts of the Spirit. Likewise, the saints in their virtues have this fragrance of Christ, according to St. Paul ([[2CO.2:15]]-17). The young maidens are Christ's chosen ones, born again through holy baptism."
     }
   ]
 }

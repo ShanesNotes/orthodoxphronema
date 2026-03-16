@@ -2,15 +2,25 @@
   "anchor_id": "JER.27:29",
   "canon_uri": "canon/OT/JER.md#JER.27:29",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Summon many against Babylon, even all who bend the bow. Encamp against it round about; let no one be saved from her. Repay her according to her works, and whatever she did, so do to her, for she opposed the Lord, the Holy God of Israel.",
+  "pericope": {
+    "id": "JER.P050",
+    "title": "Seventy Years of Disgrace",
+    "range": "JER.24:10-38:39",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/REV_footnotes.md",
-      "line_number": 1055,
+      "source_file": "study/footnotes/NT/REV_footnotes.md",
+      "line_number": 650,
       "raw_match": "[[JER.27:29]]",
       "reference_type": "wikilink",
-      "context": "power of adversaries ([[JER.27:29]]; [[EZK.5:15]]). Jesus taught \"nation will rise against nation\""
+      "context": "The first rider (on the white horse, carrying a bow) represents the spirit of conquest, reminiscent of fierce divine judgment in the OT, usually wrought through the military power of adversaries ([[JER.27:29]]; [[EZK.5:15]]). Jesus taught \"nation will rise against nation\" ([[MAT.24:7]]). The figure here probably represents liberators of the oppressed people of God."
     }
   ]
 }

@@ -2,29 +2,39 @@
   "anchor_id": "MAT.6:15",
   "canon_uri": "canon/NT/MAT.md#MAT.6:15",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "But if you do not forgive men their trespasses, neither will your Father forgive your trespasses.",
+  "pericope": {
+    "id": "MAT.P015",
+    "title": "How to Fast",
+    "range": "MAT.6:15-6:33",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/1JN_footnotes.md",
-      "line_number": 177,
+      "source_file": "study/footnotes/NT/1JN_footnotes.md",
+      "line_number": 111,
       "raw_match": "[[MAT.6:1]]-18",
       "reference_type": "wikilink_range",
-      "context": "almsgiving (see [[MAT.6:1]]-18)--help us overcome these distortions and live lives of virtue."
+      "context": "The world distorts every realm of God's good creation (see [[JAS.1:13]], [[JAS.1:14]]). There are (1) sensual pleasures of the flesh (physical passions), (2) intellectual attainments and capacities of the eyes (the soul's passions), and (3) inordinate possessions, power, and honors of life (the pride of human spirit). Biblical ascetic practices--prayer, fasting, almsgiving (see [[MAT.6:1]]-18)--help us overcome these distortions and live lives of virtue."
     },
     {
-      "source_file": "staging/validated/OT/JER_footnotes.md",
-      "line_number": 1257,
+      "source_file": "study/footnotes/OT/JER_footnotes.md",
+      "line_number": 986,
       "raw_match": "[[MAT.6:15]]",
       "reference_type": "wikilink",
-      "context": "([[MAT.6:14]], [[MAT.6:15]]). If we want to become great in the kingdom of God, we must become"
+      "context": "Jeremiah reiterates the prophecy of the coming destruction of the land, linking it this time to slavery and servitude. For Christians, this is a lesson in forgiveness and becoming the servants of others. For, if we do not forgive others, God will not forgive us ([[MAT.6:14]], [[MAT.6:15]]). If we want to become great in the kingdom of God, we must become servants to others ([[MRK.10:43]], [[MRK.10:44]])."
     },
     {
-      "source_file": "staging/validated/OT/SIR_footnotes.md",
-      "line_number": 982,
+      "source_file": "study/footnotes/OT/SIR_footnotes.md",
+      "line_number": 760,
       "raw_match": "[[MAT.6:15]]",
       "reference_type": "wikilink",
-      "context": "The Lord Jesus Christ echoed this truth in His Sermon on the Mount ([[MAT.6:14]], [[MAT.6:15]]). It"
+      "context": "The Lord Jesus Christ echoed this truth in His Sermon on the Mount ([[MAT.6:14]], [[MAT.6:15]]). It is not that God's grace and forgiveness are somehow purchased or earned by our first forgiving others. Rather, our unforgiveness prevents us from having the humility to receive God's mercy and forgiveness."
     }
   ]
 }

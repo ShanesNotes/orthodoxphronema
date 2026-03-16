@@ -2,15 +2,25 @@
   "anchor_id": "PSA.16:8",
   "canon_uri": "canon/OT/PSA.md#PSA.16:8",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Keep me as the apple of Your eye; In the shelter of Your wings, You will shelter me",
+  "pericope": {
+    "id": "PSA.P016",
+    "title": "Psalm 16",
+    "range": "PSA.16:1-16:15",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/SNG_footnotes.md",
-      "line_number": 192,
+      "source_file": "study/footnotes/OT/SNG_footnotes.md",
+      "line_number": 145,
       "raw_match": "[[PSA.16:8]]",
       "reference_type": "wikilink",
-      "context": "([[DEU.32:10]]; [[PSA.16:8]]; [[ZEC.2:12]]). Christ the beloved far surpasses in glory the sons, the"
+      "context": "The Bride now speaks, exalting the Bridegroom. Of all the trees of the woods, the apple tree gives nourishment with sweet fruit. In Scripture, the apple is a symbol of favor ([[DEU.32:10]]; [[PSA.16:8]]; [[ZEC.2:12]]). Christ the beloved far surpasses in glory the sons, the righteous, for they become by grace what He is by nature. His commandments are sweet to those who thirst for the living Word ([[PSA.118:103]])."
     }
   ]
 }

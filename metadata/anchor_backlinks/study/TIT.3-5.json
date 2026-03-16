@@ -2,36 +2,46 @@
   "anchor_id": "TIT.3:5",
   "canon_uri": "canon/NT/TIT.md#TIT.3:5",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "not by works of righteousness which we have done, but according to His mercy He saved us, through the washing of regeneration and renewing of the Holy Spirit,",
+  "pericope": {
+    "id": "TIT.P007",
+    "title": "God's Kindness to Us",
+    "range": "TIT.3:2-3:7",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/1PE_footnotes.md",
-      "line_number": 73,
-      "raw_match": "[[TIT.3:5]]",
-      "reference_type": "wikilink",
-      "context": "see also the \"washing of regeneration\" in [[TIT.3:5]], where baptism and God's mercy are"
-    },
-    {
-      "source_file": "staging/validated/NT/2TI_footnotes.md",
-      "line_number": 37,
-      "raw_match": "[[TIT.3:5]]",
-      "reference_type": "wikilink",
-      "context": "done to merit God's favor ([[EPH.2:8]]-10; [[TIT.3:5]], [[TIT.3:6]])."
-    },
-    {
-      "source_file": "staging/validated/NT/JOH_articles.md",
+      "source_file": "study/articles/NT/JOH_articles.md",
       "line_number": 37,
       "raw_match": "[[TIT.3:5]]",
       "reference_type": "wikilink",
       "context": "E arly in His ministry, Jesus revealed the way to enter God's eternal Kingdom. We must be 'born again' (3:3), a birth from above realized by water and the Spirit. In His conversation with Nicodemus, Christ states, 'Unless one is born of water and the Spirit, he cannot enter the kingdom of God' (3:5). From the beginning, the Church has recognized the 'water' to be the water of baptism, 'the Spirit' to be the Holy Spirit. Therefore, the new birth consists of being joined to Christ in the water of baptism and receiving the Holy Spirit through anointing or 'chrismation.' Salvation, then, is more than forgiveness of sins, more than a mental acceptance of Christ and His teachings. For in salvation we are given union with God through Christ, a right and full relationship with the Holy Trinity, and the restoration of our full humanity. All these things are accomplished through the Incarnation, the union of God and man in the Person of Jesus Christ. Salvation, then, is founded on a substantial union of the believer with Christ in His full humanity, a flesh-to-flesh relationship. Paul likens it to the joining of husband and wife ([[EPH.5:23]]-32). Throughout their epistles, the apostles remind us the new birth is necessary for salvation. We die to sin; then, buried with Christ and risen with Him, we are united to Christ and to His body, the Church. We are cleansed, justified, and sanctified-all in baptism, 'the washing of regeneration and renewing of the Holy Spirit' ([[TIT.3:5]]). Without our repentance and faith, however, immersion in water would be of no effect. Some Christians bypass baptism and stress only faith. Why is the mystery of the water necessary? Because just as Christ actually died on a cross, was buried, and rose again-all through His faith and God's grace-so we must actually be immersed in the sacramental waters of baptism, made effectual through our faith and God's grace. The basic form of baptism is simple. The person to be born again, joined to Christ, is immersed in the water three times in the name of the Father and of the Son and of the Holy Spirit (see [[MAT.28:19]]). The first-century Didache teaches, 'If you do not have running water, use whatever is available. And if you cannot do it in cold water, use warm. But if you have neither, pour water on the head three times-in the name of Father, Son and Holy Spirit.' In the new birth, a true mystery takes place. For in the sacrament of baptism, we die, going down into the water to be mystically united to Christ in His death, and we live again, rising up out of the water in His resurrected humanity. In short, we are born again."
     },
     {
-      "source_file": "staging/validated/NT/JOH_footnotes.md",
-      "line_number": 133,
+      "source_file": "study/footnotes/NT/1PE_footnotes.md",
+      "line_number": 47,
+      "raw_match": "[[TIT.3:5]]",
+      "reference_type": "wikilink",
+      "context": "We are begotten... again to a living hope in baptism. As Jesus told Nicodemus, we enter the Kingdom of God by being \"born of water and the Spirit\" ([[JOH.3:5]]). This new birth in baptism unites us with Christ and His resurrection ([[ROM.6:3]]). The words and actions of Peter also confirm this sacramental reality (see [[ACT.2:37]], [[ACT.2:38]], [[ACT.2:41]]; 10:43, 47, 48; see also the \"washing of regeneration\" in [[TIT.3:5]], where baptism and God's mercy are coupled). Here the sacrament of baptism (vv. 3-6) is the power by which we suffer faithfully (vv. 7-9). Being regenerated, given new life in Christ, we have a hope by which to live. This grace of God sustains us in the trials of life. (Verses 3-12 in the original constitute one long sentence.)"
+    },
+    {
+      "source_file": "study/footnotes/NT/2TI_footnotes.md",
+      "line_number": 29,
+      "raw_match": "[[TIT.3:5]]",
+      "reference_type": "wikilink",
+      "context": "Our salvation and calling are based on His grace and love, not on anything we have done to merit God's favor ([[EPH.2:8]]-10; [[TIT.3:5]], [[TIT.3:6]])."
+    },
+    {
+      "source_file": "study/footnotes/NT/JOH_footnotes.md",
+      "line_number": 87,
       "raw_match": "[[TIT.3:4]]-7",
       "reference_type": "wikilink_range",
-      "context": "sacrament of Holy Baptism (3:5-8; see [[TIT.3:4]]-7)."
+      "context": "Adoption as a child of God is not a matter of ethnic descent (of blood) as it was in the OT; nor are we children of God simply by natural birth (the will of the flesh), nor by man's own decision (the will of man). Becoming a child of God is a spiritual birth by grace, through faith, and in the Holy Spirit. This is accomplished and manifested in the sacrament of Holy Baptism (3:5-8; see [[TIT.3:4]]-7)."
     }
   ]
 }

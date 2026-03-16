@@ -2,15 +2,25 @@
   "anchor_id": "PSA.97:6",
   "canon_uri": "canon/OT/PSA.md#PSA.97:6",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "With trumpets of metal and the sound of a trumpet of horn, Shout aloud before the Lord our King.",
+  "pericope": {
+    "id": "PSA.P097",
+    "title": "Psalm 97",
+    "range": "PSA.97:1-97:9",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/REV_footnotes.md",
-      "line_number": 1221,
+      "source_file": "study/footnotes/NT/REV_footnotes.md",
+      "line_number": 755,
       "raw_match": "[[PSA.97:6]]",
       "reference_type": "wikilink",
-      "context": "16:6; [[PSA.97:6]])."
+      "context": "The seven angels receive the seven trumpets. These bodiless powers represent the OT priests, who also sounded their trumpets during the temple liturgy (see [[JOS.6:12]]; 1Ch 16:6; [[PSA.97:6]])."
     }
   ]
 }

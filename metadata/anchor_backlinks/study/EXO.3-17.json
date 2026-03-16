@@ -2,15 +2,25 @@
   "anchor_id": "EXO.3:17",
   "canon_uri": "canon/OT/EXO.md#EXO.3:17",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "and I will bring you up out of the affliction of Egypt to the land of the Canaanites, the Hittites, the Amorites, the Perizzites, the Gergesites, the Hivites, and the Jebusites, to a land flowing with milk and honey.' '",
+  "pericope": {
+    "id": "EXO.P004",
+    "title": "The Burning Bush",
+    "range": "EXO.2:25-3:21",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/SNG_footnotes.md",
-      "line_number": 489,
+      "source_file": "study/footnotes/OT/SNG_footnotes.md",
+      "line_number": 374,
       "raw_match": "[[EXO.3:17]]",
       "reference_type": "wikilink",
-      "context": "Land ([[EXO.3:8]], [[EXO.3:17]]; 13:5; 33:3; Lv 20:24; [[JOS.5:6]]; Jer 11:5, 39:22; [[EZK.20:6]], [[EZK.20:15]]), but bread"
+      "context": "Milk and honey together signified the overabundance of delights in the Promised Land ([[EXO.3:8]], [[EXO.3:17]]; 13:5; 33:3; Lv 20:24; [[JOS.5:6]]; [[JER.11:5]], 39:22; [[EZK.20:6]], [[EZK.20:15]]), but bread and wine comprise the image of the marriage supper of the Lamb ([[REV.19:9]]), the Holy Eucharist. In the Church, friends and brothers are invited to eat and drink."
     }
   ]
 }

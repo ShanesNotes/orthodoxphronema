@@ -2,11 +2,21 @@
   "anchor_id": "EPH.6:21",
   "canon_uri": "canon/NT/EPH.md#EPH.6:21",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "But that you also may know my affairs and how I am doing, Tychicus, a beloved brother and faithful minister in the Lord, will make all things known to you;",
+  "pericope": {
+    "id": "EPH.P019",
+    "title": "Commendation and Benediction",
+    "range": "EPH.6:17-6:24",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/LUK_articles.md",
+      "source_file": "study/articles/NT/LUK_articles.md",
       "line_number": 38,
       "raw_match": "[[EPH.6:21]]",
       "reference_type": "wikilink",

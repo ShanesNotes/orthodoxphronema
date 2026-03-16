@@ -371,7 +371,7 @@ Spirit, the strong wind that blew on the Apostles beginning in the upper room ([
 *(anchor: SNG.5:1)*
 
 Milk and honey together signified the overabundance of delights in the Promised
-Land ([[EXO.3:8]], [[EXO.3:17]]; 13:5; 33:3; Lv 20:24; [[JOS.5:6]]; Jer 11:5, 39:22; [[EZK.20:6]], [[EZK.20:15]]), but bread
+Land ([[EXO.3:8]], [[EXO.3:17]]; 13:5; 33:3; Lv 20:24; [[JOS.5:6]]; [[JER.11:5]], 39:22; [[EZK.20:6]], [[EZK.20:15]]), but bread
 and wine comprise the image of the marriage supper of the Lamb ([[REV.19:9]]), the Holy
 Eucharist. In the Church, friends and brothers are invited to eat and drink. 
 

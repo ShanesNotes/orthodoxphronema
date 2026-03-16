@@ -2,15 +2,25 @@
   "anchor_id": "JDG.16:25",
   "canon_uri": "canon/OT/JDG.md#JDG.16:25",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "And when their heart was merry, they said, 'Call Samson out of the guard house, and let him play before us.' So they called Samson from the prison house, and he played before them. And they slapped him and stationed him between the pillars.",
+  "pericope": {
+    "id": "JDG.P036",
+    "title": "Death of Samson",
+    "range": "JDG.16:21-16:30",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/1MA_footnotes.md",
-      "line_number": 351,
+      "source_file": "study/footnotes/OT/1MA_footnotes.md",
+      "line_number": 274,
       "raw_match": "[[JDG.16:21]]-30",
       "reference_type": "wikilink_range",
-      "context": "mentioned in the Bible, one at Gaza ([[JDG.16:21]]-30) and one at Ashdod (1Kg 5:5; 1Ch"
+      "context": "Dagon (lit. \"a fish\") was one of the gods of the Philistines, a seafaring people, and was represented by a man's torso with the tail of a fish. Dagon had two temples mentioned in the Bible, one at Gaza ([[JDG.16:21]]-30) and one at Ashdod (1Kg 5:5; 1Ch 10:10)."
     }
   ]
 }

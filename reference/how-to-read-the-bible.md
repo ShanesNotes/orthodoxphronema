@@ -9,7 +9,7 @@ extracted: 2026-03-14
 
 HOW TO READ THE BIBLE
 By The Right Reverend KALLISTOS, Bishop of Diokleia
-"All Scripture is inspired by God" (2Ti 3:16)
+"All Scripture is inspired by God" ([[2TI.3:16]])
 
 "If an earthly king, our emperor," says Saint Tikhon of Zadonsk (1724–83), "wrote you a
 letter, would you not read it with joy? Certainly, with great rejoicing and careful attention."
@@ -54,9 +54,9 @@ Scripture, with the same message throughout—one composite and yet single story
 Genesis to Revelation.
 At the same time, however, the Bible is also humanly expressed. It is an entire library of
 distinct writings, composed at varying times, by different persons in widely diverse situations.
-We find God speaking here "in many and various ways" (Heb 1:1). Each work in the Bible
+We find God speaking here "in many and various ways" ([[HEB.1:1]]). Each work in the Bible
 reflects the outlook of the age in which it was written and the particular viewpoint of the
-author. For God does not abolish our created personhood but enhances it. Divine grace cooperates with human freedom: we are "fellow-workers," "co-operators" with God (1Co 3:9). In
+author. For God does not abolish our created personhood but enhances it. Divine grace cooperates with human freedom: we are "fellow-workers," "co-operators" with God ([[1CO.3:9]]). In
 the words of the second-century Letter to Diognetus, "God persuades, He does not compel;
 for violence is foreign to the divine nature." So it is precisely in the writing of inspired
 Scripture. The author of each book was not just a passive instrument, a flute played by the
@@ -122,14 +122,14 @@ today. Such is also to be our attitude to Scripture—an attitude of openness an
 receptivity, our hands invisibly outstretched to heaven.
 As we read our Bible, then, we are to model ourselves in this way on the Blessed Virgin
 Mary, for she is supremely the one who listens. At the Annunciation, listening to the angel
-she responds obediently, "Let it be to me according to your word" (Lk 1:38). Had she not first
+she responds obediently, "Let it be to me according to your word" ([[LUK.1:38]]). Had she not first
 listened to God's word and received it spiritually in her heart, she would never have borne the
 Word of God bodily in her womb. Receptive listening continues to be her attitude throughout
 the Gospel story. At Christ's nativity, after the adoration of the shepherds, "Mary kept all
-these things, pondering them in her heart" (Lk 2:19). After the visit to Jerusalem when Jesus
-was twelve years old, "His Mother kept all these things in her heart" (Lk 2:51). The vital
+these things, pondering them in her heart" ([[LUK.2:19]]). After the visit to Jerusalem when Jesus
+was twelve years old, "His Mother kept all these things in her heart" ([[LUK.2:51]]). The vital
 importance of listening is also indicated in the last words attributed to the Theotokos in Holy
-Scripture, at the wedding feast in Cana of Galilee. "Do whatever He tells you" (Jn 2:5), she
+Scripture, at the wedding feast in Cana of Galilee. "Do whatever He tells you" ([[JOH.2:5]]), she
 says to the servants and to each one of us.
 In all this the Virgin serves as a mirror and living icon of the biblical Christian. Hearing
 God's word, we are to be like her: pondering, keeping all these things in our hearts, doing
@@ -159,7 +159,7 @@ Church.
 us what is Scripture, equally it is the Church that tells us how Scripture is to be understood.
 Coming upon the Ethiopian as he read the Old Testament in his chariot, Philip the Apostle
 asked him, "Do you understand what you are reading?" "How can I," answered the Ethiopian,
-"unless someone guides me?" (Acts 8:30, 31). His difficulty is also ours. The words of
+"unless someone guides me?" ([[ACT.8:30]], [[ACT.8:31]]). His difficulty is also ours. The words of
 Scripture are not always self-explanatory. The Bible has a marvelous underlying simplicity,
 but when studied in detail it can prove a difficult book. God does indeed speak directly to the
 heart of each one of us during our Scripture reading—as Saint Tikhon says, our reading is a
@@ -188,13 +188,13 @@ To illustrate what it means to interpret Scripture in a liturgical way, let us c
 Testament lessons at Vespers for the Feast of the Annunciation (March 25) and at Vespers on
 Holy Saturday, the first part of the ancient Paschal Vigil. At the Annunciation there are five
 readings:
-(1) Genesis 28:10–17: Jacob's dream of a ladder set up from earth to heaven.
-(2) Ezekiel 43:27—44:4: the prophet's vision of the Jerusalem temple, with the closed gate
+(1) [[GEN.28:10]]–17: Jacob's dream of a ladder set up from earth to heaven.
+(2) [[EZK.43:27]]—44:4: the prophet's vision of the Jerusalem temple, with the closed gate
 through which none but the Prince may pass.
-(3) Proverbs 9:1–11: one of the great Sophianic passages in the Old Testament, beginning
+(3) [[PRO.9:1]]–11: one of the great Sophianic passages in the Old Testament, beginning
 "Wisdom has build her house."
-(4) Exodus 3:1–8: Moses at the Burning Bush.
-(5) Proverbs 8:22–30: another Sophianic text, describing Wisdom's place in God's eternal
+(4) [[EXO.3:1]]–8: Moses at the Burning Bush.
+(5) [[PRO.8:22]]–30: another Sophianic text, describing Wisdom's place in God's eternal
 providence: "Ages ago I was set up, at the first, before the beginning of the earth."
 
 In these passages from the Old Testament, then, we have a series of powerful images to
@@ -202,7 +202,7 @@ indicate the role of the Theotokos in God's unfolding plan of salvation. She is 
 for by means of her God comes down and enters our world, assuming the flesh that she
 supplies. She is both Mother and Ever-Virgin; Christ is born from her, yet she remains still
 inviolate, the gate of her virginity sealed. She provides the humanity or house which Christ
-the Wisdom of God (1Co 1:24) takes as His dwelling; alternatively, she is herself to be
+the Wisdom of God ([[1CO.1:24]]) takes as His dwelling; alternatively, she is herself to be
 regarded as God's Wisdom. She is the Burning Bush, who contains within her womb the
 uncreated fire of the Godhead and yet is not consumed. From all eternity, "ages ago... before
 the beginning of the earth," she was forechosen by God to be His Mother.
@@ -215,13 +215,13 @@ there are no less than fifteen Old Testament lessons. Regrettably in many of our
 majority of these are omitted, and so God's people are starved of their proper biblical
 nourishment. This long sequence of readings sets before us the deeper significance of
 Christ's "passing over" through death to resurrection. First among the lessons is the account
-of the creation (Gn 1:1–13): Christ's resurrection is a new creation (2Co 5:17; Rev 21:5), the
+of the creation ([[GEN.1:1]]–13): Christ's resurrection is a new creation ([[2CO.5:17]]; [[REV.21:5]]), the
 inauguration of a new age, the age to come. The third lesson describes the Jewish ritual of the
 Passover meal: Christ crucified and risen is the new Passover, the Paschal Lamb who alone
-can take away the sin of the world (1Co 5:7; Jn 1:29). The fourth lesson is the Book of Jonah
+can take away the sin of the world ([[1CO.5:7]]; [[JOH.1:29]]). The fourth lesson is the Book of Jonah
 in its entirety: the prophet's three days in the belly of the whale foreshadow Christ's
-resurrection after three days in the tomb (Mt 12:40). The sixth lesson recounts the crossing
-of the Red Sea by the Israelites (Ex 13:20—15:19): Christ leads us from the bondage of Egypt
+resurrection after three days in the tomb ([[MAT.12:40]]). The sixth lesson recounts the crossing
+of the Red Sea by the Israelites ([[EXO.13:20]]—15:19): Christ leads us from the bondage of Egypt
 (sin), through the Red Sea (baptism), into the promised land (the Church). The final lesson is
 the story of the three Holy Children in the fiery furnace (Dan 3), once more a "type" or
 foreshowing of Christ's rising from the tomb.
@@ -241,7 +241,7 @@ agree with the 1976 Moscow Conference that the "Scriptures constitute a coherent
 where are we to locate their wholeness and coherence? In the person of Christ. He is the
 unifying thread that runs through the entirety of the Bible, from the first sentence to the last.
 Jesus meets us on every page. It all ties up because of Him. "In Him all things hold together"
-(Col 1:16).
+([[COL.1:16]]).
 Much study of Scripture by modern western scholars has adopted an analytical approach,
 breaking up each book into what are seen as its original sources. The connecting links are
 unravelled, and the Bible is reduced to a series of isolated units. Recently there has been a
@@ -260,10 +260,10 @@ the whole of Scripture finds its point of convergence in the Saviour.
 Orthodoxy makes extensive use of this "typological" method of interpretation, whereby
 "types" of Christ, signs and symbols of His work, are to be detected throughout the Old
 Testament. Melchizedek, for example, the priest-king of Salem who offered bread and wine to
-Abraham (Gn 14:18), is regarded as a "type" of Christ not only by the Fathers but equally in
-the New Testament itself (Heb 5:6; 7:1–19). The rock that flowed with water in the wilderness
+Abraham ([[GEN.14:18]]), is regarded as a "type" of Christ not only by the Fathers but equally in
+the New Testament itself ([[HEB.5:6]]; 7:1–19). The rock that flowed with water in the wilderness
 
-of Sinai (Ex 17:6; Nm 30:7–11) is likewise a symbol of Christ (1Co 10:4). Typology explains
+of Sinai ([[EXO.17:6]]; [[NUM.30:7]]–11) is likewise a symbol of Christ ([[1CO.10:4]]). Typology explains
 the choice of lessons, not only on Holy Saturday, but throughout the second half of Lent.
 Why are the Genesis readings in the sixth week dominated by the figure of Joseph? Why read
 from the Book of Job in Holy Week? Because Joseph and Job, who both suffered innocently,
@@ -285,23 +285,23 @@ me, and my heart responding. That is the fourth criterion in our Bible reading.
 I am to see all the narratives in Scripture as part of my own personal story. The description
 of Adam's fall is equally an account of something in my own experience. Who is Adam? His
 name means simply "man," "human": it is I who am Adam. It is to me that God says, "Adam,
-Where are You?" (Gn 3:9). We often ask, "Where is God?" But the real question is the one
+Where are You?" ([[GEN.3:9]]). We often ask, "Where is God?" But the real question is the one
 that God puts to the Adam in each one of us: "Where are you?"
 Who is Cain, the murderer of his brother? It is myself. God's challenge, "Where is Abel
-your brother?" (Gn 4:9), is addressed to the Cain in each of us. The way to God lies through
+your brother?" ([[GEN.4:9]]), is addressed to the Cain in each of us. The way to God lies through
 love for other people, and there is no other way. Disowning my sister or brother, I replace the
 image of God with the mark of Cain, and deny my essential humanity.
 The same personal application is evident in the Lenten services, and above all in the Great
-Canon of St. Andrew of Crete. "I am the man who fell among thieves," we say (Lk 10:30); "I
+Canon of St. Andrew of Crete. "I am the man who fell among thieves," we say ([[LUK.10:30]]); "I
 was Your younger son, and wasted the wealth that You gave me... and now I am starved and
 
-hungry" (Lk 15:11–14). "Who are the sheep, and who are the goats?" the Desert Fathers of
-Egypt used to ask (Mt 25:31–46). "The sheep are known to God," they replied. "As for the
+hungry" ([[LUK.15:11]]–14). "Who are the sheep, and who are the goats?" the Desert Fathers of
+Egypt used to ask ([[MAT.25:31]]–46). "The sheep are known to God," they replied. "As for the
 goats—that means me."
 There are three steps to be taken when reading Scripture. (1) First, we reflect that what we
 have in Scripture is sacred history: the history of the world from the Creation, the history of
 God's chosen people, the history of God Himself incarnate in Palestine, the history of the
-"mighty works" (Acts 2:11) after Pentecost. We are never to forget that what we find in the
+"mighty works" ([[ACT.2:11]]) after Pentecost. We are never to forget that what we find in the
 Bible is not an ideology, not a philosophical theory, but a historical faith.
 (2) Next, we observe the particularity, the specificity, of this sacred history. In the Bible we
 find God intervening at specific times and in particular places, entering into dialogue with
@@ -339,7 +339,7 @@ humility and courage to accept this restoration—we ask ourselves: How Christ-l
 those who have betrayed me? And, after my own acts of betrayal, am I able to accept the
 forgiveness of others, am I able to forgive myself?
 Take, as another example, the "woman who was a sinner," who emptied the flask of
-ointment over Christ's feet (Lk 7:36–50), and whom some identify with Saint Mary
+ointment over Christ's feet ([[LUK.7:36]]–50), and whom some identify with Saint Mary
 Magdalene, although that is not the usual Orthodox interpretation. Can I see her mirrored in
 myself? Do I share in her generosity, in her spontaneity and loving impulsiveness? "Her sins,
 which are many, are forgiven, for she loved much." Or am I calculating, mean, timid—holding
@@ -365,4 +365,4 @@ Augustine heard a child's voice crying out, "Take up and read, take up and read.
 his bible and read; and what he read altered his entire life. Let us do the same: Take up and
 read.
 
-"Your word is a lamp to my feet and a light to my paths" (Ps 118:105).
+"Your word is a lamp to my feet and a light to my paths" ([[PSA.118:105]]).

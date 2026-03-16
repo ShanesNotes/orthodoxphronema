@@ -2,15 +2,25 @@
   "anchor_id": "ACT.15:13",
   "canon_uri": "canon/NT/ACT.md#ACT.15:13",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "And after they had become silent, James answered, saying, 'Men and brethren, listen to me:",
+  "pericope": {
+    "id": "ACT.P051",
+    "title": "The Council in Jerusalem",
+    "range": "ACT.15:5-15:20",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/PHP_footnotes.md",
-      "line_number": 25,
+      "source_file": "study/footnotes/NT/PHP_footnotes.md",
+      "line_number": 19,
       "raw_match": "[[ACT.15:13]]",
       "reference_type": "wikilink",
-      "context": "the church in Jerusalem ([[ACT.15:13]]) and tradition reveals that Peter was bishop in"
+      "context": "This is the only epistle in which St. Paul includes the clergy, the bishops and deacons, in his address. St. John Chrysostom says this is because it was the clergy in Philippi who collected the funds Paul so badly needed, and sent them to him by Epaphroditus. Bishops are the leading presbyters. By the time this letter was written, around AD 63, not only were bishops present in Philippi, but James was presiding over the church in Jerusalem ([[ACT.15:13]]) and tradition reveals that Peter was bishop in Antioch--and later in Rome. (Tradition sometimes refers to the men Peter designated his successors in those places as the \"first\" bishops, affirming the difference between the apostles and the overseers they appointed.) Paul's pastoral epistles outline the qualifications for the office of bishop ([[1TI.3:1]]-7; [[TIT.1:7]]-9)."
     }
   ]
 }

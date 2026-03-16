@@ -2,15 +2,25 @@
   "anchor_id": "MRK.13:18",
   "canon_uri": "canon/NT/MRK.md#MRK.13:18",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "And pray that your flight may not be in winter.",
+  "pericope": {
+    "id": "MRK.P045",
+    "title": "The Beginning of Sorrows",
+    "range": "MRK.13:2-13:22",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/ZEC_footnotes.md",
-      "line_number": 663,
+      "source_file": "study/footnotes/OT/ZEC_footnotes.md",
+      "line_number": 475,
       "raw_match": "[[MRK.13:7]]-27",
       "reference_type": "wikilink_range",
-      "context": "delivery of His people, and the establishment of a secure, peaceful land (see Is 66:15-23; Ezk 38-40; Joel 4:9-21; [[MRK.13:7]]-27; Rev 20-22). In the New Testament, this is to be"
+      "context": "The prophet foresees the nations gathered in battle against Jerusalem, God's delivery of His people, and the establishment of a secure, peaceful land (see Is 66:15-23; Ezk 38-40; Joel 4:9-21; [[MRK.13:7]]-27; Rev 20-22). In the New Testament, this is to be accomplished at the Second Coming of Christ and the last battle between God and Satan."
     }
   ]
 }

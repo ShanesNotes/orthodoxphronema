@@ -2,12 +2,22 @@
   "anchor_id": "MRK.14:21",
   "canon_uri": "canon/NT/MRK.md#MRK.14:21",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "The Son of Man indeed goes just as it is written of Him, but woe to that man by whom the Son of Man is betrayed! It would have been good for that man if he had never been born.'",
+  "pericope": {
+    "id": "MRK.P052",
+    "title": "The Last Supper: The Eucharist Instituted",
+    "range": "MRK.14:16-14:31",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/PRO_footnotes.md",
-      "line_number": 2233,
+      "source_file": "study/footnotes/OT/PRO_footnotes.md",
+      "line_number": 1674,
       "raw_match": "[[MRK.14:21]]",
       "reference_type": "wikilink",
       "context": "Judas Iscariot betrayed the Lord Jesus with a voluntary kiss, and He said of him: \"It would have been good for that man if he had never been born\" ([[MRK.14:21]])."

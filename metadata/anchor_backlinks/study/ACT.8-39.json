@@ -2,29 +2,39 @@
   "anchor_id": "ACT.8:39",
   "canon_uri": "canon/NT/ACT.md#ACT.8:39",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Now when they came up out of the water, the Spirit of the Lord caught Philip away, so that the eunuch saw him no more; and he went on his way rejoicing.",
+  "pericope": {
+    "id": "ACT.P028",
+    "title": "The Ethiopian Eunuch",
+    "range": "ACT.8:25-8:39",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/DAN_footnotes.md",
-      "line_number": 699,
+      "source_file": "study/footnotes/OT/DAN_footnotes.md",
+      "line_number": 489,
       "raw_match": "[[ACT.8:39]]",
       "reference_type": "wikilink",
-      "context": "([[EZK.8:3]]); (2) being translated from one place to another, as Philip was ([[ACT.8:39]], [[ACT.8:40]]); and (3) being brought back from the dead, as Moses and Elijah were ([[MAT.17:3]]). 1:40-42"
+      "context": "Daniel smiled: It is indeed very humorous that a king or anyone could believe an idol of clay and bronze could eat (see also v. 19). 1:10-21 How could seventy priests and their families--and a king--indulge in such blatant deception? St. Peter gives the answer concerning the allure of the false teachers: \"Many will follow their destructive ways\" ([[2PE.2:2]]). 1:23-24 In contrast to the clay and bronze statue of Bel, this idol lives, eats, and drinks! 1:26 Likely, the king gave permission because he saw the serpent as an immortal god. 1:33-39 The prophet Habakkuk, for whom the OT book is named, had lived a century earlier. So there would be three miracles here: (1) being carried by the hair, as Ezekiel was ([[EZK.8:3]]); (2) being translated from one place to another, as Philip was ([[ACT.8:39]], [[ACT.8:40]]); and (3) being brought back from the dead, as Moses and Elijah were ([[MAT.17:3]]). 1:40-42 Once again, Daniel is vindicated."
     },
     {
-      "source_file": "staging/validated/OT/EZK_footnotes.md",
-      "line_number": 194,
+      "source_file": "study/footnotes/OT/EZK_footnotes.md",
+      "line_number": 174,
       "raw_match": "[[ACT.8:26]]-39",
       "reference_type": "wikilink_range",
-      "context": "Gentile eunuch, listened and was converted ([[ACT.8:26]]-39). 11:17-25 I will give them the land: This prophecy is being fulfilled in the New Israel, which is the Church, composed of both believing Jews and Gentiles (the nations). 12:1-3"
+      "context": "Wheel translates the word Gelgel, used in the LXX as a proper noun, a transliteration of the Hebrew glgl. In the Vulgate, St. Jerome translates it \"turnings.\" 10:17-18 As the glory of the Lord passed from the house to the cherubim, so God's glory departed from the earthly Israel to the heavenly Jerusalem, over and above them. 11:1 Ezekiel's miraculous prophetic appearance in Jerusalem must have given Israel's princes quite a shock; even so, they refused to repent. Indeed, Pelatiah dropped dead on the spot (v. 13). Ananias and Sapphira met a similar fate in the New Testament (Acts 5:10). The apostle Philip was transported in a similar way, but this time his audience, a Gentile eunuch, listened and was converted ([[ACT.8:26]]-39)."
     },
     {
-      "source_file": "staging/validated/OT/EZK_footnotes.md",
-      "line_number": 356,
+      "source_file": "study/footnotes/OT/EZK_footnotes.md",
+      "line_number": 342,
       "raw_match": "[[ACT.8:26]]-39",
       "reference_type": "wikilink_range",
-      "context": "of God\" when Philip appeared to him ([[ACT.8:26]]-39)."
+      "context": "In the days of the Captivity, Egypt and Ethiopia stood against God's purposes. But after Pentecost, these nations were blessed with the establishment of the Church among the Gentiles. Indeed, the Ethiopian eunuch confessed that \"Jesus Christ is the Son of God\" when Philip appeared to him ([[ACT.8:26]]-39)."
     }
   ]
 }

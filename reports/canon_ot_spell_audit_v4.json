@@ -1,0 +1,3009 @@
+{
+  "books": [
+    {
+      "book": "23_3MA",
+      "total_suspects": 4,
+      "suspects": [
+        {
+          "anchor": "3MA.5:13",
+          "word": "beseeched",
+          "context": "...heir holy God, and again beseeched Him who is easily reconc..."
+        },
+        {
+          "anchor": "3MA.1:4",
+          "word": "minas",
+          "context": "...to give each of them two minas of gold if they were vic..."
+        },
+        {
+          "anchor": "3MA.5:2",
+          "word": "unmingled",
+          "context": "...hem drunk with plenty of unmingled wine and abundant handfu..."
+        },
+        {
+          "anchor": "3MA.6:32",
+          "word": "wonderworking",
+          "context": "... fathers, praising their wonderworking God and Savior. They hal..."
+        }
+      ]
+    },
+    {
+      "book": "37_NAH",
+      "total_suspects": 1,
+      "suspects": [
+        {
+          "anchor": "NAH.3:4",
+          "word": "sorceries",
+          "context": "...ty and the people by her sorceries."
+        }
+      ]
+    },
+    {
+      "book": "39_ZEP",
+      "total_suspects": 2,
+      "suspects": [
+        {
+          "anchor": "ZEP.2:1",
+          "word": "coffered",
+          "context": "...gehogs will sleep in her coffered ceilings, and wild anima..."
+        },
+        {
+          "anchor": "ZEP.2:14",
+          "word": "coffered",
+          "context": "...gehogs will sleep in her coffered ceilings, and wild anima..."
+        },
+        {
+          "anchor": "ZEP.2:1",
+          "word": "waterless",
+          "context": "...rian, and make Nineveh a waterless desolation, as a desert...."
+        },
+        {
+          "anchor": "ZEP.2:13",
+          "word": "waterless",
+          "context": "...rian, and make Nineveh a waterless desolation, as a desert."
+        }
+      ]
+    },
+    {
+      "book": "30_SIR",
+      "total_suspects": 16,
+      "suspects": [
+        {
+          "anchor": "SIR.3:28",
+          "word": "almsgiving",
+          "context": "...ench a blazing fire, And almsgiving will atone for sins."
+        },
+        {
+          "anchor": "SIR.17:1",
+          "word": "almsgiving",
+          "context": "A man's almsgiving is like a seal with Him,..."
+        },
+        {
+          "anchor": "SIR.17:17",
+          "word": "almsgiving",
+          "context": "A man's almsgiving is like a seal with Him,..."
+        },
+        {
+          "anchor": "SIR.40:29",
+          "word": "another's",
+          "context": "When a man looks at another's table, He is living an i..."
+        },
+        {
+          "anchor": "SIR.40:29",
+          "word": "another's",
+          "context": "When a man looks at another's table, He is living an i..."
+        },
+        {
+          "anchor": "SIR.45:8",
+          "word": "ephod",
+          "context": "..., the long robe, and the ephod."
+        },
+        {
+          "anchor": "SIR.7:31",
+          "word": "firstfruits",
+          "context": "...ortion as commanded: The firstfruits, the trespass offering, ..."
+        },
+        {
+          "anchor": "SIR.7:31",
+          "word": "firstfruits",
+          "context": "...ortion as commanded: The firstfruits, the trespass offering, ..."
+        },
+        {
+          "anchor": "SIR.24:25",
+          "word": "firstfruits",
+          "context": "...he Tigris at the time of firstfruits;"
+        },
+        {
+          "anchor": "SIR.24:15",
+          "word": "galbanum",
+          "context": "...e choice myrrh, And like galbanum, onyx, and oil of myrrh,..."
+        },
+        {
+          "anchor": "SIR.31:13",
+          "word": "gluttonize",
+          "context": "Do not gluttonize, and do not say, 'How mu..."
+        },
+        {
+          "anchor": "SIR.31:31",
+          "word": "ing",
+          "context": "...ise him when he is enjoy ing himself. Do not speak a ..."
+        },
+        {
+          "anchor": "SIR.26:17",
+          "word": "lampstand",
+          "context": "...lamp shining on the holy lampstand Is the beauty of a count..."
+        },
+        {
+          "anchor": "SIR.34:16",
+          "word": "noondaysun",
+          "context": "...heat, A shelter from the noondaysun, A guard from stumbling,..."
+        },
+        {
+          "anchor": "SIR.32:1",
+          "word": "ong",
+          "context": "...o not exalt yourself. Am ong them be as one of them. ..."
+        },
+        {
+          "anchor": "SIR.7:3",
+          "word": "sevenfold",
+          "context": "...not reap the same things sevenfold."
+        },
+        {
+          "anchor": "SIR.20:12",
+          "word": "sevenfold",
+          "context": "... little, But pays for it sevenfold."
+        },
+        {
+          "anchor": "SIR.35:10",
+          "word": "sevenfold",
+          "context": "...s, And He will repay you sevenfold."
+        },
+        {
+          "anchor": "SIR.35:21",
+          "word": "sthe",
+          "context": "Until He destroy sthe multitude of the insolen..."
+        },
+        {
+          "anchor": "SIR.34:24",
+          "word": "swhile",
+          "context": "If one pray swhile another curses, Whose vo..."
+        },
+        {
+          "anchor": "SIR.24:16",
+          "word": "terebinth",
+          "context": "...forth my branches like a terebinth tree, And my branches we..."
+        },
+        {
+          "anchor": "SIR.20:7",
+          "word": "undiscerning",
+          "context": "...eak, But an arrogant and undiscerning man will speak out of tu..."
+        },
+        {
+          "anchor": "SIR.33:17",
+          "word": "winepress",
+          "context": "...grape-picker I filled my winepress."
+        }
+      ]
+    },
+    {
+      "book": "13_1CH",
+      "total_suspects": 9,
+      "suspects": [
+        {
+          "anchor": "1CH.29:7",
+          "word": "darics",
+          "context": "...of gold and ten thousand darics of gold, ten thousand ta..."
+        },
+        {
+          "anchor": "1CH.8:1",
+          "word": "dwelled",
+          "context": "...lessness; 2and those who dwelled formerly with their poss..."
+        },
+        {
+          "anchor": "1CH.9:1",
+          "word": "dwelled",
+          "context": "...lessness; 2and those who dwelled formerly with their poss..."
+        },
+        {
+          "anchor": "1CH.9:2",
+          "word": "dwelled",
+          "context": "and those who dwelled formerly with their poss..."
+        },
+        {
+          "anchor": "1CH.15:27",
+          "word": "ephod",
+          "context": "... David also wore a linen ephod."
+        },
+        {
+          "anchor": "1CH.22:2",
+          "word": "hewn",
+          "context": "... appointed masons to cut hewn stones to build the hous..."
+        },
+        {
+          "anchor": "1CH.23:1",
+          "word": "holies",
+          "context": "...uld sanctify the holy of holies, that he and his sons fo..."
+        },
+        {
+          "anchor": "1CH.23:13",
+          "word": "holies",
+          "context": "...uld sanctify the holy of holies, that he and his sons fo..."
+        },
+        {
+          "anchor": "1CH.16:21",
+          "word": "sakes",
+          "context": "...reproved kings for their sakes,"
+        },
+        {
+          "anchor": "1CH.8:1",
+          "word": "showbread",
+          "context": "... charge of preparing the showbread for every Sabbath. 33The..."
+        },
+        {
+          "anchor": "1CH.9:1",
+          "word": "showbread",
+          "context": "... charge of preparing the showbread for every Sabbath. 33The..."
+        },
+        {
+          "anchor": "1CH.9:32",
+          "word": "showbread",
+          "context": "... charge of preparing the showbread for every Sabbath."
+        },
+        {
+          "anchor": "1CH.12:36",
+          "word": "twentyeight",
+          "context": "...d keep battle formation, twentyeight thousand six hundred;"
+        },
+        {
+          "anchor": "1CH.23:4",
+          "word": "twentyfour",
+          "context": "Of these, twentyfour thousand were taskmaster..."
+        }
+      ]
+    },
+    {
+      "book": "27_SNG",
+      "total_suspects": 2,
+      "suspects": [
+        {
+          "anchor": "SNG.4:2",
+          "word": "shorn",
+          "context": "...r teeth are as flocks of shorn sheep That went up from ..."
+        },
+        {
+          "anchor": "SNG.1:12",
+          "word": "spikenard",
+          "context": "...ing was at the table, My spikenard gave forth its smell."
+        }
+      ]
+    },
+    {
+      "book": "12_2KI",
+      "total_suspects": 8,
+      "suspects": [
+        {
+          "anchor": "2KI.4:39",
+          "word": "alapful",
+          "context": "...ine and gathered from it alapful of wild gourds, and thre..."
+        },
+        {
+          "anchor": "2KI.16:17",
+          "word": "embossments",
+          "context": "...en King Ahaz cut off the embossments of the bases and removed..."
+        },
+        {
+          "anchor": "2KI.4:42",
+          "word": "firstfruits",
+          "context": "...ht to the man of God the firstfruits, twenty loaves of barley..."
+        },
+        {
+          "anchor": "2KI.22:6",
+          "word": "hewn",
+          "context": "...ons; to acquire wood and hewn stones, to strengthen th..."
+        },
+        {
+          "anchor": "2KI.16:17",
+          "word": "lavers",
+          "context": "...he bases and removed the lavers from them. He took down ..."
+        },
+        {
+          "anchor": "2KI.9:22",
+          "word": "sorceries",
+          "context": "...ebel your mother and her sorceries are still many.'"
+        },
+        {
+          "anchor": "2KI.25:12",
+          "word": "vinedressers",
+          "context": "... the poor of the land as vinedressers and farmers."
+        },
+        {
+          "anchor": "2KI.6:27",
+          "word": "winepress",
+          "context": "...eshing floor or from the winepress, how can I save you?'"
+        }
+      ]
+    },
+    {
+      "book": "38_HAB",
+      "total_suspects": 0,
+      "suspects": []
+    },
+    {
+      "book": "22_2MA",
+      "total_suspects": 7,
+      "suspects": [
+        {
+          "anchor": "2MA.7:3",
+          "word": "caldrons",
+          "context": "... commanded that pans and caldrons be heated."
+        },
+        {
+          "anchor": "2MA.5:25",
+          "word": "peaceloving",
+          "context": "...alem and pretended to be peaceloving, this man waited until t..."
+        },
+        {
+          "anchor": "2MA.4:47",
+          "word": "uncondemned",
+          "context": "...ho would have been freed uncondemned even if they pleaded bef..."
+        },
+        {
+          "anchor": "2MA.14:36",
+          "word": "undefiled",
+          "context": "...liness, preserve forever undefiled this house so recently p..."
+        },
+        {
+          "anchor": "2MA.15:34",
+          "word": "undefiled",
+          "context": "...e who kept His own place undefiled.'"
+        },
+        {
+          "anchor": "2MA.11:5",
+          "word": "zur",
+          "context": "...Judea and drew near Beth-zur, a fortified place about..."
+        },
+        {
+          "anchor": "2MA.13:19",
+          "word": "zur",
+          "context": "He marched against Beth-zur, a stronghold of the Jew..."
+        },
+        {
+          "anchor": "2MA.13:22",
+          "word": "zur",
+          "context": "... with the people in Beth-zur, gave assurances, receiv..."
+        }
+      ]
+    },
+    {
+      "book": "34_JOL",
+      "total_suspects": 3,
+      "suspects": [
+        {
+          "anchor": "JOL.2:13",
+          "word": "longsuffering",
+          "context": "...and compassionate. He is longsuffering and plenteous in mercy a..."
+        },
+        {
+          "anchor": "JOL.3:13",
+          "word": "winepress",
+          "context": "...read the grapes, for the winepress is full, the wine vats o..."
+        },
+        {
+          "anchor": "JOL.1:17",
+          "word": "winepresses",
+          "context": "...ehouses are emptied. The winepresses are broken down; the gra..."
+        }
+      ]
+    },
+    {
+      "book": "33_MIC",
+      "total_suspects": 2,
+      "suspects": [
+        {
+          "anchor": "MIC.7:14",
+          "word": "solitarily",
+          "context": "...eritance, those dwelling solitarily in the thicket in the mi..."
+        },
+        {
+          "anchor": "MIC.5:11",
+          "word": "sorceries",
+          "context": "... I shall drive away your sorceries out of your hands, and t..."
+        }
+      ]
+    },
+    {
+      "book": "19_JDT",
+      "total_suspects": 6,
+      "suspects": [
+        {
+          "anchor": "JDT.14:2",
+          "word": "ablebodied",
+          "context": "...n the horizon, let every ablebodied man take up his weapons ..."
+        },
+        {
+          "anchor": "JDT.1:7",
+          "word": "dwelled",
+          "context": "...e west, and to those who dwelled in Cilicia, Damascus, Le..."
+        },
+        {
+          "anchor": "JDT.5:16",
+          "word": "dwelled",
+          "context": "...the Gergesites, and they dwelled there for a long time."
+        },
+        {
+          "anchor": "JDT.11:13",
+          "word": "firstfruits",
+          "context": "... resolved to consume the firstfruits of the grain and the tit..."
+        },
+        {
+          "anchor": "JDT.1:2",
+          "word": "hewn",
+          "context": "... wall around Ecbatana of hewn stones which were three ..."
+        },
+        {
+          "anchor": "JDT.6:12",
+          "word": "slingers",
+          "context": "...est of the mountain. The slingers kept the servants from a..."
+        },
+        {
+          "anchor": "JDT.16:13",
+          "word": "unsurpassable",
+          "context": "..., Marvelous in power and unsurpassable."
+        }
+      ]
+    },
+    {
+      "book": "26_ECC",
+      "total_suspects": 1,
+      "suspects": [
+        {
+          "anchor": "ECC.2:8",
+          "word": "cupbearers",
+          "context": "...men, and male and female cupbearers."
+        }
+      ]
+    },
+    {
+      "book": "16_EZR",
+      "total_suspects": 1,
+      "suspects": [
+        {
+          "anchor": "EZR.7:1",
+          "word": "kors",
+          "context": "...s of silver, one hundred kors of wheat, one hundred ba..."
+        },
+        {
+          "anchor": "EZR.7:22",
+          "word": "kors",
+          "context": "...s of silver, one hundred kors of wheat, one hundred ba..."
+        }
+      ]
+    },
+    {
+      "book": "47_LJE",
+      "total_suspects": 1,
+      "suspects": [
+        {
+          "anchor": "LJE.1:13",
+          "word": "battleax",
+          "context": "... in his right hand and a battleax itself, but he cannot de..."
+        }
+      ]
+    },
+    {
+      "book": "24_PSA",
+      "total_suspects": 38,
+      "suspects": [
+        {
+          "anchor": "PSA.32:2",
+          "word": "Himon",
+          "context": "...he lyre; Sing praises to Himon a ten-stringed instrumen..."
+        },
+        {
+          "anchor": "PSA.118:29",
+          "word": "Remov",
+          "context": "Remov e the way of unrighteous..."
+        },
+        {
+          "anchor": "PSA.82:6",
+          "word": "Theyestablished",
+          "context": "...otted together in unity; Theyestablished a covenant against You:"
+        },
+        {
+          "anchor": "PSA.88:22",
+          "word": "armshall",
+          "context": "...hall support him, And My armshall strengthen him."
+        },
+        {
+          "anchor": "PSA.50:16",
+          "word": "bloodguiltiness",
+          "context": "Deliver me from bloodguiltiness, O God, the God of my sa..."
+        },
+        {
+          "anchor": "PSA.118:77",
+          "word": "compassions",
+          "context": "Let Your compassions come to me, and I shall ..."
+        },
+        {
+          "anchor": "PSA.118:156",
+          "word": "compassions",
+          "context": "Your compassions are many, O Lord; Give m..."
+        },
+        {
+          "anchor": "PSA.5:7",
+          "word": "destroyall",
+          "context": "You shall destroyall who speak falsehood; The..."
+        },
+        {
+          "anchor": "PSA.11:4",
+          "word": "destroyall",
+          "context": "May the Lord destroyall deceptive lips And the t..."
+        },
+        {
+          "anchor": "PSA.142:12",
+          "word": "destroyall",
+          "context": "...emies; You shall utterly destroyall who afflict my soul, For..."
+        },
+        {
+          "anchor": "PSA.48:3",
+          "word": "earthborn",
+          "context": "Both earthborn and the sons of men, Ric..."
+        },
+        {
+          "anchor": "PSA.98:8",
+          "word": "enging",
+          "context": "...rciful to them, While av enging all their ways of living..."
+        },
+        {
+          "anchor": "PSA.60:6",
+          "word": "ers",
+          "context": "...You, O God, hear my pray ers; You give an inheritance..."
+        },
+        {
+          "anchor": "PSA.54:9",
+          "word": "faintheartedness",
+          "context": "...he One who saves me From faintheartedness and storm."
+        },
+        {
+          "anchor": "PSA.74:4",
+          "word": "firmits",
+          "context": "... its inhabitants; I made firmits pillars.\" (Pause)"
+        },
+        {
+          "anchor": "PSA.77:51",
+          "word": "firstfruit",
+          "context": "... firstborn in Egypt, The firstfruit of their labor in the te..."
+        },
+        {
+          "anchor": "PSA.104:36",
+          "word": "firstling",
+          "context": "...tborn in their land, The firstling of all their labor."
+        },
+        {
+          "anchor": "PSA.5:12",
+          "word": "greatlyrejoice",
+          "context": "...n You be glad; They will greatlyrejoice forever, For You will dw..."
+        },
+        {
+          "anchor": "PSA.12:5",
+          "word": "greatlyrejoice",
+          "context": "... \"; Those who afflict me greatlyrejoice, if I am shaken."
+        },
+        {
+          "anchor": "PSA.12:6",
+          "word": "greatlyrejoice",
+          "context": "...ur mercy; My heart shall greatlyrejoice in Your salvation; I wil..."
+        },
+        {
+          "anchor": "PSA.89:14",
+          "word": "greatlyrejoiced",
+          "context": "..., And in all our days we greatlyrejoiced and were glad;"
+        },
+        {
+          "anchor": "PSA.96:8",
+          "word": "greatlyrejoiced",
+          "context": "...d the daughters of Judah greatlyrejoiced Because of Your judgment..."
+        },
+        {
+          "anchor": "PSA.38:6",
+          "word": "handbreadth",
+          "context": "...d, You made my days as a handbreadth, And my existence is as ..."
+        },
+        {
+          "anchor": "PSA.40:4",
+          "word": "himon",
+          "context": "May the Lord help himon his bed of pain; You tur..."
+        },
+        {
+          "anchor": "PSA.8:7",
+          "word": "himover",
+          "context": "You set himover the works of Your hands;..."
+        },
+        {
+          "anchor": "PSA.133:2",
+          "word": "holies",
+          "context": "...our hands to the holy of holies And bless the Lord."
+        },
+        {
+          "anchor": "PSA.125:6",
+          "word": "ing",
+          "context": "...nt forth and wept, Carry ing their seeds with them; B..."
+        },
+        {
+          "anchor": "PSA.125:6",
+          "word": "ing",
+          "context": "...nt forth and wept, Carry ing their seeds with them; B..."
+        },
+        {
+          "anchor": "PSA.86:4",
+          "word": "lon",
+          "context": "...ention of Rahab and Baby lon to those who know Me; An..."
+        },
+        {
+          "anchor": "PSA.136:1",
+          "word": "lon",
+          "context": "...d. By the rivers of Baby lon, There we sat and wept W..."
+        },
+        {
+          "anchor": "PSA.136:8",
+          "word": "lon",
+          "context": "...retched daughter of Baby lon, Blessed is he who shall..."
+        },
+        {
+          "anchor": "PSA.82:8",
+          "word": "mon",
+          "context": "Gebal and Am mon and Amalek, And foreigne..."
+        },
+        {
+          "anchor": "PSA.36:6",
+          "word": "noondaysun",
+          "context": "...And your judgment as the noondaysun."
+        },
+        {
+          "anchor": "PSA.52:6",
+          "word": "pleasers",
+          "context": "...attered the bones of men-pleasers; They were put to shame,..."
+        },
+        {
+          "anchor": "PSA.44:9",
+          "word": "rrh",
+          "context": "My rrh and stacte and cassia po..."
+        },
+        {
+          "anchor": "PSA.106:2",
+          "word": "sayso",
+          "context": "...ose redeemed by the Lord sayso, Whom He redeemed from t..."
+        },
+        {
+          "anchor": "PSA.78:12",
+          "word": "sevenfold",
+          "context": "Repay our neighbors sevenfold into their bosom Their r..."
+        },
+        {
+          "anchor": "PSA.138:19",
+          "word": "slaysinners",
+          "context": "If You should slaysinners, O God, You would turn a..."
+        },
+        {
+          "anchor": "PSA.44:9",
+          "word": "stacte",
+          "context": "My rrh and stacte and cassia pour forth fr..."
+        },
+        {
+          "anchor": "PSA.89:10",
+          "word": "staystrong",
+          "context": "...seventy years, But if we staystrong, perhaps eighty; And mos..."
+        },
+        {
+          "anchor": "PSA.77:66",
+          "word": "themeternal",
+          "context": "...ies from behind; He gave themeternal reproach."
+        },
+        {
+          "anchor": "PSA.57:12",
+          "word": "themon",
+          "context": "...hen it is God who judges themon the earth.\""
+        },
+        {
+          "anchor": "PSA.38:9",
+          "word": "undiscerning",
+          "context": "...ade me a reproach to the undiscerning."
+        },
+        {
+          "anchor": "PSA.62:2",
+          "word": "waterless",
+          "context": "...esolate, impassable, and waterless land."
+        },
+        {
+          "anchor": "PSA.104:41",
+          "word": "waterless",
+          "context": "...d; The rivers ran in the waterless places."
+        },
+        {
+          "anchor": "PSA.105:14",
+          "word": "waterless",
+          "context": "...rt, And tempted God in a waterless place."
+        },
+        {
+          "anchor": "PSA.118:9",
+          "word": "waystraight",
+          "context": "...all a young man keep his waystraight? When he keeps Your word..."
+        },
+        {
+          "anchor": "PSA.8:1",
+          "word": "winepresses",
+          "context": "... the End; concerning the winepresses; a psalm by David."
+        },
+        {
+          "anchor": "PSA.80:1",
+          "word": "winepresses",
+          "context": "... the End; concerning the winepresses; a psalm for Asaph."
+        },
+        {
+          "anchor": "PSA.83:1",
+          "word": "winepresses",
+          "context": "... the End, concerning the winepresses; a psalm for the sons of..."
+        },
+        {
+          "anchor": "PSA.32:7",
+          "word": "wineskin",
+          "context": "...the sea together as in a wineskin, Who put the abysses in ..."
+        }
+      ]
+    },
+    {
+      "book": "05_DEU",
+      "total_suspects": 12,
+      "suspects": [
+        {
+          "anchor": "DEU.21:8",
+          "word": "bloodguiltiness",
+          "context": "...gypt, so there may be no bloodguiltiness among Your people Israel..."
+        },
+        {
+          "anchor": "DEU.18:4",
+          "word": "firstfruit",
+          "context": "The firstfruits of your grain, wine, an..."
+        },
+        {
+          "anchor": "DEU.33:21",
+          "word": "firstfruit",
+          "context": "He saw his firstfruit, Because the land of the..."
+        },
+        {
+          "anchor": "DEU.12:6",
+          "word": "firstfruits",
+          "context": "...t offerings, sacrifices, firstfruits, prayers, voluntary offe..."
+        },
+        {
+          "anchor": "DEU.12:17",
+          "word": "firstfruits",
+          "context": "...ur agreements, or of the firstfruits of your hands."
+        },
+        {
+          "anchor": "DEU.18:4",
+          "word": "firstfruits",
+          "context": "The firstfruits of your grain, wine, and..."
+        },
+        {
+          "anchor": "DEU.4:49",
+          "word": "hewn",
+          "context": "...f the sun, below Asedoth hewn in the rock."
+        },
+        {
+          "anchor": "DEU.6:11",
+          "word": "hewn",
+          "context": "...gs you did not fill, and hewn-out wells you did not di..."
+        },
+        {
+          "anchor": "DEU.14:17",
+          "word": "hoopoe",
+          "context": "...cormorant, the hawk, the hoopoe, and the owl;"
+        },
+        {
+          "anchor": "DEU.4:42",
+          "word": "manslayer",
+          "context": "so the manslayer who kills his neighbor w..."
+        },
+        {
+          "anchor": "DEU.19:3",
+          "word": "manslayer",
+          "context": "...ctions for you, that any manslayer may flee there."
+        },
+        {
+          "anchor": "DEU.19:4",
+          "word": "manslayer",
+          "context": "... be the ordinance of the manslayer who flees there, that he..."
+        },
+        {
+          "anchor": "DEU.14:1",
+          "word": "purificatory",
+          "context": "... you shall not engage in purificatory rites, nor shave your he..."
+        },
+        {
+          "anchor": "DEU.1:37",
+          "word": "sakes",
+          "context": "...o angry with me for your sakes, saying, 'Even you shall..."
+        },
+        {
+          "anchor": "DEU.18:11",
+          "word": "spiritist",
+          "context": "...pells, or a medium, or a spiritist, or one who calls up the..."
+        },
+        {
+          "anchor": "DEU.6:6",
+          "word": "todayshall",
+          "context": "...hese words I command you todayshall be in your heart and in ..."
+        },
+        {
+          "anchor": "DEU.32:10",
+          "word": "waterless",
+          "context": "..., In thirst of heat in a waterless place. He encircled him;..."
+        },
+        {
+          "anchor": "DEU.15:14",
+          "word": "winepress",
+          "context": "...m your sheep, wheat, and winepress. From what the Lord has ..."
+        },
+        {
+          "anchor": "DEU.16:13",
+          "word": "winepress",
+          "context": "...your threshing floor and winepress."
+        }
+      ]
+    },
+    {
+      "book": "35_OBA",
+      "total_suspects": 0,
+      "suspects": []
+    },
+    {
+      "book": "28_JOB",
+      "total_suspects": 12,
+      "suspects": [
+        {
+          "anchor": "JOB.32:19",
+          "word": "coppersmith",
+          "context": "...r like the blowpipe of a coppersmith, ready to bellow."
+        },
+        {
+          "anchor": "JOB.39:21",
+          "word": "exultingly",
+          "context": "He paws exultingly in the valley And goes f..."
+        },
+        {
+          "anchor": "JOB.28:2",
+          "word": "hewn",
+          "context": "...the earth, And copper is hewn out like a stone."
+        },
+        {
+          "anchor": "JOB.38:38",
+          "word": "hewn",
+          "context": "...oined it together as one hewn stone to another. 'Will ..."
+        },
+        {
+          "anchor": "JOB.36:29",
+          "word": "outspreadings",
+          "context": "... one should perceive the outspreadings of a cloud And the measu..."
+        },
+        {
+          "anchor": "JOB.35:13",
+          "word": "saveme",
+          "context": "...wless deeds, But He will saveme. Decide before Him if yo..."
+        },
+        {
+          "anchor": "JOB.41:10",
+          "word": "sneezings",
+          "context": "His sneezings flash forth light, And h..."
+        },
+        {
+          "anchor": "JOB.41:7",
+          "word": "symrite",
+          "context": "...texture of his skin as a symrite stone."
+        },
+        {
+          "anchor": "JOB.42:11",
+          "word": "uncoined",
+          "context": "... four drachms' weight of uncoined gold."
+        },
+        {
+          "anchor": "JOB.38:27",
+          "word": "untrodden",
+          "context": "To satisfy the untrodden and uninhabited land And..."
+        },
+        {
+          "anchor": "JOB.30:3",
+          "word": "waterless",
+          "context": "...Yesterday they fled to a waterless desert in anguish and mi..."
+        },
+        {
+          "anchor": "JOB.14:1",
+          "word": "wineskin",
+          "context": "...h have become old like a wineskin Or like a moth-eaten gar..."
+        },
+        {
+          "anchor": "JOB.32:19",
+          "word": "wineskin",
+          "context": "...ed, my stomach is like a wineskin of sweet new wine, Bound..."
+        }
+      ]
+    },
+    {
+      "book": "18_TOB",
+      "total_suspects": 3,
+      "suspects": [
+        {
+          "anchor": "TOB.1:3",
+          "word": "almsgiving",
+          "context": "...s of my life. I did much almsgiving to my brethren and to th..."
+        },
+        {
+          "anchor": "TOB.1:16",
+          "word": "almsgiving",
+          "context": "... Shalmaneser, I did much almsgiving to my brothers."
+        },
+        {
+          "anchor": "TOB.4:7",
+          "word": "almsgiving",
+          "context": "Do almsgiving from your possessions to..."
+        },
+        {
+          "anchor": "TOB.1:6",
+          "word": "firstfruits",
+          "context": "...nance. I would carry the firstfruits and the tithes of my har..."
+        },
+        {
+          "anchor": "TOB.1:22",
+          "word": "pourer",
+          "context": "... Now Ahikar was the wine-pourer, the keeper of the signe..."
+        }
+      ]
+    },
+    {
+      "book": "09_1SA",
+      "total_suspects": 9,
+      "suspects": [
+        {
+          "anchor": "1SA.6:4",
+          "word": "emerods",
+          "context": "...y answered, 'Five golden emerods for each of the number o..."
+        },
+        {
+          "anchor": "1SA.6:17",
+          "word": "emerods",
+          "context": "... are the places the gold emerods were given as an offerin..."
+        },
+        {
+          "anchor": "1SA.1:24",
+          "word": "ephah",
+          "context": "...ld, loaves of bread, one ephah of flour, and a skin of ..."
+        },
+        {
+          "anchor": "1SA.25:18",
+          "word": "ephahs",
+          "context": "...ep already dressed, five ephahs of roasted grain, a gome..."
+        },
+        {
+          "anchor": "1SA.2:18",
+          "word": "ephod",
+          "context": "...the Lord wearing a linen ephod of a servant."
+        },
+        {
+          "anchor": "1SA.2:28",
+          "word": "ephod",
+          "context": "... incense, and to wear an ephod before Me. And I gave to..."
+        },
+        {
+          "anchor": "1SA.14:3",
+          "word": "ephod",
+          "context": "... Shiloh, was wearing the ephod. But the people did not ..."
+        },
+        {
+          "anchor": "1SA.15:9",
+          "word": "fatlings",
+          "context": "...the sheep, the oxen, the fatlings, the vineyards, and ever..."
+        },
+        {
+          "anchor": "1SA.25:18",
+          "word": "gomer",
+          "context": "...hahs of roasted grain, a gomer of raisins, and two hund..."
+        },
+        {
+          "anchor": "1SA.1:6",
+          "word": "hearted",
+          "context": "...bulation, she was broken-hearted. The Lord had closed her..."
+        },
+        {
+          "anchor": "1SA.1:7",
+          "word": "hearted",
+          "context": "...the Lord, she was broken-hearted and wept and did not eat..."
+        },
+        {
+          "anchor": "1SA.18:13",
+          "word": "inlaw",
+          "context": "...s if one becomes the son-inlaw of the king when he is l..."
+        },
+        {
+          "anchor": "1SA.21:7",
+          "word": "showbread",
+          "context": "... the priest gave him the showbread; for there were no loave..."
+        }
+      ]
+    },
+    {
+      "book": "40_HAG",
+      "total_suspects": 1,
+      "suspects": [
+        {
+          "anchor": "HAG.2:16",
+          "word": "ephahs",
+          "context": "...ere; when you put twenty ephahs of barley into the bin, ..."
+        }
+      ]
+    },
+    {
+      "book": "41_ZEC",
+      "total_suspects": 2,
+      "suspects": [
+        {
+          "anchor": "ZEC.4:2",
+          "word": "lampstand",
+          "context": "..., 'Behold, I have seen a lampstand made of solid gold, and ..."
+        },
+        {
+          "anchor": "ZEC.4:11",
+          "word": "lampstand",
+          "context": "...rees at the right of the lampstand and at its left?'"
+        },
+        {
+          "anchor": "ZEC.14:10",
+          "word": "winepresses",
+          "context": "...el, as far as the king's winepresses,"
+        }
+      ]
+    },
+    {
+      "book": "03_LEV",
+      "total_suspects": 13,
+      "suspects": [
+        {
+          "anchor": "LEV.27:3",
+          "word": "didrachm",
+          "context": "...valuation shall be fifty didrachm of silver, according to ..."
+        },
+        {
+          "anchor": "LEV.27:4",
+          "word": "didrachm",
+          "context": "...aluation shall be thirty didrachm;"
+        },
+        {
+          "anchor": "LEV.27:5",
+          "word": "didrachm",
+          "context": "...r a male shall be twenty didrachm, and for a female ten di..."
+        },
+        {
+          "anchor": "LEV.5:11",
+          "word": "ephah",
+          "context": "... a gift: one-tenth of an ephah of fine flour as a sin o..."
+        },
+        {
+          "anchor": "LEV.6:1",
+          "word": "ephah",
+          "context": "...int him: one-tenth of an ephah of fine flour as a daily..."
+        },
+        {
+          "anchor": "LEV.6:13",
+          "word": "ephah",
+          "context": "...int him: one-tenth of an ephah of fine flour as a daily..."
+        },
+        {
+          "anchor": "LEV.7:1",
+          "word": "ephod",
+          "context": "...th the robe, and put the ephod on him; and he girded hi..."
+        },
+        {
+          "anchor": "LEV.7:1",
+          "word": "ephod",
+          "context": "...th the robe, and put the ephod on him; and he girded hi..."
+        },
+        {
+          "anchor": "LEV.7:1",
+          "word": "ephod",
+          "context": "...th the robe, and put the ephod on him; and he girded hi..."
+        },
+        {
+          "anchor": "LEV.2:12",
+          "word": "firstfruits",
+          "context": "As for a gift of firstfruits, you shall offer them to..."
+        },
+        {
+          "anchor": "LEV.2:14",
+          "word": "firstfruits",
+          "context": "...a grain offering of your firstfruits to the Lord, you shall o..."
+        },
+        {
+          "anchor": "LEV.2:14",
+          "word": "firstfruits",
+          "context": "...a grain offering of your firstfruits to the Lord, you shall o..."
+        },
+        {
+          "anchor": "LEV.23:13",
+          "word": "hin",
+          "context": "...of wine, one-fourth of a hin."
+        },
+        {
+          "anchor": "LEV.11:19",
+          "word": "hoopoe",
+          "context": "...eron after its kind, the hoopoe, and the bat."
+        },
+        {
+          "anchor": "LEV.11:5",
+          "word": "hyrax",
+          "context": "the rock hyrax, because it chews the cu..."
+        },
+        {
+          "anchor": "LEV.24:1",
+          "word": "lampstand",
+          "context": "...erations. 4Upon the pure lampstand, you shall burn the lamp..."
+        },
+        {
+          "anchor": "LEV.24:4",
+          "word": "lampstand",
+          "context": "Upon the pure lampstand, you shall burn the lamp..."
+        },
+        {
+          "anchor": "LEV.7:1",
+          "word": "laver",
+          "context": "...ll its utensils, and the laver and its base, to sanctif..."
+        },
+        {
+          "anchor": "LEV.8:1",
+          "word": "laver",
+          "context": "...ll its utensils, and the laver and its base, to sanctif..."
+        },
+        {
+          "anchor": "LEV.8:11",
+          "word": "laver",
+          "context": "...ll its utensils, and the laver and its base, to sanctif..."
+        },
+        {
+          "anchor": "LEV.27:25",
+          "word": "obols",
+          "context": "...he pure measures: twenty obols to the didrachm."
+        },
+        {
+          "anchor": "LEV.11:13",
+          "word": "ossifrage",
+          "context": "...mination: the eagle, the ossifrage, and the sea eagle,"
+        },
+        {
+          "anchor": "LEV.27:2",
+          "word": "rael",
+          "context": "...ak to the children of Is-rael, and say to them, 'When ..."
+        },
+        {
+          "anchor": "LEV.24:1",
+          "word": "unwalled",
+          "context": "...31However, the houses of unwalled villages shall be counte..."
+        },
+        {
+          "anchor": "LEV.25:1",
+          "word": "unwalled",
+          "context": "...31However, the houses of unwalled villages shall be counte..."
+        },
+        {
+          "anchor": "LEV.25:31",
+          "word": "unwalled",
+          "context": "However, the houses of unwalled villages shall be counte..."
+        }
+      ]
+    },
+    {
+      "book": "45_BAR",
+      "total_suspects": 1,
+      "suspects": [
+        {
+          "anchor": "BAR.2:12",
+          "word": "unrighteously",
+          "context": "...d ungodly, we have acted unrighteously, O Lord our God, against..."
+        }
+      ]
+    },
+    {
+      "book": "15_1ES",
+      "total_suspects": 3,
+      "suspects": [
+        {
+          "anchor": "1ES.5:66",
+          "word": "haddon",
+          "context": "...om the days of King Esar-haddon of the Assyrians who bro..."
+        },
+        {
+          "anchor": "1ES.5:34",
+          "word": "hazzebaim",
+          "context": "...a, the sons of Pochereth-hazzebaim, the sons of Sarothie, t..."
+        },
+        {
+          "anchor": "1ES.5:44",
+          "word": "minas",
+          "context": "... its works: one thousand minas of gold, five thousand m..."
+        },
+        {
+          "anchor": "1ES.5:44",
+          "word": "minas",
+          "context": "... its works: one thousand minas of gold, five thousand m..."
+        }
+      ]
+    },
+    {
+      "book": "01_GEN",
+      "total_suspects": 13,
+      "suspects": [
+        {
+          "anchor": "GEN.22:24",
+          "word": "achah",
+          "context": "..., Gaham, Thahash, and Ma-achah."
+        },
+        {
+          "anchor": "GEN.11:7",
+          "word": "another's",
+          "context": "...y may not understand one another's speech.'"
+        },
+        {
+          "anchor": "GEN.36:30",
+          "word": "chiefdoms",
+          "context": "...ites, according to their chiefdoms in the land of Seir."
+        },
+        {
+          "anchor": "GEN.40:1",
+          "word": "cupbearer",
+          "context": "...he king of Egypt's chief cupbearer."
+        },
+        {
+          "anchor": "GEN.12:4",
+          "word": "de",
+          "context": "Then Abram departed as the Lord said t..."
+        },
+        {
+          "anchor": "GEN.14:4",
+          "word": "laomer",
+          "context": "...ears they served Chedor- laomer, and in the thirteenth t..."
+        },
+        {
+          "anchor": "GEN.25:15",
+          "word": "mah",
+          "context": "...Jetur, Naphish, and Kede-mah."
+        },
+        {
+          "anchor": "GEN.46:20",
+          "word": "nasseh's",
+          "context": "... the sons of Ephraim, Ma-nasseh's brother, were Shuthelah ..."
+        },
+        {
+          "anchor": "GEN.46:20",
+          "word": "nath",
+          "context": "...eh and Ephraim, whom Ase-nath, the daughter of Poti-Ph..."
+        },
+        {
+          "anchor": "GEN.18:26",
+          "word": "sakes",
+          "context": "... all the place for their sakes.'"
+        },
+        {
+          "anchor": "GEN.38:12",
+          "word": "sheepshearers",
+          "context": "...orted and went up to his sheepshearers at Timnah, he and his sh..."
+        },
+        {
+          "anchor": "GEN.36:26",
+          "word": "shon",
+          "context": "...hese were the sons of Di-shon: Hemdan, Eshban, Ithran,..."
+        },
+        {
+          "anchor": "GEN.35:4",
+          "word": "terebinth",
+          "context": "...Jacob hid them under the terebinth tree near Shechem."
+        }
+      ]
+    },
+    {
+      "book": "29_WIS",
+      "total_suspects": 11,
+      "suspects": [
+        {
+          "anchor": "WIS.7:1",
+          "word": "earthborn",
+          "context": "...the same as all men, And earthborn, a descendant of the fir..."
+        },
+        {
+          "anchor": "WIS.6:18",
+          "word": "incorruption",
+          "context": "...laws is the assurance of incorruption;"
+        },
+        {
+          "anchor": "WIS.6:19",
+          "word": "incorruption",
+          "context": "And incorruption brings one near to God."
+        },
+        {
+          "anchor": "WIS.15:9",
+          "word": "melters",
+          "context": "...etes with goldsmiths and melters of silver And imitates b..."
+        },
+        {
+          "anchor": "WIS.18:22",
+          "word": "punisher",
+          "context": "...by a word he subdued the punisher, Because he remembered t..."
+        },
+        {
+          "anchor": "WIS.18:13",
+          "word": "sorceries",
+          "context": "...rything because of their sorceries, But at the destruction ..."
+        },
+        {
+          "anchor": "WIS.15:19",
+          "word": "theyescaped",
+          "context": "...e would desire them, But theyescaped both the praise of God a..."
+        },
+        {
+          "anchor": "WIS.17:3",
+          "word": "theyescaped",
+          "context": "For when they thought theyescaped notice With their secret..."
+        },
+        {
+          "anchor": "WIS.3:13",
+          "word": "undefiled",
+          "context": "Blessed is the undefiled barren woman Who has not..."
+        },
+        {
+          "anchor": "WIS.4:2",
+          "word": "undefiled",
+          "context": "...e leads the struggle for undefiled prizes, Wearing a crown ..."
+        },
+        {
+          "anchor": "WIS.8:20",
+          "word": "undefiled",
+          "context": "...I was good, I entered an undefiled body."
+        },
+        {
+          "anchor": "WIS.1:3",
+          "word": "undiscerning",
+          "context": "...someone, It convicts the undiscerning;"
+        },
+        {
+          "anchor": "WIS.1:5",
+          "word": "undiscerning",
+          "context": "...om deceit And sends away undiscerning reasoning; It will put w..."
+        },
+        {
+          "anchor": "WIS.3:2",
+          "word": "undiscerning",
+          "context": "In the eyes of the undiscerning they seemed to have died..."
+        },
+        {
+          "anchor": "WIS.7:13",
+          "word": "ungrudgingly",
+          "context": "...earned both honestly and ungrudgingly, And I do not hide her w..."
+        },
+        {
+          "anchor": "WIS.14:28",
+          "word": "unrighteously",
+          "context": "...r prophesy lies, Or live unrighteously, or readily swear falsel..."
+        },
+        {
+          "anchor": "WIS.16:29",
+          "word": "unthankful",
+          "context": "For the hope of an unthankful man will melt like the w..."
+        }
+      ]
+    },
+    {
+      "book": "48_EZK",
+      "total_suspects": 25,
+      "suspects": [
+        {
+          "anchor": "EZK.45:24",
+          "word": "ahin",
+          "context": "...cake for each ram, using ahin of oil for each cake."
+        },
+        {
+          "anchor": "EZK.46:5",
+          "word": "ahin",
+          "context": "...ants to give, as well as ahin of oil with every cake."
+        },
+        {
+          "anchor": "EZK.46:7",
+          "word": "ahin",
+          "context": "...er he wishes, along with ahin of oil with the cake."
+        },
+        {
+          "anchor": "EZK.24:17",
+          "word": "bended",
+          "context": "...loodshed and mourning on bended knee. There shall be no ..."
+        },
+        {
+          "anchor": "EZK.28:13",
+          "word": "chrysolite",
+          "context": "...ia, agate, and amethyst, chrysolite, beryl, and onyx. You fi..."
+        },
+        {
+          "anchor": "EZK.26:15",
+          "word": "coastlands",
+          "context": "...r to Tyre: 'Will not the coastlands shake at the sound of yo..."
+        },
+        {
+          "anchor": "EZK.26:18",
+          "word": "coastlands",
+          "context": "...he day of your fall, the coastlands will also be afraid.'"
+        },
+        {
+          "anchor": "EZK.27:3",
+          "word": "coastlands",
+          "context": "...t of the peoples on many coastlands, 'Thus says the Lord to ..."
+        },
+        {
+          "anchor": "EZK.33:29",
+          "word": "defilements",
+          "context": "... heart pursues their own defilements."
+        },
+        {
+          "anchor": "EZK.45:13",
+          "word": "ephah",
+          "context": "...eat, and one-sixth of an ephah from a kor of barley."
+        },
+        {
+          "anchor": "EZK.34:3",
+          "word": "fatlings",
+          "context": "...h the wool. You slay the fatlings, but do not feed My shee..."
+        },
+        {
+          "anchor": "EZK.39:18",
+          "word": "fatted",
+          "context": "... goats; for they are all fatted animals."
+        },
+        {
+          "anchor": "EZK.45:1",
+          "word": "firstfruit",
+          "context": "... you shall set apart the firstfruit for the Lord, a holy sec..."
+        },
+        {
+          "anchor": "EZK.45:6",
+          "word": "firstfruit",
+          "context": "...of Israel shall have the firstfruit of the holy things."
+        },
+        {
+          "anchor": "EZK.45:13",
+          "word": "firstfruit",
+          "context": "'This is the firstfruit you shall offer: you sha..."
+        },
+        {
+          "anchor": "EZK.44:30",
+          "word": "firstfruits",
+          "context": "The best of all firstfruits of any kind, and every s..."
+        },
+        {
+          "anchor": "EZK.45:7",
+          "word": "firstfruits",
+          "context": "...all be a portion for the firstfruits of the sanctuary and for..."
+        },
+        {
+          "anchor": "EZK.45:7",
+          "word": "firstfruits",
+          "context": "...all be a portion for the firstfruits of the sanctuary and for..."
+        },
+        {
+          "anchor": "EZK.40:5",
+          "word": "handbreadth",
+          "context": "...sisting of a cubit and a handbreadth, and he measured the wid..."
+        },
+        {
+          "anchor": "EZK.40:42",
+          "word": "handbreadth",
+          "context": "... projections hewn out, a handbreadth wide, all around, and ov..."
+        },
+        {
+          "anchor": "EZK.43:13",
+          "word": "handbreadth",
+          "context": "...t equals one cubit and a handbreadth): from the drain up one ..."
+        },
+        {
+          "anchor": "EZK.40:41",
+          "word": "hewn",
+          "context": "...were also four tables of hewn stone for the whole burn..."
+        },
+        {
+          "anchor": "EZK.40:42",
+          "word": "hewn",
+          "context": "Inside were projections hewn out, a handbreadth wide,..."
+        },
+        {
+          "anchor": "EZK.4:11",
+          "word": "hin",
+          "context": "... measure, one-sixth of a hin, and from time to time y..."
+        },
+        {
+          "anchor": "EZK.46:14",
+          "word": "hin",
+          "context": "...n unit, and a third of a hin of oil to moisten the fi..."
+        },
+        {
+          "anchor": "EZK.41:4",
+          "word": "holies",
+          "context": "...me, 'This is the holy of holies.'"
+        },
+        {
+          "anchor": "EZK.45:3",
+          "word": "holies",
+          "context": "...e sanctuary, the holy of holies."
+        },
+        {
+          "anchor": "EZK.45:13",
+          "word": "kor",
+          "context": "...sixth of an ephah from a kor of barley."
+        },
+        {
+          "anchor": "EZK.45:12",
+          "word": "mina",
+          "context": "...els shall be for you one mina."
+        },
+        {
+          "anchor": "EZK.45:12",
+          "word": "obols",
+          "context": "...d weight shall be twenty obols. Five shekels shall inde..."
+        },
+        {
+          "anchor": "EZK.14:21",
+          "word": "punishmentssword",
+          "context": "...n Jerusalem My four evil punishmentssword, famine, wild animals, a..."
+        },
+        {
+          "anchor": "EZK.43:23",
+          "word": "ramfrom",
+          "context": "...d without blemish, and a ramfrom the flock without blemis..."
+        },
+        {
+          "anchor": "EZK.43:25",
+          "word": "ramfrom",
+          "context": "...all prepare a calf and a ramfrom the flock, and they shal..."
+        },
+        {
+          "anchor": "EZK.46:4",
+          "word": "ramwithout",
+          "context": "...s without blemish, and a ramwithout blemish,"
+        },
+        {
+          "anchor": "EZK.46:6",
+          "word": "ramwithout",
+          "context": "...lemish, six lambs, and a ramwithout blemish."
+        },
+        {
+          "anchor": "EZK.28:13",
+          "word": "sardius",
+          "context": "...d with every good stone: sardius, topaz, emerald, and dia..."
+        },
+        {
+          "anchor": "EZK.48:20",
+          "word": "twentyfive",
+          "context": "...-five thousand cubits by twentyfive thousand cubits, foursqu..."
+        },
+        {
+          "anchor": "EZK.7:22",
+          "word": "unguardedly",
+          "context": "...vice. They will enter it unguardedly and desecrate it."
+        },
+        {
+          "anchor": "EZK.19:13",
+          "word": "waterless",
+          "context": "... her in the desert, in a waterless land."
+        },
+        {
+          "anchor": "EZK.14:10",
+          "word": "wrongdoingthe",
+          "context": "So they shall bear their wrongdoingthe one who inquired shall b..."
+        }
+      ]
+    },
+    {
+      "book": "07_JDG",
+      "total_suspects": 9,
+      "suspects": [
+        {
+          "anchor": "JDG.8:29",
+          "word": "dwelled",
+          "context": "...he son of Joash went and dwelled in his own house."
+        },
+        {
+          "anchor": "JDG.6:19",
+          "word": "ephah",
+          "context": "...unleavened bread from an ephah of flour. He put the mea..."
+        },
+        {
+          "anchor": "JDG.8:27",
+          "word": "ephod",
+          "context": "...n Gideon made it into an ephod and made a memorial of i..."
+        },
+        {
+          "anchor": "JDG.17:5",
+          "word": "ephod",
+          "context": "...e of God, and he made an ephod and idols; and he consec..."
+        },
+        {
+          "anchor": "JDG.18:14",
+          "word": "ephod",
+          "context": "...n this house there is an ephod, idols, and a carved and..."
+        },
+        {
+          "anchor": "JDG.5:16",
+          "word": "searchings",
+          "context": "... Reuben There were great searchings of heart."
+        },
+        {
+          "anchor": "JDG.1:1",
+          "word": "sha",
+          "context": "...f the Lord, saying, 'Who sha"
+        },
+        {
+          "anchor": "JDG.6:11",
+          "word": "terebinth",
+          "context": "...d came and sat under the terebinth tree in Ephrathah which ..."
+        },
+        {
+          "anchor": "JDG.6:19",
+          "word": "terebinth",
+          "context": "...hem out to Him under the terebinth tree and approached."
+        },
+        {
+          "anchor": "JDG.6:11",
+          "word": "winepress",
+          "context": "...on threshed wheat in the winepress in order to hide from th..."
+        },
+        {
+          "anchor": "JDG.7:25",
+          "word": "winepress",
+          "context": "... Zeeb they killed at the winepress of Zeeb. They pursued Mi..."
+        },
+        {
+          "anchor": "JDG.5:26",
+          "word": "workmen's",
+          "context": "...g, Her right hand to the workmen's hammer; She drove the na..."
+        }
+      ]
+    },
+    {
+      "book": "25_PRO",
+      "total_suspects": 15,
+      "suspects": [
+        {
+          "anchor": "PRO.3:3",
+          "word": "almsgiving",
+          "context": "Do not let almsgiving and faithfulness forsake..."
+        },
+        {
+          "anchor": "PRO.15:26",
+          "word": "almsgiving",
+          "context": "Sins are cleansed by almsgiving and faithfulness, And by..."
+        },
+        {
+          "anchor": "PRO.26:18",
+          "word": "another's",
+          "context": "...who is the mouthpiece of another's cause."
+        },
+        {
+          "anchor": "PRO.23:20",
+          "word": "bibber",
+          "context": "Do not be a wine-bibber, Neither provide contrib..."
+        },
+        {
+          "anchor": "PRO.14:20",
+          "word": "devisers",
+          "context": "...nd faithfulness are with devisers of good things."
+        },
+        {
+          "anchor": "PRO.25:4",
+          "word": "drossy",
+          "context": "Beat drossy silver, And it will be m..."
+        },
+        {
+          "anchor": "PRO.15:17",
+          "word": "fatted",
+          "context": "...endship and grace Than a fatted calf with hostility."
+        },
+        {
+          "anchor": "PRO.3:9",
+          "word": "firstfruits",
+          "context": "...abors, And offer Him the firstfruits from the fruits of your ..."
+        },
+        {
+          "anchor": "PRO.14:14",
+          "word": "hearted",
+          "context": "A bold-hearted man will be filled with ..."
+        },
+        {
+          "anchor": "PRO.16:2",
+          "word": "hearted",
+          "context": "Every high-hearted man is unclean before th..."
+        },
+        {
+          "anchor": "PRO.21:4",
+          "word": "hearted",
+          "context": "... high-minded man is bold-hearted in his arrogance, And th..."
+        },
+        {
+          "anchor": "PRO.15:18",
+          "word": "longsuffering",
+          "context": "A longsuffering man will extinguish cond..."
+        },
+        {
+          "anchor": "PRO.19:8",
+          "word": "longsuffering",
+          "context": "A merciful man is longsuffering, And his boast goes agai..."
+        },
+        {
+          "anchor": "PRO.25:13",
+          "word": "sardius",
+          "context": "...e in a small necklace of sardius stone, Thus it is to spe..."
+        },
+        {
+          "anchor": "PRO.25:14",
+          "word": "sardius",
+          "context": "As a very expensive sardius stone set in a golden ea..."
+        },
+        {
+          "anchor": "PRO.6:36",
+          "word": "sevenfold",
+          "context": "...is caught, he will repay sevenfold, And by giving all his g..."
+        },
+        {
+          "anchor": "PRO.7:7",
+          "word": "undiscerning",
+          "context": "... she might see among the undiscerning children,"
+        },
+        {
+          "anchor": "PRO.12:14",
+          "word": "undiscerning",
+          "context": "The ways of undiscerning men are right in their o..."
+        },
+        {
+          "anchor": "PRO.12:22",
+          "word": "undiscerning",
+          "context": "...on, But the heart of the undiscerning will meet with curses."
+        },
+        {
+          "anchor": "PRO.17:24",
+          "word": "unrighteously",
+          "context": "...a man who receives gifts unrighteously do not prosper, And the ..."
+        },
+        {
+          "anchor": "PRO.19:3",
+          "word": "unrighteously",
+          "context": "...shed, And he who accuses unrighteously shall not escape."
+        },
+        {
+          "anchor": "PRO.19:21",
+          "word": "unrighteously",
+          "context": "...s his hands in his bosom unrighteously, He will not even bring ..."
+        },
+        {
+          "anchor": "PRO.9:15",
+          "word": "waterless",
+          "context": "...d he will pass through a waterless desert, A land assigned ..."
+        },
+        {
+          "anchor": "PRO.3:10",
+          "word": "winepresses",
+          "context": "...dance of grain, And your winepresses may gush with wine."
+        }
+      ]
+    },
+    {
+      "book": "06_JOS",
+      "total_suspects": 3,
+      "suspects": [
+        {
+          "anchor": "JOS.9:16",
+          "word": "dwelled",
+          "context": "... the king of Bashan, who dwelled in Ashtaroth and Edrei."
+        },
+        {
+          "anchor": "JOS.15:64",
+          "word": "dwelled",
+          "context": "As for the Jebusites who dwelled in Jerusalem, the sons o..."
+        },
+        {
+          "anchor": "JOS.24:33",
+          "word": "dwelled",
+          "context": "...ed from the Amorites who dwelled in Shechem for one hundr..."
+        },
+        {
+          "anchor": "JOS.19:33",
+          "word": "terebinth",
+          "context": "...g the territory from the terebinth tree in Zaananim, Adami ..."
+        },
+        {
+          "anchor": "JOS.24:26",
+          "word": "terebinth",
+          "context": "... and set it up under the terebinth tree before the Lord."
+        },
+        {
+          "anchor": "JOS.9:19",
+          "word": "wineskins",
+          "context": "These are the wineskins we filled when new; but ..."
+        }
+      ]
+    },
+    {
+      "book": "46_LAM",
+      "total_suspects": 1,
+      "suspects": [
+        {
+          "anchor": "LAM.1:15",
+          "word": "winepress",
+          "context": "...sen men. The Lord trod a winepress for the virgin daughter ..."
+        }
+      ]
+    },
+    {
+      "book": "21_1MA",
+      "total_suspects": 13,
+      "suspects": [
+        {
+          "anchor": "1MA.10:83",
+          "word": "dagon",
+          "context": "...to Azotus, entering Beth-dagon, their pagan temple, to ..."
+        },
+        {
+          "anchor": "1MA.13:50",
+          "word": "defilements",
+          "context": "...ing the citadel from its defilements."
+        },
+        {
+          "anchor": "1MA.14:47",
+          "word": "ethnarch",
+          "context": "...d to be the governor and ethnarch of the Jews and priests ..."
+        },
+        {
+          "anchor": "1MA.15:1",
+          "word": "ethnarch",
+          "context": "...mon, the high priest and ethnarch of the Jews, and to all ..."
+        },
+        {
+          "anchor": "1MA.15:2",
+          "word": "ethnarch",
+          "context": "...o Simon, high priest and ethnarch, and the nation of the J..."
+        },
+        {
+          "anchor": "1MA.7:39",
+          "word": "horon",
+          "context": "...salem and camped at Beth-horon, and the army of Syria j..."
+        },
+        {
+          "anchor": "1MA.9:50",
+          "word": "horon",
+          "context": "...cho, and in Emmaus, Beth-horon, Bethel, Timnath, Pharat..."
+        },
+        {
+          "anchor": "1MA.1:21",
+          "word": "lampstand",
+          "context": "...ok the golden altar, the lampstand, all the utensils,"
+        },
+        {
+          "anchor": "1MA.14:24",
+          "word": "minas",
+          "context": "... that weighed a thousand minas, to verify the alliance ..."
+        },
+        {
+          "anchor": "1MA.15:18",
+          "word": "minas",
+          "context": "...old shield of a thousand minas."
+        },
+        {
+          "anchor": "1MA.7:31",
+          "word": "salamah",
+          "context": "...tle with Judas at Caphar-salamah."
+        },
+        {
+          "anchor": "1MA.5:52",
+          "word": "shan",
+          "context": "... great plain facing Beth-shan;"
+        },
+        {
+          "anchor": "1MA.12:40",
+          "word": "shan",
+          "context": "...he marched forth to Beth-shan."
+        },
+        {
+          "anchor": "1MA.12:41",
+          "word": "shan",
+          "context": "...tle, and he came to Beth-shan."
+        },
+        {
+          "anchor": "1MA.1:15",
+          "word": "uncircumcision",
+          "context": "...d made themselves as the uncircumcision. So they fell away from ..."
+        },
+        {
+          "anchor": "1MA.10:31",
+          "word": "vicinities",
+          "context": "...n, let Jerusalem and her vicinities be set apart and release..."
+        },
+        {
+          "anchor": "1MA.10:43",
+          "word": "vicinities",
+          "context": "...rusalem or in any of its vicinities because he owes a royal ..."
+        },
+        {
+          "anchor": "1MA.7:19",
+          "word": "zaith",
+          "context": "...alem and marched to Beth-zaith. He sent for and capture..."
+        },
+        {
+          "anchor": "1MA.6:32",
+          "word": "zechariah",
+          "context": "... and set up camp at Beth-zechariah, across from the king's ..."
+        },
+        {
+          "anchor": "1MA.6:33",
+          "word": "zechariah",
+          "context": "...h on the highway to Beth-zechariah. His soldiers prepared t..."
+        },
+        {
+          "anchor": "1MA.4:29",
+          "word": "zur",
+          "context": "...dumea and camped in Beth-zur, and Judas met them ther..."
+        },
+        {
+          "anchor": "1MA.4:61",
+          "word": "zur",
+          "context": "...rtified the town of Beth-zur, so the people would hav..."
+        },
+        {
+          "anchor": "1MA.6:7",
+          "word": "zur",
+          "context": "... before, as well as Beth-zur, his hometown."
+        }
+      ]
+    },
+    {
+      "book": "17_NEH",
+      "total_suspects": 4,
+      "suspects": [
+        {
+          "anchor": "NEH.1:11",
+          "word": "cupbearer",
+          "context": "...of this man.' (For I was cupbearer to the king.)"
+        },
+        {
+          "anchor": "NEH.10:1",
+          "word": "firstfruits",
+          "context": "... ordinances to bring the firstfruits of our ground and the fi..."
+        },
+        {
+          "anchor": "NEH.10:1",
+          "word": "firstfruits",
+          "context": "... ordinances to bring the firstfruits of our ground and the fi..."
+        },
+        {
+          "anchor": "NEH.10:1",
+          "word": "firstfruits",
+          "context": "... ordinances to bring the firstfruits of our ground and the fi..."
+        },
+        {
+          "anchor": "NEH.7:71",
+          "word": "minas",
+          "context": "...usand two hundred silver minas."
+        },
+        {
+          "anchor": "NEH.7:72",
+          "word": "minas",
+          "context": "...usand two hundred silver minas, and sixty-seven priestl..."
+        },
+        {
+          "anchor": "NEH.10:1",
+          "word": "showbread",
+          "context": "...se of our God: 33for the showbread, for the regular grain o..."
+        },
+        {
+          "anchor": "NEH.10:33",
+          "word": "showbread",
+          "context": "for the showbread, for the regular grain o..."
+        }
+      ]
+    },
+    {
+      "book": "08_RUT",
+      "total_suspects": 5,
+      "suspects": [
+        {
+          "anchor": "RUT.2:13",
+          "word": "bondswomen",
+          "context": "...will be like one of your bondswomen.'"
+        },
+        {
+          "anchor": "RUT.2:17",
+          "word": "ephah",
+          "context": "...ned, and it was about an ephah of barley."
+        },
+        {
+          "anchor": "RUT.3:15",
+          "word": "ephahs",
+          "context": "...held it, he measured six ephahs of barley, and laid it o..."
+        },
+        {
+          "anchor": "RUT.3:17",
+          "word": "ephahs",
+          "context": "...r, 'He gave me these six ephahs of barley; for he said t..."
+        },
+        {
+          "anchor": "RUT.4:15",
+          "word": "nourisher",
+          "context": "...a restorer of life and a nourisher of your old age; for you..."
+        },
+        {
+          "anchor": "RUT.1:13",
+          "word": "sakes",
+          "context": "...es me very much for your sakes that the hand of the Lor..."
+        }
+      ]
+    },
+    {
+      "book": "20_EST",
+      "total_suspects": 3,
+      "suspects": [
+        {
+          "anchor": "EST.4:18",
+          "word": "beseeched",
+          "context": "17a He then beseeched the Lord, remembering al..."
+        },
+        {
+          "anchor": "EST.9:25",
+          "word": "pur",
+          "context": "...language they are called pur), because of the words o..."
+        },
+        {
+          "anchor": "EST.8:13",
+          "word": "satrapies",
+          "context": "...the hundred twenty-seven satrapies, from India to Ethiopia,..."
+        }
+      ]
+    },
+    {
+      "book": "43_ISA",
+      "total_suspects": 23,
+      "suspects": [
+        {
+          "anchor": "ISA.34:15",
+          "word": "another's",
+          "context": "...lso gathered and saw one another's faces."
+        },
+        {
+          "anchor": "ISA.41:1",
+          "word": "coastlands",
+          "context": "Be renewed before Me, O coastlands, for the rulers will gai..."
+        },
+        {
+          "anchor": "ISA.42:10",
+          "word": "coastlands",
+          "context": "... sea and sail on it, you coastlands and you who inhabit them..."
+        },
+        {
+          "anchor": "ISA.42:12",
+          "word": "coastlands",
+          "context": "...clare His virtues in the coastlands."
+        },
+        {
+          "anchor": "ISA.14:4",
+          "word": "compeller",
+          "context": "...cter has ceased, and the compeller ceased!"
+        },
+        {
+          "anchor": "ISA.28:25",
+          "word": "cummin",
+          "context": "...then sow the small black cummin, and afterward sow the w..."
+        },
+        {
+          "anchor": "ISA.28:27",
+          "word": "cummin",
+          "context": "For the black cummin is not cleansed with har..."
+        },
+        {
+          "anchor": "ISA.28:27",
+          "word": "cummin",
+          "context": "For the black cummin is not cleansed with har..."
+        },
+        {
+          "anchor": "ISA.2:6",
+          "word": "divinations",
+          "context": "...heir land is filled with divinations like the land of foreign..."
+        },
+        {
+          "anchor": "ISA.44:25",
+          "word": "divinations",
+          "context": "...f ventriloquists and the divinations from their heart, turnin..."
+        },
+        {
+          "anchor": "ISA.9:3",
+          "word": "exactors",
+          "context": "...ord broke the rod of the exactors as in the day of Midian."
+        },
+        {
+          "anchor": "ISA.46:12",
+          "word": "hearted",
+          "context": "...sten to Me, you stubborn-hearted who are far from righteo..."
+        },
+        {
+          "anchor": "ISA.57:15",
+          "word": "hearted",
+          "context": "...ves patience to the fainthearted and life to the broken-h..."
+        },
+        {
+          "anchor": "ISA.22:16",
+          "word": "hewn",
+          "context": "...is to you, that you have hewn a memorial here for your..."
+        },
+        {
+          "anchor": "ISA.3:23",
+          "word": "hyacinthine",
+          "context": "the fine linen-the hyacinthine and scarlet and flax int..."
+        },
+        {
+          "anchor": "ISA.24:7",
+          "word": "merryhearted",
+          "context": "...shall mourn, and all the merryhearted will groan."
+        },
+        {
+          "anchor": "ISA.28:25",
+          "word": "oneseeded",
+          "context": "...eat, the barley, and the oneseeded wheat in your borders?"
+        },
+        {
+          "anchor": "ISA.3:12",
+          "word": "punishers",
+          "context": "'O My people, your punishers gather you, and those wh..."
+        },
+        {
+          "anchor": "ISA.24:16",
+          "word": "rejecters",
+          "context": "...ey will say, 'Woe to the rejecters, who reject the law!'"
+        },
+        {
+          "anchor": "ISA.6:2",
+          "word": "seraphim",
+          "context": "Around Him stood seraphim; each one had six wings:..."
+        },
+        {
+          "anchor": "ISA.6:6",
+          "word": "seraphim",
+          "context": "Then one of the seraphim was sent to me. He had a..."
+        },
+        {
+          "anchor": "ISA.30:26",
+          "word": "sevenfold",
+          "context": "...light of the sun will be sevenfold, when the Lord heals the..."
+        },
+        {
+          "anchor": "ISA.47:12",
+          "word": "sorceries",
+          "context": "...nd the multitude of your sorceries which you learned from y..."
+        },
+        {
+          "anchor": "ISA.1:22",
+          "word": "tavernkeepers",
+          "context": "...ilver is worthless; your tavernkeepers mix wine with water."
+        },
+        {
+          "anchor": "ISA.1:30",
+          "word": "terebinth",
+          "context": "For they shall be as a terebinth tree that has lost its l..."
+        },
+        {
+          "anchor": "ISA.6:13",
+          "word": "terebinth",
+          "context": "...e for plundering, like a terebinth tree or like an acorn wh..."
+        },
+        {
+          "anchor": "ISA.16:10",
+          "word": "treaders",
+          "context": "... be no rejoicing; and no treaders will tread out wine in t..."
+        },
+        {
+          "anchor": "ISA.59:7",
+          "word": "undiscerning",
+          "context": "...ghts are the thoughts of undiscerning men, and destruction and..."
+        },
+        {
+          "anchor": "ISA.61:5",
+          "word": "vinedressers",
+          "context": "...hall be your plowmen and vinedressers;"
+        },
+        {
+          "anchor": "ISA.35:7",
+          "word": "waterless",
+          "context": "The waterless desert shall become mead..."
+        },
+        {
+          "anchor": "ISA.41:19",
+          "word": "waterless",
+          "context": "... the white poplar in the waterless ground,"
+        },
+        {
+          "anchor": "ISA.43:19",
+          "word": "waterless",
+          "context": "...desert and rivers in the waterless places."
+        },
+        {
+          "anchor": "ISA.5:2",
+          "word": "winepress",
+          "context": "...ts midst and also made a winepress in it. So I waited for i..."
+        },
+        {
+          "anchor": "ISA.63:2",
+          "word": "winepress",
+          "context": "...l as one who treads in a winepress?"
+        }
+      ]
+    },
+    {
+      "book": "42_MAL",
+      "total_suspects": 0,
+      "suspects": []
+    },
+    {
+      "book": "11_1KI",
+      "total_suspects": 13,
+      "suspects": [
+        {
+          "anchor": "1KI.7:29",
+          "word": "bowlshaped",
+          "context": "...e-works covering the two bowlshaped capitals on top of the p..."
+        },
+        {
+          "anchor": "1KI.2:69",
+          "word": "brickworks",
+          "context": "...emple-court and over the brickworks, and Zechariah, the son ..."
+        },
+        {
+          "anchor": "1KI.15:9",
+          "word": "cultic",
+          "context": "He removed the cultic rituals from the land, a..."
+        },
+        {
+          "anchor": "1KI.16:28",
+          "word": "cultic",
+          "context": "And the rest of the cultic groups which remained fr..."
+        },
+        {
+          "anchor": "1KI.10:6",
+          "word": "cupbearers",
+          "context": "...s and their apparel, his cupbearers, and the burnt offering ..."
+        },
+        {
+          "anchor": "1KI.5:4",
+          "word": "fatted",
+          "context": "...and gazelles, and choice fatted hens,"
+        },
+        {
+          "anchor": "1KI.7:14",
+          "word": "handbreadth",
+          "context": "...ly blossom, and it was a handbreadth in thickness."
+        },
+        {
+          "anchor": "1KI.6:35",
+          "word": "hewn",
+          "context": "...court with three rows of hewn stone and a row of cedar..."
+        },
+        {
+          "anchor": "1KI.6:16",
+          "word": "holies",
+          "context": "...anctuary, as the holy of holies."
+        },
+        {
+          "anchor": "1KI.7:37",
+          "word": "holies",
+          "context": "...oom-that is, the holy of holies-and for the doors of the..."
+        },
+        {
+          "anchor": "1KI.8:5",
+          "word": "holies",
+          "context": "...e temple, to the holy of holies, under the wings of the ..."
+        },
+        {
+          "anchor": "1KI.10:18",
+          "word": "minas",
+          "context": "...ammered gold, with three minas of gold that went into e..."
+        },
+        {
+          "anchor": "1KI.8:51",
+          "word": "ourself",
+          "context": "... house of splendor for y ourself, He spoke to those dwell..."
+        },
+        {
+          "anchor": "1KI.7:35",
+          "word": "showbread",
+          "context": "...e table on which was the showbread, also of gold;"
+        },
+        {
+          "anchor": "1KI.2:40",
+          "word": "stonecutters",
+          "context": "... men and eighty thousand stonecutters in the mountain."
+        },
+        {
+          "anchor": "1KI.2:41",
+          "word": "undergirding",
+          "context": "...olomon made the sea, the undergirding, the great basins, the p..."
+        }
+      ]
+    },
+    {
+      "book": "32_AMO",
+      "total_suspects": 3,
+      "suspects": [
+        {
+          "anchor": "AMO.3:5",
+          "word": "fowler",
+          "context": "...l to the earth without a fowler? Will a snare be sprung ..."
+        },
+        {
+          "anchor": "AMO.5:11",
+          "word": "hewn",
+          "context": "...im. They built houses of hewn stone, yet they shall no..."
+        },
+        {
+          "anchor": "AMO.7:14",
+          "word": "sheepbreeder",
+          "context": "...f a prophet. I was but a sheepbreeder and a tender of sycamore..."
+        }
+      ]
+    },
+    {
+      "book": "36_JON",
+      "total_suspects": 1,
+      "suspects": [
+        {
+          "anchor": "JON.4:2",
+          "word": "longsuffering",
+          "context": "...passionate and merciful, longsuffering and abundant in mercy, a..."
+        }
+      ]
+    },
+    {
+      "book": "49_DAN",
+      "total_suspects": 6,
+      "suspects": [
+        {
+          "anchor": "DAN.9:26",
+          "word": "desolations",
+          "context": "...hall appoint the city to desolations."
+        },
+        {
+          "anchor": "DAN.9:27",
+          "word": "desolations",
+          "context": "...emple the abomination of desolations, and to the end of the t..."
+        },
+        {
+          "anchor": "DAN.3:68",
+          "word": "dews",
+          "context": "Bless the Lord, you dews and snows, And sing a hy..."
+        },
+        {
+          "anchor": "DAN.4:12",
+          "word": "dwelled",
+          "context": "... and the birds of heaven dwelled in its branches. All fle..."
+        },
+        {
+          "anchor": "DAN.4:21",
+          "word": "dwelled",
+          "context": "... and the birds of heaven dwelled in its branches-"
+        },
+        {
+          "anchor": "DAN.3:39",
+          "word": "fatted",
+          "context": "...And as with thousands of fatted lambs."
+        },
+        {
+          "anchor": "DAN.3:70",
+          "word": "hoarfrosts",
+          "context": "Bless the Lord, you hoarfrosts and snows, And sing a hy..."
+        },
+        {
+          "anchor": "DAN.4:27",
+          "word": "longsuffering",
+          "context": "...oor. Perhaps God will be longsuffering regarding your trespasse..."
+        }
+      ]
+    },
+    {
+      "book": "44_JER",
+      "total_suspects": 11,
+      "suspects": [
+        {
+          "anchor": "JER.39:34",
+          "word": "defilements",
+          "context": "..., they put their unclean defilements in the house in which My..."
+        },
+        {
+          "anchor": "JER.14:1",
+          "word": "divinations",
+          "context": "...ecause of false visions, divinations, prophesying by the way ..."
+        },
+        {
+          "anchor": "JER.14:14",
+          "word": "divinations",
+          "context": "...ecause of false visions, divinations, prophesying by the way ..."
+        },
+        {
+          "anchor": "JER.26:20",
+          "word": "fatted",
+          "context": "...ries in her midst are as fatted calves, well fed by her,..."
+        },
+        {
+          "anchor": "JER.3:2",
+          "word": "fornications",
+          "context": "...filed the land with your fornications and vices."
+        },
+        {
+          "anchor": "JER.33:20",
+          "word": "jearim",
+          "context": "...n of Shemaiah of Kirjath-jearim, and he prophesied conce..."
+        },
+        {
+          "anchor": "JER.9:24",
+          "word": "uncircumcision",
+          "context": "...ll the circumcised their uncircumcision."
+        },
+        {
+          "anchor": "JER.4:3",
+          "word": "untilled",
+          "context": "...'Plow for yourselves the untilled fields, and do not sow a..."
+        },
+        {
+          "anchor": "JER.2:1",
+          "word": "untrodden",
+          "context": "...rness, in an unknown and untrodden land, a land that was wa..."
+        },
+        {
+          "anchor": "JER.2:6",
+          "word": "untrodden",
+          "context": "...rness, in an unknown and untrodden land, a land that was wa..."
+        },
+        {
+          "anchor": "JER.30:27",
+          "word": "untrodden",
+          "context": "...g place for sparrows and untrodden forever. No man shall se..."
+        },
+        {
+          "anchor": "JER.52:13",
+          "word": "vinedressers",
+          "context": "...nant of the people to be vinedressers and farmers."
+        },
+        {
+          "anchor": "JER.2:1",
+          "word": "waterless",
+          "context": "...en land, a land that was waterless and barren, in which no ..."
+        },
+        {
+          "anchor": "JER.2:6",
+          "word": "waterless",
+          "context": "...en land, a land that was waterless and barren, in which no ..."
+        },
+        {
+          "anchor": "JER.28:43",
+          "word": "waterless",
+          "context": "Her cities became a waterless and impassable land. Not..."
+        },
+        {
+          "anchor": "JER.31:33",
+          "word": "winepresses",
+          "context": "...there is no wine in your winepresses. In the morning, there a..."
+        }
+      ]
+    },
+    {
+      "book": "31_HOS",
+      "total_suspects": 3,
+      "suspects": [
+        {
+          "anchor": "HOS.2:19",
+          "word": "compassions",
+          "context": "...ustice, And in mercy and compassions."
+        },
+        {
+          "anchor": "HOS.4:12",
+          "word": "whoredom",
+          "context": "...ne astray in a spirit of whoredom And grievously gone a-wh..."
+        },
+        {
+          "anchor": "HOS.9:2",
+          "word": "winepress",
+          "context": "The threshing floor and winepress did not know them, And t..."
+        }
+      ]
+    },
+    {
+      "book": "02_EXO",
+      "total_suspects": 28,
+      "suspects": [
+        {
+          "anchor": "EXO.30:23",
+          "word": "calamus",
+          "context": "...hekels of sweet-smelling calamus,"
+        },
+        {
+          "anchor": "EXO.28:20",
+          "word": "chrysolite",
+          "context": "and the fourth row, a chrysolite, a beryl, and an onyx. T..."
+        },
+        {
+          "anchor": "EXO.36:20",
+          "word": "chrysolite",
+          "context": "and the fourth row, a chrysolite, a beryl, and an onyx, s..."
+        },
+        {
+          "anchor": "EXO.12:1",
+          "word": "covenantal",
+          "context": "...eople to return to their covenantal responsibilities (Jdg 6:..."
+        },
+        {
+          "anchor": "EXO.28:33",
+          "word": "defilements",
+          "context": "...aron shall take away the defilements of the holy things which..."
+        },
+        {
+          "anchor": "EXO.28:4",
+          "word": "ephod",
+          "context": "... make: a breastplate, an ephod, a full-length robe, a s..."
+        },
+        {
+          "anchor": "EXO.28:6",
+          "word": "ephod",
+          "context": "and they shall make the ephod of fine spun linen, the ..."
+        },
+        {
+          "anchor": "EXO.28:7",
+          "word": "ephod",
+          "context": "The two parts of the ephod shall be joined together..."
+        },
+        {
+          "anchor": "EXO.30:34",
+          "word": "galbanum",
+          "context": "...cte and onycha and sweet galbanum, and pure frankincense; ..."
+        },
+        {
+          "anchor": "EXO.25:1",
+          "word": "handbreadth",
+          "context": "...d, and also a crown of a handbreadth all around, 25and you sh..."
+        },
+        {
+          "anchor": "EXO.6:9",
+          "word": "heartedness",
+          "context": "...s because of their faint-heartedness and cruel bondage."
+        },
+        {
+          "anchor": "EXO.20:25",
+          "word": "hewn",
+          "context": "...ou shall not build it of hewn stone; for if you use yo..."
+        },
+        {
+          "anchor": "EXO.29:40",
+          "word": "hin",
+          "context": "...xed with one-fourth of a hin of pressed oil, and one-..."
+        },
+        {
+          "anchor": "EXO.29:40",
+          "word": "hin",
+          "context": "...xed with one-fourth of a hin of pressed oil, and one-..."
+        },
+        {
+          "anchor": "EXO.30:24",
+          "word": "hin",
+          "context": "... of the sanctuary, and a hin of olive oil."
+        },
+        {
+          "anchor": "EXO.26:33",
+          "word": "holies",
+          "context": "...ly place and the holy of holies."
+        },
+        {
+          "anchor": "EXO.26:34",
+          "word": "holies",
+          "context": "...testimony in the holy of holies."
+        },
+        {
+          "anchor": "EXO.13:1",
+          "word": "immoveable",
+          "context": "... a sign on your hand and immoveable before your eyes, for wi..."
+        },
+        {
+          "anchor": "EXO.13:16",
+          "word": "immoveable",
+          "context": "... a sign on your hand and immoveable before your eyes, for wi..."
+        },
+        {
+          "anchor": "EXO.28:19",
+          "word": "jacinth",
+          "context": "the third row, a jacinth, an agate, and an amethy..."
+        },
+        {
+          "anchor": "EXO.36:19",
+          "word": "jacinth",
+          "context": "and the third row, a jacinth, an agate, and an amethy..."
+        },
+        {
+          "anchor": "EXO.6:19",
+          "word": "kindreds",
+          "context": "... Levi according to their kindreds."
+        },
+        {
+          "anchor": "EXO.25:1",
+          "word": "lampstand",
+          "context": "...31\u201cYou shall also make a lampstand of pure gold which shall..."
+        },
+        {
+          "anchor": "EXO.25:1",
+          "word": "lampstand",
+          "context": "...31\u201cYou shall also make a lampstand of pure gold which shall..."
+        },
+        {
+          "anchor": "EXO.25:1",
+          "word": "lampstand",
+          "context": "...31\u201cYou shall also make a lampstand of pure gold which shall..."
+        },
+        {
+          "anchor": "EXO.30:18",
+          "word": "laver",
+          "context": "'You shall also make a laver of bronze, with its base..."
+        },
+        {
+          "anchor": "EXO.30:28",
+          "word": "laver",
+          "context": "...ll its utensils, and the laver and its base."
+        },
+        {
+          "anchor": "EXO.31:1",
+          "word": "laver",
+          "context": "...l its utensils, 9and the laver and its base\u2014 10the litu..."
+        },
+        {
+          "anchor": "EXO.30:13",
+          "word": "obols",
+          "context": "...ary (a drachma is twenty obols). The half-drachma shall..."
+        },
+        {
+          "anchor": "EXO.16:16",
+          "word": "omer",
+          "context": "...r it for his family, one omer according to the head co..."
+        },
+        {
+          "anchor": "EXO.16:32",
+          "word": "omer",
+          "context": "...Lord commanded: 'Fill an omer with the manna to be kep..."
+        },
+        {
+          "anchor": "EXO.16:33",
+          "word": "omer",
+          "context": "...golden pot, put one full omer of the manna in it, and ..."
+        },
+        {
+          "anchor": "EXO.16:18",
+          "word": "omers",
+          "context": "...when they measured it by omers, he who gathered much ha..."
+        },
+        {
+          "anchor": "EXO.16:22",
+          "word": "omers",
+          "context": "...twice as much bread, two omers for each one; and all th..."
+        },
+        {
+          "anchor": "EXO.30:34",
+          "word": "onycha",
+          "context": "...sweet spices, stacte and onycha and sweet galbanum, and ..."
+        },
+        {
+          "anchor": "EXO.12:1",
+          "word": "pascha",
+          "context": "...st becomes our Passover (pascha in Greek). Through Him w..."
+        },
+        {
+          "anchor": "EXO.1:3",
+          "word": "sachar",
+          "context": "Is-sachar, Zebulun, and Benjamin;"
+        },
+        {
+          "anchor": "EXO.25:1",
+          "word": "sardius",
+          "context": "...composition of incense; 7sardius stones, and stones for t..."
+        },
+        {
+          "anchor": "EXO.25:7",
+          "word": "sardius",
+          "context": "sardius stones, and stones for t..."
+        },
+        {
+          "anchor": "EXO.28:17",
+          "word": "sardius",
+          "context": "...ere shall be a row for a sardius, a topaz, and an emerald..."
+        },
+        {
+          "anchor": "EXO.34:21",
+          "word": "seedtime",
+          "context": ".... There shall be rest in seedtime and harvest."
+        },
+        {
+          "anchor": "EXO.7:11",
+          "word": "sorceries",
+          "context": "... did the same with their sorceries."
+        },
+        {
+          "anchor": "EXO.7:22",
+          "word": "sorceries",
+          "context": "... did the same with their sorceries; and Pharaoh's heart was..."
+        },
+        {
+          "anchor": "EXO.8:3",
+          "word": "sorceries",
+          "context": "... did the same with their sorceries and brought up frogs on ..."
+        },
+        {
+          "anchor": "EXO.30:34",
+          "word": "stacte",
+          "context": "...ses, 'Take sweet spices, stacte and onycha and sweet gal..."
+        },
+        {
+          "anchor": "EXO.9:28",
+          "word": "thunderings",
+          "context": "...d, and let Him cause the thunderings of God to cease, and the..."
+        },
+        {
+          "anchor": "EXO.19:16",
+          "word": "thunderings",
+          "context": "... the morning, there were thunderings and lightnings and a dar..."
+        },
+        {
+          "anchor": "EXO.20:18",
+          "word": "thunderings",
+          "context": "...the people witnessed the thunderings, the lightning flashes, ..."
+        },
+        {
+          "anchor": "EXO.12:1",
+          "word": "typological",
+          "context": "...st the Redeemer. In many typological details, the Passover of..."
+        }
+      ]
+    },
+    {
+      "book": "10_2SA",
+      "total_suspects": 0,
+      "suspects": []
+    },
+    {
+      "book": "04_NUM",
+      "total_suspects": 17,
+      "suspects": [
+        {
+          "anchor": "NUM.1:16",
+          "word": "chiliarchs",
+          "context": "...heir fathers' tribes and chiliarchs in Israel."
+        },
+        {
+          "anchor": "NUM.11:32",
+          "word": "cors",
+          "context": "...hered least gathered ten cors); and they spread the me..."
+        },
+        {
+          "anchor": "NUM.26:1",
+          "word": "daites",
+          "context": "...d the tribe of the Shemi-daites; and Hepher and the trib..."
+        },
+        {
+          "anchor": "NUM.26:36",
+          "word": "daites",
+          "context": "...d the tribe of the Shemi-daites; and Hepher and the trib..."
+        },
+        {
+          "anchor": "NUM.3:47",
+          "word": "didrachm",
+          "context": "...em according to the holy didrachm, the twenty obols of the..."
+        },
+        {
+          "anchor": "NUM.22:7",
+          "word": "divinations",
+          "context": "...dian departed with their divinations in their hand; and they ..."
+        },
+        {
+          "anchor": "NUM.5:15",
+          "word": "ephah",
+          "context": "...for her, one-tenth of an ephah of barley meal; he shall..."
+        },
+        {
+          "anchor": "NUM.15:4",
+          "word": "ephah",
+          "context": "...ering of one-tenth of an ephah of fine flour prepared w..."
+        },
+        {
+          "anchor": "NUM.15:6",
+          "word": "ephah",
+          "context": "...ring of two-tenths of an ephah of fine flour prepared w..."
+        },
+        {
+          "anchor": "NUM.18:11",
+          "word": "firstfruit",
+          "context": "'This also shall be a firstfruit for you from their gifts..."
+        },
+        {
+          "anchor": "NUM.18:30",
+          "word": "firstfruit",
+          "context": "...em, 'When you remove the firstfruit from it, then all the re..."
+        },
+        {
+          "anchor": "NUM.18:32",
+          "word": "firstfruit",
+          "context": "... it, for you removed the firstfruit from it. But you shall n..."
+        },
+        {
+          "anchor": "NUM.15:20",
+          "word": "firstfruits",
+          "context": "...ion of your bread as the firstfruits of the dough, as a choic..."
+        },
+        {
+          "anchor": "NUM.15:21",
+          "word": "firstfruits",
+          "context": "as the firstfruits of your dough, and you s..."
+        },
+        {
+          "anchor": "NUM.18:8",
+          "word": "firstfruits",
+          "context": "...give you charge over the firstfruits from all the things sanc..."
+        },
+        {
+          "anchor": "NUM.23:14",
+          "word": "hewn",
+          "context": "...nd, upon the summit of a hewn rock, and built seven al..."
+        },
+        {
+          "anchor": "NUM.15:4",
+          "word": "hin",
+          "context": "...red with one-fourth of a hin of oil;"
+        },
+        {
+          "anchor": "NUM.15:5",
+          "word": "hin",
+          "context": "and one-fourth of a hin of wine as a drink offer..."
+        },
+        {
+          "anchor": "NUM.15:6",
+          "word": "hin",
+          "context": "...ared with one-third of a hin of oil;"
+        },
+        {
+          "anchor": "NUM.3:31",
+          "word": "lampstand",
+          "context": "... the ark, the table, the lampstand, the altars, the utensil..."
+        },
+        {
+          "anchor": "NUM.4:9",
+          "word": "lampstand",
+          "context": "...blue cloth and cover the lampstand of the light with its la..."
+        },
+        {
+          "anchor": "NUM.8:2",
+          "word": "lampstand",
+          "context": "...ve light in front of the lampstand.' '"
+        },
+        {
+          "anchor": "NUM.4:14",
+          "word": "laver",
+          "context": "...urple cloth to cover the laver and its base, and put th..."
+        },
+        {
+          "anchor": "NUM.14:18",
+          "word": "longsuffering",
+          "context": "'The Lord is longsuffering and abundant in mercy an..."
+        },
+        {
+          "anchor": "NUM.34:1",
+          "word": "manslayer",
+          "context": "...you will give them for a manslayer to flee there; and you s..."
+        },
+        {
+          "anchor": "NUM.34:1",
+          "word": "manslayer",
+          "context": "...you will give them for a manslayer to flee there; and you s..."
+        },
+        {
+          "anchor": "NUM.34:1",
+          "word": "manslayer",
+          "context": "...you will give them for a manslayer to flee there; and you s..."
+        },
+        {
+          "anchor": "NUM.3:47",
+          "word": "obols",
+          "context": "...oly didrachm, the twenty obols of the shekel."
+        },
+        {
+          "anchor": "NUM.18:16",
+          "word": "obols",
+          "context": "... shekel (that is, twenty obols)."
+        },
+        {
+          "anchor": "NUM.13:19",
+          "word": "unwalled",
+          "context": "...abit? Are they walled or unwalled?"
+        },
+        {
+          "anchor": "NUM.22:39",
+          "word": "unwalled",
+          "context": "... Balak, and they came to unwalled encampments."
+        },
+        {
+          "anchor": "NUM.31:1",
+          "word": "unwalled",
+          "context": "...they dwelt and all their unwalled villages. 11They took as..."
+        },
+        {
+          "anchor": "NUM.18:27",
+          "word": "winepress",
+          "context": "...he choice portion of the winepress."
+        },
+        {
+          "anchor": "NUM.18:30",
+          "word": "winepress",
+          "context": "...nd as the produce of the winepress."
+        }
+      ]
+    },
+    {
+      "book": "14_2CH",
+      "total_suspects": 6,
+      "suspects": [
+        {
+          "anchor": "2CH.31:5",
+          "word": "firstfruits",
+          "context": "...brought in abundance the firstfruits of grain and wine, olive..."
+        },
+        {
+          "anchor": "2CH.4:1",
+          "word": "handbreadth",
+          "context": "...ointed inward. 5It was a handbreadth thick and its brim was l..."
+        },
+        {
+          "anchor": "2CH.34:11",
+          "word": "hewn",
+          "context": "...ters and builders to buy hewn stone and timber for bea..."
+        },
+        {
+          "anchor": "2CH.2:9",
+          "word": "kors",
+          "context": "..., I gave twenty thousand kors of wheat, twenty thousan..."
+        },
+        {
+          "anchor": "2CH.2:9",
+          "word": "kors",
+          "context": "..., I gave twenty thousand kors of wheat, twenty thousan..."
+        },
+        {
+          "anchor": "2CH.27:5",
+          "word": "kors",
+          "context": "... of silver, ten thousand kors of wheat, and ten thousa..."
+        },
+        {
+          "anchor": "2CH.4:1",
+          "word": "lampstands",
+          "context": "...sh in. 7He made ten gold lampstands according to their desig..."
+        },
+        {
+          "anchor": "2CH.2:3",
+          "word": "showbread",
+          "context": "...nse before Him, to offer showbread continually, and to offe..."
+        },
+        {
+          "anchor": "2CH.4:1",
+          "word": "showbread",
+          "context": "...r and the tables for the showbread, 20the lamp stands with ..."
+        },
+        {
+          "anchor": "2CH.4:19",
+          "word": "showbread",
+          "context": "...r and the tables for the showbread,"
+        }
+      ]
+    }
+  ]
+}

@@ -2,22 +2,32 @@
   "anchor_id": "MAT.26:38",
   "canon_uri": "canon/NT/MAT.md#MAT.26:38",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Then He said to them, 'My soul is exceedingly sorrowful, even to death. Stay here and watch with Me.'",
+  "pericope": {
+    "id": "MAT.P086",
+    "title": "Prediction of Peter's Denial",
+    "range": "MAT.26:30-26:74",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/HEB_footnotes.md",
-      "line_number": 483,
+      "source_file": "study/footnotes/NT/HEB_footnotes.md",
+      "line_number": 314,
       "raw_match": "[[MAT.26:36]]-46",
       "reference_type": "wikilink_range",
-      "context": "Gethsemane ([[MAT.26:36]]-46; [[MRK.14:32]]-42; [[LUK.22:39]]-46)."
+      "context": "Cries and tears is likely a reference to our Lord's agonizing prayer in the Garden of Gethsemane ([[MAT.26:36]]-46; [[MRK.14:32]]-42; [[LUK.22:39]]-46)."
     },
     {
-      "source_file": "staging/validated/OT/PSA_footnotes.md",
-      "line_number": 1915,
+      "source_file": "study/footnotes/OT/PSA_footnotes.md",
+      "line_number": 1164,
       "raw_match": "[[MAT.26:38]]",
       "reference_type": "wikilink",
-      "context": "(see also [[MAT.26:38]]). He also rose again for our salvation, for He is the Lord over death"
+      "context": "Ps 101 is about a a poor man, when he was depressed and poured out his supplication before the Lord (v. 1). This Man is Jesus, who became poor for our sakes and interceded with the Father for our salvation (see also [[2CO.8:9]]; [[HEB.5:7]]). The Lord to whom He prays is the Father (v. 2), and vv. 3-12 describe Jesus' extreme anguish for us (see also [[MAT.26:38]]). He also rose again for our salvation, for He is the Lord over death (when You rise up, v. 14). He is the Creator of the world (vv. 26-28; see also [[HEB.1:10]]- 12), and He also created the Church (vv. 19, 23, 29), composed of Gentiles as well as Jews (v. 16)."
     }
   ]
 }

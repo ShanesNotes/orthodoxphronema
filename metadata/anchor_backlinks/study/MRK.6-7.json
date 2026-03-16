@@ -2,22 +2,32 @@
   "anchor_id": "MRK.6:7",
   "canon_uri": "canon/NT/MRK.md#MRK.6:7",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "And He called the twelve to Himself, and began to send them out two by two, and gave them power over unclean spirits.",
+  "pericope": {
+    "id": "MRK.P023",
+    "title": "The Mission of the Twelve",
+    "range": "MRK.6:6-6:12",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/JOH_footnotes.md",
-      "line_number": 2131,
+      "source_file": "study/footnotes/NT/JOH_footnotes.md",
+      "line_number": 1360,
       "raw_match": "[[MRK.6:7]]",
       "reference_type": "wikilink",
-      "context": "to exercise apostolic authority (6:11; see also [[MRK.6:7]]); He washed Judas' feet with the"
+      "context": "The other disciples said the same thing Judas said (v. 5), but with a very different motive (see [[MAT.26:6]]-13 and note). Judas spoke from greed, while the others spoke from the virtue of charity. That Jesus put a thief in charge of the money shows that by every means He attempted to save Judas: He fulfilled Judas' lust for money; He allowed Judas to exercise apostolic authority (6:11; see also [[MRK.6:7]]); He washed Judas' feet with the other disciples (13:5); and He allowed him to partake at the table of the Mystical Supper (13:26). Yet Judas could never overcome his greed (see note at [[MAT.26:14]]-16)."
     },
     {
-      "source_file": "staging/validated/NT/MAT_footnotes.md",
-      "line_number": 1571,
+      "source_file": "study/footnotes/NT/MAT_footnotes.md",
+      "line_number": 1014,
       "raw_match": "[[MRK.6:7]]",
       "reference_type": "wikilink",
-      "context": "journey,\" as Mark reports they were sent out two by two ([[MRK.6:7]])."
+      "context": "Disciples (v. 1) and apostles (v. 2) are often used interchangeably for the twelve. Disciple means \"learner,\" and apostle means \"one sent out.\" Jesus gave them power to perform miracles, while He performed them by His own power. The names of the Twelve are not the same in all lists, as many people had more than one name. The names here are given in pairs, suggesting who may have traveled together on this \"first missionary journey,\" as Mark reports they were sent out two by two ([[MRK.6:7]])."
     }
   ]
 }

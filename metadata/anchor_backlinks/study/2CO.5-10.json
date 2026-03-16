@@ -2,29 +2,39 @@
   "anchor_id": "2CO.5:10",
   "canon_uri": "canon/NT/2CO.md#2CO.5:10",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "For we must all appear before the judgment seat of Christ, that each one may receive the things done in the body, according to what he has done, whether good or bad.",
+  "pericope": {
+    "id": "2CO.P017",
+    "title": "Apostolic Motivation: Fearing and Loving God",
+    "range": "2CO.5:8-5:14",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/REV_footnotes.md",
-      "line_number": 2853,
+      "source_file": "study/footnotes/NT/REV_footnotes.md",
+      "line_number": 1757,
       "raw_match": "[[2CO.5:10]]",
       "reference_type": "wikilink",
-      "context": "25:31-46; [[JOH.5:22]]; [[ACT.10:42]]; 17:31; [[2CO.5:10]]). John is about to show their unity: \"the"
+      "context": "God executes judgment from the great white throne (see [[DAN.7:9]]; see also 1En 18:8). The One who sits on the throne in Revelation is God the Father (4:2-9; 5:1, 7, 13; 6:16; 7:10; etc.). However, in the rest of the NT Christ is the judge on the throne (Mt 25:31-46; [[JOH.5:22]]; [[ACT.10:42]]; 17:31; [[2CO.5:10]]). John is about to show their unity: \"the throne of God and of the Lamb\" (22:1). Earth and heaven flee away ([[MAT.24:35]]; 2Pt 3:10-13) in terror, a cosmic sign of the great Day of the Lord and the coming of the new heaven and earth (21:1)."
     },
     {
-      "source_file": "staging/validated/NT/REV_footnotes.md",
-      "line_number": 2871,
+      "source_file": "study/footnotes/NT/REV_footnotes.md",
+      "line_number": 1768,
       "raw_match": "[[2CO.5:10]]",
       "reference_type": "wikilink",
-      "context": "believers' works is a common NT theme ([[MAT.16:27]]; [[ROM.2:6]]; [[2CO.5:10]]; [[1PE.1:17]]; see also"
+      "context": "Standing before God at His throne at the final judgment, the dead are confronted with their works. The books of judgment ([[DAN.7:10]]) contain a record of men's deeds; their own works will judge them ([[PSA.61:13]]; [[JER.17:6]]). This judging of believers' works is a common NT theme ([[MAT.16:27]]; [[ROM.2:6]]; [[2CO.5:10]]; [[1PE.1:17]]; see also the Anaphora of the Liturgy of St. Basil and the hymns for the Sunday of the Last Judgment). In contrast is the Book of Life. It contains the names of all saved by grace (see [[EXO.32:32]]; Is 4:3; [[DAN.12:1]], [[DAN.12:2]])--not that they have no works, but that God's mercy is far greater in comparison. The Orthodox liturgy thus petitions God for a \"good account before the dread judgment seat of Christ.\""
     },
     {
-      "source_file": "staging/validated/OT/PSA_footnotes.md",
-      "line_number": 1391,
+      "source_file": "study/footnotes/OT/PSA_footnotes.md",
+      "line_number": 848,
       "raw_match": "[[2CO.5:10]]",
       "reference_type": "wikilink",
-      "context": "[[2CO.5:10]], [[2CO.5:11]]). Therefore, all men are commanded not to corrupt (v. 1), that is, do not"
+      "context": "Ps 74 is a prophecy concerning the Judgment Seat of Christ (the End, v. 1; see also [[2CO.5:10]], [[2CO.5:11]]). Therefore, all men are commanded not to corrupt (v. 1), that is, do not transgress the law, nor exalt yourselves in sin (v. 5). For God Incarnate is judge (God is judge, v. 8), and the Lord's cup of judgment is in His hand (vv. 8, 9). Then the horns of corrupt men shall be crushed, but those of the righteous man shall be exalted (v. 11). And this man shall greatly rejoice forever in the world to come (v. 10; see also Creed)."
     }
   ]
 }

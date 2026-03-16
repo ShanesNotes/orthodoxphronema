@@ -2,15 +2,25 @@
   "anchor_id": "ROM.7:12",
   "canon_uri": "canon/NT/ROM.md#ROM.7:12",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Therefore the law is holy, and the commandment holy and just and good.",
+  "pericope": {
+    "id": "ROM.P016",
+    "title": "The Flesh Uses What Is Good to Produce Sin",
+    "range": "ROM.7:12-7:25",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/GAL_footnotes.md",
-      "line_number": 293,
+      "source_file": "study/footnotes/NT/GAL_footnotes.md",
+      "line_number": 195,
       "raw_match": "[[ROM.7:12]]",
       "reference_type": "wikilink",
-      "context": "contradiction between law and gospel. The law is \"holy and just and good\" ([[ROM.7:12]])."
+      "context": "We die through the law, not bypassing or dishonoring it, but by recognizing that it is holy; that we deserve its consequence, death; and that we voluntarily die to the law through our death with Christ. Being crucified with Christ through baptism, we come alive to the law of the Spirit, which perfects the intention of the OT law. There is no contradiction between law and gospel. The law is \"holy and just and good\" ([[ROM.7:12]]). However, the law is \"weak\" ([[ROM.8:3]]) and \"obsolete\" ([[HEB.8:13]]), for it is fulfilled in the gospel, in Christ Himself."
     }
   ]
 }

@@ -2,29 +2,39 @@
   "anchor_id": "GEN.28:12",
   "canon_uri": "canon/OT/GEN.md#GEN.28:12",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Then he dreamed, and behold, a ladder was set up on the earth, and its top reached to heaven; and there the angels of God were ascending and descending on it.",
+  "pericope": {
+    "id": "GEN.P045",
+    "title": "Jacob's Ladder",
+    "range": "GEN.28:9-28:21",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/JOH_footnotes.md",
-      "line_number": 355,
-      "raw_match": "[[GEN.28:12]]-15",
-      "reference_type": "wikilink_range",
-      "context": "upon which the angels of God were ascending and descending ([[GEN.28:12]]-15)."
-    },
-    {
-      "source_file": "staging/validated/NT/JOH_footnotes.md",
-      "line_number": 707,
-      "raw_match": "[[GEN.28:12]]",
-      "reference_type": "wikilink",
-      "context": "he received the vision of the divine ladder ([[GEN.28:12]]), which Christ fulfills. Furthermore,"
-    },
-    {
-      "source_file": "staging/validated/OT/EZK_articles.md",
+      "source_file": "study/articles/OT/EZK_articles.md",
       "line_number": 19,
       "raw_match": "[[GEN.28:10]]-17",
       "reference_type": "wikilink_range",
-      "context": "Types of both Christ and Mary, His Mother, fill the Old Testament. Indeed, most of the Old Testament types of Mary-a natural consequence of her essential role in the Incarnation of her Son, Jesus Christ-reveal the awesome marvel of her womb which contained the almighty God. Referring to [[GEN.2:9]], the hymnography of the Church sees the garden of Eden as a type of Mary: 'Rejoice,... O living Paradise, having the Lord, the Tree of Life, in your midst' (Akathist Hymn). The burning bush beheld by Moses in the wilderness ([[EXO.3:16]]) is one of the most often mentioned types of Mary. For example, 'She is the Bush springing from barren ground [her mother, St. Anna, had been barren] and burning with the immaterial fire that cleanses and enlightens our souls' (Small Vespers, Nativity of the Theotokos). St. John of Damascus observes, 'The burning bush is an image of God's Mother... If, therefore, the ground where the image of the Theotokos was seen by Moses is holy ground [Ex 3:5], how much more holy is the image itself?' The tabernacle in the wilderness, where God dwelt among the wandering Israelites ([[EXO.25:1]] -27:19), also prefigures Mary: 'The tabernacle that is to hold God, the sanctuary of the glory, has chosen to dwell in the holy temple' (Matins, Entry of the Theotokos into the Temple). Another hymn from this service addresses her as 'O Holy of Holies,' identifying her with the most holy inner place of the tabernacle and the temple ([[EXO.26:33]]; 3Kg 8:6). Other Old Testament types of Mary relating to the Lord dwelling in her womb include the jar of manna ([[EXO.16:33]], [[EXO.16:34]]); Aaron's rod that budded (Nm 17:16-23); the tablet of the Law 'written with the finger of God' ([[EXO.31:18]]); the ladder reaching from earth to heaven ([[GEN.28:10]]-17); the fleece that received the dew ([[JDG.6:36]]-38; see [[PSA.71:1]]-6); the tongs bearing the live coal (Is 6:6); and the fiery furnace in Babylon ([[DAN.3:19]]-50). Concerning this last image, the hymnographer St. Cosmas of Maiuma writes, 'The furnace moist with dew was the image and figure of a wonder past nature. For it burned not the Children whom it had received, even as the fire of the Godhead consumed not the Virgin's womb into which it had descended' (Matins, Nativity of Christ). The miracle of the Virgin Birth is another prominent theme among the Old Testament types of Mary. One of the most striking of these is found in Ezekiel 43:27-44:4, the only Old Testament passage read at all four of the major Feasts of the Theotokos. This reading tells about the east gate of the heavenly temple remaining shut even as the Lord God of Israel, and He alone, goes in and out through it. This is prophetic of the Lord entering Mary's womb and being born nine months later with her virginity remaining intact. Hence in various hymns the Church proclaims her as 'the Gate that looks towards the East,' 'the Gate through which none may pass,' and 'the East Gate... [who] awaits the entrance of the Great Priest.' Another such image occurs in [[DAN.2:45]], where the Theotokos is the mountain out of whom a stone (that is, Christ; [[1CO.10:4]]) is cut 'without hands.' This refers to Christ's birth from the Virgin, untouched by a man. Mary is the culmination of the whole history of the ancient Hebrews. She is the perfection to which all of faithful Israel aspired through the long centuries of preparation for the coming of the Messiah, beginning with the promise given to Abraham: 'God promised to our forefather Abraham that in his seed the Gentiles would be blessed [Gn 22:18], O pure Lady; and through thee today, the promise receives its fulfillment' (Matins, Annunciation). #### Measurements of the Altar"
+      "context": "Types of both Christ and Mary, His Mother, fill the Old Testament. Indeed, most of the Old Testament types of Mary-a natural consequence of her essential role in the Incarnation of her Son, Jesus Christ-reveal the awesome marvel of her womb which contained the almighty God. Referring to [[GEN.2:9]], the hymnography of the Church sees the garden of Eden as a type of Mary: 'Rejoice,... O living Paradise, having the Lord, the Tree of Life, in your midst' (Akathist Hymn). The burning bush beheld by Moses in the wilderness ([[EXO.3:16]]) is one of the most often mentioned types of Mary. For example, 'She is the Bush springing from barren ground [her mother, St. Anna, had been barren] and burning with the immaterial fire that cleanses and enlightens our souls' (Small Vespers, Nativity of the Theotokos). St. John of Damascus observes, 'The burning bush is an image of God's Mother... If, therefore, the ground where the image of the Theotokos was seen by Moses is holy ground [[[EXO.3:5]]], how much more holy is the image itself?' The tabernacle in the wilderness, where God dwelt among the wandering Israelites ([[EXO.25:1]] -27:19), also prefigures Mary: 'The tabernacle that is to hold God, the sanctuary of the glory, has chosen to dwell in the holy temple' (Matins, Entry of the Theotokos into the Temple). Another hymn from this service addresses her as 'O Holy of Holies,' identifying her with the most holy inner place of the tabernacle and the temple ([[EXO.26:33]]; [[1KI.8:6]]). Other Old Testament types of Mary relating to the Lord dwelling in her womb include the jar of manna ([[EXO.16:33]], [[EXO.16:34]]); Aaron's rod that budded ([[NUM.17:16]]-23); the tablet of the Law 'written with the finger of God' ([[EXO.31:18]]); the ladder reaching from earth to heaven ([[GEN.28:10]]-17); the fleece that received the dew ([[JDG.6:36]]-38; see [[PSA.71:1]]-6); the tongs bearing the live coal ([[ISA.6:6]]); and the fiery furnace in Babylon ([[DAN.3:19]]-50). Concerning this last image, the hymnographer St. Cosmas of Maiuma writes, 'The furnace moist with dew was the image and figure of a wonder past nature. For it burned not the Children whom it had received, even as the fire of the Godhead consumed not the Virgin's womb into which it had descended' (Matins, Nativity of Christ). The miracle of the Virgin Birth is another prominent theme among the Old Testament types of Mary. One of the most striking of these is found in [[EZK.43:27]]-44:4, the only Old Testament passage read at all four of the major Feasts of the Theotokos. This reading tells about the east gate of the heavenly temple remaining shut even as the Lord God of Israel, and He alone, goes in and out through it. This is prophetic of the Lord entering Mary's womb and being born nine months later with her virginity remaining intact. Hence in various hymns the Church proclaims her as 'the Gate that looks towards the East,' 'the Gate through which none may pass,' and 'the East Gate... [who] awaits the entrance of the Great Priest.' Another such image occurs in [[DAN.2:45]], where the Theotokos is the mountain out of whom a stone (that is, Christ; [[1CO.10:4]]) is cut 'without hands.' This refers to Christ's birth from the Virgin, untouched by a man. Mary is the culmination of the whole history of the ancient Hebrews. She is the perfection to which all of faithful Israel aspired through the long centuries of preparation for the coming of the Messiah, beginning with the promise given to Abraham: 'God promised to our forefather Abraham that in his seed the Gentiles would be blessed [[[GEN.22:1]]8], O pure Lady; and through thee today, the promise receives its fulfillment' (Matins, Annunciation). #### Measurements of the Altar"
+    },
+    {
+      "source_file": "study/footnotes/NT/JOH_footnotes.md",
+      "line_number": 222,
+      "raw_match": "[[GEN.28:12]]-15",
+      "reference_type": "wikilink_range",
+      "context": "The title Son of Man is a title of the Messiah that had a level of mystery in its meaning, indicating a man of heavenly origin who would usher in the Kingdom of God ([[DAN.7:13]], [[DAN.7:14]]). In an OT prophecy, Jacob dreamed of a ladder connecting earth to heaven, upon which the angels of God were ascending and descending ([[GEN.28:12]]-15). Jesus is this \"ladder\" who unites earth to heaven, and therefore is this Son of Man."
+    },
+    {
+      "source_file": "study/footnotes/NT/JOH_footnotes.md",
+      "line_number": 442,
+      "raw_match": "[[GEN.28:12]]",
+      "reference_type": "wikilink",
+      "context": "Living water in the ordinary sense means fresh, flowing water, from a stream or spring rather than from a pond or cistern. Christ uses the term to mean the grace of the Holy Spirit that leads to eternal life (7:37-39). This gift not only remains in a person, but is so abundant it overflows to others. The woman misunderstands Christ and asks, \"Are You greater than our father Jacob?\" In the Scriptures, Jacob is a type of Christ, for he received the vision of the divine ladder ([[GEN.28:12]]), which Christ fulfills. Furthermore, just as Jacob gave this well for earthly life, now Christ gives the well of the Holy Spirit for eternal life."
     }
   ]
 }

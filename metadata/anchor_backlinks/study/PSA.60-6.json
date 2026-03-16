@@ -1,0 +1,26 @@
+{
+  "anchor_id": "PSA.60:6",
+  "canon_uri": "canon/OT/PSA.md#PSA.60:6",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-15T23:42:04+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "For You, O God, hear my pray ers; You give an inheritance to those who fear Your name.",
+  "pericope": {
+    "id": "PSA.P060",
+    "title": "Psalm 60",
+    "range": "PSA.60:1-60:9",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
+  "links": [
+    {
+      "source_file": "study/lectionary-notes/OT/PSA_lectionary.md",
+      "line_number": 98,
+      "raw_match": "[[PSA.60:6]]",
+      "reference_type": "wikilink",
+      "context": "**60:1** \u2014 [[PSA.60:6]] is prayed as the evening prokeimenon of Sunday Vespers during Great Lent."
+    }
+  ]
+}

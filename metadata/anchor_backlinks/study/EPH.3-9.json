@@ -2,15 +2,25 @@
   "anchor_id": "EPH.3:9",
   "canon_uri": "canon/NT/EPH.md#EPH.3:9",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "and to make all see what is the fellowship of the mystery, which from the beginning of the ages has been hidden in God who created all things through Jesus Christ;",
+  "pericope": {
+    "id": "EPH.P008",
+    "title": "Paul's Apostolic Commission",
+    "range": "EPH.3:2-3:12",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/1CO_footnotes.md",
-      "line_number": 219,
+      "source_file": "study/footnotes/NT/1CO_footnotes.md",
+      "line_number": 148,
       "raw_match": "[[EPH.3:9]]",
       "reference_type": "wikilink",
-      "context": "here is the gospel of the Kingdom (see Rom 16:25; [[EPH.3:3]], [[EPH.3:4]], [[EPH.3:9]]; 6:19; [[COL.4:3]]; [[1TI.3:9]], [[1TI.3:16]]),"
+      "context": "Great preaching is not with \"swelling words\" ([[2PE.2:18]]) but with (1) the anointing of the Holy Spirit and (2) the dynamic of God's power. 2:6, 7 The mature (Gr. teleioi) are the \"spiritual\" (Gr. pneumatikoi) of v. 15. Mystery here is the gospel of the Kingdom (see [[ROM.16:25]]; [[EPH.3:3]], [[EPH.3:4]], [[EPH.3:9]]; 6:19; [[COL.4:3]]; [[1TI.3:9]], [[1TI.3:16]]), which neither angels nor any other creature knew before it was revealed by Christ, even though the Incarnation of the Son was God's plan from eternity for transforming creation. Moreover, that Gospel is hidden from those who perish ([[2CO.4:3]]). Those who will not believe do not grasp what is clear to the faithful."
     }
   ]
 }

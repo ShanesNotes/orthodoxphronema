@@ -2,15 +2,25 @@
   "anchor_id": "COL.2:14",
   "canon_uri": "canon/NT/COL.md#COL.2:14",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "having wiped out the handwriting of requirements that was against us, which was contrary to us. And He has taken it out of the way, having nailed it to the cross.",
+  "pericope": {
+    "id": "COL.P008",
+    "title": "Against False Theology",
+    "range": "COL.2:5-2:14",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/GEN_footnotes.md",
-      "line_number": 1609,
+      "source_file": "study/footnotes/OT/GEN_footnotes.md",
+      "line_number": 1169,
       "raw_match": "[[COL.2:14]]",
       "reference_type": "wikilink",
-      "context": "it through the cross ([[COL.2:14]], [[COL.2:15]])."
+      "context": "Naphtali's birth emphasizes victory; Christ prevailed over death by triumphing over it through the cross ([[COL.2:14]], [[COL.2:15]])."
     }
   ]
 }

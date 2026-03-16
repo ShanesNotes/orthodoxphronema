@@ -2,15 +2,25 @@
   "anchor_id": "PSA.9:6",
   "canon_uri": "canon/OT/PSA.md#PSA.9:6",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "You rebuke the nations, and the ungodly man destroys himself; You blotted out their name, in their lifetime and unto ages of ages;",
+  "pericope": {
+    "id": "PSA.P009",
+    "title": "Psalm 9",
+    "range": "PSA.9:1-9:39",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/LUK_footnotes.md",
-      "line_number": 2293,
+      "source_file": "study/footnotes/NT/LUK_footnotes.md",
+      "line_number": 1531,
       "raw_match": "[[PSA.9:6]]",
       "reference_type": "wikilink",
-      "context": "ultimately forgotten (see [[PSA.9:6]])."
+      "context": "Abraham's bosom means heaven. Abraham is mentioned among all the righteous because, in stark contrast to the rich man, Abraham showed hospitality to strangers (Gn 18:1-8). The rich man... was buried: The Fathers see this as illustrating the state of his merciless soul, buried by the pleasures of the flesh. He was already buried in life by \"couches, rugs, furnishings, sweet oils, perfumes, large quantities of wine, varieties of food, and flatterers\" (JohnChr). That the rich man remains unnamed indicates that he is ultimately forgotten (see [[PSA.9:6]])."
     }
   ]
 }

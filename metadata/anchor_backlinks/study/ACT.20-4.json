@@ -2,11 +2,21 @@
   "anchor_id": "ACT.20:4",
   "canon_uri": "canon/NT/ACT.md#ACT.20:4",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "And Sopater of Berea accompanied him to Asia-also Aristarchus and Secundus of the Thessalonians, and Gaius of Derbe, and Timothy, and Tychicus and Trophimus of Asia.",
+  "pericope": {
+    "id": "ACT.P074",
+    "title": "Return Visit to Greece",
+    "range": "ACT.19:41-20:5",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/LUK_articles.md",
+      "source_file": "study/articles/NT/LUK_articles.md",
       "line_number": 38,
       "raw_match": "[[ACT.20:4]]",
       "reference_type": "wikilink",

@@ -2,22 +2,32 @@
   "anchor_id": "JOH.21:6",
   "canon_uri": "canon/NT/JOH.md#JOH.21:6",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "They answered Him, 'No.' And He said to them, 'Cast the net on the right side of the boat, and you will find some. ' So they cast, and now they were not able to draw it in because of the multitude of fish.",
+  "pericope": {
+    "id": "JOH.P075",
+    "title": "Jesus Eats with the Eleven",
+    "range": "JOH.20:31-21:13",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/EZK_footnotes.md",
-      "line_number": 675,
+      "source_file": "study/footnotes/OT/EZK_footnotes.md",
+      "line_number": 576,
       "raw_match": "[[JOH.21:3]]-6",
       "reference_type": "wikilink_range",
-      "context": "13:12). Compare the term fishnet to 47:10; [[JOH.21:3]]-6. The wood panels point to"
+      "context": "The shaded light illustrates that the light of Christ's glory is revealed to man as far as he is able to bear it; for while we are on this earth, we see as in a mirror dimly (1Co 13:12). Compare the term fishnet to 47:10; [[JOH.21:3]]-6. The wood panels point to Christ's humanity (see [[EXO.25:10]], [[EXO.25:11]] and note)."
     },
     {
-      "source_file": "staging/validated/OT/EZK_footnotes.md",
-      "line_number": 816,
+      "source_file": "study/footnotes/OT/EZK_footnotes.md",
+      "line_number": 681,
       "raw_match": "[[JOH.21:6]]",
       "reference_type": "wikilink",
-      "context": "the apostles (compare v. 10 to [[JOH.21:6]]), and the growth of the Church from both Jew and"
+      "context": "A vision applying to holy baptism, the coming of the Holy Spirit, the preaching of the apostles (compare v. 10 to [[JOH.21:6]]), and the growth of the Church from both Jew and Gentile believers (resident aliens, vv. 21-23). \"In the vision of the prophet Ezekiel there is seen above the cherubim a crystal stretched forth, that is, the compressed and denser waters. The first living beings come out of the waters; and believers soar out of the laver with wings to heaven [1:22-25].... In Eden a garden is planted, and a fountain in the midst of it parts into four heads [Gn 2:10]. This is the same fountain which Ezekiel later on describes as issuing out of the temple and flowing towards the rising of the sun, until it heals the bitter waters and quickens those that are dead\" (Jerome)."
     }
   ]
 }

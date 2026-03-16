@@ -2,15 +2,25 @@
   "anchor_id": "ACT.3:21",
   "canon_uri": "canon/NT/ACT.md#ACT.3:21",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "whom heaven must receive until the times of restoration of all things, which God has spoken by the mouth of all His holy prophets since the world began.",
+  "pericope": {
+    "id": "ACT.P012",
+    "title": "Peter's Sermon at Solomon's Porch",
+    "range": "ACT.3:10-3:25",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/LEV_footnotes.md",
-      "line_number": 1575,
+      "source_file": "study/footnotes/OT/LEV_footnotes.md",
+      "line_number": 971,
       "raw_match": "[[ACT.3:19]]-21",
       "reference_type": "wikilink_range",
-      "context": "unto the ages of ages ([[ACT.3:19]]-21)."
+      "context": "The property a Jew possessed was not his own. It was God's land, given to the individual only as a stewardship (see 25:23). And to preserve this spirit, every fiftieth year the land reverted back to its original owners--rural houses returned to their original families, and people were freed from bondage into which for one reason or another they had come. In this way, no one family could amass great and permanent fortunes in the land, to be passed down from century to century. Everything and everyone belonged to God. The Year of Remission occurred after every seventh sabbatical year, or every fifty years. The Year of Remission foreshadowed the ultimate fullness of God's kingdom. It was actually the eighth year after the seventh of the sevens, making it the first year of the new cycle. It looked forward to that ultimate \"eighth year\" after which there is no first again. Here is the rich foreshadowing of the kingdom of God, wherein all are freed and there is no more bondage. No longer are there any poor or disenfranchised. All are free in Christ. Everyone and all things are at rest. \"There remains therefore a rest for the people of God\" ([[HEB.4:9]]). Some blessings of the coming kingdom are experienced in this age, but all these blessings will be available in the world to come, wherein all things are restored unto the ages of ages ([[ACT.3:19]]-21)."
     }
   ]
 }

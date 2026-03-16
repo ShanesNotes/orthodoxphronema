@@ -2,15 +2,25 @@
   "anchor_id": "2KI.23:27",
   "canon_uri": "canon/OT/2KI.md#2KI.23:27",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "So the Lord said, 'I shall also remove Judah from My sight, as I removed Israel. I shall reject this city Jerusalem which I chose, and the house where I said, 'My name shall be there.' '",
+  "pericope": {
+    "id": "2KI.P062",
+    "title": "Josiah Killed in Battle",
+    "range": "2KI.23:27-23:29",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/3MA_footnotes.md",
-      "line_number": 152,
+      "source_file": "study/footnotes/OT/3MA_footnotes.md",
+      "line_number": 130,
       "raw_match": "[[2KI.23:27]]",
       "reference_type": "wikilink",
-      "context": "as having been the city God has chosen for His name (see 3Kg 8:44, 48; 11:32, 36; 14:21; [[2KI.23:27]]; [[2CH.6:34]], [[2CH.6:38]]; 12:13; WSir 49:6)."
+      "context": "Chose this city: Jerusalem is specifically mentioned throughout the Old Testament as having been the city God has chosen for His name (see 3Kg 8:44, 48; 11:32, 36; 14:21; [[2KI.23:27]]; [[2CH.6:34]], [[2CH.6:38]]; 12:13; WSir 49:6)."
     }
   ]
 }

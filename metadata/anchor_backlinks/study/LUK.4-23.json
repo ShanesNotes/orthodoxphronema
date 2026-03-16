@@ -2,15 +2,25 @@
   "anchor_id": "LUK.4:23",
   "canon_uri": "canon/NT/LUK.md#LUK.4:23",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "He said to them, 'You will surely say this proverb to Me, 'Physician, heal yourself! Whatever we have heard done in Capernaum, ado also here in Your country.' '",
+  "pericope": {
+    "id": "LUK.P020",
+    "title": "Unbelief at Nazareth",
+    "range": "LUK.4:15-4:36",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/JOH_footnotes.md",
-      "line_number": 1091,
+      "source_file": "study/footnotes/NT/JOH_footnotes.md",
+      "line_number": 682,
       "raw_match": "[[LUK.4:23]]",
       "reference_type": "wikilink",
-      "context": "same thing in [[LUK.4:23]]). In Jewish tradition, a valid testimony requires two witnesses (Dt"
+      "context": "How could Christ's witness ever be untrue? It cannot (see 8:14). Rather, Jesus is anticipating the argument and speaking the thoughts of the Jewish leaders (he does the same thing in [[LUK.4:23]]). In Jewish tradition, a valid testimony requires two witnesses (Dt 17:6). Jesus offers four witnesses to confirm His identity as Messiah and as Son of God: (1) God the Father (vv. 32, 37, 38); (2) John the Baptist (vv 33-35); (3) His own works (v. 36); and (4) the OT Scriptures, through which Moses and others gave testimony (vv. 39- 47)."
     }
   ]
 }

@@ -2,15 +2,25 @@
   "anchor_id": "LUK.11:2",
   "canon_uri": "canon/NT/LUK.md#LUK.11:2",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "So He said to them, 'When you pray, say: Our Father in heaven,Hallowed be Your name.",
+  "pericope": {
+    "id": "LUK.P054",
+    "title": "Mary and Martha",
+    "range": "LUK.10:38-11:12",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/JER_footnotes.md",
-      "line_number": 99,
+      "source_file": "study/footnotes/OT/JER_footnotes.md",
+      "line_number": 86,
       "raw_match": "[[LUK.11:2]]",
       "reference_type": "wikilink",
-      "context": "Father\" ([[LUK.11:1]], [[LUK.11:2]])."
+      "context": "The God of Israel is here prophetically called God of the Gentiles, who is the Father. Thus, when the disciples ask Jesus how to pray, His answer begins with \"Our Father\" ([[LUK.11:1]], [[LUK.11:2]])."
     }
   ]
 }

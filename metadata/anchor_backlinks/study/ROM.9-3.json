@@ -2,15 +2,25 @@
   "anchor_id": "ROM.9:3",
   "canon_uri": "canon/NT/ROM.md#ROM.9:3",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "For I could wish that I myself were accursed from Christ for my brethren, my countrymen aaccording to the flesh,",
+  "pericope": {
+    "id": "ROM.P022",
+    "title": "Unbelief of the Jews Despite God's Blessings",
+    "range": "ROM.9:1-9:7",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/1TH_footnotes.md",
-      "line_number": 123,
+      "source_file": "study/footnotes/NT/1TH_footnotes.md",
+      "line_number": 80,
       "raw_match": "[[ROM.9:3]]",
       "reference_type": "wikilink",
-      "context": "cursed if that could cause his fellow Jews to turn to Christ for salvation ([[ROM.9:3]]; 10:1)."
+      "context": "Note the three verbs Paul uses to describe his apostolic preaching to the Thessalonians: (1) exhorted, which can also mean encouraged; (2) comforted; and (3) charged or implored. These elements are just as important for preaching today! 2:14, 15 While the persecution in Thessalonica comes primarily from Greeks, Paul, a Jew, is frank concerning his countrymen of that day who reject their Messiah, noting that they (1) killed... the Lord Jesus (v. 15), (2) killed their own prophets, (3) persecuted the apostles, (4) do not please God, and (5) act with hostility to all men. This is a strong indictment. But Paul's love for the Jews never wavers. He wishes himself to be cursed if that could cause his fellow Jews to turn to Christ for salvation ([[ROM.9:3]]; 10:1)."
     }
   ]
 }

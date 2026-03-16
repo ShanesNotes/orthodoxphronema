@@ -2,15 +2,25 @@
   "anchor_id": "ACT.24:16",
   "canon_uri": "canon/NT/ACT.md#ACT.24:16",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "This being so, I myself always strive to have a conscience without offense toward God and men.",
+  "pericope": {
+    "id": "ACT.P086",
+    "title": "Paul's Defense",
+    "range": "ACT.24:9-24:19",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/WIS_footnotes.md",
-      "line_number": 94,
+      "source_file": "study/footnotes/OT/WIS_footnotes.md",
+      "line_number": 84,
       "raw_match": "[[ACT.24:16]]",
       "reference_type": "wikilink",
-      "context": "calling. The seven great virtues are humility, liberality, chastity, mildness, temperance, happiness, and diligence. See also [[ACT.24:16]]."
+      "context": "Virtue, more than anything else, attracts the gift of immortality. The Church sees in this verse a commentary on the splendor of virginity and the worthiness of the monastic calling. The seven great virtues are humility, liberality, chastity, mildness, temperance, happiness, and diligence. See also [[ACT.24:16]]."
     }
   ]
 }

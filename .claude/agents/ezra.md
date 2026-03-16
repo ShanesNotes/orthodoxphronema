@@ -83,6 +83,14 @@ default_scope: analyze | validate | diff | report | memo_draft | delivery_ops | 
 - `ezra review` — code review of current changes
 - `ezra debug ISSUE` — edge-case debugging
 
+## Audit Checklist (minimum for `ezra audit BOOK`)
+1. Run full V1-V13 validation suite — report any non-PASS results
+2. **Content sampling (required):** spot-check the 5 longest verse lines; report max line length
+3. Check that V13 PASS — mega-lines are invisible to V1-V12
+4. Verify no article-bleed content in the top 5 longest lines
+5. Cross-check V4 gap coverage against residuals sidecar
+6. Report overall status with explicit blocking/non-blocking distinction
+
 ## After Any Ark/Photius Session
 1. Read the new memo/report/dashboard deltas
 2. Refresh `memos/ezra_ops_board.md`

@@ -2,15 +2,25 @@
   "anchor_id": "2PE.1:1",
   "canon_uri": "canon/NT/2PE.md#2PE.1:1",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Simon Peter, a bondservant and apostle of Jesus Christ, To those who have obtained like precious faith with us by the righteousness of our God and Savior Jesus Christ:",
+  "pericope": {
+    "id": "2PE.P001",
+    "title": "Greeting",
+    "range": "2PE.1:1-1:1",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/TIT_footnotes.md",
-      "line_number": 107,
+      "source_file": "study/footnotes/NT/TIT_footnotes.md",
+      "line_number": 72,
       "raw_match": "[[2PE.1:1]]",
       "reference_type": "wikilink",
-      "context": "statement of the divinity of Christ (see [[ROM.9:5]]; [[2PE.1:1]]). In Paul's thought, \"God\" refers"
+      "context": "The Church Fathers regard our great God and Savior Jesus Christ as a landmark statement of the divinity of Christ (see [[ROM.9:5]]; [[2PE.1:1]]). In Paul's thought, \"God\" refers usually to the Person of the Father, not to the divine nature. As Paul grew older, it seems his sense of the difference between this age and the age to come deepened. In his earlier letters, he emphasized the present realization of God's power; now he speaks more of our future transfiguration."
     }
   ]
 }

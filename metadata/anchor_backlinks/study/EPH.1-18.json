@@ -2,43 +2,53 @@
   "anchor_id": "EPH.1:18",
   "canon_uri": "canon/NT/EPH.md#EPH.1:18",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "the eyes of your understanding being enlightened; that you may know what is the hope of His calling, what are the riches of the glory of His inheritance in the saints,",
+  "pericope": {
+    "id": "EPH.P003",
+    "title": "Prayer for Revelation",
+    "range": "EPH.1:13-1:22",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/GEN_footnotes.md",
-      "line_number": 1477,
+      "source_file": "study/footnotes/OT/GEN_footnotes.md",
+      "line_number": 1073,
       "raw_match": "[[EPH.1:18]]",
       "reference_type": "wikilink",
-      "context": "Firstborn of the Father and the ruler and head over the Church. Through His Incarnation, He would secure the Church's eternal inheritance ([[ROM.4:13]]; 8:29; [[GAL.3:3]], [[GAL.3:18]], [[GAL.3:29]]; 4:7; [[EPH.1:11]], [[EPH.1:14]], [[EPH.1:18]]; 3:6; [[COL.1:12]], [[COL.1:15]], [[COL.1:18]]; 3:24; [[TIT.3:7]]; [[HEB.1:2]], [[HEB.1:4]], [[HEB.1:6]]; 6:17; 9:15; 11:7-9; Jam"
+      "context": "The Lord is present everywhere and fills all things. Thus, Isaac would give the blessing of the firstborn in His presence. The blessing of the firstborn gave the eldest son a double portion of his father's inheritance. He would also become the ruler and head over his brethren upon his father's death, and be responsible for the welfare and administration of the family. All this foreshadowed the Lord's Incarnation as the Firstborn of the Father and the ruler and head over the Church. Through His Incarnation, He would secure the Church's eternal inheritance ([[ROM.4:13]]; 8:29; [[GAL.3:3]], [[GAL.3:18]], [[GAL.3:29]]; 4:7; [[EPH.1:11]], [[EPH.1:14]], [[EPH.1:18]]; 3:6; [[COL.1:12]], [[COL.1:15]], [[COL.1:18]]; 3:24; [[TIT.3:7]]; [[HEB.1:2]], [[HEB.1:4]], [[HEB.1:6]]; 6:17; 9:15; 11:7-9; Jam 2:5; [[1PE.1:4]]; 3:7; 12:23; [[REV.1:5]])."
     },
     {
-      "source_file": "staging/validated/OT/GEN_footnotes.md",
-      "line_number": 2207,
+      "source_file": "study/footnotes/OT/GEN_footnotes.md",
+      "line_number": 1650,
       "raw_match": "[[EPH.1:18]]",
       "reference_type": "wikilink",
-      "context": "things of God ([[EPH.1:18]]). If their eyes were clear, they would be able to see God's"
+      "context": "Joseph spoke to the heart of his brothers, for the heart has spiritual eyes to see the things of God ([[EPH.1:18]]). If their eyes were clear, they would be able to see God's forgiveness expressed through Joseph (v. 17), and that He worked their evil for good, in order to save many people alive (v. 20). They would also be thankful to God for providing for their welfare (v. 21). Truly, God is good!"
     },
     {
-      "source_file": "staging/validated/OT/PRO_footnotes.md",
-      "line_number": 1427,
+      "source_file": "study/footnotes/OT/PRO_footnotes.md",
+      "line_number": 1067,
       "raw_match": "[[EPH.1:18]]",
       "reference_type": "wikilink",
-      "context": "see and the ears to hear Wisdom and His instruction (see also [[EPH.1:18]]). Such a man"
+      "context": "The spiritual heart of a wise man is the abode of understanding. It has the eyes to see and the ears to hear Wisdom and His instruction (see also [[EPH.1:18]]). Such a man carries knowledge upon his lips."
     },
     {
-      "source_file": "staging/validated/OT/PRO_footnotes.md",
-      "line_number": 2145,
+      "source_file": "study/footnotes/OT/PRO_footnotes.md",
+      "line_number": 1605,
       "raw_match": "[[EPH.1:18]]",
       "reference_type": "wikilink",
       "context": "The eyes are those of the spiritual heart. When we see the spiritual riches of Christ, then we may speak of them (see also [[EPH.1:18]])."
     },
     {
-      "source_file": "staging/validated/OT/PSA_footnotes.md",
-      "line_number": 249,
+      "source_file": "study/footnotes/OT/PSA_footnotes.md",
+      "line_number": 153,
       "raw_match": "[[EPH.1:18]]",
       "reference_type": "wikilink",
-      "context": "death overtake one (v. 4; see also [[EPH.1:18]]; 5:14); and (3) by hoping in the Lord's mercy"
+      "context": "Ps 12 teaches the Church how to attain to an exceedingly joyful heart in singing to the Lord (v. 6b), who is the End (v. 1): (1) by godly sorrow and repentance over sins committed, lest the devil and sinful passions (my enemy) be victorious (vv. 3, 5; see also [[2CO.7:10]]); (2) by petitioning the Lord to enlighten the eyes of the heart, lest the sleep in death overtake one (v. 4; see also [[EPH.1:18]]; 5:14); and (3) by hoping in the Lord's mercy (v. 6a)."
     }
   ]
 }

@@ -2,15 +2,25 @@
   "anchor_id": "MRK.13:32",
   "canon_uri": "canon/NT/MRK.md#MRK.13:32",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "'But of that day and hour no one knows, not even the angels in heaven, nor the Son, but only the Father.",
+  "pericope": {
+    "id": "MRK.P047",
+    "title": "When Will He Return?",
+    "range": "MRK.13:27-13:36",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/MAT_footnotes.md",
-      "line_number": 3391,
+      "source_file": "study/footnotes/NT/MAT_footnotes.md",
+      "line_number": 2174,
       "raw_match": "[[MRK.13:32]]",
       "reference_type": "wikilink",
-      "context": "According to [[MRK.13:32]], and in Chrysostom's Matthew text, Jesus declares that the Son"
+      "context": "According to St. John Chrysostom, Christ tells of the angels being unaware of the exact day of His return \"so that men should not seek to learn what angels do not know,\" and to forbid them not only from learning the day, but from even inquiring about it. According to [[MRK.13:32]], and in Chrysostom's Matthew text, Jesus declares that the Son also does not know the day of His own return. Chrysostom teaches this is not to be understood literally, but is a figure of speech meaning that Christ, though He revealed all the signs that will accompany His return, will not reveal the exact day to anyone, and that believers should not be so brazen as to inquire of Him."
     }
   ]
 }

@@ -2,15 +2,25 @@
   "anchor_id": "COL.3:15",
   "canon_uri": "canon/NT/COL.md#COL.3:15",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "And let the peace of God rule in your hearts, to which also you were called in one body; and be thankful.",
+  "pericope": {
+    "id": "COL.P010",
+    "title": "Spirituality in the Church",
+    "range": "COL.2:23-3:16",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/JOS_footnotes.md",
-      "line_number": 492,
+      "source_file": "study/footnotes/OT/JOS_footnotes.md",
+      "line_number": 290,
       "raw_match": "[[COL.3:15]]",
       "reference_type": "wikilink",
-      "context": "peace to rule in our hearts so as to know how to live peaceably and wisely ([[COL.3:15]])."
+      "context": "[[JOS.18:1]], [[JOS.18:9]], [[JOS.18:10]]: Israel set up the tabernacle in Shiloh, where it remained for about four hundred years. Thus, Shiloh, located about twenty-five miles north of Jerusalem, was the capital of the nation during this time. The name Shiloh means \"peace\"; therefore, it was an appropriate place for the tabernacle, both of which speak of Christ the Lord. Joshua gained wisdom from Him (before the Lord, v. 10) that he might know how to divide the remaining land among seven tribes in a peaceable manner. We, too, need His peace to rule in our hearts so as to know how to live peaceably and wisely ([[COL.3:15]])."
     }
   ]
 }

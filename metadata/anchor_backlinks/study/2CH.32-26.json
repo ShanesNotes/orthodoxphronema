@@ -2,15 +2,25 @@
   "anchor_id": "2CH.32:26",
   "canon_uri": "canon/OT/2CH.md#2CH.32:26",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Hezekiah was humbled because of his exalted heart, he and the inhabitants of Jerusalem, but the wrath of the Lord did not come upon them in the days of Hezekiah.",
+  "pericope": {
+    "id": "2CH.P063",
+    "title": "Hezekiah's Illness, Wealth, and Death",
+    "range": "2CH.32:24-33:9",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/ISA_footnotes.md",
-      "line_number": 750,
+      "source_file": "study/footnotes/OT/ISA_footnotes.md",
+      "line_number": 572,
       "raw_match": "[[2CH.32:26]]",
       "reference_type": "wikilink",
-      "context": "pride (see [[2CH.32:25]], [[2CH.32:26]]). By telling him of his imminent death, the Lord revealed"
+      "context": "At the time of his physical affliction, Hezekiah had also become afflicted with pride (see [[2CH.32:25]], [[2CH.32:26]]). By telling him of his imminent death, the Lord revealed Himself to Hezekiah, who wept loudly. He humbled himself and prayed, and immediately, Isaiah was given a new word for the king: healing and another fifteen years of life."
     }
   ]
 }

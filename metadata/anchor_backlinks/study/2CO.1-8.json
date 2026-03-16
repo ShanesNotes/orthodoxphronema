@@ -2,22 +2,32 @@
   "anchor_id": "2CO.1:8",
   "canon_uri": "canon/NT/2CO.md#2CO.1:8",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "For we do not want you to be ignorant, brethren, of our trouble which came to us in Asia: that we were burdened beyond measure, above strength, so that we despaired even of life.",
+  "pericope": {
+    "id": "2CO.P003",
+    "title": "Sharing in Adversity by Prayer",
+    "range": "2CO.1:7-1:8",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/1CO_footnotes.md",
-      "line_number": 821,
+      "source_file": "study/footnotes/NT/1CO_footnotes.md",
+      "line_number": 549,
       "raw_match": "[[2CO.1:8]]",
       "reference_type": "wikilink",
-      "context": "11:25; 12:1; [[2CO.1:8]]; [[COL.2:1]]; [[1TH.4:13]]) to introduce a matter vital to the Christian faith."
+      "context": "Paul often uses I do not want you to be unaware or a similar formula (Rom 11:25; 12:1; [[2CO.1:8]]; [[COL.2:1]]; [[1TH.4:13]]) to introduce a matter vital to the Christian faith."
     },
     {
-      "source_file": "staging/validated/NT/ACT_footnotes.md",
-      "line_number": 2007,
+      "source_file": "study/footnotes/NT/ACT_footnotes.md",
+      "line_number": 1265,
       "raw_match": "[[2CO.1:8]]",
       "reference_type": "wikilink",
-      "context": "among the worst he faced ([[1CO.15:32]]; [[2CO.1:8]])."
+      "context": "Paul reminds his hearers of the tears and trials he faced in Ephesus in order to strengthen them for what is to come. Paul's persecutions in Ephesus (Asia Minor) were among the worst he faced ([[1CO.15:32]]; [[2CO.1:8]])."
     }
   ]
 }

@@ -2,15 +2,25 @@
   "anchor_id": "EXO.40:29",
   "canon_uri": "canon/OT/EXO.md#EXO.40:29",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "But Moses was not able to enter the tabernacle of testimony because the cloud overshadowed it, and the glory of the Lord filled the tabernacle.",
+  "pericope": {
+    "id": "EXO.P091",
+    "title": "The Overshadowing Cloud",
+    "range": "EXO.40:27-40:32",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/REV_footnotes.md",
-      "line_number": 2145,
+      "source_file": "study/footnotes/NT/REV_footnotes.md",
+      "line_number": 1325,
       "raw_match": "[[EXO.40:29]]",
       "reference_type": "wikilink",
-      "context": "4), so that no one was able to enter the temple (see [[EXO.40:29]], where Moses was"
+      "context": "The temple was filled with smoke from the glory of God (see Is 6:4; [[EZK.10:3]], 4), so that no one was able to enter the temple (see [[EXO.40:29]], where Moses was unable to enter the tabernacle; and 3Kg 8:10, 11 where the priests were unable to enter the temple for the same reason). None may enter to intercede for the earth or to divert the coming catastrophe of God's sworn judgment."
     }
   ]
 }

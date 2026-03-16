@@ -2,15 +2,25 @@
   "anchor_id": "EXO.16:1",
   "canon_uri": "canon/OT/EXO.md#EXO.16:1",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Now they journeyed from Elim, and all the congregation of the children of Israel came to the Wilderness of Sin, which is between Elim and Sinai, on the fifteenth day of the second month after they departed from the land of Egypt.",
+  "pericope": {
+    "id": "EXO.P031",
+    "title": "Manna and Quail",
+    "range": "EXO.15:27-16:35",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/JOH_footnotes.md",
-      "line_number": 1133,
+      "source_file": "study/footnotes/NT/JOH_footnotes.md",
+      "line_number": 705,
       "raw_match": "[[EXO.16:1]]-17",
       "reference_type": "wikilink_range",
-      "context": "water source ([[EXO.16:1]]-17:7). Here, Christ declares Himself to be the true food and drink,"
+      "context": "This chapter parallels the story of the Passover and Exodus of Israel from Egypt in several important ways. (1) In the Exodus account (Ex 11-17), God first performed His signs against Pharaoh, then gave instructions on how to be saved at the time of the Passover ([[EXO.11:1]]-12:14). In this passage, the multitudes follow Christ because of His signs (v. 2), and this too takes place at Passover (v. 4). (2) In the Exodus, the Jews were said to eat unleavened bread because they were hastily driven out of Egypt and had brought no provisions for themselves ([[EXO.12:39]]). Here, Jesus feeds the multitudes with earthly bread because they had brought no provisions, having rushed out to see Him (vv. 2-14). (3) In the Exodus, Moses leads the people across the Red Sea, walking on dry ground in the midst of the water ([[EXO.14:15]]-31). Here, Christ sends His disciples across the sea (v. 17) and then walks on the sea (v. 19) as if it were dry ground. (4) In the Exodus, God fed His people manna and gave them drink from a miraculous water source ([[EXO.16:1]]-17:7). Here, Christ declares Himself to be the true food and drink, the true bread that has come down from heaven (vv. 48-58). These parallels show that Christ our God is the fulfillment of the old covenant, and that the breaking of His body and the shedding of His blood, which free mankind from the slavery of sin, fulfill the sacrifice of the Passover lambs (1:29), which brought the people out of slavery into the Promised Land."
     }
   ]
 }

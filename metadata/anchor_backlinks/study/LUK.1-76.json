@@ -2,15 +2,25 @@
   "anchor_id": "LUK.1:76",
   "canon_uri": "canon/NT/LUK.md#LUK.1:76",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "'And you, child, will be called the prophet of the Highest; For y ou will go before the face of the Lord to prepare His way s,",
+  "pericope": {
+    "id": "LUK.P006",
+    "title": "Zacharias's Song: The Benedictus",
+    "range": "LUK.1:66-1:78",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/MAT_footnotes.md",
-      "line_number": 1743,
+      "source_file": "study/footnotes/NT/MAT_footnotes.md",
+      "line_number": 1126,
       "raw_match": "[[LUK.1:76]]",
       "reference_type": "wikilink",
-      "context": "John fulfilled the mission of Elijah ([[LUK.1:17]], [[LUK.1:76]]) and his destiny was similar. Yet John is"
+      "context": "John does not ascribe to himself the role of Elijah ([[JOH.1:21]]), but Jesus does. John fulfilled the mission of Elijah ([[LUK.1:17]], [[LUK.1:76]]) and his destiny was similar. Yet John is honored over Elijah (v. 11) because John prepared the way for the advent of Christ Himself."
     }
   ]
 }

@@ -2,15 +2,25 @@
   "anchor_id": "JOS.3:14",
   "canon_uri": "canon/OT/JOS.md#JOS.3:14",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "So the people left their tents to cross over the Jordan, and the priests carried the ark of the covenant of the Lord before the people.",
+  "pericope": {
+    "id": "JOS.P005",
+    "title": "Crossing the Jordan",
+    "range": "JOS.2:24-3:16",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/2KI_footnotes.md",
-      "line_number": 77,
+      "source_file": "study/footnotes/OT/2KI_footnotes.md",
+      "line_number": 60,
       "raw_match": "[[JOS.3:13]]-17",
       "reference_type": "wikilink_range",
-      "context": "parted the River Jordan with the ark of the covenant ([[JOS.3:13]]-17), and so did Elijah and"
+      "context": "Moses foreshadowed baptism when he parted the Red Sea ([[EXO.14:16]]-23). Joshua parted the River Jordan with the ark of the covenant ([[JOS.3:13]]-17), and so did Elijah and Elisha when they struck the River Jordan with Elijah's mantle. \"O how great is the virtue of the Saints! Not only their words; not only their bodies, but even their very garments are always esteemed venerable by the whole creation. The sheepskin of this man divided the Jordan!\" (JohnChr)."
     }
   ]
 }

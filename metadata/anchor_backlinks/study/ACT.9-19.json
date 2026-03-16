@@ -2,15 +2,25 @@
   "anchor_id": "ACT.9:19",
   "canon_uri": "canon/NT/ACT.md#ACT.9:19",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "So when he had received food, he was strengthened. Then Saul spent some days with the disciples at Damascus.",
+  "pericope": {
+    "id": "ACT.P030",
+    "title": "Saul's First Preaching",
+    "range": "ACT.9:18-9:24",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/GAL_footnotes.md",
-      "line_number": 101,
+      "source_file": "study/footnotes/NT/GAL_footnotes.md",
+      "line_number": 63,
       "raw_match": "[[ACT.9:10]]-19",
       "reference_type": "wikilink_range",
-      "context": "hands and the waters of baptism ([[ACT.9:10]]-19). Separated me from my mother's"
+      "context": "People are called by God not according to former conduct (v. 13)--good or bad-- but by God's grace (v. 15). Paul, whom God called in mercy, received grace from Ananias' hands and the waters of baptism ([[ACT.9:10]]-19). Separated me from my mother's womb (v. 15) refers not to Paul's physical birth but to God's calling Paul to apostolic ministry before he was born (see [[PSA.138:15]], [[PSA.138:16]]; Is 49:1; [[JER.1:5]]; [[LUK.1:35]], [[LUK.1:43]], [[LUK.1:44]], [[LUK.1:48]]). As with Paul, God's intentions for a person may lie hidden for years."
     }
   ]
 }

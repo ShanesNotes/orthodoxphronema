@@ -2,22 +2,32 @@
   "anchor_id": "ACT.1:3",
   "canon_uri": "canon/NT/ACT.md#ACT.1:3",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "to whom He also presented Himself alive after His suffering by many infallible proofs, being seen by them during forty days and speaking of the things pertaining to the kingdom of God.",
+  "pericope": {
+    "id": "ACT.P001",
+    "title": "Days 1-39: Jesus' Promise of the Holy Spirit",
+    "range": "ACT.1:1-1:7",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/JOH_footnotes.md",
-      "line_number": 2741,
+      "source_file": "study/footnotes/NT/JOH_footnotes.md",
+      "line_number": 1757,
       "raw_match": "[[ACT.1:3]]",
       "reference_type": "wikilink",
-      "context": "days following the Resurrection ([[ACT.1:3]])."
+      "context": "The time when Christ would speak plainly about the Father was during the 40 days following the Resurrection ([[ACT.1:3]])."
     },
     {
-      "source_file": "staging/validated/NT/LUK_footnotes.md",
-      "line_number": 3253,
+      "source_file": "study/footnotes/NT/LUK_footnotes.md",
+      "line_number": 2173,
       "raw_match": "[[ACT.1:3]]",
       "reference_type": "wikilink",
-      "context": "The Ascension of Christ is celebrated forty days after the Resurrection ([[ACT.1:3]])."
+      "context": "The Ascension of Christ is celebrated forty days after the Resurrection ([[ACT.1:3]]). This event fulfills the type given when Elijah ascended in a fiery chariot ([[2KI.2:11]]) and marks the completion of Christ's glorification and lordship over all creation. At the Incarnation, Christ brought His divine nature to human nature. In the mystery of the Ascension, Christ brings human nature to the divine Kingdom. He reigns with the Father and the Holy Spirit in His glorified body, revealing His glorified human nature--indeed, human flesh--to be worshiped by the whole angelic realm. At Vespers of Ascension we sing, \"The angels were amazed seeing a Man so exalted.\" In some icons of the Ascension, Christ's white robes are tinted red to indicate the shedding of His blood for the redemption of the world and the ascent of that life-giving blood into heaven (Is 63:1-3; see also [[PSA.23:7]]-10)."
     }
   ]
 }

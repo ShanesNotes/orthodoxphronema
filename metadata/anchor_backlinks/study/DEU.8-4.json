@@ -2,15 +2,25 @@
   "anchor_id": "DEU.8:4",
   "canon_uri": "canon/OT/DEU.md#DEU.8:4",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Your garments did not wear out on you, nor did your feet become callused these forty years.",
+  "pericope": {
+    "id": "DEU.P020",
+    "title": "Keeping the Commandments",
+    "range": "DEU.7:26-8:19",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/MAT_footnotes.md",
-      "line_number": 469,
+      "source_file": "study/footnotes/NT/MAT_footnotes.md",
+      "line_number": 305,
       "raw_match": "[[DEU.8:2]]-5",
       "reference_type": "wikilink_range",
-      "context": "learn to be dependent on Him ([[DEU.8:2]]-5). Here, Jesus is tested with hunger for forty"
+      "context": "Jesus reverses Israel's falling to temptation in the wilderness. The Israelites were tested forty years in the wilderness and proved disobedient and disloyal. God humbled them by first letting them go hungry and then feeding them with manna to help them learn to be dependent on Him ([[DEU.8:2]]-5). Here, Jesus is tested with hunger for forty days, but He does not sin. His answers to Satan are from Deuteronomy, and all call for loyalty to God. Jesus fasted to overcome temptation, giving us an example of our own power and limitations in the face of temptation. The hunger of His flesh does not control Him; rather, He controls His flesh. Our Lord's fast of forty days is the foundation of the Church's forty-day Lenten fast before Holy Week and of the fast before Christmas."
     }
   ]
 }

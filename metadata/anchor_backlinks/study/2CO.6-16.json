@@ -2,50 +2,60 @@
   "anchor_id": "2CO.6:16",
   "canon_uri": "canon/NT/2CO.md#2CO.6:16",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "And what agreement has the temple of God with idols? For you are the temple of the living God. As God has said: 'I will dwell in them And walk among them. I will be their God, And they shall be My people.' 'Come out from among them And be separate, says the Lord.",
+  "pericope": {
+    "id": "2CO.P021",
+    "title": "A Plea for Holiness",
+    "range": "2CO.6:5-7:3",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/1PE_footnotes.md",
-      "line_number": 227,
+      "source_file": "study/footnotes/NT/1PE_footnotes.md",
+      "line_number": 148,
       "raw_match": "[[2CO.6:16]]",
       "reference_type": "wikilink",
-      "context": "see [[EPH.2:19]]-22; [[1CO.3:16]], [[1CO.3:17]]; [[2CO.6:16]]). This is salvation in all its fullness."
+      "context": "Peter likens the growth of the Church to the OT temple with its attending priesthood and its sacrifice and worship, Christ Himself being the fulfillment of this imagery. Thus, in Christ we become living stones, a spiritual house, a royal priesthood (v. 5; see [[EXO.19:5]], [[EXO.19:6]]), the people of God who have obtained mercy (v. 10; see [[EPH.2:19]]-22; [[1CO.3:16]], [[1CO.3:17]]; [[2CO.6:16]]). This is salvation in all its fullness."
     },
     {
-      "source_file": "staging/validated/NT/2PE_footnotes.md",
-      "line_number": 79,
+      "source_file": "study/footnotes/NT/2PE_footnotes.md",
+      "line_number": 52,
       "raw_match": "[[2CO.6:16]]",
       "reference_type": "wikilink",
-      "context": "their midst' (Lv 26:12; [[2CO.6:16]])\" (CyrAl)."
+      "context": "Being renewed by God's power, we become partakers of the divine nature. This does not mean we become divine by nature. If we participated in God's essence, the distinction between God and man would be abolished. What this does mean is that we participate in God's energy, described by a number of terms in scripture, such as glory, life, love, virtue, and power. We are to become like God by His grace, and truly His adopted children, but never become God by nature. According to some church fathers, this especially occurs through the Eucharist, for when Christ's Body and Blood become one with ours, we become Christ-bearers and partakers of the divine nature. \"We that are made worthy to participate in Him [the Holy Spirit] through faith in Christ are brought to perfection as participants of the divine nature, and are said to be born of God, and on that account are given the title gods, not flying up to the glory above us by grace alone, but as already having God indwelling and taking lodging in us, according to what is set forth in the Prophet, 'I shall dwell among them and walk about in their midst' (Lv 26:12; [[2CO.6:16]])\" (CyrAl)."
     },
     {
-      "source_file": "staging/validated/NT/2TI_footnotes.md",
-      "line_number": 157,
+      "source_file": "study/footnotes/NT/2TI_footnotes.md",
+      "line_number": 111,
       "raw_match": "[[2CO.6:14]]-18",
       "reference_type": "wikilink_range",
-      "context": "stands firm and unalterable and cannot tolerate the false (see [[1CO.5:1]]-13; [[2CO.6:14]]-18),"
+      "context": "Good theology helps us along the path to good behavior. Although the truth stands firm and unalterable and cannot tolerate the false (see [[1CO.5:1]]-13; [[2CO.6:14]]-18), it instills a reasonable patience and gentleness toward all, especially toward false teachers --while not losing sight of the fact that they are enemies and to be avoided (3:5)."
     },
     {
-      "source_file": "staging/validated/NT/REV_footnotes.md",
-      "line_number": 1529,
+      "source_file": "study/footnotes/NT/REV_footnotes.md",
+      "line_number": 945,
       "raw_match": "[[2CO.6:16]]",
       "reference_type": "wikilink",
-      "context": "[[2CO.6:16]]; [[EPH.2:19]]-22)."
+      "context": "The voice of God directs John to take the book. The symbolism of eating refers to receiving a revelation from God: John's account has many parallels to the commissioning of Ezekiel ([[EZK.2:8]]-3:3; see also [[PSA.118:103]]). The contrast between sweetness in the mouth and bitterness in the stomach shows the sweetness of receiving God's revelation (announcing God's victory for His people) as opposed to the bitterness of its message of woe (announcing God's terrible judgments, as well as sufferings for His faithful ones). 11:1, 2 The measurement of the temple recalls Ezekiel's vision (Ezk 40-42). Here the measurement indicates the preservation of the temple, not restoration. Commentators variously interpret the temple as (1) a literal temple to be rebuilt in Jerusalem in the future, (2) a symbol of the Church (see [[EPH.2:19]]-21; [[1PE.2:5]]), or (3) the Jewish-Christian Church of the first century. The holy city (v. 2) shows the setting to be Jerusalem. The Synoptic Gospels also taught that Jerusalem would fall (Mt 24; Mk 13; Lk 21); Luke mentioned specifically that the Gentiles would trample Jerusalem for a period (21:24). In patristic tradition the second interpretation is preferable. The court outside (v. 2) is for both Jews and Gentiles. It will not be measured because of the large number of Christians. The forty-two months (v. 2) is three and a half years, one-half of seven, symbolizing what is not full or final but temporary, incomplete. It derives from Daniel's \"a time, two times, and half a time\" (12:7), the three-and-a-half-year period when the temple was to be profaned ([[DAN.9:27]]). John affirms the true temple, the Church, will be preserved during this Gentile onslaught. \"Temple\" is a frequent NT symbol for the Church ([[1CO.3:16]], [[1CO.3:17]]; [[2CO.6:16]]; [[EPH.2:19]]-22)."
     },
     {
-      "source_file": "staging/validated/NT/REV_footnotes.md",
-      "line_number": 2489,
+      "source_file": "study/footnotes/NT/REV_footnotes.md",
+      "line_number": 1539,
       "raw_match": "[[2CO.6:14]]-18",
       "reference_type": "wikilink_range",
-      "context": "participate in the works of darkness ([[2CO.6:14]]-18). As Babylon (Rome) has proclaimed"
+      "context": "God's people are called to come out of her so as not to partake of her punishment, destruction, and devastation (see [[NUM.33:51]]-56; Is 52:11; [[JER.27:8]]; 28:6, 46). Separation from this world is spiritual, not necessarily a physical move but a refusal to participate in the works of darkness ([[2CO.6:14]]-18). As Babylon (Rome) has proclaimed her own sovereign greatness, sitting as queen (v. 7), so her sins have reached to heaven (v. 5), recalling the Tower of Babel ([[GEN.11:4]]), a symbol of excessive arrogance. God's judgment will be swift, in one day (v. 8). In Hebrew day denotes not so much a chronological period as a completed act. 18:9, 10 The kings of the earth who committed fornication will mourn (but from a distance), stunned by the judgment of Rome and the specter of their own economic loss, when they see her devastation (see [[PSA.75:13]]; [[NAH.3:4]]-7). What happened to Sodom (Gn 19:28) and Edom (Is 34:6-10) is befalling Rome."
     },
     {
-      "source_file": "staging/validated/OT/LJE_footnotes.md",
-      "line_number": 26,
+      "source_file": "study/footnotes/OT/LJE_footnotes.md",
+      "line_number": 22,
       "raw_match": "[[2CO.6:14]]-17",
       "reference_type": "wikilink_range",
-      "context": "Christ (see [[2CO.6:14]]-17)."
+      "context": "Israel must keep her identity pure and distinct. In the same way, the Church, the new Israel, is called to separate herself from the heretics or those willfully estranged from Christ (see [[2CO.6:14]]-17)."
     }
   ]
 }

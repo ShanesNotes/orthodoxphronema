@@ -2,15 +2,25 @@
   "anchor_id": "MIC.1:1",
   "canon_uri": "canon/OT/MIC.md#MIC.1:1",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "The word of the Lord came to Micah of Moresheth in the days of Jotham, and Ahaz, and Hezekiah, kings of Judah, concerning what he saw as it relates to Samaria and Jerusalem.",
+  "pericope": {
+    "id": "MIC.P001",
+    "title": "Judgment against Israel and Judah",
+    "range": "MIC.1:1-1:6",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/JER_footnotes.md",
-      "line_number": 1013,
+      "source_file": "study/footnotes/OT/JER_footnotes.md",
+      "line_number": 785,
       "raw_match": "[[MIC.1:1]]",
       "reference_type": "wikilink",
-      "context": "This refers to the prophet Micah ([[MIC.1:1]]). The prophecy in question comes from"
+      "context": "This refers to the prophet Micah ([[MIC.1:1]]). The prophecy in question comes from [[MIC.3:12]]."
     }
   ]
 }

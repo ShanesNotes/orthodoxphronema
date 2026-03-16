@@ -2,22 +2,32 @@
   "anchor_id": "JER.28:7",
   "canon_uri": "canon/OT/JER.md#JER.28:7",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Babylon was a golden cup in the Lord's hand, causing all the earth to be drunk. The nations drank from her wine; therefore, they were shaken.",
+  "pericope": {
+    "id": "JER.P050",
+    "title": "Seventy Years of Disgrace",
+    "range": "JER.24:10-38:39",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/REV_footnotes.md",
-      "line_number": 2357,
+      "source_file": "study/footnotes/NT/REV_footnotes.md",
+      "line_number": 1455,
       "raw_match": "[[JER.28:7]]",
       "reference_type": "wikilink",
-      "context": "persecution and martyrdom of Christians (v. 6; see [[JER.28:7]])."
+      "context": "Fornication, committed by the kings of the earth with this harlot, is a metaphor for infidelity to the Lord ([[JER.3:1]]-5; Ezk 23; Hos 2). The vassal kingdoms within the Roman Empire have accepted the cults of Rome and her emperors and have solidified their obeisance with political and economic obligations--and have fallen into moral decadence. The wine of this fornication has made the inhabitants of the earth to become drunk, seduced and stupefied by a hideous eucharist of death, focused on the persecution and martyrdom of Christians (v. 6; see [[JER.28:7]])."
     },
     {
-      "source_file": "staging/validated/NT/REV_footnotes.md",
-      "line_number": 2381,
+      "source_file": "study/footnotes/NT/REV_footnotes.md",
+      "line_number": 1471,
       "raw_match": "[[JER.28:7]]",
       "reference_type": "wikilink",
-      "context": "[[JER.28:7]], Babylon is pictured as a golden cup in the hand of the Lord which makes all the"
+      "context": "The harlot is arrayed in abominable luxury: purple (an extremely expensive and rare dye from the murex shellfish of Phoenicia), scarlet, gold, precious stones, and pearls. Contrast this with the pure linen in which the bride is arrayed in 21:2. The harlot's cup contains the spiritual pollutions by which she contaminates humanity. In [[JER.28:7]], Babylon is pictured as a golden cup in the hand of the Lord which makes all the earth madly intoxicated."
     }
   ]
 }

@@ -2,15 +2,25 @@
   "anchor_id": "PSA.90:16",
   "canon_uri": "canon/OT/PSA.md#PSA.90:16",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "With length of days I will satisfy him, And show him My salvation.\"",
+  "pericope": {
+    "id": "PSA.P090",
+    "title": "Psalm 90",
+    "range": "PSA.90:1-90:16",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/LUK_footnotes.md",
-      "line_number": 467,
+      "source_file": "study/footnotes/NT/LUK_footnotes.md",
+      "line_number": 306,
       "raw_match": "[[PSA.90:16]]",
       "reference_type": "wikilink",
-      "context": "fulfills [[PSA.90:16]], in which God makes a promise to the one who loves Him: \"With length"
+      "context": "Simeon represents humanity in waiting for the Consolation of Israel. He fulfills [[PSA.90:16]], in which God makes a promise to the one who loves Him: \"With length of days I will satisfy him, / And show him My salvation.\""
     }
   ]
 }

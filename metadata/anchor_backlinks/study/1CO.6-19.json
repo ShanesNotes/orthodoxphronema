@@ -2,43 +2,60 @@
   "anchor_id": "1CO.6:19",
   "canon_uri": "canon/NT/1CO.md#1CO.6:19",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Or do you not know that your body is the temple of the Holy Spirit who is in you, whom you have from God, and you are not your own?",
+  "pericope": {
+    "id": "1CO.P015",
+    "title": "Immorality: The Church Is a Temple",
+    "range": "1CO.6:11-6:19",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/1PE_footnotes.md",
-      "line_number": 169,
-      "raw_match": "[[1CO.6:19]]",
-      "reference_type": "wikilink",
-      "context": "paid for our redemption (see [[1CO.6:19]], [[1CO.6:20]])."
-    },
-    {
-      "source_file": "staging/validated/NT/MAT_footnotes.md",
-      "line_number": 723,
-      "raw_match": "[[1CO.6:19]]",
-      "reference_type": "wikilink",
-      "context": "give themselves to no other (6:24, 33; see [[1CO.6:19]], [[1CO.6:20]]). Like Jesus, these will be"
-    },
-    {
-      "source_file": "staging/validated/NT/ROM_footnotes.md",
-      "line_number": 183,
-      "raw_match": "[[1CO.6:12]]-20",
-      "reference_type": "wikilink_range",
-      "context": "attention here (see [[1CO.6:12]]-20). Those who focus only on sexual sins fail to see that all"
-    },
-    {
-      "source_file": "staging/validated/OT/1ES_footnotes.md",
-      "line_number": 205,
-      "raw_match": "[[1CO.6:19]]",
-      "reference_type": "wikilink",
-      "context": "becoming like God by His grace ([[1CO.6:19]])."
-    },
-    {
-      "source_file": "staging/validated/OT/EXO_articles.md",
+      "source_file": "study/articles/OT/EXO_articles.md",
       "line_number": 53,
       "raw_match": "[[1CO.6:19]]",
       "reference_type": "wikilink",
-      "context": "On Mt. Sinai Moses received not only the Ten Commandments, but also precise and detailed instructions for building the tabernacle-a moveable tent-where God met the assembly of the people Israel ([[EXO.25:1]]-27:21). Consequently, the tabernacle is built according to the divine blueprints (Ex 35:4-40:33). Here God's Presence, His Glory, will be made manifest through the shining cloud filling the holy place (Ex 40:34-38). The importance of God's Presence in the tabernacle is apparent in the prayers of the Psalms, which express a longing to be with God, a fervent desire to be in His tabernacle (Pss 26:4-6; 60:4; 64:4; 83:1-4, 10; see also 22:6; 25:8). Indeed, the Lord promises that at the tabernacle, 'I shall be known to you to speak to you. There I shall give directions to the children of Israel, and I shall be sanctified in My glory' ([[EXO.29:42]]-43; see also Ezk 37:2628). While the tabernacle is the specific place where God was encountered in Israel, this did not exhaust His Presence, for as Almighty God, He has always been everywhere present, filling all things. Israel's most sacred objects were kept in the ark of the covenant, located in the holy of holies ([[HEB.9:2]]-5). Each object it held was prophetic of Christ: the tablets of the Law inscribed by God ([[EXO.25:15]]) prefigure Christ the Lawgiver; the manna ([[EXO.16:31]]-34) points to Christ as the Bread of Life ([[JOH.6:30]]-58); and Aaron's staff that budded (Nm 17:16-26) prefigures the life-giving Cross of Christ. Further, the veil separating the holy place from the holy of holies foreshadows the Incarnation ([[HEB.10:19]], [[HEB.10:20]]). The tabernacle as a whole prefigures Christ, the eternal Word of God, who 'became flesh and tabernacled (the usual English translation is 'dwelt') among us' ([[JOH.1:14]]; see also [[COL.2:9]]). St. Gregory of Nyssa observes, 'Moses was earlier instructed by a type in the mystery of the tabernacle, which encompasses the universe. This tabernacle would be Christ, who is the power and the wisdom of God ([[1CO.1:24]]).' The tabernacle also prefigures Mary the Theotokos, whose womb will be the tabernacle in which the Lord will dwell as He takes His flesh from her. On the cross, Jesus offers the ultimate sacrifice of His body, which the New Testament calls 'the greater and more perfect tabernacle not made with hands' ([[HEB.9:11]]). St. John Chrysostom comments that by this greater tabernacle St. Paul 'means the flesh [of Christ]. And well did he say, 'greater and more perfect,' since God the Word and all the power of the Spirit dwell therein.' In time, the moveable tabernacle of the wilderness is superseded by the permanent temple in Jerusalem. The temple, in turn, is superseded by Christ ([[JOH.2:18]]-21) and the Church, which is His Body ([[EPH.1:22]], [[EPH.1:23]]). Moreover, in Baptism every Christian becomes a tabernacle, a dwelling place of the Holy Spirit. As St. Paul exclaims, 'Or do you not know that your body is the temple of the Holy Spirit?' ([[1CO.6:19]]). St. Isaac of Nineveh declares, 'Lord, I give praise to Your holy nature, for You have made my nature a sanctuary for Your hiddenness, a tabernacle for Your Mysteries, a place where You can dwell, and a holy temple for Your divinity.' In his vision of the kingdom of heaven, St. John writes, 'But I saw no temple in it, for the Lord God Almighty and the Lamb are its temple' ([[REV.21:22]]). All earthly types vanish as the redeemed behold God and the Lamb in unmediated glory ([[2PE.1:4]]). The ultimate promise of the tabernacle, the temple and the Church is for God Himself to dwell in each believer forever ([[JOH.14:16]], [[JOH.14:17]], [[JOH.14:23]]; 17:20-23; see also [[REV.3:20]])."
+      "context": "On Mt. Sinai Moses received not only the Ten Commandments, but also precise and detailed instructions for building the tabernacle-a moveable tent-where God met the assembly of the people Israel ([[EXO.25:1]]-27:21). Consequently, the tabernacle is built according to the divine blueprints ([[EXO.35:4]]-40:33). Here God's Presence, His Glory, will be made manifest through the shining cloud filling the holy place ([[EXO.40:34]]-38). The importance of God's Presence in the tabernacle is apparent in the prayers of the Psalms, which express a longing to be with God, a fervent desire to be in His tabernacle ([[PSA.26:4]]-6; 60:4; 64:4; 83:1-4, 10; see also 22:6; 25:8). Indeed, the Lord promises that at the tabernacle, 'I shall be known to you to speak to you. There I shall give directions to the children of Israel, and I shall be sanctified in My glory' ([[EXO.29:42]]-43; see also [[EZK.37:26]]-28). While the tabernacle is the specific place where God was encountered in Israel, this did not exhaust His Presence, for as Almighty God, He has always been everywhere present, filling all things. Israel's most sacred objects were kept in the ark of the covenant, located in the holy of holies ([[HEB.9:2]]-5). Each object it held was prophetic of Christ: the tablets of the Law inscribed by God ([[EXO.25:15]]) prefigure Christ the Lawgiver; the manna ([[EXO.16:31]]-34) points to Christ as the Bread of Life ([[JOH.6:30]]-58); and Aaron's staff that budded ([[NUM.17:16]]-26) prefigures the life-giving Cross of Christ. Further, the veil separating the holy place from the holy of holies foreshadows the Incarnation ([[HEB.10:19]], [[HEB.10:20]]). The tabernacle as a whole prefigures Christ, the eternal Word of God, who 'became flesh and tabernacled (the usual English translation is 'dwelt') among us' ([[JOH.1:14]]; see also [[COL.2:9]]). St. Gregory of Nyssa observes, 'Moses was earlier instructed by a type in the mystery of the tabernacle, which encompasses the universe. This tabernacle would be Christ, who is the power and the wisdom of God ([[1CO.1:24]]).' The tabernacle also prefigures Mary the Theotokos, whose womb will be the tabernacle in which the Lord will dwell as He takes His flesh from her. On the cross, Jesus offers the ultimate sacrifice of His body, which the New Testament calls 'the greater and more perfect tabernacle not made with hands' ([[HEB.9:11]]). St. John Chrysostom comments that by this greater tabernacle St. Paul 'means the flesh [of Christ]. And well did he say, 'greater and more perfect,' since God the Word and all the power of the Spirit dwell therein.' In time, the moveable tabernacle of the wilderness is superseded by the permanent temple in Jerusalem. The temple, in turn, is superseded by Christ ([[JOH.2:18]]-21) and the Church, which is His Body ([[EPH.1:22]], [[EPH.1:23]]). Moreover, in Baptism every Christian becomes a tabernacle, a dwelling place of the Holy Spirit. As St. Paul exclaims, 'Or do you not know that your body is the temple of the Holy Spirit?' ([[1CO.6:19]]). St. Isaac of Nineveh declares, 'Lord, I give praise to Your holy nature, for You have made my nature a sanctuary for Your hiddenness, a tabernacle for Your Mysteries, a place where You can dwell, and a holy temple for Your divinity.' In his vision of the kingdom of heaven, St. John writes, 'But I saw no temple in it, for the Lord God Almighty and the Lamb are its temple' ([[REV.21:22]]). All earthly types vanish as the redeemed behold God and the Lamb in unmediated glory ([[2PE.1:4]]). The ultimate promise of the tabernacle, the temple and the Church is for God Himself to dwell in each believer forever ([[JOH.14:16]], [[JOH.14:17]], [[JOH.14:23]]; 17:20-23; see also [[REV.3:20]])."
+    },
+    {
+      "source_file": "study/footnotes/NT/1PE_footnotes.md",
+      "line_number": 111,
+      "raw_match": "[[1CO.6:19]]",
+      "reference_type": "wikilink",
+      "context": "Our salvation has been purchased by the infinitely precious blood of Christ (v. 19). We are not our own and are to conduct ourselves in a manner worthy of the price paid for our redemption (see [[1CO.6:19]], [[1CO.6:20]])."
+    },
+    {
+      "source_file": "study/footnotes/NT/MAT_footnotes.md",
+      "line_number": 468,
+      "raw_match": "[[1CO.6:19]]",
+      "reference_type": "wikilink",
+      "context": "Children of God uphold truth, refuse to compromise with the ways of the world, and give themselves to no other (6:24, 33; see [[1CO.6:19]], [[1CO.6:20]]). Like Jesus, these will be persecuted for righteousness' sake (see [[JOH.15:18]]-20). Christ's kingdom is the crown awaiting the righteous."
+    },
+    {
+      "source_file": "study/footnotes/NT/ROM_footnotes.md",
+      "line_number": 128,
+      "raw_match": "[[1CO.6:12]]-20",
+      "reference_type": "wikilink_range",
+      "context": "While sexual immorality is not the only way man is given over to unrighteousness, it is often more destructive than other sins and thus receives specific attention here (see [[1CO.6:12]]-20). Those who focus only on sexual sins fail to see that all sin separates man from God and leads to destruction. Covetousness is a sinful passion directly opposite the virtue of thankfulness--it is being unsatisfied with the blessings already received and having an insatiable desire for more. Murder also includes hatred towards another ([[MAT.5:21]], [[MAT.5:22]]). Whisperers are people who gossip. Inventors of evil things are those who cooperate with the devil to discover new forms of wickedness. Those who approve (v. 32) of sins such as homosexual behavior, greed, and rebellion against parents are as guilty as those who commit them."
+    },
+    {
+      "source_file": "study/footnotes/OT/1ES_footnotes.md",
+      "line_number": 156,
+      "raw_match": "[[1CO.6:19]]",
+      "reference_type": "wikilink",
+      "context": "This passage chronicles the completion of the temple under the leadership of Haggai and Zechariah. The building of the earthly temple is a type of our deification-- becoming like God by His grace ([[1CO.6:19]])."
+    },
+    {
+      "source_file": "study/footnotes/OT/PRO_footnotes.md",
+      "line_number": 191,
+      "raw_match": "[[1CO.6:15]]-20",
+      "reference_type": "wikilink_range",
+      "context": "Prostitution here refers to engaging in sex outside marriage, which may or may not involve the payment of money. The sons of Wisdom need to obey Him and His teachings, and stay away from sex outside marriage (vv. 7, 8). For the perils are many. In fornication, a man becomes one flesh with numerous women, which in the end brings regret and a totally dissipated life (vv. 9-11; see also St. Paul's teaching in [[1CO.6:15]]-20). Such a son will regret hating the instruction and reproofs of Wisdom (vv. 12, 13). Furthermore, little by little, this lifestyle leads to other sins, which are evident not only to God but to the church (v. 14). 5:15-19 Marriage is sacred, here called waters which are pure, for it was ordained by Wisdom (v. 15; see also [[GEN.2:23]], [[GEN.2:24]]). But adultery spills these waters and damages the marriage bond (v. 16). However, faithfulness in marriage is called wide places, because it is filled with blessings from Wisdom (vv. 16-18). For within it, both husband and wife rejoice together (v. 18), and the wife's love and companionship make her husband great (v. 19). 5:20-23 In conclusion, the eyes of God keep close watch on a man (vv. 20, 21). For a man who embraces a woman not his wife may do so in the dark, but what he does is fully exposed before God. And although a lawless woman may ensnare a man, the man also is responsible for chaining himself with his own sins (v. 22). For he refuses Wisdom's crown of discernment, and is finally destroyed with the rest of the undiscerning (v. 23; see also [[HEB.13:4]]). 6:1-40 This chapter warns against four vices or sinful passions: a careless tongue (vv. 1-6), laziness (vv. 7-16), a lawless spirit (vv. 17-25), and unlawful sexual intercourse (vv. 26- 40). 6:1-6 Assuming debt for a friend in this instance refers to a son of Wisdom pledging with his lips to join with a friend in his evil undertakings (v. 1). As St. Paul said, \"Evil company corrupts good habits\" ([[1CO.15:33]]). With such a pledge, a man's tongue becomes his worst enemy (v. 2). Wisdom speaks to His son, commanding him to save himself (v. 3), for this son cannot save his friend before he saves himself. And he certainly cannot save him while participating with him in his sins (v. 3). So Wisdom commands His son to cease being a coward (Do not be faint, v. 4), to reject his careless pledge to his friend, and to provoke his friend to change as well. Furthermore, this son is to awake from his spiritual slumber and move forward quickly with this matter, that he may save himself, like a gazelle from the snares and a bird from a trap (vv. 5, 6; see also [[EPH.5:14]], [[EPH.5:15]]). 6:7-16 Laziness, both of body and soul, leads to poverty (vv. 13-15). But Wisdom commands His son to be diligent (v. 16). To achieve this, he must mark the behavior of two created things: the ant and the honeybee. Outwardly they appear insignificant (v. 8) and weak (v. 12), but one who discovers their habits will also find the Word and Wisdom of God, who is Christ Himself. And when he imitates their way of life through the grace of Christ (vv. 7, 9, 10, 11), his laziness will be cured."
     }
   ]
 }

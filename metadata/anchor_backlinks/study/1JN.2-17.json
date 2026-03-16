@@ -2,15 +2,25 @@
   "anchor_id": "1JN.2:17",
   "canon_uri": "canon/NT/1JN.md#1JN.2:17",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "And the world is passing away, and the lust of it; but he who does the will of God abides forever.",
+  "pericope": {
+    "id": "1JN.P004",
+    "title": "The Truth: Jesus Is God",
+    "range": "1JN.2:17-2:26",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/REV_footnotes.md",
-      "line_number": 2907,
+      "source_file": "study/footnotes/NT/REV_footnotes.md",
+      "line_number": 1790,
       "raw_match": "[[1JN.2:17]]",
       "reference_type": "wikilink",
-      "context": "7:31; [[2PE.3:10]]-13; [[1JN.2:17]]) does not mean the present creation will be utterly destroyed."
+      "context": "The NT teaching that the present world will pass away (see [[MAT.5:18]]; [[MRK.13:31]]; 1Co 7:31; [[2PE.3:10]]-13; [[1JN.2:17]]) does not mean the present creation will be utterly destroyed. It will be totally renewed (5:9; 21:5; Is 65:17-25; [[ROM.8:19]]-22; [[2CO.5:17]]; [[2PE.3:13]]): freed from corruption, purified, transfigured, glorified. The first cosmos will pass away."
     }
   ]
 }

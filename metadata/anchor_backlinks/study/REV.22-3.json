@@ -2,15 +2,25 @@
   "anchor_id": "REV.22:3",
   "canon_uri": "canon/NT/REV.md#REV.22:3",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "And there shall be no more curse, but the throne of God and of the Lamb shall be in it, and His servants shall serve Him.",
+  "pericope": {
+    "id": "REV.P062",
+    "title": "Healing of the Nations",
+    "range": "REV.21:21-22:4",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/ZEC_footnotes.md",
-      "line_number": 685,
+      "source_file": "study/footnotes/OT/ZEC_footnotes.md",
+      "line_number": 491,
       "raw_match": "[[REV.22:1]]-5",
       "reference_type": "wikilink_range",
-      "context": "the Holy City ([[REV.22:1]]-5). The Garden of Eden was at the headwaters of four great rivers"
+      "context": "Christ is the living water ([[JOH.4:10]]-14). In the Apocalypse, a river runs through the Holy City ([[REV.22:1]]-5). The Garden of Eden was at the headwaters of four great rivers ([[GEN.2:10]]-15). In the garden of Paradise, Christ is the living water who sustains, refreshes, and gives life to the inhabitants."
     }
   ]
 }

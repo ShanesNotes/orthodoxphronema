@@ -2,15 +2,25 @@
   "anchor_id": "NUM.6:26",
   "canon_uri": "canon/OT/NUM.md#NUM.6:26",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "The Lord lift up His countenance upon you, and give you peace.'",
+  "pericope": {
+    "id": "NUM.P016",
+    "title": "The Leaders' Offerings",
+    "range": "NUM.6:26-7:8",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/REV_footnotes.md",
-      "line_number": 3101,
+      "source_file": "study/footnotes/NT/REV_footnotes.md",
+      "line_number": 1909,
       "raw_match": "[[NUM.6:23]]-26",
       "reference_type": "wikilink_range",
-      "context": "The Lord God gives them light perfects the priestly blessing of [[NUM.6:23]]-26, a"
+      "context": "The Lord God gives them light perfects the priestly blessing of [[NUM.6:23]]-26, a concluding benediction of the daily morning and evening sacrifices of the OT temple. When you have God's uncreated light, there can be no night (see 21:23; Is 60:19, 20)."
     }
   ]
 }

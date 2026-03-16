@@ -2,15 +2,25 @@
   "anchor_id": "HEB.1:7",
   "canon_uri": "canon/NT/HEB.md#HEB.1:7",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "And of the angels He says: 'Who makes His angels spirits And His ministers a flame of fire.'",
+  "pericope": {
+    "id": "HEB.P001",
+    "title": "Christ's Dominion Over Creation",
+    "range": "HEB.1:1-1:9",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/NUM_footnotes.md",
-      "line_number": 74,
+      "source_file": "study/footnotes/OT/NUM_footnotes.md",
+      "line_number": 51,
       "raw_match": "[[HEB.1:7]]",
       "reference_type": "wikilink",
-      "context": "fulfillment of Israel's liturgical worship ([[HEB.1:7]], [[HEB.1:14]]; 8:2, 6; 9:21; 10:11)."
+      "context": "The Levites were ordained to minister liturgically, for divine worship is liturgical in nature; this liturgical nature is mentioned about forty-five times throughout Numbers. The word liturgy means \"the work of the people.\" In Israel, this included the Levites and the twelve tribes, that is, all \"the children of Israel\" (v. 49), with the Levites having their special liturgical service in the tabernacle. The worship of the Church is also liturgical in nature and includes both clergy and laity. The apostles were ministering liturgically in [[ACT.13:2]] when the Holy Spirit spoke to them. The same word is used here as in the Book of Numbers. This same word is also used numerous times in Hebrews to describe the liturgical worship of the Church as the fulfillment of Israel's liturgical worship ([[HEB.1:7]], [[HEB.1:14]]; 8:2, 6; 9:21; 10:11)."
     }
   ]
 }

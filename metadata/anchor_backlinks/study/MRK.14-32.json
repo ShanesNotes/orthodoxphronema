@@ -2,29 +2,39 @@
   "anchor_id": "MRK.14:32",
   "canon_uri": "canon/NT/MRK.md#MRK.14:32",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Then they came to a place which was named Gethsemane; and He said to His disciples, 'Sit here while I pray.' And they all said likewise.",
+  "pericope": {
+    "id": "MRK.P053",
+    "title": "Gethsemane",
+    "range": "MRK.14:32-14:41",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/HEB_footnotes.md",
-      "line_number": 483,
+      "source_file": "study/footnotes/NT/HEB_footnotes.md",
+      "line_number": 314,
       "raw_match": "[[MRK.14:32]]-42",
       "reference_type": "wikilink_range",
-      "context": "Gethsemane ([[MAT.26:36]]-46; [[MRK.14:32]]-42; [[LUK.22:39]]-46)."
+      "context": "Cries and tears is likely a reference to our Lord's agonizing prayer in the Garden of Gethsemane ([[MAT.26:36]]-46; [[MRK.14:32]]-42; [[LUK.22:39]]-46)."
     },
     {
-      "source_file": "staging/validated/NT/LUK_footnotes.md",
-      "line_number": 3245,
+      "source_file": "study/footnotes/NT/LUK_footnotes.md",
+      "line_number": 2167,
       "raw_match": "[[MRK.14:32]]",
       "reference_type": "wikilink",
-      "context": "a great and difficult task (compare [[MRK.14:32]]). The Promise of My Father is the Holy"
+      "context": "Are endued with is literally \"have put on\" (the same verb found in [[EPH.6:11]]), indicating the complete protection of spiritual armor. Tarry is literally \"sit down,\" and is an instruction not only to stay in place, but also to take rest and prepare attentively before a great and difficult task (compare [[MRK.14:32]]). The Promise of My Father is the Holy Spirit (see [[ACT.1:4]])."
     },
     {
-      "source_file": "staging/validated/OT/2SA_footnotes.md",
-      "line_number": 637,
+      "source_file": "study/footnotes/OT/2SA_footnotes.md",
+      "line_number": 491,
       "raw_match": "[[MRK.14:32]]-35",
       "reference_type": "wikilink_range",
-      "context": "([[MRK.14:32]]-35)."
+      "context": "David is distraught at the defection of Ahithophel. He hears this news as he weeps and prays on the Mount of Olives, seeking God's will. Compare this with Christ weeping on the Mount of Olives, knowing full well God's will, as His betrayer approaches ([[MRK.14:32]]-35)."
     }
   ]
 }

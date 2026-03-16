@@ -2,15 +2,25 @@
   "anchor_id": "MRK.7:6",
   "canon_uri": "canon/NT/MRK.md#MRK.7:6",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "He answered and said to them, 'Well did Isaiah prophesy of you hypocrites, as it is 'This people honors Me with their lips, But their heart is far from Me.",
+  "pericope": {
+    "id": "MRK.P027",
+    "title": "The Traditions of the Pharisees",
+    "range": "MRK.6:56-7:22",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/ISA_footnotes.md",
-      "line_number": 497,
+      "source_file": "study/footnotes/OT/ISA_footnotes.md",
+      "line_number": 355,
       "raw_match": "[[MRK.7:6]]",
       "reference_type": "wikilink",
-      "context": "hears our \"groanings which cannot be uttered\" ([[ROM.8:26]]; see also [[MRK.7:6]], [[MRK.7:7]])."
+      "context": "A right heart before God in prayer is even more important than right words, for God hears our \"groanings which cannot be uttered\" ([[ROM.8:26]]; see also [[MRK.7:6]], [[MRK.7:7]])."
     }
   ]
 }

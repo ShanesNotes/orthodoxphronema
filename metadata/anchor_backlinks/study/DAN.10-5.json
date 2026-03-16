@@ -2,15 +2,25 @@
   "anchor_id": "DAN.10:5",
   "canon_uri": "canon/OT/DAN.md#DAN.10:5",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "I lifted my eyes and looked, and behold, there was a man clothed in fine linen; and his waist was girded with gold of Uphaz.",
+  "pericope": {
+    "id": "DAN.P029",
+    "title": "The Man of Splendor",
+    "range": "DAN.9:27-10:8",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/REV_footnotes.md",
-      "line_number": 1099,
+      "source_file": "study/footnotes/NT/REV_footnotes.md",
+      "line_number": 680,
       "raw_match": "[[DAN.10:5]]",
       "reference_type": "wikilink",
-      "context": "19:8, 9; Is 61:10; [[DAN.10:5]]; [[MAT.22:1]]-4; [[GAL.3:27]]; see also 1En 62:16). The martyrs are"
+      "context": "The cry of the martyrs for vengeance is not vindictive; they are pleading with God to hasten the end of persecution and the consummation of His plans for the world. In the interim, the martyrs are consoled by the white robe (v. 11)--a Jewish symbol of resurrection from the dead. Elsewhere it is a symbol of blessedness, good deeds, innocence, victory, purity, new and eternal life, transfiguration, a resurrected and glorified body, vesting in Christ, and the wedding garment of salvation (3:5; 7:9, 13-17; 19:8, 9; Is 61:10; [[DAN.10:5]]; [[MAT.22:1]]-4; [[GAL.3:27]]; see also 1En 62:16). The martyrs are called to have patience until the fullness of their number is complete. The vision of the souls of the martyrs under the altar (v. 9) derives from the OT practice of pouring the blood (the physical manifestation of the life of the soul) of sin offerings at the base of the altar of burnt offering. It is a basis for the historic Christian practices of building church buildings over tombs of martyrs, placing relics of saints in the altar when a church is consecrated, and burying baptized people under the altar. Thus, in the Divine Liturgy Orthodox Christians remember \"those who lie asleep here and in all the world.\""
     }
   ]
 }

@@ -2,29 +2,39 @@
   "anchor_id": "ROM.8:26",
   "canon_uri": "canon/NT/ROM.md#ROM.8:26",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Likewise the Spirit also helps in our weaknesses. For we do not know what we should pray for as we ought, but the Spirit Himself makes intercession for us with groanings which cannot be uttered.",
+  "pericope": {
+    "id": "ROM.P019",
+    "title": "The Spirit Assists Us Through Suffering",
+    "range": "ROM.8:17-8:26",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/JOH_footnotes.md",
-      "line_number": 2507,
+      "source_file": "study/footnotes/NT/JOH_footnotes.md",
+      "line_number": 1604,
       "raw_match": "[[ROM.8:26]]",
       "reference_type": "wikilink",
-      "context": "Christ's name (14:13, 14; [[ROM.8:26]]) and giving us words of witness when we speak the"
+      "context": "The Spirit of truth is in each believer, and we are called to know Him. The Holy Spirit prays in us and for us when we do not know how to pray, enabling us to pray in Christ's name (14:13, 14; [[ROM.8:26]]) and giving us words of witness when we speak the gospel ([[MRK.13:11]])."
     },
     {
-      "source_file": "staging/validated/NT/JOH_footnotes.md",
-      "line_number": 2755,
+      "source_file": "study/footnotes/NT/JOH_footnotes.md",
+      "line_number": 1766,
       "raw_match": "[[ROM.8:26]]",
       "reference_type": "wikilink",
-      "context": "for us\" ([[ROM.8:26]]), and we are instructed to pray always \"in the Spirit\" ([[EPH.6:18]])."
+      "context": "We know prayer is offered in the name of God the Father, for Christ taught us to pray that way ([[MAT.6:9]]), and He Himself prayed to the Father (11:41; 12:28; 17:1). In Christ, we have direct access to the Father, and thus we pray in the name of the Son as well (see note at 14:13, 14). After Pentecost, we learn the Holy Spirit Himself \"makes intercession for us\" ([[ROM.8:26]]), and we are instructed to pray always \"in the Spirit\" ([[EPH.6:18]]). Therefore, as Orthodox Christians, we pray continually and with confidence to all three Persons of the Trinity, \"in the name of the Father, and the Son, and the Holy Spirit.\""
     },
     {
-      "source_file": "staging/validated/OT/ISA_footnotes.md",
-      "line_number": 497,
+      "source_file": "study/footnotes/OT/ISA_footnotes.md",
+      "line_number": 355,
       "raw_match": "[[ROM.8:26]]",
       "reference_type": "wikilink",
-      "context": "hears our \"groanings which cannot be uttered\" ([[ROM.8:26]]; see also [[MRK.7:6]], [[MRK.7:7]])."
+      "context": "A right heart before God in prayer is even more important than right words, for God hears our \"groanings which cannot be uttered\" ([[ROM.8:26]]; see also [[MRK.7:6]], [[MRK.7:7]])."
     }
   ]
 }

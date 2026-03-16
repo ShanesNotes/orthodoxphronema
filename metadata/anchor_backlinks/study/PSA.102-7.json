@@ -2,15 +2,25 @@
   "anchor_id": "PSA.102:7",
   "canon_uri": "canon/OT/PSA.md#PSA.102:7",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "He made known His ways to Moses, The things He willed to the sons of Israel.",
+  "pericope": {
+    "id": "PSA.P102",
+    "title": "Psalm 102",
+    "range": "PSA.102:1-102:22",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/JOB_footnotes.md",
-      "line_number": 181,
+      "source_file": "study/footnotes/OT/JOB_footnotes.md",
+      "line_number": 128,
       "raw_match": "[[PSA.102:7]]",
       "reference_type": "wikilink",
-      "context": "of the Lord, but he did not know His ways ([[PSA.102:7]]). 6:2"
+      "context": "St. Gregory remarks that Eliphaz' words would have been true, had they not been delivered against the patience of so great a man. Like the Hebrews, Eliphaz knew the acts of the Lord, but he did not know His ways ([[PSA.102:7]]). 6:2 Christ is the scale. He \"came to weigh the merit of our life, and brought down with Him both justice and lovingkindness together\" (GrgGt). 6:5-7 God is the Source of both physical and spiritual food. Christ is the bread that satisfies, and His words, being \"salted with truth,\" give eternal life. 6:10 Having placed his hope in the Lord, Job faced the grave with peace of soul. It was Eliphaz who had lied about the holy words of... God."
     }
   ]
 }

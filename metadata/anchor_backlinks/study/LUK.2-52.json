@@ -2,15 +2,25 @@
   "anchor_id": "LUK.2:52",
   "canon_uri": "canon/NT/LUK.md#LUK.2:52",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "And Jesus increased in wisdom and stature, and in favor with God and men.",
+  "pericope": {
+    "id": "LUK.P015",
+    "title": "The Baptist's Call for Repentance",
+    "range": "LUK.2:52-3:19",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/BAR_footnotes.md",
-      "line_number": 137,
+      "source_file": "study/footnotes/OT/BAR_footnotes.md",
+      "line_number": 112,
       "raw_match": "[[LUK.2:52]]",
       "reference_type": "wikilink",
-      "context": "Word is described as the fountain of wisdom (see [[LUK.2:40]], [[LUK.2:52]]; 21:15; [[JOH.4:13]], [[JOH.4:14]])."
+      "context": "The fountain of wisdom is a likely reference to God the Father (see [[JER.2:13]], where the Father and Son are together depicted as a fountain and living water). In WSir 1:5, the Word is described as the fountain of wisdom (see [[LUK.2:40]], [[LUK.2:52]]; 21:15; [[JOH.4:13]], [[JOH.4:14]])."
     }
   ]
 }

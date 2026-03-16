@@ -2,15 +2,25 @@
   "anchor_id": "PSA.88:28",
   "canon_uri": "canon/OT/PSA.md#PSA.88:28",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "I shall make him, my firstborn, Higher than the kings of the earth.",
+  "pericope": {
+    "id": "PSA.P088",
+    "title": "Psalm 88",
+    "range": "PSA.88:1-88:53",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/2SA_footnotes.md",
-      "line_number": 256,
+      "source_file": "study/footnotes/OT/2SA_footnotes.md",
+      "line_number": 197,
       "raw_match": "[[PSA.88:28]]",
       "reference_type": "wikilink",
-      "context": "the throne and house and kingdom forever (see v. 23; [[PSA.88:28]]ff: Is 55:3)."
+      "context": "In a dream, God informs Nathan that David is not to build the temple. His descendant, Solomon, will build it. This serves to remind Nathan and David that God Himself is in charge and will issue the instructions. Indeed, God Himself will establish the throne and house and kingdom forever (see v. 23; [[PSA.88:28]]ff: Is 55:3)."
     }
   ]
 }

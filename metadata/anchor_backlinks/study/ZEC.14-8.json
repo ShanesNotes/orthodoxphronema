@@ -2,22 +2,32 @@
   "anchor_id": "ZEC.14:8",
   "canon_uri": "canon/OT/ZEC.md#ZEC.14:8",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "And in that day living water shall come forth out of Jerusalem, half of it toward the eastern sea and half toward the western sea. So it will be in both summer and spring.",
+  "pericope": {
+    "id": "ZEC.P018",
+    "title": "The Day of the Lord",
+    "range": "ZEC.13:9-14:21",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/REV_footnotes.md",
-      "line_number": 2079,
+      "source_file": "study/footnotes/NT/REV_footnotes.md",
+      "line_number": 1284,
       "raw_match": "[[ZEC.14:2]]-12",
       "reference_type": "wikilink_range",
-      "context": "the Gentiles (Joel 4:2, 12; [[ZEC.14:2]]-12; see also 1En 5:31). The absurdly large amount of"
+      "context": "The trampling of the wicked who were gathered outside the city recalls the bloodshed (the crucifixion, [[HEB.13:12]]; the martyrdom of Stephen, [[ACT.7:58]]-60) that took place outside the walls of Jerusalem. The whole world is judged as the Jews would judge the Gentiles (Joel 4:2, 12; [[ZEC.14:2]]-12; see also 1En 5:31). The absurdly large amount of blood (one thousand six hundred furlongs is about 184 miles) suggests the severity and completeness (1600 = 4 x 4 x 100) of God's judgment. 14:14-20 Two images of judgment, a grain harvest (vv. 14-16) and a grape harvest, complete with the treading of a winepress (vv. 17-20)."
     },
     {
-      "source_file": "staging/validated/NT/REV_footnotes.md",
-      "line_number": 3049,
+      "source_file": "study/footnotes/NT/REV_footnotes.md",
+      "line_number": 1879,
       "raw_match": "[[ZEC.14:8]]",
       "reference_type": "wikilink",
-      "context": "[[EZK.47:1]]-12; [[ZEC.14:8]]; see also 2En 8:5). The OT Feast of Tabernacles, the festival of the"
+      "context": "The river of water of life manifests the Giver of Life, the Holy Spirit (see 21:6; also [[EZK.47:1]]-12; [[ZEC.14:8]]; see also 2En 8:5). The OT Feast of Tabernacles, the festival of the Messianic Kingdom, emphasized light and water. As in his Gospel, so here John shows these themes are fulfilled by Christ and His Church. Christ is the Light of the World (21:23-26; 22:5 with [[JOH.8:12]]); the Holy Spirit is the Water of Life (22:1, 2; 21:6 with Jn 7:37-39). The Church is the Messianic Kingdom. God the Father and the Lamb, the Son incarnate, share one throne, for they are consubstantial and one worship is offered them. With the Spirit proceeding from the throne, the entire Trinity is here. 22:2, 3 The tree of life, a symbol of Christ Himself, gives immortality. It fulfills the tree of life in Paradise ([[GEN.3:22]]) and the other tree of life, the Cross of the Savior, the tree of obedience ([[1PE.2:24]]), a tree of curse ([[GAL.3:13]]). But there is no more curse (v. 3) in the Holy City: a reversal of the curse of [[GEN.3:16]]-19. The fruits and leaves of the tree are completely and universally therapeutic, reversing the effects of the fruit of the tree of disobedience ([[GEN.3:6]])."
     }
   ]
 }

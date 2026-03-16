@@ -2,22 +2,32 @@
   "anchor_id": "JOH.17:21",
   "canon_uri": "canon/NT/JOH.md#JOH.17:21",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "that they all may be one, as You, Father, are in Me, and I in You; that they also may be one in Us, that the world may believe that You sent Me.",
+  "pericope": {
+    "id": "JOH.P061",
+    "title": "Christ's Prayer for the Church",
+    "range": "JOH.17:19-17:22",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/1JN_footnotes.md",
-      "line_number": 57,
+      "source_file": "study/footnotes/NT/1JN_footnotes.md",
+      "line_number": 39,
       "raw_match": "[[JOH.17:21]]",
       "reference_type": "wikilink",
-      "context": "Church not be one and united (see [[JOH.17:11]], [[JOH.17:20]], [[JOH.17:21]]) or that fellowship not be founded on"
+      "context": "Koinonia (Gr.) is far more than fellowship. It is our personal participation with other believers in the life of Christ. Fellowship with us refers to communion--especially eucharistic communion--within the apostolic Church. It is inconceivable to John that the Church not be one and united (see [[JOH.17:11]], [[JOH.17:20]], [[JOH.17:21]]) or that fellowship not be founded on doctrine (the theological implication of with the Father and with His Son Jesus Christ) and on sacrament (the liturgical implication of koinonia). 1:1-4 Contrary to heretics, who claim communion (koinonia) directly with God through \"spiritual\" (non-material) means, John teaches communion with God through the Incarnate Son. Especially in view here is the Eucharist, where the physicality of Christ is repulsive to the heretics."
     },
     {
-      "source_file": "staging/validated/OT/2CH_footnotes.md",
-      "line_number": 95,
+      "source_file": "study/footnotes/OT/2CH_footnotes.md",
+      "line_number": 69,
       "raw_match": "[[JOH.17:21]]",
       "reference_type": "wikilink",
-      "context": "be one in Us\" ([[JOH.17:21]]). Hence at Divine Liturgy the faithful pray, \"And grant us with one"
+      "context": ") ever viewed as prohibiting images in worship. The warning is against false images or idols--like the golden calf. The carved (v. 7) and woven (v. 14) icons in the temple foreshadow icons in the Orthodox Church. Under the old covenant, all images in the temple are earthly except the cherubim (v. 7; see Is 37:6; [[HEB.9:5]]), which signify God's inconceivable majesty. When Christ brings heaven and earth together in His Church, the things of heaven are more clearly depicted. Until Christ comes again, icons will be used in worship as windows into heaven, for as St. Paul writes, \"For now we see in a mirror, dimly, but then face to face\" ([[1CO.13:12]]). 3:8 Christ will fulfill the most holy place when He brings earth to heaven. 4:2-6 Christ, who is called the \"lily of the valleys\" (v. 5; SS 2:1), is also the sea of bronze; and the Holy Spirit is represented by the water. All who are cleansed in the basins or lavers of baptism have identified themselves with Christ's death, and have been raised up in Him into newness of life; partaking indeed of \"living water\" ([[JOH.4:10]]), they have \"put on Christ\" ([[GAL.3:27]]). 4:7-8 The lampstands and the bowls symbolize Christ and His Church. In the old tabernacle, there was one laver and one lampstand with six bowls ([[EXO.25:31]]-39); now there are ten of each and one hundred golden bowls. This signifies the \"great quantity\" (v. 18) of blessings in Christ's kingdom. 5:1 Solomon's finished work on the temple will be fulfilled in Christ. 5:2-13 This passage foreshadows the falling asleep of the Theotokos, the Mother of God: \"The Ark of God departed from Mount Zion for the heavenly country, borne on the shoulders of the apostles. Angels overshadowed it with their wings, accompanying it, together with the whole assembly of the Church.... So is it now with the dwelling-place of the true ark, no longer of the testimony, but the very substance of God the Word. The new Solomon, the Prince of peace, the Creator of all things in the heavens and on the earth, assembled together today the supporters of the new covenant, that is the apostles, with all the people of the saints in Jerusalem, brought in her soul through angels to the true Holy of Holies\" (JohnDm). 5:13 As one: In His High Priestly Prayer, the Lord prays for the faithful, \"that they all may be one in Us\" ([[JOH.17:21]]). Hence at Divine Liturgy the faithful pray, \"And grant us with one mouth and one heart to glorify and praise Your all-honorable and majestic Name.\" 5:13-2 The glory of the Lord represents the divine nature of Christ, which is joined to His human nature, the house or temple of His body, in the Incarnation. 6:2 Just as Solomon built a house, so Jesus proclaimed, \"I will build My church\" (Mt 16:18). 7:1 Fire came down from heaven: this foreshadows Pentecost (see 3Kg 18:30-38; 1Ch"
     }
   ]
 }

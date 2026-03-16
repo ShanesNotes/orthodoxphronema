@@ -2,15 +2,25 @@
   "anchor_id": "ACT.11:28",
   "canon_uri": "canon/NT/ACT.md#ACT.11:28",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Then one of them, named Agabus, stood up and showed by the Spirit that there was going to be great famine throughout all the world, which also happened in the days of Claudius Caesar.",
+  "pericope": {
+    "id": "ACT.P039",
+    "title": "Aid to Jewish Christians",
+    "range": "ACT.11:26-11:29",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/GAL_footnotes.md",
-      "line_number": 207,
+      "source_file": "study/footnotes/NT/GAL_footnotes.md",
+      "line_number": 136,
       "raw_match": "[[ACT.11:27]]-30",
       "reference_type": "wikilink_range",
-      "context": "the Jerusalem church (see [[ACT.11:27]]-30)."
+      "context": "Apostles are also united in caring for the poor, which in this case probably refers to the Jerusalem church (see [[ACT.11:27]]-30)."
     }
   ]
 }

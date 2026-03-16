@@ -2,22 +2,32 @@
   "anchor_id": "2PE.2:6",
   "canon_uri": "canon/NT/2PE.md#2PE.2:6",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "and turning the cities of Sodom and Gomorrah into ashes, condemned them to destruction, making them an example to those who afterward would live ungodly;",
+  "pericope": {
+    "id": "2PE.P006",
+    "title": "The Doom of False Teachers",
+    "range": "2PE.2:3-2:8",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/3MA_footnotes.md",
-      "line_number": 135,
+      "source_file": "study/footnotes/OT/3MA_footnotes.md",
+      "line_number": 114,
       "raw_match": "[[2PE.2:6]]",
       "reference_type": "wikilink",
       "context": "Sodom: See [[GEN.13:13]]; [[DEU.29:23]]; WSol 10:6-8; 2Ez 2:8; [[LUK.17:29]]; [[2PE.2:6]]; [[JUD.1:7]]."
     },
     {
-      "source_file": "staging/validated/OT/GEN_footnotes.md",
-      "line_number": 1030,
+      "source_file": "study/footnotes/OT/GEN_footnotes.md",
+      "line_number": 740,
       "raw_match": "[[2PE.2:6]]",
       "reference_type": "wikilink",
-      "context": "ungodly concerning the Day of Judgment ([[2PE.2:6]], [[2PE.2:9]]; Jude 7). 19:22-24 During Great Lent, the Church sings, \"O my soul, flee like Lot to the mountain, and take refuge in Zoar before it is too late. Flee from the flames, my soul, flee from the"
+      "context": "The Lord rained brimstone and fire... from the Lord out of heaven, that is, the Son rained brimstone and fire from the Father (AthanG, BasilG, AmbM, and HilryP). Both have the name \"Lord\" because of Their equality and oneness of lordship. For in Their essence, the Two are One and undivided (Creed). The Holy Spirit, who spoke this Scripture through the prophet Moses, is also one in lordship with the Father and the Son, for as the Creed says, \"I believe in the Holy Spirit, the Lord... who proceeds from the Father.\" The destruction of Sodom and the adjoining city of Gomorrah is a warning to the ungodly concerning the Day of Judgment ([[2PE.2:6]], [[2PE.2:9]]; Jude 7). 19:22-24 During Great Lent, the Church sings, \"O my soul, flee like Lot to the mountain, and take refuge in Zoar before it is too late. Flee from the flames, my soul, flee from the burning heat of Sodom, flee from destruction by the fire of God.\""
     }
   ]
 }

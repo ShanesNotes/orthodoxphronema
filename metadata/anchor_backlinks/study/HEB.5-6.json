@@ -2,15 +2,25 @@
   "anchor_id": "HEB.5:6",
   "canon_uri": "canon/NT/HEB.md#HEB.5:6",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "As He also says in another place: 'You are a priest forever According to the order of Melchizedek';",
+  "pericope": {
+    "id": "HEB.P012",
+    "title": "Beware of Immaturity",
+    "range": "HEB.5:6-6:7",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/GEN_footnotes.md",
-      "line_number": 670,
+      "source_file": "study/footnotes/OT/GEN_footnotes.md",
+      "line_number": 468,
       "raw_match": "[[HEB.5:6]]",
       "reference_type": "wikilink",
-      "context": "the bread and wine of the Eucharist (CypC). Christ's priesthood is called \"the order of Melchizedek\" ([[PSA.109:4]]; [[HEB.5:6]]), and it is"
+      "context": "Melchizedek brought out bread and wine to Abraham. His priesthood typified the High Priesthood of Christ, who gives His precious body and blood to the faithful in the bread and wine of the Eucharist (CypC). Christ's priesthood is called \"the order of Melchizedek\" ([[PSA.109:4]]; [[HEB.5:6]]), and it is superior to the order of Aaron in the Mosaic Law ([[HEB.7:11]]). The Book of Hebrews gives numerous reasons for this superiority."
     }
   ]
 }

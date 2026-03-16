@@ -2,15 +2,25 @@
   "anchor_id": "JOH.21:4",
   "canon_uri": "canon/NT/JOH.md#JOH.21:4",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "They said to him, 'We are going with you also.' They went out and immediately got into the boat, and that night they caught nothing. But when the morning had now come, Jesus stood on the shore; yet the disciples did not know that it was Jesus.",
+  "pericope": {
+    "id": "JOH.P075",
+    "title": "Jesus Eats with the Eleven",
+    "range": "JOH.20:31-21:13",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/EZK_footnotes.md",
-      "line_number": 675,
+      "source_file": "study/footnotes/OT/EZK_footnotes.md",
+      "line_number": 576,
       "raw_match": "[[JOH.21:3]]-6",
       "reference_type": "wikilink_range",
-      "context": "13:12). Compare the term fishnet to 47:10; [[JOH.21:3]]-6. The wood panels point to"
+      "context": "The shaded light illustrates that the light of Christ's glory is revealed to man as far as he is able to bear it; for while we are on this earth, we see as in a mirror dimly (1Co 13:12). Compare the term fishnet to 47:10; [[JOH.21:3]]-6. The wood panels point to Christ's humanity (see [[EXO.25:10]], [[EXO.25:11]] and note)."
     }
   ]
 }

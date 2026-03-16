@@ -2,15 +2,25 @@
   "anchor_id": "EXO.12:21",
   "canon_uri": "canon/OT/EXO.md#EXO.12:21",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Then Moses called for all the elders of Israel and said to them, 'Go away and take a lamb for yourselves according to your families, and sacrifice the Pascha.",
+  "pericope": {
+    "id": "EXO.P020",
+    "title": "The Passover",
+    "range": "EXO.11:10-12:27",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/1CO_footnotes.md",
-      "line_number": 523,
+      "source_file": "study/footnotes/NT/1CO_footnotes.md",
+      "line_number": 344,
       "raw_match": "[[EXO.12:1]]-30",
       "reference_type": "wikilink_range",
-      "context": "Passover ([[EXO.12:1]]-30), the remembrance of their freedom from Pharaoh's bondage."
+      "context": "The Israelites were to remove the leaven (v. 7) from their houses in preparation for Passover ([[EXO.12:1]]-30), the remembrance of their freedom from Pharaoh's bondage. Christ, crucified and risen, is our Paschal lamb, our Passover. United to Him in baptism, our life becomes an unending deliverance from evil. Since our life in Christ includes keeping the feast (v. 8), Passover fulfilled in Eucharist, the old leaven of malice and wickedness must be continually removed from us personally and corporately."
     }
   ]
 }

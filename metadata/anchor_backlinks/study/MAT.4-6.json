@@ -2,29 +2,39 @@
   "anchor_id": "MAT.4:6",
   "canon_uri": "canon/NT/MAT.md#MAT.4:6",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "and said to Him, 'If You are the Son of God, throw Yourself down. For it is written: 'He shall give His angels charge over you,'",
+  "pericope": {
+    "id": "MAT.P008",
+    "title": "Jesus' Triumph over Satan",
+    "range": "MAT.3:17-4:16",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/LUK_footnotes.md",
-      "line_number": 715,
+      "source_file": "study/footnotes/NT/LUK_footnotes.md",
+      "line_number": 474,
       "raw_match": "[[MAT.4:1]]-11",
       "reference_type": "wikilink_range",
       "context": "On the temptation of Christ, see notes at [[MAT.4:1]]-11."
     },
     {
-      "source_file": "staging/validated/OT/EZR_footnotes.md",
-      "line_number": 174,
+      "source_file": "study/footnotes/OT/EZR_footnotes.md",
+      "line_number": 137,
       "raw_match": "[[MAT.4:6]]",
       "reference_type": "wikilink",
-      "context": "to the Scriptures was also one of the ways Jesus' enemies tried to malign Him ([[MAT.4:6]]; Jn"
+      "context": "The appeal to search the king's treasure house to find the king's decree parallels the Church's readiness to search the Scriptures ([[JOH.5:39]]; [[ACT.17:11]]). Appealing to the Scriptures is how Jesus and His apostles demonstrated His genuine claim to be the Christ, the incarnate Son of God ([[LUK.24:27]]; [[ACT.17:2]], [[ACT.17:11]]; 18:28). Interestingly, the appeal to the Scriptures was also one of the ways Jesus' enemies tried to malign Him ([[MAT.4:6]]; Jn"
     },
     {
-      "source_file": "staging/validated/OT/ZEC_footnotes.md",
-      "line_number": 269,
+      "source_file": "study/footnotes/OT/ZEC_footnotes.md",
+      "line_number": 181,
       "raw_match": "[[MAT.4:1]]-11",
       "reference_type": "wikilink_range",
-      "context": "to rebuke Satan and resist temptation ([[MAT.4:1]]-11; [[MRK.1:12]], [[MRK.1:13]]; [[LUK.4:1]]-13)."
+      "context": "St. Michael the Archangel would not dispute with the devil over the body of Moses, but said, \"The Lord rebuke you\" (Jude 9). Even more astoundingly, Jesus Christ (the Lord) says, \"The Lord rebukes you.\" This is fulfilled in the temptation of Christ, when He relies upon the written word of Holy Scripture rather than His own power as Son of God to rebuke Satan and resist temptation ([[MAT.4:1]]-11; [[MRK.1:12]], [[MRK.1:13]]; [[LUK.4:1]]-13)."
     }
   ]
 }

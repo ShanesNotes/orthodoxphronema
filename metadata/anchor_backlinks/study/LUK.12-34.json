@@ -1,0 +1,26 @@
+{
+  "anchor_id": "LUK.12:34",
+  "canon_uri": "canon/NT/LUK.md#LUK.12:34",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-16T02:01:16+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "For where your treasure is, there your heart will be also.",
+  "pericope": {
+    "id": "LUK.P061",
+    "title": "Against Laziness and Forgetfulness",
+    "range": "LUK.12:34-12:47",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
+  "links": [
+    {
+      "source_file": "study/footnotes/OT/WIS_footnotes.md",
+      "line_number": 185,
+      "raw_match": "[[LUK.12:32]]-34",
+      "reference_type": "wikilink_range",
+      "context": "This passage is fulfilled in Christ and His Church, to which nothing earthly can stand in comparison (v. 8). She is the unfailing treasure for men (v. 14; see [[LUK.12:32]]-34). 7:22-30 The Fathers agree that this passage illustrates the divine attributes of Christ, who is \"the image [v. 26] of the invisible God\" ([[COL.1:15]]). One may also recognize here many of the qualities the Church sees in the Virgin Mary, who bore God the Son in her womb. From these verses we are reminded that through deification or becoming like God, humanity is given the capacity to share in the uncreated energies of God--His power, purity, light, and goodness. 7:27 Through the wisdom of our Lord Jesus Christ, we can be made friends of God (see [[JOH.15:15]]). 8:1, 2 The multitude said of Christ, \"He has done all things well\" ([[MRK.7:37]]). As Solomon loved and sought wisdom, so Christ loves and seeks His bride, the Church (see Mt 25:1-13; [[EPH.5:22]]-32). 8:4 The mysteries of the knowledge of God are later revealed to the Apostle John (Jn"
+    }
+  ]
+}

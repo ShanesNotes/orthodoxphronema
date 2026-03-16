@@ -2,15 +2,25 @@
   "anchor_id": "ROM.15:8",
   "canon_uri": "canon/NT/ROM.md#ROM.15:8",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Now I say that Jesus Christ has become a servant to the circumcision for the truth of God, to confirm the promises made to the fathers,",
+  "pericope": {
+    "id": "ROM.P041",
+    "title": "Christ's Priestly Work for Gentiles",
+    "range": "ROM.15:6-15:12",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/PSA_footnotes.md",
-      "line_number": 2159,
+      "source_file": "study/footnotes/OT/PSA_footnotes.md",
+      "line_number": 1312,
       "raw_match": "[[ROM.15:8]]",
       "reference_type": "wikilink",
-      "context": "that the Gentiles are included in the promises made to Israel ([[ROM.15:8]]). It also reveals"
+      "context": "Ps 116 is the shortest of all the psalms. It is quoted by St. Paul in [[ROM.15:11]] to show that the Gentiles are included in the promises made to Israel ([[ROM.15:8]]). It also reveals that our salvation is based in the Lord's mercy and truth. God's mercy rules over those who walk by faith, and His truth is the substance of faith that endures forever (v. 2) in them."
     }
   ]
 }

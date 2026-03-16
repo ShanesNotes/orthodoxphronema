@@ -2,36 +2,46 @@
   "anchor_id": "HEB.1:14",
   "canon_uri": "canon/NT/HEB.md#HEB.1:14",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Are they not all ministering spirits sent forth to minister for those who will inherit salvation?",
+  "pericope": {
+    "id": "HEB.P003",
+    "title": "Beware of Willful Negligence",
+    "range": "HEB.1:14-2:8",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/REV_footnotes.md",
-      "line_number": 2131,
+      "source_file": "study/footnotes/NT/REV_footnotes.md",
+      "line_number": 1316,
       "raw_match": "[[HEB.1:14]]",
       "reference_type": "wikilink",
-      "context": "10:5; [[HEB.1:14]]; [[REV.1:13]]; 19:14). They are given golden bowls (see the vessels used by"
+      "context": "The temple of the tabernacle of the testimony is the heavenly prototype of the earthly \"tabernacle of testimony\" ([[NUM.17:7]]), containing the witness of God's covenant, the tablets of the Law brought down from Mt. Sinai by Moses ([[EXO.32:15]])--which was itself the archetype of the temple of Jerusalem (see [[EXO.25:9]], [[EXO.25:40]]; [[HEB.8:5]]; 9:11; 13:10; Acts 7:44). Seven angels (v. 6) appear out of the temple in priestly vesture ([[EZK.9:2]]; Dan 10:5; [[HEB.1:14]]; [[REV.1:13]]; 19:14). They are given golden bowls (see the vessels used by the priests in the Jerusalem temple, 5:8; [[EXO.27:3]]; Nm 7) by one of the living creatures (v. 7; see 4:6). God's judgment is meted out within the framework of this apocalyptic liturgical theophany."
     },
     {
-      "source_file": "staging/validated/OT/2KI_footnotes.md",
-      "line_number": 254,
+      "source_file": "study/footnotes/OT/2KI_footnotes.md",
+      "line_number": 173,
       "raw_match": "[[HEB.1:14]]",
       "reference_type": "wikilink",
-      "context": "Through the intercession of the prophet ([[HEB.1:14]]), the eyes of his newly tested"
+      "context": "). 4:11-17 This account of a miraculous birth to one who has found favor with God helps prepare the nation Israel for the coming miraculous birth of the Savior from one also favored by God ([[LUK.1:30]]). \"For, because no one would easily have believed that a virgin could bear a child, barren women first did so, then such as were not only barren, but aged also... to prepare the way for belief in the Virgin's travail\" (JohnChr). 4:29-31 Elisha's staff, which failed to raise the child, is like the law. Neither of them, apart from the Word, can save mankind. 4:32-35 Here displayed is the power of fervent prayer from the heart of one who loves God and his neighbor ([[MAT.6:6]]). It is this same power that is given to Christ's apostles ([[ACT.20:10]]). 4:37 See [[HEB.11:35]]. 4:42-44 This is similar to Christ's miracle of the loaves of barley found in [[JOH.6:9]]-14. 5:1 Regarding Naaman the stranger (Gentile) from Syria, see [[LUK.4:27]]. 5:10-11 \"Elisha did not so much as see Naaman for though he perceived that Naaman was offended at his not coming out and touching him--observing the strictness of the law--he abides at home, and sends Naaman to the River Jordan to wash. Whereas the Lord--to signify that He heals not as a servant but as absolute master--doth also touch ([[MAT.8:2]], [[MAT.8:3]]). For His hand did not take on the uncleanness of the leprosy, but instead the leprous body was rendered clean and renewed by His holy hand. For as we know, He came not to heal bodies only, but also to lead the soul unto self-control\" (JohnChr). 5:14 \"It was not for nothing that Naaman of old, when suffering from leprosy, was purified upon his being baptized, but [it served] as an indication to us. For as we are lepers in sin, we are made clean by means of the sacred water and the invocation of the Lord\" (Iren). 5:15-19 See Jn 9, and compare Naaman's experience to that of the blind man. 5:1-27 \"Yes, and yet again his disciple Elisha, when Naaman the Syrian, who was diseased with leprosy, had come to him as a suppliant, cleanses the sick man by washing him in the Jordan, clearly indicating what should come, both by the use of water generally, and by the dipping in the river in particular. For Jordan alone of rivers, receiving in itself the first-fruits of sanctification and benediction, conveyed in its channel to the whole world, as it were from some fount in the type afforded by itself, the grace of Baptism. These then are indications in deed and act of regeneration by Baptism\" (GrgNy). 5:27 \"Though he took not by violence, yet he did a wrong; for to get money by deceit is a wrong\" (JohnChr). 6:1-7 ax. The sons of the prophets were humble and impoverished, indicated by the borrowed 6:4-7 St. John Chrysostom indicates the water was a type of baptismal water, the ax head a type of one who is baptized, and the stick, a type of the cross. We who were drowning like iron in sin and death rise to new life in baptism through the cross of Jesus Christ and begin a journey to heaven. 6:6 \"This event is an indication of the fact that when the holy soul of Christ descended [to Hades], many souls ascended and were seen in their bodies. For just as the wood, the lighter body, was submerged in the water, so the iron, the heavier one, floated. Thus, when the Word of God became one with flesh, by a physical and hypostatic union, the heavy and terrestrial body, having been rendered immortal, was borne up into heaven by the divine nature, after the resurrection\" (Iren). 6:8-23 The Syrian king believed wrongly that the power of his earthly kingdom could contain and control the prophet of God. 6:17 Through the intercession of the prophet ([[HEB.1:14]]), the eyes of his newly tested servant, whose faith was yet easily shaken, became opened to the divine presence surrounding him. In the Divine Liturgy, immediately before the Gospel, we pray, \"Open the eyes of our mind to the understanding of Your Gospel teaching.\" St. Ambrose writes that Elisha's servant saw \"numberless hosts of angels.\" 7:1, 2 In the midst of man's unbelief, the Lord brings a promise of deliverance. Those who doubt God's power and authority will witness the fulfillment of the promise given, but will not participate in it. The prophecy comes to pass in 7:18-20. 7:15-16 The word of the Lord proves true and lasting, while the kingdoms of this fallen world pass away ([[MAT.24:35]]; [[1CO.1:9]]; [[1TH.5:24]]; [[1PE.1:25]]). 8:1-6 By following the warning of the Lord through Elisha, the Shunammite woman and her household were not only protected from danger, but their place was kept intact for seven years. This passage may not be in chronological order, for Gehazi had been stricken with leprosy earlier (5:27). 8:11 As did His prophets, the Lord Himself wept tears over the lost condition of His people ([[LUK.19:41]]). 8:12-19 Hazael freely wills to fulfill Elisha's prophecy, because his heart is evil. But God will use this evil for good by oppressing Israel to curb their sins (v. 19), so they might not completely destroy themselves (13:22). 9:1-3 Jehu is made king over Israel to cleanse the land and prepare it for restoration. He will avenge God's prophets (v. 7) and righteous Naboth (v. 26), kill the evil kings of Judah and Israel (vv. 24, 27), fulfill Elijah's prophecy against Jezebel (vv. 30-37; see 3Kg"
     },
     {
-      "source_file": "staging/validated/OT/NUM_footnotes.md",
-      "line_number": 74,
+      "source_file": "study/footnotes/OT/NUM_footnotes.md",
+      "line_number": 51,
       "raw_match": "[[HEB.1:14]]",
       "reference_type": "wikilink",
-      "context": "fulfillment of Israel's liturgical worship ([[HEB.1:7]], [[HEB.1:14]]; 8:2, 6; 9:21; 10:11)."
+      "context": "The Levites were ordained to minister liturgically, for divine worship is liturgical in nature; this liturgical nature is mentioned about forty-five times throughout Numbers. The word liturgy means \"the work of the people.\" In Israel, this included the Levites and the twelve tribes, that is, all \"the children of Israel\" (v. 49), with the Levites having their special liturgical service in the tabernacle. The worship of the Church is also liturgical in nature and includes both clergy and laity. The apostles were ministering liturgically in [[ACT.13:2]] when the Holy Spirit spoke to them. The same word is used here as in the Book of Numbers. This same word is also used numerous times in Hebrews to describe the liturgical worship of the Church as the fulfillment of Israel's liturgical worship ([[HEB.1:7]], [[HEB.1:14]]; 8:2, 6; 9:21; 10:11)."
     },
     {
-      "source_file": "staging/validated/OT/PSA_footnotes.md",
-      "line_number": 1655,
+      "source_file": "study/footnotes/OT/PSA_footnotes.md",
+      "line_number": 1012,
       "raw_match": "[[HEB.1:14]]",
       "reference_type": "wikilink",
-      "context": "help us (vv. 11, 12; see also [[HEB.1:14]]). His salvation is described as help (v. 1), shelter"
+      "context": "Ps 90 describes the intensity of spiritual warfare the Church wages against the devil and his angels, both in life and in death. These enemies are called hunters (v. 3), things moving in darkness, mishaps, demons of noonday (v. 6), sinners (v. 8), evils, scourges (v. 10), asps, lions, and dragons (v. 13). They seek to ensnare us with every troubling word (v. 3). These words are like arrows that try to pierce the soul with unnatural fears (v. 5), especially the fear of death. Their numbers are many (a thousand and ten thousand, v. 7). Success in this warfare is called salvation (v. 16), which comes through God and our hope in Him (My God and I will hope in Him, v. 2). God is called the Most High (vv. 1, 9), the God of heaven (v. 1), and the Lord (vv. 2, 9). He also commands His angels to help us (vv. 11, 12; see also [[HEB.1:14]]). His salvation is described as help (v. 1), shelter (vv. 1, 14), protection, refuge (v. 2), freedom (v. 3), overshadowing (v. 4), the shield of truth (v. 4), deliverance (v. 14), glorification (v. 15), and satisfaction (v. 16)."
     }
   ]
 }

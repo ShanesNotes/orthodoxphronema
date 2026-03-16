@@ -2,15 +2,25 @@
   "anchor_id": "EZK.16:49",
   "canon_uri": "canon/OT/EZK.md#EZK.16:49",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Surely this was the lawless action of your sister Sodom, namely, arrogance. For in fullness of bread and abundance of wine, she and her daughter lived in self-indulgence. This belonged to her and her daughters, but they did not give a helping hand to the poor and needy.",
+  "pericope": {
+    "id": "EZK.P019",
+    "title": "An Adulterous Wife",
+    "range": "EZK.16:30-16:57",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/SIR_footnotes.md",
-      "line_number": 397,
+      "source_file": "study/footnotes/OT/SIR_footnotes.md",
+      "line_number": 295,
       "raw_match": "[[EZK.16:49]]",
       "reference_type": "wikilink",
-      "context": "The men of Sodom are referred to here. In [[EZK.16:49]], [[EZK.16:50]] God declares the people of"
+      "context": "The men of Sodom are referred to here. In [[EZK.16:49]], [[EZK.16:50]] God declares the people of Sodom were arrogant and had abundant food and wine, but were unconcerned for the poor and needy. They also committed \"acts of lawlessness\" before God, which are described in Gn 19: homosexual acts of incredible disgust. The Sodomites were so \"haughty\" they had to be dealt with by God in extreme harshness."
     }
   ]
 }

@@ -2,15 +2,25 @@
   "anchor_id": "PSA.109:3",
   "canon_uri": "canon/OT/PSA.md#PSA.109:3",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "With You is the beginning in the day of Your power, In the brightness of Your saints; \"I have begotten You from the womb before the morning star.\"",
+  "pericope": {
+    "id": "PSA.P109",
+    "title": "Psalm 109",
+    "range": "PSA.109:1-109:7",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/MAT_footnotes.md",
-      "line_number": 165,
+      "source_file": "study/footnotes/NT/MAT_footnotes.md",
+      "line_number": 109,
       "raw_match": "[[PSA.109:3]]",
       "reference_type": "wikilink",
-      "context": "prophecy in [[PSA.109:3]] and shows all of creation participating in the Incarnation. (See also"
+      "context": "The star proclaims the extraordinary birth of Christ. To ancient pagans, a star signified a god, a deified king ([[NUM.24:17]]). Christ being born under this star fulfills the prophecy in [[PSA.109:3]] and shows all of creation participating in the Incarnation. (See also Pss 18:2; 148:3.)"
     }
   ]
 }

@@ -2,22 +2,32 @@
   "anchor_id": "2CO.3:17",
   "canon_uri": "canon/NT/2CO.md#2CO.3:17",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Now the Lord is the Spirit; and where the Spirit of the Lord is, there is liberty.",
+  "pericope": {
+    "id": "2CO.P012",
+    "title": "Paul's Relationship with God",
+    "range": "2CO.3:11-3:17",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/TIT_footnotes.md",
-      "line_number": 141,
+      "source_file": "study/footnotes/NT/TIT_footnotes.md",
+      "line_number": 93,
       "raw_match": "[[2CO.3:16]]-18",
       "reference_type": "wikilink_range",
-      "context": "Christ (see [[2CO.3:16]]-18)."
+      "context": "While Paul is painfully aware we are awaiting the consummation of the age to come (2:13), he knows we already participate in the eschatological community. Baptism and chrismation are the beginning, the rite of passage toward a progressive life of renewal in Christ (see [[2CO.3:16]]-18)."
     },
     {
-      "source_file": "staging/validated/OT/SNG_footnotes.md",
-      "line_number": 540,
+      "source_file": "study/footnotes/OT/SNG_footnotes.md",
+      "line_number": 412,
       "raw_match": "[[2CO.3:14]]-18",
       "reference_type": "wikilink_range",
-      "context": "remains on those who know only the Mosaic Law ([[2CO.3:14]]-18)."
+      "context": "The apostles and preachers of the faith are the guards of the walls, the keepers of the New Jerusalem. They guard the Church by the true teaching of the doctrine of Christ and protect the city from charlatans, Christ-peddlers, heretics, and schismatics. The veil remains on those who know only the Mosaic Law ([[2CO.3:14]]-18)."
     }
   ]
 }

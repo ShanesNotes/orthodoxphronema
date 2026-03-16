@@ -2,15 +2,25 @@
   "anchor_id": "NUM.25:13",
   "canon_uri": "canon/OT/NUM.md#NUM.25:13",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "and there shall be to him and his seed after him a covenant of an eternal priesthood; because he was zealous for his God and made atonement for the children of Israel.' '",
+  "pericope": {
+    "id": "NUM.P059",
+    "title": "Israel's Sin at Moab",
+    "range": "NUM.25:1-25:17",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/MAL_footnotes.md",
-      "line_number": 90,
+      "source_file": "study/footnotes/OT/MAL_footnotes.md",
+      "line_number": 69,
       "raw_match": "[[NUM.25:13]]",
       "reference_type": "wikilink",
-      "context": "and do (see [[NUM.25:12]], [[NUM.25:13]]; [[DEU.10:8]], [[DEU.10:9]])."
+      "context": "Malachi reminds the priests of the Levitic covenant and what they are meant to be and do (see [[NUM.25:12]], [[NUM.25:13]]; [[DEU.10:8]], [[DEU.10:9]])."
     }
   ]
 }

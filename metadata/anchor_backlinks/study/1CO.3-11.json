@@ -2,43 +2,53 @@
   "anchor_id": "1CO.3:11",
   "canon_uri": "canon/NT/1CO.md#1CO.3:11",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "For no other foundation can anyone lay than that which is laid, which is Jesus Christ.",
+  "pericope": {
+    "id": "1CO.P009",
+    "title": "Wisdom in the Apostolic Ministry",
+    "range": "1CO.3:4-3:16",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/1PE_footnotes.md",
-      "line_number": 107,
+      "source_file": "study/footnotes/NT/1PE_footnotes.md",
+      "line_number": 68,
       "raw_match": "[[1CO.3:10]]-15",
       "reference_type": "wikilink_range",
-      "context": "more glory and honor as it continues to stand under trial (see [[MAT.25:31]]-46; [[1CO.3:10]]-15)."
+      "context": "The incorruptible inheritance is reserved for those who have true faith, the faith that by God's grace perseveres to the end. 1:6, 7 To reach the joy and blessing of eternal life in Christ, we first experience the sadness of the passing world, along with the afflictions we must face here (see also [[JAS.1:1]]-12). To the watching world, the perseverance of the faithful during affliction appears foolish and even contemptible. But Peter shows that faith under trial is precious indeed, bearing more glory and honor as it continues to stand under trial (see [[MAT.25:31]]-46; [[1CO.3:10]]-15)."
     },
     {
-      "source_file": "staging/validated/NT/LUK_footnotes.md",
-      "line_number": 2103,
+      "source_file": "study/footnotes/NT/LUK_footnotes.md",
+      "line_number": 1406,
       "raw_match": "[[1CO.3:10]]-15",
       "reference_type": "wikilink_range",
       "context": "Build a tower: See [[1CO.3:10]]-15."
     },
     {
-      "source_file": "staging/validated/OT/EZR_footnotes.md",
-      "line_number": 105,
+      "source_file": "study/footnotes/OT/EZR_footnotes.md",
+      "line_number": 85,
       "raw_match": "[[1CO.3:9]]-17",
       "reference_type": "wikilink_range",
-      "context": "the Church ([[MAT.21:42]]; [[1CO.3:9]]-17; [[EPH.2:19]]-22)."
+      "context": "The young Levites together with the sons of Judah begin to lay the foundation for the temple. This is fulfilled through Jesus Christ and His apostles in the building of the Church ([[MAT.21:42]]; [[1CO.3:9]]-17; [[EPH.2:19]]-22)."
     },
     {
-      "source_file": "staging/validated/OT/GEN_footnotes.md",
-      "line_number": 1528,
+      "source_file": "study/footnotes/OT/GEN_footnotes.md",
+      "line_number": 1111,
       "raw_match": "[[1CO.3:11]]",
       "reference_type": "wikilink",
       "context": "The stone is Christ, the foundation stone of the Church ([[MAT.21:42]]-44; [[MRK.12:10]]; [[LUK.20:17]], [[LUK.20:18]]; [[ACT.4:11]]; [[ROM.9:32]], [[ROM.9:33]]; [[1CO.3:10]], [[1CO.3:11]]; [[1PE.2:4]]-8). The oil signifies Christ, whose human nature was anointed by the Holy Spirit ([[MAT.1:18]]; 3:16; [[HEB.1:9]])."
     },
     {
-      "source_file": "staging/validated/OT/GEN_footnotes.md",
-      "line_number": 1710,
+      "source_file": "study/footnotes/OT/GEN_footnotes.md",
+      "line_number": 1252,
       "raw_match": "[[1CO.3:11]]",
       "reference_type": "wikilink",
-      "context": "stone and pillar of the Church ([[1CO.3:11]])."
+      "context": "The stone set up as a pillar was a type of the Incarnate Son, for He is the foundation stone and pillar of the Church ([[1CO.3:11]])."
     }
   ]
 }

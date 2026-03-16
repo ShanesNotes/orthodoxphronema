@@ -2,15 +2,25 @@
   "anchor_id": "HEB.12:14",
   "canon_uri": "canon/NT/HEB.md#HEB.12:14",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Pursue peace with all people, and holiness, without which no one will see the Lord:",
+  "pericope": {
+    "id": "HEB.P034",
+    "title": "Do Not Despise God's Chastening",
+    "range": "HEB.12:1-12:26",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/REV_footnotes.md",
-      "line_number": 3085,
+      "source_file": "study/footnotes/NT/REV_footnotes.md",
+      "line_number": 1899,
       "raw_match": "[[HEB.12:14]]",
       "reference_type": "wikilink",
-      "context": "His energy is not possible in this life ([[EXO.33:20]]-23; [[MAT.5:8]]; [[JOH.1:18]]; [[1CO.13:12]]; [[HEB.12:14]];"
+      "context": "The face of God is that of the glorified Christ (see [[JOH.14:9]]; [[1JN.3:2]]). The face which cannot be seen is the hidden essence of God ([[JOH.1:18]]; [[1TI.6:16]]). Normally, even to see His energy is not possible in this life ([[EXO.33:20]]-23; [[MAT.5:8]]; [[JOH.1:18]]; [[1CO.13:12]]; [[HEB.12:14]]; [[1JN.3:2]]). But in the age to come the faithful, who bear Jesus' name... on their foreheads, may see Him ceaselessly. In the OT only the high priest bore the unspeakable name of God on his forehead, and that he did externally, on a golden headband around his turban ([[EXO.28:31]]-33; see [[EZK.9:4]]-6; [[REV.3:12]]; 7:3). In the NT, all who believe are granted His name."
     }
   ]
 }

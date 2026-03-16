@@ -2,15 +2,25 @@
   "anchor_id": "NUM.32:23",
   "canon_uri": "canon/OT/NUM.md#NUM.32:23",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "But if you should not do so, you shall be guilty before the Lord; and you will know your sin when evils overtake you.",
+  "pericope": {
+    "id": "NUM.P073",
+    "title": "The Tribes East of the Jordan River",
+    "range": "NUM.31:54-32:41",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/SIR_footnotes.md",
-      "line_number": 972,
+      "source_file": "study/footnotes/OT/SIR_footnotes.md",
+      "line_number": 750,
       "raw_match": "[[NUM.32:23]]",
       "reference_type": "wikilink",
-      "context": "your sin when evils overtake you\" ([[NUM.32:23]])."
+      "context": "Moses told the children of Israel the same thing in different words: \"You will know your sin when evils overtake you\" ([[NUM.32:23]])."
     }
   ]
 }

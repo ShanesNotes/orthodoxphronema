@@ -2,8 +2,8 @@
   "book": "1MA",
   "file": "staging/validated/OT/1MA.md",
   "generated": "2026-03-10",
-  "ratified_by": null,
-  "ratified_date": null,
+  "ratified_by": "human",
+  "ratified_date": "2026-03-15",
   "residuals": [
     {
       "anchor": "1MA.8:32",

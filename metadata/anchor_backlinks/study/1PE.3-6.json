@@ -2,12 +2,22 @@
   "anchor_id": "1PE.3:6",
   "canon_uri": "canon/NT/1PE.md#1PE.3:6",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "as Sarah obeyed Abraham, calling him lord, whose daughters you are if you do good and are not afraid with any terror.",
+  "pericope": {
+    "id": "1PE.P009",
+    "title": "Wives: Submissive to Husbands",
+    "range": "1PE.2:25-3:6",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/SIR_footnotes.md",
-      "line_number": 925,
+      "source_file": "study/footnotes/OT/SIR_footnotes.md",
+      "line_number": 712,
       "raw_match": "[[1PE.3:1]]-6",
       "reference_type": "wikilink_range",
       "context": "This passage makes many of the same observations as [[1PE.3:1]]-6."

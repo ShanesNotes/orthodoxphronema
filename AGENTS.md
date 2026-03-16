@@ -381,6 +381,11 @@ Rules:
 8. `pdftotext` is preferred for OSB notes / footnotes extraction and remains a targeted verifier for scripture edge cases.
 9. Footnote mismatch reports are first-class signals for parser false positives, missing markers, and versification drift.
 10. When residual V4 missing-anchor counts are small, source-PDF spot checks are better than broad allowlist growth.
+16. V5 article-bleed detection must be generalized beyond hardcoded Genesis phrases; per-book article headers should be checked.
+17. Mega-lines (>1000 chars) are invisible to V1-V12; a V13 line-length check is required.
+18. Companion files need a defined promotion path from staging to study; without one, drift is inevitable.
+19. R1 extraction must read from exactly one source per companion; dual-source produces ~50% duplicate backlink edges.
+20. Audit pass does not mean content purity; V-checks must be supplemented with content-level sampling.
 ```
 
 ## Parser / Cleanup Boundaries
@@ -394,12 +399,12 @@ Rules:
 | Ambiguous OCR / source verification | Cleanup sidecar + human review |
 
 ## Validation Contract
-Full suite (V1-V12):
+Full suite (V1-V13):
 - `V1` anchor uniqueness
 - `V2` chapter count
 - `V3` chapter sequence
 - `V4` verse sequence / gap detection
-- `V5` article bleed
+- `V5` article bleed (per-book headers + all-caps heuristic)
 - `V6` frontmatter
 - `V7` completeness
 - `V8` heading integrity
@@ -407,6 +412,7 @@ Full suite (V1-V12):
 - `V10` absorbed content (Brenton cross-reference)
 - `V11` split-word artifacts (Docling column-split)
 - `V12` inline verse-number leakage
+- `V13` mega-line detection (>1000 chars: article bleed, verse fusing, parser defects)
 
 Interpretation rule:
 - Cleanup success does not substitute for structural success

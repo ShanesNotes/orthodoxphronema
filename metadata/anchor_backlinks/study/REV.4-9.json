@@ -1,0 +1,26 @@
+{
+  "anchor_id": "REV.4:9",
+  "canon_uri": "canon/NT/REV.md#REV.4:9",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-16T02:01:16+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Whenever the living creatures give glory and honor and thanks to Him who sits on the throne, who lives forever and ever,",
+  "pericope": {
+    "id": "REV.P010",
+    "title": "Heavenly Temple, Heavenly Worship",
+    "range": "REV.3:22-4:9",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
+  "links": [
+    {
+      "source_file": "study/footnotes/OT/EZK_footnotes.md",
+      "line_number": 29,
+      "raw_match": "[[REV.4:6]]-9",
+      "reference_type": "wikilink_range",
+      "context": "Ezekiel identifies the four living creatures as cherubim (10:9-16), the guardians of the throne of God ([[EXO.25:10]]-22; 3Kg 6:23-28). Like those of St. John's vision (see [[REV.4:6]]-9), they are seen by the Fathers to typify the Four Evangelists, while their unity in the spirit (vv. 12, 20) illustrates the spread of the gospel."
+    }
+  ]
+}

@@ -2,15 +2,25 @@
   "anchor_id": "JOS.24:31",
   "canon_uri": "canon/OT/JOS.md#JOS.24:31",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "They buried him within the boundary lines of his inheritance at Timnath Serah, on Mount Ephraim on the north side of Mount Gaash.",
+  "pericope": {
+    "id": "JOS.P054",
+    "title": "The Death of Joshua and Eleazar",
+    "range": "JOS.24:29-24:36",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/JDG_footnotes.md",
-      "line_number": 17,
+      "source_file": "study/footnotes/OT/JDG_footnotes.md",
+      "line_number": 15,
       "raw_match": "[[JOS.24:30]]-32",
       "reference_type": "wikilink_range",
-      "context": "Once Joshua died (recorded both in [[JOS.24:30]]-32 and [[JDG.2:7]]-9), the question"
+      "context": ", 2 Once Joshua died (recorded both in [[JOS.24:30]]-32 and [[JDG.2:7]]-9), the question became, \"Who will lead Israel in the fight against the Canaanites?\" This represents the transition from the people under Joshua generally obeying God and experiencing victory to their lapsing into idolatry and disobedience under the judges. Judah is a reference to the tribe."
     }
   ]
 }

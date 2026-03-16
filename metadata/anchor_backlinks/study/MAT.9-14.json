@@ -2,15 +2,25 @@
   "anchor_id": "MAT.9:14",
   "canon_uri": "canon/NT/MAT.md#MAT.9:14",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Then the disciples of John came to Him, saying, 'Why do we and the Pharisees fast often, but Your disciples do not fast?'",
+  "pericope": {
+    "id": "MAT.P021",
+    "title": "The New Wine of the Kingdom",
+    "range": "MAT.9:13-9:16",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/LUK_footnotes.md",
-      "line_number": 937,
+      "source_file": "study/footnotes/NT/LUK_footnotes.md",
+      "line_number": 627,
       "raw_match": "[[MAT.9:14]]-17",
       "reference_type": "wikilink_range",
-      "context": "His followers will practice the fast (see notes on [[MAT.9:14]]-17; [[MRK.2:20]])."
+      "context": "Jesus' earthly life is a time of joyous blessings. But there will come a time when His followers will practice the fast (see notes on [[MAT.9:14]]-17; [[MRK.2:20]])."
     }
   ]
 }

@@ -2,15 +2,25 @@
   "anchor_id": "EZK.16:40",
   "canon_uri": "canon/OT/EZK.md#EZK.16:40",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "They also shall bring up a multitude against you to stone you with stones, and to strike you down with their swords.",
+  "pericope": {
+    "id": "EZK.P019",
+    "title": "An Adulterous Wife",
+    "range": "EZK.16:30-16:57",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/HOS_footnotes.md",
-      "line_number": 76,
+      "source_file": "study/footnotes/OT/HOS_footnotes.md",
+      "line_number": 61,
       "raw_match": "[[EZK.16:40]]",
       "reference_type": "wikilink",
-      "context": "adulteress ([[EZK.16:39]], [[EZK.16:40]]; Lv 20:10; [[DEU.22:22]]). Perhaps this means Israel would"
+      "context": "Strip her naked: An act of humiliation preceding capital punishment of an adulteress ([[EZK.16:39]], [[EZK.16:40]]; Lv 20:10; [[DEU.22:22]]). Perhaps this means Israel would experience humiliation during the Assyrian exile, beginning in 722 BC."
     }
   ]
 }

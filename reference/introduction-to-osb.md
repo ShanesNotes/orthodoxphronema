@@ -144,7 +144,7 @@ text would emphasize the major themes of the Christian faith. Thus, the notes gi
 attention to:
 1. The Holy Trinity: Father, Son and Holy Spirit
 2. The Incarnation: The Divine Son of God becoming Man
-3. The Centrality of the Church, the "dwelling place of God in the Spirit" (Eph 2:22)
+3. The Centrality of the Church, the "dwelling place of God in the Spirit" ([[EPH.2:22]])
 4. The Virtues: God's call to His people to live righteous and holy lives in Christ
 To attain these goals, specific attention was given to the biblical interpretations of the
 fathers of the ancient and undivided Church, and to the consensus of the Seven Ecumenical

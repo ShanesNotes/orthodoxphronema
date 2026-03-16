@@ -1,8 +1,8 @@
 {
   "book_code": "COL",
   "testament": "NT",
-  "timestamp": "2026-03-13T13:36:31.753039",
-  "registry_version": "1.4.0",
+  "timestamp": "2026-03-15T18:29:26.221897",
+  "registry_version": "1.7.6",
   "body_checksum": "7599d1c5b14c1887ce2410a92f27c5131de5bfa027fa44730dfbdb5e58f3b0e6",
   "allow_incomplete": true,
   "staged_path": "/home/ark/orthodoxphronema/staging/validated/NT/COL.md",
@@ -34,10 +34,8 @@
       "messages": []
     },
     "V7": {
-      "status": "WARN",
-      "messages": [
-        "V7   Completeness: 95/99 verses (96.0%); gap of 4"
-      ]
+      "status": "PASS",
+      "messages": []
     },
     "V8": {
       "status": "WARN",

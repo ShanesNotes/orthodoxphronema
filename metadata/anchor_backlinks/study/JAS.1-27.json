@@ -2,15 +2,25 @@
   "anchor_id": "JAS.1:27",
   "canon_uri": "canon/NT/JAS.md#JAS.1:27",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Pure and undefiled religion before God and the Father is this: to visit orphans and widows in their trouble, and to keep oneself unspotted from the world.",
+  "pericope": {
+    "id": "JAS.P005",
+    "title": "The Law of Love",
+    "range": "JAS.1:27-2:12",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/MAT_footnotes.md",
-      "line_number": 3569,
+      "source_file": "study/footnotes/NT/MAT_footnotes.md",
+      "line_number": 2285,
       "raw_match": "[[JAS.1:27]]",
       "reference_type": "wikilink",
-      "context": "more fitting than outward signs shown even to God (25:40; [[JAS.1:27]]). However, they did"
+      "context": "Jesus accepts this honor from the woman in her newly found faith. In particular, He accepts it as a sign of His coming burial (v. 12). Nevertheless, according to St. John Chrysostom, the disciples were not wrong in principle: mercy shown to the poor is more fitting than outward signs shown even to God (25:40; [[JAS.1:27]]). However, they did not understand that once the gift had been given, it was a greater mercy to accept it with love. \"If anyone had asked Christ before the woman did this, He would not have approved it. But after she had done it, He looks only to the gift itself. For after the fragrant oil had been poured, what good was a rebuke? Likewise, if you should see anyone providing a sacred vessel or ornament for the walls of the church, do not spoil his zeal. But if beforehand he asks about it, command him to give instead to the poor\" (JohnChr). 26:6 Simon the leper must have been healed by Jesus earlier, for lepers were forbidden to live in towns."
     }
   ]
 }

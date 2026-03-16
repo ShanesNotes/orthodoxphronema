@@ -2,15 +2,25 @@
   "anchor_id": "2PE.1:16",
   "canon_uri": "canon/NT/2PE.md#2PE.1:16",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "For we did not follow cunningly devised fables when we made known to you the power and coming of our Lord Jesus Christ, but were eyewitnesses of His majesty.",
+  "pericope": {
+    "id": "2PE.P003",
+    "title": "Pursue God",
+    "range": "2PE.1:11-1:17",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/REV_footnotes.md",
-      "line_number": 3037,
+      "source_file": "study/footnotes/NT/REV_footnotes.md",
+      "line_number": 1871,
       "raw_match": "[[2PE.1:16]]-18",
       "reference_type": "wikilink_range",
-      "context": "earth He shone with Uncreated Light ([[MRK.9:2]]-8; [[2PE.1:16]]-18). As prophesied, all the"
+      "context": "The OT prophecies concerning the glorification of Jerusalem are fulfilled in the eternal Kingdom (see Is 60). Created light is unnecessary. For the everlasting Uncreated Light will illumine all ([[PSA.35:10]]) with true and clear vision to see things as they really are. The true Light, the Light of the world ([[JOH.8:12]]), was incarnate ([[JOH.1:9]]), and even while on earth He shone with Uncreated Light ([[MRK.9:2]]-8; [[2PE.1:16]]-18). As prophesied, all the earth will stream to the Holy City to honor it (Is 55:5; [[JER.16:19]]-21; Tb 13:13; see also 1En 10:21; 48:4, 5)--it has no enemies--but only the pure will live within it ([[MAT.5:8]])."
     }
   ]
 }

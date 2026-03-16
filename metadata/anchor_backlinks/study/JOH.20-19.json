@@ -2,22 +2,32 @@
   "anchor_id": "JOH.20:19",
   "canon_uri": "canon/NT/JOH.md#JOH.20:19",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Then, the same day at evening, being the first day of the week, when the doors were shut where the disciples were assembled, for fear of the Jews, Jesus came and stood in the midst, and said to them, 'Peace be with you.'",
+  "pericope": {
+    "id": "JOH.P073",
+    "title": "Jesus Appears to Ten Disciples",
+    "range": "JOH.20:18-20:28",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/MAT_footnotes.md",
-      "line_number": 3943,
+      "source_file": "study/footnotes/NT/MAT_footnotes.md",
+      "line_number": 2526,
       "raw_match": "[[JOH.20:19]]",
       "reference_type": "wikilink",
-      "context": "to let the Lord out, for in His glory, Christ could pass through solid rock (see [[JOH.20:19]])."
+      "context": "The earthquake is a sign of our Lord's great victory over death, foreshadowing the general resurrection of all humanity. Note that the angel does not roll back the stone to let the Lord out, for in His glory, Christ could pass through solid rock (see [[JOH.20:19]]). Rather, this allows the witnesses in to see that He has already risen."
     },
     {
-      "source_file": "staging/validated/NT/MRK_footnotes.md",
-      "line_number": 757,
+      "source_file": "study/footnotes/NT/MRK_footnotes.md",
+      "line_number": 515,
       "raw_match": "[[JOH.20:19]]",
       "reference_type": "wikilink",
-      "context": "tomb, for in His resurrected body, He needs no such accommodation ([[JOH.20:19]]). Rather,"
+      "context": "The stone had been rolled away not to accommodate the Lord's exit from the tomb, for in His resurrected body, He needs no such accommodation ([[JOH.20:19]]). Rather, this was to allow the witnesses--and us--to look in and see that the tomb was empty."
     }
   ]
 }

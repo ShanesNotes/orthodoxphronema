@@ -2,15 +2,25 @@
   "anchor_id": "REV.13:16",
   "canon_uri": "canon/NT/REV.md#REV.13:16",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "He causes all, both small and great, rich and poor, free and slave, to receive a mark on their right hand or on their foreheads,",
+  "pericope": {
+    "id": "REV.P036",
+    "title": "The Deception",
+    "range": "REV.13:10-13:17",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/3MA_footnotes.md",
-      "line_number": 221,
+      "source_file": "study/footnotes/OT/3MA_footnotes.md",
+      "line_number": 187,
       "raw_match": "[[REV.13:16]]",
       "reference_type": "wikilink",
-      "context": "mark of the beast ([[REV.13:16]], [[REV.13:17]]) in the end times."
+      "context": "Those registered are those who willingly comply. They will be branded, and this mark of allegiance will be permanent. Some people in ancient times would mark or brand themselves with the symbol of their god, here the ivy leaf. St. John predicts a similar mark of the beast ([[REV.13:16]], [[REV.13:17]]) in the end times."
     }
   ]
 }

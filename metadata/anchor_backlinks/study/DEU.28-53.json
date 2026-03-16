@@ -2,22 +2,32 @@
   "anchor_id": "DEU.28:53",
   "canon_uri": "canon/OT/DEU.md#DEU.28:53",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "'You shall eat the offspring of your womb, the flesh of your sons and your daughters the Lord your God gave you, in the distress and desperate straits in which your enemy shall distress you.",
+  "pericope": {
+    "id": "DEU.P060",
+    "title": "The Blessings of Obedience",
+    "range": "DEU.27:26-28:68",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/BAR_footnotes.md",
-      "line_number": 83,
+      "source_file": "study/footnotes/OT/BAR_footnotes.md",
+      "line_number": 70,
       "raw_match": "[[DEU.28:53]]",
       "reference_type": "wikilink",
-      "context": "; 4:10; [[EZK.5:10]]; [[2KI.23:10]]; [[DEU.28:53]]). 2:5"
+      "context": "; 4:10; [[EZK.5:10]]; [[2KI.23:10]]; [[DEU.28:53]]). 2:5 See [[DEU.28:13]]. 2:9 The Lord brings calamities upon us in His righteousness for our good, that we might turn back to Him."
     },
     {
-      "source_file": "staging/validated/OT/LAM_footnotes.md",
-      "line_number": 54,
+      "source_file": "study/footnotes/OT/LAM_footnotes.md",
+      "line_number": 46,
       "raw_match": "[[DEU.28:15]]-68",
       "reference_type": "wikilink_range",
-      "context": "disobedience was issued and recorded in [[DEU.28:15]]-68."
+      "context": "I provoked His mouth is a reference to breaking the laws God spoke to Moses and thus to His people. From 1:18-22, the \"I\" is the city of Jerusalem, and the warning for her disobedience was issued and recorded in [[DEU.28:15]]-68."
     }
   ]
 }

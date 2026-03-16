@@ -2,15 +2,25 @@
   "anchor_id": "JOH.12:35",
   "canon_uri": "canon/NT/JOH.md#JOH.12:35",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Then Jesus said to them, 'A little while longer the light is with you. Walk while you have the light, lest darkness overtake you; he who walks in darkness does not know where he is going.",
+  "pericope": {
+    "id": "JOH.P044",
+    "title": "Become Sons of Light",
+    "range": "JOH.12:34-12:35",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/JOB_footnotes.md",
-      "line_number": 279,
+      "source_file": "study/footnotes/OT/JOB_footnotes.md",
+      "line_number": 202,
       "raw_match": "[[JOH.12:35]]",
       "reference_type": "wikilink",
-      "context": "overtake you\" ([[JOH.12:35]]). 11:1-20"
+      "context": "St. Ambrose writes that Job, knowing no one is immune from falling, rejects what comes from unholiness and confesses what comes from weakness. To act in an unholy way is not part of the human condition; rather, it comes from the \"poison of unbelief.\" Man's pardon lies in God's mercy and not in man's power. 10:9-12 From his conception, man is shaped by God. St. Cyril writes, \"None of the members of the body as formed from the beginning is polluted. Let the mouths of all heretics be stopped who slander their bodies, or rather, Him who formed them\" (see 1Co 6:19). 10:20 The righteous ask that their trials might be over, says St. Hesychius, so that many around them might not stumble as a result of seeing so much suffering and sorrow. 10:20-22 St. Hesychius writes that this land refers to hell: \"Man should fear going into these places.\" St. Gregory remarks, \"But what advantage is it for us to foreknow these things, if it is not our lot to escape them?\" Indeed, Job knew he would be redeemed (19:25). Therefore, as the Lord says, \"Walk while you have the light, lest darkness overtake you\" ([[JOH.12:35]]). 11:1-20 Unlike Job, Zophar had all the answers and no questions. Zophar is incorrect in asserting that if a man does all the \"right\" things, God will bless him; when in fact, man's will cannot force God to act. The intellectual demands of men like these are satisfied with their manmade theories and doctrines. They are more anxious to appease an inaccessible God than to trust in a God who loves them. 12:5-6 The appointed time also speaks of the Day of Judgment, when the innocent One will judge those who provoked Him. 12:15 St. Gregory the Great interprets water to mean the grace of the Holy Spirit. \"If the grace of the Holy Spirit is withdrawn from the hearer's mind, the sense is immediately dried up.\" 12:22 The shadow of death is the Law, which makes all sinners liable to punishment by death; but Christ brought light to the shadows (GrgGt). 13:1 God reveals His mysteries to the ones He has found to be holy (Hesych)."
     }
   ]
 }

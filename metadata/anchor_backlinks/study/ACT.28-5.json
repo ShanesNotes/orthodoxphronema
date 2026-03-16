@@ -2,15 +2,25 @@
   "anchor_id": "ACT.28:5",
   "canon_uri": "canon/NT/ACT.md#ACT.28:5",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "But he shook off the creature into the fire and suffered no harm.",
+  "pericope": {
+    "id": "ACT.P093",
+    "title": "Storm and Shipwreck",
+    "range": "ACT.27:12-28:9",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/MRK_footnotes.md",
-      "line_number": 819,
+      "source_file": "study/footnotes/NT/MRK_footnotes.md",
+      "line_number": 558,
       "raw_match": "[[ACT.28:3]]-6",
       "reference_type": "wikilink_range",
-      "context": "suffered no harm ([[ACT.28:3]]-6), and according to tradition, Barsabas Justus ([[ACT.1:23]])"
+      "context": "To take up serpents refers primarily to spiritual battle against demons ([[LUK.10:19]]). Thus, Christ is promising to deliver believers from the powers of sin. Furthermore, this would include certain physical protection as well. St. Paul was bitten by a serpent and suffered no harm ([[ACT.28:3]]-6), and according to tradition, Barsabas Justus ([[ACT.1:23]]) was forced by unbelievers to drink poison and survived. Nevertheless, while God's grace can protect believers from both physical and spiritual harm, to test God by deliberately committing harmful acts against oneself is a grave sin ([[DEU.6:16]]; [[MAT.4:7]])."
     }
   ]
 }

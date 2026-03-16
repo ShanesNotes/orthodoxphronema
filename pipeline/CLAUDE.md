@@ -3,7 +3,7 @@
 Ark-owned. Changes here affect the entire corpus.
 
 ## Workflow
-`src.texts/osb.pdf` → parse → raw → validate (V1-V8) → validated → promote → `canon/`
+`src.texts/osb.pdf` → parse → raw → validate (V1-V13) → validated → promote → `canon/`
 
 ## Before Any Change
 1. Document rationale in a `memos/` file BEFORE implementing

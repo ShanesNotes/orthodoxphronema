@@ -2,15 +2,25 @@
   "anchor_id": "NUM.28:14",
   "canon_uri": "canon/OT/NUM.md#NUM.28:14",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Their drink offering shall be half a hin of wine for each young bull, one-third of a hin for the one ram, and one-fourth of a hin for each male lamb. This is the whole burnt offering for the first of every month throughout the months of each year.",
+  "pericope": {
+    "id": "NUM.P065",
+    "title": "Monthly Offerings",
+    "range": "NUM.28:10-28:14",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/NUM_footnotes.md",
-      "line_number": 1009,
+      "source_file": "study/footnotes/OT/NUM_footnotes.md",
+      "line_number": 686,
       "raw_match": "[[NUM.28:11]]-15",
       "reference_type": "wikilink_range",
-      "context": "monthly offerings ([[NUM.28:11]]-15), to (4) the yearly offerings ([[EXO.12:1]]-20; 23:15, 16;"
+      "context": "to (2) the weekly offerings ([[EXO.20:8]]-11; Lv 23:3; [[NUM.28:9]], [[NUM.28:10]]), to (3) the monthly offerings ([[NUM.28:11]]-15), to (4) the yearly offerings ([[EXO.12:1]]-20; 23:15, 16;"
     }
   ]
 }

@@ -2,22 +2,32 @@
   "anchor_id": "MAT.7:23",
   "canon_uri": "canon/NT/MAT.md#MAT.7:23",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "And then I will declare to them, 'I never knew you; depart from Me, you who practice lawlessness!'",
+  "pericope": {
+    "id": "MAT.P016",
+    "title": "On Judging Others",
+    "range": "MAT.6:34-8:12",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/2TI_footnotes.md",
-      "line_number": 173,
+      "source_file": "study/footnotes/NT/2TI_footnotes.md",
+      "line_number": 121,
       "raw_match": "[[MAT.7:15]]-27",
       "reference_type": "wikilink_range",
-      "context": "1:28-32) will even infiltrate the Church (v. 5; see [[MAT.7:15]]-27; [[1CO.5:1]]-5; [[1TI.4:1]]-11). Like"
+      "context": "While technically we have been in the last days since Christ walked the earth, the Church has seen this and other warnings as a reference to the days just before His coming again. A great decay in morals (see Mt 24; Mk 13; 2Th 2; 2Pt 2; compare Rom 1:28-32) will even infiltrate the Church (v. 5; see [[MAT.7:15]]-27; [[1CO.5:1]]-5; [[1TI.4:1]]-11). Like the prominent men of Cain's city ([[GEN.4:16]]-24), these offenders willfully reject law and morals out of love of self and love of pleasure."
     },
     {
-      "source_file": "staging/validated/NT/HEB_footnotes.md",
-      "line_number": 575,
+      "source_file": "study/footnotes/NT/HEB_footnotes.md",
+      "line_number": 372,
       "raw_match": "[[MAT.7:23]]",
       "reference_type": "wikilink",
-      "context": "now, and also miracles and spiritual gifts ([[MAT.7:22]], [[MAT.7:23]]; 12:28)."
+      "context": "Besides the sacraments (v. 4), belief and life experience are also essential: tasted the good word of God refers to the message of the gospel and the true doctrine of the Church, especially the confession of faith. The powers of the age to come are manifold: incorruption and eternal life, the presence of the future Kingdom here and now, and also miracles and spiritual gifts ([[MAT.7:22]], [[MAT.7:23]]; 12:28)."
     }
   ]
 }

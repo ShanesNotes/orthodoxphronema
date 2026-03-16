@@ -2,15 +2,25 @@
   "anchor_id": "2KI.25:2",
   "canon_uri": "canon/OT/2KI.md#2KI.25:2",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "So the city was besieged until the eleventh year of King Zedekiah.",
+  "pericope": {
+    "id": "2KI.P068",
+    "title": "The Fall of Jerusalem",
+    "range": "2KI.24:20-25:6",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/SIR_footnotes.md",
-      "line_number": 2154,
+      "source_file": "study/footnotes/OT/SIR_footnotes.md",
+      "line_number": 1694,
       "raw_match": "[[2KI.25:1]]-21",
       "reference_type": "wikilink_range",
-      "context": "39:10; 52:12, 13; [[2KI.25:1]]-21)."
+      "context": ", 7 The sad prophecies of Jeremiah were a great burden to him. On one occasion he determined not to speak them, but could not hold them back ([[JER.20:9]]). His prophecies about the destruction and burning of Jerusalem were completely fulfilled (see [[JER.38:14]]- 39:10; 52:12, 13; [[2KI.25:1]]-21)."
     }
   ]
 }

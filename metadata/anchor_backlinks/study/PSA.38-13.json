@@ -2,15 +2,25 @@
   "anchor_id": "PSA.38:13",
   "canon_uri": "canon/OT/PSA.md#PSA.38:13",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "\"Hear my prayer, O Lord, And give ear to my supplication; Do not be silent at my tears, For I am a sojourner before You, And a stranger, as were all my fathers.",
+  "pericope": {
+    "id": "PSA.P038",
+    "title": "Psalm 38",
+    "range": "PSA.38:1-38:14",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/1PE_footnotes.md",
-      "line_number": 19,
+      "source_file": "study/footnotes/NT/1PE_footnotes.md",
+      "line_number": 16,
       "raw_match": "[[PSA.38:13]]",
       "reference_type": "wikilink",
-      "context": "2:11; [[GEN.23:4]]; [[PSA.38:13]]; [[HEB.11:13]]), for they are citizens of the heavenly world to come"
+      "context": "Pilgrims, or \"sojourners,\" are aliens, those who stay for a while in a strange place with no intention of permanently residing there. This is said of God's people in this world (see 2:11; [[GEN.23:4]]; [[PSA.38:13]]; [[HEB.11:13]]), for they are citizens of the heavenly world to come ([[PHP.3:20]])."
     }
   ]
 }

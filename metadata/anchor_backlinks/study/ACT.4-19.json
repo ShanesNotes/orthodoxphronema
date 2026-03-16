@@ -2,22 +2,32 @@
   "anchor_id": "ACT.4:19",
   "canon_uri": "canon/NT/ACT.md#ACT.4:19",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "But Peter and John answered and said to them, 'Whether it is right in the sight of God to listen to you more than to God, you judge.",
+  "pericope": {
+    "id": "ACT.P014",
+    "title": "Before the Sanhedrin",
+    "range": "ACT.4:4-4:21",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/1PE_footnotes.md",
-      "line_number": 285,
+      "source_file": "study/footnotes/NT/1PE_footnotes.md",
+      "line_number": 185,
       "raw_match": "[[ACT.4:19]]",
       "reference_type": "wikilink",
-      "context": "obey God rather than man, even to the point of prison or death ([[ACT.4:19]], [[ACT.4:20]])."
+      "context": "(See also [[ROM.13:1]]-7; [[MAT.22:21]]; [[TIT.3:1]].) Peter urges his readers to be obedient to civil government. While Christians serve a higher authority, God Himself, it is God who calls us to submit to earthly leaders for the Lord's sake (v. 13). This is not a call to \"separate\" Church from state, but rather a call to cooperate with and enhance the state-- realizing that at times Church and state have been at great odds. When ultimate loyalty and obedience to Christ and His gospel are at stake, Peter's actions show that we are to obey God rather than man, even to the point of prison or death ([[ACT.4:19]], [[ACT.4:20]])."
     },
     {
-      "source_file": "staging/validated/NT/ROM_footnotes.md",
-      "line_number": 1553,
+      "source_file": "study/footnotes/NT/ROM_footnotes.md",
+      "line_number": 1009,
       "raw_match": "[[ACT.4:19]]",
       "reference_type": "wikilink",
-      "context": "opposition to God, the believer must follow God (see [[ACT.4:19]]; 5:29)."
+      "context": "To defy the civil government is to defy God, for God works in and through the governing authorities. This principle holds true so long as the civil ordinance is not in opposition to God, but promotes good works. When civil rulers are in direct opposition to God, the believer must follow God (see [[ACT.4:19]]; 5:29)."
     }
   ]
 }

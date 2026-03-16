@@ -2,22 +2,32 @@
   "anchor_id": "MAT.23:38",
   "canon_uri": "canon/NT/MAT.md#MAT.23:38",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "See! Your house is left to you desolate;",
+  "pericope": {
+    "id": "MAT.P075",
+    "title": "Abuses of Authority",
+    "range": "MAT.22:46-24:1",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/SIR_footnotes.md",
-      "line_number": 1839,
+      "source_file": "study/footnotes/OT/SIR_footnotes.md",
+      "line_number": 1455,
       "raw_match": "[[MAT.23:38]]",
       "reference_type": "wikilink",
-      "context": "prophecies of the OT (see note on 36:17; [[MAT.23:38]]; [[LUK.21:20]]-24). The River is the"
+      "context": "This oath by God to bless the seed of Abraham is fulfilled in and through the Church. The Church embraces all nations and fulfills the role of ancient Israel in the prophecies of the OT (see note on 36:17; [[MAT.23:38]]; [[LUK.21:20]]-24). The River is the Euphrates."
     },
     {
-      "source_file": "staging/validated/OT/SIR_footnotes.md",
-      "line_number": 2011,
+      "source_file": "study/footnotes/OT/SIR_footnotes.md",
+      "line_number": 1588,
       "raw_match": "[[MAT.23:38]]",
       "reference_type": "wikilink",
-      "context": "former one, is the New Jerusalem, the Church of the Living God (see also [[MAT.23:38]], [[MAT.23:39]])."
+      "context": "This sanctuary or temple, which had been rebuilt and refurbished by King Herod, was standing at the time of Christ. But Jesus predicted it would be utterly destroyed and not one stone would be left upon another ([[MAT.24:2]]). This prophecy was fulfilled by the Roman invaders in AD 70. The sanctuary that will last forever, and which replaces the former one, is the New Jerusalem, the Church of the Living God (see also [[MAT.23:38]], [[MAT.23:39]])."
     }
   ]
 }

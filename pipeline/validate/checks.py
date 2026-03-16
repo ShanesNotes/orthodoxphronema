@@ -10,7 +10,14 @@ import json
 import re
 from pathlib import Path
 
-from pipeline.common.config import BRENTON_WORD_MATCH_THRESHOLD, HEADING_REPETITION_LIMIT
+from pipeline.common.config import (
+    ALLCAPS_EXEMPT,
+    BRENTON_WORD_MATCH_THRESHOLD,
+    HEADING_REPETITION_LIMIT,
+    MEGA_LINE_FAIL,
+    MEGA_LINE_WARN,
+    V13_OVERSIZED_ALLOWLIST,
+)
 from pipeline.common.patterns import RE_ANCHOR, KNOWN_SPLIT_JOIN_WORDS
 from pipeline.common.types import CheckResult
 
@@ -509,3 +516,177 @@ def check_inline_leakage(
 
     status = "WARN" if warnings else "PASS"
     return CheckResult(name="V12", status=status, errors=[], warnings=warnings)
+
+
+def check_mega_lines(
+    lines: list[str],
+    body_start: int,
+    book_code: str = "",
+) -> CheckResult:
+    """V13: Detect oversized verse lines (article bleed, verse fusing, parser defects).
+
+    FAIL on any verse line exceeding MEGA_LINE_FAIL chars.
+    WARN on verse lines between MEGA_LINE_WARN and MEGA_LINE_FAIL chars.
+    Classifies each hit as article_bleed, verse_fusing, or oversized.
+    """
+    RE_EMBEDDED_VNUM = re.compile(r'(?:^|[."\u201d] ?)(\d+)\s*[\u201c"A-Z]')
+
+    errors = []
+    warnings = []
+    mega_details: list[dict] = []
+
+    for lineno, line in enumerate(lines[body_start:], start=body_start + 1):
+        m_anc = RE_ANCHOR.match(line)
+        if not m_anc:
+            continue
+
+        line_len = len(line)
+        if line_len < MEGA_LINE_WARN:
+            continue
+
+        anchor_str = f"{m_anc.group(1)}.{m_anc.group(2)}:{m_anc.group(3)}"
+        text_part = line[m_anc.end():]
+
+        # Classify the mega-line
+        allcaps_words = [
+            w for w in text_part.split()
+            if w.isalpha() and w.isupper() and len(w) > 4
+            and w not in ALLCAPS_EXEMPT
+        ]
+        embedded_vnums = RE_EMBEDDED_VNUM.findall(text_part[20:])
+
+        if allcaps_words:
+            classification = "article_bleed"
+        elif len(embedded_vnums) > 3:
+            classification = "verse_fusing"
+        elif line_len > 3000:
+            classification = "verse_fusing"
+        else:
+            classification = "oversized"
+
+        detail = {
+            "anchor": anchor_str,
+            "line": lineno,
+            "length": line_len,
+            "classification": classification,
+            "allcaps_words": allcaps_words[:5],
+            "embedded_verse_count": len(embedded_vnums),
+        }
+        mega_details.append(detail)
+
+        # Skip allowlisted oversized anchors (e.g., EST LXX Additions)
+        allowlist = V13_OVERSIZED_ALLOWLIST.get(book_code, set())
+        if anchor_str in allowlist and classification == "oversized":
+            continue
+
+        msg = (
+            f"V13  Mega-line at line {lineno}: {anchor_str}"
+            f" ({line_len} chars, {classification})"
+        )
+
+        if line_len > MEGA_LINE_FAIL:
+            errors.append(msg)
+        else:
+            warnings.append(msg)
+
+    if errors:
+        status = "FAIL"
+    elif warnings:
+        status = "WARN"
+    else:
+        status = "PASS"
+    return CheckResult(
+        name="V13",
+        status=status,
+        errors=errors,
+        warnings=warnings,
+        data={"mega_lines": mega_details, "total": len(mega_details)},
+    )
+
+
+def collect_article_headers(study_articles_path: Path | None) -> list[str]:
+    """Collect article section headers from a study articles file.
+
+    Returns a list of header strings (title-case) found under ### markers.
+    """
+    if study_articles_path is None or not study_articles_path.exists():
+        return []
+
+    headers: list[str] = []
+    with open(study_articles_path, encoding="utf-8") as f:
+        for line in f:
+            if line.startswith("### "):
+                header = line[4:].strip()
+                if header:
+                    headers.append(header)
+    return headers
+
+
+def check_article_bleed_enhanced(
+    lines: list[str],
+    body_start: int,
+    study_articles_path: Path | None = None,
+) -> CheckResult:
+    """V5: No article text leaked into canon (enhanced with per-book headers).
+
+    Checks:
+    1. Original hardcoded patterns (backward compatible)
+    2. Article headers collected from the study articles file
+    3. Heuristic: all-caps words >5 chars not in the exempt set
+    """
+    errors = []
+
+    # Build dynamic patterns from study article headers.
+    # Only use distinctive headers (3+ words) to avoid false positives on
+    # common phrases like "The Law", "The Church", etc. Single and two-word
+    # headers are too generic. Match only ALL-CAPS variants since article
+    # bleed from OCR preserves section header formatting.
+    dynamic_patterns: list[str] = []
+    article_headers = collect_article_headers(study_articles_path)
+    for header in article_headers:
+        words = header.split()
+        if len(words) >= 3:
+            dynamic_patterns.append(re.escape(header.upper()))
+
+    for lineno, line in enumerate(lines[body_start:], start=body_start + 1):
+        m_anc = RE_ANCHOR.match(line)
+        if not m_anc:
+            continue
+        text_part = line[m_anc.end():]
+
+        # Check 1: Original hardcoded patterns
+        for pattern in ARTICLE_BLEED_PATTERNS:
+            if re.search(pattern, text_part, re.IGNORECASE):
+                errors.append(
+                    f"V5   Article text in canon at line {lineno}: {line[:80]!r}"
+                )
+                break
+        else:
+            # Check 2: Dynamic article header patterns (case-sensitive, all-caps only)
+            for pattern in dynamic_patterns:
+                if re.search(pattern, text_part):
+                    errors.append(
+                        f"V5   Article header in canon at line {lineno}:"
+                        f" matched {pattern!r}"
+                    )
+                    break
+            else:
+                # Check 3: Suspicious all-caps clusters in verse lines
+                # Only flag if there are 3+ consecutive all-caps words (strong signal)
+                allcaps_runs = re.findall(
+                    r'(?<!\w)([A-Z]{5,}(?:\s+[A-Z]{5,}){2,})(?!\w)',
+                    text_part,
+                )
+                for run in allcaps_runs:
+                    # Filter out exempt words
+                    words = run.split()
+                    non_exempt = [w for w in words if w not in ALLCAPS_EXEMPT]
+                    if len(non_exempt) >= 2:
+                        errors.append(
+                            f"V5   Suspicious all-caps cluster in canon at line"
+                            f" {lineno}: {run[:60]!r}"
+                        )
+                        break
+
+    status = "FAIL" if errors else "PASS"
+    return CheckResult(name="V5", status=status, errors=errors, warnings=[])

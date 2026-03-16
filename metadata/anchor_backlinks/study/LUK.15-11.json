@@ -2,43 +2,53 @@
   "anchor_id": "LUK.15:11",
   "canon_uri": "canon/NT/LUK.md#LUK.15:11",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Then He said: 'A certain man had two sons.",
+  "pericope": {
+    "id": "LUK.P075",
+    "title": "The Prodigal Son",
+    "range": "LUK.15:10-15:31",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/MAT_articles.md",
+      "source_file": "study/articles/NT/MAT_articles.md",
       "line_number": 48,
       "raw_match": "[[LUK.15:11]]-32",
       "reference_type": "wikilink_range",
-      "context": "P arables are stories in word-pictures, revealing spiritual truth. The Hebrew and Aramaic words for parable also mean 'allegory,' 'riddle,' or 'proverb.' The Scriptures, especially the Gospels, are filled with parables-images drawn from daily life in the world to represent and communicate the deep things of God. Parables give us glimpses of Him whose thoughts are not our thoughts and whose ways are not our ways (Is 55:8, 9). The truth communicated by Jesus' parables, however, is not evident to all who hear them. The listener must spiritual ears to hear, and even then not all have the same degree of understanding. Thus, Jesus' statement that 'to those who are outside, all things come in parables' ([[MRK.4:11]]) may be translated, '... all things come in riddles.' Jesus' quotation of [[ISA.6:9]], [[ISA.6:10]] ([[MAT.13:14]], [[MAT.13:15]]) does not mean He used parables to blind the people or to lead them to punishment. On the contrary, it demonstrates that the people are responsible for their own lack of receptivity: having grown dull and insensitive, they are unwilling to accept the message of the parables. As the mission of Isaiah in the Old Testament was to open the eyes of Israel to see the acts of God, so the parables of Jesus are intended to open the eyes of His hearers to the truth and lead them to produce the fruit of righteousness. Parables challenge the hearer and call for faith to perceive the mysteries of the Kingdom. Insight into God's Kingdom does not come simply through an intellectual understanding of the parables. Spiritual enlightenment is essentially a communication of faith in the Person, words, and deeds of the Lord Jesus Christ. The use of parables was known in Jewish culture long before Jesus (2Kg 12:1-4; 3Kg 21:35-42; Is 5:1-7). Jesus, however, brought the art of parables to perfection, relating aspects of the Kingdom and speaking of God Himself through vivid stories. His purpose was not only to reveal truth to those with hearts prepared. He wished to draw responsive hearts past the entrance and into the very reality of God's Kingdom which He proclaimed and inaugurated. Among the familiar parables read on Sundays throughout the church year are those of the Sower ([[LUK.8:5]]-15); the Good Samaritan ([[LUK.10:25]]-37); the Rich Man and His Crops ([[LUK.12:16]]-21); the Great Supper ([[LUK.14:16]]-24); the Talents ([[MAT.25:14]]-30); the Pharisee and the Tax Collector ([[LUK.18:10]]-14); and the Prodigal Son ([[LUK.15:11]]-32). In opening to us the door to the Kingdom of heaven, the parables help us to love God and to know Him, to understand and believe His grace, mercy, and forgiveness, and to order our lives according to His Holy Word."
+      "context": "P arables are stories in word-pictures, revealing spiritual truth. The Hebrew and Aramaic words for parable also mean 'allegory,' 'riddle,' or 'proverb.' The Scriptures, especially the Gospels, are filled with parables-images drawn from daily life in the world to represent and communicate the deep things of God. Parables give us glimpses of Him whose thoughts are not our thoughts and whose ways are not our ways ([[ISA.55:8]], 9). The truth communicated by Jesus' parables, however, is not evident to all who hear them. The listener must spiritual ears to hear, and even then not all have the same degree of understanding. Thus, Jesus' statement that 'to those who are outside, all things come in parables' ([[MRK.4:11]]) may be translated, '... all things come in riddles.' Jesus' quotation of [[ISA.6:9]], [[ISA.6:10]] ([[MAT.13:14]], [[MAT.13:15]]) does not mean He used parables to blind the people or to lead them to punishment. On the contrary, it demonstrates that the people are responsible for their own lack of receptivity: having grown dull and insensitive, they are unwilling to accept the message of the parables. As the mission of Isaiah in the Old Testament was to open the eyes of Israel to see the acts of God, so the parables of Jesus are intended to open the eyes of His hearers to the truth and lead them to produce the fruit of righteousness. Parables challenge the hearer and call for faith to perceive the mysteries of the Kingdom. Insight into God's Kingdom does not come simply through an intellectual understanding of the parables. Spiritual enlightenment is essentially a communication of faith in the Person, words, and deeds of the Lord Jesus Christ. The use of parables was known in Jewish culture long before Jesus ([[2SA.12:1]]-4; [[1KI.21:35]]-42; [[ISA.5:1]]-7). Jesus, however, brought the art of parables to perfection, relating aspects of the Kingdom and speaking of God Himself through vivid stories. His purpose was not only to reveal truth to those with hearts prepared. He wished to draw responsive hearts past the entrance and into the very reality of God's Kingdom which He proclaimed and inaugurated. Among the familiar parables read on Sundays throughout the church year are those of the Sower ([[LUK.8:5]]-15); the Good Samaritan ([[LUK.10:25]]-37); the Rich Man and His Crops ([[LUK.12:16]]-21); the Great Supper ([[LUK.14:16]]-24); the Talents ([[MAT.25:14]]-30); the Pharisee and the Tax Collector ([[LUK.18:10]]-14); and the Prodigal Son ([[LUK.15:11]]-32). In opening to us the door to the Kingdom of heaven, the parables help us to love God and to know Him, to understand and believe His grace, mercy, and forgiveness, and to order our lives according to His Holy Word."
     },
     {
-      "source_file": "staging/validated/OT/HAG_footnotes.md",
-      "line_number": 73,
+      "source_file": "study/footnotes/OT/HAG_footnotes.md",
+      "line_number": 53,
       "raw_match": "[[LUK.15:11]]-32",
       "reference_type": "wikilink_range",
-      "context": "parable of the Prodigal Son ([[LUK.15:11]]-32), recounted to us just two weeks prior to the"
+      "context": "This is Haggai's third discourse, intended to teach that the people must depend on God's grace for life and for holiness, and not on themselves or even on God's temple. God is good to us, says Haggai, not because we deserve it, not even because His presence makes us holy, but simply because He has chosen to bless us. God offers us an opportunity to return to Him through repentance and confession, as is illustrated in the parable of the Prodigal Son ([[LUK.15:11]]-32), recounted to us just two weeks prior to the Great Fast of Lent."
     },
     {
-      "source_file": "staging/validated/OT/HOS_footnotes.md",
-      "line_number": 421,
+      "source_file": "study/footnotes/OT/HOS_footnotes.md",
+      "line_number": 315,
       "raw_match": "[[LUK.15:11]]",
       "reference_type": "wikilink",
-      "context": "([[LUK.15:11]]ff.). God responds generously to repentance. In the parable, the father sees the"
+      "context": "Israel's return to the Lord may be compared with the repentance of the prodigal son ([[LUK.15:11]]ff.). God responds generously to repentance. In the parable, the father sees the repentant child and runs to meet him. In Israel's case, God also begins the healing as soon as Israel shows the first signs of repentance. If love unconditionally flows from God upon Israel, it means that love is His foremost attribute. Hosea may be considered the spiritual forerunner of John the Evangelist, who gave one of the most beautiful definitions of God when he wrote, \"God is love\" ([[1JN.4:8]])."
     },
     {
-      "source_file": "staging/validated/OT/JON_footnotes.md",
-      "line_number": 150,
+      "source_file": "study/footnotes/OT/JON_footnotes.md",
+      "line_number": 115,
       "raw_match": "[[LUK.15:11]]-32",
       "reference_type": "wikilink_range",
-      "context": "Son ([[LUK.15:11]]-32), he hoped to see the Ninevites destroyed. \"After all,\" he might have"
+      "context": "Once again, Jonah's weakness controls him. Here Jonah's excessive nationalism is expressed in his disappointment at God's mercy. He knew God's character, and anticipated what would happen; yet, like the proud brother in the story of the Prodigal Son ([[LUK.15:11]]-32), he hoped to see the Ninevites destroyed. \"After all,\" he might have said, \"why would God want to save foreigners?\" The gourd that is damaged by the worm is an icon of this attitude, which is personified in the unbelievers who allow pride and jealousy at the salvation of others to enter their hearts. Many like these will put Christ to death, thus bringing about their own destruction."
     },
     {
-      "source_file": "staging/validated/OT/RUT_footnotes.md",
-      "line_number": 34,
+      "source_file": "study/footnotes/OT/RUT_footnotes.md",
+      "line_number": 26,
       "raw_match": "[[LUK.15:11]]-32",
       "reference_type": "wikilink_range",
-      "context": "the Prodigal Son ([[LUK.15:11]]-32)."
+      "context": "Naomi, representing the faithful Jews who will accept redemption in Christ, returned from the country of Moab to receive the Lord's bread (see [[JOH.6:48]]). The notion of arising from a state of sin and returning to a loving Father is echoed in Christ's parable of the Prodigal Son ([[LUK.15:11]]-32)."
     }
   ]
 }

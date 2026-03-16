@@ -2,15 +2,25 @@
   "anchor_id": "MAT.9:37",
   "canon_uri": "canon/NT/MAT.md#MAT.9:37",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Then He said to His disciples, 'The harvest truly is plentiful, but the laborers are few.",
+  "pericope": {
+    "id": "MAT.P025",
+    "title": "A Plentiful Harvest",
+    "range": "MAT.9:35-9:37",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/RUT_footnotes.md",
-      "line_number": 86,
+      "source_file": "study/footnotes/OT/RUT_footnotes.md",
+      "line_number": 67,
       "raw_match": "[[MAT.9:37]]",
       "reference_type": "wikilink",
-      "context": "Himself refers to the new covenant as a time of harvest ([[MAT.9:37]], [[MAT.9:38]]; [[JOH.4:35]]). Ruth is"
+      "context": "The beginning of barley harvest was in April. It would have occurred at about the time of the Passover, and thus of the crucifixion and Resurrection of Christ. Jesus Himself refers to the new covenant as a time of harvest ([[MAT.9:37]], [[MAT.9:38]]; [[JOH.4:35]]). Ruth is accepted at this time, showing that the Gentiles would be received into the Church."
     }
   ]
 }

@@ -2,36 +2,46 @@
   "anchor_id": "ROM.4:13",
   "canon_uri": "canon/NT/ROM.md#ROM.4:13",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "For the promise that he would be the heir of the world was not to Abraham or to his seed through the law, but through the righteousness of faith.",
+  "pericope": {
+    "id": "ROM.P011",
+    "title": "Abraham's Children: Faithful Believers",
+    "range": "ROM.4:12-4:23",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/DEU_footnotes.md",
-      "line_number": 1325,
+      "source_file": "study/footnotes/OT/DEU_footnotes.md",
+      "line_number": 869,
       "raw_match": "[[ROM.4:13]]",
       "reference_type": "wikilink",
-      "context": "in Him ([[GAL.3:16]]). The land is \"the world to come\" (Creed; [[ROM.4:13]]). They, and those of"
+      "context": "The Lord swore to give the land Moses saw to Abraham, Isaac, and Jacob as an inheritance. Yet they never received it, nor did Moses. Therefore, what is this land, and when will they receive it, and who is the seed? The seed is Christ and those who believe in Him ([[GAL.3:16]]). The land is \"the world to come\" (Creed; [[ROM.4:13]]). They, and those of like faith, will receive this world at \"the resurrection of the dead\" (Creed; Heb 11). The world to come is this present creation redeemed along with the children of God (Rom 8:21, 22)."
     },
     {
-      "source_file": "staging/validated/OT/GEN_footnotes.md",
-      "line_number": 871,
+      "source_file": "study/footnotes/OT/GEN_footnotes.md",
+      "line_number": 618,
       "raw_match": "[[ROM.4:9]]-17",
       "reference_type": "wikilink_range",
-      "context": "Gentiles, to be made righteous by faith in the gospel (v. 3; see also [[ROM.4:9]]-17). Christ"
+      "context": "The rite of circumcision was not the covenant itself. It was a sign of the covenant (v. 11). It was a temporary sign, because it applied only to Abraham's genealogy (v. 12), that is, to Abraham's physical lineage, and also to those born in his house or bought with his money. Thus, the rite did not apply to the \"many nations,\" or Gentiles, to be made righteous by faith in the gospel (v. 3; see also [[ROM.4:9]]-17). Christ Himself fulfilled this rite and brought it to an end when He was circumcised on the eighth day after His birth from the Virgin ([[LUK.2:21]])."
     },
     {
-      "source_file": "staging/validated/OT/GEN_footnotes.md",
-      "line_number": 1477,
+      "source_file": "study/footnotes/OT/GEN_footnotes.md",
+      "line_number": 1073,
       "raw_match": "[[ROM.4:13]]",
       "reference_type": "wikilink",
-      "context": "Firstborn of the Father and the ruler and head over the Church. Through His Incarnation, He would secure the Church's eternal inheritance ([[ROM.4:13]]; 8:29; [[GAL.3:3]], [[GAL.3:18]], [[GAL.3:29]]; 4:7; [[EPH.1:11]], [[EPH.1:14]], [[EPH.1:18]]; 3:6; [[COL.1:12]], [[COL.1:15]], [[COL.1:18]]; 3:24; [[TIT.3:7]]; [[HEB.1:2]], [[HEB.1:4]], [[HEB.1:6]]; 6:17; 9:15; 11:7-9; Jam"
+      "context": "The Lord is present everywhere and fills all things. Thus, Isaac would give the blessing of the firstborn in His presence. The blessing of the firstborn gave the eldest son a double portion of his father's inheritance. He would also become the ruler and head over his brethren upon his father's death, and be responsible for the welfare and administration of the family. All this foreshadowed the Lord's Incarnation as the Firstborn of the Father and the ruler and head over the Church. Through His Incarnation, He would secure the Church's eternal inheritance ([[ROM.4:13]]; 8:29; [[GAL.3:3]], [[GAL.3:18]], [[GAL.3:29]]; 4:7; [[EPH.1:11]], [[EPH.1:14]], [[EPH.1:18]]; 3:6; [[COL.1:12]], [[COL.1:15]], [[COL.1:18]]; 3:24; [[TIT.3:7]]; [[HEB.1:2]], [[HEB.1:4]], [[HEB.1:6]]; 6:17; 9:15; 11:7-9; Jam 2:5; [[1PE.1:4]]; 3:7; 12:23; [[REV.1:5]])."
     },
     {
-      "source_file": "staging/validated/OT/SIR_footnotes.md",
-      "line_number": 473,
+      "source_file": "study/footnotes/OT/SIR_footnotes.md",
+      "line_number": 348,
       "raw_match": "[[ROM.4:9]]-16",
       "reference_type": "wikilink_range",
-      "context": "of God's promises to Israel in the Church, see the following passages: [[ROM.4:9]]-16; 9:6, 8, 23-27; 11:7; [[1CO.10:18]]; [[GAL.6:16]]; [[1PE.2:4]]-12; [[REV.3:12]]; 21:2, 10."
+      "context": "God intended Israel (v. 14) to be a tight-knit, unified nation. But He also intended her to have open and honorable relations with every nation (v. 14), that is, the Gentiles, ultimately becoming the instrument of their salvation. However, as a nation they did not fulfill this divine intent. Their unity became centered in their ethnicity rather than their relationship with God. They even grew to despise the Gentiles with no concern for their salvation. It is extremely important for us within the Church, the new Israel, not to fall into this same sin and incur the same judgment (see [[ROM.11:11]]-36). For the fulfillment of God's promises to Israel in the Church, see the following passages: [[ROM.4:9]]-16; 9:6, 8, 23-27; 11:7; [[1CO.10:18]]; [[GAL.6:16]]; [[1PE.2:4]]-12; [[REV.3:12]]; 21:2, 10."
     }
   ]
 }

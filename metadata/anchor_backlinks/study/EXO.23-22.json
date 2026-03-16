@@ -2,15 +2,25 @@
   "anchor_id": "EXO.23:22",
   "canon_uri": "canon/OT/EXO.md#EXO.23:22",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "But if you will indeed obey My voice and do all I command you and keep My covenant, you shall be My special people above all nations, for the whole earth is Mine; and you shall be a royal priesthood and a holy nation. You shall speak these words to the children of Israel; and if you shall indeed obey My voice and do all I tell you, I will be an enemy to your enemies and an adversary to your adversaries.",
+  "pericope": {
+    "id": "EXO.P047",
+    "title": "An Angel of Protection",
+    "range": "EXO.23:19-23:32",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/LJE_footnotes.md",
-      "line_number": 33,
+      "source_file": "study/footnotes/OT/LJE_footnotes.md",
+      "line_number": 28,
       "raw_match": "[[EXO.23:20]]-23",
       "reference_type": "wikilink_range",
-      "context": "us through the day. For other examples, see [[EXO.23:20]]-23; 32:34; [[PSA.90:11]]."
+      "context": "This verse describes the important role of the guardian angel, who watches and guides us through the day. For other examples, see [[EXO.23:20]]-23; 32:34; [[PSA.90:11]]."
     }
   ]
 }

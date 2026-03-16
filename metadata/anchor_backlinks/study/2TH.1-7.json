@@ -2,22 +2,32 @@
   "anchor_id": "2TH.1:7",
   "canon_uri": "canon/NT/2TH.md#2TH.1:7",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "and to give you who are troubled rest with us when the Lord Jesus is revealed from heaven with His mighty angels,",
+  "pericope": {
+    "id": "2TH.P002",
+    "title": "The Present Persecution",
+    "range": "2TH.1:2-1:11",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/LUK_footnotes.md",
-      "line_number": 611,
+      "source_file": "study/footnotes/NT/LUK_footnotes.md",
+      "line_number": 408,
       "raw_match": "[[2TH.1:6]]-10",
       "reference_type": "wikilink_range",
-      "context": "in which the faithless will burn (see [[2TH.1:6]]-10; 2:8). Note that this fire is one. It is the"
+      "context": "Fire in this context has the primary meaning of the gift of the Holy Spirit, which is given to the world at Pentecost ([[ACT.2:1]]-4). It further declares the judgment of Christ, in which the faithless will burn (see [[2TH.1:6]]-10; 2:8). Note that this fire is one. It is the same Power and the same Spirit which both enlivens the faithful and destroys the faithless."
     },
     {
-      "source_file": "staging/validated/NT/ROM_footnotes.md",
-      "line_number": 141,
+      "source_file": "study/footnotes/NT/ROM_footnotes.md",
+      "line_number": 99,
       "raw_match": "[[2TH.1:6]]-10",
       "reference_type": "wikilink_range",
-      "context": "reject Him (see [[MAT.25:41]]-46; [[2TH.1:6]]-10; 2:8)."
+      "context": "The wrath of God is His righteous and holy judgment. It is not a loss of temper or self-control, but the revelation of His divine truth, love, and power confronting those who reject Him (see [[MAT.25:41]]-46; [[2TH.1:6]]-10; 2:8)."
     }
   ]
 }

@@ -2,15 +2,25 @@
   "anchor_id": "2CO.7:9",
   "canon_uri": "canon/NT/2CO.md#2CO.7:9",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Now I rejoice, not that you were made sorry, but that your sorrow led to repentance. For you were made sorry in a godly manner, that you might suffer loss from us in nothing.",
+  "pericope": {
+    "id": "2CO.P022",
+    "title": "Desire and Diligence",
+    "range": "2CO.7:4-7:15",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/2PE_footnotes.md",
-      "line_number": 265,
+      "source_file": "study/footnotes/NT/2PE_footnotes.md",
+      "line_number": 171,
       "raw_match": "[[2CO.7:9]]",
       "reference_type": "wikilink",
-      "context": "time primarily to grant us fuller repentance. (See v. 15; [[2CO.7:9]], [[2CO.7:10]].)"
+      "context": "These words are not just for the false teachers, but for us all. We are granted more time primarily to grant us fuller repentance. (See v. 15; [[2CO.7:9]], [[2CO.7:10]].)"
     }
   ]
 }

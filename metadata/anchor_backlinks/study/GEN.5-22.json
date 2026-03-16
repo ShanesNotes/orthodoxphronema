@@ -2,15 +2,25 @@
   "anchor_id": "GEN.5:22",
   "canon_uri": "canon/OT/GEN.md#GEN.5:22",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "After he begot Methuselah, Enoch was well-pleasing to God for two hundred years, and begot sons and daughters.",
+  "pericope": {
+    "id": "GEN.P006",
+    "title": "The Descendants of Adam",
+    "range": "GEN.4:26-5:31",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/WIS_footnotes.md",
-      "line_number": 106,
+      "source_file": "study/footnotes/OT/WIS_footnotes.md",
+      "line_number": 95,
       "raw_match": "[[GEN.5:18]]-24",
       "reference_type": "wikilink_range",
-      "context": "was taken up to be with the Lord and made perfect ([[GEN.5:18]]-24)."
+      "context": "Though he is not named in this passage, this is a specific reference to Enoch, who was taken up to be with the Lord and made perfect ([[GEN.5:18]]-24)."
     }
   ]
 }

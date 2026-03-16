@@ -2,22 +2,32 @@
   "anchor_id": "GEN.4:10",
   "canon_uri": "canon/OT/GEN.md#GEN.4:10",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Thus God said, 'What have you done? The voice of your brother's blood cries out to Me from the ground.",
+  "pericope": {
+    "id": "GEN.P004",
+    "title": "Cain Kills Abel",
+    "range": "GEN.3:24-4:15",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/HEB_footnotes.md",
-      "line_number": 1159,
+      "source_file": "study/footnotes/NT/HEB_footnotes.md",
+      "line_number": 752,
       "raw_match": "[[GEN.4:10]]",
       "reference_type": "wikilink",
-      "context": "[[GEN.4:10]])--but for mercy, forgiveness, atonement, and unending life. This is the blood of"
+      "context": "We are encouraged to approach and touch the heavenly mountain, for we already participate in the Kingdom and dwell there. It is more like Mount Zion and Jerusalem (v. 22) than like Sinai (popular Jewish images at that time), for Jerusalem was a habitable place and Zion a place of God's holy presence. This Kingdom is not earthly but heavenly, inhabited by angels (v. 22) as well as men. There is an unending assembly (v. 23), the divinely instituted gathering of God's people of all ages, in which they know themselves as church. There everyone is firstborn (v. 23) and has inherited all. There blood (v. 24) cries not for vengeance and further death--as did Abel's (see 11:4; [[GEN.4:10]])--but for mercy, forgiveness, atonement, and unending life. This is the blood of Christ given to us in the Eucharist. Heaven is not a place of the separation of the soul from the body. There, soul and body together are transformed into a better (v. 24) reality. For the spirits of just men are made perfect (v. 23; see 11:40) in unity with their bodies: glorified, divinely energized, without the limitations we now experience. This passage is quoted in hymns for both the Trisagion and funeral services of the Orthodox Church. The blood of sprinkling (v. 24) is that of Christ, which effects the new covenant--real blood, effective for the physical people."
     },
     {
-      "source_file": "staging/validated/NT/JUD_footnotes.md",
-      "line_number": 117,
+      "source_file": "study/footnotes/NT/JUD_footnotes.md",
+      "line_number": 79,
       "raw_match": "[[GEN.4:3]]-24",
       "reference_type": "wikilink_range",
-      "context": "offenders: (1) Cain ([[GEN.4:3]]-24) sinned by faithlessness and envy, especially over an"
+      "context": "A threefold woe or warning of great sorrow, using a triad of Israel's most famous offenders: (1) Cain ([[GEN.4:3]]-24) sinned by faithlessness and envy, especially over an honor given to another. His sin led to murder ([[GEN.4:16]]-24). (2) Balaam (Nm 22-24) sinned by greed, which led to lying and an all-out assault upon the truth, which he knew as well. (3) Korah ([[NUM.16:1]]-35) sinned by ambition, pride, and arrogance, grasping for leadership against God's will. His sin led to blatant rebellion against God."
     }
   ]
 }

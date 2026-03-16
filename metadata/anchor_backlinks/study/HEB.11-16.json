@@ -2,43 +2,53 @@
   "anchor_id": "HEB.11:16",
   "canon_uri": "canon/NT/HEB.md#HEB.11:16",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "But now they desire a better, that is, a heavenly country. Therefore God is not ashamed to be called their God, for He has prepared a city for them.",
+  "pericope": {
+    "id": "HEB.P029",
+    "title": "Faith from Abraham to Joseph",
+    "range": "HEB.11:7-11:21",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/EXO_footnotes.md",
-      "line_number": 335,
+      "source_file": "study/footnotes/OT/EXO_footnotes.md",
+      "line_number": 249,
       "raw_match": "[[HEB.11:16]]",
       "reference_type": "wikilink",
-      "context": "God,\" and \"they desired a better, that is, a heavenly country\" ([[HEB.11:10]], [[HEB.11:16]]). The Jews"
+      "context": "The land of Canaan is called the land of their [Abraham, Isaac, and Jacob's] sojourn, in which they were strangers. They did not see Canaan as their permanent home, for they \"waited for the city which has foundations, whose builder and maker is God,\" and \"they desired a better, that is, a heavenly country\" ([[HEB.11:10]], [[HEB.11:16]]). The Jews who embraced this faith had the same vision, as do the Gentiles who do the same. For Canaan was a type of the world to come. But the Jews who came out of Egypt and did not embrace this faith saw the Canaan of this world as their true home, a false vision on their part."
     },
     {
-      "source_file": "staging/validated/OT/GEN_footnotes.md",
-      "line_number": 1185,
+      "source_file": "study/footnotes/OT/GEN_footnotes.md",
+      "line_number": 858,
       "raw_match": "[[HEB.11:11]]-16",
       "reference_type": "wikilink_range",
-      "context": "sojourner and stranger passing through this life to the world to come ([[HEB.11:11]]-16)."
+      "context": "The days of Sarah's life were numbered. She knew this because she was a woman of faith. She did not know when she would die, but knew she would. For she saw herself as a sojourner and stranger passing through this life to the world to come ([[HEB.11:11]]-16)."
     },
     {
-      "source_file": "staging/validated/OT/GEN_footnotes.md",
-      "line_number": 1664,
+      "source_file": "study/footnotes/OT/GEN_footnotes.md",
+      "line_number": 1214,
       "raw_match": "[[HEB.11:14]]-16",
       "reference_type": "wikilink_range",
-      "context": "permanent residence ([[HEB.11:14]]-16, 21)."
+      "context": "The Lord is the Word and Son of God. He told Jacob to return to the land of his father, for this land was a type of the world to come. Laban's country was not Jacob's permanent residence ([[HEB.11:14]]-16, 21)."
     },
     {
-      "source_file": "staging/validated/OT/GEN_footnotes.md",
-      "line_number": 1937,
+      "source_file": "study/footnotes/OT/GEN_footnotes.md",
+      "line_number": 1438,
       "raw_match": "[[HEB.11:13]]-16",
       "reference_type": "wikilink_range",
-      "context": "who look for their inheritance in the world to come ([[HEB.11:13]]-16, 22; Creed)."
+      "context": "Joseph calls Egypt the land of my humiliation. Such is this fallen world to those who look for their inheritance in the world to come ([[HEB.11:13]]-16, 22; Creed)."
     },
     {
-      "source_file": "staging/validated/OT/GEN_footnotes.md",
-      "line_number": 2084,
+      "source_file": "study/footnotes/OT/GEN_footnotes.md",
+      "line_number": 1554,
       "raw_match": "[[HEB.11:13]]-16",
       "reference_type": "wikilink_range",
-      "context": "of the world to come\" (Creed; [[HEB.11:13]]-16, 21). And although he had suffered much in"
+      "context": "Jacob described himself and his fathers, Abraham and Isaac, as sojourners, for he embraced Abraham's faith and thus \"looked for the resurrection of the dead and the life of the world to come\" (Creed; [[HEB.11:13]]-16, 21). And although he had suffered much in his life, he saw this as nothing compared to the glory to be revealed ([[ROM.8:18]])."
     }
   ]
 }

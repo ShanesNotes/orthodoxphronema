@@ -2,15 +2,25 @@
   "anchor_id": "PSA.18:10",
   "canon_uri": "canon/OT/PSA.md#PSA.18:10",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "The fear of the Lord is pure, enduring unto ages of ages; The judgments of the Lord are true, being altogether just.",
+  "pericope": {
+    "id": "PSA.P018",
+    "title": "Psalm 18",
+    "range": "PSA.18:1-18:15",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/EZK_footnotes.md",
-      "line_number": 84,
+      "source_file": "study/footnotes/OT/EZK_footnotes.md",
+      "line_number": 82,
       "raw_match": "[[PSA.18:10]]",
       "reference_type": "wikilink",
-      "context": "honey (see [[PSA.18:10]]; 118:103; [[JER.15:16]]; [[ZEC.5:1]]-4; [[REV.10:8]]-11). 3:6"
+      "context": "For the faithful, the taste of Christ the Word in our mouth is even sweeter than honey (see [[PSA.18:10]]; 118:103; [[JER.15:16]]; [[ZEC.5:1]]-4; [[REV.10:8]]-11)."
     }
   ]
 }

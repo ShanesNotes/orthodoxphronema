@@ -2,22 +2,32 @@
   "anchor_id": "1TH.5:5",
   "canon_uri": "canon/NT/1TH.md#1TH.5:5",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "You are all sons of light and sons of the day. We are not of the night nor of darkness.",
+  "pericope": {
+    "id": "1TH.P008",
+    "title": "How to Await His Coming",
+    "range": "1TH.4:18-5:10",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/JOH_footnotes.md",
-      "line_number": 65,
+      "source_file": "study/footnotes/NT/JOH_footnotes.md",
+      "line_number": 43,
       "raw_match": "[[1TH.5:5]]",
       "reference_type": "wikilink",
-      "context": "believers themselves become children of the light (12:36; [[EPH.5:8]]; [[1TH.5:5]]). Moses saw"
+      "context": "Only God has life in Himself. Thus, the Word, being God, is the source of life, together with the Father and the Holy Spirit. The life was the light of men: John now introduces mankind as receiver of the divine light. By participating in the life of the Son, believers themselves become children of the light (12:36; [[EPH.5:8]]; [[1TH.5:5]]). Moses saw the divine light in the burning bush ([[EXO.3:2]]); the whole nation saw it at the Red Sea (Ex 13:21); Isaiah saw it in his heavenly vision (Is 6:1-5); and three apostles saw it at the Transfiguration ([[MAT.17:1]]-5)."
     },
     {
-      "source_file": "staging/validated/NT/MAT_footnotes.md",
-      "line_number": 761,
+      "source_file": "study/footnotes/NT/MAT_footnotes.md",
+      "line_number": 491,
       "raw_match": "[[1TH.5:5]]",
       "reference_type": "wikilink",
-      "context": "12:36; [[1TH.5:5]]) who shine in a perverse world ([[PHP.2:15]]). In many parishes, the Pascha"
+      "context": "Salt and light illustrate the role of disciples in society. Because of its preservative powers, its necessity for life, and its ability to give flavor, salt had religious and sacrificial significance (Lv 2:13; see also [[NUM.18:19]]; [[2CH.13:5]]). To eat salt with someone meant to be bound together in loyalty. As the salt of the earth, Christians are preservers of God's covenant and give true flavor to the world. God is the true and uncreated Light. In the OT light is symbolic of God (Is 60:1-3), the divine Law ([[PSA.118:105]]), and Israel in contrast to all other nations. In the NT, the Son of God is called \"light\" ([[JOH.1:4]]-9; 8:12; [[1JN.1:5]]). Light is necessary both for clear vision and for life itself. Faith relies on this divine light, and believers become \"sons of light\" (Jn 12:36; [[1TH.5:5]]) who shine in a perverse world ([[PHP.2:15]]). In many parishes, the Pascha (Easter) Liturgy begins with a candle being presented and the invitation to \"come receive the Light which is never overtaken by night.\""
     }
   ]
 }

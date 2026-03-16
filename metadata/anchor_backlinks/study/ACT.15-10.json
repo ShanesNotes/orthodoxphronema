@@ -2,22 +2,32 @@
   "anchor_id": "ACT.15:10",
   "canon_uri": "canon/NT/ACT.md#ACT.15:10",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Now therefore, why do you test God by putting a yoke on the neck of the disciples which neither our fathers nor we were able to bear?",
+  "pericope": {
+    "id": "ACT.P051",
+    "title": "The Council in Jerusalem",
+    "range": "ACT.15:5-15:20",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/DEU_footnotes.md",
-      "line_number": 1048,
+      "source_file": "study/footnotes/OT/DEU_footnotes.md",
+      "line_number": 668,
       "raw_match": "[[ACT.15:10]]",
       "reference_type": "wikilink",
-      "context": "we were able to bear\" them ([[ACT.15:10]]). 30:11-13"
+      "context": "This commandment is the commandment regarding the attainment of righteousness before God through faith. In vv. 11-14, Moses tells us how to become righteous in the eyes of God through faith. To do so is not too burdensome. But the multitude of commandments in the Law of Moses were \"too burdensome\" for the people to be able to become righteous in God's sight. As St. Peter said, \"neither our fathers nor we were able to bear\" them ([[ACT.15:10]]). 30:11-13 Far off means in heaven or beyond the sea. By describing \"far off\" in this manner, Moses shows how we attain righteousness before God through faith. We attain it by casting out the questions, \"Who will ascend into heaven for us?\" and \"Who will go over the sea for us?\" These questions are another way of asking, \"How can these things be?\" as Nicodemus asked Jesus ([[JOH.3:9]]). These questions raise supposed impossibilities based on human reasoning, but \"the things which are impossible with men are possible with God\" ([[LUK.18:27]]), and, \"Is anything impossible with God?\" (Gn 18:14). How then are these questions based on human reasoning cast out? Moses gives the answer in v. 14."
     },
     {
-      "source_file": "staging/validated/OT/LEV_footnotes.md",
-      "line_number": 1115,
+      "source_file": "study/footnotes/OT/LEV_footnotes.md",
+      "line_number": 686,
       "raw_match": "[[ACT.15:10]]",
       "reference_type": "wikilink",
-      "context": "impossibility ([[ACT.15:10]]). Their failure required atonement for sins and reconciliation"
+      "context": "Israel was to keep all the ordinances of the Law of Moses. In so doing they would attain to righ-teousness, but if they should offend in one point, they would be guilty of breaking the whole of it ([[JAS.2:10]]). There was no other way of attaining righteousness under this Law than by fulfilling the whole of it. However, they failed to attain the righteousness required by the Law ([[ROM.9:31]]), for such an attainment was an impossibility ([[ACT.15:10]]). Their failure required atonement for sins and reconciliation with God. Christ atoned for their sins and those of the entire world. Through His death and Resurrection He made possible the attainment of righteousness by faith in Him. \"Moses showed us the righteousness required by the Law, what kind it is. So what kind is it and in what does it consist? 'The man who does these things shall live by them,' Moses said. There was no other way of becoming righteous in the Law except by fulfilling the whole of it. But this was not possible for anyone, and therefore this righteousness failed them.... For that required the fulfillment of all things (for when you do all, then you shall live); but the righteousness of faith does not say this, but what does it say? 'If you confess with your mouth the Lord Jesus, and believe in your heart God raised Him from the dead, you shall be saved, for with the heart one believes unto righteousness, and with the mouth confession is made unto salvation' ([[ROM.10:9]], [[ROM.10:10]]).... There is no long journey to go on, no seas to sail over, no mountains to pass, to get saved. But if you be not minded to cross so much as the threshold, you may even while you sit at home be saved. For 'in your mouth and in your heart' is the source of salvation\" (JohnChr)."
     }
   ]
 }

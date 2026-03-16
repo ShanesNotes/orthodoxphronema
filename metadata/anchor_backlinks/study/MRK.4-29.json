@@ -2,15 +2,25 @@
   "anchor_id": "MRK.4:29",
   "canon_uri": "canon/NT/MRK.md#MRK.4:29",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "But when the grain ripens, immediately he puts in the sickle, because the harvest has come.'",
+  "pericope": {
+    "id": "MRK.P017",
+    "title": "The Parable of the Mustard Seed",
+    "range": "MRK.4:29-4:33",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/REV_footnotes.md",
-      "line_number": 2057,
+      "source_file": "study/footnotes/NT/REV_footnotes.md",
+      "line_number": 1269,
       "raw_match": "[[MRK.4:26]]-29",
       "reference_type": "wikilink_range",
-      "context": "earth, the beginning of the final judgment (see [[MAT.13:24]]-30, 36-43; [[MRK.4:26]]-29)."
+      "context": "The Son of Man, royal conqueror (golden crown) and judge (sharp sickle; see [[MAT.3:12]]), appears, seated on a cloud (see [[MRK.13:26]]), and reaps the harvest of the earth, the beginning of the final judgment (see [[MAT.13:24]]-30, 36-43; [[MRK.4:26]]-29)."
     }
   ]
 }

@@ -1,0 +1,13 @@
+{
+  "run_at": "2026-03-16T00:42:56.844117+00:00",
+  "pdf_path": "/home/ark/orthodoxphronema/src.texts/The-Language-of-Creation-Cosmic-Symbolism-in-Genesis-A-Commentary.pdf",
+  "model": "gemini-embedding-2-preview",
+  "dimensions": 768,
+  "task_type": "RETRIEVAL_DOCUMENT",
+  "text_only": false,
+  "dry_run": false,
+  "chapters_processed": 85,
+  "chapters_skipped": 0,
+  "errors": [],
+  "total_words": 57810
+}

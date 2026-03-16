@@ -2,12 +2,22 @@
   "anchor_id": "1JN.5:21",
   "canon_uri": "canon/NT/1JN.md#1JN.5:21",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Little children, keep yourselves from idols. Amen.",
+  "pericope": {
+    "id": "1JN.P017",
+    "title": "Live in Christ",
+    "range": "1JN.5:19-5:21",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/LJE_footnotes.md",
-      "line_number": 92,
+      "source_file": "study/footnotes/OT/LJE_footnotes.md",
+      "line_number": 82,
       "raw_match": "[[1JN.5:21]]",
       "reference_type": "wikilink",
       "context": "The one who is righteous turns from idolatry (see [[1JN.5:21]])."

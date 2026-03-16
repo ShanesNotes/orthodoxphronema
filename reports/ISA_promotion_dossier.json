@@ -1,8 +1,8 @@
 {
   "book_code": "ISA",
   "testament": "OT",
-  "timestamp": "2026-03-15T15:56:29.761835",
-  "registry_version": "1.7.4",
+  "timestamp": "2026-03-15T18:29:27.559014",
+  "registry_version": "1.7.6",
   "body_checksum": "79b0d574fec680d0dbb9173254c570f607fa03544e582d65971b0f39c88d5df6",
   "allow_incomplete": true,
   "staged_path": "/home/ark/orthodoxphronema/staging/validated/OT/ISA.md",
@@ -92,5 +92,5 @@
       }
     ]
   },
-  "decision": "promoted"
+  "decision": "dry-run"
 }

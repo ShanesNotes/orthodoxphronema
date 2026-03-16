@@ -2,15 +2,25 @@
   "anchor_id": "EZK.23:11",
   "canon_uri": "canon/OT/EZK.md#EZK.23:11",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "'Her sister Oholibah saw this, and she indulged in her lusts more corruptly than she, and her fornication more than the fornication of her sister.",
+  "pericope": {
+    "id": "EZK.P032",
+    "title": "The Younger Sister, Jerusalem",
+    "range": "EZK.23:10-23:20",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/REV_footnotes.md",
-      "line_number": 2453,
+      "source_file": "study/footnotes/NT/REV_footnotes.md",
+      "line_number": 1515,
       "raw_match": "[[EZK.23:11]]-35",
       "reference_type": "wikilink_range",
-      "context": "up against the harlot (v. 16) indicates the self-destructiveness of evil (see [[EZK.23:11]]-35)."
+      "context": "The peoples, multitudes, nations, and tongues represent the diversity of the Roman Empire (see v. 18). Reaping what she sows, Rome will be conquered as she has conquered. That the ten horns (vassal kings) and the beast (false prophet) will rise up against the harlot (v. 16) indicates the self-destructiveness of evil (see [[EZK.23:11]]-35). The Antichrist proves himself (in contrast to the true Christ, v. 14) the traitor of traitors. Rome will be stripped, devoured, and burned (see Lv 21:9, where death by fire is prescribed for a harlot who is the daughter of a priest)."
     }
   ]
 }

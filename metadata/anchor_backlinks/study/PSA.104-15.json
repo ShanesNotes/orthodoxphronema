@@ -2,11 +2,21 @@
   "anchor_id": "PSA.104:15",
   "canon_uri": "canon/OT/PSA.md#PSA.104:15",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "\"Do not touch My anointed ones, And do not act wickedly towards My prophets.\"",
+  "pericope": {
+    "id": "PSA.P104",
+    "title": "Psalm 104",
+    "range": "PSA.104:1-104:45",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/2MA_articles.md",
+      "source_file": "study/articles/OT/2MA_articles.md",
       "line_number": 18,
       "raw_match": "[[PSA.104:15]]",
       "reference_type": "wikilink",

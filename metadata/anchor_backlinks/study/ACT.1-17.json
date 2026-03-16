@@ -2,15 +2,25 @@
   "anchor_id": "ACT.1:17",
   "canon_uri": "canon/NT/ACT.md#ACT.1:17",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "for he was numbered with us and obtained apart in this ministry.'",
+  "pericope": {
+    "id": "ACT.P003",
+    "title": "Days 40-49: Preparation for Pentecost",
+    "range": "ACT.1:10-1:25",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/MAT_footnotes.md",
-      "line_number": 3749,
+      "source_file": "study/footnotes/NT/MAT_footnotes.md",
+      "line_number": 2399,
       "raw_match": "[[ACT.1:16]]-19",
       "reference_type": "wikilink_range",
-      "context": "accounts of Judas' suicide are given in the NT, here and in [[ACT.1:16]]-19."
+      "context": "In contrast to Peter, who repented in his sorrow (26:75), Judas is remorseful but does not repent. Suicide is not a sign of repentance but of being self-absorbed. Two accounts of Judas' suicide are given in the NT, here and in [[ACT.1:16]]-19."
     }
   ]
 }

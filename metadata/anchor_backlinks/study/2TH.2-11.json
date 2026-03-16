@@ -2,22 +2,32 @@
   "anchor_id": "2TH.2:11",
   "canon_uri": "canon/NT/2TH.md#2TH.2:11",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "And for this reason God will send them strong delusion, that they should believe the lie,",
+  "pericope": {
+    "id": "2TH.P004",
+    "title": "Greeting",
+    "range": "2TH.2:1-2:11",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/REV_footnotes.md",
-      "line_number": 677,
+      "source_file": "study/footnotes/NT/REV_footnotes.md",
+      "line_number": 425,
       "raw_match": "[[2TH.2:1]]-12",
       "reference_type": "wikilink_range",
-      "context": "image ([[DAN.12:1]]; [[MAT.6:13]]; [[MRK.13:4]]; [[JOH.17:6]], [[JOH.17:15]]; [[2TH.2:1]]-12), referring to the testing and"
+      "context": "To those faithful to Him, the Lord Jesus will in turn be faithful during the hour of trial that will come to the whole world by preserving them during that trial (see Jn 17:15) and protecting them from demonic assaults. Although the faithful will not be rescued from sufferings, persecution, and martyrdom, they will be sustained and supported so as to persevere in their faithfulness. The hour of trial is an apocalyptic image ([[DAN.12:1]]; [[MAT.6:13]]; [[MRK.13:4]]; [[JOH.17:6]], [[JOH.17:15]]; [[2TH.2:1]]-12), referring to the testing and tribulation (chs. 8; 9; 16) preceding the manifestation of the eternal Kingdom of God. Those who dwell on the earth is a commonly used term for the ungodly."
     },
     {
-      "source_file": "staging/validated/OT/DAN_footnotes.md",
-      "line_number": 411,
+      "source_file": "study/footnotes/OT/DAN_footnotes.md",
+      "line_number": 285,
       "raw_match": "[[2TH.2:3]]-12",
       "reference_type": "wikilink_range",
-      "context": "eternal kingdom (see [[2TH.2:3]]-12 and note). 8:26"
+      "context": "When Alexander's rule was broken (v. 8) when he was only 33, his four generals divided up his empire among themselves: Ptolemy I in Egypt; Seleucus I in Asia; Lysimachus in Asia Minor; and Cassander in Macedonia. The strong horn (v. 9) is seen to represent Antiochus IV Epiphanes, who took the Seleucid kingdom in 175 BC. He put an end to temple sacrifice and set up a statue of Jupiter in the holy temple in Jerusalem. 8:10-26 The temple was cleansed (v. 14) under Judas Maccabeus after he had led the Jews to victory over the Syrians. St. Jerome says that most church commentators see a partial fulfillment of these events in the persecution of Antiochus, but that the passage also points to the antichrist, the king who shall arise (v. 23). The antichrist is himself a type of all those who raise themselves up against Christ. Thus, his downfall at Christ's Second Coming symbolizes the final destruction of all evil and the realization of Christ's eternal kingdom (see [[2TH.2:3]]-12 and note). 8:26 Seal the vision: \"The things, therefore, which of old were sealed, are now by the grace of God the Lord all open to the saints, for He was Himself the perfect Seal, and the Church is the key.... But to Christ it was not said 'seal,' but 'loose' the things bound of old; in order that, by His grace, we might know the will of the Father, and believe upon Him whom He has sent for the salvation of men, Jesus our Lord\" (Hippol). 9:3-5 We sinned: In the spirit of true intercessory prayer, Daniel takes on himself the sins of the people and repents before the Lord, begging His mercy for their sakes. 9:8-11 This is as clear in defining sin as any passage in the Scriptures. St. Paul offers a summary of Daniel's words: \"All have sinned and fall short of the glory of God\" (Rom 3:23)."
     }
   ]
 }

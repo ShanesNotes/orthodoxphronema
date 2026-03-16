@@ -2,15 +2,25 @@
   "anchor_id": "ZEC.9:9",
   "canon_uri": "canon/OT/ZEC.md#ZEC.9:9",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "'Rejoice greatly, O daughter of Zion! Proclaim it aloud, O daughter of Jerusalem! Behold, your King comes to you; He is righteous and saving; He is gentle and mounted upon a donkey, even a young foal.",
+  "pericope": {
+    "id": "ZEC.P012",
+    "title": "The Coming King",
+    "range": "ZEC.9:8-9:16",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/MAT_footnotes.md",
-      "line_number": 2835,
+      "source_file": "study/footnotes/NT/MAT_footnotes.md",
+      "line_number": 1820,
       "raw_match": "[[ZEC.9:9]]",
       "reference_type": "wikilink",
-      "context": "ride on a horse nor in a chariot, but on a donkey--a sign of humility and peace ([[ZEC.9:9]])."
+      "context": "Christ's Triumphal Entry into Jerusalem is celebrated by the Church on Palm Sunday. By Christ's time, Jewish nationalism had led to the expectation of a political Messiah to deliver them from Roman control and to reestablish David's kingdom. In humility, Jesus shows that He has not come to establish an earthly kingdom. He does not ride on a horse nor in a chariot, but on a donkey--a sign of humility and peace ([[ZEC.9:9]]). This entrance into the Holy City declares the establishment of the Kingdom of God. It is also a promise of Christ's final entrance into the heavenly Jerusalem with all believers and of His accepting the New Jerusalem as His pure Bride ([[REV.21:2]])."
     }
   ]
 }

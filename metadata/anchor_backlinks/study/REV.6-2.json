@@ -2,12 +2,22 @@
   "anchor_id": "REV.6:2",
   "canon_uri": "canon/NT/REV.md#REV.6:2",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "And I looked, and behold, a white horse. He who sat on it had a bow; and a crown was given to him, and he went out conquering and to conquer.",
+  "pericope": {
+    "id": "REV.P013",
+    "title": "Seal Two: Conflict on Earth",
+    "range": "REV.6:2-6:3",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/2MA_footnotes.md",
-      "line_number": 170,
+      "source_file": "study/footnotes/OT/2MA_footnotes.md",
+      "line_number": 144,
       "raw_match": "[[REV.6:2]]",
       "reference_type": "wikilink",
       "context": "The scene calls to mind the rider in [[REV.6:2]]."

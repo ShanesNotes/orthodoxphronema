@@ -2,15 +2,25 @@
   "anchor_id": "MRK.6:4",
   "canon_uri": "canon/NT/MRK.md#MRK.6:4",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "But Jesus said to them, 'A prophet is not without honor except in his own country, among his own relatives, and in his own house.'",
+  "pericope": {
+    "id": "MRK.P022",
+    "title": "Jairus's Daughter Raised",
+    "range": "MRK.5:34-6:5",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/1CO_footnotes.md",
-      "line_number": 437,
+      "source_file": "study/footnotes/NT/1CO_footnotes.md",
+      "line_number": 285,
       "raw_match": "[[MRK.6:4]]",
       "reference_type": "wikilink",
-      "context": "apostles (vv. 11-13; see [[MRK.6:4]]; 9:35; 10:31)."
+      "context": "Irony and sarcasm are bitter medicine, and Paul uses them here (vv. 8-13) with full force. The three parallel statements we are fools, we are weak, we are dishonored are heaped upon each other in a stinging series. The relative comfort of the Corinthian Christians is contrasted with the persecuted, poverty-stricken and uncertain life of the apostles (vv. 11-13; see [[MRK.6:4]]; 9:35; 10:31)."
     }
   ]
 }

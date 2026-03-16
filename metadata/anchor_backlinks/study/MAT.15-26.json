@@ -2,29 +2,39 @@
   "anchor_id": "MAT.15:26",
   "canon_uri": "canon/NT/MAT.md#MAT.15:26",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "But He answered and said, 'It is not good to take the children's bread and throw it to the little dogs.'",
+  "pericope": {
+    "id": "MAT.P050",
+    "title": "Conflict over Cleanliness",
+    "range": "MAT.14:36-15:30",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/JOH_footnotes.md",
-      "line_number": 439,
+      "source_file": "study/footnotes/NT/JOH_footnotes.md",
+      "line_number": 268,
       "raw_match": "[[MAT.15:21]]-28",
       "reference_type": "wikilink_range",
-      "context": "our petitions before God ([[MAT.15:21]]-28). (4) The intercessions of the righteous have great"
+      "context": "Here is an example of Mary's gift of intercession. Even now, Mary continually speaks to her Son on our behalf and is our preeminent intercessor before His Throne. This is declared in the words of an Orthodox prayer: \"The intercessions of a mother have great effect to win the favor of the Master.\" This is confirmed as Jesus grants her request here. In this passage, wine is symbolic of life, and thus there are two levels of meaning to Mary's statement, \"They have no wine\": (1) a marriage is not complete without the presence of Christ; and (2) the old covenant was unable to bestow life even on the most faithful people. Contrary to certain modern usages, Woman is a sacred title in Scripture, an address conveying deep respect and distinction (4:21; 8:10; 19:26; 20:13; compare to [[GEN.2:23]]). What does your concern have to do with Me? is more literally, \"What is that to Me and to you?\" This answer is not a refusal of Mary's intercession, but a declaration that the time had not yet come for Christ to be revealed. That Christ fulfills Mary's request teaches several things: (1) Christ is Lord over hours and seasons and is not subject to them. (2) The wedding party needed to be aware of their lack of wine first so that they might learn that it is Christ who fulfills all needs. (3) We need to have perseverance in our petitions before God ([[MAT.15:21]]-28). (4) The intercessions of the righteous have great power ([[JAS.5:16]])."
     },
     {
-      "source_file": "staging/validated/OT/ECC_footnotes.md",
-      "line_number": 284,
+      "source_file": "study/footnotes/OT/ECC_footnotes.md",
+      "line_number": 227,
       "raw_match": "[[MAT.15:26]]",
       "reference_type": "wikilink",
-      "context": "The living dog is an image of the Gentile believers ([[MAT.15:26]], [[MAT.15:27]]), and the dead lion"
+      "context": "The living dog is an image of the Gentile believers ([[MAT.15:26]], [[MAT.15:27]]), and the dead lion images the nation of Israel."
     },
     {
-      "source_file": "staging/validated/OT/RUT_footnotes.md",
-      "line_number": 111,
+      "source_file": "study/footnotes/OT/RUT_footnotes.md",
+      "line_number": 87,
       "raw_match": "[[MAT.15:21]]-28",
       "reference_type": "wikilink_range",
-      "context": "Like the Canaanite woman in [[MAT.15:21]]-28, Ruth acknowledges that she does not"
+      "context": "Like the Canaanite woman in [[MAT.15:21]]-28, Ruth acknowledges that she does not deserve Boaz's favor because she is a stranger. Like Christ, Boaz blesses her with his favor and protection."
     }
   ]
 }

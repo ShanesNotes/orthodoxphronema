@@ -2,15 +2,25 @@
   "anchor_id": "DAN.12:7",
   "canon_uri": "canon/OT/DAN.md#DAN.12:7",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Then I heard from the man clothed in fine linen who was above the water of the river, as he held up his right hand and his left hand to heaven and swore by Him who lives forever that it would be for a time, times, and half a time. Thus when the dispersion is ended, they shall know all these things.",
+  "pericope": {
+    "id": "DAN.P035",
+    "title": "Bel Is Deposed",
+    "range": "DAN.12:7-13:20",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/REV_footnotes.md",
-      "line_number": 1467,
+      "source_file": "study/footnotes/NT/REV_footnotes.md",
+      "line_number": 912,
       "raw_match": "[[DAN.12:7]]",
       "reference_type": "wikilink",
-      "context": "The angel, lifting his hand in the form for taking an oath (see [[GEN.14:22]]; [[DAN.12:7]]),"
+      "context": "The angel, lifting his hand in the form for taking an oath (see [[GEN.14:22]]; [[DAN.12:7]]), swears that the fullness of time has arrived and God's plan for history (the mystery of God, v. 7) is to be completed. This recalls [[PSA.118:126]], proclaimed by the deacon at the beginning of the Divine Liturgy: \"It is time for the Lord to act!\" as an answer to the question of the martyrs dwelling under the altar (6:10-11). Lives forever and ever (v. 6) is literally \"unto ages of ages,\" the closing phrase of most Orthodox Christian prayers."
     }
   ]
 }

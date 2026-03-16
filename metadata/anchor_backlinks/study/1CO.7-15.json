@@ -2,15 +2,25 @@
   "anchor_id": "1CO.7:15",
   "canon_uri": "canon/NT/1CO.md#1CO.7:15",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "But if the unbeliever departs, let him depart; brother or asister is not under bondage in such cases. But God has called us to peace.",
+  "pericope": {
+    "id": "1CO.P016",
+    "title": "Concerning Marriage",
+    "range": "1CO.6:20-7:23",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/MAT_footnotes.md",
-      "line_number": 2709,
+      "source_file": "study/footnotes/NT/MAT_footnotes.md",
+      "line_number": 1747,
       "raw_match": "[[1CO.7:12]]-16",
       "reference_type": "wikilink_range",
-      "context": "cut off ties because of the believer's faith (see [[1CO.7:12]]-16). Believers are promised a"
+      "context": "Christ is not commanding believers to divorce spouses and abandon children. According to St. John Chrysostom, this refers to keeping faith under persecution even if it means to lose one's family. It also means to accept that unbelieving family members may cut off ties because of the believer's faith (see [[1CO.7:12]]-16). Believers are promised a hundredfold of houses and relatives not in an earthly sense, but in a spiritual sense-- the fathers and mothers of the Church, our brothers and sisters in Christ, and houses of worship and fellowship."
     }
   ]
 }

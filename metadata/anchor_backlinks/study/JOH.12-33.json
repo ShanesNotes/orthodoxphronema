@@ -2,15 +2,25 @@
   "anchor_id": "JOH.12:33",
   "canon_uri": "canon/NT/JOH.md#JOH.12:33",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "This He said, signifying by what death He would die.",
+  "pericope": {
+    "id": "JOH.P043",
+    "title": "Judgment of This World: The Cross",
+    "range": "JOH.12:29-12:33",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/REV_footnotes.md",
-      "line_number": 1453,
+      "source_file": "study/footnotes/NT/REV_footnotes.md",
+      "line_number": 903,
       "raw_match": "[[JOH.12:27]]-33",
       "reference_type": "wikilink_range",
-      "context": "divine voice ([[PSA.28:3]]-9; [[JOH.12:27]]-33), a fullness of terror, power, and magnificence. In"
+      "context": "The angel's voice, like a lion's roar, reminds us of God readying Himself for judgment ([[JER.27:44]]; [[AMO.1:2]]; Joel 4:16). The seven thunders probably refer to the divine voice ([[PSA.28:3]]-9; [[JOH.12:27]]-33), a fullness of terror, power, and magnificence. In [[DAN.12:4]], God tells the prophet to seal up (v. 4) what has been written in his book. So, too, St. John is told, regarding what the seven thunders have revealed. This command not to write down the utterance shows John's revelation does not exhaust divine decrees for humanity: undisclosed mysteries remain ([[2CO.12:4]])."
     }
   ]
 }

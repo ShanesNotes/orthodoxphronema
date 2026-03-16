@@ -2,15 +2,25 @@
   "anchor_id": "1PE.5:4",
   "canon_uri": "canon/NT/1PE.md#1PE.5:4",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "and when the Chief Shepherd appears, you will receive the crown of glory that does not fade away.",
+  "pericope": {
+    "id": "1PE.P016",
+    "title": "Suffering as the Church",
+    "range": "1PE.4:19-5:10",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/REV_footnotes.md",
-      "line_number": 437,
+      "source_file": "study/footnotes/NT/REV_footnotes.md",
+      "line_number": 269,
       "raw_match": "[[1PE.5:4]]",
       "reference_type": "wikilink",
-      "context": "([[PHP.3:14]]; [[2TI.2:5]]; [[1PE.5:4]]), is the reward of eternal life granted to those who conquer in"
+      "context": "The persecution will be completed in ten days, a limited time likely not meant to be taken literally, and some may undergo martyrdom. Christ encourages faithfulness to the end. The crown of life, an allusion to the wreath awarded to a victor in an arena ([[PHP.3:14]]; [[2TI.2:5]]; [[1PE.5:4]]), is the reward of eternal life granted to those who conquer in Christ. The second death (v. 11) indicates eternal damnation, the \"lake of fire,\" wherein sinners will receive their reward of final and lasting estrangement from God (20:6, 14, 15; 21:8)."
     }
   ]
 }

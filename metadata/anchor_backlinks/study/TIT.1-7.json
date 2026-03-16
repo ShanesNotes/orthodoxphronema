@@ -2,15 +2,25 @@
   "anchor_id": "TIT.1:7",
   "canon_uri": "canon/NT/TIT.md#TIT.1:7",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "For a bishop must be blameless, as a steward of God, not self-willed, not quick-tempered, not given to wine, not violent, not greedy for money,",
+  "pericope": {
+    "id": "TIT.P002",
+    "title": "Ordination of Sound Elders",
+    "range": "TIT.1:4-1:7",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/PHP_footnotes.md",
-      "line_number": 33,
+      "source_file": "study/footnotes/NT/PHP_footnotes.md",
+      "line_number": 23,
       "raw_match": "[[TIT.1:7]]-9",
       "reference_type": "wikilink_range",
-      "context": "qualifications for the office of bishop ([[1TI.3:1]]-7; [[TIT.1:7]]-9)."
+      "context": "This is the only epistle in which St. Paul includes the clergy, the bishops and deacons, in his address. St. John Chrysostom says this is because it was the clergy in Philippi who collected the funds Paul so badly needed, and sent them to him by Epaphroditus. Bishops are the leading presbyters. By the time this letter was written, around AD 63, not only were bishops present in Philippi, but James was presiding over the church in Jerusalem ([[ACT.15:13]]) and tradition reveals that Peter was bishop in Antioch--and later in Rome. (Tradition sometimes refers to the men Peter designated his successors in those places as the \"first\" bishops, affirming the difference between the apostles and the overseers they appointed.) Paul's pastoral epistles outline the qualifications for the office of bishop ([[1TI.3:1]]-7; [[TIT.1:7]]-9)."
     }
   ]
 }

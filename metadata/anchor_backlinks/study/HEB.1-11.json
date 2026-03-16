@@ -2,15 +2,25 @@
   "anchor_id": "HEB.1:11",
   "canon_uri": "canon/NT/HEB.md#HEB.1:11",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "They will perish, but You remain; And they will all grow old like a garment;",
+  "pericope": {
+    "id": "HEB.P002",
+    "title": "Christ Without Beginning, Creator of All",
+    "range": "HEB.1:10-1:13",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/PSA_footnotes.md",
-      "line_number": 155,
+      "source_file": "study/footnotes/OT/PSA_footnotes.md",
+      "line_number": 98,
       "raw_match": "[[HEB.1:10]]-12",
       "reference_type": "wikilink_range",
-      "context": "18:1-4; 21:15, 16). (3) He is the Creator of the universe (v. 4; see also [[HEB.1:10]]-12). (4)"
+      "context": "Ps 8 speaks of the Incarnate Lord: (1) His name is wondrous... in all the earth, and He is exalted far beyond the heavens (v. 2; see also [[PHP.2:9]]-11). (2) He brings forth praise from His humble people, who are likened to little children (v. 3; see also Mt 18:1-4; 21:15, 16). (3) He is the Creator of the universe (v. 4; see also [[HEB.1:10]]-12). (4) He remembered man and his mortal nature, for example, his fall into death and decay in the grave, and thus, became incarnate to redeem him from death and to crown him with glory and honor (vv. 5-9; see also [[HEB.2:6]]-10). (5) Because of the things mentioned above, the incarnate Lord's name is wondrous in all the earth."
     }
   ]
 }

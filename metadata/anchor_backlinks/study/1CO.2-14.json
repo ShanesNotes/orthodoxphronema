@@ -2,36 +2,46 @@
   "anchor_id": "1CO.2:14",
   "canon_uri": "canon/NT/1CO.md#1CO.2:14",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "But the natural man does not receive the things of the Spirit of God, for they are foolishness to him; nor can he know them, because they are spiritually discerned.",
+  "pericope": {
+    "id": "1CO.P008",
+    "title": "Understanding Unity: Wisdom of the Spirit",
+    "range": "1CO.2:5-3:3",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/2PE_footnotes.md",
-      "line_number": 225,
+      "source_file": "study/footnotes/NT/2PE_footnotes.md",
+      "line_number": 145,
       "raw_match": "[[1CO.2:14]]",
       "reference_type": "wikilink",
-      "context": "are natural cannot understand spiritual things ([[1CO.2:14]]) and will be destroyed, as"
+      "context": "False teachers are condemned for both their words and their actions. Those who are natural cannot understand spiritual things ([[1CO.2:14]]) and will be destroyed, as false prophets have been in the past. For the story of Balaam (v. 15), see [[NUM.22:1]]-25:9; 31:8, 16; [[DEU.23:4]], [[DEU.23:5]]; [[JOS.13:22]]; Jude 11."
     },
     {
-      "source_file": "staging/validated/NT/EPH_footnotes.md",
-      "line_number": 85,
+      "source_file": "study/footnotes/NT/EPH_footnotes.md",
+      "line_number": 53,
       "raw_match": "[[1CO.2:10]]-16",
       "reference_type": "wikilink_range",
-      "context": "made known to us through the apostles (3:1-5; [[1CO.2:6]], [[1CO.2:7]], [[1CO.2:10]]-16; 4:1). The mystery is"
+      "context": "The sacraments of baptism (redemption) and the Eucharist (His blood) are alluded to as the necessary foundation for drawing near to God. Redemption has a technical meaning relative to the freeing of slaves. Here, the bondage is to sins; the act of releasing is forgiveness; the price of redemption is blood--the human life of Christ given over to death for the sake of new life. This beginning of life in Christ is not merely legal, nor instantaneous, but living and dynamic. 1:9, 10 The mystery is the plan of salvation, the gospel, the Kingdom of God, the Church. This mystery centers on Christ Himself ([[COL.2:2]]), from the Incarnation ([[1TI.3:16]]), to the Cross ([[1CO.2:8]]), to the restoration and culmination of all things (v. 10). It is the fullness (v. 10) of all, not only for humanity but for the whole creation. Although it was announced by the prophets ([[ROM.16:25]], [[ROM.16:26]]), God revealed it through Christ, and it is made known to us through the apostles (3:1-5; [[1CO.2:6]], [[1CO.2:7]], [[1CO.2:10]]-16; 4:1). The mystery is made manifest in history by the fact that Gentiles and Jews compose one body (3:6; Col 1:26-28). The mystery is experienced in the sacraments of the Church, which are called the \"mysteries.\""
     },
     {
-      "source_file": "staging/validated/OT/2MA_footnotes.md",
-      "line_number": 321,
+      "source_file": "study/footnotes/OT/2MA_footnotes.md",
+      "line_number": 276,
       "raw_match": "[[1CO.2:14]]",
       "reference_type": "wikilink",
-      "context": "unbelievers do not understand ([[1CO.2:14]])."
+      "context": "Eleazar is willing to die for God's holy laws (v. 28). This is a mystery to the pagan-minded, who only see blind fanaticism in the righteous. St. Paul explains why unbelievers do not understand ([[1CO.2:14]])."
     },
     {
-      "source_file": "staging/validated/OT/WIS_footnotes.md",
-      "line_number": 113,
+      "source_file": "study/footnotes/OT/WIS_footnotes.md",
+      "line_number": 101,
       "raw_match": "[[1CO.2:14]]",
       "reference_type": "wikilink",
-      "context": "the wise (see [[1CO.2:14]])."
+      "context": "A repeated theme in this book is that the ungodly do not understand the ways of the wise (see [[1CO.2:14]])."
     }
   ]
 }

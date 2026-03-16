@@ -2,29 +2,39 @@
   "anchor_id": "LUK.13:29",
   "canon_uri": "canon/NT/LUK.md#LUK.13:29",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "They will come from the east and the west, from the north and the south, and sit down in the kingdom of God.",
+  "pericope": {
+    "id": "LUK.P067",
+    "title": "Strive to Be Saved",
+    "range": "LUK.13:21-13:29",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/MAT_footnotes.md",
-      "line_number": 1239,
+      "source_file": "study/footnotes/NT/MAT_footnotes.md",
+      "line_number": 800,
       "raw_match": "[[LUK.13:24]]-30",
       "reference_type": "wikilink_range",
-      "context": "Luke's version ([[LUK.13:24]]-30) is more eschatological, referring to the end of the age."
+      "context": "The description of the two ways was widespread in Judaism ([[DEU.30:15]]-20; Ps 1; Pr 4:17, 18; 12:28; 15:23; WSir 15:17) and in early Christian writings (Didache, Barnabas). Luke's version ([[LUK.13:24]]-30) is more eschatological, referring to the end of the age. Because we wrestle against sins and human weaknesses as well as spiritual forces of evil ([[EPH.6:12]]), entering the Kingdom is the more difficult way."
     },
     {
-      "source_file": "staging/validated/NT/REV_footnotes.md",
-      "line_number": 771,
+      "source_file": "study/footnotes/NT/REV_footnotes.md",
+      "line_number": 482,
       "raw_match": "[[LUK.13:25]]-30",
       "reference_type": "wikilink_range",
-      "context": "of the feast of the Kingdom ([[LUK.13:25]]-30)."
+      "context": "I will... dine with him if there is cooperation, the synergy of an open door. God does not force anyone to cooperate with Him. He keeps knocking, awaiting a response. This promise looks toward both the messianic banquet, the wedding supper of the Lamb of God (19:9; [[LUK.22:30]]), and the Holy Eucharist, which is a foretaste of the heavenly feast. Faithful disciples are promised they will eat and drink at table with Him ([[LUK.22:28]]-30) in the ultimate reality of the Kingdom of heaven. Note the parallels with the parable of the bridegroom ([[MAT.25:1]]-13) and with the teaching about those who will shut themselves out of the feast of the Kingdom ([[LUK.13:25]]-30)."
     },
     {
-      "source_file": "staging/validated/NT/REV_footnotes.md",
-      "line_number": 2645,
+      "source_file": "study/footnotes/NT/REV_footnotes.md",
+      "line_number": 1631,
       "raw_match": "[[LUK.13:29]]",
       "reference_type": "wikilink",
-      "context": "foretaste of the Kingdom (see [[MAT.26:29]]; [[LUK.13:29]]; 22:30). The Orthodox sing on Pascha"
+      "context": "For the use of the term Omnipotent (Gr. pantokrator), see 1:8; 4:8; 11:17; 15:3; 16:7, 14; 19:15; 21:22, as well as [[HOS.12:6]]; [[AMO.4:13]]. It is used in the NT only in Revelation and once in [[2CO.6:18]], in a quote from the OT. The word means \"almighty, all-powerful.\" 19:6-9 At the Passover, deliverance from Egypt--the \"Babylon\" of Moses' day--was united with the theme of Israel's betrothal to the Lord (for further nuptial imagery, see Song of Songs; [[HOS.2:19]]; [[ROM.7:1]]-6). For marriage is a symbol of the union of God with His people (see Is 54:1-8; [[EZK.16:7]]-14; [[HOS.2:1]]-23), of Christ with His Church ([[MAT.22:1]]-14; [[2CO.11:2]]; [[EPH.5:22]]-32). This union is fulfilled in the rest of Revelation: Jesus, the Passover Lamb ([[1CO.5:7]]) whose death has ransomed the New Israel, is also the divine Bridegroom ([[MAT.22:2]]; 25:1-13). A wedding in the Middle East consisted of two parts: the betrothal and the wedding proper. The wedding itself began with the procession of the groom to the bride's home and concluded with the procession of all back to the bridegroom's home for the wedding supper. By analogy, the Church is now betrothed to Christ by faith. She awaits the coming of the Bridegroom for the marriage supper of the Lamb (v. 9), the final eschatological union of Christ and His Church. The recompense to the faithful for having remained steadfast and pure under persecution (see [[MAT.5:12]]; [[1PE.4:13]]) is to be clothed with fine linen, clean and bright (v. 8; see 3:4, 5; 7:14)--the clothes of grace, holiness, and incorruption--and to participate in this mystical supper both as guest (v. 9) and as bride (in apocalyptic literature it is not uncommon to find mixed images). This supper has already begun in the Eucharist, a foretaste of the Kingdom (see [[MAT.26:29]]; [[LUK.13:29]]; 22:30). The Orthodox sing on Pascha (Easter): \"Shine, shine, O New Jerusalem; the glory of the Lord has shone on you.... Grant that we may evermore perfectly partake of You in the never-ending Day of Your Kingdom.\""
     }
   ]
 }

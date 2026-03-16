@@ -2,15 +2,25 @@
   "anchor_id": "EPH.5:8",
   "canon_uri": "canon/NT/EPH.md#EPH.5:8",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "For you were once darkness, but now you are light in the Lord. Walk as children of light",
+  "pericope": {
+    "id": "EPH.P013",
+    "title": "Walk as Children of Light",
+    "range": "EPH.5:2-5:14",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/JOH_footnotes.md",
-      "line_number": 65,
+      "source_file": "study/footnotes/NT/JOH_footnotes.md",
+      "line_number": 43,
       "raw_match": "[[EPH.5:8]]",
       "reference_type": "wikilink",
-      "context": "believers themselves become children of the light (12:36; [[EPH.5:8]]; [[1TH.5:5]]). Moses saw"
+      "context": "Only God has life in Himself. Thus, the Word, being God, is the source of life, together with the Father and the Holy Spirit. The life was the light of men: John now introduces mankind as receiver of the divine light. By participating in the life of the Son, believers themselves become children of the light (12:36; [[EPH.5:8]]; [[1TH.5:5]]). Moses saw the divine light in the burning bush ([[EXO.3:2]]); the whole nation saw it at the Red Sea (Ex 13:21); Isaiah saw it in his heavenly vision (Is 6:1-5); and three apostles saw it at the Transfiguration ([[MAT.17:1]]-5)."
     }
   ]
 }

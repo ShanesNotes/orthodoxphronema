@@ -2,12 +2,22 @@
   "anchor_id": "PSA.103:28",
   "canon_uri": "canon/OT/PSA.md#PSA.103:28",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "When You give it to them, they shall gather it; When You open Your hand, all things shall be filled with Your goodness.",
+  "pericope": {
+    "id": "PSA.P103",
+    "title": "Psalm 103",
+    "range": "PSA.103:1-103:35",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/JOL_footnotes.md",
-      "line_number": 215,
+      "source_file": "study/footnotes/OT/JOL_footnotes.md",
+      "line_number": 146,
       "raw_match": "[[PSA.103:28]]",
       "reference_type": "wikilink",
       "context": "Just as all the beasts look to God to give them their food in due season ([[PSA.103:27]]), so they do here, since He will fill them with every good thing by His hand ([[PSA.103:28]])."

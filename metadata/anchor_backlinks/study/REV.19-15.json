@@ -2,15 +2,25 @@
   "anchor_id": "REV.19:15",
   "canon_uri": "canon/NT/REV.md#REV.19:15",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Now out of His mouth goes a sharp a sword, that with it He should strike the nations. And He Himself will rule them with a rod of iron. He Himself treads the winepress of the fierceness and wrath of Almighty God.",
+  "pericope": {
+    "id": "REV.P055",
+    "title": "The Word and His Army",
+    "range": "REV.19:10-19:15",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/JDG_footnotes.md",
-      "line_number": 219,
+      "source_file": "study/footnotes/OT/JDG_footnotes.md",
+      "line_number": 173,
       "raw_match": "[[REV.19:15]]",
       "reference_type": "wikilink",
-      "context": "rod of truth ([[REV.19:15]]), laying aside the old man together with his deeds, are gathered in"
+      "context": "St. Ambrose sees the terebinth tree as a type of the cross, the winepress as the Church, the wheat as the saints. He writes, \"For these elect, as though trained with the rod of truth ([[REV.19:15]]), laying aside the old man together with his deeds, are gathered in the Church as in a winepress... for from her wells forth the juice of the heavenly vine.\" Gideon prefigures Christ as a deliverer of those in bondage."
     }
   ]
 }

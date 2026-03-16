@@ -2,15 +2,25 @@
   "anchor_id": "MAT.5:33",
   "canon_uri": "canon/NT/MAT.md#MAT.5:33",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "'Again you have heard that it was said to those of old, 'You shall not swear falsely, but shall perform your oaths to the Lord.'",
+  "pericope": {
+    "id": "MAT.P013",
+    "title": "Righteousness Illustrated",
+    "range": "MAT.5:20-5:47",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/JAS_footnotes.md",
-      "line_number": 429,
+      "source_file": "study/footnotes/NT/JAS_footnotes.md",
+      "line_number": 271,
       "raw_match": "[[MAT.5:33]]-37",
       "reference_type": "wikilink_range",
-      "context": "faith--our integrity, truthfulness between a person and God. See [[MAT.5:33]]-37."
+      "context": "A polemic against a bad custom stemming from bad faith: the common practice of swearing by God or something that signifies God (as if swearing were a proof of truthfulness). We may swear when required to, but the solution to lack of trust is good faith--our integrity, truthfulness between a person and God. See [[MAT.5:33]]-37."
     }
   ]
 }

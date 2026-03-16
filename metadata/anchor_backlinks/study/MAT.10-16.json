@@ -1,0 +1,26 @@
+{
+  "anchor_id": "MAT.10:16",
+  "canon_uri": "canon/NT/MAT.md#MAT.10:16",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-16T02:01:16+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "'Behold, I send you out as sheep in the midst of wolves. Therefore be wise as serpents and harmless as doves.",
+  "pericope": {
+    "id": "MAT.P028",
+    "title": "Persecution and Martyrdom",
+    "range": "MAT.10:15-10:22",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
+  "links": [
+    {
+      "source_file": "study/footnotes/OT/NEH_footnotes.md",
+      "line_number": 84,
+      "raw_match": "[[MAT.10:16]]",
+      "reference_type": "wikilink",
+      "context": ", 22), in the same spirit as greeting the bishop with \"Many years to you, O Master,\" or, \"Master, bless.\" 2:4 Nehemiah continues in prayer, silently and in brief, to the God of Heaven, for Artaxerxes had decreed that Jerusalem not be rebuilt unless by his order (2:19). 2:5 Nehemiah moves from intercessor to mediator. It was crucial for him both to be prayerful and to act. 2:7-8 Sensing there would be opposition, Nehemiah asks for letters to give him safe passage and timber to complete the work of rebuilding the wall and the gates of Jerusalem. The good hand of God had touched the heart of the king, who came to understand the benefits of a loyal Jewish ally in Judah. 2:10 Sanballat and Tobiah, together with Geshem the Arab (v. 19), will be Nehemiah's constant detractors throughout the rebuilding of the wall. According to an ancient papyrus, Sanballat later became governor of Samaria. 2:11-16 Jesus warned His servants to be \"wise as serpents and harmless as doves\" ([[MAT.10:16]])."
+    }
+  ]
+}

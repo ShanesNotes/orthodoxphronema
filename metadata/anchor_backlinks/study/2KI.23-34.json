@@ -2,15 +2,25 @@
   "anchor_id": "2KI.23:34",
   "canon_uri": "canon/OT/2KI.md#2KI.23:34",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Then Pharaoh Necho made Eliakim the son of Josiah king in place of his father Josiah and changed his name to Jehoiakim. And Pharaoh took Jehoahaz and went to Egypt, and he died there.",
+  "pericope": {
+    "id": "2KI.P064",
+    "title": "Jehoiakim Is King of Judah",
+    "range": "2KI.23:34-23:36",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/EZK_footnotes.md",
-      "line_number": 262,
+      "source_file": "study/footnotes/OT/EZK_footnotes.md",
+      "line_number": 271,
       "raw_match": "[[2KI.23:34]]",
       "reference_type": "wikilink",
-      "context": "Jehoiachin, the last kings to reign in Judah ([[2KI.23:34]]; 24:12). The lamentation is"
+      "context": "The mother lion refers to Judah. The two young lions (v. 5) are Jehoahaz and Jehoiachin, the last kings to reign in Judah ([[2KI.23:34]]; 24:12). The lamentation is taken up because the Davidic line, through which the Messiah was to come, was feared to end. But the faithful Jews would have found renewed hope in this amazing prophecy, for it had been promised long ago by their father Jacob that the rod of strength, the scepter (vv. 11, 14), would not depart from Judah until the Messiah came ([[GEN.49:9]]-12)."
     }
   ]
 }

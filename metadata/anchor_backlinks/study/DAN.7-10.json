@@ -2,29 +2,39 @@
   "anchor_id": "DAN.7:10",
   "canon_uri": "canon/OT/DAN.md#DAN.7:10",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "A river of fire flowed from before Him. Thousands and thousands ministered to Him, and countless thousands stood before Him. The court was in session, and the books were opened.",
+  "pericope": {
+    "id": "DAN.P023",
+    "title": "Daniel's Vision of Four Beasts",
+    "range": "DAN.6:29-7:13",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/REV_footnotes.md",
-      "line_number": 853,
+      "source_file": "study/footnotes/NT/REV_footnotes.md",
+      "line_number": 531,
       "raw_match": "[[DAN.7:10]]",
       "reference_type": "wikilink",
-      "context": "angels surround Him ([[DAN.7:10]]) as a sea of purity."
+      "context": "The twenty-four elders are usually interpreted to be elders of the old and new covenants: the twelve sons of Jacob and the twelve apostles, the fullness of both covenants. They are the foundation of the people of God in both covenants (7:4; Mt 19:28). These elders continually fall down before God in worship (5:14; 11:16; 19:4), in adoration and praise (4:11; 5:9, 10; 11:17, 18; 19:4). 4:6, 7 The sea of glass ([[EZK.1:22]]-26) surrounds God's throne, for God is approached by fallen men only through waters of death that produce life. As Israel journeyed through the Red Sea as if on hard ground, so Christians pass through the waters of baptism, entering into Christ's death and Resurrection. If the sea is not of glass, there is death, not new life. Also, God is vast and overpowering, as a sea of light would be. The hosts of angels surround Him ([[DAN.7:10]]) as a sea of purity. The four living creatures are angelic beings adapted from [[EZK.1:4]]-20 and Is 6:2. Their number is that of the whole world, the cosmos, and thus they portray creation, beasts, men, and angels as the Kingdom of God. Traditional iconography depicts them as symbols for the four evangelists. Their worship of God is unceasing, an ideal inspiring the round-the-clock services of Orthodox monastic communities."
     },
     {
-      "source_file": "staging/validated/NT/REV_footnotes.md",
-      "line_number": 2867,
+      "source_file": "study/footnotes/NT/REV_footnotes.md",
+      "line_number": 1766,
       "raw_match": "[[DAN.7:10]]",
       "reference_type": "wikilink",
-      "context": "confronted with their works. The books of judgment ([[DAN.7:10]]) contain a record of"
+      "context": "Standing before God at His throne at the final judgment, the dead are confronted with their works. The books of judgment ([[DAN.7:10]]) contain a record of men's deeds; their own works will judge them ([[PSA.61:13]]; [[JER.17:6]]). This judging of believers' works is a common NT theme ([[MAT.16:27]]; [[ROM.2:6]]; [[2CO.5:10]]; [[1PE.1:17]]; see also the Anaphora of the Liturgy of St. Basil and the hymns for the Sunday of the Last Judgment). In contrast is the Book of Life. It contains the names of all saved by grace (see [[EXO.32:32]]; Is 4:3; [[DAN.12:1]], [[DAN.12:2]])--not that they have no works, but that God's mercy is far greater in comparison. The Orthodox liturgy thus petitions God for a \"good account before the dread judgment seat of Christ.\""
     },
     {
-      "source_file": "staging/validated/OT/MAL_footnotes.md",
-      "line_number": 209,
+      "source_file": "study/footnotes/OT/MAL_footnotes.md",
+      "line_number": 158,
       "raw_match": "[[DAN.7:10]]",
       "reference_type": "wikilink",
-      "context": "name. Their names are in a book of remembrance ([[EXO.32:32]]-34; Is 4:3; [[DAN.7:10]])."
+      "context": "Contrast such people with those who feared the Lord and reverenced His name. Their names are in a book of remembrance ([[EXO.32:32]]-34; Is 4:3; [[DAN.7:10]])."
     }
   ]
 }

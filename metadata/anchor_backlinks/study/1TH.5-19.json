@@ -2,22 +2,32 @@
   "anchor_id": "1TH.5:19",
   "canon_uri": "canon/NT/1TH.md#1TH.5:19",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Do not quench the Spirit.",
+  "pericope": {
+    "id": "1TH.P009",
+    "title": "Reminders Concerning Unity",
+    "range": "1TH.5:11-5:21",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/2TI_footnotes.md",
-      "line_number": 27,
+      "source_file": "study/footnotes/NT/2TI_footnotes.md",
+      "line_number": 22,
       "raw_match": "[[1TH.5:19]]",
       "reference_type": "wikilink",
-      "context": "feelings of fear or timidity. We do not \"quench the Spirit\" ([[1TH.5:19]]), but act with power"
+      "context": "While any Christian may be persecuted ([[JOH.15:20]]; see [[MAT.5:11]], [[MAT.5:12]] and note), we reject feelings of fear or timidity. We do not \"quench the Spirit\" ([[1TH.5:19]]), but act with power and courage (2:12; see [[MAT.10:33]]; [[LUK.9:26]])."
     },
     {
-      "source_file": "staging/validated/OT/EXO_footnotes.md",
-      "line_number": 1219,
+      "source_file": "study/footnotes/OT/EXO_footnotes.md",
+      "line_number": 941,
       "raw_match": "[[1TH.5:19]]",
       "reference_type": "wikilink",
-      "context": "Spirit. St. Paul also said, \"Do not quench the Spirit\" ([[1TH.5:19]]), for so shall we be"
+      "context": ", 2 Moses alone could draw near to God because he had the unquenchable grace of the Spirit. St. Paul also said, \"Do not quench the Spirit\" ([[1TH.5:19]]), for so shall we be partakers of Christ if we hold fast to the end the Spirit given to us at the beginning. By quenching the Spirit, he did not mean the Spirit is placed in the power of men and is able to suffer anything from them. Rather, evil and unthankful people are such who wish to quench Him (AthanG)."
     }
   ]
 }

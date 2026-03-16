@@ -2,15 +2,25 @@
   "anchor_id": "ACT.13:33",
   "canon_uri": "canon/NT/ACT.md#ACT.13:33",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "God has fulfilled this for us their children, in that He has raised up Jesus. As it is also written in the second Psalm:",
+  "pericope": {
+    "id": "ACT.P044",
+    "title": "The Church in Pisidia",
+    "range": "ACT.13:12-13:42",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/PSA_footnotes.md",
-      "line_number": 47,
+      "source_file": "study/footnotes/OT/PSA_footnotes.md",
+      "line_number": 32,
       "raw_match": "[[ACT.13:33]]",
       "reference_type": "wikilink",
-      "context": "Resurrection from the dead ([[ACT.13:32]], [[ACT.13:33]]). But Jesus is also the King over the nations"
+      "context": "The Lord in Ps 2 is God the Father, and Jesus is called His anointed (v. 2), which means \"His Christ.\" Jesus is also called King (v. 6), which is declared by the Father's eternal decree. Jesus is King without beginning and without end, and He is King over His holy hill of Zion, which is the Church. Jesus is also the Son of God the Father (v. 7), for He was begotten from the Father outside of time and \"before all worlds\" (Creed). He was also begotten in these last times by the Holy Spirit and the Virgin Mary, \"for us men and for our salvation\" (Creed). Then again, He was begotten in the sense of His Resurrection from the dead ([[ACT.13:32]], [[ACT.13:33]]). But Jesus is also the King over the nations (v. 8), which in due time, He will shatter like a potter's vessel (v. 9) when He restores heaven and earth, and reigns eternally with His saints in \"the world to come\" (Creed). Therefore, the rulers of the nations are called to serve this King, or they will be judged; but blessed are all who trust in Him (v. 12)."
     }
   ]
 }

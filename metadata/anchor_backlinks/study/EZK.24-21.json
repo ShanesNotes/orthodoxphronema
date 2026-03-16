@@ -2,12 +2,22 @@
   "anchor_id": "EZK.24:21",
   "canon_uri": "canon/OT/EZK.md#EZK.24:21",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "'Speak to the house of Israel, 'Thus says the Lord: 'Behold, I shall desecrate My sanctuary, the boast of your strength, the object of your desire, over which your souls spare nothing; and your sons and daughters whom you left will fall by the sword.",
+  "pericope": {
+    "id": "EZK.P035",
+    "title": "Death of Ezekiel's Wife",
+    "range": "EZK.24:14-24:27",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/MIC_footnotes.md",
-      "line_number": 53,
+      "source_file": "study/footnotes/OT/MIC_footnotes.md",
+      "line_number": 43,
       "raw_match": "[[EZK.24:17]]-23",
       "reference_type": "wikilink_range",
       "context": "Barefoot and naked: See [[EZK.24:17]]-23; Is 20:2; 2Kg 15:30."

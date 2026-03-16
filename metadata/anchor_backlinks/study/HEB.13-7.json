@@ -2,22 +2,32 @@
   "anchor_id": "HEB.13:7",
   "canon_uri": "canon/NT/HEB.md#HEB.13:7",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "What can man do to me?' Remember those who rule over you, who have spoken the word of God to you, whose faith follow, considering the outcome of their conduct.",
+  "pericope": {
+    "id": "HEB.P036",
+    "title": "Remember Those Who Rule Over You",
+    "range": "HEB.13:7-13:7",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/1PE_footnotes.md",
-      "line_number": 495,
+      "source_file": "study/footnotes/NT/1PE_footnotes.md",
+      "line_number": 326,
       "raw_match": "[[HEB.13:7]]",
       "reference_type": "wikilink",
-      "context": "the mighty hand of God (see [[1TH.5:12]], [[1TH.5:13]]; [[HEB.13:7]], [[HEB.13:17]])."
+      "context": "Humility is the foundation of virtue; it is learned through submission and obedience to godly elders. In submitting to one another, we humble ourselves under the mighty hand of God (see [[1TH.5:12]], [[1TH.5:13]]; [[HEB.13:7]], [[HEB.13:17]])."
     },
     {
-      "source_file": "staging/validated/OT/DEU_footnotes.md",
-      "line_number": 50,
+      "source_file": "study/footnotes/OT/DEU_footnotes.md",
+      "line_number": 39,
       "raw_match": "[[HEB.13:7]]",
       "reference_type": "wikilink",
-      "context": "outcome of their conduct\" ([[HEB.13:7]])."
+      "context": "The chosen leaders were to be wise, understanding, and knowledgeable. These three traits should also characterize leaders in the Church: \"Remember those who rule over you, who have spoken the word of God to you, whose faith follow, considering the outcome of their conduct\" ([[HEB.13:7]])."
     }
   ]
 }

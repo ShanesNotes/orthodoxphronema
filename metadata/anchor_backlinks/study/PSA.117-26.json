@@ -2,15 +2,25 @@
   "anchor_id": "PSA.117:26",
   "canon_uri": "canon/OT/PSA.md#PSA.117:26",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Blessed is he who comes in the name of the Lord; We blessed you from the house of the Lord.",
+  "pericope": {
+    "id": "PSA.P117",
+    "title": "Psalm 117",
+    "range": "PSA.117:1-117:29",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/MAT_footnotes.md",
-      "line_number": 2869,
+      "source_file": "study/footnotes/NT/MAT_footnotes.md",
+      "line_number": 1843,
       "raw_match": "[[PSA.117:26]]",
       "reference_type": "wikilink",
-      "context": "This cry comes from [[PSA.117:25]], [[PSA.117:26]], which was associated with messianic expectation."
+      "context": "This cry comes from [[PSA.117:25]], [[PSA.117:26]], which was associated with messianic expectation. It was recited daily for six days during the Feast of Tabernacles, and seven times on the seventh day as branches were waved. Hosanna means, \"Save, we pray!\""
     }
   ]
 }

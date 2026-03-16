@@ -2,12 +2,22 @@
   "anchor_id": "HEB.6:12",
   "canon_uri": "canon/NT/HEB.md#HEB.6:12",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "that you do not become sluggish, but imitate those who through faith and patience inherit the promises.",
+  "pericope": {
+    "id": "HEB.P014",
+    "title": "God Confirms the Promise by an Oath",
+    "range": "HEB.6:12-6:19",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/WIS_footnotes.md",
-      "line_number": 99,
+      "source_file": "study/footnotes/OT/WIS_footnotes.md",
+      "line_number": 89,
       "raw_match": "[[HEB.6:12]]",
       "reference_type": "wikilink",
       "context": "See [[1CO.11:1]]; [[HEB.6:12]]."

@@ -2,22 +2,32 @@
   "anchor_id": "1CO.15:42",
   "canon_uri": "canon/NT/1CO.md#1CO.15:42",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "So also is the resurrection of the dead. The body is sown in corruption, it is raised in incorruption.",
+  "pericope": {
+    "id": "1CO.P037",
+    "title": "The One Who Resurrects Us",
+    "range": "1CO.15:41-15:48",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/JOH_footnotes.md",
-      "line_number": 3405,
+      "source_file": "study/footnotes/NT/JOH_footnotes.md",
+      "line_number": 2193,
       "raw_match": "[[1CO.15:42]]-49",
       "reference_type": "wikilink_range",
-      "context": "(see [[1CO.15:42]]-49)."
+      "context": "The Sea of Tiberias is another name for the Sea of Galilee. Because Christ's resurrected body was transfigured and incorruptible, it was not visible unless He willingly showed Himself. His resurrected body is indeed human, but it is glorified in every respect and illustrates the kind of body each believer will have in the general resurrection (see [[1CO.15:42]]-49). 21:6, 7 This is the second time Christ provided a multitude of fish for these men (Lk 5:4-6). Jesus often revealed Himself after the Resurrection through words and acts that were familiar (20:16; [[LUK.24:35]]). It is through this familiar grace that our Lord is recognizable to all His followers (see also note at [[LUK.5:6]]). John, the beloved disciple, is the first to perceive that the Man on the shore is the Lord, showing that love for Christ brings spiritual insight. Peter plunging into the sea demonstrates the boldness of his faith (see note at 20:3-8)."
     },
     {
-      "source_file": "staging/validated/NT/LUK_footnotes.md",
-      "line_number": 3159,
+      "source_file": "study/footnotes/NT/LUK_footnotes.md",
+      "line_number": 2108,
       "raw_match": "[[1CO.15:35]]-44",
       "reference_type": "wikilink_range",
-      "context": "not immediately recognizable ([[JOH.20:14]]; 21:4, 12; see [[1CO.15:35]]-44). It is also able to take"
+      "context": "The nature of the resurrected body is so different from its previous state that it is not immediately recognizable ([[JOH.20:14]]; 21:4, 12; see [[1CO.15:35]]-44). It is also able to take different forms, which is what occurs here (see [[MRK.16:12]] and note). Their eyes were restrained: Christ intentionally prevents them from recognizing Him in order to expose their doubting thoughts and then cure them by means of the OT Scriptures (v. 27)."
     }
   ]
 }

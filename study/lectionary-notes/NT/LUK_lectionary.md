@@ -9,7 +9,7 @@ extracted: 2026-03-14
 
 # Lectionary Notes: LUK
 
-**1:1-15** — Lk 1:1–15, 57–68, 76, 80: This passage is read on June 24, the Feast of the Birth of John the Baptist.
+**1:1-15** — [[LUK.1:1]]–15, 57–68, 76, 80: This passage is read on June 24, the Feast of the Birth of John the Baptist.
 
 **1:5-25** — (no occasion text)
 
@@ -17,7 +17,7 @@ extracted: 2026-03-14
 
 **2:1-20** — Christ.
 
-**2:20** — Lk 2:20, 21, 40–52: This passage is read on January 1, the Feast of the Circumcision of Christ.
+**2:20** — [[LUK.2:20]], [[LUK.2:21]], [[LUK.2:40]]–52: This passage is read on January 1, the Feast of the Circumcision of Christ.
 
 **2:22-40** — This passage is read on February 2, the Feast of the Presentation of the Lord in the Temple.
 
@@ -37,7 +37,7 @@ extracted: 2026-03-14
 
 **10:22-24** — This passage is read for the commemoration of hieromartyrs.
 
-**10:38-42** — Lk 10:38–42; 11:27, 28: This passage is read on the several feasts of the Virgin Mary, on September 8, October 1, November 21, the Friday after Pascha, and August 15.
+**10:38-42** — [[LUK.10:38]]–42; 11:27, 28: This passage is read on the several feasts of the Virgin Mary, on September 8, October 1, November 21, the Friday after Pascha, and August 15.
 
 **11:47-54** — This passage is read on days commemorating holy prophets.
 

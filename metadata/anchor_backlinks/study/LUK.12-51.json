@@ -2,15 +2,25 @@
   "anchor_id": "LUK.12:51",
   "canon_uri": "canon/NT/LUK.md#LUK.12:51",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Do you suppose that I came to give peace on earth? I tell you, not at all, but rather division.",
+  "pericope": {
+    "id": "LUK.P062",
+    "title": "Against Lack of Discernment",
+    "range": "LUK.12:48-12:58",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/MAT_footnotes.md",
-      "line_number": 1675,
+      "source_file": "study/footnotes/NT/MAT_footnotes.md",
+      "line_number": 1080,
       "raw_match": "[[LUK.12:51]]",
       "reference_type": "wikilink",
-      "context": "also note at [[LUK.12:51]]."
+      "context": "Just before His most violent death on the Cross, Christ promised peace to His disciples. But the existence of evil necessitates spiritual warfare. The earth to which Christ came was under the authority of Satan ([[JOH.12:31]]; [[2CO.4:4]]). It is therefore essential that Christ wage war against the leader of vice with weapons of virtue ([[EPH.6:11]]-18). See also note at [[LUK.12:51]]."
     }
   ]
 }

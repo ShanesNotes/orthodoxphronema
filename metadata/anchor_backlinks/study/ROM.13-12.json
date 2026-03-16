@@ -2,22 +2,32 @@
   "anchor_id": "ROM.13:12",
   "canon_uri": "canon/NT/ROM.md#ROM.13:12",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "The night is far spent, the day is at hand. Therefore let us cast off the works of darkness, and let us put on the armor of light.",
+  "pericope": {
+    "id": "ROM.P037",
+    "title": "'The Day' Is at Hand",
+    "range": "ROM.13:10-13:13",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/SNG_footnotes.md",
-      "line_number": 262,
+      "source_file": "study/footnotes/OT/SNG_footnotes.md",
+      "line_number": 197,
       "raw_match": "[[ROM.13:12]]",
       "reference_type": "wikilink",
       "context": "St. Paul writes similarly to the Christians in Rome ([[ROM.13:12]])."
     },
     {
-      "source_file": "staging/validated/OT/SNG_footnotes.md",
-      "line_number": 305,
+      "source_file": "study/footnotes/OT/SNG_footnotes.md",
+      "line_number": 231,
       "raw_match": "[[ROM.13:12]]",
       "reference_type": "wikilink",
-      "context": "depart in the radiance of Christ's glory ([[ROM.13:12]])."
+      "context": "This is the dawning of the eternal day, and the shadows of ignorance and error depart in the radiance of Christ's glory ([[ROM.13:12]])."
     }
   ]
 }

@@ -2,15 +2,25 @@
   "anchor_id": "DEU.11:29",
   "canon_uri": "canon/OT/DEU.md#DEU.11:29",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Now it shall be, when the Lord your God brings you into the land you are to inherit, you shall put the blessing on Mount Gerizim and the curse on Mount Ebal.",
+  "pericope": {
+    "id": "DEU.P025",
+    "title": "Inherit the Land",
+    "range": "DEU.11:3-11:31",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/JDG_footnotes.md",
-      "line_number": 398,
+      "source_file": "study/footnotes/OT/JDG_footnotes.md",
+      "line_number": 310,
       "raw_match": "[[DEU.11:29]]",
       "reference_type": "wikilink",
-      "context": "Mount Gerizim, previously used for the offering of blessings ([[DEU.11:29]]), is now used by"
+      "context": "Mount Gerizim, previously used for the offering of blessings ([[DEU.11:29]]), is now used by Jotham to pronounce a parable of warning and a curse to the people."
     }
   ]
 }

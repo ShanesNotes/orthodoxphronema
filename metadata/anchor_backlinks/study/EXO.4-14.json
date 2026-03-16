@@ -2,15 +2,25 @@
   "anchor_id": "EXO.4:14",
   "canon_uri": "canon/OT/EXO.md#EXO.4:14",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Then the Lord was very angry with Moses, and He said, 'Is not Aaron the Levite your brother? I know he will speak for you, and indeed, he will come out to meet you; and indeed, when he sees you, he will be glad in heart.",
+  "pericope": {
+    "id": "EXO.P005",
+    "title": "Attesting Miracles",
+    "range": "EXO.3:22-4:30",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/SIR_footnotes.md",
-      "line_number": 1848,
+      "source_file": "study/footnotes/OT/SIR_footnotes.md",
+      "line_number": 1462,
       "raw_match": "[[EXO.4:13]]-15",
       "reference_type": "wikilink_range",
-      "context": "encouragement to all believers because on many occasions he stumbled ([[EXO.4:13]]-15; 5:22, 23; [[NUM.20:11]], [[NUM.20:12]] are but a few instances), yet he repented, persevered, and followed"
+      "context": "Moses, of blessed memory, is honored among the saints. He brings great encouragement to all believers because on many occasions he stumbled ([[EXO.4:13]]-15; 5:22, 23; [[NUM.20:11]], [[NUM.20:12]] are but a few instances), yet he repented, persevered, and followed God. The Lord honored him (v. 3) and sanctified him (v. 4)."
     }
   ]
 }

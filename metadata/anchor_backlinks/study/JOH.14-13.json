@@ -2,15 +2,25 @@
   "anchor_id": "JOH.14:13",
   "canon_uri": "canon/NT/JOH.md#JOH.14:13",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "And whatever you ask in My name, that I will do, that the Father may be glorified in the Son.",
+  "pericope": {
+    "id": "JOH.P051",
+    "title": "The Way to the Father",
+    "range": "JOH.13:38-14:13",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/LUK_footnotes.md",
-      "line_number": 1641,
+      "source_file": "study/footnotes/NT/LUK_footnotes.md",
+      "line_number": 1093,
       "raw_match": "[[JOH.14:13]]",
       "reference_type": "wikilink",
-      "context": "images of life and symbolize the gift of the Holy Spirit (see [[JOH.14:13]], [[JOH.14:14]]; [[JAS.4:3]])."
+      "context": "In Greek, the verbs rendered ask, seek, and knock imply a continuing action and are better translated, \"keep asking,\" \"keep seeking,\" and \"keep knocking.\" God responds when we persistently ask for things that are good. Bread, fish, and an egg are all images of life and symbolize the gift of the Holy Spirit (see [[JOH.14:13]], [[JOH.14:14]]; [[JAS.4:3]])."
     }
   ]
 }

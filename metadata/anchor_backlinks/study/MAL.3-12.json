@@ -2,15 +2,25 @@
   "anchor_id": "MAL.3:12",
   "canon_uri": "canon/OT/MAL.md#MAL.3:12",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "'And all nations will call you blessed, for you will be a delightful land,' says the Lord Almighty.",
+  "pericope": {
+    "id": "MAL.P006",
+    "title": "Tithing Brings God's Blessing",
+    "range": "MAL.3:7-3:17",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/EZR_footnotes.md",
-      "line_number": 94,
+      "source_file": "study/footnotes/OT/EZR_footnotes.md",
+      "line_number": 77,
       "raw_match": "[[MAL.3:8]]-12",
       "reference_type": "wikilink_range",
-      "context": "to the Lord is to give a tithe ([[MAL.3:8]]-12) plus freewill offerings. This is how the temple"
+      "context": "Starting with Abraham ([[GEN.14:18]]-20), the tradition of God's people for giving money to the Lord is to give a tithe ([[MAL.3:8]]-12) plus freewill offerings. This is how the temple was built, and also how the Church is built."
     }
   ]
 }

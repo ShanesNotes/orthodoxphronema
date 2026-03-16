@@ -2,43 +2,53 @@
   "anchor_id": "ROM.6:8",
   "canon_uri": "canon/NT/ROM.md#ROM.6:8",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Now if we died with Christ, we believe that we shall also live with Him,",
+  "pericope": {
+    "id": "ROM.P013",
+    "title": "Baptism: Dead to Sin, Alive in Christ",
+    "range": "ROM.5:21-6:22",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/1CO_footnotes.md",
-      "line_number": 631,
-      "raw_match": "[[ROM.6:3]]-10",
-      "reference_type": "wikilink_range",
-      "context": "reminding us of our union with Christ in baptism (see [[ROM.6:3]]-10). Fornication is"
-    },
-    {
-      "source_file": "staging/validated/NT/JOH_footnotes.md",
-      "line_number": 2337,
-      "raw_match": "[[ROM.6:3]]-11",
-      "reference_type": "wikilink_range",
-      "context": "we be raised with Him ([[ROM.6:3]]-11)."
-    },
-    {
-      "source_file": "staging/validated/NT/LUK_footnotes.md",
-      "line_number": 579,
-      "raw_match": "[[ROM.6:3]]-11",
-      "reference_type": "wikilink_range",
-      "context": "of Christ which was to come (see [[ROM.6:3]]-11). John is a figure of the Law in that, like the"
-    },
-    {
-      "source_file": "staging/validated/OT/EXO_articles.md",
+      "source_file": "study/articles/OT/EXO_articles.md",
       "line_number": 18,
       "raw_match": "[[ROM.6:3]]-11",
       "reference_type": "wikilink_range",
-      "context": "Passover, the central rite and symbol of Judaism, is based on the experience of the liberation of the Hebrew people from bondage in Egypt ([[EXO.12:1]]-15:21). It is called Passover both because the Lord passed over the homes of the Hebrews, sparing them from the death that came to the first-born in Egypt, and because the Hebrews passed over the Red Sea as if it were dry land. Passover celebrates God's steadfast love and devotion to His people and their freedom in Him. Throughout the rest of the Old Testament, Passover preeminently signifies God's rescue and forging together of His chosen people, Israel. The Lord repeatedly brings this event to mind as He encourages and exhorts His people to return to their covenantal responsibilities ([[JDG.6:7]]-10; 1Kg 10:17-19; [[PSA.80:10]], [[PSA.80:11]]; [[JER.11:1]]-8; [[MIC.6:1]]-8). Through His saving work, Christ becomes our Passover ( pascha in Greek). Through Him we experience liberation from sin, death, and the devil. St. Paul exclaims, 'Christ, our Passover, was sacrificed for us. Therefore let us keep the feast' ([[1CO.5:7]], [[1CO.5:8]]). He is the Paschal Lamb (Is 53:7; [[JOH.1:29]]; [[REV.5:6]]-14) who gave Himself up in sacrifice 'once for all' ([[HEB.10:10]]-14) to reconcile us with God. At every Pascha-'Easter'-the Church sings: Today a sacred Pascha is revealed to us, a new and holy Pascha, a mystical Pascha, a Pascha worthy of veneration, a Pascha which is Christ the Redeemer. In many typological details, the Passover of the Jews clearly points towards Christ as our Passover. 1 The Passover lamb, whose blood was smeared by the Hebrews on their doorposts in the sign of the Cross, was a male without blemish; Jesus was a male without blemish who died on the Cross. 2 The blood of the Passover lamb saved the first-born of the Hebrews from death; the blood of Christ saves all those believing in Him from eternal death ([[ROM.5:8]]-10; [[1PE.1:17]]-19). 3 The Passover lamb had none of its bones broken ([[EXO.12:10]], [[EXO.12:46]]); Jesus also had no bones broken as He was sacrificed ([[JOH.19:31]]-36). 4 The Hebrews escaped from the burden of slavery in Egypt by passing through the Red Sea; Christians pass 'from Egypt, from the burden of sin,' being's et free and saved' through the waters of Holy Baptism (GrgNy). For in the waters of Baptism, we are 'baptized into His death,' 'crucified with Him,' and raised up 'in the likeness of His resurrection' to 'walk in newness of life' ([[ROM.6:3]]-11). #### St. John Chrysostom marvels at the power of Christ's blood: If the type of it had such great power... in the midst of Egypt, when smeared on the doorposts, much more the reality.... if death so shuddered at the shadow, tell me how would it not have dreaded the very reality? This blood is the salvation of our souls; by it the soul is washed, and made beautiful and... more gleaming than gold (see [[REV.7:13]], [[REV.7:14]]). Sustained and strengthened by the blood of Christ our Passover, we resume daily our journey to the eternal promised land, the promised kingdom to come. ### The Grace Of Christand The Law Of Moses *(after EXO.20:6)*"
+      "context": "Passover, the central rite and symbol of Judaism, is based on the experience of the liberation of the Hebrew people from bondage in Egypt ([[EXO.12:1]]-15:21). It is called Passover both because the Lord passed over the homes of the Hebrews, sparing them from the death that came to the first-born in Egypt, and because the Hebrews passed over the Red Sea as if it were dry land. Passover celebrates God's steadfast love and devotion to His people and their freedom in Him. Throughout the rest of the Old Testament, Passover preeminently signifies God's rescue and forging together of His chosen people, Israel. The Lord repeatedly brings this event to mind as He encourages and exhorts His people to return to their covenantal responsibilities ([[JDG.6:7]]-10; [[1SA.10:17]]-19; [[PSA.80:10]], [[PSA.80:11]]; [[JER.11:1]]-8; [[MIC.6:1]]-8). Through His saving work, Christ becomes our Passover ( pascha in Greek). Through Him we experience liberation from sin, death, and the devil. St. Paul exclaims, 'Christ, our Passover, was sacrificed for us. Therefore let us keep the feast' ([[1CO.5:7]], [[1CO.5:8]]). He is the Paschal Lamb ([[ISA.53:7]]; [[JOH.1:29]]; [[REV.5:6]]-14) who gave Himself up in sacrifice 'once for all' ([[HEB.10:10]]-14) to reconcile us with God. At every Pascha-'Easter'-the Church sings: Today a sacred Pascha is revealed to us, a new and holy Pascha, a mystical Pascha, a Pascha worthy of veneration, a Pascha which is Christ the Redeemer. In many typological details, the Passover of the Jews clearly points towards Christ as our Passover. 1 The Passover lamb, whose blood was smeared by the Hebrews on their doorposts in the sign of the Cross, was a male without blemish; Jesus was a male without blemish who died on the Cross. 2 The blood of the Passover lamb saved the first-born of the Hebrews from death; the blood of Christ saves all those believing in Him from eternal death ([[ROM.5:8]]-10; [[1PE.1:17]]-19). 3 The Passover lamb had none of its bones broken ([[EXO.12:10]], [[EXO.12:46]]); Jesus also had no bones broken as He was sacrificed ([[JOH.19:31]]-36). 4 The Hebrews escaped from the burden of slavery in Egypt by passing through the Red Sea; Christians pass 'from Egypt, from the burden of sin,' being set free and saved' through the waters of Holy Baptism (GrgNy). For in the waters of Baptism, we are 'baptized into His death,' 'crucified with Him,' and raised up 'in the likeness of His resurrection' to 'walk in newness of life' ([[ROM.6:3]]-11). #### St. John Chrysostom marvels at the power of Christ's blood: If the type of it had such great power... in the midst of Egypt, when smeared on the doorposts, much more the reality.... if death so shuddered at the shadow, tell me how would it not have dreaded the very reality? This blood is the salvation of our souls; by it the soul is washed, and made beautiful and... more gleaming than gold (see [[REV.7:13]], [[REV.7:14]]). Sustained and strengthened by the blood of Christ our Passover, we resume daily our journey to the eternal promised land, the promised kingdom to come. ### The Grace Of Christ and The Law Of Moses *(after EXO.20:6)*"
     },
     {
-      "source_file": "staging/validated/OT/RUT_footnotes.md",
-      "line_number": 165,
+      "source_file": "study/footnotes/NT/1CO_footnotes.md",
+      "line_number": 416,
+      "raw_match": "[[ROM.6:3]]-10",
+      "reference_type": "wikilink_range",
+      "context": "When Paul calls our bodies members of Christ (see 12:12; [[ROM.6:13]]; 12:4, 5), he is reminding us of our union with Christ in baptism (see [[ROM.6:3]]-10). Fornication is therefore a sin to be fled in horror, for it joins Christ to harlots. \"We have many improper wishes, but we must repress them, for we can\" (JohnChr)."
+    },
+    {
+      "source_file": "study/footnotes/NT/JOH_footnotes.md",
+      "line_number": 1493,
       "raw_match": "[[ROM.6:3]]-11",
       "reference_type": "wikilink_range",
-      "context": "learns how to live ([[ROM.6:3]]-11)."
+      "context": "If I do not wash you, you have no part with Me (v. 8) shows the cleansing power of Christ's death and Resurrection, for only by participating in Christ's death can we be raised with Him ([[ROM.6:3]]-11). He who is bathed needs only to wash his feet (v. 10): This foot-washing also serves as an image of the sacrament of confession. Those who have completely bathed, that is, have been baptized, have no need ever to be baptized again, for baptism is indelible. The sins the believer assumes during his life must still be washed through ongoing repentance, just as the feet of a person returning from the public bath must be washed before entering the house. As Christians, we are bathed by Christ in baptism and have periodic washings in the sacrament of confession."
+    },
+    {
+      "source_file": "study/footnotes/NT/LUK_footnotes.md",
+      "line_number": 386,
+      "raw_match": "[[ROM.6:3]]-11",
+      "reference_type": "wikilink_range",
+      "context": "The call to repentance was traditional for prophets. John's baptism did not grant remission of sins once and for all, but prefigured and prepared people for the baptism of Christ which was to come (see [[ROM.6:3]]-11). John is a figure of the Law in that, like the Law, he denounced sin but could not remit (lit. \"put away\") sin. Both John and the Law point to the One who can remit sin."
+    },
+    {
+      "source_file": "study/footnotes/OT/RUT_footnotes.md",
+      "line_number": 129,
+      "raw_match": "[[ROM.6:3]]-11",
+      "reference_type": "wikilink_range",
+      "context": "Where Boaz lies down, Ruth will lie down with him, and Boaz will instruct her. Likewise, as Christ was buried, the believer is also buried with Him in baptism, and thus learns how to live ([[ROM.6:3]]-11)."
     }
   ]
 }

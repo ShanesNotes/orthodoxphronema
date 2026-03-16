@@ -2,22 +2,32 @@
   "anchor_id": "MRK.7:26",
   "canon_uri": "canon/NT/MRK.md#MRK.7:26",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "The woman was a Greek, Syro-Phoenician by birth, and she kept asking Him to cast the demon out of her daughter.",
+  "pericope": {
+    "id": "MRK.P028",
+    "title": "A Gentile Woman Believes",
+    "range": "MRK.7:23-7:36",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/MAT_footnotes.md",
-      "line_number": 2191,
+      "source_file": "study/footnotes/NT/MAT_footnotes.md",
+      "line_number": 1416,
       "raw_match": "[[MRK.7:24]]-30",
       "reference_type": "wikilink_range",
-      "context": "Matthew's gospel. This account is also mentioned in [[MRK.7:24]]-30, but with two major"
+      "context": "The story of ministry to this Gentile woman illustrates the Jewish orientation of Matthew's gospel. This account is also mentioned in [[MRK.7:24]]-30, but with two major differences: (1) Matthew records Christ's words concerning the lost sheep of the house of Israel (v. 24), while Mark does not, and (2) Matthew records the woman using the title Son of David, a Jewish term for the Messiah, while Mark does not. Christ went to the Gentile cities not to preach, but to withdraw from the faithless Pharisees. This is confirmed in Mark's gospel, where we read that Christ \"wanted no one to know\" He was there, and here, where Christ says that He was only sent to the house of Israel."
     },
     {
-      "source_file": "staging/validated/OT/EZK_footnotes.md",
-      "line_number": 336,
+      "source_file": "study/footnotes/OT/EZK_footnotes.md",
+      "line_number": 327,
       "raw_match": "[[MRK.7:24]]-30",
       "reference_type": "wikilink_range",
-      "context": "when He cast the demon out of the Syro-Phoenician's daughter ([[MRK.7:24]]-30). After"
+      "context": "Some Church Fathers interpret this lamentation (through 28:26) as imaging the fall of Lucifer and his angels (also see Is 14:12) and the overthrow of pride by the preaching of the gospel. King Hiram of Tyre had been friendly with Israel (3Kg 5); yet by the time of the captivity Tyre was set against Jerusalem (26:2). Christ began to fulfill this judgment when He cast the demon out of the Syro-Phoenician's daughter ([[MRK.7:24]]-30). After Pentecost, the gospel spread rapidly to this region ([[ACT.21:3]]-5)."
     }
   ]
 }

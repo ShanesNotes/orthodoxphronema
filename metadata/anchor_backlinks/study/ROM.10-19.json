@@ -2,15 +2,25 @@
   "anchor_id": "ROM.10:19",
   "canon_uri": "canon/NT/ROM.md#ROM.10:19",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "But I say, did Israel not know? First Moses says: 'I will provoke you to jealousy by those who are not a nation, I will move you to anger by a foolish nation.'",
+  "pericope": {
+    "id": "ROM.P028",
+    "title": "God Elects a Remnant of Israel",
+    "range": "ROM.10:18-11:9",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/DEU_footnotes.md",
-      "line_number": 1224,
+      "source_file": "study/footnotes/OT/DEU_footnotes.md",
+      "line_number": 786,
       "raw_match": "[[ROM.10:19]]",
       "reference_type": "wikilink",
-      "context": "through faith in Christ, thus provoking the Jews to jealousy ([[ROM.10:19]]). The Speaker in"
+      "context": "This is a prophecy concerning the Gentiles who would become God's children through faith in Christ, thus provoking the Jews to jealousy ([[ROM.10:19]]). The Speaker in this prophecy (vv. 20, 21) is the Word and Son of God (AthanG; HilryP)."
     }
   ]
 }

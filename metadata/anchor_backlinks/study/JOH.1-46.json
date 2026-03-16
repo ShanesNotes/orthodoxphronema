@@ -2,15 +2,25 @@
   "anchor_id": "JOH.1:46",
   "canon_uri": "canon/NT/JOH.md#JOH.1:46",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "And Nathanael said to him, 'Can anything good come out of Nazareth?'",
+  "pericope": {
+    "id": "JOH.P006",
+    "title": "The Baptist's Disciples Follow Jesus",
+    "range": "JOH.1:34-1:50",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/MAT_footnotes.md",
-      "line_number": 283,
+      "source_file": "study/footnotes/NT/MAT_footnotes.md",
+      "line_number": 186,
       "raw_match": "[[JOH.1:46]]",
       "reference_type": "wikilink",
-      "context": "did not have a good reputation ([[JOH.1:46]])."
+      "context": "The prophecy here cannot be exactly identified. It has been taken as a reference to the rod (Heb. neser) in Is 11:1, and to the Nazirite (Heb. Nazir) of [[JDG.13:5]]. Matthew may also have been alluding to passages in which the Messiah was despised, since Nazareth did not have a good reputation ([[JOH.1:46]])."
     }
   ]
 }

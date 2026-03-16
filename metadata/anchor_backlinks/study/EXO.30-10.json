@@ -2,15 +2,25 @@
   "anchor_id": "EXO.30:10",
   "canon_uri": "canon/OT/EXO.md#EXO.30:10",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Now Aaron shall make atonement upon its horns once a year, purging it with the blood of purification throughout your generations. It is most holy to the Lord.'",
+  "pericope": {
+    "id": "EXO.P063",
+    "title": "Gifts of Money",
+    "range": "EXO.30:10-30:15",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/3MA_footnotes.md",
-      "line_number": 52,
+      "source_file": "study/footnotes/OT/3MA_footnotes.md",
+      "line_number": 45,
       "raw_match": "[[EXO.30:10]]",
       "reference_type": "wikilink",
-      "context": "read him the law to try to convince him ([[EXO.30:10]]; Lv 16:2, 11, 12, 15, 34). The king feels"
+      "context": "Evidently, Ptolemy thought the Jews were making up the law to keep him out. They read him the law to try to convince him ([[EXO.30:10]]; Lv 16:2, 11, 12, 15, 34). The king feels slighted and sees the high priest as beneath him."
     }
   ]
 }

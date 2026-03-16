@@ -2,22 +2,32 @@
   "anchor_id": "ZEC.1:12",
   "canon_uri": "canon/OT/ZEC.md#ZEC.1:12",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Then the Angel of the Lord answered and said, 'O Lord Almighty, how long will You show no mercy on Jerusalem and the cities of Judah, which You disregarded these seventy years?'",
+  "pericope": {
+    "id": "ZEC.P002",
+    "title": "The Vision of the Four Horses",
+    "range": "ZEC.1:6-1:16",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/REV_footnotes.md",
-      "line_number": 1041,
+      "source_file": "study/footnotes/NT/REV_footnotes.md",
+      "line_number": 641,
       "raw_match": "[[ZEC.1:8]]-17",
       "reference_type": "wikilink_range",
-      "context": "[[ZEC.1:8]]-17; 6:1-8 for the model of this imagery) personify the scourges which, through"
+      "context": "With the Lamb's opening of the seals, John begins a description of the signs of the end, much of it already set forth by Jesus in the Gospels (Mt 24; Mk 13; Lk 21). The seals are consequences of man's condition, an overview of conditions manifest since the birth of the Church, which will continue until Christ's second coming. The four horsemen (see [[ZEC.1:8]]-17; 6:1-8 for the model of this imagery) personify the scourges which, through the prophets, God has threatened as judgment on the faithless: war, famine, plague, natural disasters."
     },
     {
-      "source_file": "staging/validated/OT/HAB_footnotes.md",
-      "line_number": 36,
+      "source_file": "study/footnotes/OT/HAB_footnotes.md",
+      "line_number": 27,
       "raw_match": "[[ZEC.1:12]]",
       "reference_type": "wikilink",
-      "context": "([[ZEC.1:12]]) and the psalmists ([[PSA.12:1]]) when God appears silent, remote, and powerless (Is"
+      "context": "Habakkuk laments the seeming silence of God in response to the rampant injustice and violence in the nation. When God reveals to Habakkuk the horrors in Judean society from His point of view, the prophet is horrified. He cries for God to act, but there is no answer from God. \"How long?\" is a familiar refrain among the Old Testament prophets ([[ZEC.1:12]]) and the psalmists ([[PSA.12:1]]) when God appears silent, remote, and powerless (Is 63:15). God hates violence on the earth and will judge severely the cruel treatment of humans by other humans ([[GEN.6:5]]-7; [[PSA.10:6]]; [[REV.6:10]])."
     }
   ]
 }

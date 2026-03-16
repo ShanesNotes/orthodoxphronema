@@ -2,15 +2,25 @@
   "anchor_id": "ZEC.11:12",
   "canon_uri": "canon/OT/ZEC.md#ZEC.11:12",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "And I shall say to them, 'If it is fitting in your judgment, give me my payment, or refuse it.' And they established my wage at thirty pieces of silver.",
+  "pericope": {
+    "id": "ZEC.P015",
+    "title": "The Two Staffs",
+    "range": "ZEC.11:6-11:16",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/JOH_footnotes.md",
-      "line_number": 2865,
+      "source_file": "study/footnotes/NT/JOH_footnotes.md",
+      "line_number": 1835,
       "raw_match": "[[ZEC.11:12]]",
       "reference_type": "wikilink",
-      "context": "alludes to Judas ([[PSA.40:10]]; 108:2-13; [[ZEC.11:12]], [[ZEC.11:13]]), and Judas becomes a type for all who"
+      "context": "The son of perdition (\"destruction\") is Judas Iscariot (6:70, 71). OT prophecy alludes to Judas ([[PSA.40:10]]; 108:2-13; [[ZEC.11:12]], [[ZEC.11:13]]), and Judas becomes a type for all who will fall away in the last days (see [[2TH.2:3]], where \"son of perdition\" refers to the Antichrist)."
     }
   ]
 }

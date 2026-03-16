@@ -2,15 +2,25 @@
   "anchor_id": "JOS.10:12",
   "canon_uri": "canon/OT/JOS.md#JOS.10:12",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Then Joshua spoke to the Lord on the day God delivered the Amorites into the hands of Israel, when he crushed them in Gibeon. They were crushed before the face of the sons of Israel, for Joshua said: 'Let the sun stand still over Gibeon, And the moon over the valley of Ajalon.'",
+  "pericope": {
+    "id": "JOS.P016",
+    "title": "The Sun Stands Still",
+    "range": "JOS.10:11-10:40",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/SIR_footnotes.md",
-      "line_number": 1921,
+      "source_file": "study/footnotes/OT/SIR_footnotes.md",
+      "line_number": 1516,
       "raw_match": "[[JOS.10:12]]",
       "reference_type": "wikilink",
-      "context": "to a successful conclusion (see [[JOS.10:12]], [[JOS.10:13]])."
+      "context": "The sun being held back refers to the miracle of the sun moving from east to west being interrupted in a supernatural manner until the battle led by Joshua could be fought to a successful conclusion (see [[JOS.10:12]], [[JOS.10:13]])."
     }
   ]
 }

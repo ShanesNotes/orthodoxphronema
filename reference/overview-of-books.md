@@ -97,7 +97,7 @@ of the exiles from Babylon. Jonah unwillingly accepts God's command to preach Hi
 and forgiveness to a foreign nation.
 Nahum prophesies the defeat of the powerful Assyrian enemy. Habakkuk deals with the
 perennial question, "How long, O Lord, shall I cry out to You, and You will not hear me?"
-(Hab 1:2). Zephaniah prophesies the dark days of Judah's destruction, but promises comfort
+([[HAB.1:2]]). Zephaniah prophesies the dark days of Judah's destruction, but promises comfort
 
 and conciliation to those who wait patiently for the Lord and serve Him. Haggai, following
 the return of the exiles, exhorts them to rebuild the destroyed temple in order to unify their
@@ -134,7 +134,7 @@ Matthew, Mark, Luke and John recall the events in the life of Jesus Christ, Son 
 Son of Man. The first three are called the Synoptic Gospels, in that they set forth a "common
 viewpoint" of the chronology of events and the message of Christ in His life and ministry.
 Matthew addresses his gospel primarily to fellow Jews. Mark is likely the first gospel to be
-written, and speaks of Christ as servant of all (Mk 10:45). Luke, himself a physician, reveals
+written, and speaks of Christ as servant of all ([[MRK.10:45]]). Luke, himself a physician, reveals
 the Incarnate Christ and His earthly ancestry. This Son of Man saves and heals the fallen
 race.
 John, the last of the four gospels to be written, emphasizes the divinity of Christ, the
@@ -158,33 +158,33 @@ In Galatians, Paul addresses several churches in Asia Minor, defending his apost
 calling the faithful to live their lives in the strength of the Holy Spirit instead of in
 submission to the laws of the old covenant. Ephesians is a marvelous discourse on how the
 Church should conduct itself. This community is rich in dedication to Christ. Yet just a few
-decades later the Lord tells them, "you have left your first love" (Rev 2:4).
+decades later the Lord tells them, "you have left your first love" ([[REV.2:4]]).
 
 Philippians is the epistle of joy. Paul writes from a Roman prison, "Rejoice in the Lord
-always. Again I will say, rejoice!" (Php 4:4). Colossians presents Christ as "the head of the
-body, the church..." (Col 1:18), preeminent in all things.
+always. Again I will say, rejoice!" ([[PHP.4:4]]). Colossians presents Christ as "the head of the
+body, the church..." ([[COL.1:18]]), preeminent in all things.
 First Thessalonians, the first letter St. Paul penned, was written to the believers at
 Thessalonica, a beautiful coastal city of Greece in about AD 51, shortly after Paul planted that
 Church. This is a letter of encouragement. Second Thessalonians acknowledges persecution
 and warns of lawlessness, urging the Christians to "stand fast and hold the traditions which
-you were taught..." (2Th 2:15).
+you were taught..." ([[2TH.2:15]]).
 Next, Paul addresses the following letters to individuals. In First Timothy, the aging
 apostle speaks to his youthful understudy about effective oversight of the church. In Second
-Timothy, the last letter St. Paul wrote (see 2Ti 4:6–8), he encourages Timothy to "be strong
-in the grace that is in Christ Jesus" (2Ti 2:1). Paul is already in prison in Rome (1:8) awaiting
+Timothy, the last letter St. Paul wrote (see [[2TI.4:6]]–8), he encourages Timothy to "be strong
+in the grace that is in Christ Jesus" ([[2TI.2:1]]). Paul is already in prison in Rome (1:8) awaiting
 martyrdom.
 Titus is sent by Paul to Crete to set the church "in order," and "appoint elders in every city"
-(Tts 1:5). If this sounds like the work of a bishop, it is (Tts 1:7, 8), and Titus is consistently
+([[TIT.1:5]]). If this sounds like the work of a bishop, it is ([[TIT.1:7]], [[TIT.1:8]]), and Titus is consistently
 named in early Church records as the first bishop of Crete. Philemon is a Christian slaveholder, and Paul writes him to receive back Onesimus (Phm 10—16), his runaway slave, who
 has become a Christian with Paul in Rome.
 Hebrews is the last of the epistles attributed to St. Paul, but with little evidence it was
 actually written by Paul. It is a general letter to Jewish believers in Christ to continue on in
-the Faith. It assures them that Christ, the great High Priest in the heavenlies (Heb 8:1), is
-their once for all sacrifice for sin (Heb 10:10) and victor over death (Heb 12:1, 2).
+the Faith. It assures them that Christ, the great High Priest in the heavenlies ([[HEB.8:1]]), is
+their once for all sacrifice for sin ([[HEB.10:10]]) and victor over death ([[HEB.12:1]], [[HEB.12:2]]).
 The General Epistles
 James, the brother of the Lord and first bishop of Jerusalem, writes to fellow Jews, "the
-twelve tribes which are scattered abroad" (Jam 1:1). His message? "Faith without works is
-dead" (Jam 1:20). Christianity is a belief that behaves.
+twelve tribes which are scattered abroad" ([[JAS.1:1]]). His message? "Faith without works is
+dead" ([[JAS.1:20]]). Christianity is a belief that behaves.
 First Peter, written by the first among the apostles, urges obedience to God and man,
 willingness to suffer for Christ's sake, and effective pastoring of the flock. In Second Peter,
 the apostle discusses divine power for the faithful (deification), divine judgment for false

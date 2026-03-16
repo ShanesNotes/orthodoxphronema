@@ -2,15 +2,25 @@
   "anchor_id": "PHP.2:13",
   "canon_uri": "canon/NT/PHP.md#PHP.2:13",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "for it is God who works in you both to will and to do for His good pleasure.",
+  "pericope": {
+    "id": "PHP.P006",
+    "title": "Strive for Obedience",
+    "range": "PHP.2:11-2:14",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/EXO_footnotes.md",
-      "line_number": 1574,
+      "source_file": "study/footnotes/OT/EXO_footnotes.md",
+      "line_number": 1211,
       "raw_match": "[[PHP.2:13]]",
       "reference_type": "wikilink",
-      "context": "accomplished in the Church when both wills work in synergy ([[PHP.2:13]])."
+      "context": ", 3 Great things were accomplished when the children of Israel freely submitted their will to the will of God. Two wills worked in synergy to build the tabernacle--the human will of the people freely willing the same thing as the divine will. Great things are also accomplished in the Church when both wills work in synergy ([[PHP.2:13]])."
     }
   ]
 }

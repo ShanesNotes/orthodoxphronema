@@ -1,9 +1,14 @@
 {
+  "book": "JOB",
+  "file": "staging/validated/OT/JOB.md",
+  "generated": "2026-03-10",
+  "ratified_by": "human",
+  "ratified_date": "2026-03-15",
   "residuals": [
     {
       "anchor": "JOB.8:1",
       "classification": "docling_issue",
-      "description": "Verse not captured by Docling extraction (drop-cap or column-split loss)",
+      "description": "Verse not captured by Docling extraction (drop-cap or column-split loss). Verified present in OSB PDF via pdftotext.",
       "blocking": false,
       "ratified": false
     },

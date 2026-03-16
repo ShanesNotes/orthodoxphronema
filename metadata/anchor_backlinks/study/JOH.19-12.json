@@ -2,22 +2,32 @@
   "anchor_id": "JOH.19:12",
   "canon_uri": "canon/NT/JOH.md#JOH.19:12",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "From then on Pilate sought to release Him, but the Jews cried out, saying, 'If you let this Man go, you are not Caesar's friend. Whoever makes himself a king speaks against Caesar.'",
+  "pericope": {
+    "id": "JOH.P064",
+    "title": "Pilate's Judgment",
+    "range": "JOH.19:4-19:15",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/MRK_footnotes.md",
-      "line_number": 679,
+      "source_file": "study/footnotes/NT/MRK_footnotes.md",
+      "line_number": 460,
       "raw_match": "[[JOH.19:7]]-12",
       "reference_type": "wikilink_range",
-      "context": "treason (see note at [[JOH.19:7]]-12)."
+      "context": "Pilate's question, \"Are You the King of the Jews?\" comes from the political charges made against Jesus. Since Pilate would not execute a man over religious matters, the chief priests had to come up with a political crime that would guarantee the death penalty. Thus, they accused Jesus of making Himself an earthly king, which would be treason (see note at [[JOH.19:7]]-12)."
     },
     {
-      "source_file": "staging/validated/OT/EZR_footnotes.md",
-      "line_number": 136,
+      "source_file": "study/footnotes/OT/EZR_footnotes.md",
+      "line_number": 108,
       "raw_match": "[[JOH.19:12]]",
       "reference_type": "wikilink",
-      "context": "Christ Himself ([[JOH.19:12]])."
+      "context": "The claim that the work of God is rebellion and harmful to kings whom God Himself has established is a standard ploy of Satan in his attempts to destroy God's obedient ones ([[EST.3:8]], [[EST.3:9]]). This culminates in the charge that would be leveled against Christ Himself ([[JOH.19:12]])."
     }
   ]
 }

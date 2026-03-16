@@ -2,15 +2,25 @@
   "anchor_id": "JOH.8:48",
   "canon_uri": "canon/NT/JOH.md#JOH.8:48",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Then the Jews answered and said to Him, 'Do we not say rightly that You are a Samaritan and have a demon?'",
+  "pericope": {
+    "id": "JOH.P028",
+    "title": "Sons of the Devil Reject the Son of God",
+    "range": "JOH.8:36-8:50",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/LUK_footnotes.md",
-      "line_number": 1579,
+      "source_file": "study/footnotes/NT/LUK_footnotes.md",
+      "line_number": 1052,
       "raw_match": "[[JOH.8:48]]",
       "reference_type": "wikilink",
-      "context": "The Samaritan, while a despised foreigner, is an image of Christ ([[JOH.8:48]]), for He"
+      "context": "The Samaritan, while a despised foreigner, is an image of Christ ([[JOH.8:48]]), for He \"came down from heaven\" (Creed) to save even those in rebellion against Him."
     }
   ]
 }

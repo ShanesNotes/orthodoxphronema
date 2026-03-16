@@ -2,15 +2,25 @@
   "anchor_id": "MAT.26:52",
   "canon_uri": "canon/NT/MAT.md#MAT.26:52",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "But Jesus said to him, 'Put your sword in its place, for all who take the sword will perish by the sword.",
+  "pericope": {
+    "id": "MAT.P086",
+    "title": "Prediction of Peter's Denial",
+    "range": "MAT.26:30-26:74",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/NAH_footnotes.md",
-      "line_number": 95,
+      "source_file": "study/footnotes/OT/NAH_footnotes.md",
+      "line_number": 74,
       "raw_match": "[[MAT.26:52]]",
       "reference_type": "wikilink",
-      "context": "sword\" ([[MAT.26:52]])."
+      "context": "The power of the lions, which represent the enemies of God, would be destroyed by the more powerful sword of the Spirit, \"for all who take the sword will perish by the sword\" ([[MAT.26:52]])."
     }
   ]
 }

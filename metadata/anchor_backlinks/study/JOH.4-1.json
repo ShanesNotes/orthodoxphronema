@@ -2,29 +2,39 @@
   "anchor_id": "JOH.4:1",
   "canon_uri": "canon/NT/JOH.md#JOH.4:1",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Therefore, when the Lord knew that the Pharisees had heard that Jesus made and baptized more disciples than John",
+  "pericope": {
+    "id": "JOH.P011",
+    "title": "The Preaching of John the Baptist",
+    "range": "JOH.3:21-4:44",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/MRK_articles.md",
+      "source_file": "study/articles/NT/MRK_articles.md",
       "line_number": 28,
       "raw_match": "[[JOH.4:1]]-3",
       "reference_type": "wikilink_range",
       "context": "([[MAT.4:12]]-17; [[LUK.4:14]], [[LUK.4:15]]; [[JOH.4:1]]-3)"
     },
     {
-      "source_file": "staging/validated/OT/MIC_footnotes.md",
-      "line_number": 41,
+      "source_file": "study/footnotes/OT/MIC_footnotes.md",
+      "line_number": 32,
       "raw_match": "[[JOH.4:1]]-42",
       "reference_type": "wikilink_range",
-      "context": "Samaritans were among the first to repent and receive the gospel ([[JOH.4:1]]-42). Therefore, this prophecy is ultimately fulfilled in the Church, Christ's vineyard."
+      "context": ", 7 Samaritans were among the first to repent and receive the gospel ([[JOH.4:1]]-42). Therefore, this prophecy is ultimately fulfilled in the Church, Christ's vineyard."
     },
     {
-      "source_file": "staging/validated/OT/SIR_footnotes.md",
-      "line_number": 2253,
+      "source_file": "study/footnotes/OT/SIR_footnotes.md",
+      "line_number": 1767,
       "raw_match": "[[JOH.4:1]]",
       "reference_type": "wikilink",
-      "context": "where Jesus encountered the woman at the well known to us as St. Photini (see [[JOH.4:1]]-"
+      "context": "The mountain is a district in the Edomite Mountains on the east side of the Jordan, beginning slightly north of and running southward parallel to the Dead Sea. The three peoples mentioned--the Samaritans, the Philistines, and those in Shechem-- were ancient enemies of Israel. The Samaritans were probably called not a nation (v. 25) because they were a mixture of peoples brought in by the Assyrians. They were called a foolish people (v. 26) because they were primarily idol-worshippers. They have a temple on Mt. Gerizim until this day. Shechem, modern Nablus, was the small town where Jesus encountered the woman at the well known to us as St. Photini (see [[JOH.4:1]]- 43)."
     }
   ]
 }

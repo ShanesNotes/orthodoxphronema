@@ -2,15 +2,25 @@
   "anchor_id": "JOH.1:21",
   "canon_uri": "canon/NT/JOH.md#JOH.1:21",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "And they asked him, 'What then? Are you Elijah?'",
+  "pericope": {
+    "id": "JOH.P002",
+    "title": "The Word Becomes Flesh to Reveal the Father",
+    "range": "JOH.1:12-1:21",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/MAT_footnotes.md",
-      "line_number": 1741,
+      "source_file": "study/footnotes/NT/MAT_footnotes.md",
+      "line_number": 1125,
       "raw_match": "[[JOH.1:21]]",
       "reference_type": "wikilink",
-      "context": "John does not ascribe to himself the role of Elijah ([[JOH.1:21]]), but Jesus does."
+      "context": "John does not ascribe to himself the role of Elijah ([[JOH.1:21]]), but Jesus does. John fulfilled the mission of Elijah ([[LUK.1:17]], [[LUK.1:76]]) and his destiny was similar. Yet John is honored over Elijah (v. 11) because John prepared the way for the advent of Christ Himself."
     }
   ]
 }

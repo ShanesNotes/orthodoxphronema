@@ -2,15 +2,25 @@
   "anchor_id": "DEU.24:16",
   "canon_uri": "canon/OT/DEU.md#DEU.24:16",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "'Fathers shall not be put to death for their sons, nor shall sons be put to death for their fathers; each shall be put to death for his own sin.",
+  "pericope": {
+    "id": "DEU.P053",
+    "title": "Other Laws",
+    "range": "DEU.24:4-25:3",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/2CH_footnotes.md",
-      "line_number": 299,
+      "source_file": "study/footnotes/OT/2CH_footnotes.md",
+      "line_number": 208,
       "raw_match": "[[DEU.24:16]]",
       "reference_type": "wikilink",
-      "context": "children of those who killed his father, according to [[DEU.24:16]], yet sets a bad example for"
+      "context": "Amaziah... did what was right insofar as he followed the letter of the law (v. 4), but he did not love the ways of the Lord with a loyal heart. Note how he spares the children of those who killed his father, according to [[DEU.24:16]], yet sets a bad example for his own son Uzziah, who, like his father, will one day lift up his heart in pride (26:16)."
     }
   ]
 }

@@ -2,15 +2,25 @@
   "anchor_id": "EXO.28:21",
   "canon_uri": "canon/OT/EXO.md#EXO.28:21",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "The stones shall have the names of the sons of Israel, twelve according to their names, as the engravings of seals, each one with its own name; they shall be according to the twelve tribes.",
+  "pericope": {
+    "id": "EXO.P059",
+    "title": "The Breastplate",
+    "range": "EXO.28:14-28:37",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/REV_footnotes.md",
-      "line_number": 2991,
+      "source_file": "study/footnotes/NT/REV_footnotes.md",
+      "line_number": 1842,
       "raw_match": "[[EXO.28:15]]-21",
       "reference_type": "wikilink_range",
-      "context": "corresponding to the twelve tribes ([[EXO.28:15]]-21), so the Church is founded on the twelve"
+      "context": "The splendor described is fitting for the place where God will dwell with His people (vv. 3, 7). As the breastplate of the high priest was adorned with twelve jewels corresponding to the twelve tribes ([[EXO.28:15]]-21), so the Church is founded on the twelve precious foundation stones of the apostles (v. 14): Heaven is fundamentally priestly. All who are espoused to Christ, who feast at the wedding supper, and who dwell in the Holy City, are members of the royal priesthood (1:6; 5:10; 20:6; [[1PE.2:9]])."
     }
   ]
 }

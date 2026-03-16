@@ -2,15 +2,25 @@
   "anchor_id": "1PE.2:19",
   "canon_uri": "canon/NT/1PE.md#1PE.2:19",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "For this is commendable, if because of conscience toward God one endures grief, suffering wrongfully.",
+  "pericope": {
+    "id": "1PE.P008",
+    "title": "Servants: Submissive to Masters",
+    "range": "1PE.2:17-2:24",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/JAS_footnotes.md",
-      "line_number": 35,
+      "source_file": "study/footnotes/NT/JAS_footnotes.md",
+      "line_number": 26,
       "raw_match": "[[1PE.2:19]]",
       "reference_type": "wikilink",
-      "context": "([[MAT.5:11]], [[MAT.5:12]]; [[ACT.5:41]]; [[ROM.5:2]], [[ROM.5:3]]; 8:18; [[HEB.12:11]]; [[1PE.2:19]]). Though unkind"
+      "context": "Trials, the world's oppression, take place by God's permission. The issue is not trials but our response to them. Properly received, trials reveal where our hearts are. They are food for faith, which must grow or die. The godly reaction to trials is joy and perseverance ([[MAT.5:11]], [[MAT.5:12]]; [[ACT.5:41]]; [[ROM.5:2]], [[ROM.5:3]]; 8:18; [[HEB.12:11]]; [[1PE.2:19]]). Though unkind circumstances are from the evil one, to get angry at circumstances is to get angry at God, who permits them."
     }
   ]
 }

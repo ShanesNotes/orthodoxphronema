@@ -2,15 +2,25 @@
   "anchor_id": "HEB.6:2",
   "canon_uri": "canon/NT/HEB.md#HEB.6:2",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "of the doctrine of baptisms, of laying on of hands, of resurrection of the dead, and of eternal judgment.",
+  "pericope": {
+    "id": "HEB.P012",
+    "title": "Beware of Immaturity",
+    "range": "HEB.5:6-6:7",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/DEU_footnotes.md",
-      "line_number": 1257,
+      "source_file": "study/footnotes/OT/DEU_footnotes.md",
+      "line_number": 810,
       "raw_match": "[[HEB.6:2]]",
       "reference_type": "wikilink",
-      "context": "This prophecy is quoted in [[ROM.15:10]] and [[HEB.6:2]], to show that both men and"
+      "context": "This prophecy is quoted in [[ROM.15:10]] and [[HEB.6:2]], to show that both men and angels are to worship God Incarnate, the Son of God, for He is their Maker. Moses also worships Him."
     }
   ]
 }

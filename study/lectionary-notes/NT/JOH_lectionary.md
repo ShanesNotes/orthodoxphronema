@@ -9,7 +9,7 @@ extracted: 2026-03-14
 
 # Lectionary Notes: JOH
 
-**7:37-52** — Jn 7:37–52; 8:12: This passage is read on Pentecost (Trinity Sunday), the seventh Sunday after Pascha (Easter).
+**7:37-52** — [[JOH.7:37]]–52; 8:12: This passage is read on Pentecost (Trinity Sunday), the seventh Sunday after Pascha (Easter).
 
 **9:1-38** — This passage is read on the sixth Sunday of Pascha, called the Sunday of the Blind Man.
 
@@ -25,7 +25,7 @@ extracted: 2026-03-14
 
 **17:1-13** — This passage is read on the Feast of the Fathers of the First Ecumenical Council.
 
-**19:6-11** — Jn 19:6–11, 13–20, 25–28, 30–35: This passage is read on September 14, the Feast of the Exaltation of the Holy Cross.
+**19:6-11** — [[JOH.19:6]]–11, 13–20, 25–28, 30–35: This passage is read on September 14, the Feast of the Exaltation of the Holy Cross.
 
 **19:25-27** — (no occasion text)
 

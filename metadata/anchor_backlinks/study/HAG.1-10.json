@@ -2,15 +2,25 @@
   "anchor_id": "HAG.1:10",
   "canon_uri": "canon/OT/HAG.md#HAG.1:10",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "because of this the heavens above you will withhold the dew, and the earth withhold its fruit.",
+  "pericope": {
+    "id": "HAG.P002",
+    "title": "The Command to Rebuild the Lord's House",
+    "range": "HAG.1:2-1:13",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/TOB_footnotes.md",
-      "line_number": 349,
+      "source_file": "study/footnotes/OT/TOB_footnotes.md",
+      "line_number": 270,
       "raw_match": "[[HAG.1:1]]-15",
       "reference_type": "wikilink_range",
-      "context": "glorious, was completed in approximately 515 BC (see [[HAG.1:1]]-15)."
+      "context": "The temple will be rebuilt, but not as it was before. The second temple, not as glorious, was completed in approximately 515 BC (see [[HAG.1:1]]-15)."
     }
   ]
 }

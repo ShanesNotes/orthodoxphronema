@@ -2,15 +2,25 @@
   "anchor_id": "JOH.20:22",
   "canon_uri": "canon/NT/JOH.md#JOH.20:22",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "And when He had said this, He breathed on them, and said to them, 'Receive the Holy Spirit.",
+  "pericope": {
+    "id": "JOH.P073",
+    "title": "Jesus Appears to Ten Disciples",
+    "range": "JOH.20:18-20:28",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/GEN_footnotes.md",
-      "line_number": 105,
+      "source_file": "study/footnotes/OT/GEN_footnotes.md",
+      "line_number": 79,
       "raw_match": "[[JOH.20:22]]",
       "reference_type": "wikilink",
-      "context": "Holy Spirit\" ([[JOH.20:22]]). For man failed to keep the grace of the Spirit, but through His"
+      "context": "God formed Adam's body out of dust from the ground. The breath of life is the grace of the Holy Spirit, the Giver of Life (the Creed). God breathed the breath of life into man's body, and he became a living soul. Therefore, Adam was a living soul because he possessed a body, a soul, and the grace of the Holy Spirit. After He rose from the dead, Jesus breathed on His disciples, and said, \"Receive the Holy Spirit\" ([[JOH.20:22]]). For man failed to keep the grace of the Spirit, but through His Resurrection Jesus supplies His disciples abundantly with the life-giving grace of the Spirit. A disciple's responsibility is to live by this grace."
     }
   ]
 }

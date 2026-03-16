@@ -2,15 +2,25 @@
   "anchor_id": "MRK.1:1",
   "canon_uri": "canon/NT/MRK.md#MRK.1:1",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "The beginning of the gospel of Jesus Christ, the Son of God.",
+  "pericope": {
+    "id": "MRK.P001",
+    "title": "Mark \u2014 Opening",
+    "range": "MRK.1:1-1:7",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/EZK_footnotes.md",
-      "line_number": 50,
+      "source_file": "study/footnotes/OT/EZK_footnotes.md",
+      "line_number": 37,
       "raw_match": "[[MRK.1:1]]",
       "reference_type": "wikilink",
-      "context": "wilderness\" ([[MRK.1:1]]). The ox is Luke, \"because he started with a sacrifice\" ([[LUK.1:8]]). The"
+      "context": "St. Gregory the Great comments that the man is Matthew, because he begins his Gospel with Christ's genealogy ([[MAT.1:1]]). The lion is Mark, \"because of the crying in the wilderness\" ([[MRK.1:1]]). The ox is Luke, \"because he started with a sacrifice\" ([[LUK.1:8]]). The eagle is John, who \"stretched toward the very substance of divinity\" ([[JOH.1:1]]). Gregory also sees in them types of Christ, who became a man in the Incarnation, an ox on the Cross, a lion in the Resurrection, and an eagle in the Ascension. Finally, says Gregory, they symbolize \"every one of the elect, who are perfect in the way of God,\" whose virtues are reason, self-sacrifice, fortitude, and contemplation of heavenly things."
     }
   ]
 }

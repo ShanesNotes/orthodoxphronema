@@ -2,22 +2,32 @@
   "anchor_id": "1TH.2:13",
   "canon_uri": "canon/NT/1TH.md#1TH.2:13",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "For this reason we also thank God without ceasing, because when you received the word of God which you heard from us, you welcomed it not as the word of men, but as it is in truth, the word of God, which also effectively works in you who believe.",
+  "pericope": {
+    "id": "1TH.P003",
+    "title": "Fruit of Paul's Work: They Endured Persecution",
+    "range": "1TH.2:12-2:13",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/1CO_footnotes.md",
-      "line_number": 1321,
+      "source_file": "study/footnotes/NT/1CO_footnotes.md",
+      "line_number": 879,
       "raw_match": "[[1TH.2:13]]",
       "reference_type": "wikilink",
-      "context": "passing on of tradition (see 11:2, 23; [[GAL.1:9]]; [[PHP.4:9]]; [[1TH.2:13]]; 4:1)."
+      "context": "Paul delivered an apostolic tradition of Christ's Resurrection which is unchanging and sufficient for salvation (v. 2). How had Paul received his gospel? By direct experience with the risen Lord (v. 8), confirmed by his interactions with the original apostles ([[GAL.2:2]]-10) and the whole Church. It is impossible to decipher what he learned where; in Paul's mind, his gospel forms a seamless whole. \"To receive\" designates the passing on of tradition (see 11:2, 23; [[GAL.1:9]]; [[PHP.4:9]]; [[1TH.2:13]]; 4:1). 15:3-4 This concise statement of the gospel is probably part of an early creed or catechism. (See [[PSA.16:9]]-12; [[GAL.1:4]]; [[1JN.2:2]]; 4:10.)"
     },
     {
-      "source_file": "staging/validated/NT/1TI_footnotes.md",
-      "line_number": 243,
+      "source_file": "study/footnotes/NT/1TI_footnotes.md",
+      "line_number": 168,
       "raw_match": "[[1TH.2:13]]",
       "reference_type": "wikilink",
-      "context": "[[1TH.2:13]]), or a special message from God. The Son is the ultimate reference for every"
+      "context": "The word (Gr. logos) of God is the Son ([[JOH.1:1]]; [[HEB.4:12]]; [[1PE.1:23]]; [[1JN.1:1]]; Rev 19:13). A word of God in the NT can be God's creative will ([[2PE.3:5]], [[2PE.3:7]]), the OT ([[MRK.7:13]]), a blessing using God's name (as here), the gospel itself ([[ACT.4:31]]; 6:7; 13:5, 26; 15:7, 36; [[1TH.2:13]]), or a special message from God. The Son is the ultimate reference for every other word of God. Sometimes it is difficult to tell whether \"word\" refers to Christ Himself or words about Him ([[COL.1:25]]). To spread the word of God is to spread Christ Himself. (The Greek rema is identically translated as \"word\" whether it refers to the gospel [Heb 6:5; [[1PE.1:25]]], a message from God [1Pt 1:25], or an act of God [Heb 11:3].) Words of faith (v. 6) means speech consonant with the gospel. Doctrine, or \"teaching,\" is the content of the gospel. Thus, the rich and manifold speech concerning salvation serves our communion with Christ, the Word of God. He is the reason these words are vital and powerful. Using words without the Word is vain."
     }
   ]
 }

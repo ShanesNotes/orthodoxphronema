@@ -1,0 +1,26 @@
+{
+  "anchor_id": "ISA.5:2",
+  "canon_uri": "canon/OT/ISA.md#ISA.5:2",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-16T02:01:16+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "He placed a wall around it and fortified it. He planted it with the choicest vine. He built a tower in its midst and also made a winepress in it. So I waited for it to bring forth grapes, but it produced thorn-plants.",
+  "pericope": {
+    "id": "ISA.P002",
+    "title": "Jerusalem.",
+    "range": "ISA.2:1-66:24",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
+  "links": [
+    {
+      "source_file": "study/articles/NT/MAT_articles.md",
+      "line_number": 47,
+      "raw_match": "[[ISA.5:1]]-7",
+      "reference_type": "wikilink_range",
+      "context": "P arables are stories in word-pictures, revealing spiritual truth. The Hebrew and Aramaic words for parable also mean 'allegory,' 'riddle,' or 'proverb.' The Scriptures, especially the Gospels, are filled with parables-images drawn from daily life in the world to represent and communicate the deep things of God. Parables give us glimpses of Him whose thoughts are not our thoughts and whose ways are not our ways ([[ISA.55:8]], 9). The truth communicated by Jesus' parables, however, is not evident to all who hear them. The listener must spiritual ears to hear, and even then not all have the same degree of understanding. Thus, Jesus' statement that 'to those who are outside, all things come in parables' ([[MRK.4:11]]) may be translated, '... all things come in riddles.' Jesus' quotation of [[ISA.6:9]], [[ISA.6:10]] ([[MAT.13:14]], [[MAT.13:15]]) does not mean He used parables to blind the people or to lead them to punishment. On the contrary, it demonstrates that the people are responsible for their own lack of receptivity: having grown dull and insensitive, they are unwilling to accept the message of the parables. As the mission of Isaiah in the Old Testament was to open the eyes of Israel to see the acts of God, so the parables of Jesus are intended to open the eyes of His hearers to the truth and lead them to produce the fruit of righteousness. Parables challenge the hearer and call for faith to perceive the mysteries of the Kingdom. Insight into God's Kingdom does not come simply through an intellectual understanding of the parables. Spiritual enlightenment is essentially a communication of faith in the Person, words, and deeds of the Lord Jesus Christ. The use of parables was known in Jewish culture long before Jesus ([[2SA.12:1]]-4; [[1KI.21:35]]-42; [[ISA.5:1]]-7). Jesus, however, brought the art of parables to perfection, relating aspects of the Kingdom and speaking of God Himself through vivid stories. His purpose was not only to reveal truth to those with hearts prepared. He wished to draw responsive hearts past the entrance and into the very reality of God's Kingdom which He proclaimed and inaugurated. Among the familiar parables read on Sundays throughout the church year are those of the Sower ([[LUK.8:5]]-15); the Good Samaritan ([[LUK.10:25]]-37); the Rich Man and His Crops ([[LUK.12:16]]-21); the Great Supper ([[LUK.14:16]]-24); the Talents ([[MAT.25:14]]-30); the Pharisee and the Tax Collector ([[LUK.18:10]]-14); and the Prodigal Son ([[LUK.15:11]]-32). In opening to us the door to the Kingdom of heaven, the parables help us to love God and to know Him, to understand and believe His grace, mercy, and forgiveness, and to order our lives according to His Holy Word."
+    }
+  ]
+}

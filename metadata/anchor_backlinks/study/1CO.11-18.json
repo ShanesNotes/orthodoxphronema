@@ -2,15 +2,25 @@
   "anchor_id": "1CO.11:18",
   "canon_uri": "canon/NT/1CO.md#1CO.11:18",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "For first of all, when you come together as a church, I hear that there are divisions among you, and in part I believe it.",
+  "pericope": {
+    "id": "1CO.P027",
+    "title": "Unity at the Eucharist",
+    "range": "1CO.11:16-11:33",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/LUK_footnotes.md",
-      "line_number": 1903,
+      "source_file": "study/footnotes/NT/LUK_footnotes.md",
+      "line_number": 1270,
       "raw_match": "[[1CO.11:18]]",
       "reference_type": "wikilink",
-      "context": "for truth to be manifest (see [[1CO.11:18]], [[1CO.11:19]])."
+      "context": "There are two kinds of peace. False peace, to which Christ refers here, is a shallow harmony that results from ignoring issues of truth. Genuine peace is reconciliation to God through faith in Christ and surrender to truth. Genuine peace has division as a byproduct because not everyone wants truth. In the fallen world, divisions are necessary for truth to be manifest (see [[1CO.11:18]], [[1CO.11:19]])."
     }
   ]
 }

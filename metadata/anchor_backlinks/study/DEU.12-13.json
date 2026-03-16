@@ -2,15 +2,25 @@
   "anchor_id": "DEU.12:13",
   "canon_uri": "canon/OT/DEU.md#DEU.12:13",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Take heed to yourself, do not offer your whole burnt offerings in every place you see;",
+  "pericope": {
+    "id": "DEU.P026",
+    "title": "The Place of Worship",
+    "range": "DEU.11:32-12:27",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/TOB_footnotes.md",
-      "line_number": 37,
+      "source_file": "study/footnotes/OT/TOB_footnotes.md",
+      "line_number": 32,
       "raw_match": "[[DEU.12:11]]-14",
       "reference_type": "wikilink_range",
-      "context": "everlasting ordinance (v. 6) is recorded in [[DEU.12:11]]-14."
+      "context": "Tobit reminds us to be faithful to the Lord even when it is inconvenient. The everlasting ordinance (v. 6) is recorded in [[DEU.12:11]]-14."
     }
   ]
 }

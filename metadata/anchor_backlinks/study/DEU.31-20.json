@@ -2,15 +2,25 @@
   "anchor_id": "DEU.31:20",
   "canon_uri": "canon/OT/DEU.md#DEU.31:20",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "For I shall bring them to this good land I swore to their fathers to give them, a land flowing with milk and honey; and they shall eat and be satisfied. Then they will turn to foreign gods and serve them; and they will provoke Me and break My covenant.",
+  "pericope": {
+    "id": "DEU.P065",
+    "title": "Final Word to Moses",
+    "range": "DEU.31:13-31:28",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/MAT_footnotes.md",
-      "line_number": 1915,
+      "source_file": "study/footnotes/NT/MAT_footnotes.md",
+      "line_number": 1238,
       "raw_match": "[[DEU.31:20]]",
       "reference_type": "wikilink",
-      "context": "impure ways, and an unclean spirit took up residence in their hearts ([[DEU.31:20]]; Ps"
+      "context": "When the Israelites were delivered out of Egypt, they did not repent of their impure ways, and an unclean spirit took up residence in their hearts ([[DEU.31:20]]; Ps 105:34-39). Thus, we guard our hearts. Unless there is full repentance and the Holy Spirit dwells in a person, an expelled demon will return with others and reoccupy its abode."
     }
   ]
 }

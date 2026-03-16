@@ -2,11 +2,21 @@
   "anchor_id": "GEN.18:9",
   "canon_uri": "canon/OT/GEN.md#GEN.18:9",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Then He said to him, 'Where is Sarah your wife?' He replied, 'Here, in the tent.'",
+  "pericope": {
+    "id": "GEN.P024",
+    "title": "Promise of a Son",
+    "range": "GEN.18:8-18:14",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/DAN_articles.md",
+      "source_file": "study/articles/OT/DAN_articles.md",
       "line_number": 22,
       "raw_match": "[[GEN.18:1]]-16",
       "reference_type": "wikilink_range",

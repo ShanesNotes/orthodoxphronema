@@ -2,22 +2,32 @@
   "anchor_id": "DEU.34:6",
   "canon_uri": "canon/OT/DEU.md#DEU.34:6",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Then He buried him in a valley in the land of Moab, opposite Beth Peor; but no one knows his grave to this day.",
+  "pericope": {
+    "id": "DEU.P069",
+    "title": "Moses' Death on Mount Nebo",
+    "range": "DEU.33:32-34:12",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/JUD_footnotes.md",
-      "line_number": 91,
+      "source_file": "study/footnotes/NT/JUD_footnotes.md",
+      "line_number": 62,
       "raw_match": "[[DEU.34:6]]",
       "reference_type": "wikilink",
-      "context": "Apparently from the apocryphal book The Assumption of Moses (see [[DEU.34:5]], [[DEU.34:6]] for the"
+      "context": "Apparently from the apocryphal book The Assumption of Moses (see [[DEU.34:5]], [[DEU.34:6]] for the possibility of the assumption of Moses; also [[ZEC.3:1]], [[ZEC.3:2]]). The people of God are defended by holy angels. This is also a gracious warning to believers concerning vehement accusations against God's enemies: Let God judge. The archangel Michael showed this restraint ([[ZEC.3:2]]) even though he was dealing with the devil himself."
     },
     {
-      "source_file": "staging/validated/OT/2KI_footnotes.md",
-      "line_number": 109,
+      "source_file": "study/footnotes/OT/2KI_footnotes.md",
+      "line_number": 81,
       "raw_match": "[[DEU.34:6]]",
       "reference_type": "wikilink",
-      "context": "grave to this day\" ([[DEU.34:6]]). The ministries or offices of Moses and Elijah, representing"
+      "context": "He saw Elijah no more: Like Elijah, Moses also disappeared, for \"no one knows his grave to this day\" ([[DEU.34:6]]). The ministries or offices of Moses and Elijah, representing the law and the prophets of God, are fulfilled in Christ ([[MAT.17:3]])."
     }
   ]
 }

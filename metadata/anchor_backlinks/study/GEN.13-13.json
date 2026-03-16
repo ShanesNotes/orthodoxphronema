@@ -2,12 +2,22 @@
   "anchor_id": "GEN.13:13",
   "canon_uri": "canon/OT/GEN.md#GEN.13:13",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Now the men of Sodom were exceedingly wicked and sinful before God.",
+  "pericope": {
+    "id": "GEN.P017",
+    "title": "Abram and Lot Part Ways",
+    "range": "GEN.12:20-13:17",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/3MA_footnotes.md",
-      "line_number": 135,
+      "source_file": "study/footnotes/OT/3MA_footnotes.md",
+      "line_number": 114,
       "raw_match": "[[GEN.13:13]]",
       "reference_type": "wikilink",
       "context": "Sodom: See [[GEN.13:13]]; [[DEU.29:23]]; WSol 10:6-8; 2Ez 2:8; [[LUK.17:29]]; [[2PE.2:6]]; [[JUD.1:7]]."

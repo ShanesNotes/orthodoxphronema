@@ -2,36 +2,46 @@
   "anchor_id": "JOH.1:16",
   "canon_uri": "canon/NT/JOH.md#JOH.1:16",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "And of His fullness we have all received, and grace for grace.",
+  "pericope": {
+    "id": "JOH.P002",
+    "title": "The Word Becomes Flesh to Reveal the Father",
+    "range": "JOH.1:12-1:21",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/HEB_footnotes.md",
-      "line_number": 417,
+      "source_file": "study/footnotes/NT/HEB_footnotes.md",
+      "line_number": 269,
       "raw_match": "[[JOH.1:1]]-18",
       "reference_type": "wikilink_range",
-      "context": "the Word of God Himself, our Lord Jesus Christ (see [[JOH.1:1]]-18). Nothing is able to escape"
+      "context": "The word of God and the sword here are living and powerful. The phrase His sight (v. 13) tells us this reference is not to the written word, Holy Scripture, but to the Word of God Himself, our Lord Jesus Christ (see [[JOH.1:1]]-18). Nothing is able to escape the discernment of Christ, the Word of God."
     },
     {
-      "source_file": "staging/validated/NT/REV_footnotes.md",
-      "line_number": 231,
+      "source_file": "study/footnotes/NT/REV_footnotes.md",
+      "line_number": 142,
       "raw_match": "[[JOH.1:1]]-18",
       "reference_type": "wikilink_range",
-      "context": "of the Son of Man (see also [[JOH.1:1]]-18). Thus, in Christ man (v. 14) and God (vv. 15, 16)"
+      "context": "Further, Christ is here described as God, His hair (v. 14) being that of Daniel's vision of God as the \"Ancient of Days\" (7:9; see also 1En 46:1). His eyes signify knowledge; His feet (v. 15), permanence and stability; His voice, authority or teaching; His right hand (v. 16), power; His two-edged sword, complete discernment. This imagery continues throughout Revelation to affirm the preexistence and eternal divinity of the Son of Man (see also [[JOH.1:1]]-18). Thus, in Christ man (v. 14) and God (vv. 15, 16) are united."
     },
     {
-      "source_file": "staging/validated/OT/SIR_footnotes.md",
-      "line_number": 1728,
+      "source_file": "study/footnotes/OT/SIR_footnotes.md",
+      "line_number": 1365,
       "raw_match": "[[JOH.1:1]]-18",
       "reference_type": "wikilink_range",
-      "context": "Second Person of the Godhead, was and is eternally active in all creation (see [[JOH.1:1]]-18)."
+      "context": "Any works done by God begin with His Word. He decrees it and it is done. Though the Greek for \"words\" here is plural, the Christian knows the Eternal Word (Logos), the Second Person of the Godhead, was and is eternally active in all creation (see [[JOH.1:1]]-18)."
     },
     {
-      "source_file": "staging/validated/OT/ZEC_footnotes.md",
-      "line_number": 29,
+      "source_file": "study/footnotes/OT/ZEC_footnotes.md",
+      "line_number": 21,
       "raw_match": "[[JOH.1:1]]-18",
       "reference_type": "wikilink_range",
-      "context": "the language used by John to describe the Incarnation (see [[JOH.1:1]]-18). The Word who"
+      "context": "Zechariah records an exact date when his visions began. The eighth month is a reference to the Hebrew calendar, while the second year of Darius is a Persian rendering of time. Zechariah is the son of Berechiah and grandson of Addo the prophet. The identity of the prophet and the time of the prophecy are not merely historical references; they are eternally significant because the revelation of God came to Zechariah at this time. The word of the Lord is an action of God in His graceful self-disclosure. The word of the Lord comes to Zechariah veiled, but when the Messiah comes in Bethlehem of Judea five centuries later, He comes in the flesh. Indeed, the language of the LXX here parallels the language used by John to describe the Incarnation (see [[JOH.1:1]]-18). The Word who comes to Zechariah is truly the eternal Son of God, the Word of God, the Second Person of the Holy Trinity who becomes flesh as Jesus Christ."
     }
   ]
 }

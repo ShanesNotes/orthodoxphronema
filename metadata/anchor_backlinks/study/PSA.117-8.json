@@ -2,15 +2,25 @@
   "anchor_id": "PSA.117:8",
   "canon_uri": "canon/OT/PSA.md#PSA.117:8",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "It is good to trust in the Lord Rather than to trust in man;",
+  "pericope": {
+    "id": "PSA.P117",
+    "title": "Psalm 117",
+    "range": "PSA.117:1-117:29",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/ISA_footnotes.md",
-      "line_number": 514,
+      "source_file": "study/footnotes/OT/ISA_footnotes.md",
+      "line_number": 371,
       "raw_match": "[[PSA.117:8]]",
       "reference_type": "wikilink",
-      "context": "is good to trust in the Lord / Rather than to trust in man\" ([[PSA.117:8]])."
+      "context": "Those who trust in Egypt or in any human government will labor in vain. \"It is good to trust in the Lord / Rather than to trust in man\" ([[PSA.117:8]])."
     }
   ]
 }

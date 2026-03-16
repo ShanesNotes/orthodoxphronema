@@ -2,15 +2,25 @@
   "anchor_id": "ROM.1:18",
   "canon_uri": "canon/NT/ROM.md#ROM.1:18",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "For the wrath of God is revealed from heaven against all ungodliness and unrighteousness of men, who suppress the truth in unrighteousness,",
+  "pericope": {
+    "id": "ROM.P004",
+    "title": "Judgment of Sinning Humanity",
+    "range": "ROM.1:17-1:27",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/HAB_footnotes.md",
-      "line_number": 185,
+      "source_file": "study/footnotes/OT/HAB_footnotes.md",
+      "line_number": 139,
       "raw_match": "[[ROM.1:18]]-32",
       "reference_type": "wikilink_range",
-      "context": "the truth about God ([[ROM.1:18]]-32)."
+      "context": "Elsewhere, Hosea describes the fundamental human problem as lack of knowledge of God ([[HOS.4:1]], [[HOS.4:6]]; 6:6). This ignorance unfortunately is self-inflicted because men suppress the truth about God ([[ROM.1:18]]-32)."
     }
   ]
 }

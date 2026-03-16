@@ -2,15 +2,25 @@
   "anchor_id": "NUM.26:59",
   "canon_uri": "canon/OT/NUM.md#NUM.26:59",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "The name of Amram's wife was Jochebed the daughter of Levi, who was born to Levi in Egypt; and to Amram she bore Aaron and Moses and their sister Miriam.",
+  "pericope": {
+    "id": "NUM.P060",
+    "title": "The Second Census of Israel",
+    "range": "NUM.25:18-26:64",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/EXO_footnotes.md",
-      "line_number": 69,
+      "source_file": "study/footnotes/OT/EXO_footnotes.md",
+      "line_number": 51,
       "raw_match": "[[NUM.26:59]]",
       "reference_type": "wikilink",
-      "context": "Moses' parents were Amram and Jochebed (6:20; [[NUM.26:59]]). They hid Moses for"
+      "context": "Moses' parents were Amram and Jochebed (6:20; [[NUM.26:59]]). They hid Moses for three months because they embraced the faith of Abraham ([[HEB.11:8]]-15; 23). Thus, they were not afraid of the king's commandment."
     }
   ]
 }

@@ -1,0 +1,1455 @@
+{
+  "date": "2026-03-15",
+  "results": [
+    {
+      "book": "EXO",
+      "status": "OK",
+      "staging_file": "/home/ark/orthodoxphronema/staging/validated/OT/EXO.md",
+      "deleted_count": 6,
+      "deleted_anchors": [
+        "EXO.12:1",
+        "EXO.13:1",
+        "EXO.14:1",
+        "EXO.21:1",
+        "EXO.25:1",
+        "EXO.31:1"
+      ],
+      "validation_overall": "PASS",
+      "validation_checks": {
+        "V6": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V1": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V2": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V3": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V4": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V5": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V7": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V8": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V9": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V10": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V11": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V12": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V13": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "book": "LEV",
+      "status": "OK",
+      "staging_file": "/home/ark/orthodoxphronema/staging/validated/OT/LEV.md",
+      "deleted_count": 13,
+      "deleted_anchors": [
+        "LEV.4:1",
+        "LEV.6:1",
+        "LEV.7:1",
+        "LEV.8:1",
+        "LEV.14:1",
+        "LEV.15:1",
+        "LEV.18:1",
+        "LEV.19:1",
+        "LEV.20:1",
+        "LEV.22:1",
+        "LEV.23:1",
+        "LEV.24:1",
+        "LEV.25:1"
+      ],
+      "validation_overall": "PASS",
+      "validation_checks": {
+        "V6": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V1": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V2": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V3": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V4": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V5": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V7": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V8": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V9": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V10": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V11": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V12": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V13": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "book": "NUM",
+      "status": "OK",
+      "staging_file": "/home/ark/orthodoxphronema/staging/validated/OT/NUM.md",
+      "deleted_count": 6,
+      "deleted_anchors": [
+        "NUM.6:1",
+        "NUM.26:1",
+        "NUM.28:1",
+        "NUM.31:1",
+        "NUM.34:1",
+        "NUM.35:1"
+      ],
+      "validation_overall": "PASS",
+      "validation_checks": {
+        "V6": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V1": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V2": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V3": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V4": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V5": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V7": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V8": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V9": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V10": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V11": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V12": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V13": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "book": "JOS",
+      "status": "OK",
+      "staging_file": "/home/ark/orthodoxphronema/staging/validated/OT/JOS.md",
+      "deleted_count": 6,
+      "deleted_anchors": [
+        "JOS.1:1",
+        "JOS.6:1",
+        "JOS.10:1",
+        "JOS.11:1",
+        "JOS.13:1",
+        "JOS.16:1"
+      ],
+      "validation_overall": "PASS",
+      "validation_checks": {
+        "V6": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V1": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V2": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V3": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V4": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V5": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V7": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V8": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V9": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V10": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V11": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V12": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V13": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "book": "JDG",
+      "status": "OK",
+      "staging_file": "/home/ark/orthodoxphronema/staging/validated/OT/JDG.md",
+      "deleted_count": 4,
+      "deleted_anchors": [
+        "JDG.3:1",
+        "JDG.4:1",
+        "JDG.9:1",
+        "JDG.19:1"
+      ],
+      "validation_overall": "PASS",
+      "validation_checks": {
+        "V6": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V1": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V2": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V3": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V4": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V5": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V7": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V8": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V9": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V10": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V11": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V12": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V13": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "book": "2SA",
+      "status": "OK",
+      "staging_file": "/home/ark/orthodoxphronema/staging/validated/OT/2SA.md",
+      "deleted_count": 1,
+      "deleted_anchors": [
+        "2SA.14:1"
+      ],
+      "validation_overall": "PASS",
+      "validation_checks": {
+        "V6": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V1": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V2": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V3": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V4": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V5": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V7": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V8": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V9": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V10": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V11": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V12": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V13": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "book": "1KI",
+      "status": "OK",
+      "staging_file": "/home/ark/orthodoxphronema/staging/validated/OT/1KI.md",
+      "deleted_count": 1,
+      "deleted_anchors": [
+        "1KI.2:1"
+      ],
+      "validation_overall": "WARN",
+      "validation_checks": {
+        "V6": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V1": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V2": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V3": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V4": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V5": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V7": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V8": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V9": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V10": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V11": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V12": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V13": {
+          "status": "WARN",
+          "errors": [],
+          "warnings": [
+            "V13  Mega-line at line 612: 1KI.12:33 (534 chars, oversized)"
+          ]
+        }
+      }
+    },
+    {
+      "book": "2KI",
+      "status": "OK",
+      "staging_file": "/home/ark/orthodoxphronema/staging/validated/OT/2KI.md",
+      "deleted_count": 1,
+      "deleted_anchors": [
+        "2KI.10:1"
+      ],
+      "validation_overall": "PASS",
+      "validation_checks": {
+        "V6": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V1": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V2": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V3": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V4": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V5": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V7": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V8": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V9": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V10": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V11": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V12": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V13": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "book": "1CH",
+      "status": "OK",
+      "staging_file": "/home/ark/orthodoxphronema/staging/validated/OT/1CH.md",
+      "deleted_count": 10,
+      "deleted_anchors": [
+        "1CH.1:1",
+        "1CH.2:1",
+        "1CH.3:1",
+        "1CH.5:1",
+        "1CH.8:1",
+        "1CH.9:1",
+        "1CH.12:1",
+        "1CH.13:1",
+        "1CH.23:1",
+        "1CH.25:1"
+      ],
+      "validation_overall": "WARN",
+      "validation_checks": {
+        "V6": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V1": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V2": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V3": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V4": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V5": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V7": {
+          "status": "WARN",
+          "errors": [],
+          "warnings": [
+            "V7   Completeness: 928/930 verses (99.8%); gap of 2"
+          ]
+        },
+        "V8": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V9": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V10": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V11": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V12": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V13": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "book": "2CH",
+      "status": "OK",
+      "staging_file": "/home/ark/orthodoxphronema/staging/validated/OT/2CH.md",
+      "deleted_count": 6,
+      "deleted_anchors": [
+        "2CH.4:1",
+        "2CH.8:1",
+        "2CH.10:1",
+        "2CH.14:1",
+        "2CH.17:1",
+        "2CH.18:1"
+      ],
+      "validation_overall": "PASS",
+      "validation_checks": {
+        "V6": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V1": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V2": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V3": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V4": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V5": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V7": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V8": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V9": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V10": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V11": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V12": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V13": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "book": "EZR",
+      "status": "OK",
+      "staging_file": "/home/ark/orthodoxphronema/staging/validated/OT/EZR.md",
+      "deleted_count": 3,
+      "deleted_anchors": [
+        "EZR.4:1",
+        "EZR.7:1",
+        "EZR.8:1"
+      ],
+      "validation_overall": "PASS",
+      "validation_checks": {
+        "V6": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V1": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V2": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V3": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V4": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V5": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V7": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V8": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V9": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V10": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V11": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V12": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V13": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "book": "NEH",
+      "status": "OK",
+      "staging_file": "/home/ark/orthodoxphronema/staging/validated/OT/NEH.md",
+      "deleted_count": 1,
+      "deleted_anchors": [
+        "NEH.10:1"
+      ],
+      "validation_overall": "PASS",
+      "validation_checks": {
+        "V6": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V1": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V2": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V3": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V4": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V5": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V7": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V8": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V9": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V10": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V11": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V12": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V13": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "book": "TOB",
+      "status": "OK",
+      "staging_file": "/home/ark/orthodoxphronema/staging/validated/OT/TOB.md",
+      "deleted_count": 5,
+      "deleted_anchors": [
+        "TOB.3:1",
+        "TOB.6:1",
+        "TOB.9:1",
+        "TOB.10:1",
+        "TOB.11:1"
+      ],
+      "validation_overall": "PASS",
+      "validation_checks": {
+        "V6": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V1": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V2": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V3": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V4": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V5": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V7": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V8": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V9": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V10": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V11": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V12": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V13": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "book": "JDT",
+      "status": "OK",
+      "staging_file": "/home/ark/orthodoxphronema/staging/validated/OT/JDT.md",
+      "deleted_count": 2,
+      "deleted_anchors": [
+        "JDT.3:1",
+        "JDT.10:1"
+      ],
+      "validation_overall": "PASS",
+      "validation_checks": {
+        "V6": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V1": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V2": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V3": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V4": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V5": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V7": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V8": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V9": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V10": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V11": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V12": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V13": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "book": "JON",
+      "status": "OK",
+      "staging_file": "/home/ark/orthodoxphronema/staging/validated/OT/JON.md",
+      "deleted_count": 2,
+      "deleted_anchors": [
+        "JON.1:1",
+        "JON.3:1"
+      ],
+      "validation_overall": "PASS",
+      "validation_checks": {
+        "V6": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V1": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V2": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V3": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V4": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V5": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V7": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V8": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V9": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V10": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V11": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V12": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V13": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "book": "ZEP",
+      "status": "OK",
+      "staging_file": "/home/ark/orthodoxphronema/staging/validated/OT/ZEP.md",
+      "deleted_count": 2,
+      "deleted_anchors": [
+        "ZEP.2:1",
+        "ZEP.3:1"
+      ],
+      "validation_overall": "PASS",
+      "validation_checks": {
+        "V6": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V1": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V2": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V3": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V4": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V5": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V7": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V8": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V9": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V10": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V11": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V12": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V13": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "book": "ZEC",
+      "status": "OK",
+      "staging_file": "/home/ark/orthodoxphronema/staging/validated/OT/ZEC.md",
+      "deleted_count": 1,
+      "deleted_anchors": [
+        "ZEC.8:1"
+      ],
+      "validation_overall": "PASS",
+      "validation_checks": {
+        "V6": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V1": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V2": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V3": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V4": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V5": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V7": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V8": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V9": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V10": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V11": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V12": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V13": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "book": "JER",
+      "status": "OK",
+      "staging_file": "/home/ark/orthodoxphronema/staging/validated/OT/JER.md",
+      "deleted_count": 8,
+      "deleted_anchors": [
+        "JER.2:1",
+        "JER.11:1",
+        "JER.14:1",
+        "JER.16:1",
+        "JER.23:1",
+        "JER.29:1",
+        "JER.37:1",
+        "JER.42:1"
+      ],
+      "validation_overall": "PASS",
+      "validation_checks": {
+        "V6": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V1": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V2": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V3": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V4": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V5": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V7": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V8": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V9": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V10": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V11": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V12": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V13": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        }
+      }
+    }
+  ]
+}

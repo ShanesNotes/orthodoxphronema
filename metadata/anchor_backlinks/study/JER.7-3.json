@@ -2,15 +2,25 @@
   "anchor_id": "JER.7:3",
   "canon_uri": "canon/OT/JER.md#JER.7:3",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Do not entrust yourselves to lying words, for they will not profit you when you say, 'It is the temple of the Lord, the temple of the Lord.'",
+  "pericope": {
+    "id": "JER.P013",
+    "title": "Trust Not in Lying Words",
+    "range": "JER.6:30-7:24",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/JAS_footnotes.md",
-      "line_number": 245,
+      "source_file": "study/footnotes/NT/JAS_footnotes.md",
+      "line_number": 157,
       "raw_match": "[[JER.7:3]]",
       "reference_type": "wikilink",
-      "context": "writes Jeremiah [see [[JER.7:3]]]; nor should you say that faith alone in our Lord Jesus Christ"
+      "context": "The faith that saves is a complete faith, not just the mind and the tongue but the whole man trusting in the living God. This means our faith and our relationship with God --our justification--are dynamic and living. Our faith grows and affects our actions, or it dies. \"Faith alone\" (by itself, v. 17), static faith, does not save. We must nurture our faith in God and love for Him through our works. \"Do not say you are the temple of the Lord, writes Jeremiah [see [[JER.7:3]]]; nor should you say that faith alone in our Lord Jesus Christ can save you, for this is impossible unless you acquire love for Him through your works. As for faith by itself, 'the devils also believe, and tremble'\" (MaxCon)."
     }
   ]
 }

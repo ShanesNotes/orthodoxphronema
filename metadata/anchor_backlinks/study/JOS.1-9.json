@@ -2,15 +2,25 @@
   "anchor_id": "JOS.1:9",
   "canon_uri": "canon/OT/JOS.md#JOS.1:9",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Behold, I have commanded you. Be strong and courageous. Do not be cowardly or fearful, for the Lord your God is with you in all things, wherever you go.'",
+  "pericope": {
+    "id": "JOS.P002",
+    "title": "Cross the River Jordan",
+    "range": "JOS.1:9-1:17",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/1CH_footnotes.md",
-      "line_number": 393,
+      "source_file": "study/footnotes/OT/1CH_footnotes.md",
+      "line_number": 247,
       "raw_match": "[[JOS.1:9]]",
       "reference_type": "wikilink",
-      "context": "Jordan into the Promised Land ([[JOS.1:9]]). Joshua and Solomon are both types of Christ."
+      "context": "The Lord spoke these exact words to Joshua just before Israel crossed over the Jordan into the Promised Land ([[JOS.1:9]]). Joshua and Solomon are both types of Christ."
     }
   ]
 }

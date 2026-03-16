@@ -2,43 +2,53 @@
   "anchor_id": "ROM.13:4",
   "canon_uri": "canon/NT/ROM.md#ROM.13:4",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "For he is God's minister to you for good. But if you do evil, be afraid; for he does not bear the sword in vain; for he is God's minister, an avenger to execute wrath on him who practices evil.",
+  "pericope": {
+    "id": "ROM.P035",
+    "title": "Duties to the State",
+    "range": "ROM.12:21-13:6",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/1PE_footnotes.md",
-      "line_number": 273,
+      "source_file": "study/footnotes/NT/1PE_footnotes.md",
+      "line_number": 179,
       "raw_match": "[[ROM.13:1]]-7",
       "reference_type": "wikilink_range",
-      "context": "(See also [[ROM.13:1]]-7; [[MAT.22:21]]; [[TIT.3:1]].) Peter urges his readers to be obedient to"
+      "context": "(See also [[ROM.13:1]]-7; [[MAT.22:21]]; [[TIT.3:1]].) Peter urges his readers to be obedient to civil government. While Christians serve a higher authority, God Himself, it is God who calls us to submit to earthly leaders for the Lord's sake (v. 13). This is not a call to \"separate\" Church from state, but rather a call to cooperate with and enhance the state-- realizing that at times Church and state have been at great odds. When ultimate loyalty and obedience to Christ and His gospel are at stake, Peter's actions show that we are to obey God rather than man, even to the point of prison or death ([[ACT.4:19]], [[ACT.4:20]])."
     },
     {
-      "source_file": "staging/validated/NT/LUK_footnotes.md",
-      "line_number": 2643,
+      "source_file": "study/footnotes/NT/LUK_footnotes.md",
+      "line_number": 1768,
       "raw_match": "[[ROM.13:1]]-7",
       "reference_type": "wikilink_range",
-      "context": "while serving God ([[ROM.13:1]]-7). As the coin bears the image of the emperor and is"
+      "context": "This question on taxation is designed to trap Jesus: a \"yes\" would turn the Jewish people against Him, while a \"no\" would bring a charge of treason by the Romans. His answer defeats their cunning and shows that a believer can render the state its due while serving God ([[ROM.13:1]]-7). As the coin bears the image of the emperor and is properly paid to him, so each person bears the image of God and therefore belongs to Him. Conflict arises only when the state demands that which is contrary to God."
     },
     {
-      "source_file": "staging/validated/OT/BAR_footnotes.md",
-      "line_number": 45,
+      "source_file": "study/footnotes/OT/BAR_footnotes.md",
+      "line_number": 39,
       "raw_match": "[[ROM.13:1]]-7",
       "reference_type": "wikilink_range",
-      "context": "authority (see [[JER.27:6]]-8; 36:4-7; [[ROM.13:1]]-7; [[1TI.2:1]], [[1TI.2:2]])."
+      "context": "God's people have always been called to pray for the... king and all who are in authority (see [[JER.27:6]]-8; 36:4-7; [[ROM.13:1]]-7; [[1TI.2:1]], [[1TI.2:2]])."
     },
     {
-      "source_file": "staging/validated/OT/EZR_footnotes.md",
-      "line_number": 26,
+      "source_file": "study/footnotes/OT/EZR_footnotes.md",
+      "line_number": 23,
       "raw_match": "[[ROM.13:1]]-7",
       "reference_type": "wikilink_range",
-      "context": "21). 1:1-4 The kings of the earth, who receive authority from the Lord ([[JOH.19:11]]; [[ROM.13:1]]-7), are used by God to fulfill His plan."
+      "context": "He is the God... in Jerusalem: Deities were generally seen as belonging to a specific location, yet this statement is also prophetic in that it points as well to the New Jerusalem, the eternal city over which God reigns and in which all nations will dwell (Rev 21). 1:1-4 The kings of the earth, who receive authority from the Lord ([[JOH.19:11]]; [[ROM.13:1]]-7), are used by God to fulfill His plan."
     },
     {
-      "source_file": "staging/validated/OT/WIS_footnotes.md",
-      "line_number": 144,
+      "source_file": "study/footnotes/OT/WIS_footnotes.md",
+      "line_number": 122,
       "raw_match": "[[ROM.13:1]]-6",
       "reference_type": "wikilink_range",
-      "context": "the Lord (v. 3). St. Paul agrees in [[ROM.13:1]]-6. 6:10"
+      "context": "The full armor of God represents His holy attributes realized in Christ and in those who are baptized into Christ ([[GAL.3:27]]). St. Paul lists similar spiritual armor in [[EPH.6:11]]-17. 6:1-10 A word of exhortation to kings, judges, and rulers: their source of power is from the Lord (v. 3). St. Paul agrees in [[ROM.13:1]]-6. 6:10 Holy things here are God's commandments and wise instruction, which are taught to the faithful. In the Divine Liturgy, \"holy things\" refers to the Body and Blood of Christ received in Holy Communion."
     }
   ]
 }

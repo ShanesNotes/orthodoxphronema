@@ -2,64 +2,74 @@
   "anchor_id": "GAL.4:6",
   "canon_uri": "canon/NT/GAL.md#GAL.4:6",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "And because you are sons, God has sent forth the Spirit of His Son into your hearts, crying out, 'Abba, Father!'",
+  "pericope": {
+    "id": "GAL.P014",
+    "title": "Sons of God Through Christ and the Spirit",
+    "range": "GAL.3:29-4:6",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/JOH_footnotes.md",
-      "line_number": 113,
+      "source_file": "study/footnotes/NT/JOH_footnotes.md",
+      "line_number": 75,
       "raw_match": "[[GAL.4:4]]-7",
       "reference_type": "wikilink_range",
-      "context": "Those who receive Christ become children of God by adoption ([[GAL.4:4]]-7) and by grace"
+      "context": "Right also means \"authority\" and indicates a gift from God, not an inalienable right. Those who receive Christ become children of God by adoption ([[GAL.4:4]]-7) and by grace inherit everything Christ is by nature (see the article \"Deification\" at 2 Peter). To believe in His name means to believe and trust in Him who in His humanity took the name Jesus as Word, Son, Messiah, and Savior."
     },
     {
-      "source_file": "staging/validated/NT/JOH_footnotes.md",
-      "line_number": 515,
+      "source_file": "study/footnotes/NT/JOH_footnotes.md",
+      "line_number": 316,
       "raw_match": "[[GAL.4:4]]-7",
       "reference_type": "wikilink_range",
-      "context": "baptism (v. 5) and our adoption by God as our Father ([[GAL.4:4]]-7). This new birth is but"
+      "context": "Born again: The word again can also be translated \"from above\" and clearly refers to the heavenly birth from God through faith in Christ (1:12, 13). This heavenly birth is baptism (v. 5) and our adoption by God as our Father ([[GAL.4:4]]-7). This new birth is but the beginning of our spiritual life, with its goal being entrance into the kingdom of God."
     },
     {
-      "source_file": "staging/validated/NT/LUK_footnotes.md",
-      "line_number": 549,
+      "source_file": "study/footnotes/NT/LUK_footnotes.md",
+      "line_number": 365,
       "raw_match": "[[GAL.4:4]]-7",
       "reference_type": "wikilink_range",
-      "context": "([[GAL.4:4]]-7)."
+      "context": "Joseph is honored with the title father for his care and upbringing of his adopted Son. This title further prefigures our adoption by God, whom by grace we call \"Father\" ([[GAL.4:4]]-7)."
     },
     {
-      "source_file": "staging/validated/NT/LUK_footnotes.md",
-      "line_number": 663,
+      "source_file": "study/footnotes/NT/LUK_footnotes.md",
+      "line_number": 440,
       "raw_match": "[[GAL.4:4]]-7",
       "reference_type": "wikilink_range",
-      "context": "faithfully, as sonship is bestowed by adoption ([[GAL.4:4]]-7). The Holy Spirit appearing as a"
+      "context": "The Baptism of Christ is celebrated on January 6 and is known commonly as Epiphany, or more properly, Theophany, which means \"God revealed.\" The Son is revealed by the descent of the Holy Spirit and by the voice of the Father. This is the greatest and clearest public manifestation of God as Trinity in human history, as we sing, \"The Trinity was made manifest.\" The words spoken by the Father also apply to everyone who is baptized and lives faithfully, as sonship is bestowed by adoption ([[GAL.4:4]]-7). The Holy Spirit appearing as a dove is not an incarnation, but rather a visible sign for the people. This appearance further fulfills the type prefigured at the Flood: \"Just as a dove announced to Noah that God's wrath had ceased, so too the Holy Spirit announces here that Christ has reconciled us to God by sweeping sin away in the flood waters of baptism\" (Theoph)."
     },
     {
-      "source_file": "staging/validated/NT/LUK_footnotes.md",
-      "line_number": 689,
+      "source_file": "study/footnotes/NT/LUK_footnotes.md",
+      "line_number": 455,
       "raw_match": "[[GAL.4:4]]-7",
       "reference_type": "wikilink_range",
-      "context": "lineage of blood ([[GAL.4:4]]-7)."
+      "context": "The genealogy follows Joseph's ancestry, even though Jesus was only supposed to be the son of Joseph but was in fact humanly descended from Mary only. This is explained in two complementary ways: (1) Joseph was a righteous man and would have married within his tribe--thus Mary and Joseph would have largely shared a common lineage; (2) Jesus was born to bring all mankind into adoption by the Father, and thus He affirms that a lineage of adoption is as binding and receives the same inheritance as a lineage of blood ([[GAL.4:4]]-7)."
     },
     {
-      "source_file": "staging/validated/NT/MAT_footnotes.md",
-      "line_number": 1009,
+      "source_file": "study/footnotes/NT/MAT_footnotes.md",
+      "line_number": 651,
       "raw_match": "[[GAL.4:4]]-7",
       "reference_type": "wikilink_range",
-      "context": "grace of adoption ([[GAL.4:4]]-7). As a \"son of God,\" the Christian is called to love, trust, and"
+      "context": "The Father-Son relationship within the Trinity reveals our potential relationship with God. Christ, the Son of God, grants us the privilege of calling God Our Father by the grace of adoption ([[GAL.4:4]]-7). As a \"son of God,\" the Christian is called to love, trust, and serve God as Christ does the Father. We must note that God is not our Father simply because He created us. He is only Father to those in a saving and personal relationship with Him, a communion that only comes by the grace of adoption (see [[JOH.1:13]]; Rom 8:14-16)."
     },
     {
-      "source_file": "staging/validated/NT/MAT_footnotes.md",
-      "line_number": 3531,
+      "source_file": "study/footnotes/NT/MAT_footnotes.md",
+      "line_number": 2258,
       "raw_match": "[[GAL.4:4]]-7",
       "reference_type": "wikilink_range",
-      "context": "servants, for the righteous become children of God by adoption ([[GAL.4:4]]-7)."
+      "context": "Inherit is a term used with regard to sons and daughters rather than strangers or servants, for the righteous become children of God by adoption ([[GAL.4:4]]-7)."
     },
     {
-      "source_file": "staging/validated/NT/ROM_footnotes.md",
-      "line_number": 1055,
+      "source_file": "study/footnotes/NT/ROM_footnotes.md",
+      "line_number": 692,
       "raw_match": "[[GAL.4:5]]-7",
       "reference_type": "wikilink_range",
-      "context": "15; see [[GAL.4:5]]-7)."
+      "context": "Christians are adopted as children of God (v. 16) and therefore heirs (v. 17) of the same Kingdom Christ inherited when He ascended in the flesh into heaven. This standing is given by grace; what Christ inherited by His own nature, we receive as a gift. Our adoption (v. 15) is a fact of our baptism. Yet it rests on us to receive the love of this adoption by continuing in faith and turning constantly toward God. The experience of this adoption allows us to address God with the intimate term Abba, which means \"Papa\" (v. 15; see [[GAL.4:5]]-7)."
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "book_code": "JAS",
   "testament": "NT",
-  "timestamp": "2026-03-13T13:36:33.352561",
-  "registry_version": "1.4.0",
+  "timestamp": "2026-03-15T18:29:27.627206",
+  "registry_version": "1.7.6",
   "body_checksum": "a1796b1feda3cfa1c91604ecd2f867994e73ada1a09dbeb419f910be6868c0f6",
   "allow_incomplete": true,
   "staged_path": "/home/ark/orthodoxphronema/staging/validated/NT/JAS.md",

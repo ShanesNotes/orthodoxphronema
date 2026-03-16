@@ -2,15 +2,25 @@
   "anchor_id": "LUK.13:2",
   "canon_uri": "canon/NT/LUK.md#LUK.13:2",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "And Jesus answered and said to them, 'Do you suppose that these Galileans were worse sinners than all other Galileans, because they suffered such things?",
+  "pericope": {
+    "id": "LUK.P063",
+    "title": "What Happens to the Unrepentant",
+    "range": "LUK.12:59-13:4",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/ACT_footnotes.md",
-      "line_number": 429,
+      "source_file": "study/footnotes/NT/ACT_footnotes.md",
+      "line_number": 291,
       "raw_match": "[[LUK.13:1]]-4",
       "reference_type": "wikilink_range",
-      "context": "as thought by many Jews (see [[LUK.13:1]]-4; [[JOH.9:1]]-3). Rather, Christians accept persecution"
+      "context": "Rejoicing: See [[LUK.6:22]], [[LUK.6:23]]. Suffering is not necessarily a sign of God's displeasure, as thought by many Jews (see [[LUK.13:1]]-4; [[JOH.9:1]]-3). Rather, Christians accept persecution joyfully, knowing that the rewards of the Kingdom far outweigh any sufferings on earth. See also [[ROM.5:3]]-5."
     }
   ]
 }

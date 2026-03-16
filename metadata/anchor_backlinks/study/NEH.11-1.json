@@ -2,15 +2,25 @@
   "anchor_id": "NEH.11:1",
   "canon_uri": "canon/OT/NEH.md#NEH.11:1",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Now the leaders of the people dwelt at Jerusalem; the rest of the people cast lots to bring one out of ten to dwell in Jerusalem, the holy city, and nine-tenths were to dwell in other cities.",
+  "pericope": {
+    "id": "NEH.P024",
+    "title": "The People Hear the Law",
+    "range": "NEH.7:73-13:31",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/ACT_footnotes.md",
-      "line_number": 113,
+      "source_file": "study/footnotes/NT/ACT_footnotes.md",
+      "line_number": 81,
       "raw_match": "[[NEH.11:1]]",
       "reference_type": "wikilink",
-      "context": "18:6-10; [[NEH.11:1]]; [[JON.1:7]]) and continues in various places in the Church to this day. This"
+      "context": "Casting lots to discern the will of God has been practiced since ancient times (Jos 18:6-10; [[NEH.11:1]]; [[JON.1:7]]) and continues in various places in the Church to this day. This should not be misunderstood as surrendering all authority to random chance. The authority of the apostles is shown by their offering of specific names (v. 23). Nevertheless, the final outcome is left to God."
     }
   ]
 }

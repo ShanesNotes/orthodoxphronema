@@ -1207,7 +1207,7 @@ assures him, I will give you life (v. 35).
 
 This chapter is a summary of the rise and fall of Zedekiah (vv. 1-9), the destruction
 of Jerusalem (vv. 10-20), the captives in Babylon (vv. 21-24), and the release of
-Jehoiachin from prison (vv. 25-28). It parallels almost verbatim 4Kg 24:18-25:30. 
+Jehoiachin from prison (vv. 25-28). It parallels almost verbatim [[2KI.24:18]]-25:30. 
 
 ### 52:2
 *(anchor: JER.52:2)*

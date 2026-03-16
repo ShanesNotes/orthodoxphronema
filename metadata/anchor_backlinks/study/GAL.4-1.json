@@ -2,15 +2,25 @@
   "anchor_id": "GAL.4:1",
   "canon_uri": "canon/NT/GAL.md#GAL.4:1",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Now I say that the heir, as long as he is a child, does not differ at all from a slave, though he is master of all,",
+  "pericope": {
+    "id": "GAL.P014",
+    "title": "Sons of God Through Christ and the Spirit",
+    "range": "GAL.3:29-4:6",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/MRK_footnotes.md",
-      "line_number": 27,
+      "source_file": "study/footnotes/NT/MRK_footnotes.md",
+      "line_number": 22,
       "raw_match": "[[GAL.4:1]]-5",
       "reference_type": "wikilink_range",
-      "context": "Christ--had been completed ([[GAL.4:1]]-5). Once Christ came, the time of preparation was"
+      "context": "Mark's written emphasis on John being put in prison before Jesus begins preaching reveals that a key purpose of the old covenant--to prepare the people for Christ--had been completed ([[GAL.4:1]]-5). Once Christ came, the time of preparation was fulfilled. To repent is to do a total \"about-face.\" The word in Greek literally means to \"change one's mind.\" Repentance is a radical change of one's spirit, mind, thought, and heart--a complete reorientation to a life centered in Christ."
     }
   ]
 }

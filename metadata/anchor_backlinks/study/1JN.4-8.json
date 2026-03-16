@@ -2,29 +2,39 @@
   "anchor_id": "1JN.4:8",
   "canon_uri": "canon/NT/1JN.md#1JN.4:8",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "He who does not love does not know God, for God is love.",
+  "pericope": {
+    "id": "1JN.P008",
+    "title": "God Redeems Us in Love",
+    "range": "1JN.4:6-4:10",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/MAT_footnotes.md",
-      "line_number": 925,
+      "source_file": "study/footnotes/NT/MAT_footnotes.md",
+      "line_number": 597,
       "raw_match": "[[1JN.4:7]]-21",
       "reference_type": "wikilink_range",
-      "context": "[[1JN.4:7]]-21.)"
+      "context": "Freed from hate, sadness, and anger, we are able to receive the greatest virtue: perfect love. The love of enemies is not merely an emotion, but includes decision and action. It is to treat and see our enemies as the closest members of our own family. (See [[1JN.4:7]]-21.)"
     },
     {
-      "source_file": "staging/validated/NT/MAT_footnotes.md",
-      "line_number": 2183,
+      "source_file": "study/footnotes/NT/MAT_footnotes.md",
+      "line_number": 1410,
       "raw_match": "[[1JN.4:7]]-21",
       "reference_type": "wikilink_range",
-      "context": "service to others--these two cannot be separated (see also [[JAS.2:14]]-18; [[1JN.4:7]]-21)."
+      "context": "Christ shows that the commandment of God cannot be superseded by man's religious traditions. Devotion to God includes both obedience to His commandments and service to others--these two cannot be separated (see also [[JAS.2:14]]-18; [[1JN.4:7]]-21)."
     },
     {
-      "source_file": "staging/validated/OT/HOS_footnotes.md",
-      "line_number": 431,
+      "source_file": "study/footnotes/OT/HOS_footnotes.md",
+      "line_number": 320,
       "raw_match": "[[1JN.4:8]]",
       "reference_type": "wikilink",
-      "context": "definitions of God when he wrote, \"God is love\" ([[1JN.4:8]])."
+      "context": "Israel's return to the Lord may be compared with the repentance of the prodigal son ([[LUK.15:11]]ff.). God responds generously to repentance. In the parable, the father sees the repentant child and runs to meet him. In Israel's case, God also begins the healing as soon as Israel shows the first signs of repentance. If love unconditionally flows from God upon Israel, it means that love is His foremost attribute. Hosea may be considered the spiritual forerunner of John the Evangelist, who gave one of the most beautiful definitions of God when he wrote, \"God is love\" ([[1JN.4:8]])."
     }
   ]
 }

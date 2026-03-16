@@ -2,85 +2,95 @@
   "anchor_id": "1CO.10:4",
   "canon_uri": "canon/NT/1CO.md#1CO.10:4",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "and all drank the same spiritual drink. For they drank of that spiritual Rock that followed them, and that Rock was Christ.",
+  "pericope": {
+    "id": "1CO.P023",
+    "title": "A Bad Example: Israel's Apostasy",
+    "range": "1CO.9:27-10:12",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/JUD_footnotes.md",
-      "line_number": 53,
-      "raw_match": "[[1CO.10:1]]-13",
-      "reference_type": "wikilink_range",
-      "context": "([[NUM.14:26]]-37; see [[1CO.10:1]]-13). The lesson for us as Christians is to keep walking in our"
-    },
-    {
-      "source_file": "staging/validated/NT/MAT_footnotes.md",
-      "line_number": 2343,
-      "raw_match": "[[1CO.10:4]]",
-      "reference_type": "wikilink",
-      "context": "(JohnChr). The true Rock is Christ Himself ([[1CO.10:4]]), and the Church is built on the"
-    },
-    {
-      "source_file": "staging/validated/OT/DEU_footnotes.md",
-      "line_number": 1201,
-      "raw_match": "[[1CO.10:4]]",
-      "reference_type": "wikilink",
-      "context": "spiritual food, for Christ gives us His Holy Spirit ([[1CO.10:3]], [[1CO.10:4]]; [[ROM.8:9]])."
-    },
-    {
-      "source_file": "staging/validated/OT/EXO_footnotes.md",
-      "line_number": 864,
-      "raw_match": "[[1CO.10:4]]",
-      "reference_type": "wikilink",
-      "context": "The rock was a type of the Son of God ([[1CO.10:4]]; AmbM). He stood on the rock in"
-    },
-    {
-      "source_file": "staging/validated/OT/EXO_footnotes.md",
-      "line_number": 1481,
-      "raw_match": "[[1CO.10:4]]",
-      "reference_type": "wikilink",
-      "context": "the Incarnation ([[1CO.10:4]]; AmbM). The hand reveals the oneness in essence of the Son"
-    },
-    {
-      "source_file": "staging/validated/OT/EZK_articles.md",
+      "source_file": "study/articles/OT/EZK_articles.md",
       "line_number": 20,
       "raw_match": "[[1CO.10:4]]",
       "reference_type": "wikilink",
-      "context": "Types of both Christ and Mary, His Mother, fill the Old Testament. Indeed, most of the Old Testament types of Mary-a natural consequence of her essential role in the Incarnation of her Son, Jesus Christ-reveal the awesome marvel of her womb which contained the almighty God. Referring to [[GEN.2:9]], the hymnography of the Church sees the garden of Eden as a type of Mary: 'Rejoice,... O living Paradise, having the Lord, the Tree of Life, in your midst' (Akathist Hymn). The burning bush beheld by Moses in the wilderness ([[EXO.3:16]]) is one of the most often mentioned types of Mary. For example, 'She is the Bush springing from barren ground [her mother, St. Anna, had been barren] and burning with the immaterial fire that cleanses and enlightens our souls' (Small Vespers, Nativity of the Theotokos). St. John of Damascus observes, 'The burning bush is an image of God's Mother... If, therefore, the ground where the image of the Theotokos was seen by Moses is holy ground [Ex 3:5], how much more holy is the image itself?' The tabernacle in the wilderness, where God dwelt among the wandering Israelites ([[EXO.25:1]] -27:19), also prefigures Mary: 'The tabernacle that is to hold God, the sanctuary of the glory, has chosen to dwell in the holy temple' (Matins, Entry of the Theotokos into the Temple). Another hymn from this service addresses her as 'O Holy of Holies,' identifying her with the most holy inner place of the tabernacle and the temple ([[EXO.26:33]]; 3Kg 8:6). Other Old Testament types of Mary relating to the Lord dwelling in her womb include the jar of manna ([[EXO.16:33]], [[EXO.16:34]]); Aaron's rod that budded (Nm 17:16-23); the tablet of the Law 'written with the finger of God' ([[EXO.31:18]]); the ladder reaching from earth to heaven ([[GEN.28:10]]-17); the fleece that received the dew ([[JDG.6:36]]-38; see [[PSA.71:1]]-6); the tongs bearing the live coal (Is 6:6); and the fiery furnace in Babylon ([[DAN.3:19]]-50). Concerning this last image, the hymnographer St. Cosmas of Maiuma writes, 'The furnace moist with dew was the image and figure of a wonder past nature. For it burned not the Children whom it had received, even as the fire of the Godhead consumed not the Virgin's womb into which it had descended' (Matins, Nativity of Christ). The miracle of the Virgin Birth is another prominent theme among the Old Testament types of Mary. One of the most striking of these is found in Ezekiel 43:27-44:4, the only Old Testament passage read at all four of the major Feasts of the Theotokos. This reading tells about the east gate of the heavenly temple remaining shut even as the Lord God of Israel, and He alone, goes in and out through it. This is prophetic of the Lord entering Mary's womb and being born nine months later with her virginity remaining intact. Hence in various hymns the Church proclaims her as 'the Gate that looks towards the East,' 'the Gate through which none may pass,' and 'the East Gate... [who] awaits the entrance of the Great Priest.' Another such image occurs in [[DAN.2:45]], where the Theotokos is the mountain out of whom a stone (that is, Christ; [[1CO.10:4]]) is cut 'without hands.' This refers to Christ's birth from the Virgin, untouched by a man. Mary is the culmination of the whole history of the ancient Hebrews. She is the perfection to which all of faithful Israel aspired through the long centuries of preparation for the coming of the Messiah, beginning with the promise given to Abraham: 'God promised to our forefather Abraham that in his seed the Gentiles would be blessed [Gn 22:18], O pure Lady; and through thee today, the promise receives its fulfillment' (Matins, Annunciation). #### Measurements of the Altar"
+      "context": "Types of both Christ and Mary, His Mother, fill the Old Testament. Indeed, most of the Old Testament types of Mary-a natural consequence of her essential role in the Incarnation of her Son, Jesus Christ-reveal the awesome marvel of her womb which contained the almighty God. Referring to [[GEN.2:9]], the hymnography of the Church sees the garden of Eden as a type of Mary: 'Rejoice,... O living Paradise, having the Lord, the Tree of Life, in your midst' (Akathist Hymn). The burning bush beheld by Moses in the wilderness ([[EXO.3:16]]) is one of the most often mentioned types of Mary. For example, 'She is the Bush springing from barren ground [her mother, St. Anna, had been barren] and burning with the immaterial fire that cleanses and enlightens our souls' (Small Vespers, Nativity of the Theotokos). St. John of Damascus observes, 'The burning bush is an image of God's Mother... If, therefore, the ground where the image of the Theotokos was seen by Moses is holy ground [[[EXO.3:5]]], how much more holy is the image itself?' The tabernacle in the wilderness, where God dwelt among the wandering Israelites ([[EXO.25:1]] -27:19), also prefigures Mary: 'The tabernacle that is to hold God, the sanctuary of the glory, has chosen to dwell in the holy temple' (Matins, Entry of the Theotokos into the Temple). Another hymn from this service addresses her as 'O Holy of Holies,' identifying her with the most holy inner place of the tabernacle and the temple ([[EXO.26:33]]; [[1KI.8:6]]). Other Old Testament types of Mary relating to the Lord dwelling in her womb include the jar of manna ([[EXO.16:33]], [[EXO.16:34]]); Aaron's rod that budded ([[NUM.17:16]]-23); the tablet of the Law 'written with the finger of God' ([[EXO.31:18]]); the ladder reaching from earth to heaven ([[GEN.28:10]]-17); the fleece that received the dew ([[JDG.6:36]]-38; see [[PSA.71:1]]-6); the tongs bearing the live coal ([[ISA.6:6]]); and the fiery furnace in Babylon ([[DAN.3:19]]-50). Concerning this last image, the hymnographer St. Cosmas of Maiuma writes, 'The furnace moist with dew was the image and figure of a wonder past nature. For it burned not the Children whom it had received, even as the fire of the Godhead consumed not the Virgin's womb into which it had descended' (Matins, Nativity of Christ). The miracle of the Virgin Birth is another prominent theme among the Old Testament types of Mary. One of the most striking of these is found in [[EZK.43:27]]-44:4, the only Old Testament passage read at all four of the major Feasts of the Theotokos. This reading tells about the east gate of the heavenly temple remaining shut even as the Lord God of Israel, and He alone, goes in and out through it. This is prophetic of the Lord entering Mary's womb and being born nine months later with her virginity remaining intact. Hence in various hymns the Church proclaims her as 'the Gate that looks towards the East,' 'the Gate through which none may pass,' and 'the East Gate... [who] awaits the entrance of the Great Priest.' Another such image occurs in [[DAN.2:45]], where the Theotokos is the mountain out of whom a stone (that is, Christ; [[1CO.10:4]]) is cut 'without hands.' This refers to Christ's birth from the Virgin, untouched by a man. Mary is the culmination of the whole history of the ancient Hebrews. She is the perfection to which all of faithful Israel aspired through the long centuries of preparation for the coming of the Messiah, beginning with the promise given to Abraham: 'God promised to our forefather Abraham that in his seed the Gentiles would be blessed [[[GEN.22:1]]8], O pure Lady; and through thee today, the promise receives its fulfillment' (Matins, Annunciation). #### Measurements of the Altar"
     },
     {
-      "source_file": "staging/validated/OT/NUM_footnotes.md",
-      "line_number": 745,
+      "source_file": "study/footnotes/NT/JUD_footnotes.md",
+      "line_number": 39,
+      "raw_match": "[[1CO.10:1]]-13",
+      "reference_type": "wikilink_range",
+      "context": "The recipients of this letter once knew this (v. 5), the mysteries of the faith, because the totality of that faith had already been delivered to them (v. 3). Jude gives three arresting examples of the danger of departing from truth and righteousness: (1) In the Exodus from Egypt (v. 5), all were saved through the baptism of the Red Sea, but not all responded to their deliverance with ongoing deeds of repentance and godliness ([[NUM.14:26]]-37; see [[1CO.10:1]]-13). The lesson for us as Christians is to keep walking in our union with Christ. (2) The proper domain of the angels is in their likeness and proximity to God. Their own abode is heaven, though they may serve elsewhere. Those who left their proper place are confined far from God, having become bound to spiritual darkness. They await the judgment (see [[2PE.2:4]]), when bonds with God will be demolished forever. The lesson for Christians is that their proper domain is in being children of God by grace, and their own abode is in the one holy Church. (3) The men in the plains around Sodom and Gomorrah lusted after angels because of their sin of immorality and homosexuality ([[GEN.19:1]]-29). The lesson for Christians is to live under God's call to a chaste and pure life."
+    },
+    {
+      "source_file": "study/footnotes/NT/MAT_footnotes.md",
+      "line_number": 1510,
       "raw_match": "[[1CO.10:4]]",
       "reference_type": "wikilink",
-      "context": "Moses to speak to the rock ([[1CO.10:4]]). After His Incarnation, He would be smitten once, not twice, for the sins of the world ([[ROM.6:10]]). From His life-giving cross would come the"
+      "context": "Peter/rock is a play on the word for \"rock\" in both Aramaic and Greek (petros/petra). This rock refers not to Peter per se, but to \"the faith of his confession\" (JohnChr). The true Rock is Christ Himself ([[1CO.10:4]]), and the Church is built on the faithful confession of Christ. Gates of Hades: powers of death. In the OT, gates suggest a fortified city ([[GEN.22:17]]; 24:60; Is 14:31). By shattering its gates, Christ opens the stronghold of death to set free the souls of the righteous. So also, the Church shall not be stopped in her proclamation of salvation. The term church is mentioned only twice in all the gospels, here and in 18:17. This Church is the true Israel and the Body of Christ; her citizenship is heavenly."
     },
     {
-      "source_file": "staging/validated/OT/PSA_footnotes.md",
-      "line_number": 1435,
+      "source_file": "study/footnotes/OT/DEU_footnotes.md",
+      "line_number": 767,
       "raw_match": "[[1CO.10:4]]",
       "reference_type": "wikilink",
-      "context": "speaking to His Church (vv. 2, 14; see also [[MAT.13:34]], [[MAT.13:35]]; [[1CO.10:4]], [[1CO.10:14]]), called children"
+      "context": "The rock speaks of Christ, and the oil of the Holy Spirit, and the honey of the spiritual food, for Christ gives us His Holy Spirit ([[1CO.10:3]], [[1CO.10:4]]; [[ROM.8:9]])."
     },
     {
-      "source_file": "staging/validated/OT/PSA_footnotes.md",
-      "line_number": 2115,
+      "source_file": "study/footnotes/OT/EXO_footnotes.md",
+      "line_number": 666,
+      "raw_match": "[[1CO.10:4]]",
+      "reference_type": "wikilink",
+      "context": "The rock was a type of the Son of God ([[1CO.10:4]]; AmbM). He stood on the rock in Horeb and caused it to pour forth water. Rocks do not pour forth water by nature, but in a mystery this rock did. It remained a rock but simultaneously became a fountain. Similarly, bread and wine are not by nature the Body and Blood of Christ, but in a mystery they become so. They remain bread and wine, but simultaneously are Christ's Body and Blood."
+    },
+    {
+      "source_file": "study/footnotes/OT/EXO_footnotes.md",
+      "line_number": 1142,
+      "raw_match": "[[1CO.10:4]]",
+      "reference_type": "wikilink",
+      "context": "The Son of the Father is the rock and the hand. The rock reveals the mystery of the Incarnation ([[1CO.10:4]]; AmbM). The hand reveals the oneness in essence of the Son with the Father. For as the hand is one in essence with the body, similarly, the Son is one in essence with the Father (AthanG). Therefore, He reveals the Father and makes Him known to man."
+    },
+    {
+      "source_file": "study/footnotes/OT/NUM_footnotes.md",
+      "line_number": 495,
+      "raw_match": "[[1CO.10:4]]",
+      "reference_type": "wikilink",
+      "context": "Moses struck the rock in unbelief, and this action would keep him from leading Israel into the land of promise. It is unbelief to disobey the Lord's direction, for He told Moses to take the rod and speak to the rock (v. 8). However, he struck the rock twice. So he violated the type. This rock represented the spiritual Rock, Christ Himself, for it was He who ordered Moses to speak to the rock ([[1CO.10:4]]). After His Incarnation, He would be smitten once, not twice, for the sins of the world ([[ROM.6:10]]). From His life-giving cross would come the waters of life, \"springing up into everlasting life\" ([[JOH.4:14]])."
+    },
+    {
+      "source_file": "study/footnotes/OT/PSA_footnotes.md",
+      "line_number": 876,
+      "raw_match": "[[1CO.10:4]]",
+      "reference_type": "wikilink",
+      "context": "Ps 77 concerns understanding (v. 1). What needs to be understood is that Christ is speaking to His Church (vv. 2, 14; see also [[MAT.13:34]], [[MAT.13:35]]; [[1CO.10:4]], [[1CO.10:14]]), called children yet to be born (v. 6), His sanctuary... founded forever on the earth (v. 69), and His people... His inheritance (v. 71). The content of His instruction is the entire psalm itself, an overview of the history of Israel."
+    },
+    {
+      "source_file": "study/footnotes/OT/PSA_footnotes.md",
+      "line_number": 1284,
       "raw_match": "[[1CO.10:1]]-11",
       "reference_type": "wikilink_range",
-      "context": "which we drink the waters of salvation (v. 8; see also [[1CO.10:1]]-11)."
+      "context": "Ps 113 speaks of Israel's history in their exodus from Egypt across the Red Sea and the Jordan River into the promised land (vv. 1-11). The lifeless idols of the nations in this land could neither will nor do anything to stop Israel (vv. 12-16). By contrast, the believers in Israel were those who feared the Lord and hoped in Him (vv. 17-26). Therefore, the history of believing Israel was the history of their salvation. More importantly, Israel's exodus from Egypt and crossing the Jordan River speak of Christ's Baptism and our subsequent Christian baptism. For Christian baptism is Christ's Baptism. He was baptized in the Jordan River for our sake. He was also the rock from which we drink the waters of salvation (v. 8; see also [[1CO.10:1]]-11)."
     },
     {
-      "source_file": "staging/validated/OT/SNG_footnotes.md",
-      "line_number": 287,
+      "source_file": "study/footnotes/OT/SNG_footnotes.md",
+      "line_number": 217,
       "raw_match": "[[1CO.10:4]]",
       "reference_type": "wikilink",
-      "context": "dove is a symbol of fidelity and chastity. The rock is Christ ([[1CO.10:4]]). It is the voice of"
+      "context": "And come: The Lord commands the sleeper to arise and join Him ([[EPH.5:14]]). The dove is a symbol of fidelity and chastity. The rock is Christ ([[1CO.10:4]]). It is the voice of Christ that is heard in the Church."
     },
     {
-      "source_file": "staging/validated/OT/WIS_footnotes.md",
-      "line_number": 324,
+      "source_file": "study/footnotes/OT/WIS_footnotes.md",
+      "line_number": 241,
       "raw_match": "[[1CO.10:4]]",
       "reference_type": "wikilink",
-      "context": "a symbol of Christ ([[LUK.20:17]]; [[1CO.10:4]]) and the water is symbolic of eternal life (see Jn"
+      "context": "), who is also called the Theologian, the Knower of God. 8:7 Jesus said, \"Seek first the kingdom of God and His righteousness\" ([[MAT.6:33]]). The virtues here are similar to those in [[GAL.5:22]], [[GAL.5:23]]. 8:8 Wisdom brings to the believer great experience and adventure. There is a personal joy and excitement that comes from an understanding of the things of God. joy and excitement that comes from an understanding of the things of God. 8:10-11 He who is Wisdom, Christ our God, found honor in the presence of the elders in the temple at the young age of twelve ([[LUK.2:42]]-47). 8:14 A description of the King of kings. 8:19-20 Orthodox theology teaches that the body is the outer covering or \"tent\" of the soul ([[2PE.1:13]]), and that together they comprise the human person. The soul is inherently good and comes into being at the time of conception (see [[ZEC.12:1]]). 8:21 Wisdom is a gift from God; yet we are called to search for her diligently. 9:1, 2 Word and wisdom are synonymous; both are a reference to Christ. This entire chapter anticipates the Incarnation of the Son of God. 9:5 Like Solomon, Christ is God's servant and the son of His maidservant. Unlike Solomon, Christ is perfect man and is eternal. 9:6 In his prayer, Solomon foresees one who is perfect among the sons of men. 9:8 As High Priest, our Lord Jesus Christ serves at heaven's altar in the true tabernacle after which the earthly tabernacle and temple were patterned (see [[HEB.8:1]], [[HEB.8:2]]). 9:15 Through His death and Resurrection, Christ made the corruptible body to be immortal (see [[1CO.15:47]]-49). 9:17-18 The presence of the Holy Trinity is unveiled here. Your counsel refers to God the Father, who gives His Son, wisdom, and sends His Holy Spirit to reveal the knowledge of salvation to mankind. 10:1 That Wisdom delivered Adam--and Eve--from their transgression is beautifully captured in numerous Orthodox icons of the Resurrection of Christ. 10:7 St. Jude chooses a similar word picture in describing apostates: \"late autumn trees without fruit\" (Jude 12). The pillar of salt is a reference to Lot's unbelieving wife (Gn 19:26). 10:10 Our lives are a combination of hardships and the successes of increased... fruit from our labors. Wisdom helps us through both. St. Paul encouraged Timothy to \"endure hardship as a good soldier of Jesus Christ\" ([[2TI.2:3]]). 10:13-14 When Joseph was betrayed by his brothers and in a pit in Egypt, wisdom did not abandon him (Gn 39-45). To His righteous followers, Jesus promises, \"I will never leave you nor forsake you\" ([[HEB.13:5]]). 10:17-20 Solomon has in mind the Song of Moses (v. 20), which is also sung in heaven and begins, \"Great and marvelous are Your works, Lord God Almighty!\" ([[REV.15:3]], [[REV.15:4]]). 10:1-21 This historical overview from Adam to Moses shows the active role that the Word of God (Wisdom) takes in salvation history. St. Peter records a similar history ([[2PE.2:4]]- 9). Verse 21 prophesies Christ's miracles (Is 35:5, 6; [[MAT.11:5]]). 11:4-8 In the first of seven antitheses, or comparisons (see 16:1-21; 17:1-18:4; 18:5-19; 19:1-9), God is seen both to punish His enemies and to show kindness to His people by the same means--in this case, with sweet and defiled water (see also 11:13). The rock is a symbol of Christ ([[LUK.20:17]]; [[1CO.10:4]]) and the water is symbolic of eternal life (see Jn 4:14). 11:9-20 According to the Fathers, God could destroy the world in a single breath (v. 20). But in His mercy and love, and recognizing the good inherent in man at creation, God will correct those who have fallen away little by little (12:2), desiring their repentance (v. 23). 11:22 See Is 40:15. 11:24 With His creation complete, \"God saw everything He had made, and indeed, it was very good\" ([[GEN.1:31]]). 11:25 In Christ \"all things consist\" (lit. \"hold together\"; [[COL.1:17]]). God gives us every opportunity to believe in Him. 12:3-11 The inhabitants of the holy land were the Canaanites, who were very unholy. Here again, as in 12:2, the Lord could have destroyed them by one severe word (v. 9), but instead He judged them little by little, giving them a chance for repentance (v. 10). Jesus taught the Most High God \"is kind to the unthankful and evil\" ([[LUK.6:35]]). 12:12-18 The Almighty God is utterly sovereign and merciful. He will not judge unjustly (v. 13; [[GEN.18:25]]). He rules over us with great forbearance (v. 18). 12:19 For God's children, the sacrament of confession, or repentance, makes us hopeful. 12:22 Note how God's chastening fits the sin. 12:23-27 Another description of the judgment of God (v. 26) on the Egyptians. The Apostle Mark brought the gospel to Egypt, and the fruit of his labor remains to this day. 13:1-19 All men are encouraged to look beyond the beauty of creation to its source and inspiration, Almighty God, and to know Him who exists (v. 1). 13:3 See [[PSA.8:5]], [[PSA.8:6]]. 13:5 St. Paul uses this same reasoning in [[ROM.1:20]]. 13:6 On Mars Hill, St. Paul preached to those who while seeking God had gone astray (see [[ACT.17:26]], [[ACT.17:27]]). We find Him in His Holy Church, in the Scriptures, and in our prayers to Him. 13:8-9 As in 13:5, St. Paul teaches why they are not to be excused in [[ROM.1:20]], [[ROM.1:21]]. 13:11-16 Solomon explains the length to which a carpenter goes to make a false image (v. 16). 14:1-5 Wisdom mercifully provides safe passage for man. 14:6, 7 These verses refer to the time of Noah (Gn 6) and also foreshadow Christ and the saving wood of the Cross. 14:8-21 Man's creation of godless idols (v. 12) separates him from that loving union with God for which he was created. Idolatry is a trap for the feet of fools (v. 11). 14:22-29 Every form of depravity (v. 25) flourishes in a society where idols are worshipped as deities. A sense of moral order in such a culture is impossible (see Rom 1:26-30). 14:26 See [[ACT.15:20]]. 15:3 To know God is immortality--eternal life (see [[JOH.17:3]]). 15:4-19 Idols are evil images that entice the worshipper away from the True God and towards nothingness. Holy images or icons, such as the cross and images of Christ and His living saints, help keep us from idols. 15:7 St. Paul also teaches that the potter makes vessels for honor and dishonor from the same clay ([[ROM.9:21]]). We choose to live either in light or in darkness. 15:10 See Is 44:20. 15:11 God, who formed us and breathed life into us, has a rightful claim on our soul! 15:13 There is hope for a practicing idolater because he knows that he sins. 15:15 Compare with [[DEU.4:28]]. 16:1-21 God again uses similar means both to save His people and to judge His enemies (see also 11:4-8; 17:1-18:4; 18:5-19; 19:1-9). The food of angels (vv. 20), or manna, was both food for Israel and a symbol of the Eucharist ([[JOH.6:31]], [[JOH.6:32]]). 16:2 God sending His people quails as food is described in lively detail in Nm 11. 16:5 Related passages are [[NUM.21:6]]; [[DEU.32:24]]; [[1CO.10:9]]. 16:6-12 The holy fathers see in the bronze serpent ([[NUM.21:9]]) a symbol of the healing power of the Cross. See also [[JOH.3:14]]. 16:10 See [[DEU.32:33]]. 16:13 Christ the Savior descended into Hades and exercised His authority over life and death to release those in prison (see [[EPH.4:9]], [[EPH.4:10]]). 16:15-18 This event is recorded in [[EXO.9:22]]-26. 16:20 In [[JOH.6:31]]-34, Jesus makes it very clear that He Himself is the true bread from heaven. Unfortunately, many modern Christians fail to commune regularly with Christ in the Eucharist. Jesus warns, \"Unless you eat the flesh of the Son of Man and drink His blood, you have no life in you\" ([[JOH.6:53]]). 16:24-29 God works through His creation to teach man that it is not creation but the word of His Wisdom that preserves them (v. 26). Just as God used fiery hail to destroy, so He uses the rays of the sun to defrost the crops. So then, man should arise at sunrise to thank God, for God's blessing will leave the one who is unthankful just as quickly as the rising sun melts frost (see [[2TI.3:2]]). 17:1-4 As seen earlier (see text and notes at 11:4-8; 16:1-21; 18:5-19; 19:1-9), God uses similar means both to judge His enemies and to bless His people. Here God is seen to send darkness (v. 2) to terrify the Egyptians and light (18:1) to guide the Israelites. This is the same darkness of Hades (v. 13) into which Christ descended ([[1PE.3:19]]). 17:3 See [[EXO.10:22]], [[EXO.10:23]]. 17:7 See [[2TI.3:8]], [[2TI.3:9]]. 17:9, 10 See [[JER.26:22]], [[JER.26:23]]. 17:11 See [[ROM.2:15]]. 18:1-4 Great light (see Is 42:6) points to Christ, who is the fulfillment of the law (v. 4) and the light of the world ([[JOH.8:12]]). 18:3 See [[EXO.13:21]]. 18:5-19 The sixth means is presented by which God both blesses His people and punishes His enemies (see 11:4-8; 16:1-21; 17:1-18:4; 19:1-9). Here we see God punishing the Egyptians' murder of the Israelite children by slaying their firstborn ([[EXO.1:9]]-16), while protecting and glorifying the Jews (v. 8). The one child (v. 5) is Moses, who prefigures Christ. 18:6 That night (see [[EXO.12:42]], [[EXO.12:43]]) marks the first Passover Feast. 18:8 Here again is the case of God's punishing the Egyptian enemies being coupled with His blessing of His people (see 18:5-19 note). 18:12 This event is recorded in [[NUM.33:4]]. 18:15 The Red Sea crossing was such a miraculous event in the history of Israel that Solomon describes it with these words: Your all-powerful Word leaped from heaven. The Son of God is a warrior, saving His people (see [[EXO.15:3]]; [[REV.19:13]]). 18:20-25 Once again salvation in Christ is foreshadowed when the high priestly prayers of the blameless man, Aaron, are said to cut off (v. 23) death. Aaron's vestments, his long robe (v. 24), like the vestments of Orthodox bishops and priests, symbolize Christ in His intercession for the world (v. 24). 19:1-9 Here, in a seventh and final antithesis (see 11:4-8; 16:1-21; 17:1-18:4; 18:5-19), God effectively works through His creation, using the Red Sea both to save His people and to destroy His enemies (vv. 6, 7). This event is seen in the Church to foreshadow Christ's Baptism in the Jordan, when He drove out the powers of darkness and sanctified all creation. Verse 9, Praising You, O Lord, is a reference to the Song of Moses (Ex 15:1-18). 19:22 The conclusion of the Wisdom of Solomon is a doxology. God, through His Wisdom, has providentially exalted and glorified His chosen people, Israel, granting them salvation. With the coming of Christ, Israel becomes the Church of the Gentiles, the new \"Israel of God\" (see [[GAL.6:16]]; [[1PE.2:9]]), and Christ, the Wisdom of God, becomes her Head. (See also 12:20; 18:8; Lv 26:44; [[PSA.125:3]].)"
     }
   ]
 }

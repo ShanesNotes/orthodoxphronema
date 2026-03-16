@@ -2,22 +2,32 @@
   "anchor_id": "EPH.4:22",
   "canon_uri": "canon/NT/EPH.md#EPH.4:22",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "that you put off, concerning your former conduct, the old man which grows corrupt according to the deceitful lusts,",
+  "pericope": {
+    "id": "EPH.P011",
+    "title": "Put Off the Old, Put On the New",
+    "range": "EPH.4:12-4:23",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/1PE_footnotes.md",
-      "line_number": 197,
+      "source_file": "study/footnotes/NT/1PE_footnotes.md",
+      "line_number": 129,
       "raw_match": "[[EPH.4:22]]",
       "reference_type": "wikilink",
-      "context": "off the old manner of life, corrupted by evil and deception ([[EPH.4:22]]). Similarly, those"
+      "context": "The duty, the necessity, for Christians to be holy in their conduct is the issue pursued in this passage. The apostle Paul has written that new (indeed, all!) Christians are to put off the old manner of life, corrupted by evil and deception ([[EPH.4:22]]). Similarly, those addressed here are to turn from the same."
     },
     {
-      "source_file": "staging/validated/NT/LUK_footnotes.md",
-      "line_number": 1917,
+      "source_file": "study/footnotes/NT/LUK_footnotes.md",
+      "line_number": 1279,
       "raw_match": "[[EPH.4:20]]-24",
       "reference_type": "wikilink_range",
-      "context": "sinful state and our renewal in Christ (see [[EPH.4:20]]-24)."
+      "context": "This fulfills the prophecy of [[MIC.7:6]]. In addition to its literal meaning, which has been experienced in the Church since the time of Christ, the older generation being divided from the younger generation also symbolizes (1) the rejection of the new covenant by followers of the old covenant, and (2) the spiritual struggle between our old, sinful state and our renewal in Christ (see [[EPH.4:20]]-24)."
     }
   ]
 }

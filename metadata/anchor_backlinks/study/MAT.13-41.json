@@ -2,15 +2,25 @@
   "anchor_id": "MAT.13:41",
   "canon_uri": "canon/NT/MAT.md#MAT.13:41",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "The Son of Man will send out His angels, and they will gather out of His kingdom all things that offend, and those who practice lawlessness,",
+  "pericope": {
+    "id": "MAT.P042",
+    "title": "The Wheat and Tares Explained",
+    "range": "MAT.13:35-13:42",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/REV_footnotes.md",
-      "line_number": 631,
+      "source_file": "study/footnotes/NT/REV_footnotes.md",
+      "line_number": 394,
       "raw_match": "[[MAT.13:41]]",
       "reference_type": "wikilink",
-      "context": "them His own angels ([[MAT.13:41]]; 24:31), showing His equality with the Father."
+      "context": "The Book of Life (13:8; 17:8; 20:12, 15; [[EXO.32:32]]; [[PSA.68:29]]; [[DAN.12:1]]; [[LUK.10:20]]; see also 1En 47:3) is God's register naming all who will inherit eternal life. By the fourth century, at the beginning of Lent the names of the catechumens were enrolled in a church record book termed \"The Heavenly Book,\" or \"The Book of the Church\" (see TheoMop, JohnChr and GrgNy). The Son speaks of His Father and His angels but He also calls them His own angels ([[MAT.13:41]]; 24:31), showing His equality with the Father."
     }
   ]
 }

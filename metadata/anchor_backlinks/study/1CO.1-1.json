@@ -2,11 +2,21 @@
   "anchor_id": "1CO.1:1",
   "canon_uri": "canon/NT/1CO.md#1CO.1:1",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Corinthians Chapter 15 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 11, 12, 13, 14, 15, 16, 17, 18, 19, 20 21, 22, 23, 24, 25, 26, 27, 28, 29, 30 31, 32, 33, 34, 35, 36, 37, 38, 39, 40 41, 42, 43, 44, 45, 46, 47, 48, 49, 50 51, 52, 53, 54, 55, 56, 57, Corinthians Author -St. Paul, the apostle to the Gentiles and the founder of the church at Corinth (Acts 18:1-11), is the undisputed author of this epistle. Paul, called to be an apostle of Jesus Christ through the will of God, and Sosthenes our brother, Corinthians (see 5:9-11) and one between 1 and",
+  "pericope": {
+    "id": "1CO.P001",
+    "title": "The Sacrament of Unity: Baptism",
+    "range": "1CO.1:1-1:1",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/LUK_articles.md",
+      "source_file": "study/articles/NT/LUK_articles.md",
       "line_number": 38,
       "raw_match": "[[1CO.1:1]]",
       "reference_type": "wikilink",

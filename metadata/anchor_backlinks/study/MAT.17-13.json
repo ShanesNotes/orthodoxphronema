@@ -2,12 +2,22 @@
   "anchor_id": "MAT.17:13",
   "canon_uri": "canon/NT/MAT.md#MAT.17:13",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Then the disciples understood that He spoke to them of John the Baptist.",
+  "pericope": {
+    "id": "MAT.P056",
+    "title": "The Disciples Lack Faith",
+    "range": "MAT.17:13-17:20",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/MRK_footnotes.md",
-      "line_number": 409,
+      "source_file": "study/footnotes/NT/MRK_footnotes.md",
+      "line_number": 283,
       "raw_match": "[[MAT.17:13]]",
       "reference_type": "wikilink",
       "context": "Elijah: See [[MAT.17:13]]."

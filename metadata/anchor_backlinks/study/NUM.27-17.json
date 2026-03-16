@@ -2,15 +2,25 @@
   "anchor_id": "NUM.27:17",
   "canon_uri": "canon/OT/NUM.md#NUM.27:17",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "who will go in and out before their face, and lead them out and bring them in; then the congregation of the Lord will not be like sheep without a shepherd.'",
+  "pericope": {
+    "id": "NUM.P062",
+    "title": "Joshua Succeeds Moses",
+    "range": "NUM.27:11-27:22",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/MAT_footnotes.md",
-      "line_number": 1539,
+      "source_file": "study/footnotes/NT/MAT_footnotes.md",
+      "line_number": 994,
       "raw_match": "[[NUM.27:17]]",
       "reference_type": "wikilink",
-      "context": "no shepherd, drawn from the OT ([[NUM.27:17]]; 3Kg 22:17; [[EZK.34:5]]), is an accusation"
+      "context": "Jesus does not condemn sinners, but sees them as lost sheep to be found and brought home. Compassion means \"suffering with.\" The illustration of sheep having no shepherd, drawn from the OT ([[NUM.27:17]]; 3Kg 22:17; [[EZK.34:5]]), is an accusation against the Jewish leaders who, charged with the duty of shepherds, acted as wolves."
     }
   ]
 }

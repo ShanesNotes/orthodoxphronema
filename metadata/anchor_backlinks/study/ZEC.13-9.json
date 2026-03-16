@@ -2,15 +2,25 @@
   "anchor_id": "ZEC.13:9",
   "canon_uri": "canon/OT/ZEC.md#ZEC.13:9",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "And I shall bring the remaining third through the fire, and I shall try them as silver is tried, and I will prove them as gold itself is proven. He will call upon My name, and I will hear him, and I will say, 'This is My people,' and they will say, 'The Lord is my God.' '",
+  "pericope": {
+    "id": "ZEC.P018",
+    "title": "The Day of the Lord",
+    "range": "ZEC.13:9-14:21",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/REV_footnotes.md",
-      "line_number": 1285,
+      "source_file": "study/footnotes/NT/REV_footnotes.md",
+      "line_number": 795,
       "raw_match": "[[ZEC.13:9]]",
       "reference_type": "wikilink",
-      "context": "also [[EZK.5:12]]; [[ZEC.13:8]], [[ZEC.13:9]]). The reference to blood most likely comes from Joel (3:3; see"
+      "context": "Only vegetation is affected. The seventh plague in Egypt is recalled ([[EXO.9:22]]-26; see also [[EZK.5:12]]; [[ZEC.13:8]], [[ZEC.13:9]]). The reference to blood most likely comes from Joel (3:3; see [[ACT.2:19]]). A mixture of hail, fire, and blood is a typical apocalyptic picture of judgment."
     }
   ]
 }

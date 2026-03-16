@@ -2,15 +2,25 @@
   "anchor_id": "2CO.13:12",
   "canon_uri": "canon/NT/2CO.md#2CO.13:12",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Greet one another with a holy kiss.",
+  "pericope": {
+    "id": "2CO.P039",
+    "title": "Greetings and Benediction",
+    "range": "2CO.13:10-13:14",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/1TH_footnotes.md",
-      "line_number": 275,
+      "source_file": "study/footnotes/NT/1TH_footnotes.md",
+      "line_number": 172,
       "raw_match": "[[2CO.13:12]]",
       "reference_type": "wikilink",
-      "context": "early became a part of the worship liturgy (see [[ROM.16:16]]; [[1CO.16:20]]; [[2CO.13:12]]; [[1PE.5:14]])."
+      "context": "When is it proper to return evil for evil? From the Sermon on the Mount ([[MAT.5:44]]) to the end of the NT, the answer is, \"Never.\" In Paul's writings, words such as rejoice, always (v. 16), without ceasing or \"constantly\" (v. 17), and give thanks (v. 18) refer primarily to prayer. The spiritual Fathers of the Church teach that unceasing prayer is a proper goal, for spiritual growth comes through such discipline. For centuries, Christian people have used the \"Jesus Prayer\" as a way to pray unceasingly from the heart: \"O Lord Jesus Christ, Son of God, have mercy on me, a sinner.\" 5:19-22 The Holy Spirit is to be actively present in the life of the Church. But there is constant need of discernment and testing so as to avoid being misled (see 1Co 12--14). 5:23-27 Note the liturgical overtones with regard to the corporate meetings. There is (1) the benediction (v. 23), (2) intercessory prayer (v. 25), (3) the kiss of peace (v. 26), and (4) the public reading of the Scriptures (v. 27). The practice of a holy kiss (v. 26) very early became a part of the worship liturgy (see [[ROM.16:16]]; [[1CO.16:20]]; [[2CO.13:12]]; [[1PE.5:14]]). Just prior to Communion, the faithful would exchange the kiss of peace, on one cheek and then the other, to show their reconciliation in Christ. Thus, Christ is in our midst and ever shall be!"
     }
   ]
 }

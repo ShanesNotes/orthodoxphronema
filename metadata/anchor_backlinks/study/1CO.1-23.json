@@ -2,22 +2,32 @@
   "anchor_id": "1CO.1:23",
   "canon_uri": "canon/NT/1CO.md#1CO.1:23",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "but we preach Christ crucified, to the Jews a stumbling block and to the Greeks afoolishness,",
+  "pericope": {
+    "id": "1CO.P007",
+    "title": "The Message of Unity: Exaltation of the Cross",
+    "range": "1CO.1:13-2:4",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/LUK_footnotes.md",
-      "line_number": 1757,
+      "source_file": "study/footnotes/NT/LUK_footnotes.md",
+      "line_number": 1173,
       "raw_match": "[[1CO.1:23]]",
       "reference_type": "wikilink",
-      "context": "the Incarnation and Crucifixion of the Son of God ([[1CO.1:23]]) makes this sin more easily"
+      "context": "To say a word against the Son of Man is to reject Jesus as the Messiah. Jesus seemed to be a mere man to many people before their conversion. The scandal caused by the Incarnation and Crucifixion of the Son of God ([[1CO.1:23]]) makes this sin more easily forgiven. The Holy Spirit, on the other hand, is without bodily form and invisibly works divine goodness. According to St. John Chrysostom and many other Fathers, the blasphemy against the Holy Spirit would be forgivable if a person were to repent of it. Jesus never calls the sin itself \"unforgivable.\" Jesus makes this declaration knowing that those who blaspheme the Spirit are calling pure, divine goodness \"evil,\" and are beyond repentance by their own choice."
     },
     {
-      "source_file": "staging/validated/NT/MAT_footnotes.md",
-      "line_number": 2393,
+      "source_file": "study/footnotes/NT/MAT_footnotes.md",
+      "line_number": 1539,
       "raw_match": "[[1CO.1:23]]",
       "reference_type": "wikilink",
-      "context": "after the Resurrection ([[1CO.1:23]]). Peter unwittingly speaks for Satan, as the devil did not"
+      "context": "After Peter's confession, Jesus reveals the true nature of His messiahship: the mystery of His Passion. It was expected that the Messiah would reign forever, so the idea that Christ would die was perplexing to Peter and remained scandalous to the Jews even after the Resurrection ([[1CO.1:23]]). Peter unwittingly speaks for Satan, as the devil did not want Christ to fulfill His mission and save mankind through suffering and death."
     }
   ]
 }

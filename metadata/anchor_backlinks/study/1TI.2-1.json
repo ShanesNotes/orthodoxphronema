@@ -2,15 +2,25 @@
   "anchor_id": "1TI.2:1",
   "canon_uri": "canon/NT/1TI.md#1TI.2:1",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Therefore I exhort first of all that supplications, prayers, intercessions, and giving of thanks be made for all men,",
+  "pericope": {
+    "id": "1TI.P007",
+    "title": "Faithfulness in Prayer",
+    "range": "1TI.2:1-2:4",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/BAR_footnotes.md",
-      "line_number": 45,
+      "source_file": "study/footnotes/OT/BAR_footnotes.md",
+      "line_number": 39,
       "raw_match": "[[1TI.2:1]]",
       "reference_type": "wikilink",
-      "context": "authority (see [[JER.27:6]]-8; 36:4-7; [[ROM.13:1]]-7; [[1TI.2:1]], [[1TI.2:2]])."
+      "context": "God's people have always been called to pray for the... king and all who are in authority (see [[JER.27:6]]-8; 36:4-7; [[ROM.13:1]]-7; [[1TI.2:1]], [[1TI.2:2]])."
     }
   ]
 }

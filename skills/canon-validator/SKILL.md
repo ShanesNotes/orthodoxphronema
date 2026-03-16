@@ -2,7 +2,7 @@
 name: canon-validator
 description: >
   Post-correction validation skill for Orthodox Phronema Archive files. Runs the
-  full V1-V12 validation suite, purity audit, and coordination surface checks
+  full V1-V13 validation suite, purity audit, and coordination surface checks
   to verify that corrections haven't introduced regressions. Use this skill after
   any proofreading or correction pass, before canon promotion, or when the user
   asks to: validate a book, check for regressions, verify canon integrity, run
@@ -25,9 +25,9 @@ This is the "did we break anything?" safety net.
 
 ## Validation Suite
 
-### V1-V12 Checks (validate_canon.py)
+### V1-V13 Checks (validate_canon.py)
 
-The master validation script runs 12 checks:
+The master validation script runs 13 checks:
 
 | Check | Description |
 |-------|-------------|
@@ -35,7 +35,7 @@ The master validation script runs 12 checks:
 | V2 | Chapter count — correct number for the book |
 | V3 | Chapter sequence — sequential with no gaps |
 | V4 | Verse sequence — monotonically increasing within chapters |
-| V5 | No article bleed — study article text must not appear in canon |
+| V5 | No article bleed — per-book article headers + all-caps heuristic |
 | V6 | Frontmatter present — required YAML fields exist |
 | V7 | Completeness — total anchors match registry verse counts |
 | V8 | Heading integrity — no fragment headings |
@@ -43,6 +43,7 @@ The master validation script runs 12 checks:
 | V10 | Absorbed content (Brenton cross-reference) |
 | V11 | Split-word artifacts (Docling column-split) |
 | V12 | Inline verse-number leakage |
+| V13 | Mega-line detection — verse lines >1000 chars (article bleed, verse fusing) |
 
 ```bash
 # Single book
@@ -123,7 +124,7 @@ Common post-proofreading warnings:
 
 ## Key Files
 
-- `pipeline/validate/validate_canon.py` — Master validation (V1-V12)
+- `pipeline/validate/validate_canon.py` — Master validation (V1-V13)
 - `pipeline/validate/checks.py` — Individual check functions
 - `pipeline/validate/purity_audit.py` — OCR residue and leakage audit
 - `pipeline/validate/check_coordination_surfaces.py` — Cross-book consistency

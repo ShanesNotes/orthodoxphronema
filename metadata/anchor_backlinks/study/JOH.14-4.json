@@ -2,15 +2,25 @@
   "anchor_id": "JOH.14:4",
   "canon_uri": "canon/NT/JOH.md#JOH.14:4",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "And where I go you know, and the way you know.'",
+  "pericope": {
+    "id": "JOH.P051",
+    "title": "The Way to the Father",
+    "range": "JOH.13:38-14:13",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/2CO_footnotes.md",
-      "line_number": 329,
+      "source_file": "study/footnotes/NT/2CO_footnotes.md",
+      "line_number": 217,
       "raw_match": "[[JOH.14:1]]-6",
       "reference_type": "wikilink_range",
-      "context": "being saved\"); and (3) a promise of eternal life (5:9-11; [[JOH.14:1]]-6), calling us to"
+      "context": "The Orthodox Faith teaches that salvation in Christ includes: (1) a passage from death to life, from darkness to light ([[JOH.3:1]]-6; [[COL.1:13]], [[COL.1:14]]), through repentance, faith, and baptism (\"I have been saved\"); (2) a process of spiritual growth and maturation (2Pt 1:2-8) through ongoing repentance, faith, and communion, often called deification (\"I am being saved\"); and (3) a promise of eternal life (5:9-11; [[JOH.14:1]]-6), calling us to perseverance and righteousness (\"I shall be saved\"). It is this second element, the process of our salvation, that Paul describes here, saying that our inner life is being renewed day by day."
     }
   ]
 }

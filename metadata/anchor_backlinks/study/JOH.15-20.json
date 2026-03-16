@@ -2,36 +2,46 @@
   "anchor_id": "JOH.15:20",
   "canon_uri": "canon/NT/JOH.md#JOH.15:20",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Remember the word that I said to you, 'A servant is not greater than his master.' If they persecuted Me, they will also persecute you. If they kept My word, they will keep yours also.",
+  "pericope": {
+    "id": "JOH.P056",
+    "title": "The World's Hatred",
+    "range": "JOH.15:17-16:4",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/2TI_footnotes.md",
-      "line_number": 25,
+      "source_file": "study/footnotes/NT/2TI_footnotes.md",
+      "line_number": 21,
       "raw_match": "[[JOH.15:20]]",
       "reference_type": "wikilink",
-      "context": "While any Christian may be persecuted ([[JOH.15:20]]; see [[MAT.5:11]], [[MAT.5:12]] and note), we reject"
+      "context": "While any Christian may be persecuted ([[JOH.15:20]]; see [[MAT.5:11]], [[MAT.5:12]] and note), we reject feelings of fear or timidity. We do not \"quench the Spirit\" ([[1TH.5:19]]), but act with power and courage (2:12; see [[MAT.10:33]]; [[LUK.9:26]])."
     },
     {
-      "source_file": "staging/validated/NT/2TI_footnotes.md",
-      "line_number": 209,
+      "source_file": "study/footnotes/NT/2TI_footnotes.md",
+      "line_number": 145,
       "raw_match": "[[JOH.15:20]]",
       "reference_type": "wikilink",
-      "context": "persecution (see [[JOH.15:20]])."
+      "context": "Paul's life exhibits what the Lord taught: In this world, godliness elicits persecution (see [[JOH.15:20]])."
     },
     {
-      "source_file": "staging/validated/NT/COL_footnotes.md",
-      "line_number": 143,
+      "source_file": "study/footnotes/NT/COL_footnotes.md",
+      "line_number": 94,
       "raw_match": "[[JOH.15:18]]-21",
       "reference_type": "wikilink_range",
-      "context": "25:40; [[LUK.10:16]]; [[JOH.15:18]]-21; [[ACT.9:1]], [[ACT.9:4]], [[ACT.9:5]]; [[ROM.8:17]]; [[2CO.1:5]]; 4:10; [[PHP.1:20]]; 3:10.)"
+      "context": "Christ and the Church are so intimately united that, as we suffer and die with Him (beginning at baptism), so Christ suffers with us in our work of reconciliation. (See Mt 25:40; [[LUK.10:16]]; [[JOH.15:18]]-21; [[ACT.9:1]], [[ACT.9:4]], [[ACT.9:5]]; [[ROM.8:17]]; [[2CO.1:5]]; 4:10; [[PHP.1:20]]; 3:10.)"
     },
     {
-      "source_file": "staging/validated/NT/MAT_footnotes.md",
-      "line_number": 725,
+      "source_file": "study/footnotes/NT/MAT_footnotes.md",
+      "line_number": 469,
       "raw_match": "[[JOH.15:18]]-20",
       "reference_type": "wikilink_range",
-      "context": "persecuted for righteousness' sake (see [[JOH.15:18]]-20). Christ's kingdom is the"
+      "context": "Children of God uphold truth, refuse to compromise with the ways of the world, and give themselves to no other (6:24, 33; see [[1CO.6:19]], [[1CO.6:20]]). Like Jesus, these will be persecuted for righteousness' sake (see [[JOH.15:18]]-20). Christ's kingdom is the crown awaiting the righteous."
     }
   ]
 }

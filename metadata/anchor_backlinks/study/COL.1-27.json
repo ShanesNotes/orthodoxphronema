@@ -2,15 +2,25 @@
   "anchor_id": "COL.1:27",
   "canon_uri": "canon/NT/COL.md#COL.1:27",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "To them God willed to make known what are the riches of the glory of this mystery among the Gentiles: which is Christ in you, the hope of glory.",
+  "pericope": {
+    "id": "COL.P006",
+    "title": "Paul's Sacrificial Service",
+    "range": "COL.1:23-1:28",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/PSA_footnotes.md",
-      "line_number": 919,
+      "source_file": "study/footnotes/OT/PSA_footnotes.md",
+      "line_number": 554,
       "raw_match": "[[COL.1:27]]",
       "reference_type": "wikilink",
-      "context": "revealed in His Incarnation and made known among the Gentiles ([[COL.1:26]], [[COL.1:27]]). Here,"
+      "context": "Ps 45 is about hidden things concerning the End, who is Christ. These hidden things are \"the treasures of wisdom and knowledge in Christ\" ([[COL.2:3]]), which are now revealed in His Incarnation and made known among the Gentiles ([[COL.1:26]], [[COL.1:27]]). Here, before His Incarnation, the earth was troubled with fear (vv. 3, 4, 7), which was the fear of death. But after His Incarnation, the Church no longer fears death (v. 3), because His works (v. 9), that is, His death and Resurrection (early in the morning, v. 6), opened up the torrents of the river of God's grace to the Church (v. 5). Thus, hatred (wars) ceased among the Gentiles to the ends of the earth, and the Church was established among them. For stillness in prayer replaced the tumult of hostility between them (vv. 10-12)."
     }
   ]
 }

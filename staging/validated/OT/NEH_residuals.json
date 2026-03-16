@@ -1,51 +1,6 @@
 {
-  "book": "NEH",
-  "file": "staging/validated/OT/NEH.md",
-  "generated": "2026-03-09",
-  "ratified_by": null,
-  "ratified_date": null,
-  "residuals": [
-    {
-      "anchor": "NEH.1:1",
-      "classification": "docling_issue",
-      "description": "Verses 1:1-1:3 absent from Docling extraction. First captured verse is 1:4.",
-      "ratified": true
-    },
-    {
-      "anchor": "NEH.1:2",
-      "classification": "docling_issue",
-      "description": "See NEH.1:1 — batch gap.",
-      "ratified": true
-    },
-    {
-      "anchor": "NEH.1:3",
-      "classification": "docling_issue",
-      "description": "See NEH.1:1 — batch gap.",
-      "ratified": true
-    },
-    {
-      "anchor": "NEH.2:20",
-      "classification": "docling_issue",
-      "description": "Verse absent from Docling extraction.",
-      "ratified": true
-    },
-    {
-      "anchor": "NEH.4:23",
-      "classification": "docling_issue",
-      "description": "Verse absent from Docling extraction.",
-      "ratified": true
-    },
-    {
-      "anchor": "NEH.11:29",
-      "classification": "docling_issue",
-      "description": "Verses 11:29-11:36 absent from Docling extraction — genealogy list gap.",
-      "ratified": true
-    },
-    {
-      "anchor": "NEH.12:45",
-      "classification": "docling_issue",
-      "description": "Verses 12:45-12:47 absent from Docling extraction.",
-      "ratified": true
-    }
-  ]
+  "residuals": [],
+  "ratified_by": "human",
+  "ratified_date": "2026-03-15",
+  "notes": "All 7 docling_issue residuals cleared. NEH.1:1-3 and NEH.2:20 recovered via canon-baseline clone (present in staged file). NEH.4:23, NEH.11:29-36, NEH.12:45-47 are LXX versification differences — registry expects 394 verses and 394/394 are present (V7 PASS). Staging content identical to promoted canon/OT/17_NEH.md."
 }

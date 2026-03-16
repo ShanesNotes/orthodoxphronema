@@ -2,15 +2,25 @@
   "anchor_id": "JAS.1:9",
   "canon_uri": "canon/NT/JAS.md#JAS.1:9",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Let the lowly brother glory in his exaltation,",
+  "pericope": {
+    "id": "JAS.P002",
+    "title": "Wisdom for Trials",
+    "range": "JAS.1:4-1:10",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/1PE_footnotes.md",
-      "line_number": 101,
+      "source_file": "study/footnotes/NT/1PE_footnotes.md",
+      "line_number": 65,
       "raw_match": "[[JAS.1:1]]-12",
       "reference_type": "wikilink_range",
-      "context": "of the passing world, along with the afflictions we must face here (see also [[JAS.1:1]]-12)."
+      "context": "The incorruptible inheritance is reserved for those who have true faith, the faith that by God's grace perseveres to the end. 1:6, 7 To reach the joy and blessing of eternal life in Christ, we first experience the sadness of the passing world, along with the afflictions we must face here (see also [[JAS.1:1]]-12). To the watching world, the perseverance of the faithful during affliction appears foolish and even contemptible. But Peter shows that faith under trial is precious indeed, bearing more glory and honor as it continues to stand under trial (see [[MAT.25:31]]-46; [[1CO.3:10]]-15)."
     }
   ]
 }

@@ -2,15 +2,25 @@
   "anchor_id": "EXO.23:23",
   "canon_uri": "canon/OT/EXO.md#EXO.23:23",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "For My Angel will go before you and bring you in to the Amorites, the Hittites, the Perizzites, the Canaanites, the Gergesites, the Hivites, and the Jebusites; and I will cut them off.",
+  "pericope": {
+    "id": "EXO.P047",
+    "title": "An Angel of Protection",
+    "range": "EXO.23:19-23:32",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/LJE_footnotes.md",
-      "line_number": 33,
+      "source_file": "study/footnotes/OT/LJE_footnotes.md",
+      "line_number": 28,
       "raw_match": "[[EXO.23:20]]-23",
       "reference_type": "wikilink_range",
-      "context": "us through the day. For other examples, see [[EXO.23:20]]-23; 32:34; [[PSA.90:11]]."
+      "context": "This verse describes the important role of the guardian angel, who watches and guides us through the day. For other examples, see [[EXO.23:20]]-23; 32:34; [[PSA.90:11]]."
     }
   ]
 }

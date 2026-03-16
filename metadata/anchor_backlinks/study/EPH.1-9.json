@@ -2,19 +2,29 @@
   "anchor_id": "EPH.1:9",
   "canon_uri": "canon/NT/EPH.md#EPH.1:9",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "having made known to us the mystery of His will, according to His good pleasure which He purposed in Himself,",
+  "pericope": {
+    "id": "EPH.P002",
+    "title": "The Work of the Father, Son, and Spirit",
+    "range": "EPH.1:3-1:12",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/1TI_footnotes.md",
-      "line_number": 205,
+      "source_file": "study/footnotes/NT/1TI_footnotes.md",
+      "line_number": 143,
       "raw_match": "[[EPH.1:3]]-14",
       "reference_type": "wikilink_range",
-      "context": "[[EPH.1:3]]-14; 5:14; [[PHP.2:6]]-11; [[COL.1:15]]-20.) Thus, when the early Councils met and"
+      "context": "Paul quotes an ancient Christian creed or hymn that is especially clear about the divinity of Jesus Christ. Another such creed is found in [[2TI.2:11]]-13. (See also 6:15, 16; [[EPH.1:3]]-14; 5:14; [[PHP.2:6]]-11; [[COL.1:15]]-20.) Thus, when the early Councils met and issued creeds, they were well within the mark of biblical precedent."
     },
     {
-      "source_file": "staging/validated/NT/COL_footnotes.md",
-      "line_number": 157,
+      "source_file": "study/footnotes/NT/COL_footnotes.md",
+      "line_number": 105,
       "raw_match": "[[EPH.1:9]]",
       "reference_type": "wikilink",
       "context": "Mystery: See [[EPH.1:9]], [[EPH.1:10]] and note; see also Glossary."

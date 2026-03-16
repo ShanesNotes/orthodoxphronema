@@ -2,15 +2,25 @@
   "anchor_id": "HAG.2:23",
   "canon_uri": "canon/OT/HAG.md#HAG.2:23",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "In that day,' says the Lord Almighty, 'I shall take you, Zerubbabel, My servant, the son of Shealtiel,' says the Lord, 'and shall make you like a signet ring; for I have chosen you.'",
+  "pericope": {
+    "id": "HAG.P005",
+    "title": "A Promise Made to Zerubbabel",
+    "range": "HAG.2:19-2:23",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/LUK_footnotes.md",
-      "line_number": 2189,
+      "source_file": "study/footnotes/NT/LUK_footnotes.md",
+      "line_number": 1465,
       "raw_match": "[[HAG.2:23]]",
       "reference_type": "wikilink",
-      "context": "signet ring is family identity ([[HAG.2:23]]), and the sandals refer to walking according to"
+      "context": "The significance of the robe is righteousness granted by baptism (Is 61:10), the signet ring is family identity ([[HAG.2:23]]), and the sandals refer to walking according to the gospel ([[EPH.6:15]])."
     }
   ]
 }

@@ -2,15 +2,25 @@
   "anchor_id": "ACT.23:2",
   "canon_uri": "canon/NT/ACT.md#ACT.23:2",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "And the high priest Ananias commanded those who stood by him to strike him on the mouth.",
+  "pericope": {
+    "id": "ACT.P082",
+    "title": "Before the Sanhedrin",
+    "range": "ACT.22:29-23:10",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/EST_footnotes.md",
-      "line_number": 33,
+      "source_file": "study/footnotes/OT/EST_footnotes.md",
+      "line_number": 23,
       "raw_match": "[[ACT.23:1]]-5",
       "reference_type": "wikilink_range",
-      "context": "of an earthly office is not diminished by the failings of the person holding it (see [[JOH.11:51]]; [[ACT.23:1]]-5)."
+      "context": "a-1r These verses occur only in the Greek LXX manuscripts and appear there as an addition to the Book of Esther. 1:1d-1j The dream (which is interpreted in 10:1-3k) prepares Mordecai for the test he will face and reveals that God is behind the course of human events. 1:1m-1r This plot, recounted in 2:21-23, serves to describe the animosity between Haman and Mordecai. 1:1-6 Artaxerxes is imperfect, passionate, and self-indulgent. Nevertheless, by virtue of his office and by reigning over many nations, he functions as a figure for God. The dignity of an earthly office is not diminished by the failings of the person holding it (see [[JOH.11:51]]; [[ACT.23:1]]-5)."
     }
   ]
 }

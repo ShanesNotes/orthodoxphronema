@@ -2,15 +2,25 @@
   "anchor_id": "ROM.3:29",
   "canon_uri": "canon/NT/ROM.md#ROM.3:29",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Or is He the God of the Jews only? Is He not also the God of the Gentiles? Yes, of the Gentiles also,",
+  "pericope": {
+    "id": "ROM.P009",
+    "title": "Righteousness in Christ Fulfills the Law",
+    "range": "ROM.3:20-3:30",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/SIR_footnotes.md",
-      "line_number": 1406,
+      "source_file": "study/footnotes/OT/SIR_footnotes.md",
+      "line_number": 1097,
       "raw_match": "[[ROM.3:29]]-31",
       "reference_type": "wikilink_range",
-      "context": "fulfilled (see [[ROM.3:29]]-31; 4:13-16; [[GAL.4:21]]-31; all of Hebrews but especially 12:18-29; [[1PE.2:4]]-10; [[REV.21:9]]-27)."
+      "context": "Though this prayer was for Israel, it was also for all on earth. Thus, the Church has become the New Jerusalem, the new Zion, the new nation in which the OT prophecies are fulfilled (see [[ROM.3:29]]-31; 4:13-16; [[GAL.4:21]]-31; all of Hebrews but especially 12:18-29; [[1PE.2:4]]-10; [[REV.21:9]]-27)."
     }
   ]
 }

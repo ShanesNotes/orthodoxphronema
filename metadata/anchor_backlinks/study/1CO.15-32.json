@@ -2,15 +2,25 @@
   "anchor_id": "1CO.15:32",
   "canon_uri": "canon/NT/1CO.md#1CO.15:32",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "If, in the manner of men, I have fought with beasts at Ephesus, what advantage is it to me? If the dead do not rise, 'Let us eat and drink, for tomorrow we die!'",
+  "pericope": {
+    "id": "1CO.P035",
+    "title": "The Resurrection and the Kingdom",
+    "range": "1CO.15:19-15:33",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/ACT_footnotes.md",
-      "line_number": 2007,
+      "source_file": "study/footnotes/NT/ACT_footnotes.md",
+      "line_number": 1265,
       "raw_match": "[[1CO.15:32]]",
       "reference_type": "wikilink",
-      "context": "among the worst he faced ([[1CO.15:32]]; [[2CO.1:8]])."
+      "context": "Paul reminds his hearers of the tears and trials he faced in Ephesus in order to strengthen them for what is to come. Paul's persecutions in Ephesus (Asia Minor) were among the worst he faced ([[1CO.15:32]]; [[2CO.1:8]])."
     }
   ]
 }

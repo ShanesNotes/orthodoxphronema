@@ -2,22 +2,32 @@
   "anchor_id": "REV.1:8",
   "canon_uri": "canon/NT/REV.md#REV.1:8",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "And all the tribes of the earth will mourn because of Him. Even so, Amen. 'I am the Alpha and the Omega, the Beginning and the End,' says the Lord,'who is and who was and who is to come, the Almighty.'",
+  "pericope": {
+    "id": "REV.P003",
+    "title": "Vision and Commission of Christ",
+    "range": "REV.1:8-1:19",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/ISA_footnotes.md",
-      "line_number": 936,
+      "source_file": "study/footnotes/OT/ISA_footnotes.md",
+      "line_number": 727,
       "raw_match": "[[REV.1:8]]",
       "reference_type": "wikilink",
-      "context": "Beginning and the End\" ([[REV.1:8]])."
+      "context": "Christ declares in the Book of Revelation, \"I am the Alpha and the Omega, the Beginning and the End\" ([[REV.1:8]])."
     },
     {
-      "source_file": "staging/validated/OT/PSA_footnotes.md",
-      "line_number": 83,
+      "source_file": "study/footnotes/OT/PSA_footnotes.md",
+      "line_number": 54,
       "raw_match": "[[REV.1:8]]",
       "reference_type": "wikilink",
-      "context": "and the End\" ([[REV.1:8]]). He exhorts people not to be slow of heart, and not to love vain"
+      "context": "Ps 4 emphasizes the End (vv. 1, 2). Christ \"is the end of the law for righteousness to everyone who believes\" ([[ROM.10:4]]), and He is \"the Alpha and the Omega, the Beginning and the End\" ([[REV.1:8]]). He exhorts people not to be slow of heart, and not to love vain things, nor to seek after lies (v. 3). Rather, they should realize that the Lord, who is the Father, has made His Holy One, who is Christ, to be wondrous (v. 4) in His death and Resurrection (v. 9)."
     }
   ]
 }

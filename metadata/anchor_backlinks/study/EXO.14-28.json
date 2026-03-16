@@ -2,36 +2,46 @@
   "anchor_id": "EXO.14:28",
   "canon_uri": "canon/OT/EXO.md#EXO.14:28",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Then the waters returned and covered the chariots, the horsemen, and all of Pharaoh's army that came into the sea after them. Not so much as one of them remained.",
+  "pericope": {
+    "id": "EXO.P028",
+    "title": "Crossing the Red Sea",
+    "range": "EXO.13:22-15:18",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/JOH_footnotes.md",
-      "line_number": 1127,
+      "source_file": "study/footnotes/NT/JOH_footnotes.md",
+      "line_number": 702,
       "raw_match": "[[EXO.14:15]]-31",
       "reference_type": "wikilink_range",
-      "context": "the midst of the water ([[EXO.14:15]]-31). Here, Christ sends His disciples across the sea (v."
+      "context": "This chapter parallels the story of the Passover and Exodus of Israel from Egypt in several important ways. (1) In the Exodus account (Ex 11-17), God first performed His signs against Pharaoh, then gave instructions on how to be saved at the time of the Passover ([[EXO.11:1]]-12:14). In this passage, the multitudes follow Christ because of His signs (v. 2), and this too takes place at Passover (v. 4). (2) In the Exodus, the Jews were said to eat unleavened bread because they were hastily driven out of Egypt and had brought no provisions for themselves ([[EXO.12:39]]). Here, Jesus feeds the multitudes with earthly bread because they had brought no provisions, having rushed out to see Him (vv. 2-14). (3) In the Exodus, Moses leads the people across the Red Sea, walking on dry ground in the midst of the water ([[EXO.14:15]]-31). Here, Christ sends His disciples across the sea (v. 17) and then walks on the sea (v. 19) as if it were dry ground. (4) In the Exodus, God fed His people manna and gave them drink from a miraculous water source ([[EXO.16:1]]-17:7). Here, Christ declares Himself to be the true food and drink, the true bread that has come down from heaven (vv. 48-58). These parallels show that Christ our God is the fulfillment of the old covenant, and that the breaking of His body and the shedding of His blood, which free mankind from the slavery of sin, fulfill the sacrifice of the Passover lambs (1:29), which brought the people out of slavery into the Promised Land."
     },
     {
-      "source_file": "staging/validated/OT/3MA_footnotes.md",
-      "line_number": 145,
+      "source_file": "study/footnotes/OT/3MA_footnotes.md",
+      "line_number": 124,
       "raw_match": "[[EXO.14:21]]-28",
       "reference_type": "wikilink_range",
       "context": "The sea: See [[EXO.14:21]]-28."
     },
     {
-      "source_file": "staging/validated/OT/EZK_footnotes.md",
-      "line_number": 347,
+      "source_file": "study/footnotes/OT/EZK_footnotes.md",
+      "line_number": 335,
       "raw_match": "[[EXO.14:27]]-30",
       "reference_type": "wikilink_range",
-      "context": "Jordan (see also [[EXO.14:27]]-30). The horn (v. 21) is a symbol for Christ."
+      "context": "The judgment against Pharaoh and Egypt illustrates the destruction of demonic strongholds through baptism. As the rivers (v. 3) belonged to Pharaoh, so the dragon (v. 3), the devil, held sway on the earth until Christ destroyed him in the waters of the Jordan (see also [[EXO.14:27]]-30). The horn (v. 21) is a symbol for Christ."
     },
     {
-      "source_file": "staging/validated/OT/JOB_footnotes.md",
-      "line_number": 868,
+      "source_file": "study/footnotes/OT/JOB_footnotes.md",
+      "line_number": 685,
       "raw_match": "[[EXO.14:23]]-28",
       "reference_type": "wikilink_range",
-      "context": "rushing over him until it was too late ([[EXO.14:23]]-28). The Jordan, says St. Gregory, signifies those who have been sealed with the sacrament of baptism."
+      "context": "Here one is reminded of Pharaoh, who did not notice the waters of the Red Sea rushing over him until it was too late ([[EXO.14:23]]-28). The Jordan, says St. Gregory, signifies those who have been sealed with the sacrament of baptism."
     }
   ]
 }

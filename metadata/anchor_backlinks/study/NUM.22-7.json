@@ -2,15 +2,25 @@
   "anchor_id": "NUM.22:7",
   "canon_uri": "canon/OT/NUM.md#NUM.22:7",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "So the elders of Moab and the elders of Midian departed with their divinations in their hand; and they came to Balaam and spoke to him the words of Balak.",
+  "pericope": {
+    "id": "NUM.P052",
+    "title": "Balak Seeks Out Balaam",
+    "range": "NUM.21:35-22:18",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/2PE_footnotes.md",
-      "line_number": 227,
+      "source_file": "study/footnotes/NT/2PE_footnotes.md",
+      "line_number": 146,
       "raw_match": "[[NUM.22:1]]-25",
       "reference_type": "wikilink_range",
-      "context": "false prophets have been in the past. For the story of Balaam (v. 15), see [[NUM.22:1]]-25:9;"
+      "context": "False teachers are condemned for both their words and their actions. Those who are natural cannot understand spiritual things ([[1CO.2:14]]) and will be destroyed, as false prophets have been in the past. For the story of Balaam (v. 15), see [[NUM.22:1]]-25:9; 31:8, 16; [[DEU.23:4]], [[DEU.23:5]]; [[JOS.13:22]]; Jude 11."
     }
   ]
 }

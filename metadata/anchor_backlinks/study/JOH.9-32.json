@@ -2,15 +2,25 @@
   "anchor_id": "JOH.9:32",
   "canon_uri": "canon/NT/JOH.md#JOH.9:32",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Since the world began it has been unheard of that anyone opened the eyes of one who was born blind.",
+  "pericope": {
+    "id": "JOH.P031",
+    "title": "Those Who See, Those Who Do Not",
+    "range": "JOH.9:13-9:40",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/MRK_footnotes.md",
-      "line_number": 451,
+      "source_file": "study/footnotes/NT/MRK_footnotes.md",
+      "line_number": 314,
       "raw_match": "[[JOH.9:32]]",
       "reference_type": "wikilink",
-      "context": "(compare [[JOH.9:32]]). Son of David (vv. 47, 48) was a messianic title, showing that"
+      "context": "The restoration of sight to the blind (vv. 51, 52) was a sign expected to be performed by the Messiah (Is 29:18; 35:4, 5), a power God had reserved for Himself (compare [[JOH.9:32]]). Son of David (vv. 47, 48) was a messianic title, showing that Bartimaeus (v. 46) had faith that Jesus was the Christ. The Fathers give a spiritual interpretation to this miracle as well. Jericho was a lowlying city associated with sin ([[LUK.10:30]]; 19:1); here it symbolizes fallen humanity. Christ passing through Jericho is an image of His Incarnation. The Lord restoring sight to Bartimaeus parallels His restoring humanity to glory. Having been made whole by Christ, human nature can now follow Christ on the road to the Kingdom (v. 52), symbolized by our Lord's subsequent entrance into Jerusalem (11:1-11)."
     }
   ]
 }

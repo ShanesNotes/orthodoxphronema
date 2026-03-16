@@ -2,15 +2,25 @@
   "anchor_id": "NEH.2:11",
   "canon_uri": "canon/OT/NEH.md#NEH.2:11",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "So I came to Jerusalem and was there three days.",
+  "pericope": {
+    "id": "NEH.P007",
+    "title": "Those Who Returned from Captivity",
+    "range": "NEH.2:3-2:11",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/2MA_footnotes.md",
-      "line_number": 85,
+      "source_file": "study/footnotes/OT/2MA_footnotes.md",
+      "line_number": 69,
       "raw_match": "[[NEH.2:11]]-18",
       "reference_type": "wikilink_range",
-      "context": "destroyed by fire ([[NEH.2:11]]-18)."
+      "context": "The prophet Nehemiah was to rebuild the walls of Jerusalem that had been destroyed by fire ([[NEH.2:11]]-18)."
     }
   ]
 }

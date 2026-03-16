@@ -2,15 +2,25 @@
   "anchor_id": "JOH.10:30",
   "canon_uri": "canon/NT/JOH.md#JOH.10:30",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "I and My Father are one.'",
+  "pericope": {
+    "id": "JOH.P035",
+    "title": "I and My Father Are One",
+    "range": "JOH.10:24-10:41",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/JUD_footnotes.md",
-      "line_number": 17,
+      "source_file": "study/footnotes/NT/JUD_footnotes.md",
+      "line_number": 15,
       "raw_match": "[[JOH.10:27]]-30",
       "reference_type": "wikilink_range",
-      "context": "faithful, as Jude will relate in this letter (see [[JOH.10:27]]-30; [[2TI.1:12]]; [[HEB.12:2]])."
+      "context": "Preserved in Jesus Christ is a promise of God to all faithful. But not all are so faithful, as Jude will relate in this letter (see [[JOH.10:27]]-30; [[2TI.1:12]]; [[HEB.12:2]])."
     }
   ]
 }

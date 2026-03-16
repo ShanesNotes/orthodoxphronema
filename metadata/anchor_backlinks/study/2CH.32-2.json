@@ -2,15 +2,25 @@
   "anchor_id": "2CH.32:2",
   "canon_uri": "canon/OT/2CH.md#2CH.32:2",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "And when Hezekiah saw that Sennacherib came, and that his purpose was to make war against Jerusalem,",
+  "pericope": {
+    "id": "2CH.P061",
+    "title": "Assyria Invades Judah",
+    "range": "2CH.32:1-32:19",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/SIR_footnotes.md",
-      "line_number": 2116,
+      "source_file": "study/footnotes/OT/SIR_footnotes.md",
+      "line_number": 1665,
       "raw_match": "[[2CH.32:2]]-4",
       "reference_type": "wikilink_range",
-      "context": "the time of Hezekiah's reign as king (see [[2CH.32:2]]-4)."
+      "context": "In addition to cisterns, Hezekiah had a tunnel constructed through hard rock to allow the water of the Gihon spring to flow into the pool of Siloam. Archeologists have discovered Hebrew words carved in the wall of the tunnel, celebrating its completion in the time of Hezekiah's reign as king (see [[2CH.32:2]]-4)."
     }
   ]
 }

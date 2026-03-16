@@ -2,43 +2,53 @@
   "anchor_id": "JOH.1:10",
   "canon_uri": "canon/NT/JOH.md#JOH.1:10",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "He was in the world, and the world was made through Him, and the world did not know Him.",
+  "pericope": {
+    "id": "JOH.P001",
+    "title": "John \u2014 Opening",
+    "range": "JOH.1:1-1:11",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/HEB_footnotes.md",
-      "line_number": 417,
+      "source_file": "study/footnotes/NT/HEB_footnotes.md",
+      "line_number": 269,
       "raw_match": "[[JOH.1:1]]-18",
       "reference_type": "wikilink_range",
-      "context": "the Word of God Himself, our Lord Jesus Christ (see [[JOH.1:1]]-18). Nothing is able to escape"
+      "context": "The word of God and the sword here are living and powerful. The phrase His sight (v. 13) tells us this reference is not to the written word, Holy Scripture, but to the Word of God Himself, our Lord Jesus Christ (see [[JOH.1:1]]-18). Nothing is able to escape the discernment of Christ, the Word of God."
     },
     {
-      "source_file": "staging/validated/NT/REV_footnotes.md",
-      "line_number": 231,
+      "source_file": "study/footnotes/NT/REV_footnotes.md",
+      "line_number": 142,
       "raw_match": "[[JOH.1:1]]-18",
       "reference_type": "wikilink_range",
-      "context": "of the Son of Man (see also [[JOH.1:1]]-18). Thus, in Christ man (v. 14) and God (vv. 15, 16)"
+      "context": "Further, Christ is here described as God, His hair (v. 14) being that of Daniel's vision of God as the \"Ancient of Days\" (7:9; see also 1En 46:1). His eyes signify knowledge; His feet (v. 15), permanence and stability; His voice, authority or teaching; His right hand (v. 16), power; His two-edged sword, complete discernment. This imagery continues throughout Revelation to affirm the preexistence and eternal divinity of the Son of Man (see also [[JOH.1:1]]-18). Thus, in Christ man (v. 14) and God (vv. 15, 16) are united."
     },
     {
-      "source_file": "staging/validated/OT/NUM_footnotes.md",
-      "line_number": 818,
+      "source_file": "study/footnotes/OT/NUM_footnotes.md",
+      "line_number": 544,
       "raw_match": "[[JOH.1:10]]",
       "reference_type": "wikilink",
-      "context": "Word, became flesh, neither Israel nor the world at large knew Him ([[JOH.1:10]], [[JOH.1:11]]), but the"
+      "context": "The Angel is the Word and Son of God. He warned Balaam to speak only what He told him to speak: \"Only the word I may speak to you, this you must be careful to speak\" (v. 35). Later, Balaam told Balak he could only speak whatever word God may put in my mouth, this I must speak (v. 38). Thus, Balaam called the Angel \"God.\" 22:22-27 The donkey knew his Master and Creator, for she saw Him. However, Balaam could not see Him because of his darkened heart. Likewise, when this Angel, who is the Word, became flesh, neither Israel nor the world at large knew Him ([[JOH.1:10]], [[JOH.1:11]]), but the donkey and the ox knew Him at His birth in the cave. In the Christmas icon, the donkey stands nearest Christ in the cave, and next to it the ox, for they knew their Master and Creator, but Israel did not know Him, as Isaiah prophesied (Is 1:3, 4)."
     },
     {
-      "source_file": "staging/validated/OT/SIR_footnotes.md",
-      "line_number": 1728,
+      "source_file": "study/footnotes/OT/SIR_footnotes.md",
+      "line_number": 1365,
       "raw_match": "[[JOH.1:1]]-18",
       "reference_type": "wikilink_range",
-      "context": "Second Person of the Godhead, was and is eternally active in all creation (see [[JOH.1:1]]-18)."
+      "context": "Any works done by God begin with His Word. He decrees it and it is done. Though the Greek for \"words\" here is plural, the Christian knows the Eternal Word (Logos), the Second Person of the Godhead, was and is eternally active in all creation (see [[JOH.1:1]]-18)."
     },
     {
-      "source_file": "staging/validated/OT/ZEC_footnotes.md",
-      "line_number": 29,
+      "source_file": "study/footnotes/OT/ZEC_footnotes.md",
+      "line_number": 21,
       "raw_match": "[[JOH.1:1]]-18",
       "reference_type": "wikilink_range",
-      "context": "the language used by John to describe the Incarnation (see [[JOH.1:1]]-18). The Word who"
+      "context": "Zechariah records an exact date when his visions began. The eighth month is a reference to the Hebrew calendar, while the second year of Darius is a Persian rendering of time. Zechariah is the son of Berechiah and grandson of Addo the prophet. The identity of the prophet and the time of the prophecy are not merely historical references; they are eternally significant because the revelation of God came to Zechariah at this time. The word of the Lord is an action of God in His graceful self-disclosure. The word of the Lord comes to Zechariah veiled, but when the Messiah comes in Bethlehem of Judea five centuries later, He comes in the flesh. Indeed, the language of the LXX here parallels the language used by John to describe the Incarnation (see [[JOH.1:1]]-18). The Word who comes to Zechariah is truly the eternal Son of God, the Word of God, the Second Person of the Holy Trinity who becomes flesh as Jesus Christ."
     }
   ]
 }

@@ -2,22 +2,32 @@
   "anchor_id": "GAL.6:15",
   "canon_uri": "canon/NT/GAL.md#GAL.6:15",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "For in Christ Jesus neither circumcision nor uncircumcision avails anything, but a new creation.",
+  "pericope": {
+    "id": "GAL.P021",
+    "title": "The Rule of Faith",
+    "range": "GAL.6:10-6:16",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/REV_footnotes.md",
-      "line_number": 425,
+      "source_file": "study/footnotes/NT/REV_footnotes.md",
+      "line_number": 261,
       "raw_match": "[[GAL.6:15]]",
       "reference_type": "wikilink",
-      "context": "and His Church ([[ROM.2:28]]; [[GAL.6:15]])."
+      "context": "The Smyrnan church was poor, perhaps because of the persecution, but spiritually rich, the opposite of Laodicea. The Jews of the synagogue of Satan may be either Jews in name only (see [[ROM.2:28]], [[ROM.2:29]]) who were insincere in their profession of Judaism and compromising in their beliefs ([[JOH.8:31]]-47); or Jews who refused to embrace the Messiah and His Church ([[ROM.2:28]]; [[GAL.6:15]])."
     },
     {
-      "source_file": "staging/validated/NT/ROM_footnotes.md",
-      "line_number": 1463,
+      "source_file": "study/footnotes/NT/ROM_footnotes.md",
+      "line_number": 950,
       "raw_match": "[[GAL.6:15]]",
       "reference_type": "wikilink",
-      "context": "together form the true Israel. (In [[GAL.6:15]], [[GAL.6:16]], St. Paul calls those \"in Christ Jesus\" the"
+      "context": "The mystery which explains the unbelief of so many Jews is that the Gentiles are now being united to the remnant of the faithful Jews, and thus this body of believers together form the true Israel. (In [[GAL.6:15]], [[GAL.6:16]], St. Paul calls those \"in Christ Jesus\" the \"Israel of God,\" which is the Church.) This true Israel is not based on biological ancestry but on faithfulness to God's Deliverer, the Messiah. In this understanding, all Israel will be saved (v. 26)."
     }
   ]
 }

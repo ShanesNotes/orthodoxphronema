@@ -2,15 +2,25 @@
   "anchor_id": "TIT.3:1",
   "canon_uri": "canon/NT/TIT.md#TIT.3:1",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Remind them to be subject to rulers and authorities, to obey, to be ready for every good work,",
+  "pericope": {
+    "id": "TIT.P006",
+    "title": "Kindness Toward All Men",
+    "range": "TIT.2:15-3:1",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/1PE_footnotes.md",
-      "line_number": 273,
+      "source_file": "study/footnotes/NT/1PE_footnotes.md",
+      "line_number": 179,
       "raw_match": "[[TIT.3:1]]",
       "reference_type": "wikilink",
-      "context": "(See also [[ROM.13:1]]-7; [[MAT.22:21]]; [[TIT.3:1]].) Peter urges his readers to be obedient to"
+      "context": "(See also [[ROM.13:1]]-7; [[MAT.22:21]]; [[TIT.3:1]].) Peter urges his readers to be obedient to civil government. While Christians serve a higher authority, God Himself, it is God who calls us to submit to earthly leaders for the Lord's sake (v. 13). This is not a call to \"separate\" Church from state, but rather a call to cooperate with and enhance the state-- realizing that at times Church and state have been at great odds. When ultimate loyalty and obedience to Christ and His gospel are at stake, Peter's actions show that we are to obey God rather than man, even to the point of prison or death ([[ACT.4:19]], [[ACT.4:20]])."
     }
   ]
 }

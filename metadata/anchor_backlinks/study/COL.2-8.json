@@ -2,15 +2,25 @@
   "anchor_id": "COL.2:8",
   "canon_uri": "canon/NT/COL.md#COL.2:8",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Beware lest anyone cheat you through philosophy and empty deceit, according to the tradition of men, according to the basic principles of the world, and not according to Christ.",
+  "pericope": {
+    "id": "COL.P008",
+    "title": "Against False Theology",
+    "range": "COL.2:5-2:14",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/GAL_footnotes.md",
-      "line_number": 509,
+      "source_file": "study/footnotes/NT/GAL_footnotes.md",
+      "line_number": 333,
       "raw_match": "[[COL.2:8]]",
       "reference_type": "wikilink",
-      "context": "humanity without regard to God ([[COL.2:8]])."
+      "context": "The elements of the world are the philosophies and traditions developed by humanity without regard to God ([[COL.2:8]])."
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "book_code": "TIT",
   "testament": "NT",
-  "timestamp": "2026-03-13T13:36:36.254837",
-  "registry_version": "1.4.0",
+  "timestamp": "2026-03-15T18:29:30.340055",
+  "registry_version": "1.7.6",
   "body_checksum": "4c04822fb60933947821257247ff732800c74c5aabe46f6f87522450302e2c66",
   "allow_incomplete": true,
   "staged_path": "/home/ark/orthodoxphronema/staging/validated/NT/TIT.md",

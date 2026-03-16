@@ -2,15 +2,25 @@
   "anchor_id": "LUK.12:3",
   "canon_uri": "canon/NT/LUK.md#LUK.12:3",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Therefore whatever you have spoken in the dark will be heard in the light, and what you have spoken in the ear in inner rooms will be proclaimed on the housetops.",
+  "pericope": {
+    "id": "LUK.P059",
+    "title": "Against Hypocrisy",
+    "range": "LUK.11:53-12:11",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/EST_footnotes.md",
-      "line_number": 335,
+      "source_file": "study/footnotes/OT/EST_footnotes.md",
+      "line_number": 228,
       "raw_match": "[[LUK.12:3]]",
       "reference_type": "wikilink",
-      "context": "What is done in secret is shouted from the housetops ([[LUK.12:3]]). Haman's plot was"
+      "context": "What is done in secret is shouted from the housetops ([[LUK.12:3]]). Haman's plot was made in secret, but now the bodies of his sons are exposed (v. 13) as was his secret plot (see also [[LUK.8:17]])."
     }
   ]
 }

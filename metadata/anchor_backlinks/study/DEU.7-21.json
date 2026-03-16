@@ -2,15 +2,25 @@
   "anchor_id": "DEU.7:21",
   "canon_uri": "canon/OT/DEU.md#DEU.7:21",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "You shall not be terrified of their face; for the Lord your God is among you, a great and powerful God;",
+  "pericope": {
+    "id": "DEU.P019",
+    "title": "Obedience Brings Blessing",
+    "range": "DEU.7:11-7:25",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/NEH_footnotes.md",
-      "line_number": 65,
+      "source_file": "study/footnotes/OT/NEH_footnotes.md",
+      "line_number": 49,
       "raw_match": "[[DEU.7:21]]",
       "reference_type": "wikilink",
-      "context": "of Scripture. The phrase great and awesome God is from [[DEU.7:21]]. Verses 8 and 9 quote"
+      "context": "No indeed is Nehemiah's way of saying, \"I'm not putting up with the damaged state of the walls and gates of Jerusalem.\" Nehemiah's prayer reflects his devotion to the words of Scripture. The phrase great and awesome God is from [[DEU.7:21]]. Verses 8 and 9 quote [[DEU.30:1]]-5. This man... the king is Artaxerxes I, under whom Nehemiah held the office of cupbearer (v. 11). He it is who would grant Nehemiah's request to return to Jerusalem (2:6-8)."
     }
   ]
 }

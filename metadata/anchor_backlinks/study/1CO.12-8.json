@@ -2,12 +2,22 @@
   "anchor_id": "1CO.12:8",
   "canon_uri": "canon/NT/1CO.md#1CO.12:8",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "for to one is given the word of wisdom through the Spirit, to another the word of knowledge through the same Spirit,",
+  "pericope": {
+    "id": "1CO.P028",
+    "title": "Spiritual Gifts",
+    "range": "1CO.11:34-12:25",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/SIR_footnotes.md",
-      "line_number": 707,
+      "source_file": "study/footnotes/OT/SIR_footnotes.md",
+      "line_number": 540,
       "raw_match": "[[1CO.12:8]]",
       "reference_type": "wikilink",
       "context": "St. Paul speaks of \"the word of wisdom\" ([[1CO.12:8]])."

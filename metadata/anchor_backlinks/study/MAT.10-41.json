@@ -2,15 +2,25 @@
   "anchor_id": "MAT.10:41",
   "canon_uri": "canon/NT/MAT.md#MAT.10:41",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "He who receives a prophet in the name of a prophet shall receive a prophet's reward. And he who receives a righteous man in the name of a righteous man shall receive a righteous man's reward.",
+  "pericope": {
+    "id": "MAT.P029",
+    "title": "Encouragement to Fearless Witness",
+    "range": "MAT.10:23-10:41",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/3JN_footnotes.md",
-      "line_number": 45,
+      "source_file": "study/footnotes/NT/3JN_footnotes.md",
+      "line_number": 37,
       "raw_match": "[[MAT.10:41]]",
       "reference_type": "wikilink",
-      "context": "spiritual gifts. The donor becomes a coworker in spiritual things (see [[MAT.10:41]])."
+      "context": "One way we may participate in ministry is by giving material help to those with spiritual gifts. The donor becomes a coworker in spiritual things (see [[MAT.10:41]]). 1:9, 10 Diotrephes means \"nursed or nourished by Zeus.\" Early Christians kept their original name after their baptism. Diotrephes loved being preeminent--not the first among equals but peerless, with a passion for personal aggrandizement. This sin results in insubordination: Diotrephes slanders John, the last of the twelve apostles, by refusing to accept him as either an apostle or a presbyter. By rejecting John's missionaries he rejects John himself. And he disdains the apostolic, catholic ways of the Church, setting himself up as a petty tyrant."
     }
   ]
 }

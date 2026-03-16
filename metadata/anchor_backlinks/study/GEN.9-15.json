@@ -2,22 +2,32 @@
   "anchor_id": "GEN.9:15",
   "canon_uri": "canon/OT/GEN.md#GEN.9:15",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "and I will remember My covenant between Me and you and every living creature of all flesh; the waters shall never again become a flood to destroy all flesh.",
+  "pericope": {
+    "id": "GEN.P010",
+    "title": "God's Covenant with Noah",
+    "range": "GEN.9:7-9:28",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/REV_footnotes.md",
-      "line_number": 823,
+      "source_file": "study/footnotes/NT/REV_footnotes.md",
+      "line_number": 514,
       "raw_match": "[[GEN.9:12]]-17",
       "reference_type": "wikilink_range",
-      "context": "which He will not judge man again as He did at the Flood ([[GEN.9:12]]-17). Mercy triumphs"
+      "context": "God is seen in biblical visions as sitting on a throne, a symbol of His sovereign lordship (3Kg 22:19; [[PSA.46:9]]; Is 6:1; [[EZK.1:25]]-27; [[DAN.7:9]]; [[MAT.5:34]]; 23:22; see also 1En 14:18, 19). The image of this throne occurs over 40 times in Revelation and is further described as \"a great white throne\" (20:11), a throne of judgment. But here His throne is surrounded by a rainbow (v. 3), the sign of God's everlasting covenant according to which He will not judge man again as He did at the Flood ([[GEN.9:12]]-17). Mercy triumphs over judgment ([[MAT.9:13]]). Thus, in the Orthodox Church, the altar table is sometimes called \"the throne.\""
     },
     {
-      "source_file": "staging/validated/OT/EZK_footnotes.md",
+      "source_file": "study/footnotes/OT/EZK_footnotes.md",
       "line_number": 68,
       "raw_match": "[[GEN.9:13]]-15",
       "reference_type": "wikilink_range",
-      "context": "from the Virgin Mary. 1:27 The rainbow images the new covenant (see [[GEN.9:13]]-15). 2:9, 10 The roll of a book signifies Holy Scripture, which Christ unrolled ([[MRK.4:34]]; Lk"
+      "context": "The rainbow images the new covenant (see [[GEN.9:13]]-15)."
     }
   ]
 }

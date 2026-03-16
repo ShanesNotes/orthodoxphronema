@@ -2,15 +2,25 @@
   "anchor_id": "DAN.3:73",
   "canon_uri": "canon/OT/DAN.md#DAN.3:73",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "'Bless the Lord, you lightning and clouds, And sing a hymn to Him, And exalt Him beyond measure unto the ages.",
+  "pericope": {
+    "id": "DAN.P010",
+    "title": "Hymn of the Three Young Men",
+    "range": "DAN.3:50-3:89",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/3MA_footnotes.md",
-      "line_number": 593,
+      "source_file": "study/footnotes/OT/3MA_footnotes.md",
+      "line_number": 500,
       "raw_match": "[[DAN.3:23]]-91",
       "reference_type": "wikilink_range",
-      "context": "the fiery furnace ([[DAN.3:23]]-91). This would have become a regular feature in Jewish"
+      "context": "Ode of their fathers: Undoubtedly a psalm or the song of the three young men in the fiery furnace ([[DAN.3:23]]-91). This would have become a regular feature in Jewish liturgical practice. How much more appropriate at such a celebration--and everyone would know the words!"
     }
   ]
 }

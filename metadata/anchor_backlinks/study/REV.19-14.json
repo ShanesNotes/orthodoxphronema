@@ -2,15 +2,25 @@
   "anchor_id": "REV.19:14",
   "canon_uri": "canon/NT/REV.md#REV.19:14",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "And the armies in heaven, clothed in fine linen, white and clean, followed Him on white horses.",
+  "pericope": {
+    "id": "REV.P055",
+    "title": "The Word and His Army",
+    "range": "REV.19:10-19:15",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/SNG_footnotes.md",
-      "line_number": 452,
+      "source_file": "study/footnotes/OT/SNG_footnotes.md",
+      "line_number": 346,
       "raw_match": "[[REV.19:14]]",
       "reference_type": "wikilink",
-      "context": "([[REV.19:8]], [[REV.19:14]]), better than all spices, for they fill the world with the fragrance of Christ"
+      "context": "The garments of the Church, and therefore of the saints, are her righteous deeds ([[REV.19:8]], [[REV.19:14]]), better than all spices, for they fill the world with the fragrance of Christ Himself ([[2CO.2:14]], [[2CO.2:15]])."
     }
   ]
 }

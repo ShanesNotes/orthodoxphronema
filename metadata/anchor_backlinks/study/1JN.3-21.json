@@ -2,12 +2,22 @@
   "anchor_id": "1JN.3:21",
   "canon_uri": "canon/NT/1JN.md#1JN.3:21",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Beloved, if our heart does not condemn us, we have confidence toward God.",
+  "pericope": {
+    "id": "1JN.P006",
+    "title": "Love One Another",
+    "range": "1JN.3:9-3:23",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/SIR_footnotes.md",
-      "line_number": 319,
+      "source_file": "study/footnotes/OT/SIR_footnotes.md",
+      "line_number": 229,
       "raw_match": "[[1JN.3:21]]",
       "reference_type": "wikilink",
       "context": "See [[1JN.3:21]]."

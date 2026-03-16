@@ -2,22 +2,32 @@
   "anchor_id": "LUK.12:47",
   "canon_uri": "canon/NT/LUK.md#LUK.12:47",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "And that servant who knew his master's will, and did not prepare himself or do according to his will, shall be beaten with many stripes.",
+  "pericope": {
+    "id": "LUK.P061",
+    "title": "Against Laziness and Forgetfulness",
+    "range": "LUK.12:34-12:47",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/EZK_footnotes.md",
-      "line_number": 206,
+      "source_file": "study/footnotes/OT/EZK_footnotes.md",
+      "line_number": 196,
       "raw_match": "[[LUK.12:42]]-48",
       "reference_type": "wikilink_range",
-      "context": "and note). 12:18-19 Compare to [[GEN.3:17]]-19. 12:21-28 Christ echoes this passage in His parable of the good steward ([[LUK.12:42]]-48). 12:25"
+      "context": "Christ echoes this passage in His parable of the good steward ([[LUK.12:42]]-48)."
     },
     {
-      "source_file": "staging/validated/OT/JOB_footnotes.md",
-      "line_number": 389,
+      "source_file": "study/footnotes/OT/JOB_footnotes.md",
+      "line_number": 312,
       "raw_match": "[[LUK.12:47]]",
       "reference_type": "wikilink",
-      "context": "([[MAT.25:41]]; [[LUK.12:47]], [[LUK.12:48]]). 21:16"
+      "context": "St. Gregory comments that the hypocrite hides his evil intentions behind soft words inspired by demons, but the faithful hide the \"honey and milk\" of heaven under their tongue (SS 4:11). 21:7-14 Some, seeing the righteous suffer and the sinner prosper, assume that God's judgment is not just. But although the ungodly may prosper on this earth, they cannot escape judgment when they die. Christ will say to all who reject Him, \"depart from Me\" ([[MAT.25:41]]; [[LUK.12:47]], [[LUK.12:48]]). 21:16 \"Let us pray together to undergo toil here, so that we may deserve to gain the consolation of eternal rest in the kingdom of heaven. For prosperity and abundance constitute a powerful inducement to do wrong; they exalt a man to pride and induce him to forget his Creator\" (AmbM)."
     }
   ]
 }

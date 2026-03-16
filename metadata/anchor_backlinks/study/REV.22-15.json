@@ -2,15 +2,25 @@
   "anchor_id": "REV.22:15",
   "canon_uri": "canon/NT/REV.md#REV.22:15",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "But outside are dogs and sorcerers and sexually immoral and murderers and idolaters, and whoever loves and practices a lie.",
+  "pericope": {
+    "id": "REV.P064",
+    "title": "Christ's Testimony",
+    "range": "REV.22:8-22:21",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/MAT_footnotes.md",
-      "line_number": 1177,
+      "source_file": "study/footnotes/NT/MAT_footnotes.md",
+      "line_number": 761,
       "raw_match": "[[REV.22:15]]",
       "reference_type": "wikilink",
-      "context": "Dogs and swine refer to heathen peoples ([[PHP.3:2]]; [[REV.22:15]]), but would also include"
+      "context": "Dogs and swine refer to heathen peoples ([[PHP.3:2]]; [[REV.22:15]]), but would also include Jews who do not practice virtue. According to the Fathers, dogs are those so immersed in evil that they show no hope of change, while swine are those who habitually live immoral and impure lives. The pearls are the inner mysteries of the Christian faith, including Christ's teachings (13:46) and the great sacraments. These holy things are restricted from the immoral and unrepentant, not to protect the holy things themselves, for Christ needs no protection. Rather, we protect the faithless people from the condemnation that would result from holding God's mysteries in contempt (see note on [[LUK.23:8]], [[LUK.23:9]])."
     }
   ]
 }

@@ -2,57 +2,67 @@
   "anchor_id": "GAL.3:16",
   "canon_uri": "canon/NT/GAL.md#GAL.3:16",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Now to Abraham and his Seed were the promises made. He does not say, 'And to seeds,' as of many, but as of one, 'And to your Seed,' who is Christ.",
+  "pericope": {
+    "id": "GAL.P011",
+    "title": "Sonship: Promise, Not Law",
+    "range": "GAL.3:14-3:17",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/DEU_footnotes.md",
-      "line_number": 1325,
+      "source_file": "study/footnotes/OT/DEU_footnotes.md",
+      "line_number": 869,
       "raw_match": "[[GAL.3:16]]",
       "reference_type": "wikilink",
-      "context": "in Him ([[GAL.3:16]]). The land is \"the world to come\" (Creed; [[ROM.4:13]]). They, and those of"
+      "context": "The Lord swore to give the land Moses saw to Abraham, Isaac, and Jacob as an inheritance. Yet they never received it, nor did Moses. Therefore, what is this land, and when will they receive it, and who is the seed? The seed is Christ and those who believe in Him ([[GAL.3:16]]). The land is \"the world to come\" (Creed; [[ROM.4:13]]). They, and those of like faith, will receive this world at \"the resurrection of the dead\" (Creed; Heb 11). The world to come is this present creation redeemed along with the children of God (Rom 8:21, 22)."
     },
     {
-      "source_file": "staging/validated/OT/GEN_footnotes.md",
-      "line_number": 174,
+      "source_file": "study/footnotes/OT/GEN_footnotes.md",
+      "line_number": 126,
       "raw_match": "[[GAL.3:16]]",
       "reference_type": "wikilink",
-      "context": "The woman's seed is first Christ, and second His Church ([[GAL.3:16]], [[GAL.3:26]]). The serpent's"
+      "context": "The woman's seed is first Christ, and second His Church ([[GAL.3:16]], [[GAL.3:26]]). The serpent's seed are those who reject Christ and follow the devil ([[1JN.3:8]]-10). Christ destroyed the devil through the cross (bruise your head)."
     },
     {
-      "source_file": "staging/validated/OT/GEN_footnotes.md",
-      "line_number": 725,
+      "source_file": "study/footnotes/OT/GEN_footnotes.md",
+      "line_number": 508,
       "raw_match": "[[GAL.3:16]]",
       "reference_type": "wikilink",
-      "context": "The seed is first Christ, then His Church ([[GAL.3:16]]; [[ROM.4:16]]). The stars are a type"
+      "context": "The seed is first Christ, then His Church ([[GAL.3:16]]; [[ROM.4:16]]). The stars are a type of all the members of His body ([[PHP.2:15]]). Their number is countless, and consists of both Jews and Gentiles ([[EPH.2:11]]-16)."
     },
     {
-      "source_file": "staging/validated/OT/GEN_footnotes.md",
-      "line_number": 1078,
+      "source_file": "study/footnotes/OT/GEN_footnotes.md",
+      "line_number": 777,
       "raw_match": "[[GAL.3:16]]",
       "reference_type": "wikilink",
-      "context": "faith through the Lord Jesus Christ ([[GAL.3:16]])."
+      "context": "Thus, Sarah conceived, based on the word of promise. She did not conceive based on the power of the flesh, for both she and Abraham were past the time of childbearing. Therefore, it is not the children of the flesh--that is, Abraham's offspring through procreation--who are the children of God. Rather, the children of this promise are counted as Abraham's seed ([[ROM.9:8]]). These children are those who embrace Abraham's faith through the Lord Jesus Christ ([[GAL.3:16]])."
     },
     {
-      "source_file": "staging/validated/OT/GEN_footnotes.md",
-      "line_number": 1174,
+      "source_file": "study/footnotes/OT/GEN_footnotes.md",
+      "line_number": 850,
       "raw_match": "[[GAL.3:16]]",
       "reference_type": "wikilink",
-      "context": "and His Church begotten from Him ([[GAL.3:16]]). It does not refer to Israel according to the"
+      "context": "Abraham's seed would be as the stars of heaven and as the sand on the seashore. These are Abraham's seed based on the word of promise. This seed is Christ and His Church begotten from Him ([[GAL.3:16]]). It does not refer to Israel according to the flesh. It refers to both Jews and Gentiles who are the children of the promise."
     },
     {
-      "source_file": "staging/validated/OT/GEN_footnotes.md",
-      "line_number": 1402,
+      "source_file": "study/footnotes/OT/GEN_footnotes.md",
+      "line_number": 1018,
       "raw_match": "[[GAL.3:16]]",
       "reference_type": "wikilink",
-      "context": "([[GAL.3:16]]). For both Jews and Gentiles who believe are joined together as one body in"
+      "context": "The phrase your seed includes both Jews and Gentiles (all the nations) who embrace the promise given to Abraham. The phrase \"in your seed\" is a reference to Christ ([[GAL.3:16]]). For both Jews and Gentiles who believe are joined together as one body in Christ, that is, in Christ and His Church."
     },
     {
-      "source_file": "staging/validated/OT/GEN_footnotes.md",
-      "line_number": 1725,
+      "source_file": "study/footnotes/OT/GEN_footnotes.md",
+      "line_number": 1267,
       "raw_match": "[[GAL.3:16]]",
       "reference_type": "wikilink",
-      "context": "Your seed is a reference to Christ ([[GAL.3:16]]), and together with Him, the Church, composed of both Jews and Gentiles. It is not a reference to the Jews based on physical"
+      "context": "Your seed is a reference to Christ ([[GAL.3:16]]), and together with Him, the Church, composed of both Jews and Gentiles. It is not a reference to the Jews based on physical lineage."
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "book_code": "ZEP",
   "testament": "OT",
-  "timestamp": "2026-03-13T13:36:36.565048",
-  "registry_version": "1.4.0",
-  "body_checksum": "eb9d8a4119565cc8443aacf6acada52561f48ba8866537f735b9b193f6afdbd3",
+  "timestamp": "2026-03-15T21:56:14.715594",
+  "registry_version": "1.7.6",
+  "body_checksum": "796662f49405fc1174c6e7b0c4f2faedbd655c0ce8eaeb587c14296c85b8f6a2",
   "allow_incomplete": true,
   "staged_path": "/home/ark/orthodoxphronema/staging/validated/OT/ZEP.md",
   "residuals_path": null,
@@ -18,118 +18,36 @@
       "messages": []
     },
     "V2": {
-      "status": "WARN",
-      "messages": [
-        "V2   Chapter count: expected 3, got 1"
-      ]
+      "status": "PASS",
+      "messages": []
     },
     "V3": {
       "status": "PASS",
       "messages": []
     },
     "V4": {
-      "status": "WARN",
-      "messages": [
-        "V4   Missing verses in ch.1: jumps from 1 to 5",
-        "V4   Missing verses in ch.1: jumps from 6 to 13",
-        "V4   Missing verses in ch.1: jumps from 13 to 18",
-        "V4   Missing verses in ch.2: jumps from 1 to 10",
-        "V4   Missing verses in ch.2: jumps from 10 to 13",
-        "V4   Missing verses in ch.2: jumps from 13 to 15",
-        "V4   Missing verses in ch.3: jumps from 2 to 13"
-      ]
+      "status": "PASS",
+      "messages": []
     },
     "V5": {
       "status": "PASS",
       "messages": []
     },
     "V7": {
-      "status": "WARN",
-      "messages": [
-        "V7   Completeness: 13/53 verses (24.5%); gap of 40"
-      ]
+      "status": "PASS",
+      "messages": []
     },
     "V8": {
       "status": "PASS",
       "messages": []
     },
     "V9": {
-      "status": "FAIL",
-      "messages": [
-        "V9   Embedded verse ZEP.1:2 found inside ZEP.1:1 at line 17",
-        "V9   Embedded verse ZEP.1:3 found inside ZEP.1:1 at line 17",
-        "V9   Embedded verse ZEP.1:4 found inside ZEP.1:1 at line 17",
-        "V9   Embedded verse ZEP.1:7 found inside ZEP.1:6 at line 19",
-        "V9   Embedded verse ZEP.1:8 found inside ZEP.1:6 at line 19",
-        "V9   Embedded verse ZEP.1:9 found inside ZEP.1:6 at line 19",
-        "V9   Embedded verse ZEP.1:10 found inside ZEP.1:6 at line 19",
-        "V9   Embedded verse ZEP.1:11 found inside ZEP.1:6 at line 19",
-        "V9   Embedded verse ZEP.1:12 found inside ZEP.1:6 at line 19",
-        "V9   Embedded verse ZEP.1:14 found inside ZEP.1:13 at line 20",
-        "V9   Embedded verse ZEP.1:15 found inside ZEP.1:13 at line 20",
-        "V9   Embedded verse ZEP.1:16 found inside ZEP.1:13 at line 20",
-        "V9   Embedded verse ZEP.1:17 found inside ZEP.1:13 at line 20",
-        "V9   Embedded verse ZEP.2:2 found inside ZEP.2:1 at line 24",
-        "V9   Embedded verse ZEP.2:3 found inside ZEP.2:1 at line 24",
-        "V9   Embedded verse ZEP.2:4 found inside ZEP.2:1 at line 24",
-        "V9   Embedded verse ZEP.2:5 found inside ZEP.2:1 at line 24",
-        "V9   Embedded verse ZEP.2:6 found inside ZEP.2:1 at line 24",
-        "V9   Embedded verse ZEP.2:7 found inside ZEP.2:1 at line 24",
-        "V9   Embedded verse ZEP.2:8 found inside ZEP.2:1 at line 24",
-        "V9   Embedded verse ZEP.2:9 found inside ZEP.2:1 at line 24",
-        "V9   Embedded verse ZEP.2:11 found inside ZEP.2:10 at line 25",
-        "V9   Embedded verse ZEP.2:12 found inside ZEP.2:10 at line 25",
-        "V9   Embedded verse ZEP.2:14 found inside ZEP.2:13 at line 26",
-        "V9   Embedded verse ZEP.3:3 found inside ZEP.3:2 at line 31",
-        "V9   Embedded verse ZEP.3:4 found inside ZEP.3:2 at line 31",
-        "V9   Embedded verse ZEP.3:5 found inside ZEP.3:2 at line 31",
-        "V9   Embedded verse ZEP.3:6 found inside ZEP.3:2 at line 31",
-        "V9   Embedded verse ZEP.3:7 found inside ZEP.3:2 at line 31",
-        "V9   Embedded verse ZEP.3:8 found inside ZEP.3:2 at line 31",
-        "V9   Embedded verse ZEP.3:9 found inside ZEP.3:2 at line 31",
-        "V9   Embedded verse ZEP.3:10 found inside ZEP.3:2 at line 31",
-        "V9   Embedded verse ZEP.3:11 found inside ZEP.3:2 at line 31",
-        "V9   Embedded verse ZEP.3:12 found inside ZEP.3:2 at line 31"
-      ]
+      "status": "PASS",
+      "messages": []
     },
     "V10": {
-      "status": "WARN",
-      "messages": [
-        "V10  Absorbed content: ZEP.1:2 likely present in ZEP.1:1 (Brenton word match: 4/8 = 50%)",
-        "V10  Absorbed content: ZEP.1:3 likely present in ZEP.1:1 (Brenton word match: 7/15 = 47%)",
-        "V10  Absorbed content: ZEP.1:4 likely present in ZEP.1:1 (Brenton word match: 12/17 = 71%)",
-        "V10  Absorbed content: ZEP.1:7 likely present in ZEP.1:6 (Brenton word match: 9/10 = 90%)",
-        "V10  Absorbed content: ZEP.1:8 likely present in ZEP.1:6 (Brenton word match: 15/17 = 88%)",
-        "V10  Absorbed content: ZEP.1:9 likely present in ZEP.1:6 (Brenton word match: 13/14 = 93%)",
-        "V10  Absorbed content: ZEP.1:10 likely present in ZEP.1:6 (Brenton word match: 13/17 = 76%)",
-        "V10  Absorbed content: ZEP.1:11 likely present in ZEP.1:6 (Brenton word match: 9/20 = 45%)",
-        "V10  Absorbed content: ZEP.1:12 likely present in ZEP.1:6 (Brenton word match: 20/27 = 74%)",
-        "V10  Absorbed content: ZEP.1:14 likely present in ZEP.1:13 (Brenton word match: 8/11 = 73%)",
-        "V10  Absorbed content: ZEP.1:15 likely present in ZEP.1:13 (Brenton word match: 7/11 = 64%)",
-        "V10  Absorbed content: ZEP.1:16 likely present in ZEP.1:13 (Brenton word match: 6/7 = 86%)",
-        "V10  Absorbed content: ZEP.1:17 likely present in ZEP.1:13 (Brenton word match: 19/22 = 86%)",
-        "V10  Absorbed content: ZEP.2:2 likely present in ZEP.2:1 (Brenton word match: 16/16 = 100%)",
-        "V10  Absorbed content: ZEP.2:3 likely present in ZEP.2:1 (Brenton word match: 9/12 = 75%)",
-        "V10  Absorbed content: ZEP.2:4 likely present in ZEP.2:1 (Brenton word match: 6/15 = 40%)",
-        "V10  Absorbed content: ZEP.2:5 likely present in ZEP.2:1 (Brenton word match: 15/17 = 88%)",
-        "V10  Absorbed content: ZEP.2:6 likely present in ZEP.2:1 (Brenton word match: 6/6 = 100%)",
-        "V10  Absorbed content: ZEP.2:7 likely present in ZEP.2:1 (Brenton word match: 25/28 = 89%)",
-        "V10  Absorbed content: ZEP.2:8 likely present in ZEP.2:1 (Brenton word match: 11/16 = 69%)",
-        "V10  Absorbed content: ZEP.2:9 likely present in ZEP.2:1 (Brenton word match: 26/30 = 87%)",
-        "V10  Absorbed content: ZEP.2:11 likely present in ZEP.2:10 (Brenton word match: 18/20 = 90%)",
-        "V10  Absorbed content: ZEP.2:12 likely present in ZEP.2:10 (Brenton word match: 3/4 = 75%)",
-        "V10  Absorbed content: ZEP.2:14 likely present in ZEP.2:13 (Brenton word match: 15/24 = 62%)",
-        "V10  Absorbed content: ZEP.3:3 likely present in ZEP.3:2 (Brenton word match: 6/12 = 50%)",
-        "V10  Absorbed content: ZEP.3:4 likely present in ZEP.3:2 (Brenton word match: 6/9 = 67%)",
-        "V10  Absorbed content: ZEP.3:5 likely present in ZEP.3:2 (Brenton word match: 17/19 = 89%)",
-        "V10  Absorbed content: ZEP.3:6 likely present in ZEP.3:2 (Brenton word match: 19/26 = 73%)",
-        "V10  Absorbed content: ZEP.3:7 likely present in ZEP.3:2 (Brenton word match: 15/19 = 79%)",
-        "V10  Absorbed content: ZEP.3:8 likely present in ZEP.3:2 (Brenton word match: 22/28 = 79%)",
-        "V10  Absorbed content: ZEP.3:9 likely present in ZEP.3:2 (Brenton word match: 10/13 = 77%)",
-        "V10  Absorbed content: ZEP.3:10 likely present in ZEP.3:2 (Brenton word match: 10/12 = 83%)",
-        "V10  Absorbed content: ZEP.3:11 likely present in ZEP.3:2 (Brenton word match: 12/26 = 46%)",
-        "V10  Absorbed content: ZEP.3:12 likely present in ZEP.3:2 (Brenton word match: 3/6 = 50%)"
-      ]
+      "status": "PASS",
+      "messages": []
     },
     "V11": {
       "status": "PASS",
@@ -138,8 +56,12 @@
     "V12": {
       "status": "PASS",
       "messages": []
+    },
+    "V13": {
+      "status": "PASS",
+      "messages": []
     }
   },
   "residuals_sidecar": null,
-  "decision": "blocked"
+  "decision": "promoted"
 }

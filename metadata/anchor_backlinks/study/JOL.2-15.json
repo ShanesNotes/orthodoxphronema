@@ -2,29 +2,39 @@
   "anchor_id": "JOL.2:15",
   "canon_uri": "canon/OT/JOL.md#JOL.2:15",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Sound the trumpet in Zion, sanctify a fast, call a solemn assembly;",
+  "pericope": {
+    "id": "JOL.P004",
+    "title": "The Day of the Lord",
+    "range": "JOL.2:1-2:27",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/MAT_footnotes.md",
-      "line_number": 1467,
+      "source_file": "study/footnotes/NT/MAT_footnotes.md",
+      "line_number": 950,
       "raw_match": "[[JOL.2:15]]",
       "reference_type": "wikilink",
-      "context": "8:49, 50; [[EST.4:16]]; [[JOL.2:15]]), especially on the Day of Atonement (Lv 16:31-34) and in"
+      "context": "The Jews typically fasted twice a week ([[LUK.18:12]]), on Monday and Thursday. In addition, public fasts were regularly observed or occasionally proclaimed ([[2CH.20:3]]; 1Ez 8:49, 50; [[EST.4:16]]; [[JOL.2:15]]), especially on the Day of Atonement (Lv 16:31-34) and in times of mourning ([[ZEC.7:5]]; 8:19). But the Jews saw the day of the Messiah as a wedding feast--a time of joy and gladness. Jesus here proclaims that day, declaring Himself to be the Messiah/Bridegroom. For Christians, fasting is not gloomy but desirable, a bright sadness, for by fasting, they gain self-control and prepare themselves for the Wedding Feast. The old garment and old wineskins stand for the Old Covenant and the Law, viewed as imperfect and temporary; the new wineskins are the New Covenant and those in Christ. The new wine is the Holy Spirit dwelling within renewed people, who cannot be constrained by the old precepts of the Law."
     },
     {
-      "source_file": "staging/validated/OT/EZR_footnotes.md",
-      "line_number": 262,
+      "source_file": "study/footnotes/OT/EZR_footnotes.md",
+      "line_number": 190,
       "raw_match": "[[JOL.2:12]]-17",
       "reference_type": "wikilink_range",
-      "context": "of God, and in securing His power against the enemy ([[EST.4:16]]; [[JOL.2:12]]-17; [[MAT.17:17]]-"
+      "context": "A fast by the faithful has tremendous power in helping to discern the right way of God, and in securing His power against the enemy ([[EST.4:16]]; [[JOL.2:12]]-17; [[MAT.17:17]]- 21)."
     },
     {
-      "source_file": "staging/validated/OT/ISA_footnotes.md",
-      "line_number": 1343,
+      "source_file": "study/footnotes/OT/ISA_footnotes.md",
+      "line_number": 1061,
       "raw_match": "[[JOL.2:15]]",
       "reference_type": "wikilink",
-      "context": "blown when a fast was called ([[JOL.2:15]]). The people display an outward religious piety"
+      "context": "God calls Isaiah to rebuke the people loudly, like the trumpet that was traditionally blown when a fast was called ([[JOL.2:15]]). The people display an outward religious piety that hides the wickedness in their hearts."
     }
   ]
 }

@@ -1,0 +1,26 @@
+{
+  "anchor_id": "GEN.49:1",
+  "canon_uri": "canon/OT/GEN.md#GEN.49:1",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-15T23:42:04+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Now Jacob called his sons and said, 'Gather together, that I may tell you what shall befall you in the last days:",
+  "pericope": {
+    "id": "GEN.P079",
+    "title": "Jacob's Final Words to His Sons",
+    "range": "GEN.48:22-49:26",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
+  "links": [
+    {
+      "source_file": "study/lectionary-notes/OT/GEN_lectionary.md",
+      "line_number": 78,
+      "raw_match": "[[GEN.49:1]]",
+      "reference_type": "wikilink",
+      "context": "**49:1** \u2014 [[GEN.49:1]], [[GEN.49:2]], [[GEN.49:8]]\u201312: This passage is read during Saturday Vespers in the sixth week of Great Lent."
+    }
+  ]
+}

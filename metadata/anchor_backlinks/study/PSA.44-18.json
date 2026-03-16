@@ -2,15 +2,25 @@
   "anchor_id": "PSA.44:18",
   "canon_uri": "canon/OT/PSA.md#PSA.44:18",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "They shall remember your name from generation to generation; Therefore, peoples shall give thanks to you Forever and unto ages of ages.",
+  "pericope": {
+    "id": "PSA.P044",
+    "title": "Psalm 44",
+    "range": "PSA.44:1-44:18",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/SNG_footnotes.md",
-      "line_number": 553,
+      "source_file": "study/footnotes/OT/SNG_footnotes.md",
+      "line_number": 421,
       "raw_match": "[[PSA.44:18]]",
       "reference_type": "wikilink",
-      "context": "unto ages of ages\" ([[PSA.44:18]]); (3) like refined gold (v. 11), \"on His head a golden crown\""
+      "context": "In the richness of poetic language, the bride extols the beauty and grace of her beloved. Applying these words to Christ, the Bridegroom of the Church, we see that He is: (1) a shining... light (v. 10), \"the light of the world\" ([[JOH.8:12]]); (2) chosen from countless thousands (v. 10): \"Therefore, peoples shall give thanks to you / Forever and unto ages of ages\" ([[PSA.44:18]]); (3) like refined gold (v. 11), \"on His head a golden crown\" ([[REV.14:14]]); (4) seen with eyes... like... doves (v. 12): \"The eyes of the Lord are in every place\" (Pr 15:3); (5) revealed with glorious cheeks and lips (v. 13): \"His voice as the sound of many waters\" ([[REV.1:15]]); (6) beautiful in hands and stomach (v. 14): \"Then Jesus put out His hand and touched him\" ([[MAT.8:3]]); (7) strong of legs and feet (v. 15): \"His feet were like fine brass\" ([[REV.1:15]]); (8) altogether desirable (v. 16), \"more beautiful than the sons of men\" ([[PSA.44:3]])."
     }
   ]
 }

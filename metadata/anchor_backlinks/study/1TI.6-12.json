@@ -2,15 +2,25 @@
   "anchor_id": "1TI.6:12",
   "canon_uri": "canon/NT/1TI.md#1TI.6:12",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Fight the good fight of faith, lay hold on eternal life, to which you were also called and have confessed the good confession in the presence of many witnesses.",
+  "pericope": {
+    "id": "1TI.P020",
+    "title": "Pursue Spirituality Instead",
+    "range": "1TI.6:10-6:14",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/COL_footnotes.md",
-      "line_number": 255,
+      "source_file": "study/footnotes/NT/COL_footnotes.md",
+      "line_number": 164,
       "raw_match": "[[1TI.6:12]]",
       "reference_type": "wikilink",
-      "context": "condemned as pride. (For Paul on asceticism, see 1Co 9; [[1TI.6:12]]; [[2TI.2:3]]-6)."
+      "context": "Here Paul speaks against false worship (vv. 16, 17), false mysticism (vv. 18, 19), and false asceticism (vv. 20-23). He says, let no one judge you (v. 16) and do not submit to the basic principles of the world (v. 20; see v. 8 and note). For man does not live by shadow, the law, but by the substance (lit. \"body\") that produces the shadow (v. 17), which is the body of Christ, the Church. Man-centered superstitious ritualism is deadly. The fulfilling liturgy is that of the body of Christ, culminating in the Eucharist. (For Paul on liturgical worship, see 1Co 11-14.) Mystical experiences are not wrong in themselves, but we must beware of deception, pride, schism, and a mind controlled by passions and the body. (For Paul on mystical experiences, see 2Co 12; Eph 1; 3.) Ascetic practices--prayer, fasting, almsgiving--are taught by God (Mt 6), but enemies lie along that path as well. Submitting to created realities, heeding human traditions, the deception of feeding the flesh when you think you are denying it, are false asceticism and condemned as pride. (For Paul on asceticism, see 1Co 9; [[1TI.6:12]]; [[2TI.2:3]]-6)."
     }
   ]
 }

@@ -2,22 +2,32 @@
   "anchor_id": "HEB.9:9",
   "canon_uri": "canon/NT/HEB.md#HEB.9:9",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "It was symbolic for the present time in which both gifts and sacrifices are offered which cannot make him who performed the service perfect in regard to the conscience-",
+  "pericope": {
+    "id": "HEB.P019",
+    "title": "The Heavenly Sanctuary and Liturgy",
+    "range": "HEB.9:9-9:12",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/LEV_footnotes.md",
-      "line_number": 997,
+      "source_file": "study/footnotes/OT/LEV_footnotes.md",
+      "line_number": 607,
       "raw_match": "[[HEB.9:9]]",
       "reference_type": "wikilink",
-      "context": "covenant offering could not make the conscience of the worshiper perfect ([[HEB.9:8]], [[HEB.9:9]]), though it did cleanse from all sin. But our Great High Priest, Jesus Christ, entered the heavenly holy of holies, where He"
+      "context": "The atonement granted this day to the people of Israel could picture only in a limited way--as is true of all types--what Christ would do in His suffering and death. This old covenant offering could not make the conscience of the worshiper perfect ([[HEB.9:8]], [[HEB.9:9]]), though it did cleanse from all sin. But our Great High Priest, Jesus Christ, entered the heavenly holy of holies, where He sprinkled His sacrificial blood to deal fully with our sins. Today is the Day of Atonement. Today is the eighth day--the day after which there are no more days. In the old covenant, the high priest went into the holy of holies once every year, and necessarily came back out immediately. Not so of Christ. He went into the heavenly holy of holies with His own blood to atone for our sins, and thus to reconcile us with God."
     },
     {
-      "source_file": "staging/validated/OT/NUM_footnotes.md",
-      "line_number": 193,
+      "source_file": "study/footnotes/OT/NUM_footnotes.md",
+      "line_number": 125,
       "raw_match": "[[HEB.9:9]]",
       "reference_type": "wikilink",
-      "context": "things in the heavens should be purified with these.\" [[HEB.9:9]]: \"It was symbolic for the"
+      "context": "[[NUM.4:1]], [[NUM.4:16]], [[NUM.4:29]]: Gershom, Kohath, and Merari were the sons of Levi ([[EXO.6:16]]). Their lineage, in turn, would be assigned as the liturgical ministers of the tabernacle. The Scripture refers to the tabernacle and its liturgical service of worship by various words, all of which show the temporal nature of this worship. These Scripture passages are as follows: [[EXO.25:40]] (also quoted in [[HEB.8:5]]): \"See to it that you make [all things] according to the pattern shown you on the mountain.\" [[HEB.8:5]]: \"[The priests] serve the copy and shadow of the heavenly things.\" [[HEB.9:23]]: \"Therefore it was necessary that the copies of the things in the heavens should be purified with these.\" [[HEB.9:9]]: \"It was symbolic for the present time in which both gifts and sacrifices are offered.\" [[HEB.9:24]]: \"For Christ has not entered the holy places made with hands, which are copies of the true, but into heaven itself, now to appear in the presence of God for us.\" [[HEB.10:1]]: \"For the law, having a shadow of the good things to come...\" [[HEB.11:19]]: \"... from which [Abraham] also received [Isaac] in a figurative sense.\" The various words therefore are \"pattern,\" \"copy,\" \"shadow,\" \"figure,\" and \"symbol,\" all of which carry the same meaning, namely, one level of reality that represents and is fulfilled in another and greater level. Therefore, the Old Testament liturgical service of worship was temporal in nature, and is fulfilled in the greater reality of the Church's liturgical worship. Liturgical worship in the Church is called \"heaven on earth,\" for it fulfills the types."
     }
   ]
 }

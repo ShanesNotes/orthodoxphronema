@@ -1,8 +1,8 @@
 {
   "book_code": "REV",
   "testament": "NT",
-  "timestamp": "2026-03-13T13:36:35.855078",
-  "registry_version": "1.4.0",
+  "timestamp": "2026-03-15T18:29:29.940723",
+  "registry_version": "1.7.6",
   "body_checksum": "05215a9834837ebb435732da75b1910e9375423897936d1d3d418459819259de",
   "allow_incomplete": true,
   "staged_path": "/home/ark/orthodoxphronema/staging/validated/NT/REV.md",

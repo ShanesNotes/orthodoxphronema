@@ -2,22 +2,32 @@
   "anchor_id": "JOH.4:39",
   "canon_uri": "canon/NT/JOH.md#JOH.4:39",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "And many of the Samaritans of that city believed in Him because of the word of the woman who testified, 'He told me all that I ever did.'",
+  "pericope": {
+    "id": "JOH.P011",
+    "title": "The Preaching of John the Baptist",
+    "range": "JOH.3:21-4:44",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/ACT_footnotes.md",
-      "line_number": 685,
+      "source_file": "study/footnotes/NT/ACT_footnotes.md",
+      "line_number": 461,
       "raw_match": "[[JOH.4:39]]",
       "reference_type": "wikilink",
-      "context": "brought news of the Messiah before His crucifixion (see [[JOH.4:39]])."
+      "context": "Philip the deacon (6:5) is the first to evangelize Samaria with the gospel of Jesus Christ, bringing both teachings and healings. The eager reception by the people (v. 12) is due in part to the foundation laid by St. Photini, the Samaritan woman of Jn 4, who brought news of the Messiah before His crucifixion (see [[JOH.4:39]])."
     },
     {
-      "source_file": "staging/validated/OT/MIC_footnotes.md",
-      "line_number": 41,
+      "source_file": "study/footnotes/OT/MIC_footnotes.md",
+      "line_number": 32,
       "raw_match": "[[JOH.4:1]]-42",
       "reference_type": "wikilink_range",
-      "context": "Samaritans were among the first to repent and receive the gospel ([[JOH.4:1]]-42). Therefore, this prophecy is ultimately fulfilled in the Church, Christ's vineyard."
+      "context": ", 7 Samaritans were among the first to repent and receive the gospel ([[JOH.4:1]]-42). Therefore, this prophecy is ultimately fulfilled in the Church, Christ's vineyard."
     }
   ]
 }

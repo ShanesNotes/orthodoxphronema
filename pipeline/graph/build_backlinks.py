@@ -23,8 +23,10 @@ def detect_domain(source_file: str) -> str:
         return "liturgical"
     if normalized.startswith("phronema/patristics/") or normalized.startswith("phronema/patristic/"):
         return "patristic"
-    if normalized.startswith(("phronema/study/", "articles/", "notes/", "staging/validated/")):
+    if normalized.startswith(("phronema/study/", "articles/", "notes/", "staging/validated/", "study/")):
         return "study"
+    if normalized.startswith("reference/"):
+        return "reference"
     raise ValueError(f"unable to infer domain for source_file {source_file!r}")
 
 

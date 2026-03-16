@@ -2,29 +2,39 @@
   "anchor_id": "LUK.4:18",
   "canon_uri": "canon/NT/LUK.md#LUK.4:18",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "'The Spirit of the LORD is upon Me, Because He has anointed Me To preach the gospel to the poor; He has sent Me to heal the brokenhearted,To proclaim liberty to the captives And recovery of sight to the blind, To set at liberty those who are oppressed;",
+  "pericope": {
+    "id": "LUK.P020",
+    "title": "Unbelief at Nazareth",
+    "range": "LUK.4:15-4:36",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/JAS_articles.md",
+      "source_file": "study/articles/NT/JAS_articles.md",
       "line_number": 19,
       "raw_match": "[[LUK.4:18]]",
       "reference_type": "wikilink",
-      "context": "'I s anyone among you sick? Let him call for the elders of the church, and let them pray over him, anointing him with oil in the name of the Lord. And the prayer of faith will save the sick, and the Lord will raise him up. And if he has committed sins, he will be forgiven' (5:14, 15). One of the great prophetic themes of the Old Testament concerning the promised Messiah is that the Father would send His Son 'to heal the brokenhearted, to proclaim liberty to the captives and recovery of sight to the blind' ([[LUK.4:18]]; see also Is 49:8; Is 61:1). The ministry of Christ was one of numerous healings of 'all kinds of sicknesses and all kinds of disease' ([[MAT.4:23]]). In addition, Jesus healed darkened hearts and minds as He released people from demonic oppression. Like their Master before them, the early apostles participated in God's work of healing as well, attributing their miracles to the risen and ascended Christ. 'Jesus the Christ heals you,' Peter told a newly restored man who had been bedridden for eight years ([[ACT.9:34]]). St. Paul identified healing as a gift of the Holy Spirit ([[1CO.12:9]]). Thus, the New Testament foundation was established for the healing ministry to be a part of the sacramental life of the Church ([[JAS.5:14]], [[JAS.5:15]]). Healings throughout history. The Orthodox Church has never believed or behaved as though the gifts of the Spirit or the healing miracles of Christ have somehow passed away. Did not Jesus promise, 'He who believes in Me, the works that I do he will do also; and greater works than these he will do, because I go to My Father' ([[JOH.14:12]])? St. Ireneaus, writing at the close of the second century, speaks of miracles in his day: 'Some drive out devils... some have foreknowledge of the future... others heal the sick through the laying on of hands... and even the dead have been raised up before now and have remained with us for many years.' The writings of other Church Fathers speak often of"
+      "context": "'I s anyone among you sick? Let him call for the elders of the church, and let them pray over him, anointing him with oil in the name of the Lord. And the prayer of faith will save the sick, and the Lord will raise him up. And if he has committed sins, he will be forgiven' (5:14, 15). One of the great prophetic themes of the Old Testament concerning the promised Messiah is that the Father would send His Son 'to heal the brokenhearted, to proclaim liberty to the captives and recovery of sight to the blind' ([[LUK.4:18]]; see also [[ISA.49:8]]; [[ISA.61:1]]). The ministry of Christ was one of numerous healings of 'all kinds of sicknesses and all kinds of disease' ([[MAT.4:23]]). In addition, Jesus healed darkened hearts and minds as He released people from demonic oppression. Like their Master before them, the early apostles participated in God's work of healing as well, attributing their miracles to the risen and ascended Christ. 'Jesus the Christ heals you,' Peter told a newly restored man who had been bedridden for eight years ([[ACT.9:34]]). St. Paul identified healing as a gift of the Holy Spirit ([[1CO.12:9]]). Thus, the New Testament foundation was established for the healing ministry to be a part of the sacramental life of the Church ([[JAS.5:14]], [[JAS.5:15]]). Healings throughout history. The Orthodox Church has never believed or behaved as though the gifts of the Spirit or the healing miracles of Christ have somehow passed away. Did not Jesus promise, 'He who believes in Me, the works that I do he will do also; and greater works than these he will do, because I go to My Father' ([[JOH.14:12]])? St. Ireneaus, writing at the close of the second century, speaks of miracles in his day: 'Some drive out devils... some have foreknowledge of the future... others heal the sick through the laying on of hands... and even the dead have been raised up before now and have remained with us for many years.' The writings of other Church Fathers speak often of"
     },
     {
-      "source_file": "staging/validated/OT/ISA_footnotes.md",
-      "line_number": 1457,
+      "source_file": "study/footnotes/OT/ISA_footnotes.md",
+      "line_number": 1153,
       "raw_match": "[[LUK.4:16]]-21",
       "reference_type": "wikilink_range",
-      "context": "It is this passage to which Jesus referred in [[LUK.4:16]]-21 when He stood in the"
+      "context": ", 2 It is this passage to which Jesus referred in [[LUK.4:16]]-21 when He stood in the synagogue and read from the prophet Isaiah. He told the people, \"Today this Scripture is fulfilled in your hearing.\" Jesus made it very clear that He is the Lord God of whom Isaiah wrote. \"Christ said: 'The Spirit of the Lord is upon Me.' And rightly did He say 'upon Me,' because He was speaking as the Son of Man. For as the Son of Man, He was anointed and sent to preach the Gospel\" (AmbM)."
     },
     {
-      "source_file": "staging/validated/OT/MIC_footnotes.md",
-      "line_number": 126,
+      "source_file": "study/footnotes/OT/MIC_footnotes.md",
+      "line_number": 99,
       "raw_match": "[[LUK.4:17]]-21",
       "reference_type": "wikilink_range",
-      "context": "Covenant, emphasizes healing and liberty in Christ ([[LUK.4:17]]-21). 4:10"
+      "context": ", \"'We hated evil and loved good.' And restore justice in the gate.\" 3:2-3 The closest parallel to this passage is the charge against the shepherds in [[EZK.34:2]], [[EZK.34:3]]: \"O shepherds of Israel who feed themselves, should not the shepherds feed the sheep? 3 Behold, you drink the milk and clothe yourselves with the wool. You slay the fatlings, but do not feed My sheep.\" 3:8 Micah is a true prophet of God, as opposed to the false prophets of v. 5. Note that Micah's prophecy against sin under the Law emphasizes the Spirit's judgment and power; while Isaiah's parallel prophecy (see Is 61:1, 2), which is fulfilled in the New Covenant, emphasizes healing and liberty in Christ ([[LUK.4:17]]-21). 4:10 St. John Chrysostom, in his sermon on [[JOH.16:21]], [[JOH.16:22]], sees Christ's words echoing those of the Prophets (see also [[HOS.13:13]]; Is 13:8; [[JER.4:31]]). He writes, \"Now, He was making use of a comparison frequently employed by the Prophets, also, when they compared their sufferings to the excessive pain of birth pangs. What He meant is something like this: 'Suffering as keen as birth pangs will take possession of you. However, the pain of childbirth becomes a cause of joy.'\" Indeed, the daughter of Zion will \"give birth\" to a new creation when she has been redeemed by Christ (see note at Jn 16:21, 22). 5:6, 7 The remnant of Jacob will be among the nations: This phrase does not necessarily imply the scattering of Israel, but rather a focal point for the gathering of the nations together in Christ, as in 4:1-3 and 4:6, 7."
     }
   ]
 }

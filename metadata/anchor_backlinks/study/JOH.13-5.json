@@ -2,15 +2,25 @@
   "anchor_id": "JOH.13:5",
   "canon_uri": "canon/NT/JOH.md#JOH.13:5",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "After that, He poured water into a basin and began to wash the disciples' feet, and to wipe them with the towel with which He was girded.",
+  "pericope": {
+    "id": "JOH.P047",
+    "title": "Jesus Washes the Disciples' Feet",
+    "range": "JOH.12:50-13:16",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/SNG_footnotes.md",
-      "line_number": 509,
+      "source_file": "study/footnotes/OT/SNG_footnotes.md",
+      "line_number": 389,
       "raw_match": "[[JOH.13:5]]",
       "reference_type": "wikilink",
-      "context": "The Lord washed the feet of His disciples ([[JOH.13:5]]) after they returned from"
+      "context": "The Lord washed the feet of His disciples ([[JOH.13:5]]) after they returned from preaching, showing that even the greatest saints cannot keep completely free of sin without His help ([[JOH.15:5]])."
     }
   ]
 }

@@ -2,43 +2,53 @@
   "anchor_id": "MAT.25:40",
   "canon_uri": "canon/NT/MAT.md#MAT.25:40",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "And the King will answer and say to them, 'Assuredly, I say to you, inasmuch as you did it to one of the least of these My brethren, you did it to Me.'",
+  "pericope": {
+    "id": "MAT.P080",
+    "title": "The Judgment of Works",
+    "range": "MAT.25:30-25:45",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/1PE_footnotes.md",
-      "line_number": 107,
+      "source_file": "study/footnotes/NT/1PE_footnotes.md",
+      "line_number": 68,
       "raw_match": "[[MAT.25:31]]-46",
       "reference_type": "wikilink_range",
-      "context": "more glory and honor as it continues to stand under trial (see [[MAT.25:31]]-46; [[1CO.3:10]]-15)."
+      "context": "The incorruptible inheritance is reserved for those who have true faith, the faith that by God's grace perseveres to the end. 1:6, 7 To reach the joy and blessing of eternal life in Christ, we first experience the sadness of the passing world, along with the afflictions we must face here (see also [[JAS.1:1]]-12). To the watching world, the perseverance of the faithful during affliction appears foolish and even contemptible. But Peter shows that faith under trial is precious indeed, bearing more glory and honor as it continues to stand under trial (see [[MAT.25:31]]-46; [[1CO.3:10]]-15)."
     },
     {
-      "source_file": "staging/validated/NT/ACT_footnotes.md",
-      "line_number": 821,
+      "source_file": "study/footnotes/NT/ACT_footnotes.md",
+      "line_number": 551,
       "raw_match": "[[MAT.25:40]]",
       "reference_type": "wikilink",
-      "context": "Christ Himself, for they cannot be separated (see [[MAT.25:40]]; [[EPH.5:23]], [[EPH.5:30]])."
+      "context": "To persecute either Christians individually or the Church generally is to persecute Christ Himself, for they cannot be separated (see [[MAT.25:40]]; [[EPH.5:23]], [[EPH.5:30]])."
     },
     {
-      "source_file": "staging/validated/OT/OBA_footnotes.md",
-      "line_number": 73,
+      "source_file": "study/footnotes/OT/OBA_footnotes.md",
+      "line_number": 53,
       "raw_match": "[[MAT.25:31]]-46",
       "reference_type": "wikilink_range",
-      "context": "goats ([[MAT.25:31]]-46) and His proclamation that actions done or left undone to the"
+      "context": "This whole passage is stirringly anticipatory of Jesus' parable of the sheep and goats ([[MAT.25:31]]-46) and His proclamation that actions done or left undone to the children of God are done directly to Christ ([[MAT.25:40]], [[MAT.25:45]]). In addition to the historical events undoubtedly referred to in these verses, Edom is also taken up once again as a typification of sinful human attributes: lack of benevolence and pleasure in another's misfortune (v. 12); passivity and the desire for profit from another's loss (v. 13); the hindering of another's escape from undue persecution (v. 14)."
     },
     {
-      "source_file": "staging/validated/OT/OBA_footnotes.md",
-      "line_number": 75,
+      "source_file": "study/footnotes/OT/OBA_footnotes.md",
+      "line_number": 54,
       "raw_match": "[[MAT.25:40]]",
       "reference_type": "wikilink",
-      "context": "children of God are done directly to Christ ([[MAT.25:40]], [[MAT.25:45]]). In addition to the historical"
+      "context": "This whole passage is stirringly anticipatory of Jesus' parable of the sheep and goats ([[MAT.25:31]]-46) and His proclamation that actions done or left undone to the children of God are done directly to Christ ([[MAT.25:40]], [[MAT.25:45]]). In addition to the historical events undoubtedly referred to in these verses, Edom is also taken up once again as a typification of sinful human attributes: lack of benevolence and pleasure in another's misfortune (v. 12); passivity and the desire for profit from another's loss (v. 13); the hindering of another's escape from undue persecution (v. 14)."
     },
     {
-      "source_file": "staging/validated/OT/SIR_footnotes.md",
-      "line_number": 419,
+      "source_file": "study/footnotes/OT/SIR_footnotes.md",
+      "line_number": 311,
       "raw_match": "[[MAT.25:31]]-46",
       "reference_type": "wikilink_range",
-      "context": "us according to our works (see [[PSA.61:13]]; Pr 24:12; [[MAT.25:31]]-46)."
+      "context": "The OT and NT teach us that God holds all mankind accountable and will judge us according to our works (see [[PSA.61:13]]; Pr 24:12; [[MAT.25:31]]-46)."
     }
   ]
 }

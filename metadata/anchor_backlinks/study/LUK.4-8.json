@@ -2,15 +2,25 @@
   "anchor_id": "LUK.4:8",
   "canon_uri": "canon/NT/LUK.md#LUK.4:8",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "And Jesus answered and said to him, 'Get behind Me, Satan!For bit is written, 'You shall worship the Lord your God, and Him only you shall serve.' '",
+  "pericope": {
+    "id": "LUK.P018",
+    "title": "The Temptation",
+    "range": "LUK.3:38-4:12",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/ZEC_footnotes.md",
-      "line_number": 269,
+      "source_file": "study/footnotes/OT/ZEC_footnotes.md",
+      "line_number": 181,
       "raw_match": "[[LUK.4:1]]-13",
       "reference_type": "wikilink_range",
-      "context": "to rebuke Satan and resist temptation ([[MAT.4:1]]-11; [[MRK.1:12]], [[MRK.1:13]]; [[LUK.4:1]]-13)."
+      "context": "St. Michael the Archangel would not dispute with the devil over the body of Moses, but said, \"The Lord rebuke you\" (Jude 9). Even more astoundingly, Jesus Christ (the Lord) says, \"The Lord rebukes you.\" This is fulfilled in the temptation of Christ, when He relies upon the written word of Holy Scripture rather than His own power as Son of God to rebuke Satan and resist temptation ([[MAT.4:1]]-11; [[MRK.1:12]], [[MRK.1:13]]; [[LUK.4:1]]-13)."
     }
   ]
 }

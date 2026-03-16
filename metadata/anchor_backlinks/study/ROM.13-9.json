@@ -2,22 +2,32 @@
   "anchor_id": "ROM.13:9",
   "canon_uri": "canon/NT/ROM.md#ROM.13:9",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "For the commandments, 'You shall not commit adultery,' 'You shall not murder,' 'You shall not steal,' 'You shall not bear false witness,''You shall not covet,' and if there is any other commandment, are all summed up in this saying, namely, 'You shall love your neighbor as yourself.'",
+  "pericope": {
+    "id": "ROM.P036",
+    "title": "Love of Neighbor",
+    "range": "ROM.13:7-13:9",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/DEU_footnotes.md",
-      "line_number": 743,
+      "source_file": "study/footnotes/OT/DEU_footnotes.md",
+      "line_number": 459,
       "raw_match": "[[ROM.13:9]]",
       "reference_type": "wikilink",
-      "context": "neighbor is the summary of the Law (Lv 19:18; [[ROM.13:9]]). Under the Law one was to love"
+      "context": "When a man builds a house, love of neighbor must be in his mind. For love of neighbor is the summary of the Law (Lv 19:18; [[ROM.13:9]]). Under the Law one was to love his neighbor \"as himself.\" Under Grace one is to love his neighbor more than himself, for Jesus said, \"A new commandment I give to you, that you love one another; as I have loved you, that you also love one another\" ([[JOH.13:34]]). Jesus loved mankind more than Himself, and He even died for His enemies ([[ROM.5:6]]-8)."
     },
     {
-      "source_file": "staging/validated/OT/EXO_footnotes.md",
-      "line_number": 1108,
+      "source_file": "study/footnotes/OT/EXO_footnotes.md",
+      "line_number": 853,
       "raw_match": "[[ROM.13:9]]",
       "reference_type": "wikilink",
-      "context": "summed up in this one commandment ([[ROM.13:9]])."
+      "context": "The children of Israel were to be a holy people in their behavior toward one another. Holiness in personal relationships was to be motivated by one commandment: \"You shall love your neighbor as yourself,\" and this applied to both fellow Israelites and resident aliens (Lv 19:18, 34). All the ordinances given Israel regarding neighbors are summed up in this one commandment ([[ROM.13:9]])."
     }
   ]
 }

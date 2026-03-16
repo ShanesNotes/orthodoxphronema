@@ -190,7 +190,7 @@ animal, or an animal killed by a wild animal, or unclean carcasses of creeping t
 the unclean carcasses of cattle, or any human uncleanness--was sin. This uncleanness
 was a type of uncleanness relating to both soul and body. [[ROM.1:23]]-32; [[GAL.5:18]]-21; [[EPH.5:3]]-5 list examples of such uncleanness. Under the new covenant, to live an unclean life in body and soul is contrary to the
 teachings of Christ ([[EPH.4:19]], [[EPH.4:20]]). Therefore, we must not touch what is unclean, but if
-we do, we must cleanse ourselves to be acceptable to the Father (2Co 6:17-7:1).
+we do, we must cleanse ourselves to be acceptable to the Father ([[2CO.6:17]]-7:1).
 5:6
 Involuntary sin committed contrary to the Mosaic Law--such as failing to give
 testimony regarding an oath heard (v. 1), any uncleanness (vv. 2, 3), sinning with the

@@ -2,29 +2,39 @@
   "anchor_id": "NAH.3:4",
   "canon_uri": "canon/OT/NAH.md#NAH.3:4",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "because of the abundance of sexual immorality. She is a prostitute who is cultured and pleasing, skilled in the art of sorcery, selling the nations with her sexual immorality and the people by her sorceries.",
+  "pericope": {
+    "id": "NAH.P003",
+    "title": "The Wickedness of Nineveh",
+    "range": "NAH.2:14-3:19",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/REV_footnotes.md",
-      "line_number": 2333,
+      "source_file": "study/footnotes/NT/REV_footnotes.md",
+      "line_number": 1441,
       "raw_match": "[[NAH.3:4]]",
       "reference_type": "wikilink",
-      "context": "27; Ezk 16; [[HOS.4:12]]; [[NAH.3:4]]). The many waters on which the harlot is seated portray"
+      "context": "The great harlot is Rome, the empire with its claims of divinity, sovereignty, and eternity (see vv. 9, 18), opposed to God and the Church: symbolic of all evil rule. In the Bible, harlotry frequently symbolizes apostasy and idolatry (see Is 1:21; 23:15; [[JER.13:25]]- 27; Ezk 16; [[HOS.4:12]]; [[NAH.3:4]]). The many waters on which the harlot is seated portray both the waters of Babylon--the canals and tributaries of the Euphrates ([[PSA.136:1]]; Jer 28:12, 13)--and the waters of Rome, the seas surrounding Italy. They symbolize the nations who submit to the harlot's rule (v. 15)."
     },
     {
-      "source_file": "staging/validated/NT/REV_footnotes.md",
-      "line_number": 2503,
+      "source_file": "study/footnotes/NT/REV_footnotes.md",
+      "line_number": 1546,
       "raw_match": "[[NAH.3:4]]-7",
       "reference_type": "wikilink_range",
-      "context": "when they see her devastation (see [[PSA.75:13]]; [[NAH.3:4]]-7). What happened to Sodom (Gn"
+      "context": "God's people are called to come out of her so as not to partake of her punishment, destruction, and devastation (see [[NUM.33:51]]-56; Is 52:11; [[JER.27:8]]; 28:6, 46). Separation from this world is spiritual, not necessarily a physical move but a refusal to participate in the works of darkness ([[2CO.6:14]]-18). As Babylon (Rome) has proclaimed her own sovereign greatness, sitting as queen (v. 7), so her sins have reached to heaven (v. 5), recalling the Tower of Babel ([[GEN.11:4]]), a symbol of excessive arrogance. God's judgment will be swift, in one day (v. 8). In Hebrew day denotes not so much a chronological period as a completed act. 18:9, 10 The kings of the earth who committed fornication will mourn (but from a distance), stunned by the judgment of Rome and the specter of their own economic loss, when they see her devastation (see [[PSA.75:13]]; [[NAH.3:4]]-7). What happened to Sodom (Gn 19:28) and Edom (Is 34:6-10) is befalling Rome."
     },
     {
-      "source_file": "staging/validated/NT/REV_footnotes.md",
-      "line_number": 2545,
+      "source_file": "study/footnotes/NT/REV_footnotes.md",
+      "line_number": 1573,
       "raw_match": "[[NAH.3:4]]-7",
       "reference_type": "wikilink_range",
-      "context": "annihilation ([[JER.28:59]], [[JER.28:60]]; [[NAH.3:4]]-7). Her spell of idolatry, vice, and murder bound the"
+      "context": "The great millstone thrown into the sea recalls Babylon's disasters and annihilation ([[JER.28:59]], [[JER.28:60]]; [[NAH.3:4]]-7). Her spell of idolatry, vice, and murder bound the whole civilized world with a bewitching belief that she was immortal and secure. But as her influence was total, so her destruction is total. No signs of life are seen or heard; an eerie silence pervades. In her was found the blood of prophets and saints (v. 24) here alludes directly to the massacres of Christians under such as Nero and Domitian. However, Babylon as the center of opposition to God and self-deification of creation continues beyond the immediate incarnation to be seen in the Roman Empire."
     }
   ]
 }

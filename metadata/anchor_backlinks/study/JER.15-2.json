@@ -2,15 +2,25 @@
   "anchor_id": "JER.15:2",
   "canon_uri": "canon/OT/JER.md#JER.15:2",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "It shall be, that if they say to you, 'Where should we depart?' you shall say to them, 'Thus says the Lord: 'As many as are for death, to death, and as many as are for the sword, to the sword, and as many as are for famine, to famine, and as many as are for captivity, to captivity.' '",
+  "pericope": {
+    "id": "JER.P029",
+    "title": "The Lord Will Not Give In",
+    "range": "JER.14:22-15:8",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/REV_footnotes.md",
-      "line_number": 1847,
+      "source_file": "study/footnotes/NT/REV_footnotes.md",
+      "line_number": 1144,
       "raw_match": "[[JER.15:2]]",
       "reference_type": "wikilink",
-      "context": "sword,\" directed to Christians facing persecution (see [[JER.15:2]])."
+      "context": "Better rendered \"he who is destined for captivity,\" \"he who is destined for the sword,\" directed to Christians facing persecution (see [[JER.15:2]])."
     }
   ]
 }

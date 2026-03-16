@@ -2,22 +2,32 @@
   "anchor_id": "JON.3:4",
   "canon_uri": "canon/OT/JON.md#JON.3:4",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "And Jonah began to enter into the city, going a day's journey, where he proclaimed and said, 'Yet three days and Nineveh shall be overthrown.'",
+  "pericope": {
+    "id": "JON.P003",
+    "title": "The Repentance of Nineveh",
+    "range": "JON.3:1-3:9",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/2MA_footnotes.md",
-      "line_number": 252,
+      "source_file": "study/footnotes/OT/2MA_footnotes.md",
+      "line_number": 217,
       "raw_match": "[[JON.3:4]]",
       "reference_type": "wikilink",
-      "context": "and nights ([[GEN.7:12]]); Jonah declared Nineveh would be destroyed in forty days ([[JON.3:4]])."
+      "context": "Forty days is a biblical number of completion or fullness. The Flood lasted forty days and nights ([[GEN.7:12]]); Jonah declared Nineveh would be destroyed in forty days ([[JON.3:4]])."
     },
     {
-      "source_file": "staging/validated/OT/TOB_footnotes.md",
-      "line_number": 342,
+      "source_file": "study/footnotes/OT/TOB_footnotes.md",
+      "line_number": 264,
       "raw_match": "[[JON.3:4]]",
       "reference_type": "wikilink",
-      "context": "([[JON.3:3]], [[JON.3:4]]) and Nahum, in his book, records it."
+      "context": "Scholars agree that Nineveh was overthrown in 612 BC. Jonah warned of the fall ([[JON.3:3]], [[JON.3:4]]) and Nahum, in his book, records it."
     }
   ]
 }

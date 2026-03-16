@@ -2,22 +2,32 @@
   "anchor_id": "LUK.15:7",
   "canon_uri": "canon/NT/LUK.md#LUK.15:7",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "I say to you that likewise there will be more joy in heaven over one sinner who repents than over ninety-nine just persons who need no repentance.",
+  "pericope": {
+    "id": "LUK.P074",
+    "title": "The Lost Coin",
+    "range": "LUK.15:7-15:9",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/MAT_footnotes.md",
-      "line_number": 2555,
+      "source_file": "study/footnotes/NT/MAT_footnotes.md",
+      "line_number": 1648,
       "raw_match": "[[LUK.15:7]]",
       "reference_type": "wikilink",
-      "context": "faithful to God ([[LUK.15:7]]). According to certain Fathers, this is also an image of the"
+      "context": "Unlike earthly shepherds, Christ sees such value in one sheep that He will leave the others at risk to save it. The ninety-nine sheep represent the righteous who remain faithful to God ([[LUK.15:7]]). According to certain Fathers, this is also an image of the Incarnation in which the ninety-nine represent the angels in heaven; Christ descended from heaven to pursue the one sheep--man--who had fallen into corruption on earth."
     },
     {
-      "source_file": "staging/validated/OT/EZK_footnotes.md",
-      "line_number": 415,
+      "source_file": "study/footnotes/OT/EZK_footnotes.md",
+      "line_number": 389,
       "raw_match": "[[LUK.15:4]]-7",
       "reference_type": "wikilink_range",
-      "context": "establishment of His sheep (v. 31), the Church. Compare Jn 10; [[LUK.15:4]]-7; 19:17."
+      "context": "It is appropriate that immediately after regaining his voice, the prophet condemns the false shepherds and prophesies the coming of the Good Shepherd, Christ, and the establishment of His sheep (v. 31), the Church. Compare Jn 10; [[LUK.15:4]]-7; 19:17."
     }
   ]
 }

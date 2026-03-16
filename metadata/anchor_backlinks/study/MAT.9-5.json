@@ -2,15 +2,25 @@
   "anchor_id": "MAT.9:5",
   "canon_uri": "canon/NT/MAT.md#MAT.9:5",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "For which is easier, to say, 'Your sins are forgiven you,' or to say, 'Arise and walk'?",
+  "pericope": {
+    "id": "MAT.P019",
+    "title": "The Gergesene Demoniacs",
+    "range": "MAT.8:27-9:7",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/EXO_footnotes.md",
-      "line_number": 1172,
+      "source_file": "study/footnotes/OT/EXO_footnotes.md",
+      "line_number": 905,
       "raw_match": "[[MAT.9:1]]-7",
       "reference_type": "wikilink_range",
-      "context": "He became incarnate, He also forgave sins. But the Jews challenged His authority in vain, because they did not believe He was the Son of God ([[MAT.9:1]]-7)."
+      "context": "This Angel has the authority to forgive sins, for the Father's name is in Him. The Father's name is the Lord; therefore, the Son is also called by this name (AmbM). When He became incarnate, He also forgave sins. But the Jews challenged His authority in vain, because they did not believe He was the Son of God ([[MAT.9:1]]-7)."
     }
   ]
 }

@@ -2,15 +2,25 @@
   "anchor_id": "ROM.1:17",
   "canon_uri": "canon/NT/ROM.md#ROM.1:17",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "For in it the righteousness of God is revealed from faith to faith; as it is written, 'The just shall live by faith.'",
+  "pericope": {
+    "id": "ROM.P004",
+    "title": "Judgment of Sinning Humanity",
+    "range": "ROM.1:17-1:27",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/HAB_footnotes.md",
-      "line_number": 140,
+      "source_file": "study/footnotes/OT/HAB_footnotes.md",
+      "line_number": 104,
       "raw_match": "[[ROM.1:17]]",
       "reference_type": "wikilink",
-      "context": "by faith, not by the works of the Law ([[GAL.3:11]]; [[ROM.1:17]])."
+      "context": "Against those Judaizing Christians who wanted to bind the entire Law (particularly circumcision) upon Gentile converts, Paul quotes Habakkuk to show that we are justified by faith, not by the works of the Law ([[GAL.3:11]]; [[ROM.1:17]])."
     }
   ]
 }

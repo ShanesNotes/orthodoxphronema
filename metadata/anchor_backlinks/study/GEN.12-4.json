@@ -2,15 +2,25 @@
   "anchor_id": "GEN.12:4",
   "canon_uri": "canon/OT/GEN.md#GEN.12:4",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Then Abram departed as the Lord said to him, and Lot went with him. Now Abram was seventy-five years old when he de-parted from Haran.",
+  "pericope": {
+    "id": "GEN.P015",
+    "title": "God's Promise to Abram",
+    "range": "GEN.11:32-12:8",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/ROM_footnotes.md",
-      "line_number": 435,
+      "source_file": "study/footnotes/NT/ROM_footnotes.md",
+      "line_number": 292,
       "raw_match": "[[GEN.12:4]]",
       "reference_type": "wikilink",
-      "context": "was 99 ([[GEN.12:4]]; 17:24). During this time of being uncircumcised, he was still righteous"
+      "context": "Because Abraham was circumcised as a sign of God's covenant, he is father to all Jews. Yet Abraham was living by faith when he was 75, but was not circumcised until he was 99 ([[GEN.12:4]]; 17:24). During this time of being uncircumcised, he was still righteous before God by faith; thus he is also the father of uncircumcised believers, the Gentiles. Imputed (v. 11) means \"reckoned\" or \"rendered.\" This term does not refer to a mere legal standing, but indicates that God's righteousness is actually given to mankind by grace. This righteousness transforms the whole person, internally and externally. Those who say God's righteousness is merely an external declaration or fiat that does not really become ours experientially miss the point and fall short of the truth. God's righteousness is a gift that indeed becomes our own, leading us to godliness (see article, \"Deification\" at 2 Peter)."
     }
   ]
 }

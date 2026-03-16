@@ -2,15 +2,25 @@
   "anchor_id": "MIC.7:6",
   "canon_uri": "canon/OT/MIC.md#MIC.7:6",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "For a son dishonors his father, a daughter will rise up against her mother, a daughter-in-law against her mother-in-law; a man's enemies are all the people of his own house.'",
+  "pericope": {
+    "id": "MIC.P010",
+    "title": "Hope in the Lord",
+    "range": "MIC.7:6-7:20",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/LUK_footnotes.md",
-      "line_number": 1909,
+      "source_file": "study/footnotes/NT/LUK_footnotes.md",
+      "line_number": 1275,
       "raw_match": "[[MIC.7:6]]",
       "reference_type": "wikilink",
-      "context": "This fulfills the prophecy of [[MIC.7:6]]. In addition to its literal meaning, which has"
+      "context": "This fulfills the prophecy of [[MIC.7:6]]. In addition to its literal meaning, which has been experienced in the Church since the time of Christ, the older generation being divided from the younger generation also symbolizes (1) the rejection of the new covenant by followers of the old covenant, and (2) the spiritual struggle between our old, sinful state and our renewal in Christ (see [[EPH.4:20]]-24)."
     }
   ]
 }

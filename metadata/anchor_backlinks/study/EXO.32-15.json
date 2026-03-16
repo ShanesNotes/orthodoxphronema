@@ -2,15 +2,25 @@
   "anchor_id": "EXO.32:15",
   "canon_uri": "canon/OT/EXO.md#EXO.32:15",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Then Moses turned and went down from the mountain with the two tablets of the testimony in his hands. They were stone tablets written on both sides, on one side and on the other.",
+  "pericope": {
+    "id": "EXO.P069",
+    "title": "The Golden Calf",
+    "range": "EXO.31:18-32:34",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/REV_footnotes.md",
-      "line_number": 2125,
+      "source_file": "study/footnotes/NT/REV_footnotes.md",
+      "line_number": 1313,
       "raw_match": "[[EXO.32:15]]",
       "reference_type": "wikilink",
-      "context": "the tablets of the Law brought down from Mt. Sinai by Moses ([[EXO.32:15]])--which was"
+      "context": "The temple of the tabernacle of the testimony is the heavenly prototype of the earthly \"tabernacle of testimony\" ([[NUM.17:7]]), containing the witness of God's covenant, the tablets of the Law brought down from Mt. Sinai by Moses ([[EXO.32:15]])--which was itself the archetype of the temple of Jerusalem (see [[EXO.25:9]], [[EXO.25:40]]; [[HEB.8:5]]; 9:11; 13:10; Acts 7:44). Seven angels (v. 6) appear out of the temple in priestly vesture ([[EZK.9:2]]; Dan 10:5; [[HEB.1:14]]; [[REV.1:13]]; 19:14). They are given golden bowls (see the vessels used by the priests in the Jerusalem temple, 5:8; [[EXO.27:3]]; Nm 7) by one of the living creatures (v. 7; see 4:6). God's judgment is meted out within the framework of this apocalyptic liturgical theophany."
     }
   ]
 }

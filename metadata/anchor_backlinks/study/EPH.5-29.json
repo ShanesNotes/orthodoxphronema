@@ -2,64 +2,74 @@
   "anchor_id": "EPH.5:29",
   "canon_uri": "canon/NT/EPH.md#EPH.5:29",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "For no one ever hated his own flesh, but nourishes and cherishes it, just as the Lord does the church.",
+  "pericope": {
+    "id": "EPH.P015",
+    "title": "The Mystery of Marriage",
+    "range": "EPH.5:18-5:32",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/1PE_footnotes.md",
-      "line_number": 345,
-      "raw_match": "[[EPH.5:22]]-33",
-      "reference_type": "wikilink_range",
-      "context": "one's spouse even affects one's relationship with God (see [[EPH.5:22]]-33)."
-    },
-    {
-      "source_file": "staging/validated/NT/JOH_articles.md",
+      "source_file": "study/articles/NT/JOH_articles.md",
       "line_number": 36,
       "raw_match": "[[EPH.5:23]]-32",
       "reference_type": "wikilink_range",
       "context": "E arly in His ministry, Jesus revealed the way to enter God's eternal Kingdom. We must be 'born again' (3:3), a birth from above realized by water and the Spirit. In His conversation with Nicodemus, Christ states, 'Unless one is born of water and the Spirit, he cannot enter the kingdom of God' (3:5). From the beginning, the Church has recognized the 'water' to be the water of baptism, 'the Spirit' to be the Holy Spirit. Therefore, the new birth consists of being joined to Christ in the water of baptism and receiving the Holy Spirit through anointing or 'chrismation.' Salvation, then, is more than forgiveness of sins, more than a mental acceptance of Christ and His teachings. For in salvation we are given union with God through Christ, a right and full relationship with the Holy Trinity, and the restoration of our full humanity. All these things are accomplished through the Incarnation, the union of God and man in the Person of Jesus Christ. Salvation, then, is founded on a substantial union of the believer with Christ in His full humanity, a flesh-to-flesh relationship. Paul likens it to the joining of husband and wife ([[EPH.5:23]]-32). Throughout their epistles, the apostles remind us the new birth is necessary for salvation. We die to sin; then, buried with Christ and risen with Him, we are united to Christ and to His body, the Church. We are cleansed, justified, and sanctified-all in baptism, 'the washing of regeneration and renewing of the Holy Spirit' ([[TIT.3:5]]). Without our repentance and faith, however, immersion in water would be of no effect. Some Christians bypass baptism and stress only faith. Why is the mystery of the water necessary? Because just as Christ actually died on a cross, was buried, and rose again-all through His faith and God's grace-so we must actually be immersed in the sacramental waters of baptism, made effectual through our faith and God's grace. The basic form of baptism is simple. The person to be born again, joined to Christ, is immersed in the water three times in the name of the Father and of the Son and of the Holy Spirit (see [[MAT.28:19]]). The first-century Didache teaches, 'If you do not have running water, use whatever is available. And if you cannot do it in cold water, use warm. But if you have neither, pour water on the head three times-in the name of Father, Son and Holy Spirit.' In the new birth, a true mystery takes place. For in the sacrament of baptism, we die, going down into the water to be mystically united to Christ in His death, and we live again, rising up out of the water in His resurrected humanity. In short, we are born again."
     },
     {
-      "source_file": "staging/validated/NT/MAT_footnotes.md",
-      "line_number": 2987,
+      "source_file": "study/footnotes/NT/1PE_footnotes.md",
+      "line_number": 223,
+      "raw_match": "[[EPH.5:22]]-33",
+      "reference_type": "wikilink_range",
+      "context": "A stunning call to contentment in Christian marriage, whether we live in the first century or the twenty-first. The dignity and modesty of a woman--and her good conduct-- have the power to call her husband to faith and devotion. Husbands are not to take advantage of this superior conduct on the part of their wives, but are to reciprocate, indeed to give honor. Peter's image of marriage is one of sacramental union, not merely of legal contract. Contrary to the inheritance customs of the time, husband and wife are heirs together of the grace of life (v. 7). Failure to live with understanding with one's spouse even affects one's relationship with God (see [[EPH.5:22]]-33)."
+    },
+    {
+      "source_file": "study/footnotes/NT/MAT_footnotes.md",
+      "line_number": 1918,
       "raw_match": "[[EPH.5:21]]-33",
       "reference_type": "wikilink_range",
-      "context": "marriage analogy for the Kingdom ([[EPH.5:21]]-33)."
+      "context": "Like the preceding parables, this one also proclaims the transfer of the Kingdom from the faithless Jews to the Gentiles. It is set as a joyful wedding banquet (v. 2; see 25:1-13), for Christ is often called the \"Bridegroom\" (9:15; [[JOH.3:29]]), and St. Paul uses a marriage analogy for the Kingdom ([[EPH.5:21]]-33). The repeated sending out of servants shows the Father's great desire to have His people with Him in the Kingdom. The first group (v. 3) is interpreted to be Moses and those with him, while the second group (v. 4) is composed of the prophets. These groups call those initially invited--the Jews. The third group (v. 9) represents the apostles sent to the Gentiles, those not initially invited, but now called."
     },
     {
-      "source_file": "staging/validated/NT/REV_footnotes.md",
-      "line_number": 2617,
+      "source_file": "study/footnotes/NT/REV_footnotes.md",
+      "line_number": 1617,
       "raw_match": "[[EPH.5:22]]-32",
       "reference_type": "wikilink_range",
-      "context": "[[2CO.11:2]]; [[EPH.5:22]]-32). This union is fulfilled in the rest of Revelation: Jesus, the"
+      "context": "For the use of the term Omnipotent (Gr. pantokrator), see 1:8; 4:8; 11:17; 15:3; 16:7, 14; 19:15; 21:22, as well as [[HOS.12:6]]; [[AMO.4:13]]. It is used in the NT only in Revelation and once in [[2CO.6:18]], in a quote from the OT. The word means \"almighty, all-powerful.\" 19:6-9 At the Passover, deliverance from Egypt--the \"Babylon\" of Moses' day--was united with the theme of Israel's betrothal to the Lord (for further nuptial imagery, see Song of Songs; [[HOS.2:19]]; [[ROM.7:1]]-6). For marriage is a symbol of the union of God with His people (see Is 54:1-8; [[EZK.16:7]]-14; [[HOS.2:1]]-23), of Christ with His Church ([[MAT.22:1]]-14; [[2CO.11:2]]; [[EPH.5:22]]-32). This union is fulfilled in the rest of Revelation: Jesus, the Passover Lamb ([[1CO.5:7]]) whose death has ransomed the New Israel, is also the divine Bridegroom ([[MAT.22:2]]; 25:1-13). A wedding in the Middle East consisted of two parts: the betrothal and the wedding proper. The wedding itself began with the procession of the groom to the bride's home and concluded with the procession of all back to the bridegroom's home for the wedding supper. By analogy, the Church is now betrothed to Christ by faith. She awaits the coming of the Bridegroom for the marriage supper of the Lamb (v. 9), the final eschatological union of Christ and His Church. The recompense to the faithful for having remained steadfast and pure under persecution (see [[MAT.5:12]]; [[1PE.4:13]]) is to be clothed with fine linen, clean and bright (v. 8; see 3:4, 5; 7:14)--the clothes of grace, holiness, and incorruption--and to participate in this mystical supper both as guest (v. 9) and as bride (in apocalyptic literature it is not uncommon to find mixed images). This supper has already begun in the Eucharist, a foretaste of the Kingdom (see [[MAT.26:29]]; [[LUK.13:29]]; 22:30). The Orthodox sing on Pascha (Easter): \"Shine, shine, O New Jerusalem; the glory of the Lord has shone on you.... Grant that we may evermore perfectly partake of You in the never-ending Day of Your Kingdom.\""
     },
     {
-      "source_file": "staging/validated/OT/BAR_footnotes.md",
-      "line_number": 214,
+      "source_file": "study/footnotes/OT/BAR_footnotes.md",
+      "line_number": 183,
       "raw_match": "[[EPH.5:21]]-33",
       "reference_type": "wikilink_range",
       "context": "See Is 40:4, 5; [[EPH.5:21]]-33."
     },
     {
-      "source_file": "staging/validated/OT/GEN_footnotes.md",
-      "line_number": 135,
+      "source_file": "study/footnotes/OT/GEN_footnotes.md",
+      "line_number": 99,
       "raw_match": "[[EPH.5:22]]-33",
       "reference_type": "wikilink_range",
-      "context": "joining, he will be devoted to her with sacrificial love and devotion, and she to him. This great mystery points to the greater mystery: the marriage of Christ and His Bride, the Church ([[EPH.5:22]]-33). For He left His Father and became Man to seek a Bride. He"
+      "context": "God, not man, established the law of marriage; therefore, marriage is holy. In the marriage union, the husband and wife become one flesh (v. 24), which St. Paul calls \"a great mystery\" ([[EPH.5:32]]). This mystery is so great and wonderful that a man will leave his father and mother with their blessing, and be joined to a woman in marriage. In this joining, he will be devoted to her with sacrificial love and devotion, and she to him. This great mystery points to the greater mystery: the marriage of Christ and His Bride, the Church ([[EPH.5:22]]-33). For He left His Father and became Man to seek a Bride. He loved His Bride and gave Himself for her. And in his divine vision of the new heaven and earth, the apostle John saw this Bride, the \"New Jerusalem, coming down out of heaven from God, prepared as a bride adorned for her husband\" ([[REV.21:1]], [[REV.21:2]])."
     },
     {
-      "source_file": "staging/validated/OT/ISA_footnotes.md",
-      "line_number": 1502,
+      "source_file": "study/footnotes/OT/ISA_footnotes.md",
+      "line_number": 1185,
       "raw_match": "[[EPH.5:22]]-33",
       "reference_type": "wikilink_range",
-      "context": "(see [[EPH.5:22]]-33)."
+      "context": "Christ's crown of beauty is those who keep themselves pure, like the wise virgins waiting for the bridegroom ([[MAT.25:1]]-13). Christ rejoices over His bride, the Church (see [[EPH.5:22]]-33)."
     },
     {
-      "source_file": "staging/validated/OT/WIS_footnotes.md",
-      "line_number": 238,
+      "source_file": "study/footnotes/OT/WIS_footnotes.md",
+      "line_number": 192,
       "raw_match": "[[EPH.5:22]]-32",
       "reference_type": "wikilink_range",
-      "context": "25:1-13; [[EPH.5:22]]-32). 8:4"
+      "context": "This passage is fulfilled in Christ and His Church, to which nothing earthly can stand in comparison (v. 8). She is the unfailing treasure for men (v. 14; see [[LUK.12:32]]-34). 7:22-30 The Fathers agree that this passage illustrates the divine attributes of Christ, who is \"the image [v. 26] of the invisible God\" ([[COL.1:15]]). One may also recognize here many of the qualities the Church sees in the Virgin Mary, who bore God the Son in her womb. From these verses we are reminded that through deification or becoming like God, humanity is given the capacity to share in the uncreated energies of God--His power, purity, light, and goodness. 7:27 Through the wisdom of our Lord Jesus Christ, we can be made friends of God (see [[JOH.15:15]]). 8:1, 2 The multitude said of Christ, \"He has done all things well\" ([[MRK.7:37]]). As Solomon loved and sought wisdom, so Christ loves and seeks His bride, the Church (see Mt 25:1-13; [[EPH.5:22]]-32). 8:4 The mysteries of the knowledge of God are later revealed to the Apostle John (Jn"
     }
   ]
 }

@@ -2,22 +2,32 @@
   "anchor_id": "REV.1:13",
   "canon_uri": "canon/NT/REV.md#REV.1:13",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "and in the midst of the seven lampstands One like the Son of Man, clothed with a garment down to the feet and girded about the chest with a golden band.",
+  "pericope": {
+    "id": "REV.P003",
+    "title": "Vision and Commission of Christ",
+    "range": "REV.1:8-1:19",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/REV_footnotes.md",
-      "line_number": 2131,
+      "source_file": "study/footnotes/NT/REV_footnotes.md",
+      "line_number": 1316,
       "raw_match": "[[REV.1:13]]",
       "reference_type": "wikilink",
-      "context": "10:5; [[HEB.1:14]]; [[REV.1:13]]; 19:14). They are given golden bowls (see the vessels used by"
+      "context": "The temple of the tabernacle of the testimony is the heavenly prototype of the earthly \"tabernacle of testimony\" ([[NUM.17:7]]), containing the witness of God's covenant, the tablets of the Law brought down from Mt. Sinai by Moses ([[EXO.32:15]])--which was itself the archetype of the temple of Jerusalem (see [[EXO.25:9]], [[EXO.25:40]]; [[HEB.8:5]]; 9:11; 13:10; Acts 7:44). Seven angels (v. 6) appear out of the temple in priestly vesture ([[EZK.9:2]]; Dan 10:5; [[HEB.1:14]]; [[REV.1:13]]; 19:14). They are given golden bowls (see the vessels used by the priests in the Jerusalem temple, 5:8; [[EXO.27:3]]; Nm 7) by one of the living creatures (v. 7; see 4:6). God's judgment is meted out within the framework of this apocalyptic liturgical theophany."
     },
     {
-      "source_file": "staging/validated/OT/ZEC_footnotes.md",
-      "line_number": 306,
+      "source_file": "study/footnotes/OT/ZEC_footnotes.md",
+      "line_number": 212,
       "raw_match": "[[REV.1:12]]-20",
       "reference_type": "wikilink_range",
-      "context": "([[REV.1:12]]-20), which are seven churches."
+      "context": ", 2 Awakened from a dream by an angel, Zechariah asks him to explain its meaning. Zechariah sees a golden lampstand, a seven-branched candlestick called a menorah. The menorah is a symbol for Israel. It appeared in Solomon's temple and appears still in the Jewish synagogue. St. John the Theologian saw Christ in the midst of seven lampstands ([[REV.1:12]]-20), which are seven churches."
     }
   ]
 }

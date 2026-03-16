@@ -1,8 +1,8 @@
 {
   "book_code": "1TH",
   "testament": "NT",
-  "timestamp": "2026-03-13T13:36:30.418896",
-  "registry_version": "1.4.0",
+  "timestamp": "2026-03-15T18:29:24.968087",
+  "registry_version": "1.7.6",
   "body_checksum": "cc36d243563e210019fa69d30dc14429d72408fdadc88a767ec31e7e0466c4c0",
   "allow_incomplete": true,
   "staged_path": "/home/ark/orthodoxphronema/staging/validated/NT/1TH.md",

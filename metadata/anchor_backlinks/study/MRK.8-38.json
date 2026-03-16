@@ -2,15 +2,25 @@
   "anchor_id": "MRK.8:38",
   "canon_uri": "canon/NT/MRK.md#MRK.8:38",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "For whoever is ashamed of Me and My words in this adulterous and sinful generation, of him the Son of Man also will be ashamed when He comes in the glory of His Father with the holy angels.'",
+  "pericope": {
+    "id": "MRK.P032",
+    "title": "Jesus' First Prophecy of His Passion",
+    "range": "MRK.8:30-8:38",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/EZR_footnotes.md",
-      "line_number": 220,
+      "source_file": "study/footnotes/OT/EZR_footnotes.md",
+      "line_number": 164,
       "raw_match": "[[MRK.8:34]]-38",
       "reference_type": "wikilink_range",
-      "context": "([[MRK.8:34]]-38; 10:28-31). 7:12"
+      "context": "). In both cases, the reliability and authority of what has been written, accepted, and handed down as Holy Scripture is unquestioned. 6:1-3 The decree of Darius affirms the authority of the earlier decree by King Cyrus. In the same way, within the Church, the traditions of the faith and true doctrine are reaffirmed in every generation ([[2TH.2:15]]). 6:8-10 God's house will be built at the expense of even His enemies, for His glory, in order that they may offer sacrifices to God for the benefit of all the people. At each Divine Liturgy we re-present the once-for-all sacrifice of Christ \"on behalf of all and for all.\" 6:14 The earthly kings and Zechariah fulfill the prophecies of Haggai. 6:15 The restoration of the temple on the third day of this month certainly suggests the resurrection of Jesus Christ on the third day ([[JOH.2:19]]-22). 6:19-21 The unity at the Passover meal between the children of Israel and those who would seek the Lord from the nations points forward to the Eucharist, to which all people, both Jew and Gentile, are called. 7:1 After these things: Over one hundred years elapsed between the events of ch. 6 and those of ch. 7. 7:10 Ezra's journey and mission were the product of a faithful heart. His process was to (1) seek the Law, (2) do it, and (3) teach it. Though the Jews had protection and economic security in Babylon, Ezra led many to a future that was uncertain by earthly standards, but divinely protected. In the same way, Christian believers are called to escape the fleeting security of this world in order to build up the kingdom of Jesus Christ ([[MRK.8:34]]-38; 10:28-31). 7:12 Artaxerxes, using the title king of kings, becomes a picture of Christ, sending Ezra to rebuild Jerusalem. The Lord would later send His apostles to build the Church. Just as Artaxerxes gave all the articles needed (vv. 15-22), so Christ provides the grace of the Holy Spirit and His power to His disciples ([[ACT.1:8]]). 7:25-26 Ezra is commanded by the king to appoint magistrates and judges to determine the people's obedience to the law of... God, just as Peter and the other apostles would be given authority to bind and loose the sins of the people ([[MAT.16:19]]; Jn 20:23). Ezra is further commanded to teach the uninformed, just as the apostles would be commanded to do ([[MAT.28:18]]-20). 7:27-28 Ezra is encouraged by the way a pagan king would expend his resources to beautify the house of the Lord. If an unbeliever has enough faith to build the Lord's house, all the more is the believer called to offer of himself or herself to build up the Church of Jesus Christ!"
     }
   ]
 }

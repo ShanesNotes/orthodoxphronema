@@ -2,29 +2,39 @@
   "anchor_id": "2CO.12:4",
   "canon_uri": "canon/NT/2CO.md#2CO.12:4",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "how he was caught up into Paradise and heard inexpressible words, which it is not lawful for a man to utter.",
+  "pericope": {
+    "id": "2CO.P034",
+    "title": "Paul's Visions",
+    "range": "2CO.11:33-12:5",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/REV_footnotes.md",
-      "line_number": 389,
+      "source_file": "study/footnotes/NT/REV_footnotes.md",
+      "line_number": 239,
       "raw_match": "[[2CO.12:2]]-4",
       "reference_type": "wikilink_range",
-      "context": "participate in His Resurrection. The Paradise of God is heaven ([[LUK.23:43]]; [[2CO.12:2]]-4);"
+      "context": "The message of the Spirit to the churches is explicitly a message to all Christians. In Hebrew, \"conquering\" and \"saving\" are synonymous: Salvation is victory. He who overcomes does so by participating in Christ's victory, which is salvation. In contrast to the false Nicolaitan sect, \"overcomers\" remain faithful to Christ until the end, in spite of all obstacles. Further, they fulfill the original destiny of man by partaking of the tree of life ([[GEN.2:9]]). To eat of this tree is to receive eternal life (vv. 11, 17, 26; 3:5, 12, 21; 21:7; Jn 16:33; [[2CO.4:7]]-18). The fruit of the tree is the spiritual food of [[1CO.10:3]], the \"medicine of immortality.\" Tree of life is also an allusion to the Cross, upon which all Christians must be co-crucified with Christ ([[GAL.2:20]]), partaking in the death of Christ in order to participate in His Resurrection. The Paradise of God is heaven ([[LUK.23:43]]; [[2CO.12:2]]-4); the city of God, the New Jerusalem (see 21:1-22:5), contrasted to the original earthly paradise."
     },
     {
-      "source_file": "staging/validated/NT/REV_footnotes.md",
-      "line_number": 1461,
+      "source_file": "study/footnotes/NT/REV_footnotes.md",
+      "line_number": 907,
       "raw_match": "[[2CO.12:4]]",
       "reference_type": "wikilink",
-      "context": "humanity: undisclosed mysteries remain ([[2CO.12:4]])."
+      "context": "The angel's voice, like a lion's roar, reminds us of God readying Himself for judgment ([[JER.27:44]]; [[AMO.1:2]]; Joel 4:16). The seven thunders probably refer to the divine voice ([[PSA.28:3]]-9; [[JOH.12:27]]-33), a fullness of terror, power, and magnificence. In [[DAN.12:4]], God tells the prophet to seal up (v. 4) what has been written in his book. So, too, St. John is told, regarding what the seven thunders have revealed. This command not to write down the utterance shows John's revelation does not exhaust divine decrees for humanity: undisclosed mysteries remain ([[2CO.12:4]])."
     },
     {
-      "source_file": "staging/validated/OT/SNG_footnotes.md",
-      "line_number": 68,
+      "source_file": "study/footnotes/OT/SNG_footnotes.md",
+      "line_number": 48,
       "raw_match": "[[2CO.12:4]]",
       "reference_type": "wikilink",
-      "context": "the inner chamber ([[2CO.12:4]])."
+      "context": "The Church here is in the plural we because she is made up of a multitude of faithful souls. This is a clear statement of the principle of synergy: we will run after Christ, something which He Himself helps us to do, for apart from Him we can do nothing (Jn 15:5). However, we run wholeheartedly ([[1CO.9:24]]). The Church is the house of a king, a vast palace, but those who enter into her mysteries are those who have been brought into the inner chamber ([[2CO.12:4]])."
     }
   ]
 }

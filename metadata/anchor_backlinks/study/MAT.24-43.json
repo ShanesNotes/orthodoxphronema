@@ -2,15 +2,25 @@
   "anchor_id": "MAT.24:43",
   "canon_uri": "canon/NT/MAT.md#MAT.24:43",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "But know this, that if the master of the house had known what hour the thief would come, he would have watched and not allowed his house to be broken into.",
+  "pericope": {
+    "id": "MAT.P077",
+    "title": "The Great Tribulation",
+    "range": "MAT.24:14-24:47",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/REV_footnotes.md",
-      "line_number": 2273,
+      "source_file": "study/footnotes/NT/REV_footnotes.md",
+      "line_number": 1405,
       "raw_match": "[[MAT.24:42]]-44",
       "reference_type": "wikilink_range",
-      "context": "coming unexpectedly as a thief in the night (see 3:3; [[MAT.24:42]]-44; [[1TH.5:2]]). Like the"
+      "context": "In a parenthetical comment, we are told that this Day of the Lord will see Him coming unexpectedly as a thief in the night (see 3:3; [[MAT.24:42]]-44; [[1TH.5:2]]). Like the wise virgins who stand in readiness for the bridegroom who comes at midnight, the Lord exhorts His blessed faithful here to remain vigilant as well. It is said that the officer on duty at the Jerusalem temple was to see that his night guards kept awake during their watch. If they were caught asleep, they were beaten. If caught a second time, they were stripped of their garments, their vesture, then and there (see [[MRK.14:51]]). A Christian's garment is his white baptismal robe, \"the garment of righteousness,\" the putting on of Christ."
     }
   ]
 }

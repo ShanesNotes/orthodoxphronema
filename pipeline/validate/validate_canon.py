@@ -1,5 +1,5 @@
 """
-validate_canon.py — Canon file validation (V1-V12 checks)
+validate_canon.py — Canon file validation (V1-V13 checks)
 
 Validates a staged canon Markdown file before promotion to canon/.
 
@@ -8,7 +8,7 @@ Checks:
     V2  Chapter count — correct number of chapters for the book
     V3  Chapter sequence — chapters are sequential with no gaps
     V4  Verse sequence — within each chapter, verses are monotonically increasing
-    V5  No article bleed — known article phrases must not appear in the canon file
+    V5  No article bleed — per-book article header matching + all-caps heuristic
     V6  Frontmatter present — required YAML fields exist
     V7  Completeness — total anchors match registry verse counts
     V8  Heading integrity — no fragment headings in canon text
@@ -16,6 +16,7 @@ Checks:
     V10 Absorbed content (Brenton cross-reference)
     V11 Split-word artifacts (Docling column-split)
     V12 Inline verse-number leakage
+    V13 Mega-line detection — article bleed, verse fusing, parser defects
 
 Usage:
     python3 pipeline/validate/validate_canon.py staging/validated/OT/GEN.md
@@ -40,18 +41,22 @@ from pipeline.validate.checks import (
     check_chapter_sequence,
     check_verse_sequence,
     check_article_bleed,
+    check_article_bleed_enhanced,
     check_completeness,
     check_heading_integrity,
     check_embedded_verses,
     check_absorbed_content,
     check_split_words,
     check_inline_leakage,
+    check_mega_lines,
     compute_v4_gaps,
 )
 
 REPO_ROOT    = Path(__file__).parent.parent.parent
 REGISTRY     = REPO_ROOT / "schemas" / "anchor_registry.json"
 BRENTON_DIR  = REPO_ROOT / "staging" / "reference" / "brenton"
+STUDY_ARTICLES_OT = REPO_ROOT / "study" / "articles" / "OT"
+STUDY_ARTICLES_NT = REPO_ROOT / "study" / "articles" / "NT"
 
 # Phrases that indicate article text leaked into canon
 ARTICLE_BLEED_PATTERNS = [
@@ -137,14 +142,20 @@ def run_validation(path: Path, strict: bool = False) -> ValidationResult:
     # ── Compute V4 gaps (shared by V4, V9, V10) ──────────────────────────
     gaps = compute_v4_gaps(verses_by_chapter)
 
-    # ── Run all 12 checks ─────────────────────────────────────────────────
+    # ── Resolve study articles path for enhanced V5 ──────────────────────
+    testament = fm.get("testament", "")
+    study_articles_dir = STUDY_ARTICLES_OT if testament == "OT" else STUDY_ARTICLES_NT
+    study_articles_path = study_articles_dir / f"{book_code}_articles.md"
+
+    # ── Run all 13 checks ─────────────────────────────────────────────────
     checks = []
     checks.append(check_frontmatter(fm))                                          # V6
     checks.append(check_anchor_uniqueness(anchors, anchor_set))                   # V1
     checks.append(check_chapter_count(chapters_seen, expected_chapters, strict))   # V2
     checks.append(check_chapter_sequence(chapters_seen))                          # V3
     checks.append(check_verse_sequence(verses_by_chapter, book_code))             # V4
-    checks.append(check_article_bleed(lines, body_start))                         # V5
+    checks.append(check_article_bleed_enhanced(
+        lines, body_start, study_articles_path))                                  # V5
     checks.append(check_completeness(anchor_set, chapter_verse_counts_list))      # V7
     checks.append(check_heading_integrity(lines, body_start, anchor_set))         # V8
     checks.append(check_embedded_verses(gaps, verse_line_map, book_code))         # V9
@@ -153,6 +164,7 @@ def run_validation(path: Path, strict: bool = False) -> ValidationResult:
         gaps, verse_line_map, book_code, brenton_path))                           # V10
     checks.append(check_split_words(lines, body_start))                           # V11
     checks.append(check_inline_leakage(lines, body_start))                        # V12
+    checks.append(check_mega_lines(lines, body_start, book_code))                  # V13
 
     return ValidationResult(
         book_code=book_code,
@@ -194,6 +206,8 @@ def validate_file(path: Path, strict: bool = False) -> tuple[list[str], list[str
                 print(f"  V8  PASS  No fragment headings detected")
             elif check.name == "V9":
                 print(f"  V9  PASS  No embedded verses detected")
+            elif check.name == "V13":
+                print(f"  V13 PASS  No mega-lines detected")
         elif check.status == "INFO":
             if check.name == "V2":
                 print(f"  V2  INFO  No registry reference for chapter count")

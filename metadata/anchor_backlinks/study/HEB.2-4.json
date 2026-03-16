@@ -2,15 +2,25 @@
   "anchor_id": "HEB.2:4",
   "canon_uri": "canon/NT/HEB.md#HEB.2:4",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "God also bearing witness both with signs and wonders, with various miracles, and gifts of the Holy Spirit, according to His own will?",
+  "pericope": {
+    "id": "HEB.P003",
+    "title": "Beware of Willful Negligence",
+    "range": "HEB.1:14-2:8",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/2CO_footnotes.md",
-      "line_number": 767,
+      "source_file": "study/footnotes/NT/2CO_footnotes.md",
+      "line_number": 504,
       "raw_match": "[[HEB.2:4]]",
       "reference_type": "wikilink",
-      "context": "By signs of an apostle (v. 12; see [[ROM.15:19]]; [[1CO.2:4]]; 4:20; 12:28, 29; [[HEB.2:4]])"
+      "context": "By signs of an apostle (v. 12; see [[ROM.15:19]]; [[1CO.2:4]]; 4:20; 12:28, 29; [[HEB.2:4]]) Paul seems to be referring to miracles that lead men to God and the Church, for with these signs and wonders (v. 12) the Corinthians are greatly impressed."
     }
   ]
 }

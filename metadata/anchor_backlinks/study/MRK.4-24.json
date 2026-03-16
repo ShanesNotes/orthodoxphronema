@@ -2,15 +2,25 @@
   "anchor_id": "MRK.4:24",
   "canon_uri": "canon/NT/MRK.md#MRK.4:24",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Then He said to them, 'Take heed what you hear. With the same measure you use, it will be measured to you; and to you who hear, more will be given.",
+  "pericope": {
+    "id": "MRK.P015",
+    "title": "The Lamp Under a Basket",
+    "range": "MRK.4:20-4:24",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/MAT_footnotes.md",
-      "line_number": 1169,
+      "source_file": "study/footnotes/NT/MAT_footnotes.md",
+      "line_number": 755,
       "raw_match": "[[MRK.4:24]]",
       "reference_type": "wikilink",
-      "context": "verse is found in [[MRK.4:24]] and in [[LUK.6:38]], each in a different context, as Jesus no doubt"
+      "context": "We will be judged with our own level of judgment because we are guilty of the very things we judge in others ([[ROM.2:1]]). We ourselves have failed in repentance and in fleeing from sin. To pass judgment is to assume God's authority. The second part of this verse is found in [[MRK.4:24]] and in [[LUK.6:38]], each in a different context, as Jesus no doubt repeated this particular message many times."
     }
   ]
 }

@@ -170,7 +170,7 @@ def main():
 
     # Print summary table
     check_cols = ["V1", "V2", "V3", "V4", "V5", "V6", "V7", "V8", "V9",
-                  "V10", "V11", "V12"]
+                  "V10", "V11", "V12", "V13"]
     header = f"{'BOOK':4s} | {'Verses':>6s} | {'V7%':>7s} | {'Warn':>4s} | {'Err':>3s} | " + " ".join(f"{c:4s}" for c in check_cols)
     print(f"\nBatch Validation Summary ({len(results)} books)")
     print("=" * len(header))

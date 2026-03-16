@@ -1,0 +1,4536 @@
+{
+  "books": [
+    {
+      "book": "52_LUK",
+      "total_suspects": 180,
+      "suspects": [
+        {
+          "anchor": "LUK.6:15",
+          "word": "Alphaeus",
+          "context": "...Thomas; James the son of Alphaeus, and Simon called the Ze..."
+        },
+        {
+          "anchor": "LUK.3:2",
+          "word": "Annas",
+          "context": "while Annas and Caiaphas were high p..."
+        },
+        {
+          "anchor": "LUK.23:51",
+          "word": "Arimathea",
+          "context": "...on and deed. He was from Arimathea, a city of the Jews, who..."
+        },
+        {
+          "anchor": "LUK.19:29",
+          "word": "Bethphage",
+          "context": "...ss, when He drew near to Bethphage and Bethany, at the moun..."
+        },
+        {
+          "anchor": "LUK.9:10",
+          "word": "Bethsaida",
+          "context": "...nging to the city called Bethsaida."
+        },
+        {
+          "anchor": "LUK.10:13",
+          "word": "Bethsaida",
+          "context": "...u, Chorazin! Woe to you, Bethsaida! For if the mighty works..."
+        },
+        {
+          "anchor": "LUK.4:23",
+          "word": "Capernaum",
+          "context": "...er we have heard done in Capernaum, ado also here in Your c..."
+        },
+        {
+          "anchor": "LUK.4:31",
+          "word": "Capernaum",
+          "context": "Then He went down to Capernaum, a city of Galilee, and ..."
+        },
+        {
+          "anchor": "LUK.7:1",
+          "word": "Capernaum",
+          "context": "...f the people, He entered Capernaum."
+        },
+        {
+          "anchor": "LUK.10:13",
+          "word": "Chorazin",
+          "context": "'Woe to you, Chorazin! Woe to you, Bethsaida! ..."
+        },
+        {
+          "anchor": "LUK.8:3",
+          "word": "Chuza",
+          "context": "and Joanna the wife of Chuza, Herod's steward, and Su..."
+        },
+        {
+          "anchor": "LUK.24:18",
+          "word": "Cleopas",
+          "context": "...n the one whose name was Cleopas answered and said to Him..."
+        },
+        {
+          "anchor": "LUK.3:28",
+          "word": "Cosam",
+          "context": "... son of Addi, the son of Cosam, the son of Elmodam, the..."
+        },
+        {
+          "anchor": "LUK.23:26",
+          "word": "Cyrenian",
+          "context": "...f a certain man, Simon a Cyrenian, who was coming from the..."
+        },
+        {
+          "anchor": "LUK.3:28",
+          "word": "Elmodam",
+          "context": "...son of Cosam, the son of Elmodam, the son of Er,"
+        },
+        {
+          "anchor": "LUK.3:25",
+          "word": "Esli",
+          "context": "...son of Nahum, the son of Esli, the son of Naggai,"
+        },
+        {
+          "anchor": "LUK.8:26",
+          "word": "Gadarenes",
+          "context": "...ed to the country of the Gadarenes, which is opposite Galil..."
+        },
+        {
+          "anchor": "LUK.8:37",
+          "word": "Gadarenes",
+          "context": "...urrounding region of the Gadarenes aasked Him to depart fro..."
+        },
+        {
+          "anchor": "LUK.3:23",
+          "word": "Heli",
+          "context": "...on of Joseph, the son of Heli,"
+        },
+        {
+          "anchor": "LUK.3:19",
+          "word": "Herodias",
+          "context": "...ebuked by him concerning Herodias, his brother Philip's wi..."
+        },
+        {
+          "anchor": "LUK.3:1",
+          "word": "Iturea",
+          "context": "...other Philip tetrarch of Iturea and the region of Tracho..."
+        },
+        {
+          "anchor": "LUK.3:27",
+          "word": "Joannas",
+          "context": "the son of Joannas, the son of Rhesa, the s..."
+        },
+        {
+          "anchor": "LUK.3:30",
+          "word": "Jonan",
+          "context": "...on of Joseph, the son of Jonan, the son of Eliakim,"
+        },
+        {
+          "anchor": "LUK.3:29",
+          "word": "Jorim",
+          "context": "...n of Eliezer, the son of Jorim, the son of Matthat, the..."
+        },
+        {
+          "anchor": "LUK.3:1",
+          "word": "Lysanias",
+          "context": "...gion of Trachonitis, and Lysanias tetrarch of Abilene,"
+        },
+        {
+          "anchor": "LUK.3:26",
+          "word": "Maath",
+          "context": "the son of Maath, the son of Mattathiah, ..."
+        },
+        {
+          "anchor": "LUK.3:31",
+          "word": "Mattathah",
+          "context": "...son of Menan, the son of Mattathah, the son of Nathan, the ..."
+        },
+        {
+          "anchor": "LUK.3:25",
+          "word": "Mattathiah",
+          "context": "the son of Mattathiah, the son of Amos, the so..."
+        },
+        {
+          "anchor": "LUK.3:26",
+          "word": "Mattathiah",
+          "context": "...son of Maath, the son of Mattathiah, the son of Semei, the s..."
+        },
+        {
+          "anchor": "LUK.3:24",
+          "word": "Matthat",
+          "context": "the son of Matthat, the son of Levi, the so..."
+        },
+        {
+          "anchor": "LUK.3:29",
+          "word": "Matthat",
+          "context": "...son of Jorim, the son of Matthat, the son of Levi,"
+        },
+        {
+          "anchor": "LUK.3:24",
+          "word": "Melchi",
+          "context": "... son of Levi, the son of Melchi, the son of Janna, the s..."
+        },
+        {
+          "anchor": "LUK.3:28",
+          "word": "Melchi",
+          "context": "the son of Melchi, the son of Addi, the so..."
+        },
+        {
+          "anchor": "LUK.3:31",
+          "word": "Melea",
+          "context": "the son of Melea, the son of Menan, the s..."
+        },
+        {
+          "anchor": "LUK.3:31",
+          "word": "Menan",
+          "context": "...son of Melea, the son of Menan, the son of Mattathah, t..."
+        },
+        {
+          "anchor": "LUK.3:25",
+          "word": "Naggai",
+          "context": "... son of Esli, the son of Naggai,"
+        },
+        {
+          "anchor": "LUK.7:11",
+          "word": "Nain",
+          "context": "... went into a city called Nain; and many of His discipl..."
+        },
+        {
+          "anchor": "LUK.3:27",
+          "word": "Neri",
+          "context": "...of Shealtiel, the son of Neri,"
+        },
+        {
+          "anchor": "LUK.11:30",
+          "word": "Ninevites",
+          "context": "...nah became a sign to the Ninevites, so also the Son of Man ..."
+        },
+        {
+          "anchor": "LUK.19:29",
+          "word": "Olivet",
+          "context": "..., at the mountain called Olivet, that He sent two of His..."
+        },
+        {
+          "anchor": "LUK.21:37",
+          "word": "Olivet",
+          "context": "...d on the mountain called Olivet."
+        },
+        {
+          "anchor": "LUK.2:36",
+          "word": "Phanuel",
+          "context": "...phetess, the daughter of Phanuel, of the tribe of Asher. ..."
+        },
+        {
+          "anchor": "LUK.3:1",
+          "word": "Pontius",
+          "context": "...eign of Tiberius Caesar, Pontius Pilate being governor of..."
+        },
+        {
+          "anchor": "LUK.2:2",
+          "word": "Quirinius",
+          "context": "...s first took place while Quirinius was governing Syria."
+        },
+        {
+          "anchor": "LUK.3:27",
+          "word": "Rhesa",
+          "context": "...n of Joannas, the son of Rhesa, the son of Zerubbabel, ..."
+        },
+        {
+          "anchor": "LUK.20:27",
+          "word": "Sadducees",
+          "context": "Then some of the Sadducees, who deny that there is ..."
+        },
+        {
+          "anchor": "LUK.3:26",
+          "word": "Semei",
+          "context": "...f Mattathiah, the son of Semei, the son of Joseph, the ..."
+        },
+        {
+          "anchor": "LUK.1:3",
+          "word": "Theophilus",
+          "context": "... account, most excellent Theophilus,"
+        },
+        {
+          "anchor": "LUK.3:1",
+          "word": "Trachonitis",
+          "context": "...Iturea and the region of Trachonitis, and Lysanias tetrarch o..."
+        },
+        {
+          "anchor": "LUK.23:44",
+          "word": "aabout",
+          "context": "Now it was aabout the sixth hour, and ther..."
+        },
+        {
+          "anchor": "LUK.19:46",
+          "word": "aahouse",
+          "context": "...is written, 'My house is aahouse of prayer,' but you have..."
+        },
+        {
+          "anchor": "LUK.1:1",
+          "word": "aamong",
+          "context": "...hich have been fulfilled aamong us,"
+        },
+        {
+          "anchor": "LUK.10:41",
+          "word": "aanswered",
+          "context": "And Jesus aanswered and said to her, 'Martha..."
+        },
+        {
+          "anchor": "LUK.22:14",
+          "word": "aapostles",
+          "context": "...sat down, and the twelve aapostles with Him."
+        },
+        {
+          "anchor": "LUK.8:37",
+          "word": "aasked",
+          "context": "... region of the Gadarenes aasked Him to depart from them,..."
+        },
+        {
+          "anchor": "LUK.6:43",
+          "word": "abad",
+          "context": "...bear bad fruit, nor does abad tree bear good fruit."
+        },
+        {
+          "anchor": "LUK.3:3",
+          "word": "abaptism",
+          "context": "...nd the Jordan, preaching abaptism of repentance for the re..."
+        },
+        {
+          "anchor": "LUK.12:50",
+          "word": "abaptism",
+          "context": "But I have abaptism to be baptized with, and..."
+        },
+        {
+          "anchor": "LUK.11:33",
+          "word": "abasket",
+          "context": "...n asecret place or under abasket, but on alampstand, that..."
+        },
+        {
+          "anchor": "LUK.24:53",
+          "word": "ablessing",
+          "context": "... the temple praising and ablessing God. Amen."
+        },
+        {
+          "anchor": "LUK.6:44",
+          "word": "abramble",
+          "context": "... they gather grapes from abramble bush."
+        },
+        {
+          "anchor": "LUK.6:45",
+          "word": "abrings",
+          "context": "...il treasure of his heart abrings forth evil. For out of t..."
+        },
+        {
+          "anchor": "LUK.24:42",
+          "word": "abroiled",
+          "context": "... they gave Him apiece of abroiled fish and some honeycomb."
+        },
+        {
+          "anchor": "LUK.8:25",
+          "word": "acalm",
+          "context": "...ey ceased, and there was acalm. But He said to them, 'W..."
+        },
+        {
+          "anchor": "LUK.18:25",
+          "word": "acamel",
+          "context": "For it is easier for acamel to go through the eye of..."
+        },
+        {
+          "anchor": "LUK.5:4",
+          "word": "acatch",
+          "context": "...d let down your nets for acatch.'"
+        },
+        {
+          "anchor": "LUK.19:2",
+          "word": "achief",
+          "context": "... named Zacchaeus who was achief tax collector, and he wa..."
+        },
+        {
+          "anchor": "LUK.15:15",
+          "word": "acitizen",
+          "context": "...nt and joined himself to acitizen of that country, and he ..."
+        },
+        {
+          "anchor": "LUK.5:30",
+          "word": "acomplained",
+          "context": "...cribes and the Pharisees acomplained against His disciples, s..."
+        },
+        {
+          "anchor": "LUK.23:50",
+          "word": "acouncil",
+          "context": "... was a man named Joseph, acouncil member, good and just ma..."
+        },
+        {
+          "anchor": "LUK.8:8",
+          "word": "acrop",
+          "context": "..., sprang up, and yielded acrop ahundredfold.' When He h..."
+        },
+        {
+          "anchor": "LUK.22:61",
+          "word": "acrowed",
+          "context": "...ll speaking, the rooster acrowed. And the Lord turned and..."
+        },
+        {
+          "anchor": "LUK.2:1",
+          "word": "adecree",
+          "context": "... pass in those days that adecree went out from Caesar Aug..."
+        },
+        {
+          "anchor": "LUK.14:32",
+          "word": "adelegation",
+          "context": "... great way off, he sends adelegation and asks conditions of p..."
+        },
+        {
+          "anchor": "LUK.19:14",
+          "word": "adelegation",
+          "context": "...zens hated him, and sent adelegation after him, saying, 'We w..."
+        },
+        {
+          "anchor": "LUK.4:42",
+          "word": "adeserted",
+          "context": "...e departed and went into adeserted place. And the crowd sou..."
+        },
+        {
+          "anchor": "LUK.9:10",
+          "word": "adeserted",
+          "context": "...ent aside privately into adeserted place belonging to the c..."
+        },
+        {
+          "anchor": "LUK.9:12",
+          "word": "adeserted",
+          "context": "...rovisions; for we are in adeserted place here.'"
+        },
+        {
+          "anchor": "LUK.5:39",
+          "word": "adesires",
+          "context": "...nk old wine, immediately adesires new; for he says, 'The o..."
+        },
+        {
+          "anchor": "LUK.14:12",
+          "word": "adinner",
+          "context": "...ited Him, 'When you give adinner or asupper, do not ask y..."
+        },
+        {
+          "anchor": "LUK.9:46",
+          "word": "adispute",
+          "context": "Then adispute arose among them as to w..."
+        },
+        {
+          "anchor": "LUK.22:24",
+          "word": "adispute",
+          "context": "Now there was also adispute among them, as to which ..."
+        },
+        {
+          "anchor": "LUK.3:22",
+          "word": "adove",
+          "context": "...nded in bodily form like adove upon Him, and a voice ca..."
+        },
+        {
+          "anchor": "LUK.8:51",
+          "word": "aexcept",
+          "context": "...ermitted no one to go in aexcept Peter, James, and John, ..."
+        },
+        {
+          "anchor": "LUK.14:13",
+          "word": "afeast",
+          "context": "But when you give afeast, invite the poor, the ma..."
+        },
+        {
+          "anchor": "LUK.10:39",
+          "word": "afeet",
+          "context": "..., who also sat at Jesus' afeet and heard His word."
+        },
+        {
+          "anchor": "LUK.2:40",
+          "word": "afilled",
+          "context": "...became strong in spirit, afilled with wisdom; and the gra..."
+        },
+        {
+          "anchor": "LUK.11:11",
+          "word": "afish",
+          "context": "...stone? Or if he asks for afish, will he give him aserpe..."
+        },
+        {
+          "anchor": "LUK.11:11",
+          "word": "afish",
+          "context": "...stone? Or if he asks for afish, will he give him aserpe..."
+        },
+        {
+          "anchor": "LUK.8:43",
+          "word": "aflow",
+          "context": "...Him. Now a woman, having aflow of blood for twelve year..."
+        },
+        {
+          "anchor": "LUK.6:49",
+          "word": "afoundation",
+          "context": "...use on the earth without afoundation, against which the strea..."
+        },
+        {
+          "anchor": "LUK.1:45",
+          "word": "afulfillment",
+          "context": "...ieved, for there will be afulfillment of those things which we..."
+        },
+        {
+          "anchor": "LUK.7:34",
+          "word": "aglutton",
+          "context": "...ing, and you say, 'Look, aglutton and awinebibber, a frien..."
+        },
+        {
+          "anchor": "LUK.23:11",
+          "word": "agorgeous",
+          "context": "...cked Him, arrayed Him in agorgeous robe, and sent Him back ..."
+        },
+        {
+          "anchor": "LUK.7:28",
+          "word": "agreater",
+          "context": "...rn of women there is not agreater prophet than John the Ba..."
+        },
+        {
+          "anchor": "LUK.11:31",
+          "word": "agreater",
+          "context": "...m of Solomon; and indeed agreater than Solomon is here."
+        },
+        {
+          "anchor": "LUK.11:32",
+          "word": "agreater",
+          "context": "...ing of Jonah; and indeed agreater than Jonah is here."
+        },
+        {
+          "anchor": "LUK.19:7",
+          "word": "aguest",
+          "context": "...ying, 'He has gone to be aguest with a man who is a sinn..."
+        },
+        {
+          "anchor": "LUK.21:18",
+          "word": "ahair",
+          "context": "But not ahair of your head shall be lo..."
+        },
+        {
+          "anchor": "LUK.19:20",
+          "word": "ahandkerchief",
+          "context": "... I have kept put away in ahandkerchief."
+        },
+        {
+          "anchor": "LUK.13:34",
+          "word": "ahen",
+          "context": "...ur children together, as ahen gathers her brood under ..."
+        },
+        {
+          "anchor": "LUK.8:32",
+          "word": "aherd",
+          "context": "Now aherd of many swine was feedin..."
+        },
+        {
+          "anchor": "LUK.1:69",
+          "word": "ahorn",
+          "context": "And has raised up ahorn of salvation for us In t..."
+        },
+        {
+          "anchor": "LUK.8:8",
+          "word": "ahundredfold",
+          "context": "...ng up, and yielded acrop ahundredfold.' When He had said these..."
+        },
+        {
+          "anchor": "LUK.2:36",
+          "word": "ahusband",
+          "context": "... age, and had lived with ahusband seven years from her vir..."
+        },
+        {
+          "anchor": "LUK.12:14",
+          "word": "ajudge",
+          "context": "...o him, 'Man, who made Me ajudge or an arbitrator over yo..."
+        },
+        {
+          "anchor": "LUK.18:2",
+          "word": "ajudge",
+          "context": "...re was in a certain city ajudge who did not fear God nor..."
+        },
+        {
+          "anchor": "LUK.19:12",
+          "word": "akingdom",
+          "context": "...y to receive for himself akingdom and to return."
+        },
+        {
+          "anchor": "LUK.22:29",
+          "word": "akingdom",
+          "context": "And I bestow upon you akingdom, just as My Father besto..."
+        },
+        {
+          "anchor": "LUK.22:48",
+          "word": "akiss",
+          "context": "...ying the Son of Man with akiss?'"
+        },
+        {
+          "anchor": "LUK.22:36",
+          "word": "aknapsack",
+          "context": "...im take it, and likewise aknapsack; and he who has no sword..."
+        },
+        {
+          "anchor": "LUK.2:17",
+          "word": "aknown",
+          "context": "...en Him, they made widely aknown the saying which was tol..."
+        },
+        {
+          "anchor": "LUK.8:16",
+          "word": "alampstand",
+          "context": "...der abed, but sets it on alampstand, that those who enter ma..."
+        },
+        {
+          "anchor": "LUK.11:33",
+          "word": "alampstand",
+          "context": "...or under abasket, but on alampstand, that those who come in ..."
+        },
+        {
+          "anchor": "LUK.6:17",
+          "word": "alevel",
+          "context": "...n with them and stood on alevel place with a crowd of Hi..."
+        },
+        {
+          "anchor": "LUK.20:28",
+          "word": "aman's",
+          "context": "...oses wrote to us that if aman's brother dies, having awi..."
+        },
+        {
+          "anchor": "LUK.2:7",
+          "word": "amanger",
+          "context": "... cloths, and laid Him in amanger, because there was no ro..."
+        },
+        {
+          "anchor": "LUK.2:12",
+          "word": "amanger",
+          "context": "...addling cloths, lying in amanger.'"
+        },
+        {
+          "anchor": "LUK.2:16",
+          "word": "amanger",
+          "context": "...h, and the Babe lying in amanger."
+        },
+        {
+          "anchor": "LUK.2:33",
+          "word": "amarveled",
+          "context": "...nd Joseph and His mother amarveled at those things which we..."
+        },
+        {
+          "anchor": "LUK.4:5",
+          "word": "amoment",
+          "context": "...kingdoms of the world in amoment of time."
+        },
+        {
+          "anchor": "LUK.22:36",
+          "word": "amoney",
+          "context": "...em, 'But now, he who has amoney bag, let him take it, an..."
+        },
+        {
+          "anchor": "LUK.2:13",
+          "word": "amultitude",
+          "context": "...there was with the angel amultitude of the heavenly host pra..."
+        },
+        {
+          "anchor": "LUK.18:36",
+          "word": "amultitude",
+          "context": "And hearing amultitude passing by, he asked wha..."
+        },
+        {
+          "anchor": "LUK.22:47",
+          "word": "amultitude",
+          "context": "... still speaking, behold, amultitude; and he who was called J..."
+        },
+        {
+          "anchor": "LUK.1:1",
+          "word": "anarrative",
+          "context": "... in hand to set in order anarrative of those things which ha..."
+        },
+        {
+          "anchor": "LUK.23:2",
+          "word": "anation",
+          "context": "...is fellow perverting the anation, and forbidding to pay t..."
+        },
+        {
+          "anchor": "LUK.18:25",
+          "word": "aneedle",
+          "context": "...to go through the eye of aneedle than for a rich man to e..."
+        },
+        {
+          "anchor": "LUK.8:15",
+          "word": "anoble",
+          "context": "...ving heard the word with anoble and good heart, keep it ..."
+        },
+        {
+          "anchor": "LUK.8:27",
+          "word": "anor",
+          "context": "... And he wore no clothes, anor did he live in a house b..."
+        },
+        {
+          "anchor": "LUK.5:36",
+          "word": "aotherwise",
+          "context": "...w garment on an old one; aotherwise the new makes atear, and..."
+        },
+        {
+          "anchor": "LUK.15:22",
+          "word": "aout",
+          "context": "... to his servants, 'Bring aout the best robe and put it..."
+        },
+        {
+          "anchor": "LUK.24:4",
+          "word": "aperplexed",
+          "context": "...ed, as they were greatly aperplexed about this, that behold,..."
+        },
+        {
+          "anchor": "LUK.14:5",
+          "word": "apit",
+          "context": "... ox that has fallen into apit, will not immediately pu..."
+        },
+        {
+          "anchor": "LUK.22:10",
+          "word": "apitcher",
+          "context": "...n will meet you carrying apitcher of water; follow him int..."
+        },
+        {
+          "anchor": "LUK.7:26",
+          "word": "aprophet",
+          "context": "...ay to you, and more than aprophet."
+        },
+        {
+          "anchor": "LUK.7:39",
+          "word": "aprophet",
+          "context": "...g, 'This Man, if He were aprophet, would know who and what..."
+        },
+        {
+          "anchor": "LUK.13:33",
+          "word": "aprophet",
+          "context": "...g; for it cannot be that aprophet should perish outside of..."
+        },
+        {
+          "anchor": "LUK.17:3",
+          "word": "arebuke",
+          "context": "...rother sins against you, arebuke him; and if he repents, ..."
+        },
+        {
+          "anchor": "LUK.10:20",
+          "word": "arejoice",
+          "context": "...bject to you, but rather arejoice because your names are w..."
+        },
+        {
+          "anchor": "LUK.23:42",
+          "word": "aremember",
+          "context": "...he said to Jesus, 'Lord, aremember me when You come into Yo..."
+        },
+        {
+          "anchor": "LUK.20:27",
+          "word": "aresurrection",
+          "context": "..., who deny that there is aresurrection, came to Him and asked H..."
+        },
+        {
+          "anchor": "LUK.10:17",
+          "word": "areturned",
+          "context": "Then the seventy areturned with joy, saying, 'Lord,..."
+        },
+        {
+          "anchor": "LUK.23:47",
+          "word": "arighteous",
+          "context": "...ing, 'Certainly this was arighteous Man!'"
+        },
+        {
+          "anchor": "LUK.15:22",
+          "word": "aring",
+          "context": "...d put it on him, and put aring on his hand and sandals ..."
+        },
+        {
+          "anchor": "LUK.22:52",
+          "word": "arobber",
+          "context": "...you come out, as against arobber, with swords and clubs?"
+        },
+        {
+          "anchor": "LUK.2:24",
+          "word": "asacrifice",
+          "context": "and to offer asacrifice according to what is sai..."
+        },
+        {
+          "anchor": "LUK.23:39",
+          "word": "asave",
+          "context": "... 'If You are the Christ, asave Yourself and us.'"
+        },
+        {
+          "anchor": "LUK.11:33",
+          "word": "asecret",
+          "context": "...s lit a lamp, puts it in asecret place or under abasket, ..."
+        },
+        {
+          "anchor": "LUK.11:11",
+          "word": "aserpent",
+          "context": "... afish, will he give him aserpent instead of afish?"
+        },
+        {
+          "anchor": "LUK.15:14",
+          "word": "asevere",
+          "context": "...d spent all, there arose asevere famine in that land, and..."
+        },
+        {
+          "anchor": "LUK.5:8",
+          "word": "asinful",
+          "context": "...Depart from me, for I am asinful man, O Lord!'"
+        },
+        {
+          "anchor": "LUK.10:39",
+          "word": "asister",
+          "context": "And she had asister called Mary, who also sa..."
+        },
+        {
+          "anchor": "LUK.21:35",
+          "word": "asnare",
+          "context": "For it will come as asnare on all those who dwell o..."
+        },
+        {
+          "anchor": "LUK.1:13",
+          "word": "ason",
+          "context": "... Elizabeth will bear you ason, and you shall call his ..."
+        },
+        {
+          "anchor": "LUK.1:36",
+          "word": "ason",
+          "context": "...ative has also conceived ason in her old age; and this..."
+        },
+        {
+          "anchor": "LUK.1:57",
+          "word": "ason",
+          "context": "...d, and she brought forth ason."
+        },
+        {
+          "anchor": "LUK.16:1",
+          "word": "asteward",
+          "context": "...certain rich man who had asteward, and an accusation was b..."
+        },
+        {
+          "anchor": "LUK.22:41",
+          "word": "astone's",
+          "context": "...ithdrawn from them about astone's throw, and He knelt down..."
+        },
+        {
+          "anchor": "LUK.11:22",
+          "word": "astronger",
+          "context": "But when astronger than he comes upon him a..."
+        },
+        {
+          "anchor": "LUK.14:12",
+          "word": "asupper",
+          "context": "...When you give adinner or asupper, do not ask your friends..."
+        },
+        {
+          "anchor": "LUK.19:4",
+          "word": "asycamore",
+          "context": "...head and climbed up into asycamore tree to see Him, for He ..."
+        },
+        {
+          "anchor": "LUK.5:36",
+          "word": "atear",
+          "context": "...aotherwise the new makes atear, and also the piece that..."
+        },
+        {
+          "anchor": "LUK.5:14",
+          "word": "atestimony",
+          "context": "...g for your cleansing, as atestimony to them, just as Moses c..."
+        },
+        {
+          "anchor": "LUK.9:5",
+          "word": "atestimony",
+          "context": "...y dust from your feet as atestimony against them.'"
+        },
+        {
+          "anchor": "LUK.23:53",
+          "word": "atomb",
+          "context": "...in linen, and laid it in atomb that was hewn out of the..."
+        },
+        {
+          "anchor": "LUK.8:54",
+          "word": "atook",
+          "context": "...He put them all outside, atook her by the hand and call..."
+        },
+        {
+          "anchor": "LUK.20:30",
+          "word": "atook",
+          "context": "And the second atook her as wife, and he died..."
+        },
+        {
+          "anchor": "LUK.14:28",
+          "word": "atower",
+          "context": "... you, intending to build atower, does not sit down first..."
+        },
+        {
+          "anchor": "LUK.6:16",
+          "word": "atraitor",
+          "context": "...Iscariot who also became atraitor."
+        },
+        {
+          "anchor": "LUK.12:33",
+          "word": "atreasure",
+          "context": "...s which do not grow old, atreasure in the heavens that does..."
+        },
+        {
+          "anchor": "LUK.13:19",
+          "word": "atree",
+          "context": "... grew and became a large atree, and the birds of the ai..."
+        },
+        {
+          "anchor": "LUK.24:49",
+          "word": "auntil",
+          "context": "...in the city of Jerusalem auntil you are endued with powe..."
+        },
+        {
+          "anchor": "LUK.9:52",
+          "word": "avillage",
+          "context": "... they went, they entered avillage of the Samaritans, to pr..."
+        },
+        {
+          "anchor": "LUK.24:13",
+          "word": "avillage",
+          "context": "...aveling that same day to avillage called Emmaus, which was..."
+        },
+        {
+          "anchor": "LUK.20:9",
+          "word": "avineyard",
+          "context": "...: 'A certain man planted avineyard, leased it to vinedresse..."
+        },
+        {
+          "anchor": "LUK.1:22",
+          "word": "avision",
+          "context": "...rceived that he had seen avision in the temple, for he be..."
+        },
+        {
+          "anchor": "LUK.24:23",
+          "word": "avision",
+          "context": "... that they had also seen avision of angels who said He wa..."
+        },
+        {
+          "anchor": "LUK.14:8",
+          "word": "awedding",
+          "context": "...are invited by anyone to awedding feast, do not sit down i..."
+        },
+        {
+          "anchor": "LUK.18:12",
+          "word": "aweek",
+          "context": "I fast twice aweek; I give tithes of all th..."
+        },
+        {
+          "anchor": "LUK.14:20",
+          "word": "awife",
+          "context": "...er said, 'I have married awife, and therefore I cannot ..."
+        },
+        {
+          "anchor": "LUK.20:28",
+          "word": "awife",
+          "context": "...n's brother dies, having awife, and he dies without chi..."
+        },
+        {
+          "anchor": "LUK.20:29",
+          "word": "awife",
+          "context": "...hers. And the first took awife, and died without childr..."
+        },
+        {
+          "anchor": "LUK.8:23",
+          "word": "awindstorm",
+          "context": "...iled He fell asleep. And awindstorm came down on the lake, a..."
+        },
+        {
+          "anchor": "LUK.7:34",
+          "word": "awinebibber",
+          "context": "...say, 'Look, aglutton and awinebibber, a friend of tax collect..."
+        },
+        {
+          "anchor": "LUK.1:63",
+          "word": "awriting",
+          "context": "And he asked for awriting tablet, and wrote, sayin..."
+        },
+        {
+          "anchor": "LUK.8:48",
+          "word": "ayour",
+          "context": "...ghter, be of good cheer; ayour faith has made you well...."
+        },
+        {
+          "anchor": "LUK.6:26",
+          "word": "bmen",
+          "context": "...eep. Woe to you when all bmen speak well of you, For s..."
+        },
+        {
+          "anchor": "LUK.9:50",
+          "word": "bside",
+          "context": "...not against us is on our bside.'"
+        },
+        {
+          "anchor": "LUK.7:41",
+          "word": "denarii",
+          "context": "...s. One owed five hundred denarii, and the other fifty."
+        },
+        {
+          "anchor": "LUK.10:35",
+          "word": "denarii",
+          "context": "...eparted, he took out two denarii, gave them to the innkee..."
+        },
+        {
+          "anchor": "LUK.20:24",
+          "word": "denarius",
+          "context": "Show Me a denarius. Whose image and inscrip..."
+        },
+        {
+          "anchor": "LUK.2:30",
+          "word": "ey",
+          "context": "For my ey es haveseen Your salvati..."
+        },
+        {
+          "anchor": "LUK.2:37",
+          "word": "fastings",
+          "context": "...ple, but served God with fastings and prayers night and da..."
+        },
+        {
+          "anchor": "LUK.15:23",
+          "word": "fatted",
+          "context": "And bring the fatted calf here and kill it, a..."
+        },
+        {
+          "anchor": "LUK.15:27",
+          "word": "fatted",
+          "context": "...ur father has killed the fatted calf.'"
+        },
+        {
+          "anchor": "LUK.15:30",
+          "word": "fatted",
+          "context": "... harlots, you killed the fatted calf for him.'"
+        },
+        {
+          "anchor": "LUK.11:4",
+          "word": "forgiveevery",
+          "context": "For we also forgiveevery one who is indebted to u..."
+        },
+        {
+          "anchor": "LUK.1:77",
+          "word": "giveknowledge",
+          "context": "To giveknowledge of salvation to His peop..."
+        },
+        {
+          "anchor": "LUK.1:79",
+          "word": "givelight",
+          "context": "To givelight to those who sit in dark..."
+        },
+        {
+          "anchor": "LUK.6:1",
+          "word": "grainfields",
+          "context": "...that He went through the grainfields. And His disciples pluck..."
+        },
+        {
+          "anchor": "LUK.6:24",
+          "word": "havereceived",
+          "context": "...ou who are rich, For you havereceived your consolation."
+        },
+        {
+          "anchor": "LUK.2:30",
+          "word": "haveseen",
+          "context": "For my ey es haveseen Your salvation"
+        },
+        {
+          "anchor": "LUK.23:53",
+          "word": "hewn",
+          "context": "...aid it in atomb that was hewn out of the rock, where n..."
+        },
+        {
+          "anchor": "LUK.1:47",
+          "word": "ior",
+          "context": "...s rejoiced in God my Sav ior."
+        },
+        {
+          "anchor": "LUK.1:78",
+          "word": "isited",
+          "context": "...pring from on high has v isited a us;"
+        },
+        {
+          "anchor": "LUK.19:16",
+          "word": "mina",
+          "context": "...t, saying, 'Master, your mina has earned ten minas.'"
+        },
+        {
+          "anchor": "LUK.19:18",
+          "word": "mina",
+          "context": "...e, saying, 'Master, your mina has earned five minas.'"
+        },
+        {
+          "anchor": "LUK.19:20",
+          "word": "mina",
+          "context": "...g, 'Master, here is your mina, which I have kept put a..."
+        },
+        {
+          "anchor": "LUK.19:13",
+          "word": "minas",
+          "context": "...s, delivered to them ten minas, and said to them, 'Do b..."
+        },
+        {
+          "anchor": "LUK.19:16",
+          "word": "minas",
+          "context": "...your mina has earned ten minas.'"
+        },
+        {
+          "anchor": "LUK.19:18",
+          "word": "minas",
+          "context": "...our mina has earned five minas.'"
+        },
+        {
+          "anchor": "LUK.1:76",
+          "word": "ou",
+          "context": "'And you, child, will be called t..."
+        },
+        {
+          "anchor": "LUK.6:26",
+          "word": "ou",
+          "context": "Woe to you who laugh now, For y ou ..."
+        },
+        {
+          "anchor": "LUK.6:4",
+          "word": "showbread",
+          "context": "...of God, took and ate the showbread, and also gave some to t..."
+        },
+        {
+          "anchor": "LUK.1:75",
+          "word": "sof",
+          "context": "...s before Him all the day sof our life."
+        },
+        {
+          "anchor": "LUK.22:3",
+          "word": "surnamed",
+          "context": "...hen Satan entered Judas, surnamed Iscariot, who was number..."
+        },
+        {
+          "anchor": "LUK.3:1",
+          "word": "tetrarch",
+          "context": "...or of Judea, Herod being tetrarch of Galilee, his brother ..."
+        },
+        {
+          "anchor": "LUK.3:1",
+          "word": "tetrarch",
+          "context": "...or of Judea, Herod being tetrarch of Galilee, his brother ..."
+        },
+        {
+          "anchor": "LUK.3:1",
+          "word": "tetrarch",
+          "context": "...or of Judea, Herod being tetrarch of Galilee, his brother ..."
+        },
+        {
+          "anchor": "LUK.6:35",
+          "word": "unthankful",
+          "context": "...h. For He is kind to the unthankful and evil."
+        },
+        {
+          "anchor": "LUK.20:9",
+          "word": "vinedressers",
+          "context": "... avineyard, leased it to vinedressers, and went into afar coun..."
+        },
+        {
+          "anchor": "LUK.20:10",
+          "word": "vinedressers",
+          "context": "...he sent a servant to the vinedressers, that they might give hi..."
+        },
+        {
+          "anchor": "LUK.20:10",
+          "word": "vinedressers",
+          "context": "...he sent a servant to the vinedressers, that they might give hi..."
+        },
+        {
+          "anchor": "LUK.5:37",
+          "word": "wineskins",
+          "context": "...e puts new wine into old wineskins; or else the new wine wi..."
+        },
+        {
+          "anchor": "LUK.5:37",
+          "word": "wineskins",
+          "context": "...e puts new wine into old wineskins; or else the new wine wi..."
+        },
+        {
+          "anchor": "LUK.5:37",
+          "word": "wineskins",
+          "context": "...e puts new wine into old wineskins; or else the new wine wi..."
+        }
+      ]
+    },
+    {
+      "book": "75_JUD",
+      "total_suspects": 1,
+      "suspects": [
+        {
+          "anchor": "JUD.1:1",
+          "word": "bondservant",
+          "context": "Jude, a bondservant of Jesus Christ, and bro..."
+        }
+      ]
+    },
+    {
+      "book": "72_1JN",
+      "total_suspects": 2,
+      "suspects": [
+        {
+          "anchor": "1JN.2:22",
+          "word": "antichrist",
+          "context": "...sus is the Christ? He is antichrist who denies the Father an..."
+        },
+        {
+          "anchor": "1JN.2:18",
+          "word": "antichrists",
+          "context": "...is coming, even now many antichrists have come, by which we k..."
+        }
+      ]
+    },
+    {
+      "book": "64_1TI",
+      "total_suspects": 8,
+      "suspects": [
+        {
+          "anchor": "1TI.1:20",
+          "word": "Hymenaeus",
+          "context": "of whom are Hymenaeus and Alexander, whom I de..."
+        },
+        {
+          "anchor": "1TI.6:13",
+          "word": "Pontius",
+          "context": "...e good confession before Pontius Pilate,"
+        },
+        {
+          "anchor": "1TI.6:20",
+          "word": "babblings",
+          "context": "...ing the profane and idle babblings and contradictions of wh..."
+        },
+        {
+          "anchor": "1TI.6:1",
+          "word": "bondservants",
+          "context": "Let as many bondservants as are under the yoke co..."
+        },
+        {
+          "anchor": "1TI.4:14",
+          "word": "eldership",
+          "context": "...g on of the hands of the eldership."
+        },
+        {
+          "anchor": "1TI.1:16",
+          "word": "longsuffering",
+          "context": "...us Christ might show all longsuffering, as a pattern to those w..."
+        },
+        {
+          "anchor": "1TI.1:9",
+          "word": "manslayers",
+          "context": "...urderers of mothers, for manslayers,"
+        },
+        {
+          "anchor": "1TI.3:2",
+          "word": "soberminded",
+          "context": "... of one wife, temperate, soberminded, of good behavior, hospi..."
+        }
+      ]
+    },
+    {
+      "book": "71_2PE",
+      "total_suspects": 3,
+      "suspects": [
+        {
+          "anchor": "2PE.1:1",
+          "word": "bondservant",
+          "context": "Simon Peter, a bondservant and apostle of Jesus Chr..."
+        },
+        {
+          "anchor": "2PE.3:9",
+          "word": "longsuffering",
+          "context": "... count slackness, but is longsuffering toward us, not willing t..."
+        },
+        {
+          "anchor": "2PE.3:15",
+          "word": "longsuffering",
+          "context": "and consider that the longsuffering of our Lord is salvation..."
+        },
+        {
+          "anchor": "2PE.2:20",
+          "word": "pollutions",
+          "context": "...er they have escaped the pollutions of the world through the..."
+        }
+      ]
+    },
+    {
+      "book": "70_1PE",
+      "total_suspects": 8,
+      "suspects": [
+        {
+          "anchor": "1PE.1:1",
+          "word": "Bithynia",
+          "context": "...a, Cappadocia, Asia, and Bithynia,"
+        },
+        {
+          "anchor": "1PE.1:1",
+          "word": "Pontus",
+          "context": "...ims of the Dispersion in Pontus, Galatia, Cappadocia, As..."
+        },
+        {
+          "anchor": "1PE.5:12",
+          "word": "Silvanus",
+          "context": "By Silvanus, our faithful brother as..."
+        },
+        {
+          "anchor": "1PE.3:21",
+          "word": "antitype",
+          "context": "There is also an antitype which now saves us-bapti..."
+        },
+        {
+          "anchor": "1PE.2:16",
+          "word": "bondservants",
+          "context": "...a cloak for vice, but as bondservants of God."
+        },
+        {
+          "anchor": "1PE.4:3",
+          "word": "idolatries",
+          "context": "... parties, and abominable idolatries."
+        },
+        {
+          "anchor": "1PE.3:20",
+          "word": "longsuffering",
+          "context": "...nt, when once the Divine longsuffering waited in the days of No..."
+        },
+        {
+          "anchor": "1PE.1:4",
+          "word": "undefiled",
+          "context": "...itance incorruptible and undefiled and that does not fade a..."
+        }
+      ]
+    },
+    {
+      "book": "55_ROM",
+      "total_suspects": 66,
+      "suspects": [
+        {
+          "anchor": "ROM.15:26",
+          "word": "Achaia",
+          "context": "...those from Macedonia and Achaia to make a certain contri..."
+        },
+        {
+          "anchor": "ROM.16:6",
+          "word": "Achaia",
+          "context": "...ho is the firstfruits of Achaia to Christ. Greet Mary, w..."
+        },
+        {
+          "anchor": "ROM.16:8",
+          "word": "Amplias",
+          "context": "Greet Amplias, my beloved in the Lord."
+        },
+        {
+          "anchor": "ROM.16:10",
+          "word": "Apelles",
+          "context": "Greet Apelles, approved in Christ. Gre..."
+        },
+        {
+          "anchor": "ROM.16:14",
+          "word": "Asyncritus",
+          "context": "Greet Asyncritus, Phlegon, Hermas, Patrob..."
+        },
+        {
+          "anchor": "ROM.16:1",
+          "word": "Cenchrea",
+          "context": "...servant of the church in Cenchrea,"
+        },
+        {
+          "anchor": "ROM.16:6",
+          "word": "Epaenetus",
+          "context": "Greet my beloved Epaenetus, who is the firstfruits ..."
+        },
+        {
+          "anchor": "ROM.16:23",
+          "word": "Erastus",
+          "context": "...hole church, greets you. Erastus, the treasurer of the ci..."
+        },
+        {
+          "anchor": "ROM.16:23",
+          "word": "Gaius",
+          "context": "Gaius, my host and the host of..."
+        },
+        {
+          "anchor": "ROM.16:14",
+          "word": "Hermas",
+          "context": "...eet Asyncritus, Phlegon, Hermas, Patrobas, Hermes, and t..."
+        },
+        {
+          "anchor": "ROM.16:11",
+          "word": "Herodion",
+          "context": "Greet Herodion, my countryman.Greet tho..."
+        },
+        {
+          "anchor": "ROM.15:19",
+          "word": "Illyricum",
+          "context": "...salem and round about to Illyricum I have fully preached th..."
+        },
+        {
+          "anchor": "ROM.16:7",
+          "word": "Junia",
+          "context": "Greet Andronicus and Junia, my countrymen and my fe..."
+        },
+        {
+          "anchor": "ROM.16:15",
+          "word": "Nereus",
+          "context": "...et Philologus and Julia, Nereus and his sister, and Olym..."
+        },
+        {
+          "anchor": "ROM.16:15",
+          "word": "Olympas",
+          "context": "...reus and his sister, and Olympas, and all the saints who ..."
+        },
+        {
+          "anchor": "ROM.16:14",
+          "word": "Patrobas",
+          "context": "...critus, Phlegon, Hermas, Patrobas, Hermes, and the brethre..."
+        },
+        {
+          "anchor": "ROM.16:12",
+          "word": "Persis",
+          "context": "... Lord. Greet the beloved Persis, who labored much in the..."
+        },
+        {
+          "anchor": "ROM.16:15",
+          "word": "Philologus",
+          "context": "Greet Philologus and Julia, Nereus and hi..."
+        },
+        {
+          "anchor": "ROM.16:14",
+          "word": "Phlegon",
+          "context": "Greet Asyncritus, Phlegon, Hermas, Patrobas, Herme..."
+        },
+        {
+          "anchor": "ROM.16:23",
+          "word": "Quartus",
+          "context": "...he city, greets you, and Quartus, a brother."
+        },
+        {
+          "anchor": "ROM.9:10",
+          "word": "Rebecca",
+          "context": "... not only this, but when Rebecca also had conceived by on..."
+        },
+        {
+          "anchor": "ROM.16:9",
+          "word": "Stachys",
+          "context": "...ow worker in Christ, and Stachys, my beloved."
+        },
+        {
+          "anchor": "ROM.16:22",
+          "word": "Tertius",
+          "context": "I, Tertius, who wrote this epistle,..."
+        },
+        {
+          "anchor": "ROM.16:12",
+          "word": "Tryphena",
+          "context": "Greet Tryphena and Tryphosa, who have l..."
+        },
+        {
+          "anchor": "ROM.16:12",
+          "word": "Tryphosa",
+          "context": "Greet Tryphena and Tryphosa, who have labored in the..."
+        },
+        {
+          "anchor": "ROM.16:9",
+          "word": "Urbanus",
+          "context": "Greet Urbanus, our fellow worker in Ch..."
+        },
+        {
+          "anchor": "ROM.9:3",
+          "word": "aaccording",
+          "context": "... brethren, my countrymen aaccording to the flesh,"
+        },
+        {
+          "anchor": "ROM.1:1",
+          "word": "abondservant",
+          "context": "Paul, abondservant of Jesus Christ, called ..."
+        },
+        {
+          "anchor": "ROM.2:25",
+          "word": "abreaker",
+          "context": "... the law; but if you are abreaker of the law, your circumc..."
+        },
+        {
+          "anchor": "ROM.8:33",
+          "word": "acharge",
+          "context": "Who shall bring acharge against God's elect? It ..."
+        },
+        {
+          "anchor": "ROM.16:16",
+          "word": "achurches",
+          "context": "...her with aholy kiss. The achurches of Christ greet you."
+        },
+        {
+          "anchor": "ROM.11:24",
+          "word": "acultivated",
+          "context": "... contrary to nature into acultivated olive tree, how much mor..."
+        },
+        {
+          "anchor": "ROM.1:28",
+          "word": "adebased",
+          "context": "...e, God gave them over to adebased mind, to do those things..."
+        },
+        {
+          "anchor": "ROM.1:14",
+          "word": "adebtor",
+          "context": "I am adebtor both to Greeks and to ba..."
+        },
+        {
+          "anchor": "ROM.2:19",
+          "word": "aguide",
+          "context": "...nt that you yourself are aguide to the blind, alight to ..."
+        },
+        {
+          "anchor": "ROM.16:2",
+          "word": "ahelper",
+          "context": "... for indeed she has been ahelper of many and of myself al..."
+        },
+        {
+          "anchor": "ROM.16:16",
+          "word": "aholy",
+          "context": "Greet one another with aholy kiss. The achurches of C..."
+        },
+        {
+          "anchor": "ROM.7:2",
+          "word": "ahusband",
+          "context": "For the woman who has ahusband is bound by the law to h..."
+        },
+        {
+          "anchor": "ROM.2:14",
+          "word": "alaw",
+          "context": "... not having the law, are alaw to themselves,"
+        },
+        {
+          "anchor": "ROM.7:21",
+          "word": "alaw",
+          "context": "I find then alaw, that evil is present wi..."
+        },
+        {
+          "anchor": "ROM.16:2",
+          "word": "amanner",
+          "context": "...ceive her in the Lord in amanner worthy of the saints, an..."
+        },
+        {
+          "anchor": "ROM.12:3",
+          "word": "ameasure",
+          "context": "...od has dealt to each one ameasure of faith."
+        },
+        {
+          "anchor": "ROM.15:16",
+          "word": "aminister",
+          "context": "that I might be aminister of Jesus Christ to the G..."
+        },
+        {
+          "anchor": "ROM.13:10",
+          "word": "aneighbor",
+          "context": "Love does no harm to aneighbor; therefore love is the f..."
+        },
+        {
+          "anchor": "ROM.14:4",
+          "word": "another's",
+          "context": "Who are you to judge another's servant? To his own mast..."
+        },
+        {
+          "anchor": "ROM.11:17",
+          "word": "apartaker",
+          "context": "...em, and with them became apartaker of the root and fatness ..."
+        },
+        {
+          "anchor": "ROM.5:1",
+          "word": "apeace",
+          "context": "...tified by faith, we have apeace with God through our Lor..."
+        },
+        {
+          "anchor": "ROM.10:14",
+          "word": "apreacher",
+          "context": "... shall they hear without apreacher?"
+        },
+        {
+          "anchor": "ROM.3:25",
+          "word": "apropitiation",
+          "context": "whom God set forth as apropitiation by His blood, through fa..."
+        },
+        {
+          "anchor": "ROM.11:5",
+          "word": "aremnant",
+          "context": "...is present time there is aremnant according to the electio..."
+        },
+        {
+          "anchor": "ROM.5:7",
+          "word": "arighteous",
+          "context": "For scarcely for arighteous man will one die; yet pe..."
+        },
+        {
+          "anchor": "ROM.9:9",
+          "word": "ason",
+          "context": "...ome and Sarah shall have ason.'"
+        },
+        {
+          "anchor": "ROM.13:3",
+          "word": "aterror",
+          "context": "For rulers are not aterror to good works, but to ev..."
+        },
+        {
+          "anchor": "ROM.2:27",
+          "word": "atransgressor",
+          "context": "...de and circumcision, are atransgressor of the law?"
+        },
+        {
+          "anchor": "ROM.5:14",
+          "word": "atype",
+          "context": "...gression of Adam, who is atype of Him who was to come."
+        },
+        {
+          "anchor": "ROM.1:31",
+          "word": "aunmerciful",
+          "context": "..., unloving, unforgiving, aunmerciful;"
+        },
+        {
+          "anchor": "ROM.1:29",
+          "word": "awickedness",
+          "context": "...ness, sexual immorality, awickedness, covetousness, malicious..."
+        },
+        {
+          "anchor": "ROM.10:2",
+          "word": "azeal",
+          "context": "...m witness that they have azeal for God, but not accordi..."
+        },
+        {
+          "anchor": "ROM.4:19",
+          "word": "deadness",
+          "context": "...dred years old), and the deadness of Sarah's womb."
+        },
+        {
+          "anchor": "ROM.11:16",
+          "word": "firstfruit",
+          "context": "For if the firstfruit is holy, the lump is als..."
+        },
+        {
+          "anchor": "ROM.8:23",
+          "word": "firstfruits",
+          "context": "...but we also who have the firstfruits of the Spirit, even we o..."
+        },
+        {
+          "anchor": "ROM.16:6",
+          "word": "firstfruits",
+          "context": "...ed Epaenetus, who is the firstfruits of Achaia to Christ. Gre..."
+        },
+        {
+          "anchor": "ROM.8:26",
+          "word": "groanings",
+          "context": "...intercession for us with groanings which cannot be uttered."
+        },
+        {
+          "anchor": "ROM.3:26",
+          "word": "justifier",
+          "context": "...He might be just and the justifier of the one who has faith..."
+        },
+        {
+          "anchor": "ROM.2:4",
+          "word": "longsuffering",
+          "context": "...odness, forbearance, and longsuffering, not knowing that the go..."
+        },
+        {
+          "anchor": "ROM.9:22",
+          "word": "longsuffering",
+          "context": "...known, endured with much longsuffering the vessels of wrath pre..."
+        },
+        {
+          "anchor": "ROM.3:8",
+          "word": "slanderously",
+          "context": "...ood may come'?-as we are slanderously reported and as some aff..."
+        },
+        {
+          "anchor": "ROM.2:25",
+          "word": "uncircumcision",
+          "context": "... circumcision has become uncircumcision."
+        },
+        {
+          "anchor": "ROM.2:26",
+          "word": "uncircumcision",
+          "context": "...of the law, will not his uncircumcision be counted as circumcisi..."
+        },
+        {
+          "anchor": "ROM.1:31",
+          "word": "undiscerning",
+          "context": "undiscerning, untrustworthy, unloving..."
+        }
+      ]
+    },
+    {
+      "book": "63_2TH",
+      "total_suspects": 1,
+      "suspects": [
+        {
+          "anchor": "2TH.1:1",
+          "word": "Silvanus",
+          "context": "Paul, Silvanus, and Timothy, To the chu..."
+        }
+      ]
+    },
+    {
+      "book": "68_HEB",
+      "total_suspects": 10,
+      "suspects": [
+        {
+          "anchor": "HEB.4:12",
+          "word": "discerner",
+          "context": "...nts and marrow, and is a discerner of the thoughts and inte..."
+        },
+        {
+          "anchor": "HEB.9:2",
+          "word": "lampstand",
+          "context": "...t part, in which was the lampstand, the table, and the show..."
+        },
+        {
+          "anchor": "HEB.11:36",
+          "word": "mockings",
+          "context": "...till others had trial of mockings and scourgings, yes, and..."
+        },
+        {
+          "anchor": "HEB.11:12",
+          "word": "multitudeinnumerable",
+          "context": "... the stars of the sky in multitudeinnumerable as the sand which is by ..."
+        },
+        {
+          "anchor": "HEB.11:6",
+          "word": "rewarder",
+          "context": "... He is, and that He is a rewarder of those who diligently ..."
+        },
+        {
+          "anchor": "HEB.11:37",
+          "word": "sawn",
+          "context": "...y were stoned, they were sawn in two, were tempted, we..."
+        },
+        {
+          "anchor": "HEB.11:36",
+          "word": "scourgings",
+          "context": "...ad trial of mockings and scourgings, yes, and of chains and ..."
+        },
+        {
+          "anchor": "HEB.9:2",
+          "word": "showbread",
+          "context": "...tand, the table, and the showbread, which is called the san..."
+        },
+        {
+          "anchor": "HEB.7:26",
+          "word": "undefiled",
+          "context": "..., who is holy, harmless, undefiled, separate from sinners, ..."
+        },
+        {
+          "anchor": "HEB.13:4",
+          "word": "undefiled",
+          "context": "...e among all, and the bed undefiled; but fornicators and adu..."
+        },
+        {
+          "anchor": "HEB.7:18",
+          "word": "unprofitableness",
+          "context": "...ause of its weakness and unprofitableness,"
+        }
+      ]
+    },
+    {
+      "book": "59_EPH",
+      "total_suspects": 8,
+      "suspects": [
+        {
+          "anchor": "EPH.6:5",
+          "word": "Bondservants",
+          "context": "Bondservants, be obedient to those wh..."
+        },
+        {
+          "anchor": "EPH.6:21",
+          "word": "Tychicus",
+          "context": "...airs and how I am doing, Tychicus, a beloved brother and f..."
+        },
+        {
+          "anchor": "EPH.2:11",
+          "word": "Uncircumcision",
+          "context": "...the flesh-who are called Uncircumcision by what is called the Ci..."
+        },
+        {
+          "anchor": "EPH.6:6",
+          "word": "bondservants",
+          "context": "... as men-pleasers, but as bondservants of Christ, doing the wil..."
+        },
+        {
+          "anchor": "EPH.6:6",
+          "word": "eyeservice",
+          "context": "not with eyeservice, as men-pleasers, but as..."
+        },
+        {
+          "anchor": "EPH.4:2",
+          "word": "longsuffering",
+          "context": "...ess and gentleness, with longsuffering, bearing with one anothe..."
+        },
+        {
+          "anchor": "EPH.5:14",
+          "word": "ou",
+          "context": "..., And Christ will give y ou light.'"
+        },
+        {
+          "anchor": "EPH.6:6",
+          "word": "pleasers",
+          "context": "... with eyeservice, as men-pleasers, but as bondservants of ..."
+        }
+      ]
+    },
+    {
+      "book": "67_PHM",
+      "total_suspects": 5,
+      "suspects": [
+        {
+          "anchor": "PHM.1:2",
+          "word": "Apphia",
+          "context": "to the beloved Apphia, Archippus our fellow so..."
+        },
+        {
+          "anchor": "PHM.1:2",
+          "word": "Archippus",
+          "context": "to the beloved Apphia, Archippus our fellow soldier, and ..."
+        },
+        {
+          "anchor": "PHM.1:24",
+          "word": "Demas",
+          "context": "as do Mark, Aristarchus, Demas, Luke, my fellow laborer..."
+        },
+        {
+          "anchor": "PHM.1:23",
+          "word": "Epaphras",
+          "context": "Epaphras, my fellow prisoner in C..."
+        },
+        {
+          "anchor": "PHM.1:10",
+          "word": "Onesimus",
+          "context": "...appeal to you for my son Onesimus, whom I have begotten wh..."
+        }
+      ]
+    },
+    {
+      "book": "76_REV",
+      "total_suspects": 24,
+      "suspects": [
+        {
+          "anchor": "REV.9:11",
+          "word": "Abaddon",
+          "context": "... whose name in Hebrew is Abaddon, but in Greek he has the..."
+        },
+        {
+          "anchor": "REV.9:11",
+          "word": "Apollyon",
+          "context": "...in Greek he has the name Apollyon."
+        },
+        {
+          "anchor": "REV.1:11",
+          "word": "Laodicea",
+          "context": "... to Philadelphia, and to Laodicea.'"
+        },
+        {
+          "anchor": "REV.3:14",
+          "word": "Laodiceans",
+          "context": "...gel of the church of the Laodiceans write, 'These things say..."
+        },
+        {
+          "anchor": "REV.2:6",
+          "word": "Nicolaitans",
+          "context": "...ou hate the deeds of the Nicolaitans, which I also hate."
+        },
+        {
+          "anchor": "REV.2:15",
+          "word": "Nicolaitans",
+          "context": "...hold the doctrine of the Nicolaitans, which thing I hate."
+        },
+        {
+          "anchor": "REV.1:9",
+          "word": "Patmos",
+          "context": "...he island that is called Patmos for the word of God and ..."
+        },
+        {
+          "anchor": "REV.1:11",
+          "word": "Pergamos",
+          "context": "...o Ephesus, to Smyrna, to Pergamos, to Thyatira, to Sardis,..."
+        },
+        {
+          "anchor": "REV.2:12",
+          "word": "Pergamos",
+          "context": "...e angel of the church in Pergamos write, 'These things say..."
+        },
+        {
+          "anchor": "REV.1:11",
+          "word": "Sardis",
+          "context": "...ergamos, to Thyatira, to Sardis, to Philadelphia, and to..."
+        },
+        {
+          "anchor": "REV.3:1",
+          "word": "Sardis",
+          "context": "...e angel of the church in Sardis write, 'These things say..."
+        },
+        {
+          "anchor": "REV.3:4",
+          "word": "Sardis",
+          "context": "...u have few names even in Sardis who have not defiled the..."
+        },
+        {
+          "anchor": "REV.1:11",
+          "word": "Thyatira",
+          "context": "... Smyrna, to Pergamos, to Thyatira, to Sardis, to Philadelp..."
+        },
+        {
+          "anchor": "REV.2:18",
+          "word": "Thyatira",
+          "context": "...e angel of the church in Thyatira write, 'These things say..."
+        },
+        {
+          "anchor": "REV.2:24",
+          "word": "Thyatira",
+          "context": "... say, and to the rest in Thyatira, as many as do not have ..."
+        },
+        {
+          "anchor": "REV.21:20",
+          "word": "chrysolite",
+          "context": "...xth sardius, the seventh chrysolite, the eighth beryl, the n..."
+        },
+        {
+          "anchor": "REV.21:20",
+          "word": "chrysoprase",
+          "context": "...e ninth topaz, the tenth chrysoprase, the eleventh jacinth, a..."
+        },
+        {
+          "anchor": "REV.6:6",
+          "word": "denarius",
+          "context": "... 'A quart of wheat for a denarius, and three quarts of bar..."
+        },
+        {
+          "anchor": "REV.6:6",
+          "word": "denarius",
+          "context": "... 'A quart of wheat for a denarius, and three quarts of bar..."
+        },
+        {
+          "anchor": "REV.14:4",
+          "word": "firstfruits",
+          "context": "...ed from among men, being firstfruits to God and to the Lamb."
+        },
+        {
+          "anchor": "REV.7:7",
+          "word": "itwelve",
+          "context": "...led; of the tribe of Lev itwelve thousand were sealed; of..."
+        },
+        {
+          "anchor": "REV.21:20",
+          "word": "jacinth",
+          "context": "...hrysoprase, the eleventh jacinth, and the twelfth amethys..."
+        },
+        {
+          "anchor": "REV.2:5",
+          "word": "lampstand",
+          "context": "... quickly and remove your lampstand from its place-unless yo..."
+        },
+        {
+          "anchor": "REV.1:12",
+          "word": "lampstands",
+          "context": "...urned I saw seven golden lampstands,"
+        },
+        {
+          "anchor": "REV.1:13",
+          "word": "lampstands",
+          "context": "...n the midst of the seven lampstands One like the Son of Man,..."
+        },
+        {
+          "anchor": "REV.1:20",
+          "word": "lampstands",
+          "context": "...nd, and the seven golden lampstands: The seven stars are the..."
+        },
+        {
+          "anchor": "REV.4:3",
+          "word": "sardius",
+          "context": "...re was like jasper and a sardius stone in appearance; and..."
+        },
+        {
+          "anchor": "REV.21:20",
+          "word": "sardius",
+          "context": "...ifth sardonyx, the sixth sardius, the seventh chrysolite,..."
+        },
+        {
+          "anchor": "REV.21:20",
+          "word": "sardonyx",
+          "context": "the fifth sardonyx, the sixth sardius, the ..."
+        },
+        {
+          "anchor": "REV.18:17",
+          "word": "shipmaster",
+          "context": "... came to nothing.' Every shipmaster, all who travel by ship,..."
+        },
+        {
+          "anchor": "REV.9:21",
+          "word": "sorceries",
+          "context": "...f their murders or their sorceries or their sexual immorali..."
+        },
+        {
+          "anchor": "REV.4:5",
+          "word": "thunderings",
+          "context": "...ne proceeded lightnings, thunderings, and voices. Seven lamps..."
+        },
+        {
+          "anchor": "REV.8:5",
+          "word": "thunderings",
+          "context": ".... And there were noises, thunderings, lightnings, and an eart..."
+        },
+        {
+          "anchor": "REV.11:19",
+          "word": "thunderings",
+          "context": "...were lightnings, noises, thunderings, an earthquake, and grea..."
+        },
+        {
+          "anchor": "REV.21:22",
+          "word": "ut",
+          "context": "ut I saw no temple in it, f..."
+        },
+        {
+          "anchor": "REV.14:19",
+          "word": "winepress",
+          "context": "... threw it into the great winepress of the wrath of God."
+        },
+        {
+          "anchor": "REV.14:20",
+          "word": "winepress",
+          "context": "And the winepress was trampled outside the..."
+        },
+        {
+          "anchor": "REV.14:20",
+          "word": "winepress",
+          "context": "And the winepress was trampled outside the..."
+        }
+      ]
+    },
+    {
+      "book": "60_PHP",
+      "total_suspects": 7,
+      "suspects": [
+        {
+          "anchor": "PHP.2:25",
+          "word": "Epaphroditus",
+          "context": "...necessary to send to you Epaphroditus, my brother, fellow work..."
+        },
+        {
+          "anchor": "PHP.4:18",
+          "word": "Epaphroditus",
+          "context": "...ll, having received from Epaphroditus the things sent from you..."
+        },
+        {
+          "anchor": "PHP.4:2",
+          "word": "Euodia",
+          "context": "I implore Euodia and I implore Syntyche t..."
+        },
+        {
+          "anchor": "PHP.1:1",
+          "word": "Philippi",
+          "context": "... Christ Jesus who are in Philippi, with the bishops a and ..."
+        },
+        {
+          "anchor": "PHP.4:2",
+          "word": "Syntyche",
+          "context": "...ore Euodia and I implore Syntyche to be of the same mind i..."
+        },
+        {
+          "anchor": "PHP.4:16",
+          "word": "Thessalonica",
+          "context": "For even in Thessalonica you sent aid once and ag..."
+        },
+        {
+          "anchor": "PHP.2:7",
+          "word": "bondservant",
+          "context": "...on, taking the form of a bondservant, and coming in the liken..."
+        },
+        {
+          "anchor": "PHP.1:1",
+          "word": "bondservants",
+          "context": "Paul and Timothy, bondservants of Jesus Christ, To all ..."
+        }
+      ]
+    },
+    {
+      "book": "65_2TI",
+      "total_suspects": 26,
+      "suspects": [
+        {
+          "anchor": "2TI.4:10",
+          "word": "Crescens",
+          "context": "...eparted for Thessalonica-Crescens for Galatia, Titus for D..."
+        },
+        {
+          "anchor": "2TI.4:10",
+          "word": "Demas",
+          "context": "for Demas has forsaken me, having ..."
+        },
+        {
+          "anchor": "2TI.4:20",
+          "word": "Erastus",
+          "context": "Erastus stayed in Corinth, but T..."
+        },
+        {
+          "anchor": "2TI.4:22",
+          "word": "Eubulus",
+          "context": "Eubulus greets you, as well as P..."
+        },
+        {
+          "anchor": "2TI.1:15",
+          "word": "Hermogenes",
+          "context": "...g whom are Phygellus and Hermogenes."
+        },
+        {
+          "anchor": "2TI.2:17",
+          "word": "Hymenaeus",
+          "context": "...will spread like cancer. Hymenaeus and Philetus are of this..."
+        },
+        {
+          "anchor": "2TI.3:11",
+          "word": "Iconium",
+          "context": "...ned to me at Antioch, at Iconium, at Lystra-what persecut..."
+        },
+        {
+          "anchor": "2TI.3:8",
+          "word": "Jambres",
+          "context": "Now as Jannes and Jambres resisted Moses, so do th..."
+        },
+        {
+          "anchor": "2TI.3:8",
+          "word": "Jannes",
+          "context": "Now as Jannes and Jambres resisted Mos..."
+        },
+        {
+          "anchor": "2TI.3:11",
+          "word": "Lystra",
+          "context": "... Antioch, at Iconium, at Lystra-what persecutions I endu..."
+        },
+        {
+          "anchor": "2TI.4:20",
+          "word": "Miletus",
+          "context": "...Trophimus I have left in Miletus sick."
+        },
+        {
+          "anchor": "2TI.1:16",
+          "word": "Onesiphorus",
+          "context": "...ercy to the household of Onesiphorus, for he often refreshed ..."
+        },
+        {
+          "anchor": "2TI.4:19",
+          "word": "Onesiphorus",
+          "context": "...la, and the household of Onesiphorus."
+        },
+        {
+          "anchor": "2TI.2:17",
+          "word": "Philetus",
+          "context": "...ke cancer. Hymenaeus and Philetus are of this sort,"
+        },
+        {
+          "anchor": "2TI.1:15",
+          "word": "Phygellus",
+          "context": "... from me, among whom are Phygellus and Hermogenes."
+        },
+        {
+          "anchor": "2TI.4:19",
+          "word": "Prisca",
+          "context": "Greet Prisca and Aquila, and the hous..."
+        },
+        {
+          "anchor": "2TI.4:22",
+          "word": "Pudens",
+          "context": "...s greets you, as well as Pudens, Linus, Claudia, and all..."
+        },
+        {
+          "anchor": "2TI.4:10",
+          "word": "Thessalonica",
+          "context": "...ld, and has departed for Thessalonica-Crescens for Galatia, Ti..."
+        },
+        {
+          "anchor": "2TI.4:13",
+          "word": "Troas",
+          "context": "...at I left with Carpus at Troas when you come-and the bo..."
+        },
+        {
+          "anchor": "2TI.4:20",
+          "word": "Trophimus",
+          "context": "...s stayed in Corinth, but Trophimus I have left in Miletus s..."
+        },
+        {
+          "anchor": "2TI.4:12",
+          "word": "Tychicus",
+          "context": "And Tychicus I have sent to Ephesus."
+        },
+        {
+          "anchor": "2TI.4:22",
+          "word": "abe",
+          "context": "...n. The Lord Jesus Christ abe with your spirit. Grace ..."
+        },
+        {
+          "anchor": "2TI.2:16",
+          "word": "babblings",
+          "context": "...ut shun profane and idle babblings, for they will increase ..."
+        },
+        {
+          "anchor": "2TI.4:14",
+          "word": "coppersmith",
+          "context": "Alexander the coppersmith did me much harm. May th..."
+        },
+        {
+          "anchor": "2TI.3:3",
+          "word": "despisers",
+          "context": "...ut self-control, brutal, despisers of good,"
+        },
+        {
+          "anchor": "2TI.3:10",
+          "word": "longsuffering",
+          "context": "...of life, purpose, faith, longsuffering, love, perseverance,"
+        },
+        {
+          "anchor": "2TI.4:2",
+          "word": "longsuffering",
+          "context": "...rebuke, exhort, with all longsuffering and teaching."
+        },
+        {
+          "anchor": "2TI.3:2",
+          "word": "unthankful",
+          "context": "... disobedient to parents, unthankful, unholy,"
+        }
+      ]
+    },
+    {
+      "book": "56_1CO",
+      "total_suspects": 68,
+      "suspects": [
+        {
+          "anchor": "1CO.16:15",
+          "word": "Achaia",
+          "context": "...it is the firstfruits of Achaia, and that they have devo..."
+        },
+        {
+          "anchor": "1CO.16:17",
+          "word": "Achaicus",
+          "context": "...ephanas, Fortunatus, and Achaicus, for what was lacking on..."
+        },
+        {
+          "anchor": "1CO.1:12",
+          "word": "Cephas",
+          "context": "...of Apollos,' or 'I am of Cephas,' or 'I am of Christ.'"
+        },
+        {
+          "anchor": "1CO.3:22",
+          "word": "Cephas",
+          "context": "...ether Paul or Apollos or Cephas, or the world or life or..."
+        },
+        {
+          "anchor": "1CO.9:5",
+          "word": "Cephas",
+          "context": "...rothers of the Lord, and Cephas?"
+        },
+        {
+          "anchor": "1CO.1:14",
+          "word": "Crispus",
+          "context": "...tized none of you except Crispus and Gaius,"
+        },
+        {
+          "anchor": "1CO.16:17",
+          "word": "Fortunatus",
+          "context": "...the coming of Stephanas, Fortunatus, and Achaicus, for what ..."
+        },
+        {
+          "anchor": "1CO.1:14",
+          "word": "Gaius",
+          "context": "...f you except Crispus and Gaius,"
+        },
+        {
+          "anchor": "1CO.10:28",
+          "word": "LORD's",
+          "context": "...e; for 'the earth is the LORD's, and all its fullness.'"
+        },
+        {
+          "anchor": "1CO.1:1",
+          "word": "Sosthenes",
+          "context": "...ugh the will of God, and Sosthenes our brother, Corinthians..."
+        },
+        {
+          "anchor": "1CO.1:16",
+          "word": "Stephanas",
+          "context": "...aptized the household of Stephanas. Besides, I do not know ..."
+        },
+        {
+          "anchor": "1CO.16:15",
+          "word": "Stephanas",
+          "context": "...ou know the household of Stephanas, that it is the firstfru..."
+        },
+        {
+          "anchor": "1CO.16:17",
+          "word": "Stephanas",
+          "context": "...glad about the coming of Stephanas, Fortunatus, and Achaicu..."
+        },
+        {
+          "anchor": "1CO.5:1",
+          "word": "aamong",
+          "context": "...ity as is not even named aamong the Gentiles-that a man ..."
+        },
+        {
+          "anchor": "1CO.15:38",
+          "word": "abody",
+          "context": "But God gives it abody as He pleases, and to ea..."
+        },
+        {
+          "anchor": "1CO.13:1",
+          "word": "aclanging",
+          "context": "...become sounding brass or aclanging cymbal."
+        },
+        {
+          "anchor": "1CO.7:6",
+          "word": "aconcession",
+          "context": "But I say this as aconcession, not as a commandment."
+        },
+        {
+          "anchor": "1CO.16:12",
+          "word": "aconvenient",
+          "context": "...he will come when he has aconvenient time."
+        },
+        {
+          "anchor": "1CO.7:34",
+          "word": "adifference",
+          "context": "There is a adifference between awife and a virg..."
+        },
+        {
+          "anchor": "1CO.11:14",
+          "word": "adishonor",
+          "context": "...man has long hair, it is adishonor to him?"
+        },
+        {
+          "anchor": "1CO.14:7",
+          "word": "adistinction",
+          "context": "...asound, unless they make adistinction in the sounds, how will ..."
+        },
+        {
+          "anchor": "1CO.5:11",
+          "word": "adrunkard",
+          "context": "...dolater, or areviler, or adrunkard, or an extortioner-not e..."
+        },
+        {
+          "anchor": "1CO.11:29",
+          "word": "aeats",
+          "context": "...ks in an unworthy manner aeats and drinks judgment to h..."
+        },
+        {
+          "anchor": "1CO.9:7",
+          "word": "aflock",
+          "context": "... its fruit? Or who tends aflock and does not drink of th..."
+        },
+        {
+          "anchor": "1CO.3:18",
+          "word": "afool",
+          "context": "...this age, let him become afool that he may become wise."
+        },
+        {
+          "anchor": "1CO.1:23",
+          "word": "afoolishness",
+          "context": "... block and to the Greeks afoolishness,"
+        },
+        {
+          "anchor": "1CO.14:11",
+          "word": "aforeigner",
+          "context": "...the language, I shall be aforeigner to him who speaks, and h..."
+        },
+        {
+          "anchor": "1CO.14:11",
+          "word": "aforeigner",
+          "context": "...the language, I shall be aforeigner to him who speaks, and h..."
+        },
+        {
+          "anchor": "1CO.12:31",
+          "word": "agifts",
+          "context": "...arnestly desire the best agifts. And yet I show you more..."
+        },
+        {
+          "anchor": "1CO.6:15",
+          "word": "aharlot",
+          "context": "...and make them members of aharlot? Certainly not!"
+        },
+        {
+          "anchor": "1CO.6:16",
+          "word": "aharlot",
+          "context": "...that he who is joined to aharlot is one body with her? Fo..."
+        },
+        {
+          "anchor": "1CO.16:21",
+          "word": "aholy",
+          "context": "Greet one another with aholy kiss. The salutation wit..."
+        },
+        {
+          "anchor": "1CO.7:11",
+          "word": "ahusband",
+          "context": "...iled to her husband. And ahusband is not to divorce his wi..."
+        },
+        {
+          "anchor": "1CO.7:13",
+          "word": "ahusband",
+          "context": "And a woman who has ahusband who does not believe, if..."
+        },
+        {
+          "anchor": "1CO.7:35",
+          "word": "aleash",
+          "context": "...ofit, not that I may put aleash on you, but for what is ..."
+        },
+        {
+          "anchor": "1CO.15:45",
+          "word": "alife",
+          "context": "...ng.'The last Adam became alife-giving spirit."
+        },
+        {
+          "anchor": "1CO.6:1",
+          "word": "amatter",
+          "context": "Dare any of you, having amatter against another, go to l..."
+        },
+        {
+          "anchor": "1CO.9:8",
+          "word": "amere",
+          "context": "Do I say these things as amere man? Or does not the law..."
+        },
+        {
+          "anchor": "1CO.13:12",
+          "word": "amirror",
+          "context": "For now we see in amirror, dimly, but then face to..."
+        },
+        {
+          "anchor": "1CO.15:52",
+          "word": "amoment",
+          "context": "in amoment, in the twinkling of an ..."
+        },
+        {
+          "anchor": "1CO.2:7",
+          "word": "amystery",
+          "context": "...eak the wisdom of God in amystery, the hidden wisdom which..."
+        },
+        {
+          "anchor": "1CO.15:51",
+          "word": "amystery",
+          "context": "Behold, I tell you amystery: We shall not all sleep,..."
+        },
+        {
+          "anchor": "1CO.6:9",
+          "word": "anor",
+          "context": "...terers, nor homosexuals, anor sodomites,"
+        },
+        {
+          "anchor": "1CO.5:5",
+          "word": "aone",
+          "context": "deliver such aone to Satan for the destruc..."
+        },
+        {
+          "anchor": "1CO.12:13",
+          "word": "aone",
+          "context": "... been made to drink into aone Spirit."
+        },
+        {
+          "anchor": "1CO.9:25",
+          "word": "aperishable",
+          "context": "...Now they do it to obtain aperishable crown, but we for an imp..."
+        },
+        {
+          "anchor": "1CO.6:20",
+          "word": "aprice",
+          "context": "For you were bought at aprice; therefore glorify God i..."
+        },
+        {
+          "anchor": "1CO.7:23",
+          "word": "aprice",
+          "context": "You were bought at aprice; do not become slaves of..."
+        },
+        {
+          "anchor": "1CO.14:37",
+          "word": "aprophet",
+          "context": "...one thinks himself to be aprophet or spiritual, let him ac..."
+        },
+        {
+          "anchor": "1CO.14:26",
+          "word": "apsalm",
+          "context": "...ogether, each of you has apsalm, has ateaching, has a to..."
+        },
+        {
+          "anchor": "1CO.9:24",
+          "word": "arace",
+          "context": "...ow that those who run in arace all run, but one receive..."
+        },
+        {
+          "anchor": "1CO.5:11",
+          "word": "areviler",
+          "context": "...tous, or an idolater, or areviler, or adrunkard, or an ext..."
+        },
+        {
+          "anchor": "1CO.3:14",
+          "word": "areward",
+          "context": "...endures, he will receive areward."
+        },
+        {
+          "anchor": "1CO.9:17",
+          "word": "areward",
+          "context": "...o this willingly, I have areward; but if against my will,..."
+        },
+        {
+          "anchor": "1CO.7:15",
+          "word": "asister",
+          "context": "...t him depart; brother or asister is not under bondage in ..."
+        },
+        {
+          "anchor": "1CO.14:7",
+          "word": "asound",
+          "context": "... or harp, when they make asound, unless they make adisti..."
+        },
+        {
+          "anchor": "1CO.4:9",
+          "word": "aspectacle",
+          "context": "...h; for we have been made aspectacle to the world, both to an..."
+        },
+        {
+          "anchor": "1CO.9:17",
+          "word": "astewardship",
+          "context": "...have been entrusted with astewardship."
+        },
+        {
+          "anchor": "1CO.11:10",
+          "word": "asymbol",
+          "context": "... the woman ought to have asymbol of authority on her head..."
+        },
+        {
+          "anchor": "1CO.14:26",
+          "word": "ateaching",
+          "context": "...h of you has apsalm, has ateaching, has a tongue, has a rev..."
+        },
+        {
+          "anchor": "1CO.8:7",
+          "word": "athing",
+          "context": "...dol, until now eat it as athing offered to an idol; and ..."
+        },
+        {
+          "anchor": "1CO.9:7",
+          "word": "avineyard",
+          "context": "... own expense? Who plants avineyard and does not eat of its ..."
+        },
+        {
+          "anchor": "1CO.7:12",
+          "word": "awife",
+          "context": "... say: If any brother has awife who does not believe, an..."
+        },
+        {
+          "anchor": "1CO.7:27",
+          "word": "awife",
+          "context": "Are you bound to awife? Do not seek to be loose..."
+        },
+        {
+          "anchor": "1CO.7:27",
+          "word": "awife",
+          "context": "Are you bound to awife? Do not seek to be loose..."
+        },
+        {
+          "anchor": "1CO.2:4",
+          "word": "awisdom",
+          "context": "...ersuasive words of human awisdom, but in demonstration of..."
+        },
+        {
+          "anchor": "1CO.9:18",
+          "word": "awithout",
+          "context": "...ent the gospel of Christ awithout charge, that I may not a..."
+        },
+        {
+          "anchor": "1CO.14:34",
+          "word": "awomen",
+          "context": "Let your awomen keep silent in the churc..."
+        },
+        {
+          "anchor": "1CO.11:29",
+          "word": "bbody",
+          "context": "...ot discerning the Lord's bbody."
+        },
+        {
+          "anchor": "1CO.15:20",
+          "word": "firstfruits",
+          "context": "...dead, and has become the firstfruits of those who have fallen..."
+        },
+        {
+          "anchor": "1CO.15:23",
+          "word": "firstfruits",
+          "context": "...is own order: Christ the firstfruits, afterward those who are..."
+        },
+        {
+          "anchor": "1CO.16:15",
+          "word": "firstfruits",
+          "context": "...tephanas, that it is the firstfruits of Achaia, and that they..."
+        },
+        {
+          "anchor": "1CO.12:9",
+          "word": "healings",
+          "context": "...rit, to another gifts of healings by the same a Spirit,"
+        },
+        {
+          "anchor": "1CO.12:28",
+          "word": "healings",
+          "context": "... miracles, then gifts of healings, helps, administrations,..."
+        },
+        {
+          "anchor": "1CO.12:30",
+          "word": "healings",
+          "context": "Do all have gifts of healings? Do all speak with tongu..."
+        },
+        {
+          "anchor": "1CO.15:42",
+          "word": "incorruption",
+          "context": "...ruption, it is raised in incorruption."
+        },
+        {
+          "anchor": "1CO.15:50",
+          "word": "incorruption",
+          "context": "... does corruption inherit incorruption."
+        },
+        {
+          "anchor": "1CO.15:53",
+          "word": "incorruption",
+          "context": "... corruptible must put on incorruption, and this mortal must pu..."
+        },
+        {
+          "anchor": "1CO.4:13",
+          "word": "offscouring",
+          "context": "... filth of the world, the offscouring of all things until now."
+        },
+        {
+          "anchor": "1CO.4:6",
+          "word": "sakes",
+          "context": "...elf and Apollos for your sakes, that you may learn in u..."
+        },
+        {
+          "anchor": "1CO.9:10",
+          "word": "sakes",
+          "context": "...ay it altogether for our sakes? For our sakes, no doubt..."
+        },
+        {
+          "anchor": "1CO.9:10",
+          "word": "sakes",
+          "context": "...ay it altogether for our sakes? For our sakes, no doubt..."
+        },
+        {
+          "anchor": "1CO.7:5",
+          "word": "selfcontrol",
+          "context": "... because of your lack of selfcontrol."
+        },
+        {
+          "anchor": "1CO.11:6",
+          "word": "shorn",
+          "context": "...covered, let her also be shorn. But if it is shameful f..."
+        },
+        {
+          "anchor": "1CO.11:6",
+          "word": "shorn",
+          "context": "...covered, let her also be shorn. But if it is shameful f..."
+        },
+        {
+          "anchor": "1CO.1:2",
+          "word": "the's",
+          "context": "... one before Corinthians (the's orrowful' letter; see 2C..."
+        },
+        {
+          "anchor": "1CO.7:19",
+          "word": "uncircumcision",
+          "context": "...cumcision is nothing and uncircumcision is nothing, but keeping ..."
+        },
+        {
+          "anchor": "1CO.12:23",
+          "word": "unpresentable",
+          "context": "...w greater honor; and our unpresentable parts have greater modes..."
+        },
+        {
+          "anchor": "1CO.7:33",
+          "word": "worldhow",
+          "context": "... about the things of the worldhow he may please his wife."
+        }
+      ]
+    },
+    {
+      "book": "54_ACT",
+      "total_suspects": 105,
+      "suspects": [
+        {
+          "anchor": "ACT.18:12",
+          "word": "Achaia",
+          "context": "... Gallio was proconsul of Achaia, the Jews with one accor..."
+        },
+        {
+          "anchor": "ACT.18:27",
+          "word": "Achaia",
+          "context": "...n he desired to cross to Achaia, the brethren wrote, exh..."
+        },
+        {
+          "anchor": "ACT.19:21",
+          "word": "Achaia",
+          "context": "...ed through Macedonia and Achaia, to go to Jerusalem, say..."
+        },
+        {
+          "anchor": "ACT.27:2",
+          "word": "Adramyttium",
+          "context": "So, entering a ship of Adramyttium, we put to sea, meaning ..."
+        },
+        {
+          "anchor": "ACT.11:28",
+          "word": "Agabus",
+          "context": "Then one of them, named Agabus, stood up and showed by ..."
+        },
+        {
+          "anchor": "ACT.21:10",
+          "word": "Agabus",
+          "context": "... a certain prophet named Agabus came down from Judea."
+        },
+        {
+          "anchor": "ACT.1:19",
+          "word": "Akel",
+          "context": "...d in their own language, Akel Dama, that is, Field of ..."
+        },
+        {
+          "anchor": "ACT.1:13",
+          "word": "Alphaeus",
+          "context": "...atthew; James the son of Alphaeus and Simon the Zealot; an..."
+        },
+        {
+          "anchor": "ACT.17:1",
+          "word": "Amphipolis",
+          "context": "... they had passed through Amphipolis and Apollonia, they came..."
+        },
+        {
+          "anchor": "ACT.4:6",
+          "word": "Annas",
+          "context": "as well as Annas the high priest, Caiapha..."
+        },
+        {
+          "anchor": "ACT.23:31",
+          "word": "Antipatris",
+          "context": "... brought him by night to Antipatris."
+        },
+        {
+          "anchor": "ACT.17:1",
+          "word": "Apollonia",
+          "context": "...d through Amphipolis and Apollonia, they came to Thessaloni..."
+        },
+        {
+          "anchor": "ACT.28:15",
+          "word": "Appii",
+          "context": "...ame to meet us as far as Appii Forum and Three Inns. Wh..."
+        },
+        {
+          "anchor": "ACT.17:34",
+          "word": "Areopagite",
+          "context": "...among them Dionysius the Areopagite, a woman named Damaris, ..."
+        },
+        {
+          "anchor": "ACT.17:19",
+          "word": "Areopagus",
+          "context": "...m and brought him to the Areopagus, saying, 'May we know wh..."
+        },
+        {
+          "anchor": "ACT.17:22",
+          "word": "Areopagus",
+          "context": "...tood in the midst of the Areopagus and said, 'Men of Athens..."
+        },
+        {
+          "anchor": "ACT.20:13",
+          "word": "Assos",
+          "context": "...o the ship and sailed to Assos, there intending to take..."
+        },
+        {
+          "anchor": "ACT.20:14",
+          "word": "Assos",
+          "context": "And when he met us at Assos, we took him on board an..."
+        },
+        {
+          "anchor": "ACT.14:25",
+          "word": "Attalia",
+          "context": "...Perga, they went down to Attalia."
+        },
+        {
+          "anchor": "ACT.1:23",
+          "word": "Barsabas",
+          "context": "...posed two: Joseph called Barsabas, who was surnamed Justus..."
+        },
+        {
+          "anchor": "ACT.15:22",
+          "word": "Barsabas",
+          "context": "...Judas who was also named Barsabas, and Silas, leading men ..."
+        },
+        {
+          "anchor": "ACT.16:7",
+          "word": "Bithynia",
+          "context": "...a, they tried to go into Bithynia, but the Spirit did not ..."
+        },
+        {
+          "anchor": "ACT.12:20",
+          "word": "Blastus",
+          "context": "... accord, and having made Blastus the king's personal aide..."
+        },
+        {
+          "anchor": "ACT.8:40",
+          "word": "Caesarea",
+          "context": "...e cities till he came to Caesarea."
+        },
+        {
+          "anchor": "ACT.9:30",
+          "word": "Caesarea",
+          "context": "...they brought him down to Caesarea and sent him out to Tars..."
+        },
+        {
+          "anchor": "ACT.10:1",
+          "word": "Caesarea",
+          "context": "...ere was a certain man in Caesarea called Cornelius, a cent..."
+        },
+        {
+          "anchor": "ACT.18:18",
+          "word": "Cenchrea",
+          "context": "... had his hair cut off at Cenchrea, for he had taken avow."
+        },
+        {
+          "anchor": "ACT.20:15",
+          "word": "Chios",
+          "context": "...e next day came opposite Chios. The following day we ar..."
+        },
+        {
+          "anchor": "ACT.27:16",
+          "word": "Clauda",
+          "context": "...lter of an island called Clauda, awe secured the skiff w..."
+        },
+        {
+          "anchor": "ACT.18:8",
+          "word": "Crispus",
+          "context": "Then Crispus, the ruler of the synago..."
+        },
+        {
+          "anchor": "ACT.6:9",
+          "word": "Cyrenians",
+          "context": "...nagogue of the Freedmen (Cyrenians, Alexandrians, and those..."
+        },
+        {
+          "anchor": "ACT.1:19",
+          "word": "Dama",
+          "context": "...their own language, Akel Dama, that is, Field of Blood..."
+        },
+        {
+          "anchor": "ACT.17:34",
+          "word": "Damaris",
+          "context": "...reopagite, a woman named Damaris, and others with them."
+        },
+        {
+          "anchor": "ACT.14:6",
+          "word": "Derbe",
+          "context": "...t and fled to Lystra and Derbe, cities of Lycaonia, and..."
+        },
+        {
+          "anchor": "ACT.14:20",
+          "word": "Derbe",
+          "context": "...eparted with Barnabas to Derbe."
+        },
+        {
+          "anchor": "ACT.16:1",
+          "word": "Derbe",
+          "context": "Then he came to Derbe and Lystra. And behold, ..."
+        },
+        {
+          "anchor": "ACT.17:34",
+          "word": "Dionysius",
+          "context": "...and believed, among them Dionysius the Areopagite, a woman ..."
+        },
+        {
+          "anchor": "ACT.24:24",
+          "word": "Drusilla",
+          "context": "...Felix came with his wife Drusilla, who was Jewish, he sent..."
+        },
+        {
+          "anchor": "ACT.13:8",
+          "word": "Elymas",
+          "context": "But Elymas the sorcerer (for so his..."
+        },
+        {
+          "anchor": "ACT.19:22",
+          "word": "Erastus",
+          "context": "...ered to him, Timothy and Erastus, but he himself stayed i..."
+        },
+        {
+          "anchor": "ACT.27:14",
+          "word": "Euroclydon",
+          "context": "... head wind arose, called Euroclydon."
+        },
+        {
+          "anchor": "ACT.20:9",
+          "word": "Eutychus",
+          "context": "... certain young man named Eutychus, who was sinking into a ..."
+        },
+        {
+          "anchor": "ACT.24:27",
+          "word": "Festus",
+          "context": "... after two years Porcius Festus succeeded Felix; and Fel..."
+        },
+        {
+          "anchor": "ACT.25:1",
+          "word": "Festus",
+          "context": "Now when Festus had come to the province..."
+        },
+        {
+          "anchor": "ACT.25:4",
+          "word": "Festus",
+          "context": "But Festus answered that Paul shoul..."
+        },
+        {
+          "anchor": "ACT.19:29",
+          "word": "Gaius",
+          "context": "...ne accord, having seized Gaius and Aristarchus, Macedon..."
+        },
+        {
+          "anchor": "ACT.20:4",
+          "word": "Gaius",
+          "context": "...f the Thessalonians, and Gaius of Derbe, and Timothy, a..."
+        },
+        {
+          "anchor": "ACT.18:12",
+          "word": "Gallio",
+          "context": "When Gallio was proconsul of Achaia,..."
+        },
+        {
+          "anchor": "ACT.18:14",
+          "word": "Gallio",
+          "context": "...about to open his mouth, Gallio said to the Jews, 'If it..."
+        },
+        {
+          "anchor": "ACT.18:17",
+          "word": "Gallio",
+          "context": "...e the judgment seat. But Gallio took no notice of these ..."
+        },
+        {
+          "anchor": "ACT.6:1",
+          "word": "Hellenists",
+          "context": "...ainst the Hebrews by the Hellenists, because their widows we..."
+        },
+        {
+          "anchor": "ACT.9:29",
+          "word": "Hellenists",
+          "context": "...and disputed against the Hellenists, but they attempted to k..."
+        },
+        {
+          "anchor": "ACT.11:20",
+          "word": "Hellenists",
+          "context": "...to Antioch, spoke to the Hellenists, preaching the Lord Jesu..."
+        },
+        {
+          "anchor": "ACT.13:51",
+          "word": "Iconium",
+          "context": "...gainst them, and came to Iconium."
+        },
+        {
+          "anchor": "ACT.14:1",
+          "word": "Iconium",
+          "context": "Now it happened in Iconium that they went together ..."
+        },
+        {
+          "anchor": "ACT.14:19",
+          "word": "Iconium",
+          "context": "...en Jews from Antioch and Iconium came there; and having p..."
+        },
+        {
+          "anchor": "ACT.4:36",
+          "word": "Joses",
+          "context": "And Joses, who was also named Barn..."
+        },
+        {
+          "anchor": "ACT.1:23",
+          "word": "Justus",
+          "context": "...rsabas, who was surnamed Justus, and Matthias."
+        },
+        {
+          "anchor": "ACT.18:7",
+          "word": "Justus",
+          "context": "...e of a certain man named Justus, a one who worshiped God..."
+        },
+        {
+          "anchor": "ACT.27:8",
+          "word": "Lasea",
+          "context": "...Havens, near the city of Lasea."
+        },
+        {
+          "anchor": "ACT.23:26",
+          "word": "Ly",
+          "context": "Claudius Ly sias, To the most excell..."
+        },
+        {
+          "anchor": "ACT.14:6",
+          "word": "Lycaonia",
+          "context": "...tra and Derbe, cities of Lycaonia, and to the surrounding ..."
+        },
+        {
+          "anchor": "ACT.14:11",
+          "word": "Lycaonian",
+          "context": "...ir voices, saying in the Lycaonian language, 'The gods have..."
+        },
+        {
+          "anchor": "ACT.14:6",
+          "word": "Lystra",
+          "context": "... aware of it and fled to Lystra and Derbe, cities of Lyc..."
+        },
+        {
+          "anchor": "ACT.14:8",
+          "word": "Lystra",
+          "context": "And in Lystra a certain man without st..."
+        },
+        {
+          "anchor": "ACT.14:21",
+          "word": "Lystra",
+          "context": "...ciples, they returned to Lystra, Iconium, and Antioch,"
+        },
+        {
+          "anchor": "ACT.13:1",
+          "word": "Manaen",
+          "context": "...Niger, Lucius of Cyrene, Manaen who had been brought up ..."
+        },
+        {
+          "anchor": "ACT.20:15",
+          "word": "Miletus",
+          "context": "... The next day we came to Miletus."
+        },
+        {
+          "anchor": "ACT.20:17",
+          "word": "Miletus",
+          "context": "From Miletus he sent to Ephesus and c..."
+        },
+        {
+          "anchor": "ACT.20:14",
+          "word": "Mitylene",
+          "context": "...him on board and came to Mitylene."
+        },
+        {
+          "anchor": "ACT.21:16",
+          "word": "Mnason",
+          "context": "...ught with them a certain Mnason of Cyprus, an early disc..."
+        },
+        {
+          "anchor": "ACT.16:7",
+          "word": "Mysia",
+          "context": "After they had come to Mysia, they tried to go into B..."
+        },
+        {
+          "anchor": "ACT.16:8",
+          "word": "Mysia",
+          "context": "So passing by Mysia, they came down to Troas..."
+        },
+        {
+          "anchor": "ACT.24:5",
+          "word": "Nazarenes",
+          "context": "...eader of the sect of the Nazarenes."
+        },
+        {
+          "anchor": "ACT.16:11",
+          "word": "Neapolis",
+          "context": "...and the next day came to Neapolis,"
+        },
+        {
+          "anchor": "ACT.1:12",
+          "word": "Olivet",
+          "context": "...em from the mount called Olivet, which is near Jerusalem..."
+        },
+        {
+          "anchor": "ACT.13:6",
+          "word": "Paphos",
+          "context": "...ne through the island to Paphos, they found a certain so..."
+        },
+        {
+          "anchor": "ACT.13:13",
+          "word": "Paphos",
+          "context": "... his party set sail from Paphos, they came to Perga in P..."
+        },
+        {
+          "anchor": "ACT.6:5",
+          "word": "Parmenas",
+          "context": "...ochorus, Nicanor, Timon, Parmenas, and Nicolas, a proselyt..."
+        },
+        {
+          "anchor": "ACT.2:9",
+          "word": "Parthians",
+          "context": "Parthians and Medes and Elamites, ..."
+        },
+        {
+          "anchor": "ACT.21:1",
+          "word": "Patara",
+          "context": "...hodes, and from there to Patara."
+        },
+        {
+          "anchor": "ACT.13:7",
+          "word": "Paulus",
+          "context": "...h the proconsul, Sergius Paulus, an intelligent man. Thi..."
+        },
+        {
+          "anchor": "ACT.13:13",
+          "word": "Perga",
+          "context": "...rom Paphos, they came to Perga in Pamphylia; and John, ..."
+        },
+        {
+          "anchor": "ACT.13:14",
+          "word": "Perga",
+          "context": "... when they departed from Perga, they came to Antioch in..."
+        },
+        {
+          "anchor": "ACT.14:25",
+          "word": "Perga",
+          "context": "...had preached the word in Perga, they went down to Attal..."
+        },
+        {
+          "anchor": "ACT.16:12",
+          "word": "Philippi",
+          "context": "and from there to Philippi, which is the foremost c..."
+        },
+        {
+          "anchor": "ACT.20:6",
+          "word": "Philippi",
+          "context": "But we sailed away from Philippi after the Days of Unleav..."
+        },
+        {
+          "anchor": "ACT.13:14",
+          "word": "Pisidia",
+          "context": "... they came to Antioch in Pisidia, and went into the synag..."
+        },
+        {
+          "anchor": "ACT.14:24",
+          "word": "Pisidia",
+          "context": "... they had passed through Pisidia, they came to Pamphylia."
+        },
+        {
+          "anchor": "ACT.4:27",
+          "word": "Pontius",
+          "context": "...anointed, both Herod and Pontius Pilate, with the Gentile..."
+        },
+        {
+          "anchor": "ACT.2:9",
+          "word": "Pontus",
+          "context": "...a, Judea and Cappadocia, Pontus and Asia,"
+        },
+        {
+          "anchor": "ACT.18:2",
+          "word": "Pontus",
+          "context": "...ew named Aquila, born in Pontus, who had recently come f..."
+        },
+        {
+          "anchor": "ACT.24:27",
+          "word": "Porcius",
+          "context": "But after two years Porcius Festus succeeded Felix; ..."
+        },
+        {
+          "anchor": "ACT.23:35",
+          "word": "Praetorium",
+          "context": "...im to be kept in Herod's Praetorium."
+        },
+        {
+          "anchor": "ACT.6:5",
+          "word": "Prochorus",
+          "context": "...Holy Spirit, and Philip, Prochorus, Nicanor, Timon, Parmena..."
+        },
+        {
+          "anchor": "ACT.28:7",
+          "word": "Publius",
+          "context": "...e island, whose name was Publius, who received us and ent..."
+        },
+        {
+          "anchor": "ACT.28:8",
+          "word": "Publius",
+          "context": "...pened that the father of Publius lay sick of a fever and ..."
+        },
+        {
+          "anchor": "ACT.28:13",
+          "word": "Puteoli",
+          "context": "... the next day we came to Puteoli,"
+        },
+        {
+          "anchor": "ACT.7:43",
+          "word": "Remphan",
+          "context": "...And the star of your god Remphan, Images which you made t..."
+        },
+        {
+          "anchor": "ACT.28:13",
+          "word": "Rhegium",
+          "context": "...ircled round and reached Rhegium. And after one day the s..."
+        },
+        {
+          "anchor": "ACT.4:1",
+          "word": "Sadducees",
+          "context": "...n of the temple, and the Sadducees came upon them,"
+        },
+        {
+          "anchor": "ACT.5:17",
+          "word": "Sadducees",
+          "context": "...which is the sect of the Sadducees), and they were filled w..."
+        },
+        {
+          "anchor": "ACT.23:6",
+          "word": "Sadducees",
+          "context": "...eived that one part were Sadducees and the other Pharisees,..."
+        },
+        {
+          "anchor": "ACT.27:7",
+          "word": "Salmone",
+          "context": "...the shelter of Crete off Salmone."
+        },
+        {
+          "anchor": "ACT.16:11",
+          "word": "Samothrace",
+          "context": "...ran a straight course to Samothrace, and the next day came t..."
+        },
+        {
+          "anchor": "ACT.5:1",
+          "word": "Sapphira",
+          "context": "... man named Ananias, with Sapphira his wife, sold a possess..."
+        },
+        {
+          "anchor": "ACT.19:14",
+          "word": "Sceva",
+          "context": "...there were seven sons of Sceva, Jewish chief priest, wh..."
+        },
+        {
+          "anchor": "ACT.20:4",
+          "word": "Secundus",
+          "context": "...sia-also Aristarchus and Secundus of the Thessalonians, an..."
+        },
+        {
+          "anchor": "ACT.13:7",
+          "word": "Sergius",
+          "context": "... was with the proconsul, Sergius Paulus, an intelligent m..."
+        },
+        {
+          "anchor": "ACT.20:4",
+          "word": "Sopater",
+          "context": "And Sopater of Berea accompanied him..."
+        },
+        {
+          "anchor": "ACT.18:17",
+          "word": "Sosthenes",
+          "context": "Then all the Greeks took Sosthenes, the ruler of the synago..."
+        },
+        {
+          "anchor": "ACT.15:23",
+          "word": "Sy",
+          "context": "...the Gentiles in Antioch, Sy ria, and Cilicia: Greeti..."
+        },
+        {
+          "anchor": "ACT.27:17",
+          "word": "Syrtis",
+          "context": "...hould run aground on the Syrtis a Sands, they struck sai..."
+        },
+        {
+          "anchor": "ACT.24:1",
+          "word": "Tertullus",
+          "context": "...d a certain orator named Tertullus. These gave evidence to ..."
+        },
+        {
+          "anchor": "ACT.24:2",
+          "word": "Tertullus",
+          "context": "...when he was called upon, Tertullus began his accusation, sa..."
+        },
+        {
+          "anchor": "ACT.1:1",
+          "word": "Theophilus",
+          "context": "...former account I made, O Theophilus, of all that Jesus began..."
+        },
+        {
+          "anchor": "ACT.17:1",
+          "word": "Thessalonica",
+          "context": "... Apollonia, they came to Thessalonica, where there was a synag..."
+        },
+        {
+          "anchor": "ACT.17:11",
+          "word": "Thessalonica",
+          "context": "...air-minded than those in Thessalonica, in that they received t..."
+        },
+        {
+          "anchor": "ACT.17:13",
+          "word": "Thessalonica",
+          "context": "But when the Jews from Thessalonica learned that the word of..."
+        },
+        {
+          "anchor": "ACT.5:36",
+          "word": "Theudas",
+          "context": "For some time ago Theudas rose up, claiming to be ..."
+        },
+        {
+          "anchor": "ACT.16:14",
+          "word": "Thyatira",
+          "context": "... purple from the city of Thyatira, who worshiped God. The ..."
+        },
+        {
+          "anchor": "ACT.16:8",
+          "word": "Troas",
+          "context": "...Mysia, they came down to Troas."
+        },
+        {
+          "anchor": "ACT.16:11",
+          "word": "Troas",
+          "context": "Therefore, sailing from Troas, we ran a straight cours..."
+        },
+        {
+          "anchor": "ACT.20:5",
+          "word": "Troas",
+          "context": "... ahead, waited for us at Troas."
+        },
+        {
+          "anchor": "ACT.20:15",
+          "word": "Trogyllium",
+          "context": "...d at Samos and stayed at Trogyllium. The next day we came to..."
+        },
+        {
+          "anchor": "ACT.20:4",
+          "word": "Trophimus",
+          "context": "...imothy, and Tychicus and Trophimus of Asia."
+        },
+        {
+          "anchor": "ACT.21:29",
+          "word": "Trophimus",
+          "context": "...they had previously seen Trophimus the Ephesian with him in..."
+        },
+        {
+          "anchor": "ACT.20:4",
+          "word": "Tychicus",
+          "context": "... Derbe, and Timothy, and Tychicus and Trophimus of Asia."
+        },
+        {
+          "anchor": "ACT.19:9",
+          "word": "Tyrannus",
+          "context": "...g daily in the school of Tyrannus."
+        },
+        {
+          "anchor": "ACT.20:24",
+          "word": "aso",
+          "context": "... my life dear to myself, aso that I may finish my rac..."
+        },
+        {
+          "anchor": "ACT.19:16",
+          "word": "bso",
+          "context": "... prevailed against them, bso that they fled out of th..."
+        },
+        {
+          "anchor": "ACT.13:41",
+          "word": "despisers",
+          "context": "'Behold, you despisers, Marvel and perish!"
+        },
+        {
+          "anchor": "ACT.17:26",
+          "word": "preappointed",
+          "context": "...and has determined their preappointed times and the boundaries..."
+        },
+        {
+          "anchor": "ACT.17:19",
+          "word": "proclaimer",
+          "context": "... said, 'He seems to be a proclaimer of foreign gods,' becaus..."
+        },
+        {
+          "anchor": "ACT.15:23",
+          "word": "ria",
+          "context": "... Gentiles in Antioch, Sy ria, and Cilicia: Greetings."
+        },
+        {
+          "anchor": "ACT.23:26",
+          "word": "sias",
+          "context": "Claudius Ly sias, To the most excellent g..."
+        },
+        {
+          "anchor": "ACT.8:11",
+          "word": "sorceries",
+          "context": "...astonished them with his sorceries for a long time."
+        },
+        {
+          "anchor": "ACT.23:23",
+          "word": "spearmen",
+          "context": "...orsemen, and two hundred spearmen to go to Caesarea at the..."
+        },
+        {
+          "anchor": "ACT.1:23",
+          "word": "surnamed",
+          "context": "...called Barsabas, who was surnamed Justus, and Matthias."
+        },
+        {
+          "anchor": "ACT.18:3",
+          "word": "tentmakers",
+          "context": "... by occupation they were tentmakers."
+        },
+        {
+          "anchor": "ACT.13:1",
+          "word": "tetrarch",
+          "context": "...rought up with Herod the tetrarch, and Saul."
+        },
+        {
+          "anchor": "ACT.4:11",
+          "word": "the's",
+          "context": "This is the's tone which was rejected ..."
+        },
+        {
+          "anchor": "ACT.16:37",
+          "word": "uncondemned",
+          "context": "...y have beaten us openly, uncondemned Romans, and have thrown ..."
+        },
+        {
+          "anchor": "ACT.22:25",
+          "word": "uncondemned",
+          "context": "... man who is a Roman, and uncondemned?'"
+        },
+        {
+          "anchor": "ACT.27:17",
+          "word": "undergird",
+          "context": "...ard, they used cables to undergird the ship; and fearing le..."
+        }
+      ]
+    },
+    {
+      "book": "57_2CO",
+      "total_suspects": 12,
+      "suspects": [
+        {
+          "anchor": "2CO.1:1",
+          "word": "Achaia",
+          "context": "...he saints who are in all Achaia:"
+        },
+        {
+          "anchor": "2CO.9:2",
+          "word": "Achaia",
+          "context": "...to the Macedonians, that Achaia was ready a year ago; an..."
+        },
+        {
+          "anchor": "2CO.11:10",
+          "word": "Achaia",
+          "context": "...asting in the regions of Achaia."
+        },
+        {
+          "anchor": "2CO.6:15",
+          "word": "Belial",
+          "context": "...t accord has Christ with Belial? Or what part has a beli..."
+        },
+        {
+          "anchor": "2CO.11:32",
+          "word": "Damascenes",
+          "context": "...guarding the city of the Damascenes with a garrison, desirin..."
+        },
+        {
+          "anchor": "2CO.1:19",
+          "word": "Silvanus",
+          "context": "...d among you by us-by me, Silvanus, and Timothy -was not Ye..."
+        },
+        {
+          "anchor": "2CO.2:12",
+          "word": "Troas",
+          "context": "...thermore, when I came to Troas to preach Christ's gospe..."
+        },
+        {
+          "anchor": "2CO.12:20",
+          "word": "backbitings",
+          "context": "...rath, selfish ambitions, backbitings, whisperings, conceits, ..."
+        },
+        {
+          "anchor": "2CO.4:5",
+          "word": "bondservants",
+          "context": "...Lord, and ourselves your bondservants for Jesus' sake."
+        },
+        {
+          "anchor": "2CO.6:5",
+          "word": "fastings",
+          "context": "...rs, in sleeplessness, in fastings;"
+        },
+        {
+          "anchor": "2CO.11:27",
+          "word": "fastings",
+          "context": "...in hunger and thirst, in fastings often, in cold and naked..."
+        },
+        {
+          "anchor": "2CO.6:6",
+          "word": "longsuffering",
+          "context": "...purity, by knowledge, by longsuffering, by kindness, by the Hol..."
+        },
+        {
+          "anchor": "2CO.2:10",
+          "word": "sakes",
+          "context": "...rgiven that one for your sakes in the presence of Chris..."
+        },
+        {
+          "anchor": "2CO.4:15",
+          "word": "sakes",
+          "context": "... all things are for your sakes, that grace, having spre..."
+        },
+        {
+          "anchor": "2CO.8:9",
+          "word": "sakes",
+          "context": "...e was rich, yet for your sakes He became poor, that you..."
+        },
+        {
+          "anchor": "2CO.3:14",
+          "word": "unlifted",
+          "context": "...ay the same veil remains unlifted in the reading of the Ol..."
+        },
+        {
+          "anchor": "2CO.12:20",
+          "word": "whisperings",
+          "context": "... ambitions, backbitings, whisperings, conceits, tumults;"
+        }
+      ]
+    },
+    {
+      "book": "69_JAS",
+      "total_suspects": 5,
+      "suspects": [
+        {
+          "anchor": "JAS.5:11",
+          "word": "Lordthat",
+          "context": "... the end intended by the Lordthat the Lord is very compass..."
+        },
+        {
+          "anchor": "JAS.1:1",
+          "word": "bondservant",
+          "context": "James, a bondservant of God and of the Lord J..."
+        },
+        {
+          "anchor": "JAS.1:18",
+          "word": "firstfruits",
+          "context": "...at we might be a kind of firstfruits of His creatures."
+        },
+        {
+          "anchor": "JAS.1:27",
+          "word": "undefiled",
+          "context": "Pure and undefiled religion before God and ..."
+        },
+        {
+          "anchor": "JAS.1:27",
+          "word": "unspotted",
+          "context": "...ble, and to keep oneself unspotted from the world."
+        }
+      ]
+    },
+    {
+      "book": "50_MAT",
+      "total_suspects": 48,
+      "suspects": [
+        {
+          "anchor": "MAT.1:13",
+          "word": "Abiud",
+          "context": "Zerubbabel begot Abiud, Abiud begot Eliakim, an..."
+        },
+        {
+          "anchor": "MAT.1:13",
+          "word": "Abiud",
+          "context": "Zerubbabel begot Abiud, Abiud begot Eliakim, an..."
+        },
+        {
+          "anchor": "MAT.1:14",
+          "word": "Achim",
+          "context": "...begot Zadok, Zadok begot Achim, and Achim begot Eliud."
+        },
+        {
+          "anchor": "MAT.1:14",
+          "word": "Achim",
+          "context": "...begot Zadok, Zadok begot Achim, and Achim begot Eliud."
+        },
+        {
+          "anchor": "MAT.10:3",
+          "word": "Alphaeus",
+          "context": "...lector; James the son of Alphaeus, and Lebbaeus, whose sur..."
+        },
+        {
+          "anchor": "MAT.2:22",
+          "word": "Archelaus",
+          "context": "But when he heard that Archelaus was reigning over Judea ..."
+        },
+        {
+          "anchor": "MAT.27:57",
+          "word": "Arimathea",
+          "context": "...ere came a rich man from Arimathea, named Joseph, who himse..."
+        },
+        {
+          "anchor": "MAT.1:13",
+          "word": "Azor",
+          "context": "...iakim, and Eliakim begot Azor."
+        },
+        {
+          "anchor": "MAT.1:14",
+          "word": "Azor",
+          "context": "Azor begot Zadok, Zadok begot..."
+        },
+        {
+          "anchor": "MAT.21:1",
+          "word": "Bethphage",
+          "context": "...r Jerusalem, and came to Bethphage, at the Mount of Olives,..."
+        },
+        {
+          "anchor": "MAT.11:21",
+          "word": "Bethsaida",
+          "context": "...u, Chorazin! Woe to you, Bethsaida! For if the mighty works..."
+        },
+        {
+          "anchor": "MAT.16:13",
+          "word": "Caesarea",
+          "context": "... came into the region of Caesarea Philippi, He asked His d..."
+        },
+        {
+          "anchor": "MAT.10:4",
+          "word": "Cananite",
+          "context": "Simon the Cananite, and Judas Iscariot, who..."
+        },
+        {
+          "anchor": "MAT.4:13",
+          "word": "Capernaum",
+          "context": "...th, He came and dwelt in Capernaum, which is by the sea, in..."
+        },
+        {
+          "anchor": "MAT.8:5",
+          "word": "Capernaum",
+          "context": "...w when Jesus had entered Capernaum, a centurion came to Him..."
+        },
+        {
+          "anchor": "MAT.11:23",
+          "word": "Capernaum",
+          "context": "And you, Capernaum, who are exalted to heav..."
+        },
+        {
+          "anchor": "MAT.11:21",
+          "word": "Chorazin",
+          "context": "'Woe to you, Chorazin! Woe to you, Bethsaida! ..."
+        },
+        {
+          "anchor": "MAT.4:25",
+          "word": "Decapolis",
+          "context": "...m-from Galilee, and from Decapolis, Jerusalem, Judea, and b..."
+        },
+        {
+          "anchor": "MAT.1:14",
+          "word": "Eliud",
+          "context": "...t Achim, and Achim begot Eliud."
+        },
+        {
+          "anchor": "MAT.1:15",
+          "word": "Eliud",
+          "context": "Eliud begot Eleazar, Eleazar b..."
+        },
+        {
+          "anchor": "MAT.8:28",
+          "word": "Gergesenes",
+          "context": "...e, to the country of the Gergesenes, a there met Him two dem..."
+        },
+        {
+          "anchor": "MAT.22:16",
+          "word": "Herodians",
+          "context": "...their disciples with the Herodians, saying, 'Teacher, we kn..."
+        },
+        {
+          "anchor": "MAT.14:3",
+          "word": "Herodias",
+          "context": "...n prison for the sake of Herodias, his brother Philip's wi..."
+        },
+        {
+          "anchor": "MAT.14:6",
+          "word": "Herodias",
+          "context": "...ebrated, the daughter of Herodias danced before them and p..."
+        },
+        {
+          "anchor": "MAT.13:55",
+          "word": "Joses",
+          "context": "... And His brothers James, Joses, Simon, and Judas?"
+        },
+        {
+          "anchor": "MAT.27:56",
+          "word": "Joses",
+          "context": "... the mother of James and Joses, and the mother of Zebed..."
+        },
+        {
+          "anchor": "MAT.21:43",
+          "word": "LORD's",
+          "context": "This was the LORD's doing, And it is marvelo..."
+        },
+        {
+          "anchor": "MAT.10:3",
+          "word": "Lebbaeus",
+          "context": "...the son of Alphaeus, and Lebbaeus, whose surname was a Tha..."
+        },
+        {
+          "anchor": "MAT.15:39",
+          "word": "Magdala",
+          "context": "...nd came to the region of Magdala."
+        },
+        {
+          "anchor": "MAT.1:15",
+          "word": "Matthan",
+          "context": "...t Eleazar, Eleazar begot Matthan, and Matthan begot Jacob..."
+        },
+        {
+          "anchor": "MAT.1:15",
+          "word": "Matthan",
+          "context": "...t Eleazar, Eleazar begot Matthan, and Matthan begot Jacob..."
+        },
+        {
+          "anchor": "MAT.16:13",
+          "word": "Philippi",
+          "context": "...o the region of Caesarea Philippi, He asked His disciples,..."
+        },
+        {
+          "anchor": "MAT.27:2",
+          "word": "Pontius",
+          "context": "...way and delivered Him to Pontius a Pilate the governor."
+        },
+        {
+          "anchor": "MAT.27:27",
+          "word": "Praetorium",
+          "context": "...rnor took Jesus into the Praetorium and gathered the whole g..."
+        },
+        {
+          "anchor": "MAT.3:7",
+          "word": "Sadducees",
+          "context": "...any of the Pharisees and Sadducees coming to his baptism, h..."
+        },
+        {
+          "anchor": "MAT.16:1",
+          "word": "Sadducees",
+          "context": "Then the Pharisees and Sadducees came, and testing Him as..."
+        },
+        {
+          "anchor": "MAT.16:6",
+          "word": "Sadducees",
+          "context": "...of the Pharisees and the Sadducees.'"
+        },
+        {
+          "anchor": "MAT.10:3",
+          "word": "Thaddaeus",
+          "context": "...eus, whose surname was a Thaddaeus;"
+        },
+        {
+          "anchor": "MAT.24:24",
+          "word": "christs",
+          "context": "For false christs and false prophets will ..."
+        },
+        {
+          "anchor": "MAT.23:23",
+          "word": "cummin",
+          "context": "...he of mint and anise and cummin, and have neglected the ..."
+        },
+        {
+          "anchor": "MAT.18:28",
+          "word": "denarii",
+          "context": "...s who owed him a hundred denarii; and he laid hands on hi..."
+        },
+        {
+          "anchor": "MAT.20:2",
+          "word": "denarius",
+          "context": "... with the laborers for a denarius day, he sent them into h..."
+        },
+        {
+          "anchor": "MAT.20:9",
+          "word": "denarius",
+          "context": "...ur, they each received a denarius."
+        },
+        {
+          "anchor": "MAT.20:10",
+          "word": "denarius",
+          "context": "...likewise received each a denarius."
+        },
+        {
+          "anchor": "MAT.22:4",
+          "word": "fatted",
+          "context": "...d my dinner; my oxen and fatted cattle are killed, and a..."
+        },
+        {
+          "anchor": "MAT.15:19",
+          "word": "fornications",
+          "context": "...ts, murders, adulteries, fornications, thefts, false witness, ..."
+        },
+        {
+          "anchor": "MAT.12:1",
+          "word": "grainfields",
+          "context": "...e Jesus went through the grainfields on the Sabbath. And His ..."
+        },
+        {
+          "anchor": "MAT.27:60",
+          "word": "hewn",
+          "context": "...is new tomb which he had hewn out of the rock; and he ..."
+        },
+        {
+          "anchor": "MAT.5:15",
+          "word": "lampstand",
+          "context": "...under a basket, but on a lampstand, and it gives light to a..."
+        },
+        {
+          "anchor": "MAT.11:17",
+          "word": "ou",
+          "context": "... play ed the flute for y ou, And you did not dance; ..."
+        },
+        {
+          "anchor": "MAT.27:46",
+          "word": "sabachthani",
+          "context": "... saying, 'Eli, Eli, lama sabachthani?' that is, 'My God, My G..."
+        },
+        {
+          "anchor": "MAT.12:4",
+          "word": "showbread",
+          "context": "...house of God and ate the showbread which was not lawful for..."
+        },
+        {
+          "anchor": "MAT.17:5",
+          "word": "sonship",
+          "context": "...tifying to Jesus' divine sonship (17:5), and the Spirit i..."
+        },
+        {
+          "anchor": "MAT.14:1",
+          "word": "tetrarch",
+          "context": "At that time Herod the tetrarch heard the report about J..."
+        },
+        {
+          "anchor": "MAT.7:16",
+          "word": "thornbushes",
+          "context": "...o men gather grapes from thornbushes or figs from thistles?"
+        },
+        {
+          "anchor": "MAT.9:16",
+          "word": "unshrunk",
+          "context": "No one puts a piece of unshrunk cloth on an old garment;..."
+        },
+        {
+          "anchor": "MAT.21:33",
+          "word": "vinedressers",
+          "context": "...wer. And he leased it to vinedressers and went into a far coun..."
+        },
+        {
+          "anchor": "MAT.21:34",
+          "word": "vinedressers",
+          "context": "...sent his servants to the vinedressers, that they might receive..."
+        },
+        {
+          "anchor": "MAT.21:35",
+          "word": "vinedressers",
+          "context": "And the vinedressers took his servants, beat ..."
+        },
+        {
+          "anchor": "MAT.11:19",
+          "word": "winebibber",
+          "context": "..., 'Look, a glutton and a winebibber, a friend of tax collect..."
+        },
+        {
+          "anchor": "MAT.21:33",
+          "word": "winepress",
+          "context": "...a hedge around it, dug a winepress in it and built a tower...."
+        },
+        {
+          "anchor": "MAT.9:17",
+          "word": "wineskins",
+          "context": "...ey put new wine into old wineskins, or else the wineskins b..."
+        },
+        {
+          "anchor": "MAT.9:17",
+          "word": "wineskins",
+          "context": "...ey put new wine into old wineskins, or else the wineskins b..."
+        },
+        {
+          "anchor": "MAT.9:17",
+          "word": "wineskins",
+          "context": "...ey put new wine into old wineskins, or else the wineskins b..."
+        }
+      ]
+    },
+    {
+      "book": "51_MRK",
+      "total_suspects": 44,
+      "suspects": [
+        {
+          "anchor": "MRK.2:14",
+          "word": "Alphaeus",
+          "context": "..., He saw Levi the son of Alphaeus sitting at the tax offic..."
+        },
+        {
+          "anchor": "MRK.3:18",
+          "word": "Alphaeus",
+          "context": "...Thomas, James the son of Alphaeus, Thaddaeus, Simon the Ca..."
+        },
+        {
+          "anchor": "MRK.15:43",
+          "word": "Arimathea",
+          "context": "Joseph of Arimathea, a prominent council mem..."
+        },
+        {
+          "anchor": "MRK.10:46",
+          "word": "Bartimaeus",
+          "context": "...d great multitude, blind Bartimaeus, the son of Timaeus, sat..."
+        },
+        {
+          "anchor": "MRK.11:1",
+          "word": "Bethphage",
+          "context": "... drew near Jerusalem, to Bethphage and Bethany, at the Moun..."
+        },
+        {
+          "anchor": "MRK.6:45",
+          "word": "Bethsaida",
+          "context": "...im to the other side, to Bethsaida, while He sent the multi..."
+        },
+        {
+          "anchor": "MRK.8:22",
+          "word": "Bethsaida",
+          "context": "Then He came to Bethsaida; and they brought a blin..."
+        },
+        {
+          "anchor": "MRK.3:17",
+          "word": "Boanerges",
+          "context": "...to whom He gave the name Boanerges, that is, 'Sons of Thund..."
+        },
+        {
+          "anchor": "MRK.8:27",
+          "word": "Caesarea",
+          "context": "...went out to the towns of Caesarea Philippi; and on the roa..."
+        },
+        {
+          "anchor": "MRK.3:18",
+          "word": "Cananite",
+          "context": "...us, Thaddaeus, Simon the Cananite;"
+        },
+        {
+          "anchor": "MRK.1:21",
+          "word": "Capernaum",
+          "context": "Then they went into Capernaum, and immediately on the ..."
+        },
+        {
+          "anchor": "MRK.2:1",
+          "word": "Capernaum",
+          "context": "And again He entered Capernaum after some days, and it ..."
+        },
+        {
+          "anchor": "MRK.9:33",
+          "word": "Capernaum",
+          "context": "...ipleship Then He came to Capernaum. And when He was in the ..."
+        },
+        {
+          "anchor": "MRK.15:21",
+          "word": "Cyrenian",
+          "context": "...d a certain man, Simon a Cyrenian, the father of Alexander..."
+        },
+        {
+          "anchor": "MRK.8:10",
+          "word": "Dalmanutha",
+          "context": "...nd came to the region of Dalmanutha."
+        },
+        {
+          "anchor": "MRK.5:20",
+          "word": "Decapolis",
+          "context": "...and began to proclaim in Decapolis all that Jesus had done ..."
+        },
+        {
+          "anchor": "MRK.7:31",
+          "word": "Decapolis",
+          "context": "...e midst of the region of Decapolis to the Sea of Galilee."
+        },
+        {
+          "anchor": "MRK.5:1",
+          "word": "Gadarenes",
+          "context": "...a, to the country of the Gadarenes."
+        },
+        {
+          "anchor": "MRK.3:6",
+          "word": "Herodians",
+          "context": "...diately plotted with the Herodians against Him, how they mi..."
+        },
+        {
+          "anchor": "MRK.12:13",
+          "word": "Herodians",
+          "context": "...of the Pharisees and the Herodians, to catch Him in His wor..."
+        },
+        {
+          "anchor": "MRK.6:17",
+          "word": "Herodias",
+          "context": "...n prison for the sake of Herodias, his brother Philip's wi..."
+        },
+        {
+          "anchor": "MRK.6:19",
+          "word": "Herodias",
+          "context": "Therefore Herodias held it against him and ..."
+        },
+        {
+          "anchor": "MRK.6:3",
+          "word": "Joses",
+          "context": "...y, and brother of James, Joses, Judas, and Simon? And a..."
+        },
+        {
+          "anchor": "MRK.15:40",
+          "word": "Joses",
+          "context": "...of James the Less and of Joses, and Salome,"
+        },
+        {
+          "anchor": "MRK.15:47",
+          "word": "Joses",
+          "context": "...e and Mary the mother of Joses observed where He was la..."
+        },
+        {
+          "anchor": "MRK.8:27",
+          "word": "Philippi",
+          "context": "...to the towns of Caesarea Philippi; and on the road He aske..."
+        },
+        {
+          "anchor": "MRK.15:16",
+          "word": "Praetorium",
+          "context": "...way into the hall called Praetorium, and they called togethe..."
+        },
+        {
+          "anchor": "MRK.12:18",
+          "word": "Sadducees",
+          "context": "Then some Sadducees, who say there is no res..."
+        },
+        {
+          "anchor": "MRK.7:26",
+          "word": "Syro",
+          "context": "The woman was a Greek, Syro-Phoenician by birth, and..."
+        },
+        {
+          "anchor": "MRK.3:18",
+          "word": "Thaddaeus",
+          "context": "...mes the son of Alphaeus, Thaddaeus, Simon the Cananite;"
+        },
+        {
+          "anchor": "MRK.10:46",
+          "word": "Timaeus",
+          "context": "...d Bartimaeus, the son of Timaeus, sat by the road begging..."
+        },
+        {
+          "anchor": "MRK.12:42",
+          "word": "aquadrans",
+          "context": "...in two mites, which make aquadrans."
+        },
+        {
+          "anchor": "MRK.10:8",
+          "word": "aso",
+          "context": "...shall become one flesh'; aso then they are no longer ..."
+        },
+        {
+          "anchor": "MRK.13:22",
+          "word": "christs",
+          "context": "For false christs and false prophets will ..."
+        },
+        {
+          "anchor": "MRK.5:41",
+          "word": "cumi",
+          "context": "...d said to her, 'Talitha, cumi,' which is translated, '..."
+        },
+        {
+          "anchor": "MRK.6:38",
+          "word": "denarii",
+          "context": "...e go and buy two hundred denarii worth of bread and give ..."
+        },
+        {
+          "anchor": "MRK.14:5",
+          "word": "denarii",
+          "context": "... more than three hundred denarii and given to the poor.' ..."
+        },
+        {
+          "anchor": "MRK.12:16",
+          "word": "denarius",
+          "context": "... you test Me? Bring Me a denarius that I may see it. ' So ..."
+        },
+        {
+          "anchor": "MRK.7:21",
+          "word": "fornications",
+          "context": "...il thoughts, adulteries, fornications, murders,"
+        },
+        {
+          "anchor": "MRK.2:23",
+          "word": "grainfields",
+          "context": "...that He went through the grainfields on the Sabbath; and as t..."
+        },
+        {
+          "anchor": "MRK.15:46",
+          "word": "hewn",
+          "context": "...in a tomb which had been hewn out of the rock, and rol..."
+        },
+        {
+          "anchor": "MRK.4:21",
+          "word": "lampstand",
+          "context": "...Is it not to be set on a lampstand?"
+        },
+        {
+          "anchor": "MRK.15:34",
+          "word": "sabachthani",
+          "context": "...aying, 'Eloi, Eloi, lama sabachthani?' which is translated, '..."
+        },
+        {
+          "anchor": "MRK.2:26",
+          "word": "showbread",
+          "context": "...high priest, and ate the showbread, which is not lawful to ..."
+        },
+        {
+          "anchor": "MRK.14:3",
+          "word": "spikenard",
+          "context": "...sk of very costly oil of spikenard. Then she broke the flas..."
+        },
+        {
+          "anchor": "MRK.4:8",
+          "word": "thirtyfold",
+          "context": "...eased and produced: some thirtyfold, some sixty, and some a ..."
+        },
+        {
+          "anchor": "MRK.4:20",
+          "word": "thirtyfold",
+          "context": "...it, and bear fruit: some thirtyfold, some sixty, and some a ..."
+        },
+        {
+          "anchor": "MRK.2:21",
+          "word": "unshrunk",
+          "context": "No one sews a piece of unshrunk cloth on an old garment;..."
+        },
+        {
+          "anchor": "MRK.12:1",
+          "word": "vinedressers",
+          "context": "...wer. And he leased it to vinedressers and went into a far coun..."
+        },
+        {
+          "anchor": "MRK.12:2",
+          "word": "vinedressers",
+          "context": "...he sent a servant to the vinedressers, that he might receive s..."
+        },
+        {
+          "anchor": "MRK.12:2",
+          "word": "vinedressers",
+          "context": "...he sent a servant to the vinedressers, that he might receive s..."
+        },
+        {
+          "anchor": "MRK.2:22",
+          "word": "wineskins",
+          "context": "...e puts new wine into old wineskins; or else the new wine bu..."
+        },
+        {
+          "anchor": "MRK.2:22",
+          "word": "wineskins",
+          "context": "...e puts new wine into old wineskins; or else the new wine bu..."
+        },
+        {
+          "anchor": "MRK.2:22",
+          "word": "wineskins",
+          "context": "...e puts new wine into old wineskins; or else the new wine bu..."
+        }
+      ]
+    },
+    {
+      "book": "66_TIT",
+      "total_suspects": 7,
+      "suspects": [
+        {
+          "anchor": "TIT.3:12",
+          "word": "Artemas",
+          "context": "When I send Artemas to you, or Tychicus, be ..."
+        },
+        {
+          "anchor": "TIT.3:12",
+          "word": "Nicopolis",
+          "context": "...iligent to come to me at Nicopolis, for I have decided to s..."
+        },
+        {
+          "anchor": "TIT.3:12",
+          "word": "Tychicus",
+          "context": "... send Artemas to you, or Tychicus, be diligent to come to ..."
+        },
+        {
+          "anchor": "TIT.3:13",
+          "word": "Zenas",
+          "context": "Send Zenas the lawyer and Apollos o..."
+        },
+        {
+          "anchor": "TIT.1:1",
+          "word": "bondservant",
+          "context": "Paul, a bondservant of God and an apostle of..."
+        },
+        {
+          "anchor": "TIT.2:9",
+          "word": "bondservants",
+          "context": "Exhort bondservants to be obedient to their ..."
+        },
+        {
+          "anchor": "TIT.3:9",
+          "word": "strivings",
+          "context": "...logies, contentions, and strivings about the law; for they ..."
+        }
+      ]
+    },
+    {
+      "book": "53_JOH",
+      "total_suspects": 24,
+      "suspects": [
+        {
+          "anchor": "JOH.3:23",
+          "word": "Aenon",
+          "context": "...hn also was baptizing in Aenon near Salim, because ther..."
+        },
+        {
+          "anchor": "JOH.18:13",
+          "word": "Annas",
+          "context": "And they led Him away to Annas first, for he was the fa..."
+        },
+        {
+          "anchor": "JOH.18:24",
+          "word": "Annas",
+          "context": "Then Annas sent Him bound to Caiaph..."
+        },
+        {
+          "anchor": "JOH.19:38",
+          "word": "Arimathea",
+          "context": "After this, Joseph of Arimathea, being a disciple of Jes..."
+        },
+        {
+          "anchor": "JOH.1:28",
+          "word": "Bethabara",
+          "context": "...hese things were done in Bethabara beyond the Jordan, where..."
+        },
+        {
+          "anchor": "JOH.1:44",
+          "word": "Bethsaida",
+          "context": "Now Philip was from Bethsaida, the city of Andrew and ..."
+        },
+        {
+          "anchor": "JOH.12:21",
+          "word": "Bethsaida",
+          "context": "... to Philip, who was from Bethsaida of Galilee, and asked hi..."
+        },
+        {
+          "anchor": "JOH.2:1",
+          "word": "Cana",
+          "context": "...y there was a wedding in Cana of Galilee, and the moth..."
+        },
+        {
+          "anchor": "JOH.2:11",
+          "word": "Cana",
+          "context": "...ng of signs Jesus did in Cana of Galilee, and manifest..."
+        },
+        {
+          "anchor": "JOH.4:46",
+          "word": "Cana",
+          "context": "So Jesus came again to Cana of Galilee where He had ..."
+        },
+        {
+          "anchor": "JOH.2:12",
+          "word": "Capernaum",
+          "context": "...ter this He went down to Capernaum, He, His mother, His bro..."
+        },
+        {
+          "anchor": "JOH.4:46",
+          "word": "Capernaum",
+          "context": "...an whose son was sick at Capernaum."
+        },
+        {
+          "anchor": "JOH.6:17",
+          "word": "Capernaum",
+          "context": "...went over the sea toward Capernaum. And it was already dark..."
+        },
+        {
+          "anchor": "JOH.19:25",
+          "word": "Clopas",
+          "context": "...sister, Mary the wife of Clopas, and Mary Magdalene."
+        },
+        {
+          "anchor": "JOH.19:13",
+          "word": "Gabbatha",
+          "context": "...Pavement, but in Hebrew, Gabbatha."
+        },
+        {
+          "anchor": "JOH.18:10",
+          "word": "Malchus",
+          "context": ".... The servant's name was Malchus."
+        },
+        {
+          "anchor": "JOH.18:28",
+          "word": "Praetorium",
+          "context": "...sus from Caiaphas to the Praetorium, and it was early mornin..."
+        },
+        {
+          "anchor": "JOH.18:28",
+          "word": "Praetorium",
+          "context": "...sus from Caiaphas to the Praetorium, and it was early mornin..."
+        },
+        {
+          "anchor": "JOH.18:33",
+          "word": "Praetorium",
+          "context": "Then Pilate entered the Praetorium again, called Jesus, and..."
+        },
+        {
+          "anchor": "JOH.3:23",
+          "word": "Salim",
+          "context": "... baptizing in Aenon near Salim, because there was much ..."
+        },
+        {
+          "anchor": "JOH.4:5",
+          "word": "Sychar",
+          "context": "... Samaria which is called Sychar, near the plot of ground..."
+        },
+        {
+          "anchor": "JOH.6:1",
+          "word": "Tiberias",
+          "context": "...lee, which is the Sea of Tiberias."
+        },
+        {
+          "anchor": "JOH.6:23",
+          "word": "Tiberias",
+          "context": "...r, other boats came from Tiberias, near the place where th..."
+        },
+        {
+          "anchor": "JOH.21:1",
+          "word": "Tiberias",
+          "context": "... disciples at the Sea of Tiberias, and in this way He show..."
+        },
+        {
+          "anchor": "JOH.13:14",
+          "word": "another's",
+          "context": "...u also ought to wash one another's feet."
+        },
+        {
+          "anchor": "JOH.6:7",
+          "word": "denarii",
+          "context": "...swered Him, 'Two hundred denarii worth of bread is not su..."
+        },
+        {
+          "anchor": "JOH.12:5",
+          "word": "denarii",
+          "context": "...t sold for three hundred denarii and given to the poor?'"
+        },
+        {
+          "anchor": "JOH.21:11",
+          "word": "fiftythree",
+          "context": "...ge fish, one hundred and fiftythree; and although there were..."
+        },
+        {
+          "anchor": "JOH.11:44",
+          "word": "graveclothes",
+          "context": "...bound hand and foot with graveclothes, and his face was wrappe..."
+        },
+        {
+          "anchor": "JOH.11:15",
+          "word": "sakes",
+          "context": "And I am glad for your sakes that I was not there, th..."
+        },
+        {
+          "anchor": "JOH.17:19",
+          "word": "sakes",
+          "context": "And for their sakes I sanctify Myself, that ..."
+        },
+        {
+          "anchor": "JOH.12:3",
+          "word": "spikenard",
+          "context": "...nd of very costly oil of spikenard, anointed the feet of Je..."
+        },
+        {
+          "anchor": "JOH.15:1",
+          "word": "vinedresser",
+          "context": "...ne, and My Father is the vinedresser."
+        },
+        {
+          "anchor": "JOH.4:28",
+          "word": "waterpot",
+          "context": "The woman then left her waterpot, went her way into the c..."
+        },
+        {
+          "anchor": "JOH.2:6",
+          "word": "waterpots",
+          "context": "...there were set there six waterpots of stone, according to t..."
+        },
+        {
+          "anchor": "JOH.2:7",
+          "word": "waterpots",
+          "context": "... said to them, 'Fill the waterpots with water.' And they fi..."
+        }
+      ]
+    },
+    {
+      "book": "62_1TH",
+      "total_suspects": 3,
+      "suspects": [
+        {
+          "anchor": "1TH.1:7",
+          "word": "Achaia",
+          "context": "... to all in Macedonia and Achaia who believe."
+        },
+        {
+          "anchor": "1TH.1:8",
+          "word": "Achaia",
+          "context": "...ot only in Macedonia and Achaia, but also in every place..."
+        },
+        {
+          "anchor": "1TH.2:2",
+          "word": "Philippi",
+          "context": "...re spitefully treated at Philippi, as you know, we were bo..."
+        },
+        {
+          "anchor": "1TH.1:1",
+          "word": "Silvanus",
+          "context": "Paul, Silvanus, and Timothy, To the chu..."
+        }
+      ]
+    },
+    {
+      "book": "74_3JN",
+      "total_suspects": 2,
+      "suspects": [
+        {
+          "anchor": "3JN.1:9",
+          "word": "Diotrephes",
+          "context": "...wrote to the church, but Diotrephes, who loves to have the p..."
+        },
+        {
+          "anchor": "3JN.1:1",
+          "word": "Gaius",
+          "context": "...he Elder, To the beloved Gaius, whom I love in truth:"
+        }
+      ]
+    },
+    {
+      "book": "61_COL",
+      "total_suspects": 18,
+      "suspects": [
+        {
+          "anchor": "COL.4:17",
+          "word": "Archippus",
+          "context": "And say to Archippus, 'Take heed to the minis..."
+        },
+        {
+          "anchor": "COL.3:22",
+          "word": "Bondservants",
+          "context": "Bondservants, obey in all things your..."
+        },
+        {
+          "anchor": "COL.1:2",
+          "word": "Colosse",
+          "context": "...ren in Christ who are in Colosse: Grace to you and peace ..."
+        },
+        {
+          "anchor": "COL.4:14",
+          "word": "Demas",
+          "context": "...he beloved physician and Demas greet you."
+        },
+        {
+          "anchor": "COL.1:7",
+          "word": "Epaphras",
+          "context": "as you also learned from Epaphras, our dear fellow servant..."
+        },
+        {
+          "anchor": "COL.4:12",
+          "word": "Epaphras",
+          "context": "Epaphras, who is one of you, a bo..."
+        },
+        {
+          "anchor": "COL.4:13",
+          "word": "Hierapolis",
+          "context": "...n Laodicea, and those in Hierapolis."
+        },
+        {
+          "anchor": "COL.4:11",
+          "word": "Justus",
+          "context": "and Jesus who is called Justus. These are my only fello..."
+        },
+        {
+          "anchor": "COL.2:1",
+          "word": "Laodicea",
+          "context": "...ave for you and those in Laodicea, and for as many as have..."
+        },
+        {
+          "anchor": "COL.4:13",
+          "word": "Laodicea",
+          "context": "...ou, and those who are in Laodicea, and those in Hierapolis..."
+        },
+        {
+          "anchor": "COL.4:15",
+          "word": "Laodicea",
+          "context": "... the brethren who are in Laodicea, and Nymphas and the chu..."
+        },
+        {
+          "anchor": "COL.4:16",
+          "word": "Laodiceans",
+          "context": "...lso in the church of the Laodiceans, and that you likewise r..."
+        },
+        {
+          "anchor": "COL.4:15",
+          "word": "Nymphas",
+          "context": "...who are in Laodicea, and Nymphas and the church that is i..."
+        },
+        {
+          "anchor": "COL.4:9",
+          "word": "Onesimus",
+          "context": "with Onesimus, a faithful and beloved ..."
+        },
+        {
+          "anchor": "COL.4:7",
+          "word": "Tychicus",
+          "context": "Tychicus, a beloved brother, fait..."
+        },
+        {
+          "anchor": "COL.4:12",
+          "word": "bondservant",
+          "context": "...as, who is one of you, a bondservant of Christ, greets you, a..."
+        },
+        {
+          "anchor": "COL.4:1",
+          "word": "bondservants",
+          "context": "Masters, give your bondservants what is just and fair, k..."
+        },
+        {
+          "anchor": "COL.3:22",
+          "word": "eyeservice",
+          "context": "...g to the flesh, not with eyeservice, as men-pleasers, but in..."
+        },
+        {
+          "anchor": "COL.1:11",
+          "word": "longsuffering",
+          "context": "...er, for all patience and longsuffering with joy;"
+        },
+        {
+          "anchor": "COL.3:12",
+          "word": "longsuffering",
+          "context": "...ess, humility, meekness, longsuffering;"
+        },
+        {
+          "anchor": "COL.3:22",
+          "word": "pleasers",
+          "context": "... with eyeservice, as men-pleasers, but in sincerity of hea..."
+        },
+        {
+          "anchor": "COL.2:13",
+          "word": "uncircumcision",
+          "context": "... your trespasses and the uncircumcision of your flesh, He has ma..."
+        }
+      ]
+    },
+    {
+      "book": "73_2JN",
+      "total_suspects": 1,
+      "suspects": [
+        {
+          "anchor": "2JN.1:7",
+          "word": "antichrist",
+          "context": "...his is a deceiver and an antichrist."
+        }
+      ]
+    },
+    {
+      "book": "58_GAL",
+      "total_suspects": 7,
+      "suspects": [
+        {
+          "anchor": "GAL.2:9",
+          "word": "Cephas",
+          "context": "and when James, Cephas, and John, who seemed to..."
+        },
+        {
+          "anchor": "GAL.6:2",
+          "word": "another's",
+          "context": "Bear one another's burdens, and so fulfill ..."
+        },
+        {
+          "anchor": "GAL.1:10",
+          "word": "bondservant",
+          "context": "...ed men, I would not be a bondservant of Christ."
+        },
+        {
+          "anchor": "GAL.4:22",
+          "word": "freewoman",
+          "context": "...ondwoman, the other by a freewoman."
+        },
+        {
+          "anchor": "GAL.4:23",
+          "word": "freewoman",
+          "context": "...the flesh, and he of the freewoman through promise,"
+        },
+        {
+          "anchor": "GAL.4:30",
+          "word": "freewoman",
+          "context": "...heir with the son of the freewoman.'"
+        },
+        {
+          "anchor": "GAL.5:22",
+          "word": "longsuffering",
+          "context": "...rit is love, joy, peace, longsuffering, kindness, goodness, fai..."
+        },
+        {
+          "anchor": "GAL.5:6",
+          "word": "uncircumcision",
+          "context": "...neither circumcision nor uncircumcision avails anything, but fai..."
+        },
+        {
+          "anchor": "GAL.6:15",
+          "word": "uncircumcision",
+          "context": "...neither circumcision nor uncircumcision avails anything, but a n..."
+        }
+      ]
+    }
+  ]
+}

@@ -2,22 +2,32 @@
   "anchor_id": "ROM.8:28",
   "canon_uri": "canon/NT/ROM.md#ROM.8:28",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "And we know that all things work together for good to those who love God, to those who are the called according to His purpose.",
+  "pericope": {
+    "id": "ROM.P020",
+    "title": "The Father Ensures Our Destiny",
+    "range": "ROM.8:27-8:29",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/ECC_footnotes.md",
-      "line_number": 221,
+      "source_file": "study/footnotes/OT/ECC_footnotes.md",
+      "line_number": 176,
       "raw_match": "[[ROM.8:28]]",
       "reference_type": "wikilink",
       "context": "See [[ROM.8:28]]."
     },
     {
-      "source_file": "staging/validated/OT/ISA_footnotes.md",
-      "line_number": 1004,
+      "source_file": "study/footnotes/OT/ISA_footnotes.md",
+      "line_number": 783,
       "raw_match": "[[ROM.8:28]]",
       "reference_type": "wikilink",
-      "context": "good ([[ROM.8:28]]), and His counsel (or will) shall stand."
+      "context": "There is no greater prayer than \"Thy will be done,\" for God does all things for our good ([[ROM.8:28]]), and His counsel (or will) shall stand."
     }
   ]
 }

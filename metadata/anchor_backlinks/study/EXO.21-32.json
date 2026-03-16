@@ -2,12 +2,22 @@
   "anchor_id": "EXO.21:32",
   "canon_uri": "canon/OT/EXO.md#EXO.21:32",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "If a bull gores a male or female servant, he shall pay their lord thirty shekels of silver, and the bull shall be stoned.",
+  "pericope": {
+    "id": "EXO.P041",
+    "title": "Owners of Animals",
+    "range": "EXO.21:27-21:35",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/ZEC_footnotes.md",
-      "line_number": 627,
+      "source_file": "study/footnotes/OT/ZEC_footnotes.md",
+      "line_number": 447,
       "raw_match": "[[EXO.21:32]]",
       "reference_type": "wikilink",
       "context": "The Good Shepherd is betrayed. Matthew cites this passage in his Gospel (26:15; 27:9). The pieces (or shekels) of silver are the price for a slave ([[EXO.21:32]])."

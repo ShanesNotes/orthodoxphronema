@@ -2,15 +2,25 @@
   "anchor_id": "PSA.117:15",
   "canon_uri": "canon/OT/PSA.md#PSA.117:15",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "The sound of exceeding joy and salvation is in the tents of the righteous; The right hand of the Lord worked its power;",
+  "pericope": {
+    "id": "PSA.P117",
+    "title": "Psalm 117",
+    "range": "PSA.117:1-117:29",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/WIS_footnotes.md",
-      "line_number": 71,
+      "source_file": "study/footnotes/OT/WIS_footnotes.md",
+      "line_number": 65,
       "raw_match": "[[PSA.117:15]]",
       "reference_type": "wikilink",
-      "context": "Church. 3:1-9 The Church sees the lives of the martyrs reflected in these verses. See also [[DEU.33:3]]; [[JOB.12:10]]; [[PSA.117:15]]."
+      "context": "Truth, love, grace and mercy are fulfilled in Christ and in His faithful in the Church. 3:1-9 The Church sees the lives of the martyrs reflected in these verses. See also [[DEU.33:3]]; [[JOB.12:10]]; [[PSA.117:15]]."
     }
   ]
 }

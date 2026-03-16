@@ -2,15 +2,25 @@
   "anchor_id": "JOH.19:27",
   "canon_uri": "canon/NT/JOH.md#JOH.19:27",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Then He said to the disciple, 'Behold your mother!' And from that hour that disciple took her to his own home.",
+  "pericope": {
+    "id": "JOH.P068",
+    "title": "Jesus' Death",
+    "range": "JOH.19:27-19:29",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/MAT_footnotes.md",
-      "line_number": 1941,
+      "source_file": "study/footnotes/NT/MAT_footnotes.md",
+      "line_number": 1253,
       "raw_match": "[[JOH.19:25]]-27",
       "reference_type": "wikilink_range",
-      "context": "His mother to the care of John at the Cross ([[JOH.19:25]]-27), which would have been"
+      "context": "Christ's relatives have not yet understood His identity and mission. He points to a spiritual family based on obedience to the will of My Father (v. 50). In Jewish usage, brother can indicate any number of relations. Abram called his nephew Lot \"brother\" ([[GEN.14:14]]); Boaz spoke of his cousin Elimelech as his \"brother\" (Ru 4:3); and Joab called his cousin Amasa \"brother\" (2Kg 20:9). Christ Himself had no blood brothers, for Mary had but one Son: Jesus. The brothers mentioned here were either stepbrothers, sons of Joseph by a previous marriage, or cousins. Indeed, Jesus commits His mother to the care of John at the Cross ([[JOH.19:25]]-27), which would have been unthinkable if Mary had other children to care for her."
     }
   ]
 }

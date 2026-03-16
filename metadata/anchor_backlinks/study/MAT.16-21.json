@@ -2,12 +2,22 @@
   "anchor_id": "MAT.16:21",
   "canon_uri": "canon/NT/MAT.md#MAT.16:21",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "From that time Jesus began to show to His disciples that He must go to Jerusalem, and suffer many things from the elders and chief priests and scribes, and be killed, and be raised the third day.",
+  "pericope": {
+    "id": "MAT.P054",
+    "title": "Jesus' Work: His Passion and Resurrection",
+    "range": "MAT.16:20-16:27",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/LUK_footnotes.md",
-      "line_number": 745,
+      "source_file": "study/footnotes/NT/LUK_footnotes.md",
+      "line_number": 495,
       "raw_match": "[[MAT.16:21]]-23",
       "reference_type": "wikilink_range",
       "context": "Opportune time: See 22:40-46; 23:35; [[MAT.16:21]]-23."

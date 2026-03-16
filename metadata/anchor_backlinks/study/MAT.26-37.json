@@ -2,15 +2,25 @@
   "anchor_id": "MAT.26:37",
   "canon_uri": "canon/NT/MAT.md#MAT.26:37",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "And He took with Him Peter and the two sons of Zebedee, and He began to be sorrowful and deeply distressed. Gethsemane: Jesus' Prayers",
+  "pericope": {
+    "id": "MAT.P086",
+    "title": "Prediction of Peter's Denial",
+    "range": "MAT.26:30-26:74",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/HEB_footnotes.md",
-      "line_number": 483,
+      "source_file": "study/footnotes/NT/HEB_footnotes.md",
+      "line_number": 314,
       "raw_match": "[[MAT.26:36]]-46",
       "reference_type": "wikilink_range",
-      "context": "Gethsemane ([[MAT.26:36]]-46; [[MRK.14:32]]-42; [[LUK.22:39]]-46)."
+      "context": "Cries and tears is likely a reference to our Lord's agonizing prayer in the Garden of Gethsemane ([[MAT.26:36]]-46; [[MRK.14:32]]-42; [[LUK.22:39]]-46)."
     }
   ]
 }

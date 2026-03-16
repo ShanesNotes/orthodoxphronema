@@ -2,15 +2,25 @@
   "anchor_id": "ROM.1:7",
   "canon_uri": "canon/NT/ROM.md#ROM.1:7",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "To all who are in Rome, beloved of God, called to be saints: Grace to you and peace from God our Father and the Lord Jesus Christ.",
+  "pericope": {
+    "id": "ROM.P002",
+    "title": "Desire to Visit Rome",
+    "range": "ROM.1:7-1:14",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/JOH_footnotes.md",
-      "line_number": 2535,
+      "source_file": "study/footnotes/NT/JOH_footnotes.md",
+      "line_number": 1624,
       "raw_match": "[[ROM.1:7]]",
       "reference_type": "wikilink",
-      "context": "traditional greeting of Christians to each other ([[ROM.1:7]]; [[1CO.1:3]]), and the greeting \"Peace"
+      "context": "Peace was the customary Jewish word of both greeting and farewell. Perfect peace is brought by Christ, who reconciles humanity to God ([[EPH.2:14]]). Peace is part of the traditional greeting of Christians to each other ([[ROM.1:7]]; [[1CO.1:3]]), and the greeting \"Peace be to all\" is offered many times during the liturgical services of the Church."
     }
   ]
 }

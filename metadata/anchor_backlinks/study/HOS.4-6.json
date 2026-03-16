@@ -2,22 +2,32 @@
   "anchor_id": "HOS.4:6",
   "canon_uri": "canon/OT/HOS.md#HOS.4:6",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "My people are like as those who have no knowledge. Because you have rejected knowledge, I will also reject you from being a priest to Me; And because you have forgotten the law of your God, I also will forget your children.",
+  "pericope": {
+    "id": "HOS.P012",
+    "title": "Israel Will Return to the Lord",
+    "range": "HOS.2:23-14:9",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/HAB_footnotes.md",
-      "line_number": 183,
+      "source_file": "study/footnotes/OT/HAB_footnotes.md",
+      "line_number": 138,
       "raw_match": "[[HOS.4:6]]",
       "reference_type": "wikilink",
-      "context": "God ([[HOS.4:1]], [[HOS.4:6]]; 6:6). This ignorance unfortunately is self-inflicted because men suppress"
+      "context": "Elsewhere, Hosea describes the fundamental human problem as lack of knowledge of God ([[HOS.4:1]], [[HOS.4:6]]; 6:6). This ignorance unfortunately is self-inflicted because men suppress the truth about God ([[ROM.1:18]]-32)."
     },
     {
-      "source_file": "staging/validated/OT/JDG_footnotes.md",
-      "line_number": 613,
+      "source_file": "study/footnotes/OT/JDG_footnotes.md",
+      "line_number": 453,
       "raw_match": "[[HOS.4:1]]-6",
       "reference_type": "wikilink_range",
-      "context": "became involved in extreme sexual misconduct ([[HOS.4:1]]-6; [[JER.3:1]], [[JER.3:8]]; [[EZK.16:41]]; 23:44)."
+      "context": "To \"play the harlot\" or take a concubine was an expression typically used to paint a prophetic picture of people following false gods, often Baal, whose followers often became involved in extreme sexual misconduct ([[HOS.4:1]]-6; [[JER.3:1]], [[JER.3:8]]; [[EZK.16:41]]; 23:44)."
     }
   ]
 }

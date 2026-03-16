@@ -2,15 +2,25 @@
   "anchor_id": "MAT.27:4",
   "canon_uri": "canon/NT/MAT.md#MAT.27:4",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "saying, 'I have sinned by betraying innocent blood.'",
+  "pericope": {
+    "id": "MAT.P088",
+    "title": "The Death of Judas",
+    "range": "MAT.27:2-27:9",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/ACT_footnotes.md",
-      "line_number": 87,
+      "source_file": "study/footnotes/NT/ACT_footnotes.md",
+      "line_number": 64,
       "raw_match": "[[MAT.27:3]]-5",
       "reference_type": "wikilink_range",
-      "context": "See [[MAT.27:3]]-5. Though the accounts may seem to differ, Luke's report here is merely"
+      "context": "See [[MAT.27:3]]-5. Though the accounts may seem to differ, Luke's report here is merely a more detailed account of Judas' end. This should also be understood in a spiritual sense, that the heart and soul of the rebellious or faithless person will be spilled out in the final judgment."
     }
   ]
 }

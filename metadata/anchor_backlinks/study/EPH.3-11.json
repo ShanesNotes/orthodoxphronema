@@ -2,15 +2,25 @@
   "anchor_id": "EPH.3:11",
   "canon_uri": "canon/NT/EPH.md#EPH.3:11",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "according to the eternal purpose which He accomplished in Christ Jesus our Lord,",
+  "pericope": {
+    "id": "EPH.P008",
+    "title": "Paul's Apostolic Commission",
+    "range": "EPH.3:2-3:12",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/PSA_footnotes.md",
-      "line_number": 99,
+      "source_file": "study/footnotes/OT/PSA_footnotes.md",
+      "line_number": 64,
       "raw_match": "[[EPH.3:11]]",
       "reference_type": "wikilink",
-      "context": "and His inheritance are the end to which God's eternal purpose is moving ([[EPH.3:11]]). And"
+      "context": "Ps 5 is similar to Ps 4, again emphasizing the End (v. 1). Christ is the End concerning the inheritance (v. 1), which is the Church and the world to come (Creed). For Christ and His inheritance are the end to which God's eternal purpose is moving ([[EPH.3:11]]). And in His prayer to the Father, whom He calls Lord and King and God (vv. 2, 3, 5, 7, 9, 11, 13), He is teaching the Church how to pray and worship in her morning prayers (v. 4) as she travels through this present lawless world (vv. 5-13)."
     }
   ]
 }

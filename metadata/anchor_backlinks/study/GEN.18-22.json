@@ -2,15 +2,25 @@
   "anchor_id": "GEN.18:22",
   "canon_uri": "canon/OT/GEN.md#GEN.18:22",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Then the men turned away from there and went toward Sodom, but Abraham remained before the Lord.",
+  "pericope": {
+    "id": "GEN.P025",
+    "title": "Abraham Intercedes for Sodom",
+    "range": "GEN.18:15-18:32",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/JOB_footnotes.md",
-      "line_number": 972,
+      "source_file": "study/footnotes/OT/JOB_footnotes.md",
+      "line_number": 766,
       "raw_match": "[[GEN.18:22]]-33",
       "reference_type": "wikilink_range",
-      "context": "Abraham and Moses (see [[GEN.18:22]]-33; [[EXO.32:32]]) and fulfilled by Christ ([[LUK.23:34]]). As"
+      "context": "Job images Christ as suffering servant, High Priest, and Intercessor on behalf of all. St. Gregory writes that he also images the Church. Job's intercession is echoed by Abraham and Moses (see [[GEN.18:22]]-33; [[EXO.32:32]]) and fulfilled by Christ ([[LUK.23:34]]). As we worship during Divine Liturgy, we offer up ourselves and, because Christ offered Himself first for our sake, we receive acceptance and forgiveness through Him."
     }
   ]
 }

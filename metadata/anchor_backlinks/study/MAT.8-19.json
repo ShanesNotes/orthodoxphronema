@@ -2,15 +2,25 @@
   "anchor_id": "MAT.8:19",
   "canon_uri": "canon/NT/MAT.md#MAT.8:19",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Then a certain scribe came and said to Him, 'Teacher, I will follow You wherever You go.'",
+  "pericope": {
+    "id": "MAT.P018",
+    "title": "Unconditional Loyalty",
+    "range": "MAT.8:17-8:26",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/ISA_footnotes.md",
-      "line_number": 1694,
+      "source_file": "study/footnotes/OT/ISA_footnotes.md",
+      "line_number": 1339,
       "raw_match": "[[MAT.8:19]]",
       "reference_type": "wikilink",
-      "context": "Gentiles (see [[MAT.8:19]])."
+      "context": "The cross is the sign of salvation which the apostles shall declare... among the Gentiles (see [[MAT.8:19]])."
     }
   ]
 }

@@ -2,22 +2,32 @@
   "anchor_id": "LUK.2:19",
   "canon_uri": "canon/NT/LUK.md#LUK.2:19",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "But Mary kept all these things and pondered them in her heart.",
+  "pericope": {
+    "id": "LUK.P007",
+    "title": "John's Growth",
+    "range": "LUK.1:79-2:19",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/MAT_footnotes.md",
-      "line_number": 189,
+      "source_file": "study/footnotes/NT/MAT_footnotes.md",
+      "line_number": 125,
       "raw_match": "[[LUK.2:8]]-20",
       "reference_type": "wikilink_range",
-      "context": "the day He was born ([[LUK.2:8]]-20), the Gentile magi came to worship Him some time later."
+      "context": "Into the house: Whereas the Jewish shepherds worshiped the Savior in the cave on the day He was born ([[LUK.2:8]]-20), the Gentile magi came to worship Him some time later. By then, Joseph and Mary had found a house in which to dwell. This indicates that Christ first came to the Jews and then afterward was worshiped by the Gentiles. The significance of the Magi's gifts is revealed in a hymn sung at Compline of the Nativity: \"Gold is for the King of ages. Frankincense is for the God of all. Myrrh is offered to the Immortal One, who shall be three days dead.\""
     },
     {
-      "source_file": "staging/validated/OT/JOB_footnotes.md",
-      "line_number": 419,
+      "source_file": "study/footnotes/OT/JOB_footnotes.md",
+      "line_number": 346,
       "raw_match": "[[LUK.2:19]]",
       "reference_type": "wikilink",
-      "context": "Similarly, the Virgin Mary has hidden many things in her heart ([[LUK.2:19]]). 24:1"
+      "context": "In the midst of affliction, the righteous know God by faith, but long all the more to see His form. Christ will take the form of fallen men and fulfill Job's desires (GrgGt). 23:12 Similarly, the Virgin Mary has hidden many things in her heart ([[LUK.2:19]]). 24:1 We are wrapped up within the divisions of time, since we are created beings. But God, Creator of all things, encompasses our times by His eternity (GrgGt). 24:2-6 The ungodly here denote false teachers, who lead others away from the right way of salvation (GrgGt). 24:8 \"The showers of the mountains are the words of the learned\" (GrgGt). The rock is Christ and His Church, to whom the afflicted ones flee."
     }
   ]
 }

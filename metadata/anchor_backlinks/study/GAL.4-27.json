@@ -2,22 +2,32 @@
   "anchor_id": "GAL.4:27",
   "canon_uri": "canon/NT/GAL.md#GAL.4:27",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "For it is written: 'Rejoice, O barren, You who do not bear!",
+  "pericope": {
+    "id": "GAL.P016",
+    "title": "An Allegory: Slavery and Sonship",
+    "range": "GAL.4:20-4:30",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/GEN_footnotes.md",
-      "line_number": 763,
+      "source_file": "study/footnotes/OT/GEN_footnotes.md",
+      "line_number": 537,
       "raw_match": "[[GAL.4:21]]-31",
       "reference_type": "wikilink_range",
-      "context": "In [[GAL.4:21]]-31, St. Paul uses Hagar and Sarah as an allegory, representing two"
+      "context": "In [[GAL.4:21]]-31, St. Paul uses Hagar and Sarah as an allegory, representing two covenants. Hagar and Ishmael represent the old covenant of the Law, which \"gives birth to bondage.\" Sarah and Isaac represent the new covenant, which gives birth to freedom. The Jerusalem below is made up of those under the bondage of the Law, but the Jerusalem above is the Church, those under the freedom of God's grace."
     },
     {
-      "source_file": "staging/validated/OT/SIR_footnotes.md",
-      "line_number": 1406,
+      "source_file": "study/footnotes/OT/SIR_footnotes.md",
+      "line_number": 1097,
       "raw_match": "[[GAL.4:21]]-31",
       "reference_type": "wikilink_range",
-      "context": "fulfilled (see [[ROM.3:29]]-31; 4:13-16; [[GAL.4:21]]-31; all of Hebrews but especially 12:18-29; [[1PE.2:4]]-10; [[REV.21:9]]-27)."
+      "context": "Though this prayer was for Israel, it was also for all on earth. Thus, the Church has become the New Jerusalem, the new Zion, the new nation in which the OT prophecies are fulfilled (see [[ROM.3:29]]-31; 4:13-16; [[GAL.4:21]]-31; all of Hebrews but especially 12:18-29; [[1PE.2:4]]-10; [[REV.21:9]]-27)."
     }
   ]
 }

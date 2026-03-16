@@ -2,11 +2,21 @@
   "anchor_id": "ACT.14:23",
   "canon_uri": "canon/NT/ACT.md#ACT.14:23",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "So when they had appointed elders in every church, and prayed with fasting, they commended them to the Lord in whom they had believed.",
+  "pericope": {
+    "id": "ACT.P048",
+    "title": "Return Visit",
+    "range": "ACT.14:20-14:24",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/ACT_articles.md",
+      "source_file": "study/articles/NT/ACT_articles.md",
       "line_number": 40,
       "raw_match": "[[ACT.14:23]]",
       "reference_type": "wikilink",

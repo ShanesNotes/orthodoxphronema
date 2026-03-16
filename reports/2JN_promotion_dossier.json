@@ -1,8 +1,8 @@
 {
   "book_code": "2JN",
   "testament": "NT",
-  "timestamp": "2026-03-13T13:36:30.747831",
-  "registry_version": "1.4.0",
+  "timestamp": "2026-03-15T18:29:25.281518",
+  "registry_version": "1.7.6",
   "body_checksum": "d5a0eb97b34184cda9b4f3503a170ac44d1afacfe325826d529bc68cc74efd38",
   "allow_incomplete": true,
   "staged_path": "/home/ark/orthodoxphronema/staging/validated/NT/2JN.md",

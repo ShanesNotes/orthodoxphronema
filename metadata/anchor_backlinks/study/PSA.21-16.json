@@ -2,15 +2,25 @@
   "anchor_id": "PSA.21:16",
   "canon_uri": "canon/OT/PSA.md#PSA.21:16",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "My strength is dried up like an earthen vessel; My tongue cleaves to my throat; And You led me into the dust of death.",
+  "pericope": {
+    "id": "PSA.P021",
+    "title": "Psalm 21",
+    "range": "PSA.21:1-21:32",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/JOH_footnotes.md",
-      "line_number": 3213,
+      "source_file": "study/footnotes/NT/JOH_footnotes.md",
+      "line_number": 2067,
       "raw_match": "[[PSA.21:16]]",
       "reference_type": "wikilink",
-      "context": "be delivered from spiritual thirst (4:13, 14; 7:37, 38). The Scripture refers to [[PSA.21:16]]."
+      "context": "I thirst: The Son of God assumed our human need for water in order that we might be delivered from spiritual thirst (4:13, 14; 7:37, 38). The Scripture refers to [[PSA.21:16]]."
     }
   ]
 }

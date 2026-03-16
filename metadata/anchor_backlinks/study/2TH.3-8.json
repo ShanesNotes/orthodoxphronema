@@ -2,15 +2,25 @@
   "anchor_id": "2TH.3:8",
   "canon_uri": "canon/NT/2TH.md#2TH.3:8",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "nor did we eat anyone's bread free of charge, but worked with labor and toil night and day, that we might not be a burden to any of you,",
+  "pericope": {
+    "id": "2TH.P007",
+    "title": "Be Industrious",
+    "range": "2TH.3:5-3:11",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/GEN_footnotes.md",
-      "line_number": 1942,
+      "source_file": "study/footnotes/OT/GEN_footnotes.md",
+      "line_number": 1443,
       "raw_match": "[[2TH.3:6]]-12",
       "reference_type": "wikilink_range",
-      "context": "Jacob's sons were lazy, and lazy people are unruly ([[2TH.3:6]]-12). Such people lack"
+      "context": "Jacob's sons were lazy, and lazy people are unruly ([[2TH.3:6]]-12). Such people lack reverence, lack self-control in speech, and are quick to abuse others (JohnCas). These sinful passions characterized Jacob's sons when they sold Joseph into Egypt."
     }
   ]
 }

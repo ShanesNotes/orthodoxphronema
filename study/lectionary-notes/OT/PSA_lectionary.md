@@ -29,9 +29,9 @@ extracted: 2026-03-14
 
 **13:1** — Ps 13 is used in the Ninth Royal Hour of Great and Holy Friday, the hour of Christ's death on the cross. Portions of vv. 1 and 3 form the prokeimenon before the reading from Jeremiah.
 
-**14:1** — Ps 14:1 is used in Orthros for the Feast of the Transfiguration.
+**14:1** — [[PSA.14:1]] is used in Orthros for the Feast of the Transfiguration.
 
-**15:1** — Ps 15:3 is often used in the services of the Church to honor the saints.
+**15:1** — [[PSA.15:3]] is often used in the services of the Church to honor the saints.
 
 **16:1** — Ps 16 is used in the Third Hour Prayers of the Church.
 
@@ -77,7 +77,7 @@ extracted: 2026-03-14
 
 **43:1** — (no occasion text)
 
-**44:1** — Verses 4, 5 are prayed by a priest as he vests for the Divine Liturgy, and v. 10 is recited in honor of the Mother of God as he prepares the holy gifts. Also, v. 18 is quoted in Lk 1:48 as part of the Magnificat, which is also sung in Orthros. Then too, this psalm is prayed in the First Royal Hour on Nativity Eve, and vv. 4, 5, and 8 are sung on the Sunday of the Samaritan Woman (see also Jn 4).
+**44:1** — Verses 4, 5 are prayed by a priest as he vests for the Divine Liturgy, and v. 10 is recited in honor of the Mother of God as he prepares the holy gifts. Also, v. 18 is quoted in [[LUK.1:48]] as part of the Magnificat, which is also sung in Orthros. Then too, this psalm is prayed in the First Royal Hour on Nativity Eve, and vv. 4, 5, and 8 are sung on the Sunday of the Samaritan Woman (see also Jn 4).
 
 **45:1** — Ps 45 is prayed during the First Royal Hour on Nativity Eve.
 
@@ -95,7 +95,7 @@ extracted: 2026-03-14
 
 **59:1** — Verse 6 is the inspiration for many Orthodox hymns concerning the cross of Christ.
 
-**60:1** — Ps 60:6 is prayed as the evening prokeimenon of Sunday Vespers during Great Lent.
+**60:1** — [[PSA.60:6]] is prayed as the evening prokeimenon of Sunday Vespers during Great Lent.
 
 **62:1** — Ps 62 is the third of the Six Psalms (3; 37; 62; 87; 102; 142) in Orthros.
 
@@ -121,7 +121,7 @@ extracted: 2026-03-14
 
 **79:1** — (no occasion text)
 
-**81:1** — Ps 81 is sung on Holy Saturday at the Liturgy of St. Basil, and again at Great Vespers, with v. 8 repeated as a refrain after each verse. Verse 6 is also quoted by Christ in Jn 10:34.
+**81:1** — Ps 81 is sung on Holy Saturday at the Liturgy of St. Basil, and again at Great Vespers, with v. 8 repeated as a refrain after each verse. Verse 6 is also quoted by Christ in [[JOH.10:34]].
 
 **83:1** — Ps 83 is read in the Ninth Hour each day, and also at the Feast of the Transfiguration.
 

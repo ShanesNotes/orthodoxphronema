@@ -2,15 +2,25 @@
   "anchor_id": "ACT.22:3",
   "canon_uri": "canon/NT/ACT.md#ACT.22:3",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Then he said: 'I am indeed a Jew, born in Tarsus of Cilicia, but brought up in this city at the feet of Gamaliel, taught according to the strictness of our fathers' law, and was zealous toward God as you all are today.",
+  "pericope": {
+    "id": "ACT.P080",
+    "title": "Paul's Defense at the Temple",
+    "range": "ACT.21:40-22:20",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/EPH_footnotes.md",
-      "line_number": 293,
+      "source_file": "study/footnotes/NT/EPH_footnotes.md",
+      "line_number": 181,
       "raw_match": "[[ACT.22:3]]-21",
       "reference_type": "wikilink_range",
-      "context": "God's revelation to Paul began on the road to Damascus ([[ACT.22:3]]-21). God was"
+      "context": "God's revelation to Paul began on the road to Damascus ([[ACT.22:3]]-21). God was gracious to Paul not for his own sake but for others (see [[ACT.9:15]], [[ACT.9:16]])."
     }
   ]
 }

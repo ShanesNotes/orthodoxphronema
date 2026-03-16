@@ -2,26 +2,36 @@
   "anchor_id": "2KI.1:3",
   "canon_uri": "canon/OT/2KI.md#2KI.1:3",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "But the Angel of the Lord said to Elijah the Tishbite, 'Arise, go and meet the messengers of Ahaziah, the king of Samaria, and say to them, 'Is it because there is no God in Israel that you are going to inquire of Baal-Zebub god of Ekron?",
+  "pericope": {
+    "id": "2KI.P001",
+    "title": "2 Kings \u2014 Opening",
+    "range": "2KI.1:1-1:17",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/MAT_footnotes.md",
-      "line_number": 1857,
+      "source_file": "study/footnotes/NT/MAT_footnotes.md",
+      "line_number": 1201,
       "raw_match": "[[2KI.1:2]]-16",
       "reference_type": "wikilink_range",
-      "context": "god worshipped by the Philistines ([[2KI.1:2]]-16). Here, he is called ruler of the demons"
+      "context": "Beelzebub, or Baal, was the prince of \"the dung heap\" or lord of \"the flies\"--a god worshipped by the Philistines ([[2KI.1:2]]-16). Here, he is called ruler of the demons (v. 24). The impossibility of demons fighting against themselves illustrates the irrational pride and envy of the Pharisees in their opposition to Jesus."
     },
     {
-      "source_file": "staging/validated/OT/JDG_footnotes.md",
-      "line_number": 441,
+      "source_file": "study/footnotes/OT/JDG_footnotes.md",
+      "line_number": 346,
       "raw_match": "[[2KI.1:2]]-3",
       "reference_type": "wikilink_range",
-      "context": "5:2-7; [[2KI.1:2]]-3). Molech was particularly known as a god requiring human sacrifice (Lv"
+      "context": "Tola saved (judged) Israel, and Jair helped sustain the forty-five years of peace Israel enjoyed. But Israel fell into idolatry and evil again, and the Lord, for their sake, delivered them into the hands of the Philistines, later to be invaded by the Ammonites (v. 7). The false gods Israel served included Ashtoreth of Sidon (3Kg 11:5, 33), Baal-peor and Chemosh of Moab ([[NUM.21:29]]; 25:3; 3Kg 11:7, 33), Melek (Molech, Milcom) of Ammon (Lv 18:21; 3Kg 11:5, 7, 33), and Dagon and Beelzebub, gods of the Philistines (16:23; 1Kg 5:2-7; [[2KI.1:2]]-3). Molech was particularly known as a god requiring human sacrifice (Lv"
     },
     {
-      "source_file": "staging/validated/OT/SIR_footnotes.md",
-      "line_number": 2066,
+      "source_file": "study/footnotes/OT/SIR_footnotes.md",
+      "line_number": 1628,
       "raw_match": "[[2KI.1:2]]-17",
       "reference_type": "wikilink_range",
       "context": "Apparently a reference to King Ahaziah (see [[2KI.1:2]]-17)."

@@ -2,15 +2,25 @@
   "anchor_id": "JOH.5:19",
   "canon_uri": "canon/NT/JOH.md#JOH.5:19",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Then Jesus answered and said to them, 'Most assuredly, I say to you, the Son can do nothing of Himself, but what He sees the Father do; for whatever He does, the Son also does in like manner.",
+  "pericope": {
+    "id": "JOH.P014",
+    "title": "Father and Son Work Together",
+    "range": "JOH.5:15-5:46",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/2JN_footnotes.md",
-      "line_number": 33,
+      "source_file": "study/footnotes/NT/2JN_footnotes.md",
+      "line_number": 25,
       "raw_match": "[[JOH.5:19]]",
       "reference_type": "wikilink",
-      "context": "does (see [[JOH.5:19]])."
+      "context": "Calling Christ the Son of the Father strongly refutes the deceivers and gnostics. Jesus is the Son; the Son is by nature what His Father is, and He does what His Father does (see [[JOH.5:19]])."
     }
   ]
 }

@@ -2,11 +2,21 @@
   "anchor_id": "JOL.2:31",
   "canon_uri": "canon/OT/JOL.md#JOL.2:31",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "The sun shall be turned into darkness and the moon into blood before the great and glorious day of the Lord comes to pass.",
+  "pericope": {
+    "id": "JOL.P005",
+    "title": "The Promise of the Holy Spirit",
+    "range": "JOL.2:28-3:21",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/GEN_articles.md",
+      "source_file": "study/articles/OT/GEN_articles.md",
       "line_number": 35,
       "raw_match": "[[JOL.2:28]]-32",
       "reference_type": "wikilink_range",

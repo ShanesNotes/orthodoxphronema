@@ -2,15 +2,25 @@
   "anchor_id": "MAT.8:31",
   "canon_uri": "canon/NT/MAT.md#MAT.8:31",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "So the demons begged Him, saying, 'If You cast us out, permit us to go away into the herd of swine.'",
+  "pericope": {
+    "id": "MAT.P019",
+    "title": "The Gergesene Demoniacs",
+    "range": "MAT.8:27-9:7",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/MRK_footnotes.md",
-      "line_number": 171,
+      "source_file": "study/footnotes/NT/MRK_footnotes.md",
+      "line_number": 122,
       "raw_match": "[[MAT.8:28]]-34",
       "reference_type": "wikilink_range",
-      "context": "14:8). For more on this miracle, see notes at [[MAT.8:28]]-34 and [[LUK.8:33]]."
+      "context": "The country of the Gadarenes was in Galilee, an area with many Gentiles living among the Jews (see also note at [[MAT.4:15]]). Gentile influence on the Jews caused many of them to take on Gentile practices, such as raising swine (v. 11), forbidden by the Law (Dt 14:8). For more on this miracle, see notes at [[MAT.8:28]]-34 and [[LUK.8:33]]."
     }
   ]
 }

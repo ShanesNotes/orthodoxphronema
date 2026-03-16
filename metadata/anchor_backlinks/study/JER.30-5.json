@@ -2,12 +2,22 @@
   "anchor_id": "JER.30:5",
   "canon_uri": "canon/OT/JER.md#JER.30:5",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "and it is not possible for the orphan to remain alive; but I shall live, and the widows will trust in Me.'",
+  "pericope": {
+    "id": "JER.P050",
+    "title": "Seventy Years of Disgrace",
+    "range": "JER.24:10-38:39",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/LAM_footnotes.md",
-      "line_number": 156,
+      "source_file": "study/footnotes/OT/LAM_footnotes.md",
+      "line_number": 137,
       "raw_match": "[[JER.30:1]]-16",
       "reference_type": "wikilink_range",
       "context": "For the punishment of Edom, see [[JER.30:1]]-16."

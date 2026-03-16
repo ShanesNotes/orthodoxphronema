@@ -2,22 +2,32 @@
   "anchor_id": "GEN.25:13",
   "canon_uri": "canon/OT/GEN.md#GEN.25:13",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "These were the names of Ishmael's sons, by their names, according to their families: Ishmael's firstborn, Nebajoth; then Kedar, Adbeel, Mibsam,",
+  "pericope": {
+    "id": "GEN.P038",
+    "title": "The Genealogy of Ishmael and Isaac",
+    "range": "GEN.25:11-25:25",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/JER_footnotes.md",
-      "line_number": 931,
+      "source_file": "study/footnotes/OT/JER_footnotes.md",
+      "line_number": 714,
       "raw_match": "[[GEN.25:13]]",
       "reference_type": "wikilink",
-      "context": "Kedar: The descendants of the son of Ishmael ([[GEN.25:13]]). The sons of Kedem"
+      "context": "Kedar: The descendants of the son of Ishmael ([[GEN.25:13]]). The sons of Kedem were associated with the Ammonites (see [[EZK.25:4]], [[EZK.25:10]])."
     },
     {
-      "source_file": "staging/validated/OT/SNG_footnotes.md",
-      "line_number": 81,
+      "source_file": "study/footnotes/OT/SNG_footnotes.md",
+      "line_number": 57,
       "raw_match": "[[GEN.25:13]]",
       "reference_type": "wikilink",
-      "context": "Ishmael ([[GEN.25:13]]), and in other references Kedar is a place of trouble ([[PSA.119:5]]). The"
+      "context": "The Fathers interpret the blackness of the Church as resulting either from sin or from persecution. \"When we were sinners and dark, God made us full of light and lovely by shining on us with His grace\" (GrgNy). Kedar means dark or black. Bedouin tents, the tents of Kedar, are made from the hides of black goats. Kedar was the second son of Ishmael ([[GEN.25:13]]), and in other references Kedar is a place of trouble ([[PSA.119:5]]). The curtains of Solomon, the curtains of the temple, were lavish in their opulence and beauty."
     }
   ]
 }

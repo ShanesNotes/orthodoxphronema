@@ -2,12 +2,22 @@
   "anchor_id": "LUK.22:8",
   "canon_uri": "canon/NT/LUK.md#LUK.22:8",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "And He sent Peter and John, saying, 'Go and prepare the Passover for us, that we may eat.'",
+  "pericope": {
+    "id": "LUK.P105",
+    "title": "Preparation for the Passover",
+    "range": "LUK.22:6-22:18",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/MRK_footnotes.md",
-      "line_number": 583,
+      "source_file": "study/footnotes/NT/MRK_footnotes.md",
+      "line_number": 396,
       "raw_match": "[[LUK.22:8]]",
       "reference_type": "wikilink",
       "context": "The two disciples are Peter and John ([[LUK.22:8]])."

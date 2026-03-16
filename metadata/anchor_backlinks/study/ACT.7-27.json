@@ -2,15 +2,25 @@
   "anchor_id": "ACT.7:27",
   "canon_uri": "canon/NT/ACT.md#ACT.7:27",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "But he who did his neighbor wrong pushed him away, saying, 'Who made you a ruler and a judge over us?",
+  "pericope": {
+    "id": "ACT.P023",
+    "title": "Stephen's Defense",
+    "range": "ACT.6:15-7:51",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/EXO_footnotes.md",
-      "line_number": 109,
+      "source_file": "study/footnotes/OT/EXO_footnotes.md",
+      "line_number": 81,
       "raw_match": "[[ACT.7:23]]-28",
       "reference_type": "wikilink_range",
-      "context": "understand his calling from God, but they did not ([[ACT.7:23]]-28). That generation never"
+      "context": "Moses was forty years old at this time, and he knew he was Israel's deliverer. Thus, he defended an Israelite and killed the Egyptian. He supposed the Israelites would understand his calling from God, but they did not ([[ACT.7:23]]-28). That generation never would."
     }
   ]
 }

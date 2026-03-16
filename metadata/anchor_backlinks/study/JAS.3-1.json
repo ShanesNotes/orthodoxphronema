@@ -2,22 +2,32 @@
   "anchor_id": "JAS.3:1",
   "canon_uri": "canon/NT/JAS.md#JAS.3:1",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "My brethren, let not many of you become teachers, knowing that we shall receive a stricter judgment.",
+  "pericope": {
+    "id": "JAS.P007",
+    "title": "The Work of Faith: Controlling What We Say",
+    "range": "JAS.2:26-3:11",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/LUK_footnotes.md",
-      "line_number": 1867,
+      "source_file": "study/footnotes/NT/LUK_footnotes.md",
+      "line_number": 1246,
       "raw_match": "[[JAS.3:1]]",
       "reference_type": "wikilink",
-      "context": "The judgment of the teachers of the Church will be strict ([[JAS.3:1]]). The many"
+      "context": "The judgment of the teachers of the Church will be strict ([[JAS.3:1]]). The many stripes given to those who are willfully and knowingly disobedient symbolize condemnation. The few stripes are for those disobedient out of ignorance and indicate chastisement or correction."
     },
     {
-      "source_file": "staging/validated/NT/MAT_footnotes.md",
-      "line_number": 3199,
+      "source_file": "study/footnotes/NT/MAT_footnotes.md",
+      "line_number": 2048,
       "raw_match": "[[JAS.3:1]]",
       "reference_type": "wikilink",
-      "context": "([[JAS.3:1]])."
+      "context": "Because the example of a leader can be so influential, leaders who do not love God can hinder others from finding Him as well. Thus, leaders are held to a higher standard ([[JAS.3:1]])."
     }
   ]
 }

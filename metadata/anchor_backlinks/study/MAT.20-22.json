@@ -2,12 +2,22 @@
   "anchor_id": "MAT.20:22",
   "canon_uri": "canon/NT/MAT.md#MAT.20:22",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "She said to Him, 'Grant that these two sons of mine may sit, one on Your right hand and the other on the left, in Your kingdom.' But Jesus answered and said, 'You do not know what you ask. Are you able to drink the cup that I am about to drink, and be baptized with the baptism that I am baptized with?'They said to Him, 'We are able.'",
+  "pericope": {
+    "id": "MAT.P067",
+    "title": "Leaders as Servants",
+    "range": "MAT.20:19-20:26",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/LUK_footnotes.md",
-      "line_number": 1889,
+      "source_file": "study/footnotes/NT/LUK_footnotes.md",
+      "line_number": 1261,
       "raw_match": "[[MAT.20:20]]-23",
       "reference_type": "wikilink_range",
       "context": "Baptism refers to Christ's Passion (see note at [[MAT.20:20]]-23)."

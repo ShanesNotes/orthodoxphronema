@@ -2,19 +2,29 @@
   "anchor_id": "AMO.8:9",
   "canon_uri": "canon/OT/AMO.md#AMO.8:9",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "'And it will come to pass in that day,' says the Lord God, 'the sun will set at noon, and the light of day will grow dark over the land.",
+  "pericope": {
+    "id": "AMO.P010",
+    "title": "The Bird-Catcher's Basket",
+    "range": "AMO.7:17-8:9",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/MAT_footnotes.md",
-      "line_number": 3831,
+      "source_file": "study/footnotes/NT/MAT_footnotes.md",
+      "line_number": 2452,
       "raw_match": "[[AMO.8:9]]",
       "reference_type": "wikilink",
       "context": "Darkness: See [[ZEC.14:6]], [[ZEC.14:7]]; [[AMO.8:9]]."
     },
     {
-      "source_file": "staging/validated/NT/MRK_footnotes.md",
-      "line_number": 727,
+      "source_file": "study/footnotes/NT/MRK_footnotes.md",
+      "line_number": 494,
       "raw_match": "[[AMO.8:9]]",
       "reference_type": "wikilink",
       "context": "Darkness: See [[ZEC.14:6]], [[ZEC.14:7]]; [[AMO.8:9]]."

@@ -2,22 +2,32 @@
   "anchor_id": "JOH.8:39",
   "canon_uri": "canon/NT/JOH.md#JOH.8:39",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "They answered and said to Him, 'Abraham is our father.'",
+  "pericope": {
+    "id": "JOH.P028",
+    "title": "Sons of the Devil Reject the Son of God",
+    "range": "JOH.8:36-8:50",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/GAL_footnotes.md",
-      "line_number": 373,
+      "source_file": "study/footnotes/NT/GAL_footnotes.md",
+      "line_number": 243,
       "raw_match": "[[JOH.8:39]]",
       "reference_type": "wikilink",
-      "context": "would do the works of Abraham\" ([[JOH.8:39]]), underscore the fact that separating faith from"
+      "context": "Who are the sons of Abraham? Those who are of faith (v. 7)--true Christians. Jews saw Abraham as their father. Paul shows that Abraham's righteousness (v. 6) does not consist in keeping the law, but in believing God (v. 9). Righteousness is a heartcentered belief in and obedience to God, with the blessing of the Holy Spirit. Accounted (v. 6) in our day suggests keeping the books, ledgers, CPAs. To \"account\" here (Gr. logizomai) refers rather to faithful participation. When God \"accounted\" Abraham righteous, Abraham was participating with God in the fruit of the Holy Spirit and faith (v. 5). With believing Abraham (v. 9) is literally \"in the faith of Abraham,\" that which he believed and did. This shows that Jesus' words, \"If you were Abraham's children, you would do the works of Abraham\" ([[JOH.8:39]]), underscore the fact that separating faith from works is impossible. To justify (v. 8) means to make righteous and so to be righteous. Therefore, to be blessed (v. 9) in Abraham is to participate with him, body and soul, in communion with God and His goodness."
     },
     {
-      "source_file": "staging/validated/NT/REV_footnotes.md",
-      "line_number": 423,
+      "source_file": "study/footnotes/NT/REV_footnotes.md",
+      "line_number": 260,
       "raw_match": "[[JOH.8:31]]-47",
       "reference_type": "wikilink_range",
-      "context": "compromising in their beliefs ([[JOH.8:31]]-47); or Jews who refused to embrace the Messiah"
+      "context": "The Smyrnan church was poor, perhaps because of the persecution, but spiritually rich, the opposite of Laodicea. The Jews of the synagogue of Satan may be either Jews in name only (see [[ROM.2:28]], [[ROM.2:29]]) who were insincere in their profession of Judaism and compromising in their beliefs ([[JOH.8:31]]-47); or Jews who refused to embrace the Messiah and His Church ([[ROM.2:28]]; [[GAL.6:15]])."
     }
   ]
 }

@@ -2,15 +2,25 @@
   "anchor_id": "EZK.25:10",
   "canon_uri": "canon/OT/EZK.md#EZK.25:10",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "I have given these cities, as well as the children of Ammon, as an inheritance to the sons of Kedem, so there may be no memory of the sons of Ammon.",
+  "pericope": {
+    "id": "EZK.P037",
+    "title": "Moab",
+    "range": "EZK.25:7-25:10",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/JER_footnotes.md",
-      "line_number": 933,
+      "source_file": "study/footnotes/OT/JER_footnotes.md",
+      "line_number": 715,
       "raw_match": "[[EZK.25:10]]",
       "reference_type": "wikilink",
-      "context": "were associated with the Ammonites (see [[EZK.25:4]], [[EZK.25:10]])."
+      "context": "Kedar: The descendants of the son of Ishmael ([[GEN.25:13]]). The sons of Kedem were associated with the Ammonites (see [[EZK.25:4]], [[EZK.25:10]])."
     }
   ]
 }

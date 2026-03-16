@@ -2,12 +2,22 @@
   "anchor_id": "EZK.48:35",
   "canon_uri": "canon/OT/EZK.md#EZK.48:35",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "The circumference shall be eighteen thousand cubits; and the name of the city from the day on which it takes place shall be its name.'",
+  "pericope": {
+    "id": "EZK.P091",
+    "title": "Exit Gates of the City",
+    "range": "EZK.48:29-48:35",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/BAR_footnotes.md",
-      "line_number": 185,
+      "source_file": "study/footnotes/OT/BAR_footnotes.md",
+      "line_number": 156,
       "raw_match": "[[EZK.48:35]]",
       "reference_type": "wikilink",
       "context": "He who named you: Scripture does not describe a precise naming of Jerusalem; this refers to the renaming described in 5:4 (see Is 60:14; 62:4; [[JER.33:16]]; [[EZK.48:35]])."

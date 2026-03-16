@@ -2,15 +2,25 @@
   "anchor_id": "EZK.18:20",
   "canon_uri": "canon/OT/EZK.md#EZK.18:20",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "But the soul who sins shall die. The son shall not bear the wrongdoing of his father, nor shall the father bear the wrongdoing of his son. The righteousness of a righteous man shall be upon himself, and the lawlessness of a lawless man shall be upon himself.",
+  "pericope": {
+    "id": "EZK.P022",
+    "title": "Personal Accountability",
+    "range": "EZK.17:24-18:31",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/JOH_footnotes.md",
-      "line_number": 1569,
+      "source_file": "study/footnotes/NT/JOH_footnotes.md",
+      "line_number": 989,
       "raw_match": "[[EZK.18:19]]-21",
       "reference_type": "wikilink_range",
-      "context": "parents (see [[EXO.20:5]]; [[DEU.5:9]]; contrast [[EZK.18:19]]-21). Though suffering can be the direct"
+      "context": "The Savior rejects the assumption (common in the ancient world) that all troubles and maladies are necessarily the consequence of personal sin or even the sins of one's parents (see [[EXO.20:5]]; [[DEU.5:9]]; contrast [[EZK.18:19]]-21). Though suffering can be the direct result of personal sin, this is certainly not always the case (see note at 5:14). In this instance, the man's blindness provided the occasion for the works of God to be revealed; it was not related directly to the man's personal sins."
     }
   ]
 }

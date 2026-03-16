@@ -16,12 +16,12 @@ the Book of Acts and the birth of the Church at Pentecost. For on that day the H
 descended on the twelve apostles in the Upper Room, and by afternoon some 3000 souls
 believed in Christ and were baptized. The Scriptures record that when the first Christian
 community began, "they were continually devoting themselves to the apostles' teaching and
-to fellowship, to the breaking of bread and to prayer" (Acts 2:42).
-From Jerusalem, the faith in Christ spread throughout Judea, to Samaria (Acts 8:5–39), to
-Antioch and the Gentiles (Acts 11:19–26). We find new converts and new Churches
+to fellowship, to the breaking of bread and to prayer" ([[ACT.2:42]]).
+From Jerusalem, the faith in Christ spread throughout Judea, to Samaria ([[ACT.8:5]]–39), to
+Antioch and the Gentiles ([[ACT.11:19]]–26). We find new converts and new Churches
 throughout Asia Minor and the Roman Empire as recorded in Acts and the Epistles.
 The Church, of course, was not simply another organization in Roman society. The Lord
-Jesus Christ had given the promise of the Holy Spirit "to lead you into all truth" (Jn 16:13).
+Jesus Christ had given the promise of the Holy Spirit "to lead you into all truth" ([[JOH.16:13]]).
 With the fulfillment of that promise beginning with Pentecost, the Church was born far
 beyond mere institutional status. She was not an organization with mystery, but a mystery
 with organization. St. Paul called the Church "a dwelling place of God in the Spirit" (Eph
@@ -32,7 +32,7 @@ But we also discover in the New Testament itself that the Church had her share o
 problems. All was not perfection. Some individuals even within the Church sought to lead her
 off the path the apostles established, and they had to be dealt with along with the errors they
 invented. Even whole local communities lapsed on occasion and were called to repentance.
-The Church in Laodicea is a vivid example (Rev 3:14–22). Discipline was administered for the
+The Church in Laodicea is a vivid example ([[REV.3:14]]–22). Discipline was administered for the
 sake of purity in the Church. But there was growth and maturation, even as the Church was
 attacked from within and without. The same Spirit who gave her birth gave her power for
 
@@ -48,13 +48,13 @@ praise and thanksgiving to Him? Third, we will consider Church government. What 
 polity did the Church practice?
 1. Doctrine: Not only did the Church begin under the teaching of the apostles, but she was
 also instructed to "stand fast and hold the traditions which you were taught, whether by word
-or our epistle" (2Th 2:15). The apostle Paul insisted that those matters delivered by him and
+or our epistle" ([[2TH.2:15]]). The apostle Paul insisted that those matters delivered by him and
 his fellow apostles, both in person and in the writings that would come to be called the New
 Testament, be adhered to carefully. Thus, followed such appropriate warnings as "in the
 name of Jesus Christ... withdraw from every brother who walks disorderly and not
-according to the tradition which he received from us" (2Th 3:6). The doctrines taught by
+according to the tradition which he received from us" ([[2TH.3:6]]). The doctrines taught by
 Christ and His disciples are to be safeguarded by "the Church, the pillar and support of the
-truth" (1Ti 3:15) and are not open for renegotiation.
+truth" ([[1TI.3:15]]) and are not open for renegotiation.
 Midway through the first century, a dispute had arisen in Antioch over adherence to Old
 Testament laws. The matter could not be settled there; outside help was needed. The leaders
 of the Antiochian Church, the community which had earlier dispatched Paul and Barnabas as
@@ -62,7 +62,7 @@ missionaries, brought the matter to Jerusalem for consideration by the apostles 
 there. The matter was discussed, debated, and a written decision was forthcoming.
 It was James, the brother of the Lord and the first bishop of Jerusalem, who put forth the
 solution to the problem. This settlement, agreed to by all concerned at what is known as the
-Council of Jerusalem (Acts 15:1–35), set the pattern for the use of Church councils in the
+Council of Jerusalem ([[ACT.15:1]]–35), set the pattern for the use of Church councils in the
 centuries ahead to settle doctrinal and moral issues that arose. Thus, throughout the history
 of the Church we find scores of such councils, and on various levels, to settle matters of
 dispute and to deal with those who do not adhere to the Apostolic faith.
@@ -100,8 +100,8 @@ At the Last Supper, Jesus instituted the Eucharist, the communion service, when 
 bread and wine, gave a blessing, and said to His disciples, "This is My body which is given for
 you; do this in remembrance of Me" and "This cup is the new covenant in My blood, which is
 
-shed for you" (Lk 22:19, 21). From the New Testament we know the Church participated in
-communion at least each Lord's Day (Acts 20:7, 11). From such first and second century
+shed for you" ([[LUK.22:19]], [[LUK.22:21]]). From the New Testament we know the Church participated in
+communion at least each Lord's Day ([[ACT.20:7]], [[ACT.20:11]]). From such first and second century
 sources as the Didache, the letters of St. Ignatius of Antioch, and St. Justin Martyr, we are
 assured the Eucharist is the very center of Christian worship from the Apostolic era on.
 And just as the Law, the Psalms, and the Prophets were read in the Temple worship and the
@@ -132,12 +132,12 @@ person. The Church saw these events as holy moments in her life and called them 
 or sacraments.
 3. Government: No one seriously questions whether the apostles of Christ led the Church
 
-at her beginning. They had been given the commission to preach the Gospel (Mt 28:19, 20)
-and the authority to forgive or retain sins (Jn 20:23). Theirs was by no means a preachingonly mission! They built the Church itself under Christ's headship. To govern it, three
+at her beginning. They had been given the commission to preach the Gospel ([[MAT.28:19]], [[MAT.28:20]])
+and the authority to forgive or retain sins ([[JOH.20:23]]). Theirs was by no means a preachingonly mission! They built the Church itself under Christ's headship. To govern it, three
 definite and permanent offices, as taught in the New Testament, were in evidence.
 a. The office of bishop. The apostles themselves were the first bishops in the Church. Even
-before Pentecost, after Judas had turned traitor, Peter declared in applying Psalm 108:8, "Let
-his bishopric another take" (Acts 1:20). The word "bishopric" refers, of course, to the office of
+before Pentecost, after Judas had turned traitor, Peter declared in applying [[PSA.108:8]], "Let
+his bishopric another take" ([[ACT.1:20]]). The word "bishopric" refers, of course, to the office of
 bishop and its use indicates the apostles themselves are bishops. Some have mistakenly
 argued the office of bishop was a later invention. Quite to the contrary, the apostles were
 themselves bishops, and they appointed bishops to succeed them to oversee the Church in
@@ -161,7 +161,7 @@ very capacity of being the presence of the Chief Shepherd, Jesus Christ, the pri
 safeguard the flock of God.
 c. The office of deacon. The third order or office in the government of the New Testament
 Church was the deacon. At first the apostles fulfilled this office themselves. But with the
-rapid growth of the Church, seven initial deacons were selected (Acts 6:1–7) to help carry the
+rapid growth of the Church, seven initial deacons were selected ([[ACT.6:1]]–7) to help carry the
 
 responsibility of service to those in need. It was one of these deacons, Stephen, who became
 the first martyr of the Church.
@@ -171,7 +171,7 @@ ears of the bishop," many deacons have become priests and ultimately entered the
 office.
 The authority of the bishop, presbyter, and deacon was not anciently understood as being
 apart from the people, but always from among the people. In turn the people of God were
-called to submit to those who ruled over them (Heb 13:17), and they were also called to give
+called to submit to those who ruled over them ([[HEB.13:17]]), and they were also called to give
 their agreement to the direction of the leaders for the Church. On a number of occasions in
 history, that "Amen" was not forthcoming, and the bishops of the Church took note and
 changed course. Later in history, many Church leaders departed from the ancient model and
@@ -181,7 +181,7 @@ It should also be mentioned that it was out of the ministry and life of the apos
 people of God, the laity, were established in the Church. Far from being a herd of observers,
 the laity are vital in the effectiveness of the Church. They are the recipients and active users
 of the gifts and grace of the Spirit. Each of the laity has a role in the life and function of the
-Church. Each is to supply something to the whole (1Co 12:7). And it is the responsibility of
+Church. Each is to supply something to the whole ([[1CO.12:7]]). And it is the responsibility of
 the bishops, the priests, and the deacons to be sure that this is a reality for the laity.
 The worship of the Church at the close of its first 1000 years had substantially the same
 shape from place to place. The doctrine was the same. The whole Church confessed one
@@ -367,4 +367,4 @@ communion with the Holy Spirit.
 For two thousand years the Orthodox Church has by God's mercy kept the faith delivered
 once for all to the saints. Within her walls is the fullness of the salvation which was realized
 when "God so loved the world that He gave His only-begotten Son, that whoever believes in
-Him should not perish, but have everlasting life" (Jn 3:16).
+Him should not perish, but have everlasting life" ([[JOH.3:16]]).

@@ -2,22 +2,32 @@
   "anchor_id": "MAT.6:5",
   "canon_uri": "canon/NT/MAT.md#MAT.6:5",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "'And when you pray, you shall not be like the hypocrites. For they love to pray standing in the synagogues and on the corners of the streets, that they may be seen by men. Assuredly, I say to you, they have their reward.",
+  "pericope": {
+    "id": "MAT.P014",
+    "title": "How to Give Alms",
+    "range": "MAT.5:48-6:14",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/1JN_footnotes.md",
-      "line_number": 177,
+      "source_file": "study/footnotes/NT/1JN_footnotes.md",
+      "line_number": 111,
       "raw_match": "[[MAT.6:1]]-18",
       "reference_type": "wikilink_range",
-      "context": "almsgiving (see [[MAT.6:1]]-18)--help us overcome these distortions and live lives of virtue."
+      "context": "The world distorts every realm of God's good creation (see [[JAS.1:13]], [[JAS.1:14]]). There are (1) sensual pleasures of the flesh (physical passions), (2) intellectual attainments and capacities of the eyes (the soul's passions), and (3) inordinate possessions, power, and honors of life (the pride of human spirit). Biblical ascetic practices--prayer, fasting, almsgiving (see [[MAT.6:1]]-18)--help us overcome these distortions and live lives of virtue."
     },
     {
-      "source_file": "staging/validated/NT/1TI_footnotes.md",
-      "line_number": 119,
+      "source_file": "study/footnotes/NT/1TI_footnotes.md",
+      "line_number": 84,
       "raw_match": "[[MAT.6:5]]",
       "reference_type": "wikilink",
-      "context": "secretly, not to be seen by men ([[MAT.6:5]], [[MAT.6:6]])? No. The warning is against spiritual"
+      "context": "Prayer must be united with quiet and godly behavior. Does this contradict praying secretly, not to be seen by men ([[MAT.6:5]], [[MAT.6:6]])? No. The warning is against spiritual showmanship, not congregational prayer. The secret \"room\" ([[MAT.6:6]]) is a person's innermost being, perfectly consistent with praying everywhere. In contrast to the Jewish emphasis on one primary earthly place for prayer (the temple in Jerusalem), Christians experience the fullness of prayer wherever they may be."
     }
   ]
 }

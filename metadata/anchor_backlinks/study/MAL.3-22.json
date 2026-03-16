@@ -2,15 +2,25 @@
   "anchor_id": "MAL.3:22",
   "canon_uri": "canon/OT/MAL.md#MAL.3:22",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "'Behold, I will send you Elijah before the coming of the great and glorious day of the Lord.",
+  "pericope": {
+    "id": "MAL.P007",
+    "title": "The Day of the Lord",
+    "range": "MAL.3:18-3:24",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/REV_footnotes.md",
-      "line_number": 1545,
+      "source_file": "study/footnotes/NT/REV_footnotes.md",
+      "line_number": 955,
       "raw_match": "[[MAL.3:22]]",
       "reference_type": "wikilink",
-      "context": "Elijah would return to preach in the last days ([[MAL.3:22]]; [[MAT.4:5]]). Although Jesus"
+      "context": "The identity of the two witnesses is much disputed. The most common opinion of the church fathers is that they represent Elijah and Enoch, who were believed to have ascended to heaven. In Jewish tradition, Moses is frequently substituted for Enoch on the basis of the tradition that he, too, ascended to heaven. It was Moses who appeared with Elijah at the Transfiguration of Jesus. John most likely drew on the Jewish tradition that Elijah would return to preach in the last days ([[MAL.3:22]]; [[MAT.4:5]]). Although Jesus identified the Elijah figure with John the Baptist, many continued to believe in an actual appearance of Elijah before the end. Sackcloth was the ancient garb of penitence (see [[JER.4:8]]; [[MAT.11:21]]). The prophecy of the two witnesses will continue for 1,260 days (42 months or 3-1/2 years; see [[DAN.7:25]]; 12:7). This period may be interpreted as \"fullness\" (i.e., seven) arrested halfway, imperfect, impermanent, not necessarily to be taken in a numerically literal manner."
     }
   ]
 }

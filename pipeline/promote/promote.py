@@ -114,24 +114,39 @@ def split_frontmatter(text: str) -> tuple[str, str]:
 
 def update_frontmatter(fm_block: str, promote_date: str, checksum: str) -> str:
     """
-    Replace promote_date, status, and checksum fields in the frontmatter block.
+    Replace or inject promote_date, status, and checksum fields in the frontmatter block.
     """
     fm = fm_block
-    fm = re.sub(
-        r'^(promote_date:\s*).*$',
-        rf'\g<1>"{promote_date}"',
-        fm, flags=re.MULTILINE
-    )
-    fm = re.sub(
-        r'^(status:\s*).*$',
-        r'\g<1>promoted',
-        fm, flags=re.MULTILINE
-    )
-    fm = re.sub(
-        r'^(checksum:\s*).*$',
-        rf'\g<1>"{checksum}"',
-        fm, flags=re.MULTILINE
-    )
+
+    def _inject_before_closing(block: str, field_line: str) -> str:
+        """Insert a field line just before the closing --- delimiter."""
+        lines = block.splitlines(keepends=True)
+        # Find the last --- line
+        for i in range(len(lines) - 1, -1, -1):
+            if lines[i].strip() == "---":
+                lines.insert(i, field_line + "\n")
+                return "".join(lines)
+        # Fallback: append
+        return block.rstrip("\n") + "\n" + field_line + "\n"
+
+    # promote_date
+    if re.search(r'^promote_date:', fm, re.MULTILINE):
+        fm = re.sub(r'^(promote_date:\s*).*$', rf'\g<1>"{promote_date}"', fm, flags=re.MULTILINE)
+    else:
+        fm = _inject_before_closing(fm, f'promote_date: "{promote_date}"')
+
+    # checksum
+    if re.search(r'^checksum:', fm, re.MULTILINE):
+        fm = re.sub(r'^(checksum:\s*).*$', rf'\g<1>"{checksum}"', fm, flags=re.MULTILINE)
+    else:
+        fm = _inject_before_closing(fm, f'checksum: "{checksum}"')
+
+    # status (should always exist, but inject if missing)
+    if re.search(r'^status:', fm, re.MULTILINE):
+        fm = re.sub(r'^(status:\s*).*$', r'\g<1>promoted', fm, flags=re.MULTILINE)
+    else:
+        fm = _inject_before_closing(fm, 'status: promoted')
+
     return fm
 
 
@@ -162,7 +177,7 @@ def generate_dossier(book_code: str, testament: str,
         def _is_check_msg(msg: str, check_name: str) -> bool:
             return msg.startswith(f"{check_name} ")
 
-        for cn in [f"V{i}" for i in range(1, 11)]:
+        for cn in [f"V{i}" for i in range(1, 14)]:
             msgs = [m for m, _ in all_msgs if _is_check_msg(m, cn)]
             has_err = any(t == "error" for m, t in all_msgs if _is_check_msg(m, cn))
             has_warn = any(t == "warning" for m, t in all_msgs if _is_check_msg(m, cn))

@@ -2,22 +2,32 @@
   "anchor_id": "JOH.5:30",
   "canon_uri": "canon/NT/JOH.md#JOH.5:30",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "I can of Myself do nothing. As I hear, I judge; and My judgment is righteous, because I do not seek My own will but the will of the Father who sent Me.",
+  "pericope": {
+    "id": "JOH.P014",
+    "title": "Father and Son Work Together",
+    "range": "JOH.5:15-5:46",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/GAL_footnotes.md",
-      "line_number": 27,
+      "source_file": "study/footnotes/NT/GAL_footnotes.md",
+      "line_number": 20,
       "raw_match": "[[JOH.5:30]]",
       "reference_type": "wikilink",
-      "context": "cooperating with the divine will ([[JOH.5:30]]; 6:38). The Father's will is done by Jesus, and"
+      "context": "Paul's greeting encapsulates the true gospel, which he is defending in this epistle. Several points may be drawn from this greeting: (1) The true gospel comes from God Himself (v. 3). (2) Christ gave Himself for our sins not only in His death, but in every phase of His Incarnation, from conception to Ascension (see 2:20). (3) Christ delivers us from this present evil age (v. 4) to enter the age to come. (4) This deliverance is accomplished according to the will of our God (v. 4), the Son in His human nature cooperating with the divine will ([[JOH.5:30]]; 6:38). The Father's will is done by Jesus, and then by us, \"on earth as it is in heaven\" ([[MAT.6:10]])."
     },
     {
-      "source_file": "staging/validated/NT/MAT_footnotes.md",
-      "line_number": 495,
+      "source_file": "study/footnotes/NT/MAT_footnotes.md",
+      "line_number": 320,
       "raw_match": "[[JOH.5:30]]",
       "reference_type": "wikilink",
-      "context": "nothing of Himself ([[JOH.5:30]]), apart from the Father. But in His humanity, He possesses"
+      "context": "The devil challenges Christ's relationship to the Father. If You are the Son of God calls into question the Father's declaration at Christ's Baptism (3:17). The devil wants Jesus to act independently and to detach Himself from the will of the Father. In His divine nature, Christ shares one will with the Father and the Holy Spirit; He can do nothing of Himself ([[JOH.5:30]]), apart from the Father. But in His humanity, He possesses free will and at all times must choose to remain obedient to the divine will of the Father."
     }
   ]
 }

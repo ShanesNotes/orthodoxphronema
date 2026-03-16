@@ -2,15 +2,25 @@
   "anchor_id": "LUK.14:15",
   "canon_uri": "canon/NT/LUK.md#LUK.14:15",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Now when one of those who sat at the table with Him heard these things, he said to Him, 'Blessed is he who shall eat bread in the kingdom of God!'",
+  "pericope": {
+    "id": "LUK.P072",
+    "title": "Worldly Entanglements, Poor Excuses",
+    "range": "LUK.14:14-14:23",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/EST_footnotes.md",
-      "line_number": 45,
+      "source_file": "study/footnotes/OT/EST_footnotes.md",
+      "line_number": 34,
       "raw_match": "[[LUK.14:15]]-24",
       "reference_type": "wikilink_range",
-      "context": "is self-centered, as in Christ's parable of the wedding feast ([[MAT.22:1]]-14; [[LUK.14:15]]-24)."
+      "context": "Queen Vashti's refusal to attend the king's festival, being preoccupied with her own, serves as a warning to those who see themselves as followers of the King but whose heart is self-centered, as in Christ's parable of the wedding feast ([[MAT.22:1]]-14; [[LUK.14:15]]-24)."
     }
   ]
 }

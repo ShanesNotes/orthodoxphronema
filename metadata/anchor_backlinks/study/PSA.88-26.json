@@ -2,12 +2,22 @@
   "anchor_id": "PSA.88:26",
   "canon_uri": "canon/OT/PSA.md#PSA.88:26",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "I will put his hand in the sea And his right hand in the rivers.",
+  "pericope": {
+    "id": "PSA.P088",
+    "title": "Psalm 88",
+    "range": "PSA.88:1-88:53",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/3MA_footnotes.md",
-      "line_number": 397,
+      "source_file": "study/footnotes/OT/3MA_footnotes.md",
+      "line_number": 337,
       "raw_match": "[[PSA.88:26]]",
       "reference_type": "wikilink",
       "context": "References to God as Father exist several times in the Old Testament (2:21; [[PSA.88:26]]; Tb 13:4; WSol 2:16; WSir 23:4; 2Ez 1:29)."

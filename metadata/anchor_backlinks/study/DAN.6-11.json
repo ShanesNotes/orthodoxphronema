@@ -2,15 +2,25 @@
   "anchor_id": "DAN.6:11",
   "canon_uri": "canon/OT/DAN.md#DAN.6:11",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Now when Daniel learned that the decree was posted, he entered his house, where the windows facing Jerusalem were open to him in the upper rooms, and he knelt down on his knees three times that day and prayed and gave thanks to his God, as he was doing before.",
+  "pericope": {
+    "id": "DAN.P020",
+    "title": "A Plot against Daniel",
+    "range": "DAN.5:30-6:18",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/ACT_footnotes.md",
-      "line_number": 253,
+      "source_file": "study/footnotes/NT/ACT_footnotes.md",
+      "line_number": 173,
       "raw_match": "[[DAN.6:11]]",
       "reference_type": "wikilink",
-      "context": "hours of prayer, just as believers had done for centuries ([[PSA.54:18]]; [[DAN.6:11]]). The practice"
+      "context": "At the hour of prayer, the ninth hour: The apostles were observing regular Jewish hours of prayer, just as believers had done for centuries ([[PSA.54:18]]; [[DAN.6:11]]). The practice of praying at the first (6:00 a.m.), third (9:00 a.m.), sixth (12:00 noon), and ninth (3:00 p.m.) hours of the day carried over into the Church from the start. This practice continues to this day in the Orthodox Church in private prayers, in monasteries, and in some parishes. (See also 10:3, 9, 30.) 3:1-10 The apostles participate not only in preaching and teaching but in healing as well. The sacrament of healing manifests God's presence in the Church and confirms the message of the gospel."
     }
   ]
 }

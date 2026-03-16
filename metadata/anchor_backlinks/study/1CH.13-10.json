@@ -2,15 +2,25 @@
   "anchor_id": "1CH.13:10",
   "canon_uri": "canon/OT/1CH.md#1CH.13:10",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Then the anger of the Lord was aroused against Uzza, and He struck him because he put his hand upon the ark. He died there before God.",
+  "pericope": {
+    "id": "1CH.P042",
+    "title": "The Ark Is Moved from Kirjath-Jearim",
+    "range": "1CH.12:41-13:13",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/2SA_footnotes.md",
-      "line_number": 199,
+      "source_file": "study/footnotes/OT/2SA_footnotes.md",
+      "line_number": 156,
       "raw_match": "[[1CH.13:1]]-14",
       "reference_type": "wikilink_range",
-      "context": "The ark is now to be brought up to Jerusalem from Gibeon (see [[1CH.13:1]]-14). It has"
+      "context": "The ark is now to be brought up to Jerusalem from Gibeon (see [[1CH.13:1]]-14). It has been in the care of Eleazar (see 1Kg 7:1). This will help unify Judah and Israel by establishing Jerusalem as the primary sanctuary."
     }
   ]
 }

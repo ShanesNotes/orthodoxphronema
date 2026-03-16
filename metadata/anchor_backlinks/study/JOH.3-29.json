@@ -2,15 +2,25 @@
   "anchor_id": "JOH.3:29",
   "canon_uri": "canon/NT/JOH.md#JOH.3:29",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "He who has the bride is the bridegroom; but the friend of the bridegroom, who stands and hears him, rejoices greatly because of the bridegroom's voice. Therefore this joy of mine is fulfilled.",
+  "pericope": {
+    "id": "JOH.P011",
+    "title": "The Preaching of John the Baptist",
+    "range": "JOH.3:21-4:44",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/MAT_footnotes.md",
-      "line_number": 2985,
+      "source_file": "study/footnotes/NT/MAT_footnotes.md",
+      "line_number": 1917,
       "raw_match": "[[JOH.3:29]]",
       "reference_type": "wikilink",
-      "context": "25:1-13), for Christ is often called the \"Bridegroom\" (9:15; [[JOH.3:29]]), and St. Paul uses a"
+      "context": "Like the preceding parables, this one also proclaims the transfer of the Kingdom from the faithless Jews to the Gentiles. It is set as a joyful wedding banquet (v. 2; see 25:1-13), for Christ is often called the \"Bridegroom\" (9:15; [[JOH.3:29]]), and St. Paul uses a marriage analogy for the Kingdom ([[EPH.5:21]]-33). The repeated sending out of servants shows the Father's great desire to have His people with Him in the Kingdom. The first group (v. 3) is interpreted to be Moses and those with him, while the second group (v. 4) is composed of the prophets. These groups call those initially invited--the Jews. The third group (v. 9) represents the apostles sent to the Gentiles, those not initially invited, but now called."
     }
   ]
 }

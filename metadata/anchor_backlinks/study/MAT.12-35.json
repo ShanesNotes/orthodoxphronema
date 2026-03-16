@@ -2,12 +2,22 @@
   "anchor_id": "MAT.12:35",
   "canon_uri": "canon/NT/MAT.md#MAT.12:35",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "A good man out of the good treasure of his heart brings forth good things, and an evil man out of the evil treasure brings forth evil things.",
+  "pericope": {
+    "id": "MAT.P036",
+    "title": "Is Jesus from God?",
+    "range": "MAT.12:21-12:44",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/SIR_footnotes.md",
-      "line_number": 1756,
+      "source_file": "study/footnotes/OT/SIR_footnotes.md",
+      "line_number": 1389,
       "raw_match": "[[MAT.12:31]]-37",
       "reference_type": "wikilink_range",
       "context": "The Lord Jesus Christ elaborated on this thought ([[MAT.12:31]]-37)."

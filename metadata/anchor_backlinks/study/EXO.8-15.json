@@ -1,0 +1,26 @@
+{
+  "anchor_id": "EXO.8:15",
+  "canon_uri": "canon/OT/EXO.md#EXO.8:15",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-16T02:01:16+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Then the sorcerers said to Pharaoh, 'This is the finger of God.' But Pharaoh's heart was hardened, and he did not heed them, as the Lord said.",
+  "pericope": {
+    "id": "EXO.P013",
+    "title": "The Plague of Flies",
+    "range": "EXO.8:15-8:27",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
+  "links": [
+    {
+      "source_file": "study/footnotes/NT/JOH_footnotes.md",
+      "line_number": 1428,
+      "raw_match": "[[EXO.8:15]]",
+      "reference_type": "wikilink",
+      "context": "According to St. John Chrysostom, Isaiah's prophecy does not mean God causes spiritual blindness in people who would otherwise have been faithful. This is a figure of speech common to Scripture revealing God as giving people up to their own devices (as in [[ROM.1:24]], [[ROM.1:26]]). What is meant by He has blinded is that God has permitted their selfchosen blindness (compare [[EXO.8:15]], 32 with [[EXO.10:20]], [[EXO.10:27]]). They did not become blind because God spoke through Isaiah, but rather Isaiah spoke because he foresaw their blindness."
+    }
+  ]
+}

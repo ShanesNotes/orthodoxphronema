@@ -2,15 +2,25 @@
   "anchor_id": "JOH.6:29",
   "canon_uri": "canon/NT/JOH.md#JOH.6:29",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Jesus answered and said to them, 'This is the work of God, that you believe in Him whom He sent.'",
+  "pericope": {
+    "id": "JOH.P018",
+    "title": "Jesus, the Bread of Life",
+    "range": "JOH.6:29-6:41",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/MAT_footnotes.md",
-      "line_number": 1033,
+      "source_file": "study/footnotes/NT/MAT_footnotes.md",
+      "line_number": 665,
       "raw_match": "[[JOH.6:27]]-58",
       "reference_type": "wikilink_range",
-      "context": "physical health, but for the spiritual bread of eternal life ([[JOH.6:27]]-58)."
+      "context": "Daily is a misleading translation of the Greek epiousios, which is literally \"above the essence,\" or \"supersubstantial.\" The expression daily bread indicates not merely bread for this day, for earthly nourishment; it is the bread for the eternal day of the Kingdom of God, for the nourishment of our immortal soul. This living, supersubstantial bread is Christ Himself. In the Lord's Prayer, then, we are not asking merely for material bread for physical health, but for the spiritual bread of eternal life ([[JOH.6:27]]-58)."
     }
   ]
 }

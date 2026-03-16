@@ -2,12 +2,22 @@
   "anchor_id": "LUK.5:15",
   "canon_uri": "canon/NT/LUK.md#LUK.5:15",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "However, the report went around concerning Him all the more; and great multitudes came together to hear, and to be healed by Him of their infirmities.",
+  "pericope": {
+    "id": "LUK.P023",
+    "title": "Four Fishermen Called",
+    "range": "LUK.4:44-5:15",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/MRK_footnotes.md",
-      "line_number": 73,
+      "source_file": "study/footnotes/NT/MRK_footnotes.md",
+      "line_number": 53,
       "raw_match": "[[LUK.5:12]]-16",
       "reference_type": "wikilink_range",
       "context": "On the cleansing of the leper, see notes at [[MAT.8:1]]-4 and [[LUK.5:12]]-16."

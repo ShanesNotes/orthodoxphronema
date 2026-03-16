@@ -2,22 +2,32 @@
   "anchor_id": "NUM.6:19",
   "canon_uri": "canon/OT/NUM.md#NUM.6:19",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Then the priest shall take the boiled shoulder of the ram, one unleavened loaf from the basket, and one unleavened cake, and put these upon the hands of the one vowing after he has shaved the head of his vow;",
+  "pericope": {
+    "id": "NUM.P014",
+    "title": "Law Concerning Vows",
+    "range": "NUM.5:31-6:20",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/ACT_footnotes.md",
-      "line_number": 1781,
+      "source_file": "study/footnotes/NT/ACT_footnotes.md",
+      "line_number": 1117,
       "raw_match": "[[NUM.6:1]]-21",
       "reference_type": "wikilink_range",
-      "context": "The vow Paul makes is likely a form of the Nazirite vow ([[NUM.6:1]]-21) given in"
+      "context": "The vow Paul makes is likely a form of the Nazirite vow ([[NUM.6:1]]-21) given in thanksgiving for deliverance from danger."
     },
     {
-      "source_file": "staging/validated/OT/LAM_footnotes.md",
-      "line_number": 126,
+      "source_file": "study/footnotes/OT/LAM_footnotes.md",
+      "line_number": 112,
       "raw_match": "[[NUM.6:19]]",
       "reference_type": "wikilink",
-      "context": "Nazirites ([[NUM.6:2]], [[NUM.6:19]], [[NUM.6:20]]) were the \"monks\" of Israel who never cut their hair, refused"
+      "context": "Not only did the people apostatize, the Nazirites became blacker than soot. The Nazirites ([[NUM.6:2]], [[NUM.6:19]], [[NUM.6:20]]) were the \"monks\" of Israel who never cut their hair, refused wine, and devoted themselves entirely to God. By this we see that Israel was utterly desolate."
     }
   ]
 }

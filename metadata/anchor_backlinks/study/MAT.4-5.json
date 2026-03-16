@@ -2,29 +2,39 @@
   "anchor_id": "MAT.4:5",
   "canon_uri": "canon/NT/MAT.md#MAT.4:5",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Then the devil took Him up into the holy city, set Him on the pinnacle of the temple,",
+  "pericope": {
+    "id": "MAT.P008",
+    "title": "Jesus' Triumph over Satan",
+    "range": "MAT.3:17-4:16",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/LUK_footnotes.md",
-      "line_number": 715,
+      "source_file": "study/footnotes/NT/LUK_footnotes.md",
+      "line_number": 474,
       "raw_match": "[[MAT.4:1]]-11",
       "reference_type": "wikilink_range",
       "context": "On the temptation of Christ, see notes at [[MAT.4:1]]-11."
     },
     {
-      "source_file": "staging/validated/NT/REV_footnotes.md",
-      "line_number": 1545,
+      "source_file": "study/footnotes/NT/REV_footnotes.md",
+      "line_number": 955,
       "raw_match": "[[MAT.4:5]]",
       "reference_type": "wikilink",
-      "context": "Elijah would return to preach in the last days ([[MAL.3:22]]; [[MAT.4:5]]). Although Jesus"
+      "context": "The identity of the two witnesses is much disputed. The most common opinion of the church fathers is that they represent Elijah and Enoch, who were believed to have ascended to heaven. In Jewish tradition, Moses is frequently substituted for Enoch on the basis of the tradition that he, too, ascended to heaven. It was Moses who appeared with Elijah at the Transfiguration of Jesus. John most likely drew on the Jewish tradition that Elijah would return to preach in the last days ([[MAL.3:22]]; [[MAT.4:5]]). Although Jesus identified the Elijah figure with John the Baptist, many continued to believe in an actual appearance of Elijah before the end. Sackcloth was the ancient garb of penitence (see [[JER.4:8]]; [[MAT.11:21]]). The prophecy of the two witnesses will continue for 1,260 days (42 months or 3-1/2 years; see [[DAN.7:25]]; 12:7). This period may be interpreted as \"fullness\" (i.e., seven) arrested halfway, imperfect, impermanent, not necessarily to be taken in a numerically literal manner."
     },
     {
-      "source_file": "staging/validated/OT/ZEC_footnotes.md",
-      "line_number": 269,
+      "source_file": "study/footnotes/OT/ZEC_footnotes.md",
+      "line_number": 181,
       "raw_match": "[[MAT.4:1]]-11",
       "reference_type": "wikilink_range",
-      "context": "to rebuke Satan and resist temptation ([[MAT.4:1]]-11; [[MRK.1:12]], [[MRK.1:13]]; [[LUK.4:1]]-13)."
+      "context": "St. Michael the Archangel would not dispute with the devil over the body of Moses, but said, \"The Lord rebuke you\" (Jude 9). Even more astoundingly, Jesus Christ (the Lord) says, \"The Lord rebukes you.\" This is fulfilled in the temptation of Christ, when He relies upon the written word of Holy Scripture rather than His own power as Son of God to rebuke Satan and resist temptation ([[MAT.4:1]]-11; [[MRK.1:12]], [[MRK.1:13]]; [[LUK.4:1]]-13)."
     }
   ]
 }

@@ -1,0 +1,284 @@
+{
+  "date": "2026-03-15",
+  "results": [
+    {
+      "book": "EXO",
+      "status": "OK",
+      "staging_file": "/home/ark/orthodoxphronema/staging/validated/OT/EXO.md",
+      "deleted_count": 6,
+      "deleted_anchors": [
+        "EXO.12:1",
+        "EXO.13:1",
+        "EXO.14:1",
+        "EXO.21:1",
+        "EXO.25:1",
+        "EXO.31:1"
+      ],
+      "validation_overall": "WARN",
+      "validation_checks": {
+        "V6": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V1": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V2": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V3": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V4": {
+          "status": "WARN",
+          "errors": [],
+          "warnings": [
+            "V4   Missing verses in ch.12: jumps from 0 to 2",
+            "V4   Missing verses in ch.13: jumps from 0 to 2",
+            "V4   Missing verses in ch.14: jumps from 0 to 2"
+          ]
+        },
+        "V5": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V7": {
+          "status": "WARN",
+          "errors": [],
+          "warnings": [
+            "V7   Completeness: 1165/1171 verses (99.5%); gap of 6"
+          ]
+        },
+        "V8": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V9": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V10": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V11": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V12": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V13": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "book": "LEV",
+      "status": "OK",
+      "staging_file": "/home/ark/orthodoxphronema/staging/validated/OT/LEV.md",
+      "deleted_count": 13,
+      "deleted_anchors": [
+        "LEV.4:1",
+        "LEV.6:1",
+        "LEV.7:1",
+        "LEV.8:1",
+        "LEV.14:1",
+        "LEV.15:1",
+        "LEV.18:1",
+        "LEV.19:1",
+        "LEV.20:1",
+        "LEV.22:1",
+        "LEV.23:1",
+        "LEV.24:1",
+        "LEV.25:1"
+      ],
+      "validation_overall": "WARN",
+      "validation_checks": {
+        "V6": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V1": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V2": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V3": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V4": {
+          "status": "WARN",
+          "errors": [],
+          "warnings": [
+            "V4   Missing verses in ch.4: jumps from 0 to 2",
+            "V4   Missing verses in ch.6: jumps from 0 to 2",
+            "V4   Missing verses in ch.7: jumps from 0 to 2"
+          ]
+        },
+        "V5": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V7": {
+          "status": "WARN",
+          "errors": [],
+          "warnings": [
+            "V7   Completeness: 846/859 verses (98.5%); gap of 13"
+          ]
+        },
+        "V8": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V9": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V10": {
+          "status": "WARN",
+          "errors": [],
+          "warnings": [
+            "V10  Absorbed content: LEV.4:1 likely present in LEV.4:2 (Brenton word match: 2/4 = 50%)",
+            "V10  Absorbed content: LEV.7:1 likely present in LEV.7:2 (Brenton word match: 2/5 = 40%)"
+          ]
+        },
+        "V11": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V12": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V13": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "book": "JER",
+      "status": "OK",
+      "staging_file": "/home/ark/orthodoxphronema/staging/validated/OT/JER.md",
+      "deleted_count": 8,
+      "deleted_anchors": [
+        "JER.2:1",
+        "JER.11:1",
+        "JER.14:1",
+        "JER.16:1",
+        "JER.23:1",
+        "JER.29:1",
+        "JER.37:1",
+        "JER.42:1"
+      ],
+      "validation_overall": "WARN",
+      "validation_checks": {
+        "V6": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V1": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V2": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V3": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V4": {
+          "status": "WARN",
+          "errors": [],
+          "warnings": [
+            "V4   Missing verses in ch.2: jumps from 0 to 2",
+            "V4   Missing verses in ch.11: jumps from 0 to 2",
+            "V4   Missing verses in ch.14: jumps from 0 to 2"
+          ]
+        },
+        "V5": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V7": {
+          "status": "WARN",
+          "errors": [],
+          "warnings": [
+            "V7   Completeness: 1291/1299 verses (99.4%); gap of 8"
+          ]
+        },
+        "V8": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V9": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V10": {
+          "status": "WARN",
+          "errors": [],
+          "warnings": [
+            "V10  Absorbed content: JER.2:1 likely present in JER.2:2 (Brenton word match: 7/15 = 47%)",
+            "V10  Absorbed content: JER.29:1 likely present in JER.29:2 (Brenton word match: 2/5 = 40%)"
+          ]
+        },
+        "V11": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V12": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        },
+        "V13": {
+          "status": "PASS",
+          "errors": [],
+          "warnings": []
+        }
+      }
+    }
+  ]
+}

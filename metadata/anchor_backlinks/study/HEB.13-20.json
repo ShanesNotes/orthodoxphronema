@@ -2,29 +2,39 @@
   "anchor_id": "HEB.13:20",
   "canon_uri": "canon/NT/HEB.md#HEB.13:20",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Now may the God of peace who brought up our Lord Jesus from the dead, that great Shepherd of the sheep, through the blood of the everlasting covenant,",
+  "pericope": {
+    "id": "HEB.P039",
+    "title": "Conclusion",
+    "range": "HEB.13:19-13:25",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/BAR_footnotes.md",
-      "line_number": 121,
+      "source_file": "study/footnotes/OT/BAR_footnotes.md",
+      "line_number": 99,
       "raw_match": "[[HEB.13:20]]",
       "reference_type": "wikilink",
-      "context": "41; [[EZK.36:26]]-29; [[AMO.9:15]]; [[HEB.13:20]])."
+      "context": "The everlasting covenant is fulfilled in Christ and His new covenant (Jer 32:38- 41; [[EZK.36:26]]-29; [[AMO.9:15]]; [[HEB.13:20]])."
     },
     {
-      "source_file": "staging/validated/OT/ISA_footnotes.md",
-      "line_number": 1553,
+      "source_file": "study/footnotes/OT/ISA_footnotes.md",
+      "line_number": 1228,
       "raw_match": "[[HEB.13:20]]",
       "reference_type": "wikilink",
-      "context": "Note how this verse parallels [[HEB.13:20]]: \"Now may the God of peace who brought"
+      "context": "Note how this verse parallels [[HEB.13:20]]: \"Now may the God of peace who brought up our Lord Jesus from the dead, that great Shepherd of the sheep...\""
     },
     {
-      "source_file": "staging/validated/OT/NUM_footnotes.md",
-      "line_number": 973,
+      "source_file": "study/footnotes/OT/NUM_footnotes.md",
+      "line_number": 661,
       "raw_match": "[[HEB.13:20]]",
       "reference_type": "wikilink",
-      "context": "Joshua was the new shepherd of Israel. Both he and Moses were types of Christ, \"the great Shepherd of the sheep\" ([[HEB.13:20]]). For as they were over the house of Israel, so He is over the Church. However, there are multitudes without this Shepherd; therefore, He commanded us to pray that He \"send out laborers into the harvest\" (Mt"
+      "context": "Joshua was the new shepherd of Israel. Both he and Moses were types of Christ, \"the great Shepherd of the sheep\" ([[HEB.13:20]]). For as they were over the house of Israel, so He is over the Church. However, there are multitudes without this Shepherd; therefore, He commanded us to pray that He \"send out laborers into the harvest\" (Mt 9:36-38)."
     }
   ]
 }

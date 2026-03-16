@@ -2,15 +2,25 @@
   "anchor_id": "GEN.50:25",
   "canon_uri": "canon/OT/GEN.md#GEN.50:25",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Thus Joseph took an oath from the children of Israel, saying, 'God will surely visit you, and you shall carry up my bones from here.'",
+  "pericope": {
+    "id": "GEN.P082",
+    "title": "Joseph Dies in Egypt",
+    "range": "GEN.50:21-50:26",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/JOS_footnotes.md",
-      "line_number": 670,
+      "source_file": "study/footnotes/OT/JOS_footnotes.md",
+      "line_number": 415,
       "raw_match": "[[GEN.50:25]]",
       "reference_type": "wikilink",
-      "context": "The bones of Joseph ([[GEN.50:24]], [[GEN.50:25]]; [[EXO.13:19]]) are buried . . . at Shechem. Thus, God's covenant with Abraham, Isaac, and Joseph comes full circle and begins anew with"
+      "context": "The bones of Joseph ([[GEN.50:24]], [[GEN.50:25]]; [[EXO.13:19]]) are buried... at Shechem. Thus, God's covenant with Abraham, Isaac, and Joseph comes full circle and begins anew with the covenant established by Joshua (v. 25). All the Old Testament covenants, of course, will be completely fulfilled in Christ and His Church."
     }
   ]
 }

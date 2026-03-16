@@ -2,15 +2,25 @@
   "anchor_id": "COL.4:18",
   "canon_uri": "canon/NT/COL.md#COL.4:18",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "This salutation by my own hand-Paul. Remember my chains. Grace be with you. Amen.",
+  "pericope": {
+    "id": "COL.P013",
+    "title": "Greetings and Instructions",
+    "range": "COL.4:6-4:18",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/ROM_footnotes.md",
-      "line_number": 1769,
+      "source_file": "study/footnotes/NT/ROM_footnotes.md",
+      "line_number": 1155,
       "raw_match": "[[COL.4:18]]",
       "reference_type": "wikilink",
-      "context": "secretary. Paul frequently dictated his epistles to a scribe ([[1CO.16:21]]; [[COL.4:18]]; [[2TH.2:17]];"
+      "context": "While Paul is the author of this epistle (1:1), Tertius wrote it down as Paul's secretary. Paul frequently dictated his epistles to a scribe ([[1CO.16:21]]; [[COL.4:18]]; [[2TH.2:17]]; Phm 19)."
     }
   ]
 }

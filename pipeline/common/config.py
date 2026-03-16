@@ -22,6 +22,31 @@ BRENTON_WORD_MATCH_THRESHOLD = 0.40
 # Maximum times a heading can repeat before V8 flags it.
 HEADING_REPETITION_LIMIT = 3
 
+# ── Mega-line thresholds (validate_canon.py V13) ────────────────────────────
+# Verse lines exceeding MEGA_LINE_FAIL are hard failures.
+MEGA_LINE_FAIL = 1000
+
+# Verse lines between MEGA_LINE_WARN and MEGA_LINE_FAIL are warnings.
+MEGA_LINE_WARN = 500
+
+# All-caps words exempt from article-bleed heuristic (common in scripture).
+ALLCAPS_EXEMPT = {
+    "LORD", "GOD", "ISRAEL", "AMEN", "YHWH", "LORD'S", "GOD'S",
+}
+
+# ── V13 per-book oversized allowlist ──────────────────────────────────────
+# Anchors that are genuinely long scripture (e.g., LXX Additions to Esther)
+# and should be exempt from V13 FAIL classification.
+# These must have classification "oversized" and 0 embedded verses.
+V13_OVERSIZED_ALLOWLIST: dict[str, set[str]] = {
+    "EST": {
+        "EST.1:1", "EST.1:3", "EST.3:14", "EST.3:15",
+        "EST.4:18", "EST.4:23", "EST.4:24", "EST.4:25",
+        "EST.8:14", "EST.8:15", "EST.8:17",
+        "EST.10:5", "EST.10:6",
+    },
+}
+
 # ── Article confidence (fix_articles.py) ─────────────────────────────────────
 # Auto-apply threshold: candidates above this are applied automatically.
 ARTICLE_CONFIDENCE_AUTO = 0.70

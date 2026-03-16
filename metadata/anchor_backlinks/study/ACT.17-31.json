@@ -2,15 +2,25 @@
   "anchor_id": "ACT.17:31",
   "canon_uri": "canon/NT/ACT.md#ACT.17:31",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "because He has appointed day on which He will judge the world in righteousness by the Man whom He has ordained. He has given assurance of this to all by raising Him from the dead.'",
+  "pericope": {
+    "id": "ACT.P064",
+    "title": "To The Unknown God.",
+    "range": "ACT.17:23-17:33",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/PSA_footnotes.md",
-      "line_number": 1747,
+      "source_file": "study/footnotes/OT/PSA_footnotes.md",
+      "line_number": 1064,
       "raw_match": "[[ACT.17:31]]",
       "reference_type": "wikilink",
-      "context": "He judges the fallen world in righteousness (vv. 8-23; see also [[ACT.17:31]]), at which time"
+      "context": "Ps 93 is a psalm for the fourth day of the week (v. 1), which is Wednesday, the fourth day of creation in [[GEN.1:14]]-19. On this day, God created the sun, the moon, and the stars to give light on the earth and to rule over the day and the night. The sun speaks of Christ; the moon, of the Mother of God; and the stars, of the Church ([[PHP.2:15]]; Rev 12). The light of the sun, the moon, and the stars speaks of the light given the fallen world by Christ through the Mother of God and the Church. This light enlightens the fallen world concerning the eternal kingdom of God. However, evil people in the fallen world oppose and persecute Christ, the Mother of God, and the Church (vv. 5-7). Throughout Church history, many martyrs have suffered for the faith. Thus, the question arises: \"How long, O Lord, will this continue?\" (see vv. 3, 4). The answer is, the God of vengeance (v. 1) will bring persecution to an end when He judges the fallen world in righteousness (vv. 8-23; see also [[ACT.17:31]]), at which time He will repay their lawlessness to them (v. 23). Meantime, He is patient with people, giving them the opportunity to turn to Christ and the Church in repentance and faith before the Great Day of Judgment (v. 15)."
     }
   ]
 }

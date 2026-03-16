@@ -2,22 +2,32 @@
   "anchor_id": "1PE.5:13",
   "canon_uri": "canon/NT/1PE.md#1PE.5:13",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "She who is in Babylon, elect together with you, greets you; and so does Mark my son.",
+  "pericope": {
+    "id": "1PE.P017",
+    "title": "Farewell and Greeting",
+    "range": "1PE.5:11-5:15",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/ACT_footnotes.md",
-      "line_number": 1245,
+      "source_file": "study/footnotes/NT/ACT_footnotes.md",
+      "line_number": 841,
       "raw_match": "[[1PE.5:13]]",
       "reference_type": "wikilink",
-      "context": "[[COL.4:10]]) and still later with Peter ([[1PE.5:13]])."
+      "context": "John whose surname was Mark is St. Mark the Evangelist, who would compose the Gospel of Mark. He would later become a coworker with Paul and Barnabas (v. 25; [[COL.4:10]]) and still later with Peter ([[1PE.5:13]])."
     },
     {
-      "source_file": "staging/validated/NT/REV_footnotes.md",
-      "line_number": 2393,
+      "source_file": "study/footnotes/NT/REV_footnotes.md",
+      "line_number": 1479,
       "raw_match": "[[1PE.5:13]]",
       "reference_type": "wikilink",
-      "context": "late-first-century Christians, Babylon was incarnate in Rome (see [[1PE.5:13]]), but it is"
+      "context": "Roman law stated harlots must wear headbands exhibiting their name. This great harlot bears the mysterious name of BABYLON... MOTHER OF HARLOTS. For the late-first-century Christians, Babylon was incarnate in Rome (see [[1PE.5:13]]), but it is primarily a spiritual reality, a \"mystery,\" transcending concrete manifestations. For Babylon has always stood for rebellion against God (see Gn 11): self-exaltation and idolatry. She is the mother OF THE ABOMINATIONS OF THE EARTH (lit., \"detestable things\"), the prostitution of God's creation. And she finds her life in a perverse eucharist, the death of those united with Life Incarnate."
     }
   ]
 }

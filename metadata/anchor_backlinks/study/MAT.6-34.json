@@ -2,12 +2,22 @@
   "anchor_id": "MAT.6:34",
   "canon_uri": "canon/NT/MAT.md#MAT.6:34",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Therefore do not worry about tomorrow, for tomorrow will worry about its own things. Sufficient for the day is its own trouble.",
+  "pericope": {
+    "id": "MAT.P016",
+    "title": "On Judging Others",
+    "range": "MAT.6:34-8:12",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/BAR_footnotes.md",
-      "line_number": 142,
+      "source_file": "study/footnotes/OT/BAR_footnotes.md",
+      "line_number": 117,
       "raw_match": "[[MAT.6:26]]-34",
       "reference_type": "wikilink_range",
       "context": "Christ alludes to these truths in [[MAT.6:26]]-34."

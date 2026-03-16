@@ -2,15 +2,25 @@
   "anchor_id": "JOH.12:48",
   "canon_uri": "canon/NT/JOH.md#JOH.12:48",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "He who rejects Me, and does not receive My words, has that which judges him-the word that I have spoken will judge him in the last day.",
+  "pericope": {
+    "id": "JOH.P046",
+    "title": "Jesus' Words: From the Father",
+    "range": "JOH.12:43-12:49",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/EZK_footnotes.md",
-      "line_number": 397,
+      "source_file": "study/footnotes/OT/EZK_footnotes.md",
+      "line_number": 375,
       "raw_match": "[[JOH.12:48]]",
       "reference_type": "wikilink",
-      "context": "whatsoever things I shall take you, in these I shall judge you'\" (Justin; compare [[JOH.12:47]], [[JOH.12:48]])."
+      "context": "\"For the goodness and the loving-kindness of God, and His boundless riches, hold righteous and sinless the man who, as Ezekiel tells, repents of sins; and reckons sinful, unrighteous, and impious the man who falls away from piety and righteousness to unrighteousness and ungodliness. Wherefore also our Lord Jesus Christ said, 'In whatsoever things I shall take you, in these I shall judge you'\" (Justin; compare [[JOH.12:47]], [[JOH.12:48]])."
     }
   ]
 }

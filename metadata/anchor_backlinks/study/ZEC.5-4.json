@@ -2,15 +2,25 @@
   "anchor_id": "ZEC.5:4",
   "canon_uri": "canon/OT/ZEC.md#ZEC.5:4",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "'And I will bring it forth,' says the Lord Almighty, 'and it shall enter the house of the thief and the house of the one who swears falsely by My name. It shall settle in the midst of his house and destroy it, both its timber and its stones.'",
+  "pericope": {
+    "id": "ZEC.P007",
+    "title": "The Flying Sickle",
+    "range": "ZEC.4:14-5:10",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/EZK_footnotes.md",
-      "line_number": 84,
+      "source_file": "study/footnotes/OT/EZK_footnotes.md",
+      "line_number": 82,
       "raw_match": "[[ZEC.5:1]]-4",
       "reference_type": "wikilink_range",
-      "context": "honey (see [[PSA.18:10]]; 118:103; [[JER.15:16]]; [[ZEC.5:1]]-4; [[REV.10:8]]-11). 3:6"
+      "context": "For the faithful, the taste of Christ the Word in our mouth is even sweeter than honey (see [[PSA.18:10]]; 118:103; [[JER.15:16]]; [[ZEC.5:1]]-4; [[REV.10:8]]-11)."
     }
   ]
 }

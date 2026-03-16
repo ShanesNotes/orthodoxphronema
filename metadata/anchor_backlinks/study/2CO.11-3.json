@@ -2,15 +2,25 @@
   "anchor_id": "2CO.11:3",
   "canon_uri": "canon/NT/2CO.md#2CO.11:3",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "But I fear, lest somehow, as the serpent deceived Eve by his craftiness, so your minds may be corrupted from the simplicity that is in Christ.",
+  "pericope": {
+    "id": "2CO.P030",
+    "title": "Paul Preaches the True Gospel",
+    "range": "2CO.10:18-11:5",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/GEN_footnotes.md",
-      "line_number": 146,
+      "source_file": "study/footnotes/OT/GEN_footnotes.md",
+      "line_number": 107,
       "raw_match": "[[2CO.11:3]]",
       "reference_type": "wikilink",
-      "context": "The serpent is the devil ([[2CO.11:3]]; [[REV.12:9]]), and he tempted Eve. He contradicted"
+      "context": "The serpent is the devil ([[2CO.11:3]]; [[REV.12:9]]), and he tempted Eve. He contradicted God's commandment (2:16, 17) by denying death and decay in the grave as the penalty for disobedience (you shall not die by death). He also tempted Eve with the promise of deification (you will be like gods, knowing good and evil). But deification comes through obedience to God, not through disobedience. Nevertheless, Eve was deceived, and thus disobeyed God. She, in turn, gave the fruit to her husband, and he ate. In his disobedience, he willed contrary to the will of God, and thus ate. His free will was the first thing to suffer in the Fall, and thus is the first thing that needs healing in man (JohnDm)."
     }
   ]
 }

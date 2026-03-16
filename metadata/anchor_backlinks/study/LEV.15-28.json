@@ -2,15 +2,25 @@
   "anchor_id": "LEV.15:28",
   "canon_uri": "canon/OT/LEV.md#LEV.15:28",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "But if she is cleansed of her discharge, she shall count for herself seven days, and after that she shall be clean.",
+  "pericope": {
+    "id": "LEV.P022",
+    "title": "Laws Concerning Bodily Discharges",
+    "range": "LEV.14:55-15:32",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/LEV_footnotes.md",
-      "line_number": 832,
+      "source_file": "study/footnotes/OT/LEV_footnotes.md",
+      "line_number": 493,
       "raw_match": "[[LEV.15:28]]",
       "reference_type": "wikilink",
-      "context": "[[LEV.15:13]], [[LEV.15:14]], [[LEV.15:28]], [[LEV.15:29]]: Cleansing from emissions seven days after the cessation of the"
+      "context": "[[LEV.15:13]], [[LEV.15:14]], [[LEV.15:28]], [[LEV.15:29]]: Cleansing from emissions seven days after the cessation of the discharge came with the washing with water. On the eighth day, an offering was brought to the Lord. Here again was a type of the washing of water in baptism and the offering of Christ--raised from the dead on the eighth day. In Christ, there is cleansing. And in Christ, the curse of death is overcome. On the eighth day, He trampled down death by death, upon those in the tombs bestowing life."
     }
   ]
 }

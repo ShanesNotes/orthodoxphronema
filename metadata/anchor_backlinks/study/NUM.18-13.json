@@ -2,22 +2,32 @@
   "anchor_id": "NUM.18:13",
   "canon_uri": "canon/OT/NUM.md#NUM.18:13",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Whatever first ripe fruit is in their land which they bring to the Lord shall be yours. Everyone who is clean in your house shall eat these things.",
+  "pericope": {
+    "id": "NUM.P041",
+    "title": "Offerings to Support the Priests",
+    "range": "NUM.18:7-18:18",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/3MA_footnotes.md",
-      "line_number": 507,
-      "raw_match": "[[NUM.18:8]]-18",
-      "reference_type": "wikilink_range",
-      "context": "and his sons (the priests) as their perpetual due from Israel (Lv 7:34, 35; [[NUM.18:8]]-18). The Jews have become the inheritance of the Lord ([[PSA.27:9]]; 32:12; Is 19:25). More than a"
-    },
-    {
-      "source_file": "staging/validated/OT/EXO_articles.md",
+      "source_file": "study/articles/OT/EXO_articles.md",
       "line_number": 43,
       "raw_match": "[[NUM.18:8]]-32",
       "reference_type": "wikilink_range",
-      "context": "The Hebrew word for 'priest' is kohen. He is the Levite who stood as intercessor for the people before God. Old Testament priests offered up gifts and sacrifices to the Lord on behalf of the people, that they might be reconciled to Him. The Lord directed Moses to construct the tabernacle ([[EXO.25:1]]-27:21). Then He established a permanent, hereditary priesthood, beginning with Moses' brother Aaron and continuing through Aaron's sons ([[EXO.28:1]]). The priests were sanctified, or consecrated, with holy oil ([[EXO.30:22]]-30). Their holy garments of finely woven and richly decorated material were for the honor and glory of God (Ex 28:2-39). After Aaron's death, 'the Lord separated the tribe of Levi [Aaron's tribe] to bear the ark of the covenant of the Lord, to stand before the Lord, to minister to Him, and to bless in His name' ([[DEU.10:8]]). Besides the various sacrifices, the priests blessed the people ([[NUM.6:23]]-25), maintained the tabernacle (later, the temple) and its grounds ([[NUM.18:1]]-7), received tithes and offerings ([[NUM.18:8]]-32), supervised purification procedures (Lv 13:1-14:57), acted as judges ([[DEU.17:8]]-13) and taught the Law ([[DEU.33:8]]-11). Only male Levites administered the liturgical rites. #### New Testament Priests"
+      "context": "The Hebrew word for 'priest' is kohen. He is the Levite who stood as intercessor for the people before God. Old Testament priests offered up gifts and sacrifices to the Lord on behalf of the people, that they might be reconciled to Him. The Lord directed Moses to construct the tabernacle ([[EXO.25:1]]-27:21). Then He established a permanent, hereditary priesthood, beginning with Moses' brother Aaron and continuing through Aaron's sons ([[EXO.28:1]]). The priests were sanctified, or consecrated, with holy oil ([[EXO.30:22]]-30). Their holy garments of finely woven and richly decorated material were for the honor and glory of God ([[EXO.28:2]]-39). After Aaron's death, 'the Lord separated the tribe of Levi [Aaron's tribe] to bear the ark of the covenant of the Lord, to stand before the Lord, to minister to Him, and to bless in His name' ([[DEU.10:8]]). Besides the various sacrifices, the priests blessed the people ([[NUM.6:23]]-25), maintained the tabernacle (later, the temple) and its grounds ([[NUM.18:1]]-7), received tithes and offerings ([[NUM.18:8]]-32), supervised purification procedures ([[LEV.13:1]]-14:57), acted as judges ([[DEU.17:8]]-13) and taught the Law ([[DEU.33:8]]-11). Only male Levites administered the liturgical rites. #### New Testament Priests"
+    },
+    {
+      "source_file": "study/footnotes/OT/3MA_footnotes.md",
+      "line_number": 432,
+      "raw_match": "[[NUM.18:8]]-18",
+      "reference_type": "wikilink_range",
+      "context": "Eleazar likens Israel to that portion of the sacrifices which was set aside for Aaron and his sons (the priests) as their perpetual due from Israel (Lv 7:34, 35; [[NUM.18:8]]-18). The Jews have become the inheritance of the Lord ([[PSA.27:9]]; 32:12; Is 19:25). More than a chosen nation, they have been set apart for holiness. Sennacherib (v. 5) was the king of Assyria during the reign of Hezekiah, king of Judah. The episode noted is the occasion when, at the supplication of Israel, God sent an angel who in one night slew 185,000 of Sennacherib's forces, sending him home to Nineveh in humiliation and defeat. He was assassinated shortly afterwards ([[2KI.18:13]]; 19:35-37; WSir 48:18-21)."
     }
   ]
 }

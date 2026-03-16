@@ -2,15 +2,25 @@
   "anchor_id": "JOB.38:8",
   "canon_uri": "canon/OT/JOB.md#JOB.38:8",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "'I shut up the sea with doors When it burst forth and issued from the womb.",
+  "pericope": {
+    "id": "JOB.P038",
+    "title": "Elihu Is Angered at Job and His Friends",
+    "range": "JOB.31:40-42:22",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/MAT_footnotes.md",
-      "line_number": 1385,
+      "source_file": "study/footnotes/NT/MAT_footnotes.md",
+      "line_number": 899,
       "raw_match": "[[JOB.38:8]]-11",
       "reference_type": "wikilink_range",
-      "context": "divine. Commands to the sea and waves (v. 24) can only be issued by God ([[JOB.38:8]]-11;"
+      "context": "The Lord's mastery over creation is another sign that He is the Messiah and is divine. Commands to the sea and waves (v. 24) can only be issued by God ([[JOB.38:8]]-11; [[PSA.65:5]], [[PSA.65:6]]; 106:29). Jesus was asleep because, as a man, he needed rest. In His Incarnation, He assumed all the natural actions of the flesh, of which sleep is one. The image of Christ and His disciples in a boat is traditionally used to illustrate the Church. God both permits storms and delivers us through them, so that we can see His protection more clearly. Christ's rebuke of the storm is also an illustration of His calming the tempests in the human soul."
     }
   ]
 }

@@ -2,12 +2,22 @@
   "anchor_id": "DEU.12:8",
   "canon_uri": "canon/OT/DEU.md#DEU.12:8",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "'You shall not at all do as we are doing here today-every man doing whatever is right in his own eyes-",
+  "pericope": {
+    "id": "DEU.P026",
+    "title": "The Place of Worship",
+    "range": "DEU.11:32-12:27",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/SIR_footnotes.md",
-      "line_number": 683,
+      "source_file": "study/footnotes/OT/SIR_footnotes.md",
+      "line_number": 519,
       "raw_match": "[[DEU.12:8]]",
       "reference_type": "wikilink",
       "context": "Lawlessness is any form of rebellion against the duly constituted authority over us. God calls it \"every man doing whatever is right in his own eyes\" ([[DEU.12:8]])."

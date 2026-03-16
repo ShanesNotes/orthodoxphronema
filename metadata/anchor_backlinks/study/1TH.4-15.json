@@ -2,19 +2,29 @@
   "anchor_id": "1TH.4:15",
   "canon_uri": "canon/NT/1TH.md#1TH.4:15",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "For this we say to you by the word of the Lord, that we who are alive and remain until the coming of the Lord will by no means precede those who are asleep.",
+  "pericope": {
+    "id": "1TH.P007",
+    "title": "Who Will Participate in Christ's Return",
+    "range": "1TH.4:12-4:17",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/MAT_footnotes.md",
-      "line_number": 3251,
+      "source_file": "study/footnotes/NT/MAT_footnotes.md",
+      "line_number": 2082,
       "raw_match": "[[1TH.4:13]]-17",
       "reference_type": "wikilink_range",
-      "context": "chronology can be determined (see Dan 7-12; Mk 13; Lk 21; [[1CO.15:51]]-55; [[1TH.4:13]]-17;"
+      "context": "The Scriptures describe the end times in a variety of ways, so that no precise chronology can be determined (see Dan 7-12; Mk 13; Lk 21; [[1CO.15:51]]-55; [[1TH.4:13]]-17; [[2TH.2:1]]-10; and the Book of Revelation). The Lord's emphasis is on watchfulness and the practice of virtue rather than on constructing timetables of things that have not yet happened. In Matthew's account here, the end is described as encompassing (1) the initial sorrows (vv. 4-14), (2) the great tribulation (vv. 15-28), and (3) the coming of the Son of Man (vv. 29-31). The period of the great tribulation includes the entire Christian era and is not limited to the final years before Christ's return."
     },
     {
-      "source_file": "staging/validated/NT/MAT_footnotes.md",
-      "line_number": 3371,
+      "source_file": "study/footnotes/NT/MAT_footnotes.md",
+      "line_number": 2160,
       "raw_match": "[[1TH.4:13]]-18",
       "reference_type": "wikilink_range",
       "context": "They will gather: See [[1TH.4:13]]-18."

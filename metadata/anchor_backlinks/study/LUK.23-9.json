@@ -2,15 +2,25 @@
   "anchor_id": "LUK.23:9",
   "canon_uri": "canon/NT/LUK.md#LUK.23:9",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Then he questioned Him with many words, but He answered him nothing.",
+  "pericope": {
+    "id": "LUK.P114",
+    "title": "Before Herod",
+    "range": "LUK.23:5-23:11",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/MAT_footnotes.md",
-      "line_number": 1191,
+      "source_file": "study/footnotes/NT/MAT_footnotes.md",
+      "line_number": 768,
       "raw_match": "[[LUK.23:9]]",
       "reference_type": "wikilink",
-      "context": "result from holding God's mysteries in contempt (see note on [[LUK.23:8]], [[LUK.23:9]])."
+      "context": "Dogs and swine refer to heathen peoples ([[PHP.3:2]]; [[REV.22:15]]), but would also include Jews who do not practice virtue. According to the Fathers, dogs are those so immersed in evil that they show no hope of change, while swine are those who habitually live immoral and impure lives. The pearls are the inner mysteries of the Christian faith, including Christ's teachings (13:46) and the great sacraments. These holy things are restricted from the immoral and unrepentant, not to protect the holy things themselves, for Christ needs no protection. Rather, we protect the faithless people from the condemnation that would result from holding God's mysteries in contempt (see note on [[LUK.23:8]], [[LUK.23:9]])."
     }
   ]
 }

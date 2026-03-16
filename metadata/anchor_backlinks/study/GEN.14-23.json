@@ -2,15 +2,25 @@
   "anchor_id": "GEN.14:23",
   "canon_uri": "canon/OT/GEN.md#GEN.14:23",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "that I will take nothing of yours, from a thread to a sandal strap, lest you should say, 'I have made Abram rich'\u2014",
+  "pericope": {
+    "id": "GEN.P020",
+    "title": "God's Covenant with Abram",
+    "range": "GEN.14:23-15:20",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/JDT_footnotes.md",
-      "line_number": 436,
+      "source_file": "study/footnotes/OT/JDT_footnotes.md",
+      "line_number": 278,
       "raw_match": "[[GEN.14:23]]",
       "reference_type": "wikilink",
-      "context": "In imitation of Abraham ([[GEN.14:22]], [[GEN.14:23]]), and Elisha ([[2KI.5:16]]), Judith took nothing"
+      "context": "In imitation of Abraham ([[GEN.14:22]], [[GEN.14:23]]), and Elisha ([[2KI.5:16]]), Judith took nothing for herself, but dedicated all the property to the Lord."
     }
   ]
 }

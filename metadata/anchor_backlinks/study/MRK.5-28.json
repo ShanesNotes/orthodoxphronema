@@ -2,15 +2,25 @@
   "anchor_id": "MRK.5:28",
   "canon_uri": "canon/NT/MRK.md#MRK.5:28",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "For she said, 'If only I may touch His clothes, I shall be made well.'",
+  "pericope": {
+    "id": "MRK.P021",
+    "title": "The Woman with a Flow of Blood",
+    "range": "MRK.5:24-5:33",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/LEV_footnotes.md",
-      "line_number": 851,
+      "source_file": "study/footnotes/OT/LEV_footnotes.md",
+      "line_number": 505,
       "raw_match": "[[MRK.5:25]]-34",
       "reference_type": "wikilink_range",
-      "context": "as He allowed it ([[MRK.5:25]]-34)."
+      "context": "In light of this passage, consider the account of the woman with the issue of blood, who, though unclean--but because of her faith in Christ--dared to touch the Lord as He allowed it ([[MRK.5:25]]-34)."
     }
   ]
 }

@@ -2,15 +2,25 @@
   "anchor_id": "JOH.19:40",
   "canon_uri": "canon/NT/JOH.md#JOH.19:40",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Then they took the body of Jesus, and bound it in strips of linen with the spices, as the custom of the Jews is to bury.",
+  "pericope": {
+    "id": "JOH.P070",
+    "title": "The Burial of Jesus",
+    "range": "JOH.19:37-19:41",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/SNG_footnotes.md",
-      "line_number": 139,
+      "source_file": "study/footnotes/OT/SNG_footnotes.md",
+      "line_number": 101,
       "raw_match": "[[JOH.19:39]]-41",
       "reference_type": "wikilink_range",
-      "context": "This passage was fulfilled by Nicodemus and Joseph of Arimathea ([[JOH.19:39]]-41)"
+      "context": "This passage was fulfilled by Nicodemus and Joseph of Arimathea ([[JOH.19:39]]-41) when the Lord was anointed again after his death, covered with myrrh and bundled in linen. He will take rest in the Church."
     }
   ]
 }

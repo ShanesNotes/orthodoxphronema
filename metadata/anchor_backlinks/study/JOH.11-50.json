@@ -2,15 +2,25 @@
   "anchor_id": "JOH.11:50",
   "canon_uri": "canon/NT/JOH.md#JOH.11:50",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "nor do you consider that it is expedient for us that one man should die for the people, and not that the whole nation should perish.'",
+  "pericope": {
+    "id": "JOH.P039",
+    "title": "The Sanhedrin Plots to Kill Jesus",
+    "range": "JOH.11:44-11:56",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/MAT_footnotes.md",
-      "line_number": 3803,
+      "source_file": "study/footnotes/NT/MAT_footnotes.md",
+      "line_number": 2434,
       "raw_match": "[[JOH.11:49]]-51",
       "reference_type": "wikilink_range",
-      "context": "the governor (see also [[JOH.11:49]]-51, where Caiaphas unwittingly prophesies of Christ's"
+      "context": "Every king is proclaimed by his soldiers. Even though the intention was mockery, it is prophetic that Jesus should be crowned and hailed as King by soldiers of the governor (see also [[JOH.11:49]]-51, where Caiaphas unwittingly prophesies of Christ's redemptive work). This mockery shows Jesus as the One despised and rejected by men who bears the iniquity of us all (see Is 53:3-9). Jesus is clothed in scarlet, representing both His royalty and the sins of humanity which He has taken upon Himself."
     }
   ]
 }

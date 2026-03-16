@@ -2,15 +2,25 @@
   "anchor_id": "MRK.2:20",
   "canon_uri": "canon/NT/MRK.md#MRK.2:20",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "But the days will come when the bridegroom will be taken away from them, and then they will fast in those days.",
+  "pericope": {
+    "id": "MRK.P008",
+    "title": "Jesus Transcends the Fast",
+    "range": "MRK.2:17-2:21",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/LUK_footnotes.md",
-      "line_number": 937,
+      "source_file": "study/footnotes/NT/LUK_footnotes.md",
+      "line_number": 627,
       "raw_match": "[[MRK.2:20]]",
       "reference_type": "wikilink",
-      "context": "His followers will practice the fast (see notes on [[MAT.9:14]]-17; [[MRK.2:20]])."
+      "context": "Jesus' earthly life is a time of joyous blessings. But there will come a time when His followers will practice the fast (see notes on [[MAT.9:14]]-17; [[MRK.2:20]])."
     }
   ]
 }

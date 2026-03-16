@@ -1,0 +1,331 @@
+{
+  "source": "The Life of Moses, or Concerning Perfection in Virtue",
+  "author": "Gregory of Nyssa",
+  "translator": "Abraham J. Malherbe and Everett Ferguson",
+  "publisher": "Paulist Press",
+  "year": 1978,
+  "pdf_path": "src.texts/Gregory-of-Nyssa-The-Life-of-Moses.pdf",
+  "total_pages": 140,
+  "embedding_model": "gemini-embedding-2-preview",
+  "embedding_dimensions": 768,
+  "task_type": "RETRIEVAL_DOCUMENT",
+  "structure_note": "Book I (Historia) is the literal retelling; Book II (Theoria) is the contemplative/symbolic reading. Book II is the primary source for the symbolic anchor layer.",
+  "sections": [
+    {
+      "id": "frontmatter_preface",
+      "title": "Preface (John Meyendorff)",
+      "book": "frontmatter",
+      "start_page": 4,
+      "end_page": 5,
+      "symbolic_relevance": "low"
+    },
+    {
+      "id": "frontmatter_foreword",
+      "title": "Foreword",
+      "book": "frontmatter",
+      "start_page": 6,
+      "end_page": 7,
+      "symbolic_relevance": "low"
+    },
+    {
+      "id": "introduction",
+      "title": "Introduction",
+      "book": "frontmatter",
+      "start_page": 8,
+      "end_page": 17,
+      "symbolic_relevance": "medium",
+      "_note": "Scholarly introduction — useful for Gregory's method and context"
+    },
+    {
+      "id": "book1_prologue",
+      "title": "Book I: Prologue",
+      "book": "I",
+      "start_page": 18,
+      "end_page": 19,
+      "paragraphs": "1-15",
+      "symbolic_relevance": "medium"
+    },
+    {
+      "id": "book1_birth_egypt",
+      "title": "Book I: Birth and Youth in Egypt",
+      "book": "I",
+      "start_page": 19,
+      "end_page": 22,
+      "paragraphs": "16-28",
+      "symbolic_relevance": "medium"
+    },
+    {
+      "id": "book1_burning_bush_plagues",
+      "title": "Book I: The Burning Bush and Plagues of Egypt",
+      "book": "I",
+      "start_page": 22,
+      "end_page": 25,
+      "paragraphs": "29-39",
+      "symbolic_relevance": "medium"
+    },
+    {
+      "id": "book1_exodus_desert",
+      "title": "Book I: Exodus and Desert Journey",
+      "book": "I",
+      "start_page": 25,
+      "end_page": 28,
+      "paragraphs": "40-65",
+      "symbolic_relevance": "medium"
+    },
+    {
+      "id": "book1_sinai_tabernacle",
+      "title": "Book I: Sinai, Law, and Tabernacle",
+      "book": "I",
+      "start_page": 28,
+      "end_page": 30,
+      "paragraphs": "46-60",
+      "symbolic_relevance": "medium"
+    },
+    {
+      "id": "book1_final",
+      "title": "Book I: Wilderness Events and Death of Moses",
+      "book": "I",
+      "start_page": 30,
+      "end_page": 32,
+      "paragraphs": "61-77",
+      "symbolic_relevance": "medium"
+    },
+    {
+      "id": "book2_birth_childhood",
+      "title": "Book II: Birth and Childhood (Theoria)",
+      "book": "II",
+      "start_page": 32,
+      "end_page": 33,
+      "paragraphs": "1-26",
+      "symbolic_relevance": "high",
+      "themes": ["virtue_birth", "pharaoh_tyrant", "water_preservation"]
+    },
+    {
+      "id": "book2_burning_bush",
+      "title": "Book II: The Burning Bush",
+      "book": "II",
+      "start_page": 33,
+      "end_page": 35,
+      "paragraphs": "19-38",
+      "symbolic_relevance": "critical",
+      "themes": ["theophany", "fire_unconsuming", "divine_light", "holy_ground", "truth_manifestation"]
+    },
+    {
+      "id": "book2_aaron_deliverance",
+      "title": "Book II: Meeting with Aaron and Deliverance Announced",
+      "book": "II",
+      "start_page": 35,
+      "end_page": 38,
+      "symbolic_relevance": "high",
+      "themes": ["divine_calling", "liberation", "virtue_companionship"]
+    },
+    {
+      "id": "book2_plagues",
+      "title": "Book II: The Plagues on Egypt",
+      "book": "II",
+      "start_page": 38,
+      "end_page": 39,
+      "symbolic_relevance": "high",
+      "themes": ["divine_judgment", "purification", "vice_destruction"]
+    },
+    {
+      "id": "book2_hardening_freewill",
+      "title": "Book II: The Hardening of Pharaoh's Heart and Free Will",
+      "book": "II",
+      "start_page": 39,
+      "end_page": 42,
+      "symbolic_relevance": "high",
+      "themes": ["free_will", "divine_providence", "hardening_heart", "pharaoh"]
+    },
+    {
+      "id": "book2_death_firstborn",
+      "title": "Book II: The Death of the Firstborn",
+      "book": "II",
+      "start_page": 42,
+      "end_page": 44,
+      "symbolic_relevance": "high",
+      "themes": ["passover", "firstborn", "blood_lamb", "death_sin"]
+    },
+    {
+      "id": "book2_departure_wealth",
+      "title": "Book II: Departure from Egypt and Wealth of Egypt",
+      "book": "II",
+      "start_page": 44,
+      "end_page": 45,
+      "symbolic_relevance": "high",
+      "themes": ["exodus_spiritual", "pagan_wisdom", "spoiling_egyptians"]
+    },
+    {
+      "id": "book2_cloudy_pillar",
+      "title": "Book II: The Cloudy Pillar",
+      "book": "II",
+      "start_page": 45,
+      "end_page": 46,
+      "symbolic_relevance": "critical",
+      "themes": ["divine_guidance", "cloud_presence", "light_dark_dialectic"]
+    },
+    {
+      "id": "book2_red_sea",
+      "title": "Book II: Crossing the Red Sea",
+      "book": "II",
+      "start_page": 46,
+      "end_page": 48,
+      "symbolic_relevance": "critical",
+      "themes": ["baptism", "water_separation", "death_rebirth", "liberation"]
+    },
+    {
+      "id": "book2_desert_stations",
+      "title": "Book II: First Stations in the Desert",
+      "book": "II",
+      "start_page": 48,
+      "end_page": 49,
+      "symbolic_relevance": "high",
+      "themes": ["bitter_water", "sweetening", "spiritual_nourishment"]
+    },
+    {
+      "id": "book2_manna",
+      "title": "Book II: The Manna",
+      "book": "II",
+      "start_page": 49,
+      "end_page": 50,
+      "symbolic_relevance": "critical",
+      "themes": ["heavenly_bread", "divine_nourishment", "seed_descending"]
+    },
+    {
+      "id": "book2_amalek",
+      "title": "Book II: The War with Amalek",
+      "book": "II",
+      "start_page": 50,
+      "end_page": 51,
+      "symbolic_relevance": "high",
+      "themes": ["spiritual_warfare", "cross_typology", "prayer"]
+    },
+    {
+      "id": "book2_mountain_knowledge",
+      "title": "Book II: The Mountain of Divine Knowledge",
+      "book": "II",
+      "start_page": 51,
+      "end_page": 53,
+      "symbolic_relevance": "critical",
+      "themes": ["divine_ascent", "apophatic_theology", "sinai_theophany", "trumpet", "purification"]
+    },
+    {
+      "id": "book2_darkness",
+      "title": "Book II: The Darkness",
+      "book": "II",
+      "start_page": 53,
+      "end_page": 54,
+      "symbolic_relevance": "critical",
+      "themes": ["divine_darkness", "apophatic", "unknowing", "luminous_darkness", "mystical_theology"]
+    },
+    {
+      "id": "book2_heavenly_tabernacle",
+      "title": "Book II: The Heavenly Tabernacle",
+      "book": "II",
+      "start_page": 54,
+      "end_page": 56,
+      "symbolic_relevance": "critical",
+      "themes": ["heavenly_pattern", "archetype", "cosmic_temple", "divine_dwelling"]
+    },
+    {
+      "id": "book2_earthly_tabernacle",
+      "title": "Book II: The Earthly Tabernacle",
+      "book": "II",
+      "start_page": 56,
+      "end_page": 57,
+      "symbolic_relevance": "critical",
+      "themes": ["materialization", "incarnation_type", "heaven_earth_union"]
+    },
+    {
+      "id": "book2_priestly_vestments",
+      "title": "Book II: The Priestly Vestments",
+      "book": "II",
+      "start_page": 57,
+      "end_page": 60,
+      "symbolic_relevance": "high",
+      "themes": ["priesthood", "clothing_symbolism", "virtue_garments"]
+    },
+    {
+      "id": "book2_tables_stone",
+      "title": "Book II: The Tables of Stone",
+      "book": "II",
+      "start_page": 60,
+      "end_page": 62,
+      "symbolic_relevance": "high",
+      "themes": ["divine_law", "stone_tablets", "idolatry", "golden_calf"]
+    },
+    {
+      "id": "book2_eternal_progress",
+      "title": "Book II: Eternal Progress (Epektasis)",
+      "book": "II",
+      "start_page": 62,
+      "end_page": 67,
+      "symbolic_relevance": "critical",
+      "themes": ["epektasis", "infinite_progress", "desire_for_god", "cleft_rock", "back_of_god", "divine_infinity"]
+    },
+    {
+      "id": "book2_moses_envied",
+      "title": "Book II: Moses Envied",
+      "book": "II",
+      "start_page": 67,
+      "end_page": 68,
+      "symbolic_relevance": "medium",
+      "themes": ["envy", "virtue_tested", "patience"]
+    },
+    {
+      "id": "book2_joshua_spies",
+      "title": "Book II: Joshua and the Spies",
+      "book": "II",
+      "start_page": 68,
+      "end_page": 69,
+      "symbolic_relevance": "high",
+      "themes": ["promised_land", "faith", "jesus_typology"]
+    },
+    {
+      "id": "book2_brazen_serpent",
+      "title": "Book II: The Brazen Serpent",
+      "book": "II",
+      "start_page": 69,
+      "end_page": 70,
+      "symbolic_relevance": "critical",
+      "themes": ["cross_typology", "serpent_lifted", "healing", "christ_type"]
+    },
+    {
+      "id": "book2_priesthood_balaam",
+      "title": "Book II: True Priesthood, Royal Way, Balaam",
+      "book": "II",
+      "start_page": 70,
+      "end_page": 74,
+      "symbolic_relevance": "high",
+      "themes": ["priesthood", "royal_way", "prophecy", "false_prophet"]
+    },
+    {
+      "id": "book2_perfection_servant",
+      "title": "Book II: The Perfection of the Servant of God",
+      "book": "II",
+      "start_page": 74,
+      "end_page": 77,
+      "symbolic_relevance": "critical",
+      "themes": ["perfection", "death_moses", "final_ascent", "unchangeable_beauty", "perpetual_progress"]
+    },
+    {
+      "id": "notes",
+      "title": "Endnotes (Scripture References and Commentary)",
+      "book": "notes",
+      "start_page": 80,
+      "end_page": 134,
+      "symbolic_relevance": "high",
+      "_note": "Contains exact scriptural cross-references — future wikilinking source"
+    }
+  ],
+  "symbolic_arc": [
+    "Light (burning bush) → Darkness (cloud) → Deeper Darkness (Sinai) → Luminous Darkness (cleft of rock)",
+    "This is Gregory's signature theological contribution: the three stages of spiritual ascent",
+    "Stage 1: Light — God appears as illumination, dispelling ignorance",
+    "Stage 2: Cloud — God transcends sensory knowledge, faith begins",
+    "Stage 3: Darkness — God is known by unknowing, apophatic union",
+    "This threefold progression maps to Pageau's vertical space: light→air→water→earth but INVERTED",
+    "Gregory ascends INTO darkness rather than toward light — the deeper you go, the more unknowable God becomes",
+    "This is the 'syntax' for symbolic narrative chains we hypothesized Pageau's vocabulary needed"
+  ]
+}

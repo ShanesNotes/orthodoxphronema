@@ -2,15 +2,25 @@
   "anchor_id": "JER.7:22",
   "canon_uri": "canon/OT/JER.md#JER.7:22",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "But I commanded them this word, saying, 'Listen to My voice, and I will be to you as God, and you shall be to Me as a people. Walk in all My ways I commanded you, that it may be well with you.'",
+  "pericope": {
+    "id": "JER.P013",
+    "title": "Trust Not in Lying Words",
+    "range": "JER.6:30-7:24",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/HEB_footnotes.md",
-      "line_number": 909,
+      "source_file": "study/footnotes/NT/HEB_footnotes.md",
+      "line_number": 587,
       "raw_match": "[[JER.7:21]]-26",
       "reference_type": "wikilink_range",
-      "context": "1:10-17; [[JER.7:21]]-26; [[HOS.6:6]]). This is not in opposition to liturgical, sacramental"
+      "context": "A common prophetic theme throughout the OT (see 1Kg 15:22; [[PSA.50:8]]-15; Is 1:10-17; [[JER.7:21]]-26; [[HOS.6:6]]). This is not in opposition to liturgical, sacramental worship, but a statement of priority: obedience comes before praise. Sacrifice pleasing to God requires voluntary human sacrifice, not the slaughter of dumb animals. The primary instance of this is Christ, who did God's will in a liturgical, sacramental act (v. 10)."
     }
   ]
 }

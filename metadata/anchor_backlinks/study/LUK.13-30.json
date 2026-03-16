@@ -2,22 +2,32 @@
   "anchor_id": "LUK.13:30",
   "canon_uri": "canon/NT/LUK.md#LUK.13:30",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "And indeed there are last who will be first, and there are first who will be last.'",
+  "pericope": {
+    "id": "LUK.P068",
+    "title": "Jesus Presses on Toward Jerusalem",
+    "range": "LUK.13:30-13:34",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/MAT_footnotes.md",
-      "line_number": 1239,
+      "source_file": "study/footnotes/NT/MAT_footnotes.md",
+      "line_number": 800,
       "raw_match": "[[LUK.13:24]]-30",
       "reference_type": "wikilink_range",
-      "context": "Luke's version ([[LUK.13:24]]-30) is more eschatological, referring to the end of the age."
+      "context": "The description of the two ways was widespread in Judaism ([[DEU.30:15]]-20; Ps 1; Pr 4:17, 18; 12:28; 15:23; WSir 15:17) and in early Christian writings (Didache, Barnabas). Luke's version ([[LUK.13:24]]-30) is more eschatological, referring to the end of the age. Because we wrestle against sins and human weaknesses as well as spiritual forces of evil ([[EPH.6:12]]), entering the Kingdom is the more difficult way."
     },
     {
-      "source_file": "staging/validated/NT/REV_footnotes.md",
-      "line_number": 771,
+      "source_file": "study/footnotes/NT/REV_footnotes.md",
+      "line_number": 482,
       "raw_match": "[[LUK.13:25]]-30",
       "reference_type": "wikilink_range",
-      "context": "of the feast of the Kingdom ([[LUK.13:25]]-30)."
+      "context": "I will... dine with him if there is cooperation, the synergy of an open door. God does not force anyone to cooperate with Him. He keeps knocking, awaiting a response. This promise looks toward both the messianic banquet, the wedding supper of the Lamb of God (19:9; [[LUK.22:30]]), and the Holy Eucharist, which is a foretaste of the heavenly feast. Faithful disciples are promised they will eat and drink at table with Him ([[LUK.22:28]]-30) in the ultimate reality of the Kingdom of heaven. Note the parallels with the parable of the bridegroom ([[MAT.25:1]]-13) and with the teaching about those who will shut themselves out of the feast of the Kingdom ([[LUK.13:25]]-30)."
     }
   ]
 }

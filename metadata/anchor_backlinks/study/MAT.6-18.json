@@ -2,22 +2,32 @@
   "anchor_id": "MAT.6:18",
   "canon_uri": "canon/NT/MAT.md#MAT.6:18",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "so that you do not appear to men to be fasting, but to your Father who is in the secret place; and your Father who sees in secret will reward you openly.",
+  "pericope": {
+    "id": "MAT.P015",
+    "title": "How to Fast",
+    "range": "MAT.6:15-6:33",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/1JN_footnotes.md",
-      "line_number": 177,
+      "source_file": "study/footnotes/NT/1JN_footnotes.md",
+      "line_number": 111,
       "raw_match": "[[MAT.6:1]]-18",
       "reference_type": "wikilink_range",
-      "context": "almsgiving (see [[MAT.6:1]]-18)--help us overcome these distortions and live lives of virtue."
+      "context": "The world distorts every realm of God's good creation (see [[JAS.1:13]], [[JAS.1:14]]). There are (1) sensual pleasures of the flesh (physical passions), (2) intellectual attainments and capacities of the eyes (the soul's passions), and (3) inordinate possessions, power, and honors of life (the pride of human spirit). Biblical ascetic practices--prayer, fasting, almsgiving (see [[MAT.6:1]]-18)--help us overcome these distortions and live lives of virtue."
     },
     {
-      "source_file": "staging/validated/NT/LUK_footnotes.md",
-      "line_number": 1513,
+      "source_file": "study/footnotes/NT/LUK_footnotes.md",
+      "line_number": 1005,
       "raw_match": "[[MAT.6:18]]",
       "reference_type": "wikilink",
-      "context": "here and His command that we not \"appear to men to be fasting\" ([[MAT.6:18]]; see also Rom"
+      "context": "Twice here Christ commands the apostles to eat whatever is offered to them. This has a twofold significance: (1) the apostles must be content with whatever is offered, even if the food is little and simple; and (2) the gracious reception of others' hospitality takes precedence over personal fasting or dietary disciplines. St. Cassian the Desert Father notes that when he visited a monastery, the fast was always relaxed to honor him as a guest. When he asked why, the elder responded, \"Fasting is always with me, but you I cannot always have with me. Fasting is useful and necessary, but it depends on our choice, while the law of God demands charity. Thus receiving Christ in you, I serve you with all diligence, and when I have taken leave of you, I resume the rule of fasting again.\" In this way the ascetics would obey Christ's command here and His command that we not \"appear to men to be fasting\" ([[MAT.6:18]]; see also Rom 14:2-6; [[1CO.10:27]]; [[HEB.13:2]])."
     }
   ]
 }

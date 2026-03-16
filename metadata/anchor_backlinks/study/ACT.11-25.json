@@ -2,12 +2,22 @@
   "anchor_id": "ACT.11:25",
   "canon_uri": "canon/NT/ACT.md#ACT.11:25",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Then Barnabas departed for Tarsus to seek Saul.",
+  "pericope": {
+    "id": "ACT.P038",
+    "title": "The Gentile Church: Antioch",
+    "range": "ACT.11:18-11:25",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/2MA_footnotes.md",
-      "line_number": 149,
+      "source_file": "study/footnotes/OT/2MA_footnotes.md",
+      "line_number": 126,
       "raw_match": "[[ACT.11:25]]",
       "reference_type": "wikilink",
       "context": "Another famous son of Tarsus is the Apostle Paul ([[ACT.11:25]], [[ACT.11:26]])."

@@ -2,22 +2,32 @@
   "anchor_id": "2KI.25:21",
   "canon_uri": "canon/OT/2KI.md#2KI.25:21",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "And the king of Babylon struck them and killed them at Reblatha in the land of Amath. So Judah was carried away from his land.",
+  "pericope": {
+    "id": "2KI.P070",
+    "title": "Judah Is Captive in Babylon",
+    "range": "2KI.25:21-25:25",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/2CH_footnotes.md",
-      "line_number": 504,
+      "source_file": "study/footnotes/OT/2CH_footnotes.md",
+      "line_number": 368,
       "raw_match": "[[2KI.25:8]]-21",
       "reference_type": "wikilink_range",
-      "context": "gone beyond the point of no return and will not repent (see [[2KI.25:8]]-21). Seventy years"
+      "context": "God's judgment on Judah is justified, for the priests and the people have gone beyond the point of no return and will not repent (see [[2KI.25:8]]-21). Seventy years (v. 29) is the approximate time of the exile in Babylon (see also [[JER.25:9]]-12; 27:6-8; 29:10; Lv 26:34-43)."
     },
     {
-      "source_file": "staging/validated/OT/SIR_footnotes.md",
-      "line_number": 2154,
+      "source_file": "study/footnotes/OT/SIR_footnotes.md",
+      "line_number": 1694,
       "raw_match": "[[2KI.25:1]]-21",
       "reference_type": "wikilink_range",
-      "context": "39:10; 52:12, 13; [[2KI.25:1]]-21)."
+      "context": ", 7 The sad prophecies of Jeremiah were a great burden to him. On one occasion he determined not to speak them, but could not hold them back ([[JER.20:9]]). His prophecies about the destruction and burning of Jerusalem were completely fulfilled (see [[JER.38:14]]- 39:10; 52:12, 13; [[2KI.25:1]]-21)."
     }
   ]
 }

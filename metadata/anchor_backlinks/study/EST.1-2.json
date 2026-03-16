@@ -2,15 +2,25 @@
   "anchor_id": "EST.1:2",
   "canon_uri": "canon/OT/EST.md#EST.1:2",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "1k Mordecai, who had seen this vision and what God was planning to do, awoke. 1l He kept it in his heart and wished to ponder it until night.",
+  "pericope": {
+    "id": "EST.P002",
+    "title": "A Plot against the King",
+    "range": "EST.1:2-1:3",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/NEH_footnotes.md",
-      "line_number": 17,
+      "source_file": "study/footnotes/OT/NEH_footnotes.md",
+      "line_number": 15,
       "raw_match": "[[EST.1:2]]",
       "reference_type": "wikilink",
-      "context": "Persia, its most prominent city and winter residence of King Artaxerxes ([[EST.1:2]]). Chislev"
+      "context": "Nehemiah means \"comforted of God.\" Shushan is Susa, a provincial capital in Persia, its most prominent city and winter residence of King Artaxerxes ([[EST.1:2]]). Chislev is late November/early December. The twentieth year is that of the reign of Artaxerxes I, dating this account at 445 BC."
     }
   ]
 }

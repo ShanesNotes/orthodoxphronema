@@ -2,22 +2,32 @@
   "anchor_id": "ACT.2:10",
   "canon_uri": "canon/NT/ACT.md#ACT.2:10",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Phrygia and Pamphylia, Egypt and the parts of Libya adjoining Cyrene, visitors from Rome, both Jews and proselytes,",
+  "pericope": {
+    "id": "ACT.P004",
+    "title": "Day 50: Pentecost",
+    "range": "ACT.1:26-2:12",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/MRK_footnotes.md",
-      "line_number": 807,
+      "source_file": "study/footnotes/NT/MRK_footnotes.md",
+      "line_number": 550,
       "raw_match": "[[ACT.2:1]]-11",
       "reference_type": "wikilink_range",
-      "context": "order to edify others in worship (1Co 14) and to preach the gospel ([[ACT.2:1]]-11)."
+      "context": "New tongues refers to the ability to speak in languages that one has not learned in order to edify others in worship (1Co 14) and to preach the gospel ([[ACT.2:1]]-11)."
     },
     {
-      "source_file": "staging/validated/OT/EST_footnotes.md",
-      "line_number": 61,
+      "source_file": "study/footnotes/OT/EST_footnotes.md",
+      "line_number": 47,
       "raw_match": "[[ACT.2:4]]-11",
       "reference_type": "wikilink_range",
-      "context": "throughout the world it is imperative that the gospel be preached ([[ACT.2:4]]-11) and the"
+      "context": "Note that the king's decree was distributed to all people according to their own language, so that all could understand and follow. This is why in the Orthodox Church throughout the world it is imperative that the gospel be preached ([[ACT.2:4]]-11) and the liturgy be celebrated ([[1CO.14:1]]-25) in the language spoken by the people (see also 3:12)."
     }
   ]
 }

@@ -2,15 +2,25 @@
   "anchor_id": "ZEC.13:8",
   "canon_uri": "canon/OT/ZEC.md#ZEC.13:8",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "And it will come to pass in all the land,' says the Lord, 'two of every three will be utterly destroyed and shall die, but the other third will be left in it.",
+  "pericope": {
+    "id": "ZEC.P017",
+    "title": "The End of False Prophets and Idols",
+    "range": "ZEC.12:14-13:8",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/REV_footnotes.md",
-      "line_number": 1285,
+      "source_file": "study/footnotes/NT/REV_footnotes.md",
+      "line_number": 795,
       "raw_match": "[[ZEC.13:8]]",
       "reference_type": "wikilink",
-      "context": "also [[EZK.5:12]]; [[ZEC.13:8]], [[ZEC.13:9]]). The reference to blood most likely comes from Joel (3:3; see"
+      "context": "Only vegetation is affected. The seventh plague in Egypt is recalled ([[EXO.9:22]]-26; see also [[EZK.5:12]]; [[ZEC.13:8]], [[ZEC.13:9]]). The reference to blood most likely comes from Joel (3:3; see [[ACT.2:19]]). A mixture of hail, fire, and blood is a typical apocalyptic picture of judgment."
     }
   ]
 }

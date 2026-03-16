@@ -2,15 +2,25 @@
   "anchor_id": "EXO.10:1",
   "canon_uri": "canon/OT/EXO.md#EXO.10:1",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Now the Lord said to Moses, 'Go in to Pharaoh; for I have hardened his heart and the heart of his servants, that these signs may come upon them;",
+  "pericope": {
+    "id": "EXO.P017",
+    "title": "The Plague of Locusts",
+    "range": "EXO.9:35-10:19",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/EXO_footnotes.md",
-      "line_number": 477,
+      "source_file": "study/footnotes/OT/EXO_footnotes.md",
+      "line_number": 360,
       "raw_match": "[[EXO.10:1]]",
       "reference_type": "wikilink",
-      "context": "[[EXO.10:1]], [[EXO.10:20]], [[EXO.10:27]]: Both Pharaoh and his servants hardened their hearts (see note at"
+      "context": "[[EXO.10:1]], [[EXO.10:20]], [[EXO.10:27]]: Both Pharaoh and his servants hardened their hearts (see note at 4:21)."
     }
   ]
 }

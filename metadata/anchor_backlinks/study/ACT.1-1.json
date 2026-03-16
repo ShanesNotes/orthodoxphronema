@@ -2,15 +2,25 @@
   "anchor_id": "ACT.1:1",
   "canon_uri": "canon/NT/ACT.md#ACT.1:1",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "The former account I made, O Theophilus, of all that Jesus began both to do and teach,",
+  "pericope": {
+    "id": "ACT.P001",
+    "title": "Days 1-39: Jesus' Promise of the Holy Spirit",
+    "range": "ACT.1:1-1:7",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/LUK_footnotes.md",
-      "line_number": 21,
+      "source_file": "study/footnotes/NT/LUK_footnotes.md",
+      "line_number": 17,
       "raw_match": "[[ACT.1:1]]",
       "reference_type": "wikilink",
-      "context": "instruction (see also [[ACT.1:1]]). St. Ambrose notes that Theophilus can simply mean any"
+      "context": "Luke was not a disciple from the beginning, yet he has perfect understanding of the gospel because his sources were the apostles themselves, the eyewitnesses of Christ. Luke wrote his Gospel to Theophilus, a prominent Gentile who had received Christian instruction (see also [[ACT.1:1]]). St. Ambrose notes that Theophilus can simply mean any \"lover of God,\" and therefore he writes, \"If you love God, it was written to you.\""
     }
   ]
 }

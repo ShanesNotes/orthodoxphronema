@@ -69,7 +69,7 @@ src.texts/       → osb.pdf, LXX-Rahlfs, Brenton. Add-only.
 
 ## Pipeline Contract
 
-`src.texts/osb.pdf` → parse → raw → validate (V1-V12) → validated → promote → `canon/`
+`src.texts/osb.pdf` → parse → raw → validate (V1-V13) → validated → promote → `canon/`
 Partial pass = fail.
 
 ## Anchor Format (FROZEN)
@@ -101,3 +101,12 @@ Book codes: SBL-standard UPPERCASE (76-book registry frozen).
 13. Lectionary extraction cross-contaminates sequential books; decontaminate by verifying chapter ranges against the book's actual chapter count.
 14. Footnote OCR blank-line artifacts (~45% of lines) are batch-removable by collapsing intra-paragraph blanks while preserving section separators.
 15. Ezra audit catches content duplication that passes V1/V7 (e.g., 1CH LXX vs MT verse numbering mismatch created duplicate content at different anchor numbers).
+16. V5 article-bleed detection must be generalized beyond hardcoded Genesis phrases; per-book article headers should be checked.
+17. Mega-lines (>1000 chars) are invisible to V1-V12; a V13 line-length check is required.
+18. Companion files need a defined promotion path from staging to study; without one, drift is inevitable.
+19. R1 extraction must read from exactly one source per companion; dual-source produces ~50% duplicate backlink edges.
+20. Audit pass does not mean content purity; V-checks must be supplemented with content-level sampling.
+21. After Lane 1 closure, staging companions are archived; study/ is the sole companion source for R1 extraction.
+22. Mega-line remediation must truncate (not delete) — the fused blob starts with the first verse anchor, and split verses below start from :2. Deleting loses the :1 anchor.
+23. V13 per-book oversized allowlists handle genuinely long LXX text (e.g., EST Additions) without masking real defects.
+24. Promote script must inject (not just replace) promote_date/checksum fields when they're absent from staged frontmatter.

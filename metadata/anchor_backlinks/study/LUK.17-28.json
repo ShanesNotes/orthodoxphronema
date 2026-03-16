@@ -2,15 +2,25 @@
   "anchor_id": "LUK.17:28",
   "canon_uri": "canon/NT/LUK.md#LUK.17:28",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Likewise as it was also in the days of Lot: They ate, they drank, they bought, they sold, they planted, they built;",
+  "pericope": {
+    "id": "LUK.P081",
+    "title": "The Coming of the Kingdom",
+    "range": "LUK.17:19-17:37",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/GEN_footnotes.md",
-      "line_number": 1038,
+      "source_file": "study/footnotes/OT/GEN_footnotes.md",
+      "line_number": 747,
       "raw_match": "[[LUK.17:28]]-33",
       "reference_type": "wikilink_range",
-      "context": "In [[LUK.17:28]]-33, the Lord commanded us to remember Lot's wife, for she lost her"
+      "context": "In [[LUK.17:28]]-33, the Lord commanded us to remember Lot's wife, for she lost her life because she turned back in disobedience to the Lord."
     }
   ]
 }

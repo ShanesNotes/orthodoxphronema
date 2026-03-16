@@ -1,9 +1,9 @@
 {
   "book_code": "EZR",
   "testament": "OT",
-  "timestamp": "2026-03-15T15:56:30.456993",
-  "registry_version": "1.7.4",
-  "body_checksum": "a5302c902cc02d0749609b61f1faebd261fb0a8100ca22aa8c33a1cbe56f5178",
+  "timestamp": "2026-03-15T21:56:14.314938",
+  "registry_version": "1.7.6",
+  "body_checksum": "95c67bf07fa2306d6e8c7291762fe4092d5792cbec1e3a6d414b0e48e963dc38",
   "allow_incomplete": true,
   "staged_path": "/home/ark/orthodoxphronema/staging/validated/OT/EZR.md",
   "residuals_path": null,
@@ -54,6 +54,10 @@
       "messages": []
     },
     "V12": {
+      "status": "PASS",
+      "messages": []
+    },
+    "V13": {
       "status": "PASS",
       "messages": []
     }

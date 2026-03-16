@@ -2,11 +2,21 @@
   "anchor_id": "MRK.6:3",
   "canon_uri": "canon/NT/MRK.md#MRK.6:3",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Is this not the carpenter, the Son of Mary, and brother of James, Joses, Judas, and Simon? And are not His sisters here with us?' So they were offended at Him.",
+  "pericope": {
+    "id": "MRK.P022",
+    "title": "Jairus's Daughter Raised",
+    "range": "MRK.5:34-6:5",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/LUK_articles.md",
+      "source_file": "study/articles/NT/LUK_articles.md",
       "line_number": 38,
       "raw_match": "[[MRK.6:3]]",
       "reference_type": "wikilink",

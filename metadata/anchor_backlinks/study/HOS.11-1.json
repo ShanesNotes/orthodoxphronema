@@ -2,15 +2,25 @@
   "anchor_id": "HOS.11:1",
   "canon_uri": "canon/OT/HOS.md#HOS.11:1",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "'For Israel is a child, and I loved him, And out of Egypt I have called his children.",
+  "pericope": {
+    "id": "HOS.P012",
+    "title": "Israel Will Return to the Lord",
+    "range": "HOS.2:23-14:9",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/MAT_footnotes.md",
-      "line_number": 217,
+      "source_file": "study/footnotes/NT/MAT_footnotes.md",
+      "line_number": 143,
       "raw_match": "[[HOS.11:1]]",
       "reference_type": "wikilink",
-      "context": "([[HOS.11:1]]). In the OT, \"son\" can refer to the whole nation of Israel. Here Jesus fulfills this"
+      "context": "Out of Egypt I called my Son refers first to Israel being brought out of captivity ([[HOS.11:1]]). In the OT, \"son\" can refer to the whole nation of Israel. Here Jesus fulfills this calling as the true Son of God by coming out of Egypt."
     }
   ]
 }

@@ -2,15 +2,25 @@
   "anchor_id": "LUK.2:6",
   "canon_uri": "canon/NT/LUK.md#LUK.2:6",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "So it was, that while they were there, the days were completed for her to be delivered.",
+  "pericope": {
+    "id": "LUK.P007",
+    "title": "John's Growth",
+    "range": "LUK.1:79-2:19",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/JOH_footnotes.md",
-      "line_number": 1277,
+      "source_file": "study/footnotes/NT/JOH_footnotes.md",
+      "line_number": 795,
       "raw_match": "[[LUK.2:1]]-7",
       "reference_type": "wikilink_range",
-      "context": "[[LUK.2:1]]-7). Beyond this, they cannot comprehend that He has come from the Father in"
+      "context": "We know where this Man is from: The crowds are mistaken, both in an earthly sense and in a divine sense. Humanly speaking, they think of Jesus as being from Nazareth of Galilee; they are not aware that He was actually born in Bethlehem (v. 42; see [[LUK.2:1]]-7). Beyond this, they cannot comprehend that He has come from the Father in Heaven, eternally begotten before all ages, and thus His divine \"origin\" remains unknown to them as well."
     }
   ]
 }

@@ -2,15 +2,25 @@
   "anchor_id": "HOS.4:12",
   "canon_uri": "canon/OT/HOS.md#HOS.4:12",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "They asked counsel by means of signs And they reported answers to them by their staves. They have gone astray in a spirit of whoredom And grievously gone a-whoring from their God.",
+  "pericope": {
+    "id": "HOS.P012",
+    "title": "Israel Will Return to the Lord",
+    "range": "HOS.2:23-14:9",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/REV_footnotes.md",
-      "line_number": 2333,
+      "source_file": "study/footnotes/NT/REV_footnotes.md",
+      "line_number": 1441,
       "raw_match": "[[HOS.4:12]]",
       "reference_type": "wikilink",
-      "context": "27; Ezk 16; [[HOS.4:12]]; [[NAH.3:4]]). The many waters on which the harlot is seated portray"
+      "context": "The great harlot is Rome, the empire with its claims of divinity, sovereignty, and eternity (see vv. 9, 18), opposed to God and the Church: symbolic of all evil rule. In the Bible, harlotry frequently symbolizes apostasy and idolatry (see Is 1:21; 23:15; [[JER.13:25]]- 27; Ezk 16; [[HOS.4:12]]; [[NAH.3:4]]). The many waters on which the harlot is seated portray both the waters of Babylon--the canals and tributaries of the Euphrates ([[PSA.136:1]]; Jer 28:12, 13)--and the waters of Rome, the seas surrounding Italy. They symbolize the nations who submit to the harlot's rule (v. 15)."
     }
   ]
 }

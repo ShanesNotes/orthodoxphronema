@@ -2,15 +2,25 @@
   "anchor_id": "LUK.9:24",
   "canon_uri": "canon/NT/LUK.md#LUK.9:24",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "For whoever desires to save his life will lose it, but whoever loses his life for My sake will save it.",
+  "pericope": {
+    "id": "LUK.P044",
+    "title": "Peter's Confession: Jesus is the Christ",
+    "range": "LUK.9:17-9:26",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/JOH_footnotes.md",
-      "line_number": 1947,
+      "source_file": "study/footnotes/NT/JOH_footnotes.md",
+      "line_number": 1238,
       "raw_match": "[[LUK.9:24]]",
       "reference_type": "wikilink",
-      "context": "sake of following Christ ([[LUK.9:23]], [[LUK.9:24]])."
+      "context": "Thomas's statement is an unwitting prophecy of his own future martyrdom. It also illustrates the path that all believers must take--that we die daily to the world for the sake of following Christ ([[LUK.9:23]], [[LUK.9:24]])."
     }
   ]
 }

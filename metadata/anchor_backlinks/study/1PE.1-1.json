@@ -2,15 +2,25 @@
   "anchor_id": "1PE.1:1",
   "canon_uri": "canon/NT/1PE.md#1PE.1:1",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Peter, an apostle of Jesus Christ, To the pilgrims of the Dispersion in Pontus, Galatia, Cappadocia, Asia, and Bithynia,",
+  "pericope": {
+    "id": "1PE.P001",
+    "title": "Born to a Heavenly Hope",
+    "range": "1PE.1:1-1:3",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/PSA_footnotes.md",
-      "line_number": 781,
+      "source_file": "study/footnotes/OT/PSA_footnotes.md",
+      "line_number": 471,
       "raw_match": "[[1PE.1:1]]",
       "reference_type": "wikilink",
-      "context": "and a stranger, v. 13; see also [[1PE.1:1]]). For God's people are \"to look for the resurrection"
+      "context": "Ps 38 reminds the Church of its pilgrim status in the present world (a sojourner and a stranger, v. 13; see also [[1PE.1:1]]). For God's people are \"to look for the resurrection of the dead and the life of the world to come\" (Creed). For Christ is the End (v. 1). Meanwhile, (1) the tongue is to be kept from sinning (vv. 2, 3); (2) the heart is to be on fire with meditation on the things of God (v. 4); (3) man, made by God (v. 10), is to grow in divine knowledge, so as not to lack (v. 5) or be deadened (v. 3) by transgressions (vv. 9, 12). Rather, he is to revive before he departs in death (no longer here, v. 14). A handbreadth (v. 6) is an ancient unit of measure of about 4-1/2 inches, here used to show the brief span of our lives."
     }
   ]
 }

@@ -2,15 +2,25 @@
   "anchor_id": "JER.3:2",
   "canon_uri": "canon/OT/JER.md#JER.3:2",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "'Lift up your eyes straight ahead and see. Where have you not been defiled? You sat for them along the roads like a deserted crow, and defiled the land with your fornications and vices.",
+  "pericope": {
+    "id": "JER.P007",
+    "title": "Israel Is Defiled",
+    "range": "JER.2:37-3:4",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/REV_footnotes.md",
-      "line_number": 2347,
+      "source_file": "study/footnotes/NT/REV_footnotes.md",
+      "line_number": 1450,
       "raw_match": "[[JER.3:1]]-5",
       "reference_type": "wikilink_range",
-      "context": "for infidelity to the Lord ([[JER.3:1]]-5; Ezk 23; Hos 2). The vassal kingdoms within the"
+      "context": "Fornication, committed by the kings of the earth with this harlot, is a metaphor for infidelity to the Lord ([[JER.3:1]]-5; Ezk 23; Hos 2). The vassal kingdoms within the Roman Empire have accepted the cults of Rome and her emperors and have solidified their obeisance with political and economic obligations--and have fallen into moral decadence. The wine of this fornication has made the inhabitants of the earth to become drunk, seduced and stupefied by a hideous eucharist of death, focused on the persecution and martyrdom of Christians (v. 6; see [[JER.28:7]])."
     }
   ]
 }

@@ -2,36 +2,46 @@
   "anchor_id": "DEU.18:16",
   "canon_uri": "canon/OT/DEU.md#DEU.18:16",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "according to all you asked from the Lord your God in Horeb in the day of the assembly, saying, 'Let us not hear again the voice of the Lord our God, nor let us see this great fire any more, lest we die.'",
+  "pericope": {
+    "id": "DEU.P040",
+    "title": "The Promise of a Prophet",
+    "range": "DEU.18:14-19:12",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/JOH_footnotes.md",
-      "line_number": 275,
+      "source_file": "study/footnotes/NT/JOH_footnotes.md",
+      "line_number": 168,
       "raw_match": "[[DEU.18:15]]-19",
       "reference_type": "wikilink_range",
-      "context": "Moses foretold ([[DEU.18:15]]-19)."
+      "context": "John the Baptist is a prophet but not the Prophet, the Messiah, whose coming Moses foretold ([[DEU.18:15]]-19)."
     },
     {
-      "source_file": "staging/validated/NT/JOH_footnotes.md",
-      "line_number": 723,
+      "source_file": "study/footnotes/NT/JOH_footnotes.md",
+      "line_number": 452,
       "raw_match": "[[DEU.18:15]]-18",
       "reference_type": "wikilink_range",
-      "context": "whom Moses foretold ([[DEU.18:15]]-18). Christ's insight into people's hearts, reported many"
+      "context": "Since Jesus perceived she was living with a man without being married, and as He knew of her string of husbands, the woman perceives He is a prophet. As the Samaritans did not accept any prophets after Moses, the only prophet they expected was the Messiah whom Moses foretold ([[DEU.18:15]]-18). Christ's insight into people's hearts, reported many times in the Gospels, underscores His divine nature."
     },
     {
-      "source_file": "staging/validated/NT/JOH_footnotes.md",
-      "line_number": 1331,
+      "source_file": "study/footnotes/NT/JOH_footnotes.md",
+      "line_number": 832,
       "raw_match": "[[DEU.18:15]]-19",
       "reference_type": "wikilink_range",
-      "context": "([[DEU.18:15]]-19)."
+      "context": "The Prophet refers to the expected Messiah, the Savior Moses foretold would come ([[DEU.18:15]]-19)."
     },
     {
-      "source_file": "staging/validated/NT/LUK_footnotes.md",
-      "line_number": 129,
+      "source_file": "study/footnotes/NT/LUK_footnotes.md",
+      "line_number": 89,
       "raw_match": "[[DEU.18:15]]-18",
       "reference_type": "wikilink_range",
-      "context": "fulfilled all three offices perfectly. He is the true Prophet ([[DEU.18:15]]-18), the true King"
+      "context": "You will be mute: Zacharias is disciplined for his lack of faith, yet this also serves as proof that Gabriel's announcement (v. 19) is true. The silencing of the high priest also reveals a deeper mystery. The Messiah was expected to fulfill three crucial roles held by various people in the OT: prophet, priest, and king. Only Jesus Christ can be said to have fulfilled all three offices perfectly. He is the true Prophet ([[DEU.18:15]]-18), the true King (23:3; Is 9:6; [[MIC.5:1]]), and the true High Priest ([[PSA.109:4]]; [[HEB.4:14]]). In preparation for Christ's coming, God had silenced the prophets for many years (see note for v. 24), and also permitted an illegitimate usurper to occupy the position of king of Judea (see note for v. 5). Here, in the last days before Christ's coming, the high priest is also silenced. With these three roles vacant, illegitimate, and silent, all is ready for the Son of God to be revealed as Prophet, King, and Priest."
     }
   ]
 }

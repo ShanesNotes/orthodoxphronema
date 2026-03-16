@@ -2,15 +2,25 @@
   "anchor_id": "ROM.8:36",
   "canon_uri": "canon/NT/ROM.md#ROM.8:36",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "As it is written: 'For Your sake we are killed all day long; We are accounted as sheep for the slaughter.'",
+  "pericope": {
+    "id": "ROM.P021",
+    "title": "The Father's Love Triumphs in Christ",
+    "range": "ROM.8:30-8:39",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/PSA_footnotes.md",
-      "line_number": 883,
+      "source_file": "study/footnotes/OT/PSA_footnotes.md",
+      "line_number": 532,
       "raw_match": "[[ROM.8:36]]",
       "reference_type": "wikilink",
-      "context": "midst of sufferings and even martyrdom itself (vv. 18-26; see also [[ROM.8:36]]); and (3) the"
+      "context": "Ps 43 describes (1) the daily praise and thanksgiving (v. 9) the Church offers God in the midst of sufferings and persecution (vv. 2-17); the steadfastness of the Church in the midst of sufferings and even martyrdom itself (vv. 18-26; see also [[ROM.8:36]]); and (3) the Church's hope in the Lord to be raised from the dead at the general resurrection (v. 27)."
     }
   ]
 }

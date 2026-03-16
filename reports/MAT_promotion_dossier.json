@@ -1,8 +1,8 @@
 {
   "book_code": "MAT",
   "testament": "NT",
-  "timestamp": "2026-03-13T13:36:34.841394",
-  "registry_version": "1.4.0",
+  "timestamp": "2026-03-15T18:29:28.988819",
+  "registry_version": "1.7.6",
   "body_checksum": "6008857c5bad786ced00045d99441358d7ee8599f92c624fab14f75df7478777",
   "allow_incomplete": true,
   "staged_path": "/home/ark/orthodoxphronema/staging/validated/NT/MAT.md",

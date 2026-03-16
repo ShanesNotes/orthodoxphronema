@@ -2,15 +2,25 @@
   "anchor_id": "JOH.10:38",
   "canon_uri": "canon/NT/JOH.md#JOH.10:38",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "but if I do, though you do not believe Me, believe the works, that you may know and believe that the Father is in Me, and I in Him.'",
+  "pericope": {
+    "id": "JOH.P035",
+    "title": "I and My Father Are One",
+    "range": "JOH.10:24-10:41",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/NUM_footnotes.md",
-      "line_number": 529,
+      "source_file": "study/footnotes/OT/NUM_footnotes.md",
+      "line_number": 342,
       "raw_match": "[[JOH.10:38]]",
       "reference_type": "wikilink",
-      "context": "performed after His Incarnation win them over ([[JOH.10:38]]). Nevertheless, out of His love"
+      "context": "The Lord asked two questions to show us His opposition to unbelief. Even the miracles He performed could not bring the people to faith. Neither did the miracles He performed after His Incarnation win them over ([[JOH.10:38]]). Nevertheless, out of His love for them, He gave them every opportunity to believe. Unbelief is a deep-seated evil."
     }
   ]
 }

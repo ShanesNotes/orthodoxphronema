@@ -2,15 +2,25 @@
   "anchor_id": "2CO.4:6",
   "canon_uri": "canon/NT/2CO.md#2CO.4:6",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "For it is the God who commanded light to shine out of darkness, who has shone in our hearts to give the light of the knowledge of the glory of God in the face of Jesus Christ.",
+  "pericope": {
+    "id": "2CO.P014",
+    "title": "The Power of an Apostle",
+    "range": "2CO.4:6-4:14",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/EPH_footnotes.md",
-      "line_number": 653,
+      "source_file": "study/footnotes/NT/EPH_footnotes.md",
+      "line_number": 413,
       "raw_match": "[[2CO.4:6]]",
       "reference_type": "wikilink",
-      "context": "an early baptismal hymn: baptism is illumination (see [[ACT.26:18]]; [[2CO.4:6]]; [[HEB.6:4]];"
+      "context": "Besides separating from darkness, Christians are also to expose (v. 11) it. But we must first come out of hiding in order to be exposed ourselves. That is, we must confess our sins and repent of them (see [[JOH.3:19]]-21). Orthodox Christians do this before baptism, before the Eucharist, and also in a separate sacrament of repentance. The hymn in v. 14 is an early baptismal hymn: baptism is illumination (see [[ACT.26:18]]; [[2CO.4:6]]; [[HEB.6:4]]; 10:32). To walk in the light is to walk in one's baptism."
     }
   ]
 }

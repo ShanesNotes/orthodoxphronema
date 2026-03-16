@@ -2,15 +2,25 @@
   "anchor_id": "JER.38:14",
   "canon_uri": "canon/OT/JER.md#JER.38:14",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "I will magnify and cheer with wine the soul of these priests, the sons of Levi, and My people shall be satisfied with My good things.'",
+  "pericope": {
+    "id": "JER.P050",
+    "title": "Seventy Years of Disgrace",
+    "range": "JER.24:10-38:39",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/SIR_footnotes.md",
-      "line_number": 2152,
+      "source_file": "study/footnotes/OT/SIR_footnotes.md",
+      "line_number": 1693,
       "raw_match": "[[JER.38:14]]",
       "reference_type": "wikilink",
-      "context": "about the destruction and burning of Jerusalem were completely fulfilled (see [[JER.38:14]]-"
+      "context": ", 7 The sad prophecies of Jeremiah were a great burden to him. On one occasion he determined not to speak them, but could not hold them back ([[JER.20:9]]). His prophecies about the destruction and burning of Jerusalem were completely fulfilled (see [[JER.38:14]]- 39:10; 52:12, 13; [[2KI.25:1]]-21)."
     }
   ]
 }

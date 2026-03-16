@@ -2,15 +2,25 @@
   "anchor_id": "NUM.31:16",
   "canon_uri": "canon/OT/NUM.md#NUM.31:16",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "For on account of Balaam's counsel, they were with the sons of Israel and caused them to depart from and despise the Lord's word in the incident at Peor, when there was a plague among the congregation of the Lord.",
+  "pericope": {
+    "id": "NUM.P071",
+    "title": "The Winning Army Returns",
+    "range": "NUM.31:12-31:23",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/NUM_footnotes.md",
-      "line_number": 885,
+      "source_file": "study/footnotes/OT/NUM_footnotes.md",
+      "line_number": 597,
       "raw_match": "[[NUM.31:16]]",
       "reference_type": "wikilink",
-      "context": "things sacrificed to idols\" ([[REV.2:14]]; see [[NUM.31:16]]). Soon afterward, the Israelites killed"
+      "context": "Balaam taught Balak \"to put a stumbling block before the children of Israel, to eat things sacrificed to idols\" ([[REV.2:14]]; see [[NUM.31:16]]). Soon afterward, the Israelites killed Balaam with the sword when they killed the kings of Midian (31:8; [[JOS.13:22]])."
     }
   ]
 }

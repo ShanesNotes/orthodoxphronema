@@ -2,15 +2,25 @@
   "anchor_id": "JOH.13:18",
   "canon_uri": "canon/NT/JOH.md#JOH.13:18",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "'I do not speak concerning all of you. I know whom I have chosen; but that the Scripture may be fulfilled, 'He who eats bread with Me has lifted up his heel against Me.'",
+  "pericope": {
+    "id": "JOH.P048",
+    "title": "The Betrayer in Their Midst",
+    "range": "JOH.13:17-13:29",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/PSA_footnotes.md",
-      "line_number": 835,
+      "source_file": "study/footnotes/OT/PSA_footnotes.md",
+      "line_number": 502,
       "raw_match": "[[JOH.13:18]]",
       "reference_type": "wikilink",
-      "context": "Verse 10 speaks of the betrayal by Judas (see also [[JOH.13:18]]); vv. 6, 9 of Christ's"
+      "context": "Ps 40 is a prophecy of Christ (the End) and of His death and Resurrection, which brings healing to the Church (from sickness to wholeness, v. 4, and heal my soul, v. 5). When the Lord Jesus says, for I have sinned against You (v. 5), He is taking our part, although He Himself is sinless (innocence, v. 13; see also [[HEB.7:25]], [[HEB.7:26]]). Verse 10 speaks of the betrayal by Judas (see also [[JOH.13:18]]); vv. 6, 9 of Christ's sufferings and death; and vv. 2, 3, 11-14 of His Resurrection."
     }
   ]
 }

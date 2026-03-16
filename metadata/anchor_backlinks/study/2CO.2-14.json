@@ -2,15 +2,25 @@
   "anchor_id": "2CO.2:14",
   "canon_uri": "canon/NT/2CO.md#2CO.2:14",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Now thanks be to God who always leads us in triumph in Christ, and through us diffuses the fragrance of His knowledge in every place.",
+  "pericope": {
+    "id": "2CO.P008",
+    "title": "God Triumphs in His Apostles",
+    "range": "2CO.2:11-2:16",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/SNG_footnotes.md",
-      "line_number": 454,
+      "source_file": "study/footnotes/OT/SNG_footnotes.md",
+      "line_number": 347,
       "raw_match": "[[2CO.2:14]]",
       "reference_type": "wikilink",
-      "context": "Himself ([[2CO.2:14]], [[2CO.2:15]])."
+      "context": "The garments of the Church, and therefore of the saints, are her righteous deeds ([[REV.19:8]], [[REV.19:14]]), better than all spices, for they fill the world with the fragrance of Christ Himself ([[2CO.2:14]], [[2CO.2:15]])."
     }
   ]
 }

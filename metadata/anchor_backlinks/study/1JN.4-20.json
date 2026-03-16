@@ -2,29 +2,39 @@
   "anchor_id": "1JN.4:20",
   "canon_uri": "canon/NT/1JN.md#1JN.4:20",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "If someone says, 'I love God,' and hates his brother, he is a liar; for he who does not love his brother whom he has seen, how can he love God whom he has not seen?",
+  "pericope": {
+    "id": "1JN.P011",
+    "title": "Love of God Means Love of Others",
+    "range": "1JN.4:19-4:20",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/2PE_footnotes.md",
-      "line_number": 93,
+      "source_file": "study/footnotes/NT/2PE_footnotes.md",
+      "line_number": 61,
       "raw_match": "[[1JN.4:20]]",
       "reference_type": "wikilink",
-      "context": "except through love of one's neighbor (see [[1JN.4:20]])."
+      "context": "How do we who know Christ grow in our participation in the divine nature through grace? By the cultivation of a progression of spiritual realities. As in v. 3, virtue refers to the vigor and courage behind attaining moral excellence. Love (v. 7) is adjoined to brotherly kindness (affection among Christians), for love of God cannot be perfected except through love of one's neighbor (see [[1JN.4:20]])."
     },
     {
-      "source_file": "staging/validated/NT/MAT_footnotes.md",
-      "line_number": 925,
+      "source_file": "study/footnotes/NT/MAT_footnotes.md",
+      "line_number": 597,
       "raw_match": "[[1JN.4:7]]-21",
       "reference_type": "wikilink_range",
-      "context": "[[1JN.4:7]]-21.)"
+      "context": "Freed from hate, sadness, and anger, we are able to receive the greatest virtue: perfect love. The love of enemies is not merely an emotion, but includes decision and action. It is to treat and see our enemies as the closest members of our own family. (See [[1JN.4:7]]-21.)"
     },
     {
-      "source_file": "staging/validated/NT/MAT_footnotes.md",
-      "line_number": 2183,
+      "source_file": "study/footnotes/NT/MAT_footnotes.md",
+      "line_number": 1410,
       "raw_match": "[[1JN.4:7]]-21",
       "reference_type": "wikilink_range",
-      "context": "service to others--these two cannot be separated (see also [[JAS.2:14]]-18; [[1JN.4:7]]-21)."
+      "context": "Christ shows that the commandment of God cannot be superseded by man's religious traditions. Devotion to God includes both obedience to His commandments and service to others--these two cannot be separated (see also [[JAS.2:14]]-18; [[1JN.4:7]]-21)."
     }
   ]
 }

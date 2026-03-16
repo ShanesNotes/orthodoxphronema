@@ -103,7 +103,7 @@ they imagined they understood the reason he suffered such things.
 
 Job cursed his day of birth, but as a pious man he never said he could not endure
 his pain. 3:8
-The sea-monster is identified as Satan (3:8; 7:12; 9:13; 26:12; 41:1; Ps 74:13, 14; 87:4; 89:10; 104:26; 148:7; Is 27:1; 30:7; 51:9; [[EZK.29:3]]; 32:2; [[JON.1:17]]). 3:20
+The sea-monster is identified as Satan (3:8; 7:12; 9:13; 26:12; 41:1; Ps 74:13, 14; 87:4; 89:10; 104:26; 148:7; Is 27:1; 30:7; 51:9; [[EZK.29:3]]; 32:2; [[JON.2:1]]). 3:20
 "The heart of the just knows its own bitterness because it understands how
 troublesome is its exile here, where it lies wounded and cast out" (GrgGt). 3:21
 St. Gregory writes that those who seek to die to themselves are like those who dig for

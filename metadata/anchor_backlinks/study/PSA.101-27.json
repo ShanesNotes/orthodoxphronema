@@ -2,15 +2,25 @@
   "anchor_id": "PSA.101:27",
   "canon_uri": "canon/OT/PSA.md#PSA.101:27",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "They shall perish, but You shall remain, And all things shall grow old like a garment, And like a cloak You shall change them, And they shall be changed;",
+  "pericope": {
+    "id": "PSA.P101",
+    "title": "Psalm 101",
+    "range": "PSA.101:1-101:29",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/HEB_footnotes.md",
-      "line_number": 153,
+      "source_file": "study/footnotes/NT/HEB_footnotes.md",
+      "line_number": 95,
       "raw_match": "[[PSA.101:26]]-28",
       "reference_type": "wikilink_range",
-      "context": "In this quotation from [[PSA.101:26]]-28, God the Father (v. 9) is addressing Another"
+      "context": "In this quotation from [[PSA.101:26]]-28, God the Father (v. 9) is addressing Another as \"Lord,\" that is, as God."
     }
   ]
 }

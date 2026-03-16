@@ -2,22 +2,32 @@
   "anchor_id": "JER.16:16",
   "canon_uri": "canon/OT/JER.md#JER.16:16",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "'Behold, I will send many fishermen, and they will fish them. After this, I will send many hunters, and they will hunt them upon every mountain, upon every hill, and out of the holes of the rocks.",
+  "pericope": {
+    "id": "JER.P033",
+    "title": "God's Promise to Jew and Gentile",
+    "range": "JER.16:13-16:20",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/JOH_footnotes.md",
-      "line_number": 3429,
+      "source_file": "study/footnotes/NT/JOH_footnotes.md",
+      "line_number": 2207,
       "raw_match": "[[JER.16:16]]",
       "reference_type": "wikilink",
-      "context": "knowledge of Jesus Christ, and it fulfills the prophecy of [[JER.16:16]]. In the festal hymn of"
+      "context": "The great catch of fish is an image of the disciples bringing mankind to the knowledge of Jesus Christ, and it fulfills the prophecy of [[JER.16:16]]. In the festal hymn of Pentecost we sing to Christ, \"Through the fishermen, You drew the world into Your net.\""
     },
     {
-      "source_file": "staging/validated/NT/LUK_footnotes.md",
-      "line_number": 881,
+      "source_file": "study/footnotes/NT/LUK_footnotes.md",
+      "line_number": 589,
       "raw_match": "[[JER.16:16]]",
       "reference_type": "wikilink",
-      "context": "knowledge of Jesus Christ, and it fulfills the prophecy of [[JER.16:16]]. In the festal hymn of"
+      "context": "The great catch of fish (v. 9) is an image of the apostles bringing mankind to the knowledge of Jesus Christ, and it fulfills the prophecy of [[JER.16:16]]. In the festal hymn of Pentecost we sing to Christ, \"Through the fishermen, You drew the world into Your net.\""
     }
   ]
 }

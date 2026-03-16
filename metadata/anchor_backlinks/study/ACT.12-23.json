@@ -2,12 +2,22 @@
   "anchor_id": "ACT.12:23",
   "canon_uri": "canon/NT/ACT.md#ACT.12:23",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Then immediately an angel of the Lord struck him, because he did not give glory to God. And he was eaten by worms and died.",
+  "pericope": {
+    "id": "ACT.P041",
+    "title": "Herod Dies",
+    "range": "ACT.12:20-12:24",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/2MA_footnotes.md",
-      "line_number": 439,
+      "source_file": "study/footnotes/OT/2MA_footnotes.md",
+      "line_number": 375,
       "raw_match": "[[ACT.12:23]]",
       "reference_type": "wikilink",
       "context": "Note that Herod was inflicted with a similar condition ([[ACT.12:23]])."

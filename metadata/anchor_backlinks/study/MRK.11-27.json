@@ -2,12 +2,22 @@
   "anchor_id": "MRK.11:27",
   "canon_uri": "canon/NT/MRK.md#MRK.11:27",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Then they came again to Jerusalem. And as He was walking in the temple, the chief priests, the scribes, and the elders came to Him.",
+  "pericope": {
+    "id": "MRK.P038",
+    "title": "The Triumphal Entry",
+    "range": "MRK.10:52-11:33",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/LUK_footnotes.md",
-      "line_number": 1119,
+      "source_file": "study/footnotes/NT/LUK_footnotes.md",
+      "line_number": 746,
       "raw_match": "[[MRK.11:27]]-33",
       "reference_type": "wikilink_range",
       "context": "See [[MRK.11:27]]-33."

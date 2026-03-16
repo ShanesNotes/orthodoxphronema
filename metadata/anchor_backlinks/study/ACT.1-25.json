@@ -2,11 +2,21 @@
   "anchor_id": "ACT.1:25",
   "canon_uri": "canon/NT/ACT.md#ACT.1:25",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "to take part in this ministry and apostleship from which Judas by transgression fell, that he might go to his own place.'",
+  "pericope": {
+    "id": "ACT.P003",
+    "title": "Days 40-49: Preparation for Pentecost",
+    "range": "ACT.1:10-1:25",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/ACT_articles.md",
+      "source_file": "study/articles/NT/ACT_articles.md",
       "line_number": 37,
       "raw_match": "[[ACT.1:25]]",
       "reference_type": "wikilink",

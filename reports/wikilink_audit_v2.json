@@ -1,0 +1,1630 @@
+{
+  "audit_version": "v2",
+  "total_files_scanned": 448,
+  "total_files_with_refs": 119,
+  "total_wikilinks": 8706,
+  "total_bare_refs": 493,
+  "total_orphans": 34,
+  "total_invalid_ranges": 46,
+  "domain_stats": {
+    "staging": {
+      "files": 2,
+      "wikilinks": 0,
+      "bare_refs": 26,
+      "orphans": 0,
+      "invalid_ranges": 0
+    },
+    "study": {
+      "files": 107,
+      "wikilinks": 4705,
+      "bare_refs": 17,
+      "orphans": 2,
+      "invalid_ranges": 12
+    },
+    "reference": {
+      "files": 10,
+      "wikilinks": 4001,
+      "bare_refs": 450,
+      "orphans": 32,
+      "invalid_ranges": 34
+    }
+  },
+  "orphaned_wikilinks": [
+    {
+      "file": "study/articles/OT/EXO_articles.md",
+      "line_number": 52,
+      "raw_text": "[[EXO.40:34]]-38",
+      "anchor": "EXO.40:34",
+      "finding_type": "orphan",
+      "detail": "verse 34 out of range for EXO.40 (max=32)"
+    },
+    {
+      "file": "study/footnotes/OT/JER_footnotes.md",
+      "line_number": 623,
+      "raw_text": "[[2KI.12:31]]-34",
+      "anchor": "2KI.12:31",
+      "finding_type": "orphan",
+      "detail": "verse 31 out of range for 2KI.12 (max=22)"
+    },
+    {
+      "file": "reference/lectionary.json",
+      "line_number": 717,
+      "raw_text": "[[PRO.10:31]]",
+      "anchor": "PRO.10:31",
+      "finding_type": "orphan",
+      "detail": "verse 31 out of range for PRO.10 (max=28)"
+    },
+    {
+      "file": "reference/lectionary.json",
+      "line_number": 1365,
+      "raw_text": "[[ACT.6:17]]",
+      "anchor": "ACT.6:17",
+      "finding_type": "orphan",
+      "detail": "verse 17 out of range for ACT.6 (max=15)"
+    },
+    {
+      "file": "reference/liturgical-crossrefs.json",
+      "line_number": 172,
+      "raw_text": "[[GEN.12:51]]",
+      "anchor": "GEN.12:51",
+      "finding_type": "orphan",
+      "detail": "verse 51 out of range for GEN.12 (max=20)"
+    },
+    {
+      "file": "reference/liturgical-crossrefs.json",
+      "line_number": 184,
+      "raw_text": "[[GEN.13:20]]-19",
+      "anchor": "GEN.13:20",
+      "finding_type": "orphan",
+      "detail": "verse 20 out of range for GEN.13 (max=18)"
+    },
+    {
+      "file": "reference/liturgical-crossrefs.json",
+      "line_number": 316,
+      "raw_text": "[[JOS.6:36]]-40",
+      "anchor": "JOS.6:36",
+      "finding_type": "orphan",
+      "detail": "verse 36 out of range for JOS.6 (max=26)"
+    },
+    {
+      "file": "reference/liturgical-crossrefs.json",
+      "line_number": 328,
+      "raw_text": "[[JOS.18:30]]-39",
+      "anchor": "JOS.18:30",
+      "finding_type": "orphan",
+      "detail": "verse 30 out of range for JOS.18 (max=28)"
+    },
+    {
+      "file": "reference/liturgical-crossrefs.json",
+      "line_number": 370,
+      "raw_text": "[[PSA.1:13]]-22",
+      "anchor": "PSA.1:13",
+      "finding_type": "orphan",
+      "detail": "verse 13 out of range for PSA.1 (max=6)"
+    },
+    {
+      "file": "reference/liturgical-crossrefs.json",
+      "line_number": 376,
+      "raw_text": "[[PSA.1:20]]-35",
+      "anchor": "PSA.1:20",
+      "finding_type": "orphan",
+      "detail": "verse 20 out of range for PSA.1 (max=6)"
+    },
+    {
+      "file": "reference/liturgical-crossrefs.json",
+      "line_number": 382,
+      "raw_text": "[[PSA.1:48]]",
+      "anchor": "PSA.1:48",
+      "finding_type": "orphan",
+      "detail": "verse 48 out of range for PSA.1 (max=6)"
+    },
+    {
+      "file": "reference/liturgical-crossrefs.json",
+      "line_number": 406,
+      "raw_text": "[[PSA.2:23]]-5",
+      "anchor": "PSA.2:23",
+      "finding_type": "orphan",
+      "detail": "verse 23 out of range for PSA.2 (max=12)"
+    },
+    {
+      "file": "reference/liturgical-crossrefs.json",
+      "line_number": 430,
+      "raw_text": "[[PSA.3:11]]-18",
+      "anchor": "PSA.3:11",
+      "finding_type": "orphan",
+      "detail": "verse 11 out of range for PSA.3 (max=9)"
+    },
+    {
+      "file": "reference/liturgical-crossrefs.json",
+      "line_number": 436,
+      "raw_text": "[[PSA.3:14]]-19",
+      "anchor": "PSA.3:14",
+      "finding_type": "orphan",
+      "detail": "verse 14 out of range for PSA.3 (max=9)"
+    },
+    {
+      "file": "reference/liturgical-crossrefs.json",
+      "line_number": 442,
+      "raw_text": "[[PSA.3:21]]-36",
+      "anchor": "PSA.3:21",
+      "finding_type": "orphan",
+      "detail": "verse 21 out of range for PSA.3 (max=9)"
+    },
+    {
+      "file": "reference/liturgical-crossrefs.json",
+      "line_number": 448,
+      "raw_text": "[[PSA.3:37]]-21",
+      "anchor": "PSA.3:37",
+      "finding_type": "orphan",
+      "detail": "verse 37 out of range for PSA.3 (max=9)"
+    },
+    {
+      "file": "reference/liturgical-crossrefs.json",
+      "line_number": 484,
+      "raw_text": "[[PSA.5:15]]-23",
+      "anchor": "PSA.5:15",
+      "finding_type": "orphan",
+      "detail": "verse 15 out of range for PSA.5 (max=13)"
+    },
+    {
+      "file": "reference/liturgical-crossrefs.json",
+      "line_number": 502,
+      "raw_text": "[[PSA.6:24]]-40",
+      "anchor": "PSA.6:24",
+      "finding_type": "orphan",
+      "detail": "verse 24 out of range for PSA.6 (max=11)"
+    },
+    {
+      "file": "reference/liturgical-crossrefs.json",
+      "line_number": 520,
+      "raw_text": "[[PSA.8:22]]-30",
+      "anchor": "PSA.8:22",
+      "finding_type": "orphan",
+      "detail": "verse 22 out of range for PSA.8 (max=10)"
+    },
+    {
+      "file": "reference/liturgical-crossrefs.json",
+      "line_number": 526,
+      "raw_text": "[[PSA.8:32]]-35",
+      "anchor": "PSA.8:32",
+      "finding_type": "orphan",
+      "detail": "verse 32 out of range for PSA.8 (max=10)"
+    },
+    {
+      "file": "reference/liturgical-crossrefs.json",
+      "line_number": 556,
+      "raw_text": "[[PSA.10:32]]-10",
+      "anchor": "PSA.10:32",
+      "finding_type": "orphan",
+      "detail": "verse 32 out of range for PSA.10 (max=7)"
+    },
+    {
+      "file": "reference/liturgical-crossrefs.json",
+      "line_number": 562,
+      "raw_text": "[[PSA.10:34]]",
+      "anchor": "PSA.10:34",
+      "finding_type": "orphan",
+      "detail": "verse 34 out of range for PSA.10 (max=7)"
+    },
+    {
+      "file": "reference/liturgical-crossrefs.json",
+      "line_number": 574,
+      "raw_text": "[[PSA.11:10]]-13",
+      "anchor": "PSA.11:10",
+      "finding_type": "orphan",
+      "detail": "verse 10 out of range for PSA.11 (max=9)"
+    },
+    {
+      "file": "reference/liturgical-crossrefs.json",
+      "line_number": 586,
+      "raw_text": "[[PSA.12:8]]-22",
+      "anchor": "PSA.12:8",
+      "finding_type": "orphan",
+      "detail": "verse 8 out of range for PSA.12 (max=6)"
+    },
+    {
+      "file": "reference/liturgical-crossrefs.json",
+      "line_number": 592,
+      "raw_text": "[[PSA.12:24]]-31",
+      "anchor": "PSA.12:24",
+      "finding_type": "orphan",
+      "detail": "verse 24 out of range for PSA.12 (max=6)"
+    },
+    {
+      "file": "reference/liturgical-crossrefs.json",
+      "line_number": 604,
+      "raw_text": "[[PSA.13:22]]-6",
+      "anchor": "PSA.13:22",
+      "finding_type": "orphan",
+      "detail": "verse 22 out of range for PSA.13 (max=7)"
+    },
+    {
+      "file": "reference/liturgical-crossrefs.json",
+      "line_number": 616,
+      "raw_text": "[[PSA.14:15]]-26",
+      "anchor": "PSA.14:15",
+      "finding_type": "orphan",
+      "detail": "verse 15 out of range for PSA.14 (max=5)"
+    },
+    {
+      "file": "reference/liturgical-crossrefs.json",
+      "line_number": 622,
+      "raw_text": "[[PSA.14:28]]-4",
+      "anchor": "PSA.14:28",
+      "finding_type": "orphan",
+      "detail": "verse 28 out of range for PSA.14 (max=5)"
+    },
+    {
+      "file": "reference/liturgical-crossrefs.json",
+      "line_number": 670,
+      "raw_text": "[[PSA.19:16]]-25",
+      "anchor": "PSA.19:16",
+      "finding_type": "orphan",
+      "detail": "verse 16 out of range for PSA.19 (max=10)"
+    },
+    {
+      "file": "reference/liturgical-crossrefs.json",
+      "line_number": 712,
+      "raw_text": "[[PSA.23:15]]-5",
+      "anchor": "PSA.23:15",
+      "finding_type": "orphan",
+      "detail": "verse 15 out of range for PSA.23 (max=10)"
+    },
+    {
+      "file": "reference/liturgical-crossrefs.json",
+      "line_number": 826,
+      "raw_text": "[[PSA.42:12]]-17",
+      "anchor": "PSA.42:12",
+      "finding_type": "orphan",
+      "detail": "verse 12 out of range for PSA.42 (max=5)"
+    },
+    {
+      "file": "reference/liturgical-crossrefs.json",
+      "line_number": 1336,
+      "raw_text": "[[JER.3:36]]-4",
+      "anchor": "JER.3:36",
+      "finding_type": "orphan",
+      "detail": "verse 36 out of range for JER.3 (max=25)"
+    },
+    {
+      "file": "reference/liturgical-crossrefs.json",
+      "line_number": 1444,
+      "raw_text": "[[MAT.9:42]]-1",
+      "anchor": "MAT.9:42",
+      "finding_type": "orphan",
+      "detail": "verse 42 out of range for MAT.9 (max=38)"
+    },
+    {
+      "file": "reference/liturgical-crossrefs.json",
+      "line_number": 1492,
+      "raw_text": "[[MAT.15:43]]-8",
+      "anchor": "MAT.15:43",
+      "finding_type": "orphan",
+      "detail": "verse 43 out of range for MAT.15 (max=39)"
+    }
+  ],
+  "invalid_range_endpoints": [
+    {
+      "file": "study/articles/NT/MAT_articles.md",
+      "line_number": 47,
+      "raw_text": "[[1KI.21:35]]-42",
+      "anchor": "1KI.21:35-42",
+      "finding_type": "invalid_range_end",
+      "detail": "range end 42 exceeds max 38 for 1KI.21"
+    },
+    {
+      "file": "study/articles/OT/DEU_articles.md",
+      "line_number": 21,
+      "raw_text": "[[JER.17:19]]-27",
+      "anchor": "JER.17:19-27",
+      "finding_type": "invalid_range_end",
+      "detail": "range end 27 exceeds max 23 for JER.17"
+    },
+    {
+      "file": "study/articles/OT/EXO_articles.md",
+      "line_number": 43,
+      "raw_text": "[[EXO.28:2]]-39",
+      "anchor": "EXO.28:2-39",
+      "finding_type": "invalid_range_end",
+      "detail": "range end 39 exceeds max 38 for EXO.28"
+    },
+    {
+      "file": "study/articles/OT/EXO_articles.md",
+      "line_number": 52,
+      "raw_text": "[[EXO.35:4]]-40",
+      "anchor": "EXO.35:4-40",
+      "finding_type": "invalid_range_end",
+      "detail": "range end 40 exceeds max 35 for EXO.35"
+    },
+    {
+      "file": "study/articles/OT/EZK_articles.md",
+      "line_number": 19,
+      "raw_text": "[[EZK.43:27]]-44",
+      "anchor": "EZK.43:27-44",
+      "finding_type": "invalid_range_end",
+      "detail": "range end 44 exceeds max 27 for EZK.43"
+    },
+    {
+      "file": "study/articles/OT/JER_articles.md",
+      "line_number": 18,
+      "raw_text": "[[JER.11:19]]-23",
+      "anchor": "JER.11:19-23",
+      "finding_type": "invalid_range_end",
+      "detail": "range end 23 exceeds max 22 for JER.11"
+    },
+    {
+      "file": "study/footnotes/NT/HEB_footnotes.md",
+      "line_number": 726,
+      "raw_text": "[[GEN.25:27]]-34",
+      "anchor": "GEN.25:27-34",
+      "finding_type": "invalid_range_end",
+      "detail": "range end 34 exceeds max 33 for GEN.25"
+    },
+    {
+      "file": "study/footnotes/NT/JOH_footnotes.md",
+      "line_number": 694,
+      "raw_text": "[[EXO.11:1]]-12",
+      "anchor": "EXO.11:1-12",
+      "finding_type": "invalid_range_end",
+      "detail": "range end 12 exceeds max 10 for EXO.11"
+    },
+    {
+      "file": "study/footnotes/NT/JOH_footnotes.md",
+      "line_number": 889,
+      "raw_text": "[[PSA.116:2]]-117",
+      "anchor": "PSA.116:2-117",
+      "finding_type": "invalid_range_end",
+      "detail": "range end 117 exceeds max 2 for PSA.116"
+    },
+    {
+      "file": "study/footnotes/NT/ROM_footnotes.md",
+      "line_number": 822,
+      "raw_text": "[[JOB.38:1]]-42",
+      "anchor": "JOB.38:1-42",
+      "finding_type": "invalid_range_end",
+      "detail": "range end 42 exceeds max 41 for JOB.38"
+    },
+    {
+      "file": "study/footnotes/OT/2KI_footnotes.md",
+      "line_number": 244,
+      "raw_text": "[[ISA.36:1]]-39",
+      "anchor": "ISA.36:1-39",
+      "finding_type": "invalid_range_end",
+      "detail": "range end 39 exceeds max 22 for ISA.36"
+    },
+    {
+      "file": "study/footnotes/OT/JER_footnotes.md",
+      "line_number": 1210,
+      "raw_text": "[[2KI.24:18]]-25",
+      "anchor": "2KI.24:18-25",
+      "finding_type": "invalid_range_end",
+      "detail": "range end 25 exceeds max 20 for 2KI.24"
+    },
+    {
+      "file": "reference/textual-variants.md",
+      "line_number": 2705,
+      "raw_text": "[[REV.18:4]]-34",
+      "anchor": "REV.18:4-34",
+      "finding_type": "invalid_range_end",
+      "detail": "range end 34 exceeds max 24 for REV.18"
+    },
+    {
+      "file": "reference/textual-variants.md",
+      "line_number": 2938,
+      "raw_text": "[[REV.22:15]]-22",
+      "anchor": "REV.22:15-22",
+      "finding_type": "invalid_range_end",
+      "detail": "range end 22 exceeds max 21 for REV.22"
+    },
+    {
+      "file": "reference/textual-variants.md",
+      "line_number": 3021,
+      "raw_text": "[[REV.3:20]]-27",
+      "anchor": "REV.3:20-27",
+      "finding_type": "invalid_range_end",
+      "detail": "range end 27 exceeds max 22 for REV.3"
+    },
+    {
+      "file": "reference/textual-variants.md",
+      "line_number": 3025,
+      "raw_text": "[[REV.4:10]]-12",
+      "anchor": "REV.4:10-12",
+      "finding_type": "invalid_range_end",
+      "detail": "range end 12 exceeds max 11 for REV.4"
+    },
+    {
+      "file": "reference/textual-variants.md",
+      "line_number": 3061,
+      "raw_text": "[[REV.9:14]]-29",
+      "anchor": "REV.9:14-29",
+      "finding_type": "invalid_range_end",
+      "detail": "range end 29 exceeds max 21 for REV.9"
+    },
+    {
+      "file": "reference/textual-variants.md",
+      "line_number": 3077,
+      "raw_text": "[[REV.10:2]]-12",
+      "anchor": "REV.10:2-12",
+      "finding_type": "invalid_range_end",
+      "detail": "range end 12 exceeds max 11 for REV.10"
+    },
+    {
+      "file": "reference/textual-variants.md",
+      "line_number": 3129,
+      "raw_text": "[[REV.13:5]]-23",
+      "anchor": "REV.13:5-23",
+      "finding_type": "invalid_range_end",
+      "detail": "range end 23 exceeds max 18 for REV.13"
+    },
+    {
+      "file": "reference/textual-variants.md",
+      "line_number": 3164,
+      "raw_text": "[[REV.15:6]]-11",
+      "anchor": "REV.15:6-11",
+      "finding_type": "invalid_range_end",
+      "detail": "range end 11 exceeds max 8 for REV.15"
+    },
+    {
+      "file": "reference/textual-variants.md",
+      "line_number": 3226,
+      "raw_text": "[[REV.6:17]]-49",
+      "anchor": "REV.6:17-49",
+      "finding_type": "invalid_range_end",
+      "detail": "range end 49 exceeds max 17 for REV.6"
+    },
+    {
+      "file": "reference/textual-variants.md",
+      "line_number": 3304,
+      "raw_text": "[[REV.18:18]]-30",
+      "anchor": "REV.18:18-30",
+      "finding_type": "invalid_range_end",
+      "detail": "range end 30 exceeds max 24 for REV.18"
+    },
+    {
+      "file": "reference/textual-variants.md",
+      "line_number": 3312,
+      "raw_text": "[[REV.19:11]]-27",
+      "anchor": "REV.19:11-27",
+      "finding_type": "invalid_range_end",
+      "detail": "range end 27 exceeds max 21 for REV.19"
+    },
+    {
+      "file": "reference/textual-variants.md",
+      "line_number": 3327,
+      "raw_text": "[[REV.21:5]]-36",
+      "anchor": "REV.21:5-36",
+      "finding_type": "invalid_range_end",
+      "detail": "range end 36 exceeds max 27 for REV.21"
+    },
+    {
+      "file": "reference/textual-variants.md",
+      "line_number": 3409,
+      "raw_text": "[[REV.8:13]]-18",
+      "anchor": "REV.8:13-18",
+      "finding_type": "invalid_range_end",
+      "detail": "range end 18 exceeds max 13 for REV.8"
+    },
+    {
+      "file": "reference/textual-variants.md",
+      "line_number": 3457,
+      "raw_text": "[[REV.2:25]]-32",
+      "anchor": "REV.2:25-32",
+      "finding_type": "invalid_range_end",
+      "detail": "range end 32 exceeds max 29 for REV.2"
+    },
+    {
+      "file": "reference/liturgical-crossrefs.json",
+      "line_number": 322,
+      "raw_text": "[[JOS.17:8]]-24",
+      "anchor": "JOS.17:8-24",
+      "finding_type": "invalid_range_end",
+      "detail": "range end 24 exceeds max 18 for JOS.17"
+    },
+    {
+      "file": "reference/liturgical-crossrefs.json",
+      "line_number": 346,
+      "raw_text": "[[1KI.4:8]]-37",
+      "anchor": "1KI.4:8-37",
+      "finding_type": "invalid_range_end",
+      "detail": "range end 37 exceeds max 20 for 1KI.4"
+    },
+    {
+      "file": "reference/liturgical-crossrefs.json",
+      "line_number": 358,
+      "raw_text": "[[PSA.1:1]]-12",
+      "anchor": "PSA.1:1-12",
+      "finding_type": "invalid_range_end",
+      "detail": "range end 12 exceeds max 6 for PSA.1"
+    },
+    {
+      "file": "reference/liturgical-crossrefs.json",
+      "line_number": 364,
+      "raw_text": "[[PSA.1:1]]-20",
+      "anchor": "PSA.1:1-20",
+      "finding_type": "invalid_range_end",
+      "detail": "range end 20 exceeds max 6 for PSA.1"
+    },
+    {
+      "file": "reference/liturgical-crossrefs.json",
+      "line_number": 400,
+      "raw_text": "[[PSA.2:1]]-23",
+      "anchor": "PSA.2:1-23",
+      "finding_type": "invalid_range_end",
+      "detail": "range end 23 exceeds max 12 for PSA.2"
+    },
+    {
+      "file": "reference/liturgical-crossrefs.json",
+      "line_number": 418,
+      "raw_text": "[[PSA.3:1]]-20",
+      "anchor": "PSA.3:1-20",
+      "finding_type": "invalid_range_end",
+      "detail": "range end 20 exceeds max 9 for PSA.3"
+    },
+    {
+      "file": "reference/liturgical-crossrefs.json",
+      "line_number": 424,
+      "raw_text": "[[PSA.3:8]]-15",
+      "anchor": "PSA.3:8-15",
+      "finding_type": "invalid_range_end",
+      "detail": "range end 15 exceeds max 9 for PSA.3"
+    },
+    {
+      "file": "reference/liturgical-crossrefs.json",
+      "line_number": 472,
+      "raw_text": "[[PSA.5:1]]-15",
+      "anchor": "PSA.5:1-15",
+      "finding_type": "invalid_range_end",
+      "detail": "range end 15 exceeds max 13 for PSA.5"
+    },
+    {
+      "file": "reference/liturgical-crossrefs.json",
+      "line_number": 496,
+      "raw_text": "[[PSA.6:3]]-24",
+      "anchor": "PSA.6:3-24",
+      "finding_type": "invalid_range_end",
+      "detail": "range end 24 exceeds max 11 for PSA.6"
+    },
+    {
+      "file": "reference/liturgical-crossrefs.json",
+      "line_number": 514,
+      "raw_text": "[[PSA.8:1]]-21",
+      "anchor": "PSA.8:1-21",
+      "finding_type": "invalid_range_end",
+      "detail": "range end 21 exceeds max 10 for PSA.8"
+    },
+    {
+      "file": "reference/liturgical-crossrefs.json",
+      "line_number": 550,
+      "raw_text": "[[PSA.10:1]]-22",
+      "anchor": "PSA.10:1-22",
+      "finding_type": "invalid_range_end",
+      "detail": "range end 22 exceeds max 7 for PSA.10"
+    },
+    {
+      "file": "reference/liturgical-crossrefs.json",
+      "line_number": 634,
+      "raw_text": "[[PSA.15:8]]-21",
+      "anchor": "PSA.15:8-21",
+      "finding_type": "invalid_range_end",
+      "detail": "range end 21 exceeds max 11 for PSA.15"
+    },
+    {
+      "file": "reference/liturgical-crossrefs.json",
+      "line_number": 760,
+      "raw_text": "[[PSA.31:10]]-30",
+      "anchor": "PSA.31:10-30",
+      "finding_type": "invalid_range_end",
+      "detail": "range end 30 exceeds max 11 for PSA.31"
+    },
+    {
+      "file": "reference/liturgical-crossrefs.json",
+      "line_number": 802,
+      "raw_text": "[[PSA.38:1]]-25",
+      "anchor": "PSA.38:1-25",
+      "finding_type": "invalid_range_end",
+      "detail": "range end 25 exceeds max 14 for PSA.38"
+    },
+    {
+      "file": "reference/liturgical-crossrefs.json",
+      "line_number": 1210,
+      "raw_text": "[[ZEC.1:16]]-20",
+      "anchor": "ZEC.1:16-20",
+      "finding_type": "invalid_range_end",
+      "detail": "range end 20 exceeds max 17 for ZEC.1"
+    },
+    {
+      "file": "reference/liturgical-crossrefs.json",
+      "line_number": 1228,
+      "raw_text": "[[ZEC.7:10]]-16",
+      "anchor": "ZEC.7:10-16",
+      "finding_type": "invalid_range_end",
+      "detail": "range end 16 exceeds max 14 for ZEC.7"
+    },
+    {
+      "file": "reference/liturgical-crossrefs.json",
+      "line_number": 1348,
+      "raw_text": "[[DAN.1:1]]-25",
+      "anchor": "DAN.1:1-25",
+      "finding_type": "invalid_range_end",
+      "detail": "range end 25 exceeds max 21 for DAN.1"
+    },
+    {
+      "file": "reference/liturgical-crossrefs.json",
+      "line_number": 2080,
+      "raw_text": "[[JOH.9:32]]-42",
+      "anchor": "JOH.9:32-42",
+      "finding_type": "invalid_range_end",
+      "detail": "range end 42 exceeds max 41 for JOH.9"
+    },
+    {
+      "file": "reference/liturgical-crossrefs.json",
+      "line_number": 2200,
+      "raw_text": "[[JOH.15:20]]-28",
+      "anchor": "JOH.15:20-28",
+      "finding_type": "invalid_range_end",
+      "detail": "range end 28 exceeds max 27 for JOH.15"
+    },
+    {
+      "file": "reference/liturgical-crossrefs.json",
+      "line_number": 2212,
+      "raw_text": "[[JOH.16:16]]-34",
+      "anchor": "JOH.16:16-34",
+      "finding_type": "invalid_range_end",
+      "detail": "range end 34 exceeds max 33 for JOH.16"
+    }
+  ],
+  "files": [
+    {
+      "path": "reference/glossary.md",
+      "domain": "reference",
+      "wikilinks": 529,
+      "bare_refs": 1,
+      "orphans": 0,
+      "invalid_ranges": 0
+    },
+    {
+      "path": "reference/how-to-read-the-bible.md",
+      "domain": "reference",
+      "wikilinks": 36,
+      "bare_refs": 0,
+      "orphans": 0,
+      "invalid_ranges": 0
+    },
+    {
+      "path": "reference/introducing-orthodoxy.md",
+      "domain": "reference",
+      "wikilinks": 22,
+      "bare_refs": 0,
+      "orphans": 0,
+      "invalid_ranges": 0
+    },
+    {
+      "path": "reference/introduction-to-osb.md",
+      "domain": "reference",
+      "wikilinks": 1,
+      "bare_refs": 0,
+      "orphans": 0,
+      "invalid_ranges": 0
+    },
+    {
+      "path": "reference/lectionary.json",
+      "domain": "reference",
+      "wikilinks": 890,
+      "bare_refs": 0,
+      "orphans": 2,
+      "invalid_ranges": 0
+    },
+    {
+      "path": "reference/lectionary.md",
+      "domain": "reference",
+      "wikilinks": 676,
+      "bare_refs": 2,
+      "orphans": 0,
+      "invalid_ranges": 0
+    },
+    {
+      "path": "reference/liturgical-crossrefs.json",
+      "domain": "reference",
+      "wikilinks": 345,
+      "bare_refs": 0,
+      "orphans": 30,
+      "invalid_ranges": 20
+    },
+    {
+      "path": "reference/overview-of-books.md",
+      "domain": "reference",
+      "wikilinks": 17,
+      "bare_refs": 0,
+      "orphans": 0,
+      "invalid_ranges": 0
+    },
+    {
+      "path": "reference/textual-variants.md",
+      "domain": "reference",
+      "wikilinks": 1382,
+      "bare_refs": 447,
+      "orphans": 0,
+      "invalid_ranges": 14
+    },
+    {
+      "path": "reference/the-seventy.md",
+      "domain": "reference",
+      "wikilinks": 103,
+      "bare_refs": 0,
+      "orphans": 0,
+      "invalid_ranges": 0
+    },
+    {
+      "path": "staging/validated/NT/1CO.md",
+      "domain": "staging",
+      "wikilinks": 0,
+      "bare_refs": 2,
+      "orphans": 0,
+      "invalid_ranges": 0
+    },
+    {
+      "path": "staging/validated/OT/JOB_photius.md",
+      "domain": "staging",
+      "wikilinks": 0,
+      "bare_refs": 24,
+      "orphans": 0,
+      "invalid_ranges": 0
+    },
+    {
+      "path": "study/articles/NT/1CO_articles.md",
+      "domain": "study",
+      "wikilinks": 9,
+      "bare_refs": 0,
+      "orphans": 0,
+      "invalid_ranges": 0
+    },
+    {
+      "path": "study/articles/NT/1JN_articles.md",
+      "domain": "study",
+      "wikilinks": 12,
+      "bare_refs": 0,
+      "orphans": 0,
+      "invalid_ranges": 0
+    },
+    {
+      "path": "study/articles/NT/2PE_articles.md",
+      "domain": "study",
+      "wikilinks": 4,
+      "bare_refs": 0,
+      "orphans": 0,
+      "invalid_ranges": 0
+    },
+    {
+      "path": "study/articles/NT/ACT_articles.md",
+      "domain": "study",
+      "wikilinks": 16,
+      "bare_refs": 0,
+      "orphans": 0,
+      "invalid_ranges": 0
+    },
+    {
+      "path": "study/articles/NT/EPH_articles.md",
+      "domain": "study",
+      "wikilinks": 19,
+      "bare_refs": 0,
+      "orphans": 0,
+      "invalid_ranges": 0
+    },
+    {
+      "path": "study/articles/NT/JAS_articles.md",
+      "domain": "study",
+      "wikilinks": 9,
+      "bare_refs": 0,
+      "orphans": 0,
+      "invalid_ranges": 0
+    },
+    {
+      "path": "study/articles/NT/JOH_articles.md",
+      "domain": "study",
+      "wikilinks": 4,
+      "bare_refs": 0,
+      "orphans": 0,
+      "invalid_ranges": 0
+    },
+    {
+      "path": "study/articles/NT/LUK_articles.md",
+      "domain": "study",
+      "wikilinks": 23,
+      "bare_refs": 0,
+      "orphans": 0,
+      "invalid_ranges": 0
+    },
+    {
+      "path": "study/articles/NT/MAT_articles.md",
+      "domain": "study",
+      "wikilinks": 23,
+      "bare_refs": 0,
+      "orphans": 0,
+      "invalid_ranges": 1
+    },
+    {
+      "path": "study/articles/NT/MRK_articles.md",
+      "domain": "study",
+      "wikilinks": 27,
+      "bare_refs": 0,
+      "orphans": 0,
+      "invalid_ranges": 0
+    },
+    {
+      "path": "study/articles/NT/REV_articles.md",
+      "domain": "study",
+      "wikilinks": 36,
+      "bare_refs": 0,
+      "orphans": 0,
+      "invalid_ranges": 0
+    },
+    {
+      "path": "study/articles/NT/ROM_articles.md",
+      "domain": "study",
+      "wikilinks": 28,
+      "bare_refs": 0,
+      "orphans": 0,
+      "invalid_ranges": 0
+    },
+    {
+      "path": "study/articles/NT/TIT_articles.md",
+      "domain": "study",
+      "wikilinks": 9,
+      "bare_refs": 0,
+      "orphans": 0,
+      "invalid_ranges": 0
+    },
+    {
+      "path": "study/articles/OT/2MA_articles.md",
+      "domain": "study",
+      "wikilinks": 3,
+      "bare_refs": 0,
+      "orphans": 0,
+      "invalid_ranges": 0
+    },
+    {
+      "path": "study/articles/OT/DAN_articles.md",
+      "domain": "study",
+      "wikilinks": 33,
+      "bare_refs": 0,
+      "orphans": 0,
+      "invalid_ranges": 0
+    },
+    {
+      "path": "study/articles/OT/DEU_articles.md",
+      "domain": "study",
+      "wikilinks": 16,
+      "bare_refs": 0,
+      "orphans": 0,
+      "invalid_ranges": 1
+    },
+    {
+      "path": "study/articles/OT/EXO_articles.md",
+      "domain": "study",
+      "wikilinks": 98,
+      "bare_refs": 0,
+      "orphans": 1,
+      "invalid_ranges": 2
+    },
+    {
+      "path": "study/articles/OT/EZK_articles.md",
+      "domain": "study",
+      "wikilinks": 19,
+      "bare_refs": 0,
+      "orphans": 0,
+      "invalid_ranges": 1
+    },
+    {
+      "path": "study/articles/OT/GEN_articles.md",
+      "domain": "study",
+      "wikilinks": 38,
+      "bare_refs": 0,
+      "orphans": 0,
+      "invalid_ranges": 0
+    },
+    {
+      "path": "study/articles/OT/JER_articles.md",
+      "domain": "study",
+      "wikilinks": 33,
+      "bare_refs": 0,
+      "orphans": 0,
+      "invalid_ranges": 1
+    },
+    {
+      "path": "study/articles/OT/JOB_articles.md",
+      "domain": "study",
+      "wikilinks": 38,
+      "bare_refs": 0,
+      "orphans": 0,
+      "invalid_ranges": 0
+    },
+    {
+      "path": "study/articles/OT/LEV_articles.md",
+      "domain": "study",
+      "wikilinks": 32,
+      "bare_refs": 0,
+      "orphans": 0,
+      "invalid_ranges": 0
+    },
+    {
+      "path": "study/articles/OT/NUM_articles.md",
+      "domain": "study",
+      "wikilinks": 32,
+      "bare_refs": 0,
+      "orphans": 0,
+      "invalid_ranges": 0
+    },
+    {
+      "path": "study/footnotes/NT/1CO_footnotes.md",
+      "domain": "study",
+      "wikilinks": 91,
+      "bare_refs": 0,
+      "orphans": 0,
+      "invalid_ranges": 0
+    },
+    {
+      "path": "study/footnotes/NT/1JN_footnotes.md",
+      "domain": "study",
+      "wikilinks": 38,
+      "bare_refs": 0,
+      "orphans": 0,
+      "invalid_ranges": 0
+    },
+    {
+      "path": "study/footnotes/NT/1PE_footnotes.md",
+      "domain": "study",
+      "wikilinks": 48,
+      "bare_refs": 0,
+      "orphans": 0,
+      "invalid_ranges": 0
+    },
+    {
+      "path": "study/footnotes/NT/1TH_footnotes.md",
+      "domain": "study",
+      "wikilinks": 20,
+      "bare_refs": 0,
+      "orphans": 0,
+      "invalid_ranges": 0
+    },
+    {
+      "path": "study/footnotes/NT/1TI_footnotes.md",
+      "domain": "study",
+      "wikilinks": 33,
+      "bare_refs": 0,
+      "orphans": 0,
+      "invalid_ranges": 0
+    },
+    {
+      "path": "study/footnotes/NT/2CO_footnotes.md",
+      "domain": "study",
+      "wikilinks": 23,
+      "bare_refs": 0,
+      "orphans": 0,
+      "invalid_ranges": 0
+    },
+    {
+      "path": "study/footnotes/NT/2JN_footnotes.md",
+      "domain": "study",
+      "wikilinks": 1,
+      "bare_refs": 0,
+      "orphans": 0,
+      "invalid_ranges": 0
+    },
+    {
+      "path": "study/footnotes/NT/2PE_footnotes.md",
+      "domain": "study",
+      "wikilinks": 16,
+      "bare_refs": 0,
+      "orphans": 0,
+      "invalid_ranges": 0
+    },
+    {
+      "path": "study/footnotes/NT/2TI_footnotes.md",
+      "domain": "study",
+      "wikilinks": 26,
+      "bare_refs": 0,
+      "orphans": 0,
+      "invalid_ranges": 0
+    },
+    {
+      "path": "study/footnotes/NT/3JN_footnotes.md",
+      "domain": "study",
+      "wikilinks": 4,
+      "bare_refs": 0,
+      "orphans": 0,
+      "invalid_ranges": 0
+    },
+    {
+      "path": "study/footnotes/NT/ACT_footnotes.md",
+      "domain": "study",
+      "wikilinks": 111,
+      "bare_refs": 0,
+      "orphans": 0,
+      "invalid_ranges": 0
+    },
+    {
+      "path": "study/footnotes/NT/COL_footnotes.md",
+      "domain": "study",
+      "wikilinks": 14,
+      "bare_refs": 0,
+      "orphans": 0,
+      "invalid_ranges": 0
+    },
+    {
+      "path": "study/footnotes/NT/EPH_footnotes.md",
+      "domain": "study",
+      "wikilinks": 24,
+      "bare_refs": 0,
+      "orphans": 0,
+      "invalid_ranges": 0
+    },
+    {
+      "path": "study/footnotes/NT/GAL_footnotes.md",
+      "domain": "study",
+      "wikilinks": 30,
+      "bare_refs": 0,
+      "orphans": 0,
+      "invalid_ranges": 0
+    },
+    {
+      "path": "study/footnotes/NT/HEB_footnotes.md",
+      "domain": "study",
+      "wikilinks": 65,
+      "bare_refs": 0,
+      "orphans": 0,
+      "invalid_ranges": 1
+    },
+    {
+      "path": "study/footnotes/NT/JAS_footnotes.md",
+      "domain": "study",
+      "wikilinks": 27,
+      "bare_refs": 0,
+      "orphans": 0,
+      "invalid_ranges": 0
+    },
+    {
+      "path": "study/footnotes/NT/JOH_footnotes.md",
+      "domain": "study",
+      "wikilinks": 148,
+      "bare_refs": 0,
+      "orphans": 0,
+      "invalid_ranges": 2
+    },
+    {
+      "path": "study/footnotes/NT/JUD_footnotes.md",
+      "domain": "study",
+      "wikilinks": 24,
+      "bare_refs": 0,
+      "orphans": 0,
+      "invalid_ranges": 0
+    },
+    {
+      "path": "study/footnotes/NT/LUK_footnotes.md",
+      "domain": "study",
+      "wikilinks": 169,
+      "bare_refs": 1,
+      "orphans": 0,
+      "invalid_ranges": 0
+    },
+    {
+      "path": "study/footnotes/NT/MAT_footnotes.md",
+      "domain": "study",
+      "wikilinks": 248,
+      "bare_refs": 0,
+      "orphans": 0,
+      "invalid_ranges": 0
+    },
+    {
+      "path": "study/footnotes/NT/MRK_footnotes.md",
+      "domain": "study",
+      "wikilinks": 67,
+      "bare_refs": 1,
+      "orphans": 0,
+      "invalid_ranges": 0
+    },
+    {
+      "path": "study/footnotes/NT/PHM_footnotes.md",
+      "domain": "study",
+      "wikilinks": 3,
+      "bare_refs": 0,
+      "orphans": 0,
+      "invalid_ranges": 0
+    },
+    {
+      "path": "study/footnotes/NT/PHP_footnotes.md",
+      "domain": "study",
+      "wikilinks": 7,
+      "bare_refs": 0,
+      "orphans": 0,
+      "invalid_ranges": 0
+    },
+    {
+      "path": "study/footnotes/NT/REV_footnotes.md",
+      "domain": "study",
+      "wikilinks": 429,
+      "bare_refs": 3,
+      "orphans": 0,
+      "invalid_ranges": 0
+    },
+    {
+      "path": "study/footnotes/NT/ROM_footnotes.md",
+      "domain": "study",
+      "wikilinks": 47,
+      "bare_refs": 0,
+      "orphans": 0,
+      "invalid_ranges": 1
+    },
+    {
+      "path": "study/footnotes/NT/TIT_footnotes.md",
+      "domain": "study",
+      "wikilinks": 8,
+      "bare_refs": 0,
+      "orphans": 0,
+      "invalid_ranges": 0
+    },
+    {
+      "path": "study/footnotes/OT/1CH_footnotes.md",
+      "domain": "study",
+      "wikilinks": 43,
+      "bare_refs": 0,
+      "orphans": 0,
+      "invalid_ranges": 0
+    },
+    {
+      "path": "study/footnotes/OT/1ES_footnotes.md",
+      "domain": "study",
+      "wikilinks": 24,
+      "bare_refs": 0,
+      "orphans": 0,
+      "invalid_ranges": 0
+    },
+    {
+      "path": "study/footnotes/OT/1KI_footnotes.md",
+      "domain": "study",
+      "wikilinks": 62,
+      "bare_refs": 0,
+      "orphans": 0,
+      "invalid_ranges": 0
+    },
+    {
+      "path": "study/footnotes/OT/1MA_footnotes.md",
+      "domain": "study",
+      "wikilinks": 6,
+      "bare_refs": 0,
+      "orphans": 0,
+      "invalid_ranges": 0
+    },
+    {
+      "path": "study/footnotes/OT/1SA_footnotes.md",
+      "domain": "study",
+      "wikilinks": 6,
+      "bare_refs": 0,
+      "orphans": 0,
+      "invalid_ranges": 0
+    },
+    {
+      "path": "study/footnotes/OT/2CH_footnotes.md",
+      "domain": "study",
+      "wikilinks": 33,
+      "bare_refs": 0,
+      "orphans": 0,
+      "invalid_ranges": 0
+    },
+    {
+      "path": "study/footnotes/OT/2KI_footnotes.md",
+      "domain": "study",
+      "wikilinks": 45,
+      "bare_refs": 0,
+      "orphans": 0,
+      "invalid_ranges": 1
+    },
+    {
+      "path": "study/footnotes/OT/2MA_footnotes.md",
+      "domain": "study",
+      "wikilinks": 39,
+      "bare_refs": 0,
+      "orphans": 0,
+      "invalid_ranges": 0
+    },
+    {
+      "path": "study/footnotes/OT/2SA_footnotes.md",
+      "domain": "study",
+      "wikilinks": 19,
+      "bare_refs": 0,
+      "orphans": 0,
+      "invalid_ranges": 0
+    },
+    {
+      "path": "study/footnotes/OT/3MA_footnotes.md",
+      "domain": "study",
+      "wikilinks": 35,
+      "bare_refs": 0,
+      "orphans": 0,
+      "invalid_ranges": 0
+    },
+    {
+      "path": "study/footnotes/OT/AMO_footnotes.md",
+      "domain": "study",
+      "wikilinks": 21,
+      "bare_refs": 0,
+      "orphans": 0,
+      "invalid_ranges": 0
+    },
+    {
+      "path": "study/footnotes/OT/BAR_footnotes.md",
+      "domain": "study",
+      "wikilinks": 33,
+      "bare_refs": 3,
+      "orphans": 0,
+      "invalid_ranges": 0
+    },
+    {
+      "path": "study/footnotes/OT/DAN_footnotes.md",
+      "domain": "study",
+      "wikilinks": 25,
+      "bare_refs": 0,
+      "orphans": 0,
+      "invalid_ranges": 0
+    },
+    {
+      "path": "study/footnotes/OT/DEU_footnotes.md",
+      "domain": "study",
+      "wikilinks": 109,
+      "bare_refs": 0,
+      "orphans": 0,
+      "invalid_ranges": 0
+    },
+    {
+      "path": "study/footnotes/OT/ECC_footnotes.md",
+      "domain": "study",
+      "wikilinks": 22,
+      "bare_refs": 1,
+      "orphans": 0,
+      "invalid_ranges": 0
+    },
+    {
+      "path": "study/footnotes/OT/EST_footnotes.md",
+      "domain": "study",
+      "wikilinks": 23,
+      "bare_refs": 0,
+      "orphans": 0,
+      "invalid_ranges": 0
+    },
+    {
+      "path": "study/footnotes/OT/EXO_footnotes.md",
+      "domain": "study",
+      "wikilinks": 130,
+      "bare_refs": 0,
+      "orphans": 0,
+      "invalid_ranges": 0
+    },
+    {
+      "path": "study/footnotes/OT/EZK_footnotes.md",
+      "domain": "study",
+      "wikilinks": 79,
+      "bare_refs": 1,
+      "orphans": 0,
+      "invalid_ranges": 0
+    },
+    {
+      "path": "study/footnotes/OT/EZR_footnotes.md",
+      "domain": "study",
+      "wikilinks": 35,
+      "bare_refs": 1,
+      "orphans": 0,
+      "invalid_ranges": 0
+    },
+    {
+      "path": "study/footnotes/OT/GEN_footnotes.md",
+      "domain": "study",
+      "wikilinks": 166,
+      "bare_refs": 0,
+      "orphans": 0,
+      "invalid_ranges": 0
+    },
+    {
+      "path": "study/footnotes/OT/HAB_footnotes.md",
+      "domain": "study",
+      "wikilinks": 22,
+      "bare_refs": 0,
+      "orphans": 0,
+      "invalid_ranges": 0
+    },
+    {
+      "path": "study/footnotes/OT/HAG_footnotes.md",
+      "domain": "study",
+      "wikilinks": 4,
+      "bare_refs": 0,
+      "orphans": 0,
+      "invalid_ranges": 0
+    },
+    {
+      "path": "study/footnotes/OT/HOS_footnotes.md",
+      "domain": "study",
+      "wikilinks": 16,
+      "bare_refs": 0,
+      "orphans": 0,
+      "invalid_ranges": 0
+    },
+    {
+      "path": "study/footnotes/OT/ISA_footnotes.md",
+      "domain": "study",
+      "wikilinks": 100,
+      "bare_refs": 1,
+      "orphans": 0,
+      "invalid_ranges": 0
+    },
+    {
+      "path": "study/footnotes/OT/JDG_footnotes.md",
+      "domain": "study",
+      "wikilinks": 42,
+      "bare_refs": 1,
+      "orphans": 0,
+      "invalid_ranges": 0
+    },
+    {
+      "path": "study/footnotes/OT/JDT_footnotes.md",
+      "domain": "study",
+      "wikilinks": 52,
+      "bare_refs": 0,
+      "orphans": 0,
+      "invalid_ranges": 0
+    },
+    {
+      "path": "study/footnotes/OT/JER_footnotes.md",
+      "domain": "study",
+      "wikilinks": 60,
+      "bare_refs": 0,
+      "orphans": 1,
+      "invalid_ranges": 1
+    },
+    {
+      "path": "study/footnotes/OT/JOB_footnotes.md",
+      "domain": "study",
+      "wikilinks": 83,
+      "bare_refs": 1,
+      "orphans": 0,
+      "invalid_ranges": 0
+    },
+    {
+      "path": "study/footnotes/OT/JOL_footnotes.md",
+      "domain": "study",
+      "wikilinks": 19,
+      "bare_refs": 0,
+      "orphans": 0,
+      "invalid_ranges": 0
+    },
+    {
+      "path": "study/footnotes/OT/JON_footnotes.md",
+      "domain": "study",
+      "wikilinks": 16,
+      "bare_refs": 0,
+      "orphans": 0,
+      "invalid_ranges": 0
+    },
+    {
+      "path": "study/footnotes/OT/JOS_footnotes.md",
+      "domain": "study",
+      "wikilinks": 60,
+      "bare_refs": 0,
+      "orphans": 0,
+      "invalid_ranges": 0
+    },
+    {
+      "path": "study/footnotes/OT/LAM_footnotes.md",
+      "domain": "study",
+      "wikilinks": 8,
+      "bare_refs": 0,
+      "orphans": 0,
+      "invalid_ranges": 0
+    },
+    {
+      "path": "study/footnotes/OT/LEV_footnotes.md",
+      "domain": "study",
+      "wikilinks": 158,
+      "bare_refs": 0,
+      "orphans": 0,
+      "invalid_ranges": 0
+    },
+    {
+      "path": "study/footnotes/OT/LJE_footnotes.md",
+      "domain": "study",
+      "wikilinks": 5,
+      "bare_refs": 0,
+      "orphans": 0,
+      "invalid_ranges": 0
+    },
+    {
+      "path": "study/footnotes/OT/MAL_footnotes.md",
+      "domain": "study",
+      "wikilinks": 22,
+      "bare_refs": 0,
+      "orphans": 0,
+      "invalid_ranges": 0
+    },
+    {
+      "path": "study/footnotes/OT/MIC_footnotes.md",
+      "domain": "study",
+      "wikilinks": 13,
+      "bare_refs": 0,
+      "orphans": 0,
+      "invalid_ranges": 0
+    },
+    {
+      "path": "study/footnotes/OT/NAH_footnotes.md",
+      "domain": "study",
+      "wikilinks": 9,
+      "bare_refs": 0,
+      "orphans": 0,
+      "invalid_ranges": 0
+    },
+    {
+      "path": "study/footnotes/OT/NEH_footnotes.md",
+      "domain": "study",
+      "wikilinks": 21,
+      "bare_refs": 0,
+      "orphans": 0,
+      "invalid_ranges": 0
+    },
+    {
+      "path": "study/footnotes/OT/NUM_footnotes.md",
+      "domain": "study",
+      "wikilinks": 120,
+      "bare_refs": 1,
+      "orphans": 0,
+      "invalid_ranges": 0
+    },
+    {
+      "path": "study/footnotes/OT/OBA_footnotes.md",
+      "domain": "study",
+      "wikilinks": 5,
+      "bare_refs": 0,
+      "orphans": 0,
+      "invalid_ranges": 0
+    },
+    {
+      "path": "study/footnotes/OT/PRO_footnotes.md",
+      "domain": "study",
+      "wikilinks": 47,
+      "bare_refs": 0,
+      "orphans": 0,
+      "invalid_ranges": 0
+    },
+    {
+      "path": "study/footnotes/OT/PSA_footnotes.md",
+      "domain": "study",
+      "wikilinks": 167,
+      "bare_refs": 0,
+      "orphans": 0,
+      "invalid_ranges": 0
+    },
+    {
+      "path": "study/footnotes/OT/RUT_footnotes.md",
+      "domain": "study",
+      "wikilinks": 18,
+      "bare_refs": 0,
+      "orphans": 0,
+      "invalid_ranges": 0
+    },
+    {
+      "path": "study/footnotes/OT/SIR_footnotes.md",
+      "domain": "study",
+      "wikilinks": 124,
+      "bare_refs": 0,
+      "orphans": 0,
+      "invalid_ranges": 0
+    },
+    {
+      "path": "study/footnotes/OT/SNG_footnotes.md",
+      "domain": "study",
+      "wikilinks": 99,
+      "bare_refs": 1,
+      "orphans": 0,
+      "invalid_ranges": 0
+    },
+    {
+      "path": "study/footnotes/OT/TOB_footnotes.md",
+      "domain": "study",
+      "wikilinks": 25,
+      "bare_refs": 0,
+      "orphans": 0,
+      "invalid_ranges": 0
+    },
+    {
+      "path": "study/footnotes/OT/WIS_footnotes.md",
+      "domain": "study",
+      "wikilinks": 90,
+      "bare_refs": 0,
+      "orphans": 0,
+      "invalid_ranges": 0
+    },
+    {
+      "path": "study/footnotes/OT/ZEC_footnotes.md",
+      "domain": "study",
+      "wikilinks": 36,
+      "bare_refs": 1,
+      "orphans": 0,
+      "invalid_ranges": 0
+    },
+    {
+      "path": "study/lectionary-notes/NT/JOH_lectionary.md",
+      "domain": "study",
+      "wikilinks": 2,
+      "bare_refs": 0,
+      "orphans": 0,
+      "invalid_ranges": 0
+    },
+    {
+      "path": "study/lectionary-notes/NT/LUK_lectionary.md",
+      "domain": "study",
+      "wikilinks": 5,
+      "bare_refs": 0,
+      "orphans": 0,
+      "invalid_ranges": 0
+    },
+    {
+      "path": "study/lectionary-notes/NT/MAT_lectionary.md",
+      "domain": "study",
+      "wikilinks": 3,
+      "bare_refs": 0,
+      "orphans": 0,
+      "invalid_ranges": 0
+    },
+    {
+      "path": "study/lectionary-notes/OT/DAN_lectionary.md",
+      "domain": "study",
+      "wikilinks": 1,
+      "bare_refs": 0,
+      "orphans": 0,
+      "invalid_ranges": 0
+    },
+    {
+      "path": "study/lectionary-notes/OT/EXO_lectionary.md",
+      "domain": "study",
+      "wikilinks": 2,
+      "bare_refs": 0,
+      "orphans": 0,
+      "invalid_ranges": 0
+    },
+    {
+      "path": "study/lectionary-notes/OT/GEN_lectionary.md",
+      "domain": "study",
+      "wikilinks": 3,
+      "bare_refs": 0,
+      "orphans": 0,
+      "invalid_ranges": 0
+    },
+    {
+      "path": "study/lectionary-notes/OT/JER_lectionary.md",
+      "domain": "study",
+      "wikilinks": 1,
+      "bare_refs": 0,
+      "orphans": 0,
+      "invalid_ranges": 0
+    },
+    {
+      "path": "study/lectionary-notes/OT/JOS_lectionary.md",
+      "domain": "study",
+      "wikilinks": 3,
+      "bare_refs": 0,
+      "orphans": 0,
+      "invalid_ranges": 0
+    },
+    {
+      "path": "study/lectionary-notes/OT/PSA_lectionary.md",
+      "domain": "study",
+      "wikilinks": 5,
+      "bare_refs": 0,
+      "orphans": 0,
+      "invalid_ranges": 0
+    },
+    {
+      "path": "study/lectionary-notes/OT/ZEC_lectionary.md",
+      "domain": "study",
+      "wikilinks": 2,
+      "bare_refs": 0,
+      "orphans": 0,
+      "invalid_ranges": 0
+    }
+  ]
+}

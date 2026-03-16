@@ -2,22 +2,32 @@
   "anchor_id": "LUK.3:2",
   "canon_uri": "canon/NT/LUK.md#LUK.3:2",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "while Annas and Caiaphas were high priests, the word of God came to John the son of Zacharias in the wilderness.",
+  "pericope": {
+    "id": "LUK.P015",
+    "title": "The Baptist's Call for Repentance",
+    "range": "LUK.2:52-3:19",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/JOH_footnotes.md",
-      "line_number": 2975,
+      "source_file": "study/footnotes/NT/JOH_footnotes.md",
+      "line_number": 1912,
       "raw_match": "[[LUK.3:2]]",
       "reference_type": "wikilink",
-      "context": "religious establishment (see note at [[LUK.3:2]]). Caiaphas was high priest the year of"
+      "context": "Annas was the previous high priest and remained a force of power behind the religious establishment (see note at [[LUK.3:2]]). Caiaphas was high priest the year of Jesus' Crucifixion, holding the office from AD 18-36."
     },
     {
-      "source_file": "staging/validated/OT/AMO_footnotes.md",
-      "line_number": 17,
+      "source_file": "study/footnotes/OT/AMO_footnotes.md",
+      "line_number": 15,
       "raw_match": "[[LUK.3:2]]",
       "reference_type": "wikilink",
-      "context": "([[LUK.3:1]], [[LUK.3:2]]); indeed, Christ's Advent was an earthquake that shook the world ([[MAT.28:2]]), and the coming of the Holy Spirit a judgment by fire (vv. 4, 7, 10, 12, 14; 2:2, 5)."
+      "context": "Amos preached repentance during a time of spiritual drought that preceded judgment ([[LUK.3:1]], [[LUK.3:2]]); indeed, Christ's Advent was an earthquake that shook the world ([[MAT.28:2]]), and the coming of the Holy Spirit a judgment by fire (vv. 4, 7, 10, 12, 14; 2:2, 5)."
     }
   ]
 }

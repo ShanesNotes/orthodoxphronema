@@ -2,22 +2,32 @@
   "anchor_id": "ROM.3:31",
   "canon_uri": "canon/NT/ROM.md#ROM.3:31",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Do we then make void the law through faith? Certainly not! On the contrary, we establish the law.",
+  "pericope": {
+    "id": "ROM.P010",
+    "title": "Abraham, Model of Faith",
+    "range": "ROM.3:31-4:11",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/MAT_footnotes.md",
-      "line_number": 785,
+      "source_file": "study/footnotes/NT/MAT_footnotes.md",
+      "line_number": 507,
       "raw_match": "[[ROM.3:31]]",
       "reference_type": "wikilink",
-      "context": "deliver to them; (4) granting righteousness--the goal of the Law--to us ([[ROM.3:31]]; 8:3, 4;"
+      "context": "Jesus fulfills the Law in Himself, in His words, and in His actions by: (1) performing God's will in all its fullness (3:15); (2) transgressing none of the precepts of the Law (Jn 8:46; 14:30); (3) declaring the perfect fulfillment of the Law, which He was about to deliver to them; (4) granting righteousness--the goal of the Law--to us ([[ROM.3:31]]; 8:3, 4; 10:4). He fulfills the Prophets by both being and carrying out what they foretold."
     },
     {
-      "source_file": "staging/validated/OT/SIR_footnotes.md",
-      "line_number": 1406,
+      "source_file": "study/footnotes/OT/SIR_footnotes.md",
+      "line_number": 1097,
       "raw_match": "[[ROM.3:29]]-31",
       "reference_type": "wikilink_range",
-      "context": "fulfilled (see [[ROM.3:29]]-31; 4:13-16; [[GAL.4:21]]-31; all of Hebrews but especially 12:18-29; [[1PE.2:4]]-10; [[REV.21:9]]-27)."
+      "context": "Though this prayer was for Israel, it was also for all on earth. Thus, the Church has become the New Jerusalem, the new Zion, the new nation in which the OT prophecies are fulfilled (see [[ROM.3:29]]-31; 4:13-16; [[GAL.4:21]]-31; all of Hebrews but especially 12:18-29; [[1PE.2:4]]-10; [[REV.21:9]]-27)."
     }
   ]
 }

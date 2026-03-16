@@ -2,22 +2,32 @@
   "anchor_id": "EZK.36:27",
   "canon_uri": "canon/OT/EZK.md#EZK.36:27",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "I shall put My Spirit within you and cause you to walk in My requirements, and you will keep My judgments and do them.",
+  "pericope": {
+    "id": "EZK.P059",
+    "title": "The Cleansing of Israel",
+    "range": "EZK.36:15-36:38",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/ACT_articles.md",
+      "source_file": "study/articles/NT/ACT_articles.md",
       "line_number": 20,
       "raw_match": "[[EZK.36:25]]-27",
       "reference_type": "wikilink_range",
       "context": "F rom earliest times the Church has practiced chrismation immediately following baptism. In the sacrament of chrismation (Gr. chrismatis, 'anointing') the newly baptized person receives the Holy Spirit through anointing with oil by the bishop or priest. The roots of this sacrament are clear in both the Old and New Testaments and are especially brought to light on the Day of Pentecost. Promises of the Holy Spirit from the Old Testament. In his sermon on Pentecost, St. Peter quotes the well-known prophecy of Joel, 'I will pour out of My Spirit on all flesh' (2:17; see [[JOL.3:1]]). This promise was significant because under the old covenant, the gift of the Spirit had been given only to a few-the patriarchs, the prophets, and some of the judges. Certain leaders of Israel were indwelt with the Holy Spirit to accomplish their tasks. Joel, however, prophesied that the Holy Spirit would be given to all God's people, 'all flesh.' This was fulfilled at Pentecost, for Peter exclaims, 'this [outpouring of the Spirit] is what was spoken by the prophet Joel' (2:16). Other Old Testament prophets who speak of this same promise of the Spirit include Jeremiah ([[JER.38:31]]-34) and Ezekiel ([[EZK.36:25]]-27). In fact, the Ezekiel passage ties together the water and the Spirit in a prophetic vision of baptism and chrismation. Jesus promises the Holy Spirit. Our Lord Jesus Christ repeatedly promised the gift of the Holy Spirit to His disciples. Early in His public ministry He said, ' 'If anyone thirsts, let him come to Me and drink. He who believes in Me, as the scripture has said, out of his heart will flow rivers of living water.' But this He spoke concerning the Spirit' ([[JOH.7:37]]-39). Jesus also said, 'I will pray the Father, and He will give you another Helper, that He may abide with you forever' ([[JOH.14:16]]). Christ promised the Holy Spirit would reveal truth to the Church. 'When He, the Spirit of truth, has come, He will guide you into all truth; for He will not speak on His own authority, but whatever He hears He will speak; and He will tell you things to come. He will glorify Me, for He will take of what is Mine and declare it to you' ([[JOH.16:13]], [[JOH.16:14]]). Jesus says the Holy Spirit will bring glory to Him, Christ. This gives us an excellent means of testing whether or not acts attributed to the Holy Spirit do indeed belong to Him. The last words of Christ before His Ascension include a promise: 'John truly baptized with water, but you shall be baptized with the Holy Spirit not many days from now' (1:5). This word was fulfilled ten days later on the Day of Pentecost. How is the Holy Spirit given to us? The people who heard Peter speak at Pentecost asked him how they might receive salvation. He answered, 'Repent, and let every one of you be baptized in the name of Jesus Christ for the remission of sins; and you shall receive the gift of the Holy Spirit' (2:38). We repent (turn from our sins and toward Christ); we are baptized; we are given 'the gift of the Holy Spirit,' chrismation. That practice has never changed. In Acts 8, Philip, the deacon and evangelist, preached in Samaria (vv. 5-8). Many believed and were baptized (v. 12). The apostles came and later confirmed these new believers with the gift of the Holy Spirit through the laying on of hands (vv. 14-17). Here is the sacrament of chrismation following Holy Baptism. Later, the apostle Paul met some disciples of John the Baptist who had not been present when Peter spoke at Pentecost (19:1-7). They believed in Christ, 'were baptized' (v. 5), and 'the Holy Spirit came upon them' (v. 6), again through the hands of an apostle. The promise of God includes both our union with Christ in Holy Baptism and the gift of the Holy Spirit at chrismation."
     },
     {
-      "source_file": "staging/validated/OT/BAR_footnotes.md",
-      "line_number": 121,
+      "source_file": "study/footnotes/OT/BAR_footnotes.md",
+      "line_number": 99,
       "raw_match": "[[EZK.36:26]]-29",
       "reference_type": "wikilink_range",
-      "context": "41; [[EZK.36:26]]-29; [[AMO.9:15]]; [[HEB.13:20]])."
+      "context": "The everlasting covenant is fulfilled in Christ and His new covenant (Jer 32:38- 41; [[EZK.36:26]]-29; [[AMO.9:15]]; [[HEB.13:20]])."
     }
   ]
 }

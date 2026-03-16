@@ -2,11 +2,21 @@
   "anchor_id": "ROM.3:28",
   "canon_uri": "canon/NT/ROM.md#ROM.3:28",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Therefore we conclude that a man is justified by faith apart from the deeds of the law.",
+  "pericope": {
+    "id": "ROM.P009",
+    "title": "Righteousness in Christ Fulfills the Law",
+    "range": "ROM.3:20-3:30",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/ROM_articles.md",
+      "source_file": "study/articles/NT/ROM_articles.md",
       "line_number": 40,
       "raw_match": "[[ROM.3:28]]",
       "reference_type": "wikilink",

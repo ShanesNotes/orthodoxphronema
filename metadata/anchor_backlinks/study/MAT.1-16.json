@@ -2,15 +2,25 @@
   "anchor_id": "MAT.1:16",
   "canon_uri": "canon/NT/MAT.md#MAT.1:16",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "And Jacob begot Joseph the husband of Mary, of whom was born Jesus who is called Christ.",
+  "pericope": {
+    "id": "MAT.P001",
+    "title": "Matthew \u2014 Opening",
+    "range": "MAT.1:1-1:24",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/DEU_footnotes.md",
-      "line_number": 874,
+      "source_file": "study/footnotes/OT/DEU_footnotes.md",
+      "line_number": 549,
       "raw_match": "[[MAT.1:16]]",
       "reference_type": "wikilink",
-      "context": "Matthew's genealogy ([[MAT.1:16]]). Thus, Jacob was Joseph's natural father (JohnDm)."
+      "context": "This law explains how Joseph (the foster father of Jesus) could have two fathers, as recorded in the two genealogies of Jesus. In Luke's record of the genealogy, Joseph's father was Heli ([[LUK.3:23]]). Heli was his legal father, for he died childless. Jacob, his brother by the same mother, raised up seed for him. This seed was Joseph, according to Matthew's genealogy ([[MAT.1:16]]). Thus, Jacob was Joseph's natural father (JohnDm)."
     }
   ]
 }

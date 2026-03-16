@@ -2,15 +2,25 @@
   "anchor_id": "1CO.15:41",
   "canon_uri": "canon/NT/1CO.md#1CO.15:41",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "There is one glory of the sun, another glory of the moon, and another glory of the stars; for one star differs from another star in glory.",
+  "pericope": {
+    "id": "1CO.P037",
+    "title": "The One Who Resurrects Us",
+    "range": "1CO.15:41-15:48",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/LUK_footnotes.md",
-      "line_number": 3159,
+      "source_file": "study/footnotes/NT/LUK_footnotes.md",
+      "line_number": 2108,
       "raw_match": "[[1CO.15:35]]-44",
       "reference_type": "wikilink_range",
-      "context": "not immediately recognizable ([[JOH.20:14]]; 21:4, 12; see [[1CO.15:35]]-44). It is also able to take"
+      "context": "The nature of the resurrected body is so different from its previous state that it is not immediately recognizable ([[JOH.20:14]]; 21:4, 12; see [[1CO.15:35]]-44). It is also able to take different forms, which is what occurs here (see [[MRK.16:12]] and note). Their eyes were restrained: Christ intentionally prevents them from recognizing Him in order to expose their doubting thoughts and then cure them by means of the OT Scriptures (v. 27)."
     }
   ]
 }

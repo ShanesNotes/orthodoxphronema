@@ -2,15 +2,25 @@
   "anchor_id": "1CO.12:12",
   "canon_uri": "canon/NT/1CO.md#1CO.12:12",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "For as the body is one and has many members, but all the members of that one body, being many, are one body, so also is Christ.",
+  "pericope": {
+    "id": "1CO.P028",
+    "title": "Spiritual Gifts",
+    "range": "1CO.11:34-12:25",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/HEB_footnotes.md",
-      "line_number": 1237,
+      "source_file": "study/footnotes/NT/HEB_footnotes.md",
+      "line_number": 797,
       "raw_match": "[[1CO.12:12]]-27",
       "reference_type": "wikilink_range",
-      "context": "Church, are members of one another ([[1CO.12:12]]-27)."
+      "context": "Practical brotherly love is to be shown toward all Christians, but especially for the lowly, the powerless, and the victims of injustice. Strangers (v. 2) are travelers in need of hospitality. Abraham's hospitality is recalled ([[GEN.18:1]]-8; also 19:1-3). Prisoners (v. 3) are to be prayed for and aided if possible, for all those in the body of Christ, the Church, are members of one another ([[1CO.12:12]]-27)."
     }
   ]
 }

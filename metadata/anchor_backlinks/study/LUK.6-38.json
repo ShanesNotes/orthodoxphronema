@@ -2,22 +2,32 @@
   "anchor_id": "LUK.6:38",
   "canon_uri": "canon/NT/LUK.md#LUK.6:38",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Give, and it will be given to you: good measure, pressed down, shaken together, and running over will be put into your bosom. For with the same measure that you use, it will be measured back to you.'",
+  "pericope": {
+    "id": "LUK.P031",
+    "title": "Love of Enemies",
+    "range": "LUK.6:26-7:9",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/MAT_footnotes.md",
-      "line_number": 1169,
+      "source_file": "study/footnotes/NT/MAT_footnotes.md",
+      "line_number": 755,
       "raw_match": "[[LUK.6:38]]",
       "reference_type": "wikilink",
-      "context": "verse is found in [[MRK.4:24]] and in [[LUK.6:38]], each in a different context, as Jesus no doubt"
+      "context": "We will be judged with our own level of judgment because we are guilty of the very things we judge in others ([[ROM.2:1]]). We ourselves have failed in repentance and in fleeing from sin. To pass judgment is to assume God's authority. The second part of this verse is found in [[MRK.4:24]] and in [[LUK.6:38]], each in a different context, as Jesus no doubt repeated this particular message many times."
     },
     {
-      "source_file": "staging/validated/OT/ISA_footnotes.md",
-      "line_number": 662,
+      "source_file": "study/footnotes/OT/ISA_footnotes.md",
+      "line_number": 500,
       "raw_match": "[[LUK.6:38]]",
       "reference_type": "wikilink",
-      "context": "Reference to the measuring line is also found in [[LUK.6:38]]: \"With the same"
+      "context": "Reference to the measuring line is also found in [[LUK.6:38]]: \"With the same measure that you use, it will be measured back to you.\""
     }
   ]
 }

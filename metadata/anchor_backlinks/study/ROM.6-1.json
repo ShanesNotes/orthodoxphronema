@@ -2,11 +2,21 @@
   "anchor_id": "ROM.6:1",
   "canon_uri": "canon/NT/ROM.md#ROM.6:1",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "What shall we say then? Shall we continue in sin that grace may abound?",
+  "pericope": {
+    "id": "ROM.P013",
+    "title": "Baptism: Dead to Sin, Alive in Christ",
+    "range": "ROM.5:21-6:22",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/ROM_articles.md",
+      "source_file": "study/articles/NT/ROM_articles.md",
       "line_number": 37,
       "raw_match": "[[ROM.6:1]]-6",
       "reference_type": "wikilink_range",

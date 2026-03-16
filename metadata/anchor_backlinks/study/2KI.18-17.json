@@ -2,15 +2,25 @@
   "anchor_id": "2KI.18:17",
   "canon_uri": "canon/OT/2KI.md#2KI.18:17",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Then the king of Assyria sent Tartan, and Rabsaris, and Rabshakeh from Lachish to King Hezekiah with an overwhelming force against Jerusalem. And they went up and came to Jerusalem and stood near the aqueduct of the upper pool, which is on the way to Fuller's Field.",
+  "pericope": {
+    "id": "2KI.P049",
+    "title": "Assyria Threatens Jerusalem",
+    "range": "2KI.18:12-18:36",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/ISA_footnotes.md",
-      "line_number": 785,
+      "source_file": "study/footnotes/OT/ISA_footnotes.md",
+      "line_number": 597,
       "raw_match": "[[2KI.18:13]]-20",
       "reference_type": "wikilink_range",
-      "context": "identical to [[2KI.18:13]]-20:19) in order to emphasize that his prophecies are from God, as"
+      "context": "Showing no apparent concern for his people and their posterity, King Hezekiah seems concerned only for peace and righteousness during his own times. 36:1-8 The Fathers agree that the prophet adds these narratives (which are almost identical to [[2KI.18:13]]-20:19) in order to emphasize that his prophecies are from God, as evidenced by their fulfillment in history."
     }
   ]
 }

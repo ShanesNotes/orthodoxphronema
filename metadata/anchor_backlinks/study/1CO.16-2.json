@@ -2,29 +2,39 @@
   "anchor_id": "1CO.16:2",
   "canon_uri": "canon/NT/1CO.md#1CO.16:2",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "On the first day of the week let each one of you lay something aside, storing up as he may prosper, that there be no collections when I come.",
+  "pericope": {
+    "id": "1CO.P040",
+    "title": "Collection for Jerusalem",
+    "range": "1CO.15:58-16:3",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/2CO_footnotes.md",
-      "line_number": 537,
-      "raw_match": "[[1CO.16:1]]-4",
-      "reference_type": "wikilink_range",
-      "context": "systematically to the fund ([[1CO.16:1]]-4). Titus is to make sure they actually have begun to"
-    },
-    {
-      "source_file": "staging/validated/NT/ACT_footnotes.md",
-      "line_number": 2323,
-      "raw_match": "[[1CO.16:1]]-4",
-      "reference_type": "wikilink_range",
-      "context": "oneself ([[MAT.6:1]]-4; see also [[ROM.15:25]]-28; [[1CO.16:1]]-4; [[GAL.2:10]])."
-    },
-    {
-      "source_file": "staging/validated/OT/DEU_articles.md",
+      "source_file": "study/articles/OT/DEU_articles.md",
       "line_number": 23,
       "raw_match": "[[1CO.16:1]]-2",
       "reference_type": "wikilink_range",
       "context": "At first, early Jewish Christians continued to observe Sabbath regulations and to worship on the Sabbath ([[ACT.13:13]]-15, 42-44; 18:1-4). But they also met for the celebration of the Holy Eucharist on Sunday ([[ACT.20:7]]; [[1CO.16:1]]-2), called 'the Lord's Day' ([[REV.1:10]]), since Jesus rose on a Sunday. St. Ignatius of Antioch, in about AD 107, confirms that Sunday was the main day of worship for the early Church: 'They have given up keeping the Sabbath, and now order their lives by the Lord's Day instead-the Day when life first dawned for us, thanks to Him and His death.' St. Constantine the Great, the first Christian emperor, honored the Church's practice of celebrating the Lord's Resurrection every Sunday by decreeing, in AD 321, that every Sunday would be a holy day. For Orthodox Christians, Saturday is still the Sabbath, the day on which the Church especially remembers the departed, since Christ rested in the tomb on Great and Holy Saturday. #### Sunday, The Eighth Day"
+    },
+    {
+      "source_file": "study/footnotes/NT/2CO_footnotes.md",
+      "line_number": 351,
+      "raw_match": "[[1CO.16:1]]-4",
+      "reference_type": "wikilink_range",
+      "context": "The subject of this passage is a collection from the churches in Asia Minor for the church in Jerusalem. Beyond the material help Jerusalem needs, for Paul this appears to be an important theological matter as well. It (1) relates to the unity of Jew and Gentile in the Church, (2) underscores the messianic age as having indeed come in Christ, and (3) demonstrates that the charismatic effects of Pentecost are continuing and maturing in the Church. Paul had given the Corinthians the same instruction he gave to Galatia, to contribute systematically to the fund ([[1CO.16:1]]-4). Titus is to make sure they actually have begun to do so (8:6). Paul has told the Macedonians that Corinth was exemplary in giving (9:2), but he has his doubts. So he sends Titus to Corinth to be sure the Corinthians will comply (9:3-5). Some in Corinth feel pressure, saying that Paul is \"crafty\"; he gets his way \"by cunning\" (12:16). Paul encourages the Corinthians by holding up the generosity of the poorer Macedonians as an example (8:1-5). The Corinthians actually do contribute to the fund, and Paul is pleased with them ([[ROM.15:25]]-28)."
+    },
+    {
+      "source_file": "study/footnotes/NT/ACT_footnotes.md",
+      "line_number": 1491,
+      "raw_match": "[[1CO.16:1]]-4",
+      "reference_type": "wikilink_range",
+      "context": "This is the only time Paul reveals that bringing alms was the main reason he came to Jerusalem, showing that charity is to be performed without drawing attention to oneself ([[MAT.6:1]]-4; see also [[ROM.15:25]]-28; [[1CO.16:1]]-4; [[GAL.2:10]])."
     }
   ]
 }

@@ -2,15 +2,25 @@
   "anchor_id": "MAT.21:23",
   "canon_uri": "canon/NT/MAT.md#MAT.21:23",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Now when He came into the temple, the chief priests and the elders of the people confronted Him as He was teaching, and said, 'By what authority are You doing these things? And who gave You this authority?'",
+  "pericope": {
+    "id": "MAT.P069",
+    "title": "Palm Sunday: The Messianic King",
+    "range": "MAT.20:34-21:27",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/JOH_footnotes.md",
-      "line_number": 477,
+      "source_file": "study/footnotes/NT/JOH_footnotes.md",
+      "line_number": 293,
       "raw_match": "[[MAT.21:23]]",
       "reference_type": "wikilink",
-      "context": "this case, it refers to the chief priests and the elders (see [[MAT.21:23]]). As Christ is careful"
+      "context": "Since Jesus is not a Levitical priest, His authority to cleanse the temple is challenged. The term Jews in John's Gospel often refers specifically to the leaders; in this case, it refers to the chief priests and the elders (see [[MAT.21:23]]). As Christ is careful not to reveal Himself to scoffers, He answers in a hidden way: the ultimate sign will be His death and Resurrection."
     }
   ]
 }

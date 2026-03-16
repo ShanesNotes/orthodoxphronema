@@ -2,15 +2,25 @@
   "anchor_id": "JAS.2:26",
   "canon_uri": "canon/NT/JAS.md#JAS.2:26",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "For as the body without the spirit is dead, so faith without works is dead also.",
+  "pericope": {
+    "id": "JAS.P007",
+    "title": "The Work of Faith: Controlling What We Say",
+    "range": "JAS.2:26-3:11",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/2TI_footnotes.md",
-      "line_number": 191,
+      "source_file": "study/footnotes/NT/2TI_footnotes.md",
+      "line_number": 132,
       "raw_match": "[[JAS.2:26]]",
       "reference_type": "wikilink",
-      "context": "works is a form without substance ([[JAS.2:26]]), so is religion without power. This is a"
+      "context": "The form and power of godliness are intended to be inseparable. We normally do not have the power of godliness without the form. Charismatic power, however, can be twisted for evil and greed ([[ACT.8:9]]-20). Outward forms, even of liturgical worship, can be carried on without power or conviction (see [[MAT.7:15]]; 24:4, 5, 24). As faith without works is a form without substance ([[JAS.2:26]]), so is religion without power. This is a stern warning to those of us committed to proper form."
     }
   ]
 }

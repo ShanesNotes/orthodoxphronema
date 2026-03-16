@@ -2,11 +2,21 @@
   "anchor_id": "EXO.20:21",
   "canon_uri": "canon/OT/EXO.md#EXO.20:21",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "So the people stood afar off, but Moses drew near the thick darkness where God was.",
+  "pericope": {
+    "id": "EXO.P038",
+    "title": "Making an Altar",
+    "range": "EXO.20:21-20:25",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/EXO_articles.md",
+      "source_file": "study/articles/OT/EXO_articles.md",
       "line_number": 23,
       "raw_match": "[[EXO.20:1]]-26",
       "reference_type": "wikilink_range",

@@ -2,15 +2,25 @@
   "anchor_id": "DEU.19:21",
   "canon_uri": "canon/OT/DEU.md#DEU.19:21",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Your eye shall not pity him: life shall be for life, eye for eye, tooth for tooth, hand for hand, foot for foot.",
+  "pericope": {
+    "id": "DEU.P043",
+    "title": "Concerning Warfare",
+    "range": "DEU.19:21-20:19",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/MAT_footnotes.md",
-      "line_number": 899,
+      "source_file": "study/footnotes/NT/MAT_footnotes.md",
+      "line_number": 582,
       "raw_match": "[[DEU.19:21]]",
       "reference_type": "wikilink",
-      "context": "In contrast to the OT ([[EXO.21:24]]; Lv 24:20; [[DEU.19:21]]), Jesus warns us not to resist"
+      "context": "In contrast to the OT ([[EXO.21:24]]; Lv 24:20; [[DEU.19:21]]), Jesus warns us not to resist violence with more violence. Evil can only be overcome by good, which keeps us free from compromise with the devil and can bring our enemy under the yoke of God's love. A saint of the desert once found his hut being looted of its paltry possessions, and he knelt in the corner praying for the bandits. When they left, the monk realized they had not taken his walking stick. This monk pursued them for many days until he was able to give them the stick as well. Seeing his humility, the bandits returned everything to him and were converted to Jesus Christ."
     }
   ]
 }

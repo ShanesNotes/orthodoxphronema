@@ -2,15 +2,25 @@
   "anchor_id": "MRK.1:41",
   "canon_uri": "canon/NT/MRK.md#MRK.1:41",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Then Jesus, moved with compassion, stretched out His hand and touched him, and said to him, 'I am willing; be cleansed.'",
+  "pericope": {
+    "id": "MRK.P005",
+    "title": "Uncleanness Cleansed: A Leper",
+    "range": "MRK.1:39-1:44",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/MAT_footnotes.md",
-      "line_number": 2075,
+      "source_file": "study/footnotes/NT/MAT_footnotes.md",
+      "line_number": 1338,
       "raw_match": "[[MRK.1:41]]",
       "reference_type": "wikilink",
-      "context": "Moved with compassion is used frequently concerning the Lord (20:34; [[MRK.1:41]]; 6:34;"
+      "context": "This miracle, reported by all four evangelists, shows Jesus feeding a great multitude of His people as He fed the Israelites in the desert (see Ex 16). The Church Fathers see in this an image of the Eucharist, an idea made clear in Jn 6. In 15:32-39, another miracle is mentioned in which Jesus feeds four thousand people with seven loaves and a few small fish. While certain modern scholars have attempted to say that these are merely the same story, the witness of the gospel is clear that they are two distinct accounts, with Christ Himself referring to both of them separately (16:8-10). Moved with compassion is used frequently concerning the Lord (20:34; [[MRK.1:41]]; 6:34; [[LUK.7:13]]), showing that His power and authority are extended to those who suffer. A spiritual interpretation given by the Fathers teaches that the five loaves indicate the five books of the Law (Genesis through Deuteronomy), which are broken open in Christ and thus feed the universe. The two fish represent the Gospel Book and the Epistle Book, the teaching of the fishermen. The gathering of the leftovers by the apostles (v. 20) shows that the teachings the faithful are unable to grasp are nevertheless held in the consciousness of the Church."
     }
   ]
 }

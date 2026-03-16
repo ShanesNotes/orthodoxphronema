@@ -2,15 +2,25 @@
   "anchor_id": "EST.3:8",
   "canon_uri": "canon/OT/EST.md#EST.3:8",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Then Haman spoke to King Artaxerxes, saying, 'There is a certain people scattered among the peoples throughout your kingdom; their laws are different from all other people, and they disregard the king's laws. Therefore it is not fitting for the king to let them remain.",
+  "pericope": {
+    "id": "EST.P007",
+    "title": "Haman's Hatred of Mordecai",
+    "range": "EST.2:23-3:12",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/EZR_footnotes.md",
-      "line_number": 134,
+      "source_file": "study/footnotes/OT/EZR_footnotes.md",
+      "line_number": 107,
       "raw_match": "[[EST.3:8]]",
       "reference_type": "wikilink",
-      "context": "obedient ones ([[EST.3:8]], [[EST.3:9]]). This culminates in the charge that would be leveled against"
+      "context": "The claim that the work of God is rebellion and harmful to kings whom God Himself has established is a standard ploy of Satan in his attempts to destroy God's obedient ones ([[EST.3:8]], [[EST.3:9]]). This culminates in the charge that would be leveled against Christ Himself ([[JOH.19:12]])."
     }
   ]
 }

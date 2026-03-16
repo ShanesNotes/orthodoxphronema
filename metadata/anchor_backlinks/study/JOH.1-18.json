@@ -2,78 +2,88 @@
   "anchor_id": "JOH.1:18",
   "canon_uri": "canon/NT/JOH.md#JOH.1:18",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "No one has seen God at any time. The only begotten Son, who is in the bosom of the Father, He has declared Him.",
+  "pericope": {
+    "id": "JOH.P002",
+    "title": "The Word Becomes Flesh to Reveal the Father",
+    "range": "JOH.1:12-1:21",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/HEB_footnotes.md",
-      "line_number": 417,
-      "raw_match": "[[JOH.1:1]]-18",
-      "reference_type": "wikilink_range",
-      "context": "the Word of God Himself, our Lord Jesus Christ (see [[JOH.1:1]]-18). Nothing is able to escape"
-    },
-    {
-      "source_file": "staging/validated/NT/REV_footnotes.md",
-      "line_number": 23,
-      "raw_match": "[[JOH.1:18]]",
-      "reference_type": "wikilink",
-      "context": "before He became flesh and now is made flesh--who mediates this unveiling (see [[JOH.1:18]];"
-    },
-    {
-      "source_file": "staging/validated/NT/REV_footnotes.md",
-      "line_number": 231,
-      "raw_match": "[[JOH.1:1]]-18",
-      "reference_type": "wikilink_range",
-      "context": "of the Son of Man (see also [[JOH.1:1]]-18). Thus, in Christ man (v. 14) and God (vv. 15, 16)"
-    },
-    {
-      "source_file": "staging/validated/NT/REV_footnotes.md",
-      "line_number": 2677,
-      "raw_match": "[[JOH.1:18]]",
-      "reference_type": "wikilink",
-      "context": "God can comprehend God ([[JOH.1:18]])."
-    },
-    {
-      "source_file": "staging/validated/NT/REV_footnotes.md",
-      "line_number": 3083,
-      "raw_match": "[[JOH.1:18]]",
-      "reference_type": "wikilink",
-      "context": "cannot be seen is the hidden essence of God ([[JOH.1:18]]; [[1TI.6:16]]). Normally, even to see"
-    },
-    {
-      "source_file": "staging/validated/NT/REV_footnotes.md",
-      "line_number": 3085,
-      "raw_match": "[[JOH.1:18]]",
-      "reference_type": "wikilink",
-      "context": "His energy is not possible in this life ([[EXO.33:20]]-23; [[MAT.5:8]]; [[JOH.1:18]]; [[1CO.13:12]]; [[HEB.12:14]];"
-    },
-    {
-      "source_file": "staging/validated/OT/EXO_footnotes.md",
-      "line_number": 1465,
-      "raw_match": "[[JOH.1:18]]",
-      "reference_type": "wikilink",
-      "context": "seen God at any time\" ([[JOH.1:18]]). But the Son is one in essence with the Father, and"
-    },
-    {
-      "source_file": "staging/validated/OT/GEN_articles.md",
+      "source_file": "study/articles/OT/GEN_articles.md",
       "line_number": 28,
       "raw_match": "[[JOH.1:18]]",
       "reference_type": "wikilink",
       "context": "The Holy Trinity is revealed both in the Old Testament and in the New Testament. In the Old Testament, the Trinity is revealed in subtle ways; in the New Testament, the Trinity is revealed fully and plainly, beginning at the Baptism of our Lord. The Holy Trinity is one God in three Persons, Father, Son and Holy Spirit. These Persons are distinct, but not separate, and are not three gods. They are One God because They are one in essence or nature. The Father is the unbegotten Fountainhead of Deity. The Son is eternally begotten of the Father ([[JOH.1:18]]; 3:16; 16:28). The Holy Spirit is the Helper ([[JOH.14:16]]) and Spirit of Truth ([[JOH.14:17]]; 16:13), Who proceeds from the Father ([[JOH.15:26]]). #### The Holy Trinity Created The World"
     },
     {
-      "source_file": "staging/validated/OT/SIR_footnotes.md",
-      "line_number": 1728,
+      "source_file": "study/footnotes/NT/HEB_footnotes.md",
+      "line_number": 269,
       "raw_match": "[[JOH.1:1]]-18",
       "reference_type": "wikilink_range",
-      "context": "Second Person of the Godhead, was and is eternally active in all creation (see [[JOH.1:1]]-18)."
+      "context": "The word of God and the sword here are living and powerful. The phrase His sight (v. 13) tells us this reference is not to the written word, Holy Scripture, but to the Word of God Himself, our Lord Jesus Christ (see [[JOH.1:1]]-18). Nothing is able to escape the discernment of Christ, the Word of God."
     },
     {
-      "source_file": "staging/validated/OT/ZEC_footnotes.md",
-      "line_number": 29,
+      "source_file": "study/footnotes/NT/REV_footnotes.md",
+      "line_number": 18,
+      "raw_match": "[[JOH.1:18]]",
+      "reference_type": "wikilink",
+      "context": "Revelation or Apocalypse (Gr. apokalypsis) means literally to unconceal, unveil, or reveal. It was used anciently of a coded message that must get through without falling into the wrong hands. God Himself is the ultimate source of all revelation (see [[DAN.2:28]], 29, 45), but it is the Son, Jesus Christ--who revealed Himself to the prophets of the OT before He became flesh and now is made flesh--who mediates this unveiling (see [[JOH.1:18]]; 4:19-23; 7:16; 8:26, 40; 12:49; 15:15; 17:8). This revelation concerns not only the age to come, but certain things from the past and from this present age as well. Things which must tells us this is not a haphazard presentation. Shortly take place indicates God's time, which is always imminent. It may take a lot of earth's time."
+    },
+    {
+      "source_file": "study/footnotes/NT/REV_footnotes.md",
+      "line_number": 142,
       "raw_match": "[[JOH.1:1]]-18",
       "reference_type": "wikilink_range",
-      "context": "the language used by John to describe the Incarnation (see [[JOH.1:1]]-18). The Word who"
+      "context": "Further, Christ is here described as God, His hair (v. 14) being that of Daniel's vision of God as the \"Ancient of Days\" (7:9; see also 1En 46:1). His eyes signify knowledge; His feet (v. 15), permanence and stability; His voice, authority or teaching; His right hand (v. 16), power; His two-edged sword, complete discernment. This imagery continues throughout Revelation to affirm the preexistence and eternal divinity of the Son of Man (see also [[JOH.1:1]]-18). Thus, in Christ man (v. 14) and God (vv. 15, 16) are united."
+    },
+    {
+      "source_file": "study/footnotes/NT/REV_footnotes.md",
+      "line_number": 1651,
+      "raw_match": "[[JOH.1:18]]",
+      "reference_type": "wikilink",
+      "context": "Heaven is opened: A standard revelatory formula (4:1; [[EZK.1:1]]; [[MAT.3:16]]; [[JOH.1:51]]; [[ACT.7:57]]). Christ is presented as the Warrior-Messiah, a triumphant King. In Semitic thought, name expressed being. Some of the names of the rider are understandable: Faithful and True (see 3:13), Word of God (v. 13; see [[JOH.1:1]], [[JOH.1:14]]), KING OF KINGS (v. 16; see 17:14) AND LORD OF LORDS (see [[DEU.10:17]]; [[1TI.6:15]]). But He also has a secret name only He can understand (v. 12; see 2:17; [[DAN.2:47]]), for He is God, and only God can comprehend God ([[JOH.1:18]])."
+    },
+    {
+      "source_file": "study/footnotes/NT/REV_footnotes.md",
+      "line_number": 1898,
+      "raw_match": "[[JOH.1:18]]",
+      "reference_type": "wikilink",
+      "context": "The face of God is that of the glorified Christ (see [[JOH.14:9]]; [[1JN.3:2]]). The face which cannot be seen is the hidden essence of God ([[JOH.1:18]]; [[1TI.6:16]]). Normally, even to see His energy is not possible in this life ([[EXO.33:20]]-23; [[MAT.5:8]]; [[JOH.1:18]]; [[1CO.13:12]]; [[HEB.12:14]]; [[1JN.3:2]]). But in the age to come the faithful, who bear Jesus' name... on their foreheads, may see Him ceaselessly. In the OT only the high priest bore the unspeakable name of God on his forehead, and that he did externally, on a golden headband around his turban ([[EXO.28:31]]-33; see [[EZK.9:4]]-6; [[REV.3:12]]; 7:3). In the NT, all who believe are granted His name."
+    },
+    {
+      "source_file": "study/footnotes/NT/REV_footnotes.md",
+      "line_number": 1899,
+      "raw_match": "[[JOH.1:18]]",
+      "reference_type": "wikilink",
+      "context": "The face of God is that of the glorified Christ (see [[JOH.14:9]]; [[1JN.3:2]]). The face which cannot be seen is the hidden essence of God ([[JOH.1:18]]; [[1TI.6:16]]). Normally, even to see His energy is not possible in this life ([[EXO.33:20]]-23; [[MAT.5:8]]; [[JOH.1:18]]; [[1CO.13:12]]; [[HEB.12:14]]; [[1JN.3:2]]). But in the age to come the faithful, who bear Jesus' name... on their foreheads, may see Him ceaselessly. In the OT only the high priest bore the unspeakable name of God on his forehead, and that he did externally, on a golden headband around his turban ([[EXO.28:31]]-33; see [[EZK.9:4]]-6; [[REV.3:12]]; 7:3). In the NT, all who believe are granted His name."
+    },
+    {
+      "source_file": "study/footnotes/OT/EXO_footnotes.md",
+      "line_number": 1129,
+      "raw_match": "[[JOH.1:18]]",
+      "reference_type": "wikilink",
+      "context": "No man can see the essence of the Father (\"My face\"), either in this world or in the one to come (JohnChr; GrgNy). The Apostle John also said the same thing: \"No one has seen God at any time\" ([[JOH.1:18]]). But the Son is one in essence with the Father, and therefore fully sees and knows the Father's essence (AthanG; JohnChr)."
+    },
+    {
+      "source_file": "study/footnotes/OT/SIR_footnotes.md",
+      "line_number": 1365,
+      "raw_match": "[[JOH.1:1]]-18",
+      "reference_type": "wikilink_range",
+      "context": "Any works done by God begin with His Word. He decrees it and it is done. Though the Greek for \"words\" here is plural, the Christian knows the Eternal Word (Logos), the Second Person of the Godhead, was and is eternally active in all creation (see [[JOH.1:1]]-18)."
+    },
+    {
+      "source_file": "study/footnotes/OT/ZEC_footnotes.md",
+      "line_number": 21,
+      "raw_match": "[[JOH.1:1]]-18",
+      "reference_type": "wikilink_range",
+      "context": "Zechariah records an exact date when his visions began. The eighth month is a reference to the Hebrew calendar, while the second year of Darius is a Persian rendering of time. Zechariah is the son of Berechiah and grandson of Addo the prophet. The identity of the prophet and the time of the prophecy are not merely historical references; they are eternally significant because the revelation of God came to Zechariah at this time. The word of the Lord is an action of God in His graceful self-disclosure. The word of the Lord comes to Zechariah veiled, but when the Messiah comes in Bethlehem of Judea five centuries later, He comes in the flesh. Indeed, the language of the LXX here parallels the language used by John to describe the Incarnation (see [[JOH.1:1]]-18). The Word who comes to Zechariah is truly the eternal Son of God, the Word of God, the Second Person of the Holy Trinity who becomes flesh as Jesus Christ."
     }
   ]
 }

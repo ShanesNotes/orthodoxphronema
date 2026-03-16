@@ -2,15 +2,25 @@
   "anchor_id": "ROM.8:1",
   "canon_uri": "canon/NT/ROM.md#ROM.8:1",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "There is therefore now no condemnation to those who are in Christ Jesus, who do not walk according to the flesh, but according to the Spirit.",
+  "pericope": {
+    "id": "ROM.P017",
+    "title": "The Spirit Defeats Sin and the Flesh",
+    "range": "ROM.7:26-8:10",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/LEV_footnotes.md",
-      "line_number": 1100,
+      "source_file": "study/footnotes/OT/LEV_footnotes.md",
+      "line_number": 676,
       "raw_match": "[[ROM.8:1]]-4",
       "reference_type": "wikilink_range",
-      "context": "hand, is to walk in the Law of Christ, a higher standard than the Mosaic ([[ROM.8:1]]-4)."
+      "context": "Israel was to walk in the ordinances of the Mosaic Law. The Church, on the other hand, is to walk in the Law of Christ, a higher standard than the Mosaic ([[ROM.8:1]]-4)."
     }
   ]
 }

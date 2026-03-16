@@ -2,43 +2,53 @@
   "anchor_id": "HEB.11:26",
   "canon_uri": "canon/NT/HEB.md#HEB.11:26",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "esteeming the reproach of Christ greater riches than the treasures in Egypt; for he looked to the reward.",
+  "pericope": {
+    "id": "HEB.P030",
+    "title": "Faith from Moses to Joshua",
+    "range": "HEB.11:22-11:30",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/GAL_footnotes.md",
-      "line_number": 333,
+      "source_file": "study/footnotes/NT/GAL_footnotes.md",
+      "line_number": 219,
       "raw_match": "[[HEB.11:26]]",
       "reference_type": "wikilink",
-      "context": "justify oneself before God. As Moses himself looked ahead to Christ ([[HEB.11:26]]), so the"
+      "context": "Set aside the grace of God is what Peter and Barnabas had done (vv. 12, 13). The faith of Christ is not opposed to the works of the law, but it is opposed to using works to justify oneself before God. As Moses himself looked ahead to Christ ([[HEB.11:26]]), so the law is a shadow, an icon, pointing toward Christ Himself, who brings us life."
     },
     {
-      "source_file": "staging/validated/OT/EXO_footnotes.md",
-      "line_number": 102,
+      "source_file": "study/footnotes/OT/EXO_footnotes.md",
+      "line_number": 75,
       "raw_match": "[[HEB.11:24]]-26",
       "reference_type": "wikilink_range",
-      "context": "([[HEB.11:24]]-26)."
+      "context": "Moses went out to see his brethren because he refused to be called the son of Pharaoh's daughter. Why? Because of his faith, for he chose the Lord and holiness over the riches of Egypt and the passing pleasures of sin. He had his eyes on the world to come ([[HEB.11:24]]-26)."
     },
     {
-      "source_file": "staging/validated/OT/EXO_footnotes.md",
-      "line_number": 123,
+      "source_file": "study/footnotes/OT/EXO_footnotes.md",
+      "line_number": 93,
       "raw_match": "[[HEB.11:26]]",
       "reference_type": "wikilink",
-      "context": "Moses named this son Gershom, which name relates to sojourning in a foreign land. As a man of God, he looked to the reward ([[HEB.11:26]]), which is the world to come. For"
+      "context": "Moses named this son Gershom, which name relates to sojourning in a foreign land. As a man of God, he looked to the reward ([[HEB.11:26]]), which is the world to come. For this world is a foreign land to people of faith."
     },
     {
-      "source_file": "staging/validated/OT/EXO_footnotes.md",
-      "line_number": 895,
+      "source_file": "study/footnotes/OT/EXO_footnotes.md",
+      "line_number": 689,
       "raw_match": "[[HEB.11:26]]",
       "reference_type": "wikilink",
-      "context": "he looked to the reward of the world to come ([[HEB.11:26]])."
+      "context": ", 4 The names of Moses' two sons summarize two aspects of salvation. One aspect is deliverance from Pharaoh and the Egyptians, who were a type of sin, death, and the devil. Another aspect is sojourning in a foreign land: this world was not Moses' true home, for he looked to the reward of the world to come ([[HEB.11:26]])."
     },
     {
-      "source_file": "staging/validated/OT/NUM_footnotes.md",
-      "line_number": 952,
+      "source_file": "study/footnotes/OT/NUM_footnotes.md",
+      "line_number": 643,
       "raw_match": "[[HEB.11:26]]",
       "reference_type": "wikilink",
-      "context": "and the life of the world to come\" (Creed; see [[HEB.11:26]]). He waited eagerly to possess"
+      "context": "Moses would see the land of promise, but he could not possess it. But this was no great loss to him compared to his true vision. For he saw \"the resurrection of the dead and the life of the world to come\" (Creed; see [[HEB.11:26]]). He waited eagerly to possess this inheritance."
     }
   ]
 }

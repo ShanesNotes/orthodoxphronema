@@ -2,22 +2,32 @@
   "anchor_id": "NUM.6:5",
   "canon_uri": "canon/OT/NUM.md#NUM.6:5",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "All the days of his vow of purification no razor shall come upon his head; until the days are fulfilled for which he vowed to the Lord; he shall be holy. Then he shall let the locks of the hair of his head grow.",
+  "pericope": {
+    "id": "NUM.P014",
+    "title": "Law Concerning Vows",
+    "range": "NUM.5:31-6:20",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/ACT_footnotes.md",
-      "line_number": 1781,
+      "source_file": "study/footnotes/NT/ACT_footnotes.md",
+      "line_number": 1117,
       "raw_match": "[[NUM.6:1]]-21",
       "reference_type": "wikilink_range",
-      "context": "The vow Paul makes is likely a form of the Nazirite vow ([[NUM.6:1]]-21) given in"
+      "context": "The vow Paul makes is likely a form of the Nazirite vow ([[NUM.6:1]]-21) given in thanksgiving for deliverance from danger."
     },
     {
-      "source_file": "staging/validated/OT/SIR_footnotes.md",
-      "line_number": 543,
+      "source_file": "study/footnotes/OT/SIR_footnotes.md",
+      "line_number": 404,
       "raw_match": "[[NUM.6:5]]",
       "reference_type": "wikilink",
-      "context": "one's income, or as all-encompassing as monastic vows (see [[NUM.6:5]]; [[ACT.18:18]])."
+      "context": "Making a vow to the Lord can be as simple as promising Him to give a tithe of one's income, or as all-encompassing as monastic vows (see [[NUM.6:5]]; [[ACT.18:18]])."
     }
   ]
 }

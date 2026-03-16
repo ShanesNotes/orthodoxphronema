@@ -2,22 +2,39 @@
   "anchor_id": "ROM.16:23",
   "canon_uri": "canon/NT/ROM.md#ROM.16:23",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Gaius, my host and the host of the whole church, greets you. Erastus, the treasurer of the city, greets you, and Quartus, a brother.",
+  "pericope": {
+    "id": "ROM.P046",
+    "title": "Greetings from Paul's Friends",
+    "range": "ROM.16:21-16:23",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/1CO_footnotes.md",
-      "line_number": 137,
+      "source_file": "study/footnotes/NT/1CO_footnotes.md",
+      "line_number": 93,
       "raw_match": "[[ROM.16:23]]",
       "reference_type": "wikilink",
-      "context": "when he wrote the Epistle to the Romans ([[ROM.16:23]]). The third epistle of John (see 3Jn"
+      "context": "Crispus had been the ruler of the synagogue at Corinth ([[ACT.18:8]]). Converted through the preaching of Paul, then baptized, he was apparently succeeded as ruler by Sosthenes ([[ACT.18:17]]). Gaius was a resident of Corinth with whom Paul was staying when he wrote the Epistle to the Romans ([[ROM.16:23]]). The third epistle of John (see 3Jn 1) seems to have been directed to this same Gaius."
     },
     {
-      "source_file": "staging/validated/NT/3JN_footnotes.md",
-      "line_number": 15,
+      "source_file": "study/footnotes/NT/3JN_footnotes.md",
+      "line_number": 14,
       "raw_match": "[[ROM.16:23]]",
       "reference_type": "wikilink",
       "context": "This is probably not the same Gaius mentioned in [[ROM.16:23]] and [[1CO.1:14]], [[1CO.1:15]]."
+    },
+    {
+      "source_file": "study/footnotes/NT/ACT_footnotes.md",
+      "line_number": 1196,
+      "raw_match": "[[ROM.16:23]]",
+      "reference_type": "wikilink",
+      "context": "Gaius, from Asia Minor (20:4) is perhaps the same person mentioned in [[ROM.16:23]] and [[1CO.1:14]]. Aristarchus is a Thessalonian (20:4; [[COL.4:10]])."
     }
   ]
 }

@@ -2,22 +2,32 @@
   "anchor_id": "JOH.15:26",
   "canon_uri": "canon/NT/JOH.md#JOH.15:26",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "'But when the Helper comes, whom I shall send to you from the Father, the Spirit of truth who proceeds from the Father, He will testify of Me.",
+  "pericope": {
+    "id": "JOH.P056",
+    "title": "The World's Hatred",
+    "range": "JOH.15:17-16:4",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/ROM_footnotes.md",
-      "line_number": 1015,
-      "raw_match": "[[JOH.15:26]]",
-      "reference_type": "wikilink",
-      "context": "from the Father into the world ([[JOH.15:26]]; 16:7)."
-    },
-    {
-      "source_file": "staging/validated/OT/GEN_articles.md",
+      "source_file": "study/articles/OT/GEN_articles.md",
       "line_number": 28,
       "raw_match": "[[JOH.15:26]]",
       "reference_type": "wikilink",
       "context": "The Holy Trinity is revealed both in the Old Testament and in the New Testament. In the Old Testament, the Trinity is revealed in subtle ways; in the New Testament, the Trinity is revealed fully and plainly, beginning at the Baptism of our Lord. The Holy Trinity is one God in three Persons, Father, Son and Holy Spirit. These Persons are distinct, but not separate, and are not three gods. They are One God because They are one in essence or nature. The Father is the unbegotten Fountainhead of Deity. The Son is eternally begotten of the Father ([[JOH.1:18]]; 3:16; 16:28). The Holy Spirit is the Helper ([[JOH.14:16]]) and Spirit of Truth ([[JOH.14:17]]; 16:13), Who proceeds from the Father ([[JOH.15:26]]). #### The Holy Trinity Created The World"
+    },
+    {
+      "source_file": "study/footnotes/NT/ROM_footnotes.md",
+      "line_number": 666,
+      "raw_match": "[[JOH.15:26]]",
+      "reference_type": "wikilink",
+      "context": "The Spirit of Christ declares the intimacy between the Son and the Holy Spirit. The Son becomes incarnate by the Holy Spirit ([[MAT.1:20]]) and in turn sends the Holy Spirit from the Father into the world ([[JOH.15:26]]; 16:7)."
     }
   ]
 }

@@ -2,22 +2,32 @@
   "anchor_id": "PSA.50:19",
   "canon_uri": "canon/OT/PSA.md#PSA.50:19",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "A sacrifice to God is a broken spirit, A broken and humbled heart God will not despise.",
+  "pericope": {
+    "id": "PSA.P050",
+    "title": "Psalm 50",
+    "range": "PSA.50:1-50:21",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/ISA_footnotes.md",
-      "line_number": 37,
+      "source_file": "study/footnotes/OT/ISA_footnotes.md",
+      "line_number": 32,
       "raw_match": "[[PSA.50:19]]",
       "reference_type": "wikilink",
-      "context": "\"a broken spirit, / A broken and humbled heart\" ([[PSA.50:19]])."
+      "context": "God will not forgive (v. 14) false religious piety, but He will accept the sacrifice of \"a broken spirit, / A broken and humbled heart\" ([[PSA.50:19]])."
     },
     {
-      "source_file": "staging/validated/OT/ISA_footnotes.md",
-      "line_number": 1354,
+      "source_file": "study/footnotes/OT/ISA_footnotes.md",
+      "line_number": 1069,
       "raw_match": "[[PSA.50:19]]",
       "reference_type": "wikilink",
-      "context": "([[PSA.50:19]])."
+      "context": "Fasting and other ascetic acts do not necessarily indicate virtue. Blessed Augustine reminds us that even heretics fast! God will not see these actions if we mistreat others. God chooses rather that we humble our own soul. \"A sacrifice to God is a broken spirit\" ([[PSA.50:19]])."
     }
   ]
 }

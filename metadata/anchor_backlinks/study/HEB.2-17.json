@@ -2,15 +2,25 @@
   "anchor_id": "HEB.2:17",
   "canon_uri": "canon/NT/HEB.md#HEB.2:17",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Therefore, in all things He had to be made like His brethren, that He might be a merciful and faithful High Priest in things pertaining to God, to make propitiation for the sins of the people.",
+  "pericope": {
+    "id": "HEB.P004",
+    "title": "Why God Became Man",
+    "range": "HEB.2:9-2:17",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/EXO_footnotes.md",
-      "line_number": 648,
+      "source_file": "study/footnotes/OT/EXO_footnotes.md",
+      "line_number": 493,
       "raw_match": "[[HEB.2:17]]",
       "reference_type": "wikilink",
-      "context": "are His brethren, whose names are registered in heaven ([[HEB.2:11]], [[HEB.2:17]]; 12:23)."
+      "context": "The sanctification of the firstborn foreshadows the Incarnation of the Son of God. For He is the Firstborn of the Mother of God ([[MAT.1:25]]; [[LUK.2:7]]). The Church of the Firstborn are His brethren, whose names are registered in heaven ([[HEB.2:11]], [[HEB.2:17]]; 12:23)."
     }
   ]
 }

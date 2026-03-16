@@ -2,15 +2,25 @@
   "anchor_id": "LUK.12:57",
   "canon_uri": "canon/NT/LUK.md#LUK.12:57",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "'Yes, and why, even of yourselves, do you not judge what is right?",
+  "pericope": {
+    "id": "LUK.P062",
+    "title": "Against Lack of Discernment",
+    "range": "LUK.12:48-12:58",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/MAT_footnotes.md",
-      "line_number": 849,
+      "source_file": "study/footnotes/NT/MAT_footnotes.md",
+      "line_number": 549,
       "raw_match": "[[LUK.12:57]]-59",
       "reference_type": "wikilink_range",
-      "context": "Luke places this teaching in the context of the end of the age ([[LUK.12:57]]-59); here"
+      "context": "Luke places this teaching in the context of the end of the age ([[LUK.12:57]]-59); here it is in the context of reconciliation surrounding the Liturgy. Delay in reconciliation allows for the spread of animosity and other evils ([[EPH.4:26]], [[EPH.4:27]])."
     }
   ]
 }

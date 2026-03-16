@@ -2,22 +2,32 @@
   "anchor_id": "DEU.30:19",
   "canon_uri": "canon/OT/DEU.md#DEU.30:19",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "I call heaven and earth as witnesses today against you: I set before you life and death, blessing and cursing. Therefore choose life, that both you and your seed may live",
+  "pericope": {
+    "id": "DEU.P063",
+    "title": "Joshua Leads the People",
+    "range": "DEU.30:19-31:7",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/MAT_footnotes.md",
-      "line_number": 1235,
+      "source_file": "study/footnotes/NT/MAT_footnotes.md",
+      "line_number": 798,
       "raw_match": "[[DEU.30:15]]-20",
       "reference_type": "wikilink_range",
-      "context": "The description of the two ways was widespread in Judaism ([[DEU.30:15]]-20; Ps 1; Pr"
+      "context": "The description of the two ways was widespread in Judaism ([[DEU.30:15]]-20; Ps 1; Pr 4:17, 18; 12:28; 15:23; WSir 15:17) and in early Christian writings (Didache, Barnabas). Luke's version ([[LUK.13:24]]-30) is more eschatological, referring to the end of the age. Because we wrestle against sins and human weaknesses as well as spiritual forces of evil ([[EPH.6:12]]), entering the Kingdom is the more difficult way."
     },
     {
-      "source_file": "staging/validated/OT/SIR_footnotes.md",
-      "line_number": 369,
+      "source_file": "study/footnotes/OT/SIR_footnotes.md",
+      "line_number": 271,
       "raw_match": "[[DEU.30:15]]-20",
       "reference_type": "wikilink_range",
-      "context": "to Him (see [[DEU.30:15]]-20)."
+      "context": "The fear of God is reverential awe, the foundation for worship, love, and obedience to Him (see [[DEU.30:15]]-20)."
     }
   ]
 }

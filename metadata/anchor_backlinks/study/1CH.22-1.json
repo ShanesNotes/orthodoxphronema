@@ -2,15 +2,25 @@
   "anchor_id": "1CH.22:1",
   "canon_uri": "canon/OT/1CH.md#1CH.22:1",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Then David said, \u201cThis is the house of the Lord God, and this is the altar of whole burnt offering for Israel.\u201d",
+  "pericope": {
+    "id": "1CH.P056",
+    "title": "Preparing to Build the Temple",
+    "range": "1CH.21:30-22:18",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/2SA_footnotes.md",
-      "line_number": 965,
+      "source_file": "study/footnotes/OT/2SA_footnotes.md",
+      "line_number": 751,
       "raw_match": "[[1CH.22:1]]",
       "reference_type": "wikilink",
-      "context": "later will use the threshing-floor as the site for his temple (see [[1CH.22:1]]; [[2CH.3:1]]). David's court history is concluded in chapters 1 and 2 of 3 Kingdoms."
+      "context": "Gad instructs David to set up an altar and offer sacrifice. The purchase of the threshing-floor of Orna the Jebusite and the oxen begins the offering of sacrifices in Jerusalem. This story is intended to reflect the origin of sacrifices there. Solomon later will use the threshing-floor as the site for his temple (see [[1CH.22:1]]; [[2CH.3:1]]). David's court history is concluded in chapters 1 and 2 of 3 Kingdoms."
     }
   ]
 }

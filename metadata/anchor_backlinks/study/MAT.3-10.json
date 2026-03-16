@@ -2,22 +2,32 @@
   "anchor_id": "MAT.3:10",
   "canon_uri": "canon/NT/MAT.md#MAT.3:10",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "And even now the ax is laid to the root of the trees. Therefore every tree which does not bear good fruit is cut down and thrown into the fire.",
+  "pericope": {
+    "id": "MAT.P006",
+    "title": "John the Baptist's Call to Repentance",
+    "range": "MAT.2:23-3:11",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/HEB_footnotes.md",
-      "line_number": 615,
+      "source_file": "study/footnotes/NT/HEB_footnotes.md",
+      "line_number": 396,
       "raw_match": "[[MAT.3:8]]-10",
       "reference_type": "wikilink_range",
-      "context": "trees and their fruit ([[MAT.3:8]]-10; 7:16-20; 12:33; 21:19)."
+      "context": "These verses are reminiscent of John the Baptist's and Jesus' images and parables of trees and their fruit ([[MAT.3:8]]-10; 7:16-20; 12:33; 21:19)."
     },
     {
-      "source_file": "staging/validated/NT/JUD_footnotes.md",
-      "line_number": 149,
+      "source_file": "study/footnotes/NT/JUD_footnotes.md",
+      "line_number": 97,
       "raw_match": "[[MAT.3:10]]",
       "reference_type": "wikilink",
-      "context": "If barrenness is worthy of being cast into the fire ([[MAT.3:10]]), how much worse is bearing"
+      "context": "Jude has a gift for using graphic word pictures. Spots should be rendered \"hidden reefs,\" those razor-sharp underwater growths that can damage and sink great ships. The love feast, or \"agape,\" was a liturgical banquet tied to the Eucharist. Designed to be a peaceful, joyful meal, it was sabotaged by the false teachers, the hidden reefs in this peaceful ocean of loving friendship. Clouds without water are spiritually dry teachers who do not possess what they claim to have. Carried about by the winds is the effect of listening to the suggestions of invisible spirits and obeying their own passions. Twice dead means they were dead before they believed and dead a second time after they turned their backs on Christ. If barrenness is worthy of being cast into the fire ([[MAT.3:10]]), how much worse is bearing rotten fruit ([[MAT.7:17]]-19). In contrast to the saints, who are firmly rooted in Christ (Eph 3:17; [[COL.2:7]]), the false teachers are pulled up by the roots and so cannot remain with Christ or in His Church ([[MAT.13:24]]-30; [[JOH.15:6]])."
     }
   ]
 }

@@ -2,22 +2,32 @@
   "anchor_id": "GAL.2:20",
   "canon_uri": "canon/NT/GAL.md#GAL.2:20",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "I have been crucified with Christ; it is no longer I who live, but Christ lives in me; and the life which I now live in the flesh I live by faith in the Son of God, who loved me and gave Himself for me.",
+  "pericope": {
+    "id": "GAL.P007",
+    "title": "The Source of Faith Is Christ",
+    "range": "GAL.2:13-2:20",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/REV_footnotes.md",
-      "line_number": 387,
+      "source_file": "study/footnotes/NT/REV_footnotes.md",
+      "line_number": 238,
       "raw_match": "[[GAL.2:20]]",
       "reference_type": "wikilink",
-      "context": "be co-crucified with Christ ([[GAL.2:20]]), partaking in the death of Christ in order to"
+      "context": "The message of the Spirit to the churches is explicitly a message to all Christians. In Hebrew, \"conquering\" and \"saving\" are synonymous: Salvation is victory. He who overcomes does so by participating in Christ's victory, which is salvation. In contrast to the false Nicolaitan sect, \"overcomers\" remain faithful to Christ until the end, in spite of all obstacles. Further, they fulfill the original destiny of man by partaking of the tree of life ([[GEN.2:9]]). To eat of this tree is to receive eternal life (vv. 11, 17, 26; 3:5, 12, 21; 21:7; Jn 16:33; [[2CO.4:7]]-18). The fruit of the tree is the spiritual food of [[1CO.10:3]], the \"medicine of immortality.\" Tree of life is also an allusion to the Cross, upon which all Christians must be co-crucified with Christ ([[GAL.2:20]]), partaking in the death of Christ in order to participate in His Resurrection. The Paradise of God is heaven ([[LUK.23:43]]; [[2CO.12:2]]-4); the city of God, the New Jerusalem (see 21:1-22:5), contrasted to the original earthly paradise."
     },
     {
-      "source_file": "staging/validated/NT/ROM_footnotes.md",
-      "line_number": 377,
+      "source_file": "study/footnotes/NT/ROM_footnotes.md",
+      "line_number": 255,
       "raw_match": "[[GAL.2:20]]",
       "reference_type": "wikilink",
-      "context": "some may teach. Rather, it is Christ living in us, and we in Him ([[GAL.2:20]]). Thus, to be"
+      "context": "Ongoing faith in Jesus is the way mankind receives God's righteousness. Justification (being made righteous) by faith is not a one-time \"not guilty\" verdict, as some may teach. Rather, it is Christ living in us, and we in Him ([[GAL.2:20]]). Thus, to be justified is to be in communion with Jesus Christ in an ongoing, dynamic, and growing life with Him. The relationship between God and His people is one of Shepherd to sheep, Master to servant, and Father to an adopted child."
     }
   ]
 }

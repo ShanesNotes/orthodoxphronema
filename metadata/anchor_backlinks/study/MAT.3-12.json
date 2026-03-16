@@ -2,22 +2,32 @@
   "anchor_id": "MAT.3:12",
   "canon_uri": "canon/NT/MAT.md#MAT.3:12",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "His winnowing fan is in His hand, and He will thoroughly clean out His threshing floor, and gather His wheat into the barn; but He will burn up the chaff with unquenchable fire.'",
+  "pericope": {
+    "id": "MAT.P007",
+    "title": "The Baptism of Jesus",
+    "range": "MAT.3:12-3:16",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/REV_footnotes.md",
-      "line_number": 2055,
+      "source_file": "study/footnotes/NT/REV_footnotes.md",
+      "line_number": 1268,
       "raw_match": "[[MAT.3:12]]",
       "reference_type": "wikilink",
-      "context": "[[MAT.3:12]]), appears, seated on a cloud (see [[MRK.13:26]]), and reaps the harvest of the"
+      "context": "The Son of Man, royal conqueror (golden crown) and judge (sharp sickle; see [[MAT.3:12]]), appears, seated on a cloud (see [[MRK.13:26]]), and reaps the harvest of the earth, the beginning of the final judgment (see [[MAT.13:24]]-30, 36-43; [[MRK.4:26]]-29)."
     },
     {
-      "source_file": "staging/validated/OT/JOB_footnotes.md",
-      "line_number": 807,
+      "source_file": "study/footnotes/OT/JOB_footnotes.md",
+      "line_number": 638,
       "raw_match": "[[MAT.3:12]]",
       "reference_type": "wikilink",
-      "context": "threshing floor is the Church itself ([[MAT.3:12]])."
+      "context": "St. Gregory sees in the wild donkey a type of the saints who seek the kingdom of heaven, far removed from earthly cares, and who pay no heed to the blame (v. 7) of the evil one. He sees in the wild ox a type of the proud nations which were tamed by the gospel. The manger is understood to be Holy Scripture, and the ropes are the precepts of discipline in the Church. The seed is the word of preaching ([[MAT.13:3]]), and the threshing floor is the Church itself ([[MAT.3:12]])."
     }
   ]
 }

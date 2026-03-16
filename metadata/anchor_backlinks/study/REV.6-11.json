@@ -2,15 +2,25 @@
   "anchor_id": "REV.6:11",
   "canon_uri": "canon/NT/REV.md#REV.6:11",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Then a white robe was given to each of them; and it was said to them that they should rest little while longer, until both the number of their fellow servants and their brethren, who would be killed as they were, was completed.",
+  "pericope": {
+    "id": "REV.P017",
+    "title": "Seal Six: Cosmic Disturbances",
+    "range": "REV.6:11-6:16",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/JOB_footnotes.md",
-      "line_number": 989,
+      "source_file": "study/footnotes/OT/JOB_footnotes.md",
+      "line_number": 777,
       "raw_match": "[[REV.6:11]]",
       "reference_type": "wikilink",
-      "context": "then also be found to agree to run to her faith\" (see [[ROM.11:25]], [[ROM.11:26]]; Is 61:7; [[REV.6:11]]) \"on"
+      "context": "Job's righteousness and God's faithfulness were indeed demonstrated to all through his suffering, according to the Lord's word (40:8). St. Gregory the Great comments that Job's double blessings point to the general resurrection, when the Church will receive \"that which is hers twofold: having received the Gentiles in full number, all Judea shall then also be found to agree to run to her faith\" (see [[ROM.11:25]], [[ROM.11:26]]; Is 61:7; [[REV.6:11]]) \"on the preaching of Elijah\" (see [[MAT.17:11]]). They ate food and drank with Him images the eucharistic supper. As uncoined gold is shaped into a coin, so the faithful, having been made in God's image, are being shaped into His likeness through participation in Him. The lamb points to the once-for-all sacrifice of Christ offered up during Divine Liturgy."
     }
   ]
 }

@@ -2,15 +2,25 @@
   "anchor_id": "ACT.5:15",
   "canon_uri": "canon/NT/ACT.md#ACT.5:15",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "so that they brought the sick out into the streets and laid them on beds and couches, that at least the shadow of Peter passing by might fall on some of them.",
+  "pericope": {
+    "id": "ACT.P018",
+    "title": "Evangelism in the Spirit",
+    "range": "ACT.5:11-5:15",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/MRK_footnotes.md",
-      "line_number": 213,
+      "source_file": "study/footnotes/NT/MRK_footnotes.md",
+      "line_number": 151,
       "raw_match": "[[ACT.5:15]]",
       "reference_type": "wikilink",
-      "context": "[[JOH.9:6]], [[JOH.9:7]]; [[ACT.5:15]]; 19:11, 12), so oil is a vehicle of God's mercy and healing in the Church"
+      "context": "Anointing the sick with oil has not only medicinal value but sacramental value as well. As God's healing power is bestowed through creation (5:27; [[NUM.21:8]], [[NUM.21:9]]; [[2KI.13:21]]; [[JOH.9:6]], [[JOH.9:7]]; [[ACT.5:15]]; 19:11, 12), so oil is a vehicle of God's mercy and healing in the Church ([[JAS.5:14]])."
     }
   ]
 }

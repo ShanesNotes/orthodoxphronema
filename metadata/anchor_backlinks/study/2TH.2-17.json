@@ -2,15 +2,25 @@
   "anchor_id": "2TH.2:17",
   "canon_uri": "canon/NT/2TH.md#2TH.2:17",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "comfort your hearts and establish you in every good word and work.",
+  "pericope": {
+    "id": "2TH.P006",
+    "title": "Pray for Us",
+    "range": "2TH.2:16-3:4",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/ROM_footnotes.md",
-      "line_number": 1769,
+      "source_file": "study/footnotes/NT/ROM_footnotes.md",
+      "line_number": 1155,
       "raw_match": "[[2TH.2:17]]",
       "reference_type": "wikilink",
-      "context": "secretary. Paul frequently dictated his epistles to a scribe ([[1CO.16:21]]; [[COL.4:18]]; [[2TH.2:17]];"
+      "context": "While Paul is the author of this epistle (1:1), Tertius wrote it down as Paul's secretary. Paul frequently dictated his epistles to a scribe ([[1CO.16:21]]; [[COL.4:18]]; [[2TH.2:17]]; Phm 19)."
     }
   ]
 }

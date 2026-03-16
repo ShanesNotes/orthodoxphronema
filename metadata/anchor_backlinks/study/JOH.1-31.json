@@ -2,15 +2,25 @@
   "anchor_id": "JOH.1:31",
   "canon_uri": "canon/NT/JOH.md#JOH.1:31",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "I did not know Him; but that He should be revealed to Israel, therefore I came baptizing with water.'",
+  "pericope": {
+    "id": "JOH.P005",
+    "title": "The Baptist's Testimony to Christ",
+    "range": "JOH.1:28-1:33",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/LUK_footnotes.md",
-      "line_number": 1093,
+      "source_file": "study/footnotes/NT/LUK_footnotes.md",
+      "line_number": 729,
       "raw_match": "[[JOH.1:29]]-31",
       "reference_type": "wikilink_range",
-      "context": "Though John directed his disciples to follow Christ ([[JOH.1:29]]-31, 35-37), some remained"
+      "context": "John the Baptist was imprisoned soon after Jesus was baptized ([[MRK.1:14]]). Though John directed his disciples to follow Christ ([[JOH.1:29]]-31, 35-37), some remained with him. While John's own faith was undoubtedly strengthened by the signs Christ performed, the Fathers universally see this encounter as a means John used to convince his remaining disciples that Jesus was indeed the Coming One."
     }
   ]
 }

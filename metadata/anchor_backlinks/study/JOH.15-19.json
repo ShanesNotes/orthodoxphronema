@@ -2,22 +2,32 @@
   "anchor_id": "JOH.15:19",
   "canon_uri": "canon/NT/JOH.md#JOH.15:19",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "If you were of the world, the world would love its own. Yet because you are not of the world, but I chose you out of the world, therefore the world hates you.",
+  "pericope": {
+    "id": "JOH.P056",
+    "title": "The World's Hatred",
+    "range": "JOH.15:17-16:4",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/COL_footnotes.md",
-      "line_number": 143,
+      "source_file": "study/footnotes/NT/COL_footnotes.md",
+      "line_number": 94,
       "raw_match": "[[JOH.15:18]]-21",
       "reference_type": "wikilink_range",
-      "context": "25:40; [[LUK.10:16]]; [[JOH.15:18]]-21; [[ACT.9:1]], [[ACT.9:4]], [[ACT.9:5]]; [[ROM.8:17]]; [[2CO.1:5]]; 4:10; [[PHP.1:20]]; 3:10.)"
+      "context": "Christ and the Church are so intimately united that, as we suffer and die with Him (beginning at baptism), so Christ suffers with us in our work of reconciliation. (See Mt 25:40; [[LUK.10:16]]; [[JOH.15:18]]-21; [[ACT.9:1]], [[ACT.9:4]], [[ACT.9:5]]; [[ROM.8:17]]; [[2CO.1:5]]; 4:10; [[PHP.1:20]]; 3:10.)"
     },
     {
-      "source_file": "staging/validated/NT/MAT_footnotes.md",
-      "line_number": 725,
+      "source_file": "study/footnotes/NT/MAT_footnotes.md",
+      "line_number": 469,
       "raw_match": "[[JOH.15:18]]-20",
       "reference_type": "wikilink_range",
-      "context": "persecuted for righteousness' sake (see [[JOH.15:18]]-20). Christ's kingdom is the"
+      "context": "Children of God uphold truth, refuse to compromise with the ways of the world, and give themselves to no other (6:24, 33; see [[1CO.6:19]], [[1CO.6:20]]). Like Jesus, these will be persecuted for righteousness' sake (see [[JOH.15:18]]-20). Christ's kingdom is the crown awaiting the righteous."
     }
   ]
 }

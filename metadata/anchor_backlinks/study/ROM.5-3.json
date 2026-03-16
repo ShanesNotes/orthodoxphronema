@@ -2,36 +2,46 @@
   "anchor_id": "ROM.5:3",
   "canon_uri": "canon/NT/ROM.md#ROM.5:3",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "And not only that, but we also glory in tribulations, knowing that tribulation produces perseverance;",
+  "pericope": {
+    "id": "ROM.P012",
+    "title": "Righteousness as a Living Reality",
+    "range": "ROM.4:24-5:20",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/ACT_footnotes.md",
-      "line_number": 433,
+      "source_file": "study/footnotes/NT/ACT_footnotes.md",
+      "line_number": 293,
       "raw_match": "[[ROM.5:3]]-5",
       "reference_type": "wikilink_range",
-      "context": "See also [[ROM.5:3]]-5."
+      "context": "Rejoicing: See [[LUK.6:22]], [[LUK.6:23]]. Suffering is not necessarily a sign of God's displeasure, as thought by many Jews (see [[LUK.13:1]]-4; [[JOH.9:1]]-3). Rather, Christians accept persecution joyfully, knowing that the rewards of the Kingdom far outweigh any sufferings on earth. See also [[ROM.5:3]]-5."
     },
     {
-      "source_file": "staging/validated/NT/JAS_footnotes.md",
-      "line_number": 35,
+      "source_file": "study/footnotes/NT/JAS_footnotes.md",
+      "line_number": 26,
       "raw_match": "[[ROM.5:3]]",
       "reference_type": "wikilink",
-      "context": "([[MAT.5:11]], [[MAT.5:12]]; [[ACT.5:41]]; [[ROM.5:2]], [[ROM.5:3]]; 8:18; [[HEB.12:11]]; [[1PE.2:19]]). Though unkind"
+      "context": "Trials, the world's oppression, take place by God's permission. The issue is not trials but our response to them. Properly received, trials reveal where our hearts are. They are food for faith, which must grow or die. The godly reaction to trials is joy and perseverance ([[MAT.5:11]], [[MAT.5:12]]; [[ACT.5:41]]; [[ROM.5:2]], [[ROM.5:3]]; 8:18; [[HEB.12:11]]; [[1PE.2:19]]). Though unkind circumstances are from the evil one, to get angry at circumstances is to get angry at God, who permits them."
     },
     {
-      "source_file": "staging/validated/NT/JOH_footnotes.md",
-      "line_number": 2733,
+      "source_file": "study/footnotes/NT/JOH_footnotes.md",
+      "line_number": 1751,
       "raw_match": "[[ROM.5:3]]-5",
       "reference_type": "wikilink_range",
-      "context": "infinitely greater good that comes from it ([[ROM.5:3]]-5; [[PHP.3:10]])."
+      "context": "No longer remembers does not imply the faithful are to forget the Passion and Cross of Christ, any more than a woman \"forgets\" labor. Rather, we now see these sufferings in light of the victory of the Resurrection, and this victory transfigures our perception of sufferings. Christ's victory allows us to rejoice in anguish because of the infinitely greater good that comes from it ([[ROM.5:3]]-5; [[PHP.3:10]])."
     },
     {
-      "source_file": "staging/validated/OT/JOB_footnotes.md",
-      "line_number": 54,
+      "source_file": "study/footnotes/OT/JOB_footnotes.md",
+      "line_number": 38,
       "raw_match": "[[ROM.5:3]]",
       "reference_type": "wikilink",
-      "context": "tribulations\" ([[ROM.5:3]]), knowing that we are to walk in obedience to Christ's commands"
+      "context": "The devil accuses the righteous before God \"day and night\" ([[REV.12:10]]). With God's permission, he pummels our minds with evil thoughts and weakens our bodies with pain and illness, ever seeking to influence us towards evil. But through hardship, the righteous are clothed in the \"whole armor of God\" ([[EPH.6:13]]). We are called to \"glory in tribulations\" ([[ROM.5:3]]), knowing that we are to walk in obedience to Christ's commands ([[MAT.5:10]])."
     }
   ]
 }

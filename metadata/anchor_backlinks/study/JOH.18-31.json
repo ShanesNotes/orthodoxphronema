@@ -2,22 +2,32 @@
   "anchor_id": "JOH.18:31",
   "canon_uri": "canon/NT/JOH.md#JOH.18:31",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Then Pilate said to them, 'You take Him and judge Him according to your law.'",
+  "pericope": {
+    "id": "JOH.P063",
+    "title": "Jesus' Betrayal and Arrest",
+    "range": "JOH.17:26-19:3",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/ACT_footnotes.md",
-      "line_number": 2393,
+      "source_file": "study/footnotes/NT/ACT_footnotes.md",
+      "line_number": 1540,
       "raw_match": "[[JOH.18:29]]-35",
       "reference_type": "wikilink_range",
-      "context": "with a legal accusation (compare [[JOH.18:29]]-35)."
+      "context": "Paul's trial here is strikingly unusual in that there are no actual charges against him, yet there is already an appeal. As Festus would look incompetent sending a man to Caesar on appeal without any charges, this hearing has to be held in order to come up with a legal accusation (compare [[JOH.18:29]]-35)."
     },
     {
-      "source_file": "staging/validated/OT/3MA_footnotes.md",
-      "line_number": 649,
+      "source_file": "study/footnotes/OT/3MA_footnotes.md",
+      "line_number": 548,
       "raw_match": "[[JOH.18:31]]",
       "reference_type": "wikilink",
-      "context": "enforce their own laws with regard to putting someone to death (see [[JOH.18:31]])."
+      "context": "While living under Gentile dominion, the Jews had to ask permission of the king to enforce their own laws with regard to putting someone to death (see [[JOH.18:31]])."
     }
   ]
 }

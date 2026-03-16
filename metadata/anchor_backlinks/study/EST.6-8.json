@@ -2,22 +2,32 @@
   "anchor_id": "EST.6:8",
   "canon_uri": "canon/OT/EST.md#EST.6:8",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "'As for the man whom the king wishes to honor, have the king's servant bring the royal robe the king wears, along with the horse he rides,",
+  "pericope": {
+    "id": "EST.P015",
+    "title": "The King Honors Mordecai",
+    "range": "EST.6:5-6:13",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/MAT_footnotes.md",
-      "line_number": 3365,
+      "source_file": "study/footnotes/NT/MAT_footnotes.md",
+      "line_number": 2155,
       "raw_match": "[[EST.6:6]]-9",
       "reference_type": "wikilink_range",
-      "context": "note at [[EST.6:6]]-9)."
+      "context": "The sign of the Son of Man is the Cross, which will be revealed as the standard for Christ's impending judgment. While at His first coming, Christ came in humility and mortality, at His second coming, He will be revealed in power and great glory (see note at [[EST.6:6]]-9)."
     },
     {
-      "source_file": "staging/validated/OT/1ES_footnotes.md",
-      "line_number": 63,
+      "source_file": "study/footnotes/OT/1ES_footnotes.md",
+      "line_number": 48,
       "raw_match": "[[EST.6:6]]-9",
       "reference_type": "wikilink_range",
-      "context": "Purple denotes royalty and equality with the king (see note on [[EST.6:6]]-9); the gold"
+      "context": "Purple denotes royalty and equality with the king (see note on [[EST.6:6]]-9); the gold cups symbolize Christ's cup of salvation; sleep in a gold bed foreshadows His rest in the tomb; the chariot--like Elijah's chariot of fire (3Kg 2:11)--foreshadows the Ascension; the linen head covering points both to the OT priesthood and to the linen in which Christ's body was wrapped ([[JOH.20:7]]); and the necklace symbolizes virtue (Pr 3:3, 22; 6:21; SS 1:10; see also [[DAN.5:7]])."
     }
   ]
 }

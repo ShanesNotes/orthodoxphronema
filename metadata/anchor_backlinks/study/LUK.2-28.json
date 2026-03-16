@@ -2,15 +2,25 @@
   "anchor_id": "LUK.2:28",
   "canon_uri": "canon/NT/LUK.md#LUK.2:28",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "he took Him up in his arms and blessed God and said:",
+  "pericope": {
+    "id": "LUK.P010",
+    "title": "Simeon's Song: The Nunc Dimittis",
+    "range": "LUK.2:23-2:34",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/ISA_footnotes.md",
-      "line_number": 1474,
+      "source_file": "study/footnotes/OT/ISA_footnotes.md",
+      "line_number": 1164,
       "raw_match": "[[LUK.2:22]]-35",
       "reference_type": "wikilink_range",
-      "context": "Simeon ([[LUK.2:22]]-35), who was \"waiting for the Consolation of Israel,\" and the prophetess"
+      "context": "Many in Zion awaited the Messiah, glory instead of ashes. One thinks of the aged Simeon ([[LUK.2:22]]-35), who was \"waiting for the Consolation of Israel,\" and the prophetess Anna ([[LUK.2:36]]-38), \"who looked for redemption in Jerusalem.\""
     }
   ]
 }

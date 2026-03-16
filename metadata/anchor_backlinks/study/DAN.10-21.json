@@ -2,22 +2,32 @@
   "anchor_id": "DAN.10:21",
   "canon_uri": "canon/OT/DAN.md#DAN.10:21",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "But I will tell you what is noted in the Scripture of Truth-and there is no one loyal to me concerning this, except Michael your prince.",
+  "pericope": {
+    "id": "DAN.P030",
+    "title": "Prophecies of Persia and Greece",
+    "range": "DAN.10:9-11:3",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/REV_footnotes.md",
-      "line_number": 929,
+      "source_file": "study/footnotes/NT/REV_footnotes.md",
+      "line_number": 577,
       "raw_match": "[[DAN.10:21]]",
       "reference_type": "wikilink",
-      "context": "all mysteries, God's will concerning the events marking the end times (see [[DAN.10:21]]),"
+      "context": "The scroll contains the secret decrees of God concerning the judgment and salvation of humanity (see [[EZK.2:9]], [[EZK.2:10]]; [[PSA.138:16]]; see also 1En 81:1, 2). Included is the greatest of all mysteries, God's will concerning the events marking the end times (see [[DAN.10:21]]), sealed up and hidden in profound security (with seven seals) until the time it will be revealed and implemented. In the twenty-three references to scrolls in Revelation there are five types: (1) the unsealed letters to the churches of Asia; (2) the unsealed Book of Life (13:8ff.); (3) the unsealed books of judgment (20:12); (4) the little open scroll that is eaten (10:8-10); and (5) the present sealed scroll."
     },
     {
-      "source_file": "staging/validated/OT/TOB_footnotes.md",
-      "line_number": 289,
+      "source_file": "study/footnotes/OT/TOB_footnotes.md",
+      "line_number": 215,
       "raw_match": "[[DAN.10:21]]",
       "reference_type": "wikilink",
-      "context": "archangels. The names of four of them are revealed: Raphael, Gabriel ([[DAN.9:21]]; [[LUK.1:19]], [[LUK.1:26]]-38), Michael ([[DAN.10:21]]; Jude 9) and Uriel (2 Esdras 4:1)."
+      "context": "Raphael reveals himself to Tobit and Tobias as one of seven holy angels who appear before the glory of the Holy One (see [[REV.1:4]]). These seven are also called archangels. The names of four of them are revealed: Raphael, Gabriel ([[DAN.9:21]]; [[LUK.1:19]], [[LUK.1:26]]-38), Michael ([[DAN.10:21]]; Jude 9) and Uriel (2 Esdras 4:1)."
     }
   ]
 }

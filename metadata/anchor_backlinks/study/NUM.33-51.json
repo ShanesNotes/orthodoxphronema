@@ -2,15 +2,25 @@
   "anchor_id": "NUM.33:51",
   "canon_uri": "canon/OT/NUM.md#NUM.33:51",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "'Speak to the children of Israel and say to them, 'You are crossing over the Jordan into the land of Canaan.",
+  "pericope": {
+    "id": "NUM.P075",
+    "title": "Instructions on Crossing the Jordan, Entering Canaan",
+    "range": "NUM.33:49-33:55",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/REV_footnotes.md",
-      "line_number": 2485,
+      "source_file": "study/footnotes/NT/REV_footnotes.md",
+      "line_number": 1537,
       "raw_match": "[[NUM.33:51]]-56",
       "reference_type": "wikilink_range",
-      "context": "punishment, destruction, and devastation (see [[NUM.33:51]]-56; Is 52:11; [[JER.27:8]]; 28:6, 46)."
+      "context": "God's people are called to come out of her so as not to partake of her punishment, destruction, and devastation (see [[NUM.33:51]]-56; Is 52:11; [[JER.27:8]]; 28:6, 46). Separation from this world is spiritual, not necessarily a physical move but a refusal to participate in the works of darkness ([[2CO.6:14]]-18). As Babylon (Rome) has proclaimed her own sovereign greatness, sitting as queen (v. 7), so her sins have reached to heaven (v. 5), recalling the Tower of Babel ([[GEN.11:4]]), a symbol of excessive arrogance. God's judgment will be swift, in one day (v. 8). In Hebrew day denotes not so much a chronological period as a completed act. 18:9, 10 The kings of the earth who committed fornication will mourn (but from a distance), stunned by the judgment of Rome and the specter of their own economic loss, when they see her devastation (see [[PSA.75:13]]; [[NAH.3:4]]-7). What happened to Sodom (Gn 19:28) and Edom (Is 34:6-10) is befalling Rome."
     }
   ]
 }

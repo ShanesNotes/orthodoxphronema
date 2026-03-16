@@ -2,15 +2,25 @@
   "anchor_id": "JOB.1:22",
   "canon_uri": "canon/OT/JOB.md#JOB.1:22",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "In all these things that happened, Job did not sin against the Lord or charge God with folly.",
+  "pericope": {
+    "id": "JOB.P004",
+    "title": "Job Loses His Health",
+    "range": "JOB.1:22-2:14",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/EZK_footnotes.md",
-      "line_number": 132,
+      "source_file": "study/footnotes/OT/EZK_footnotes.md",
+      "line_number": 120,
       "raw_match": "[[JOB.1:13]]-22",
       "reference_type": "wikilink_range",
-      "context": "final judgment (compare [[JOB.1:13]]-22; Is 7:20). The hair sewn into the garment"
+      "context": "Ezekiel lying bound on his side images the death of Christ, the Lamb of God, who bore the acts of unrighteousness of all humanity. 4:12-17 It would have been unthinkable for Ezekiel to carry out this command as first given. The Apostle Peter made a similar protest (see [[ACT.10:9]]-16). But in a striking reverse parallel, Christ made Himself to be sin for our sakes ([[2CO.5:21]]), so that all who waste away in their wrongdoings (v. 17) might partake together of the bread of heaven and the water of eternal life. 5:1-4 The hair and its destruction by fire, sword, and wind all point ultimately to the final judgment (compare [[JOB.1:13]]-22; Is 7:20). The hair sewn into the garment illustrates the faithful remnant who have bound themselves to Christ."
     }
   ]
 }

@@ -2,15 +2,25 @@
   "anchor_id": "MAT.10:33",
   "canon_uri": "canon/NT/MAT.md#MAT.10:33",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "But whoever denies Me before men, him I will also deny before My Father who is in heaven.",
+  "pericope": {
+    "id": "MAT.P029",
+    "title": "Encouragement to Fearless Witness",
+    "range": "MAT.10:23-10:41",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/2TI_footnotes.md",
-      "line_number": 29,
+      "source_file": "study/footnotes/NT/2TI_footnotes.md",
+      "line_number": 23,
       "raw_match": "[[MAT.10:33]]",
       "reference_type": "wikilink",
-      "context": "and courage (2:12; see [[MAT.10:33]]; [[LUK.9:26]])."
+      "context": "While any Christian may be persecuted ([[JOH.15:20]]; see [[MAT.5:11]], [[MAT.5:12]] and note), we reject feelings of fear or timidity. We do not \"quench the Spirit\" ([[1TH.5:19]]), but act with power and courage (2:12; see [[MAT.10:33]]; [[LUK.9:26]])."
     }
   ]
 }

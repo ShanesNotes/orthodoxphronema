@@ -2,22 +2,32 @@
   "anchor_id": "LUK.2:24",
   "canon_uri": "canon/NT/LUK.md#LUK.2:24",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "and to offer asacrifice according to what is said in the law of the Lord, 'A pair of turtledoves or two young pigeons.'",
+  "pericope": {
+    "id": "LUK.P010",
+    "title": "Simeon's Song: The Nunc Dimittis",
+    "range": "LUK.2:23-2:34",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/ISA_footnotes.md",
-      "line_number": 1474,
+      "source_file": "study/footnotes/OT/ISA_footnotes.md",
+      "line_number": 1164,
       "raw_match": "[[LUK.2:22]]-35",
       "reference_type": "wikilink_range",
-      "context": "Simeon ([[LUK.2:22]]-35), who was \"waiting for the Consolation of Israel,\" and the prophetess"
+      "context": "Many in Zion awaited the Messiah, glory instead of ashes. One thinks of the aged Simeon ([[LUK.2:22]]-35), who was \"waiting for the Consolation of Israel,\" and the prophetess Anna ([[LUK.2:36]]-38), \"who looked for redemption in Jerusalem.\""
     },
     {
-      "source_file": "staging/validated/OT/SNG_footnotes.md",
-      "line_number": 125,
+      "source_file": "study/footnotes/OT/SNG_footnotes.md",
+      "line_number": 89,
       "raw_match": "[[LUK.2:22]]-24",
       "reference_type": "wikilink_range",
-      "context": "of purification after His birth ([[LUK.2:22]]-24)."
+      "context": "The Bridegroom is flattering His Bride. The cheeks are the virtue of modesty. The turtledoves symbolize fidelity, for they mate once for life and live in high and lofty places. Turtledoves were the prescribed offering for the poor (Lv 5:7; 12:8). St. Joseph, with the Christ Child and His mother, brought two turtledoves to the temple at the time of purification after His birth ([[LUK.2:22]]-24)."
     }
   ]
 }

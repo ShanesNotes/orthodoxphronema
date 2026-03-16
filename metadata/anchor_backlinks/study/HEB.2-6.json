@@ -2,15 +2,25 @@
   "anchor_id": "HEB.2:6",
   "canon_uri": "canon/NT/HEB.md#HEB.2:6",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "But one testified in a certain place, saying: 'What is man that You are mindful of him, Or the son of man that You take care of him?",
+  "pericope": {
+    "id": "HEB.P003",
+    "title": "Beware of Willful Negligence",
+    "range": "HEB.1:14-2:8",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/PSA_footnotes.md",
-      "line_number": 161,
+      "source_file": "study/footnotes/OT/PSA_footnotes.md",
+      "line_number": 101,
       "raw_match": "[[HEB.2:6]]-10",
       "reference_type": "wikilink_range",
-      "context": "with glory and honor (vv. 5-9; see also [[HEB.2:6]]-10). (5) Because of the things"
+      "context": "Ps 8 speaks of the Incarnate Lord: (1) His name is wondrous... in all the earth, and He is exalted far beyond the heavens (v. 2; see also [[PHP.2:9]]-11). (2) He brings forth praise from His humble people, who are likened to little children (v. 3; see also Mt 18:1-4; 21:15, 16). (3) He is the Creator of the universe (v. 4; see also [[HEB.1:10]]-12). (4) He remembered man and his mortal nature, for example, his fall into death and decay in the grave, and thus, became incarnate to redeem him from death and to crown him with glory and honor (vv. 5-9; see also [[HEB.2:6]]-10). (5) Because of the things mentioned above, the incarnate Lord's name is wondrous in all the earth."
     }
   ]
 }

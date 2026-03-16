@@ -2,12 +2,22 @@
   "anchor_id": "DAN.4:37",
   "canon_uri": "canon/OT/DAN.md#DAN.4:37",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Now therefore, I, Nebuchadnezzar, praise, exalt beyond measure, and glorify the King of heaven; because all His works are true, His paths are just, and He is able to humble those who walk in arrogance.",
+  "pericope": {
+    "id": "DAN.P016",
+    "title": "Belshazzar's Banquet",
+    "range": "DAN.4:37-5:3",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/3MA_footnotes.md",
-      "line_number": 130,
+      "source_file": "study/footnotes/OT/3MA_footnotes.md",
+      "line_number": 109,
       "raw_match": "[[DAN.4:37]]",
       "reference_type": "wikilink",
       "context": "References to God as King of the heavens include [[DAN.4:37]]; 1Ez 4:46, 58; [[JDT.9:12]]; Tb 13:7, 11."

@@ -2,15 +2,25 @@
   "anchor_id": "PSA.27:9",
   "canon_uri": "canon/OT/PSA.md#PSA.27:9",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Save Your people, and bless Your inheritance; And shepherd them, and raise them up forever.",
+  "pericope": {
+    "id": "PSA.P027",
+    "title": "Psalm 27",
+    "range": "PSA.27:1-27:9",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/3MA_footnotes.md",
-      "line_number": 507,
+      "source_file": "study/footnotes/OT/3MA_footnotes.md",
+      "line_number": 432,
       "raw_match": "[[PSA.27:9]]",
       "reference_type": "wikilink",
-      "context": "and his sons (the priests) as their perpetual due from Israel (Lv 7:34, 35; [[NUM.18:8]]-18). The Jews have become the inheritance of the Lord ([[PSA.27:9]]; 32:12; Is 19:25). More than a"
+      "context": "Eleazar likens Israel to that portion of the sacrifices which was set aside for Aaron and his sons (the priests) as their perpetual due from Israel (Lv 7:34, 35; [[NUM.18:8]]-18). The Jews have become the inheritance of the Lord ([[PSA.27:9]]; 32:12; Is 19:25). More than a chosen nation, they have been set apart for holiness. Sennacherib (v. 5) was the king of Assyria during the reign of Hezekiah, king of Judah. The episode noted is the occasion when, at the supplication of Israel, God sent an angel who in one night slew 185,000 of Sennacherib's forces, sending him home to Nineveh in humiliation and defeat. He was assassinated shortly afterwards ([[2KI.18:13]]; 19:35-37; WSir 48:18-21)."
     }
   ]
 }

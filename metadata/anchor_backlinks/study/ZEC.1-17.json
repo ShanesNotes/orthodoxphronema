@@ -2,15 +2,25 @@
   "anchor_id": "ZEC.1:17",
   "canon_uri": "canon/OT/ZEC.md#ZEC.1:17",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "And the angel talking to me said to me, 'Cry out again, saying, 'Thus says the Lord Almighty: 'Cities shall yet overflow with prosperity, and hereafter the Lord will have mercy on Zion and will choose Jerusalem.' ' '",
+  "pericope": {
+    "id": "ZEC.P003",
+    "title": "The Vision of the Four Horns",
+    "range": "ZEC.1:17-2:3",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/REV_footnotes.md",
-      "line_number": 1041,
+      "source_file": "study/footnotes/NT/REV_footnotes.md",
+      "line_number": 641,
       "raw_match": "[[ZEC.1:8]]-17",
       "reference_type": "wikilink_range",
-      "context": "[[ZEC.1:8]]-17; 6:1-8 for the model of this imagery) personify the scourges which, through"
+      "context": "With the Lamb's opening of the seals, John begins a description of the signs of the end, much of it already set forth by Jesus in the Gospels (Mt 24; Mk 13; Lk 21). The seals are consequences of man's condition, an overview of conditions manifest since the birth of the Church, which will continue until Christ's second coming. The four horsemen (see [[ZEC.1:8]]-17; 6:1-8 for the model of this imagery) personify the scourges which, through the prophets, God has threatened as judgment on the faithless: war, famine, plague, natural disasters."
     }
   ]
 }

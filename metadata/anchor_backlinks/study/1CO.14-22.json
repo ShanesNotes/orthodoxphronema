@@ -2,19 +2,29 @@
   "anchor_id": "1CO.14:22",
   "canon_uri": "canon/NT/1CO.md#1CO.14:22",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Therefore tongues are for a sign, not to those who believe but to unbelievers; but prophesying is not for unbelievers but for those who believe.",
+  "pericope": {
+    "id": "1CO.P031",
+    "title": "says the Lord.",
+    "range": "1CO.14:21-14:24",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/EST_footnotes.md",
-      "line_number": 63,
+      "source_file": "study/footnotes/OT/EST_footnotes.md",
+      "line_number": 48,
       "raw_match": "[[1CO.14:1]]-25",
       "reference_type": "wikilink_range",
-      "context": "liturgy be celebrated ([[1CO.14:1]]-25) in the language spoken by the people (see also 3:12)."
+      "context": "Note that the king's decree was distributed to all people according to their own language, so that all could understand and follow. This is why in the Orthodox Church throughout the world it is imperative that the gospel be preached ([[ACT.2:4]]-11) and the liturgy be celebrated ([[1CO.14:1]]-25) in the language spoken by the people (see also 3:12)."
     },
     {
-      "source_file": "staging/validated/OT/EXO_footnotes.md",
-      "line_number": 388,
+      "source_file": "study/footnotes/OT/EXO_footnotes.md",
+      "line_number": 288,
       "raw_match": "[[1CO.14:22]]",
       "reference_type": "wikilink",
       "context": "Thus, signs are for unbelievers ([[1CO.14:22]])."

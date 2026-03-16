@@ -2,15 +2,25 @@
   "anchor_id": "COL.3:11",
   "canon_uri": "canon/NT/COL.md#COL.3:11",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "where there is neither Greek nor Jew, circumcised nor uncircumcised, barbarian, Scythian, slave nor free, but Christ is all and in all.",
+  "pericope": {
+    "id": "COL.P010",
+    "title": "Spirituality in the Church",
+    "range": "COL.2:23-3:16",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/REV_footnotes.md",
-      "line_number": 3021,
+      "source_file": "study/footnotes/NT/REV_footnotes.md",
+      "line_number": 1861,
       "raw_match": "[[COL.3:11]]",
       "reference_type": "wikilink",
-      "context": "the presence of God in all (v. 22; [[1CO.15:28]]; [[COL.3:11]]; [[1PE.2:4]]-10). The Church itself is the"
+      "context": "There is no temple in the old sense in the New Jerusalem ([[JOH.4:21]]). Its temple is the presence of God in all (v. 22; [[1CO.15:28]]; [[COL.3:11]]; [[1PE.2:4]]-10). The Church itself is the temple."
     }
   ]
 }

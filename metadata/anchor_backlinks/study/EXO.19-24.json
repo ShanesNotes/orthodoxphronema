@@ -2,15 +2,25 @@
   "anchor_id": "EXO.19:24",
   "canon_uri": "canon/OT/EXO.md#EXO.19:24",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "The Lord then said to him, 'Go! Go down and then come up, you and Aaron with you. But do not let the priests and the people break through to come up to God, lest the Lord destroy some of them.'",
+  "pericope": {
+    "id": "EXO.P035",
+    "title": "Israel at Sinai",
+    "range": "EXO.18:27-19:24",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/REV_footnotes.md",
-      "line_number": 805,
+      "source_file": "study/footnotes/NT/REV_footnotes.md",
+      "line_number": 503,
       "raw_match": "[[EXO.19:24]]",
       "reference_type": "wikilink",
-      "context": "Moses' invitation from God to ascend Mt. Sinai ([[EXO.19:24]]), is a command with liturgical"
+      "context": "After this does not refer to a chronological order within the text of chs. 1-4, but instead connects this next sequence with the initial vision, a vision that beholds past, present, and future as one whole. St. John writes, as it were, from inside the eye of an apocalyptic tornado, recording glimpses of the eschatological events that whirl by. The single open door through the vaulted firmament (see [[GEN.1:7]], [[GEN.1:8]]) allows vision into the depths of all mysteries, the celestial throne. Since earthly events have their origin in heaven, true insight into history can be attained only from that vantage point (see Gn 28:17; [[EZK.1:1]]; [[MRK.1:10]]; [[ACT.7:56]]; see also 1En 14:14; TLev 5:1). Come up, reminiscent of Moses' invitation from God to ascend Mt. Sinai ([[EXO.19:24]]), is a command with liturgical overtones: to enter God's sanctuary, His \"high place.\""
     }
   ]
 }

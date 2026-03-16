@@ -2,9 +2,9 @@
   "book": "WIS",
   "file": "staging/validated/OT/WIS.md",
   "generated": "2026-03-10",
-  "total_candidates": 2,
+  "total_candidates": 0,
   "by_category": {
-    "fused_article_explicit": 2
+    "fused_article_explicit": 0
   },
   "candidates": [
     {
@@ -14,7 +14,7 @@
       "token": "akingdom",
       "confidence": 1.0,
       "source_hint": "aspell_split_confirms, brenton",
-      "manual_status": "pending",
+      "manual_status": "resolved",
       "replacement": "a kingdom"
     },
     {
@@ -24,7 +24,7 @@
       "token": "akingdom",
       "confidence": 0.95,
       "source_hint": "aspell_split_confirms, brenton",
-      "manual_status": "pending",
+      "manual_status": "resolved",
       "replacement": "a kingdom"
     }
   ],

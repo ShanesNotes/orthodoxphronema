@@ -2,15 +2,25 @@
   "anchor_id": "MAT.26:31",
   "canon_uri": "canon/NT/MAT.md#MAT.26:31",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Then Jesus said to them, 'All of you will be made to stumble because of Me this night, for it is written: 'I will strike the Shepherd, And the sheep of the flock will be scattered.'",
+  "pericope": {
+    "id": "MAT.P086",
+    "title": "Prediction of Peter's Denial",
+    "range": "MAT.26:30-26:74",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/ZEC_footnotes.md",
-      "line_number": 643,
+      "source_file": "study/footnotes/OT/ZEC_footnotes.md",
+      "line_number": 460,
       "raw_match": "[[MAT.26:31]]",
       "reference_type": "wikilink",
-      "context": "sheep will be scattered\" in the Hebrew text. Jesus cites this verse in [[MAT.26:31]] concerning"
+      "context": "Smite the shepherds and draw out the sheep is \"Strike the shepherd and the sheep will be scattered\" in the Hebrew text. Jesus cites this verse in [[MAT.26:31]] concerning the falling away of the disciples upon His arrest. As it appears in the LXX, the passage matches vv. 1-8, continuing the warning against the false prophets and the promise of the people's delivery."
     }
   ]
 }

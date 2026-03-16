@@ -2,22 +2,32 @@
   "anchor_id": "ROM.2:6",
   "canon_uri": "canon/NT/ROM.md#ROM.2:6",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "who 'will render to each one according to his deeds':",
+  "pericope": {
+    "id": "ROM.P006",
+    "title": "God's Righteous Judgment",
+    "range": "ROM.2:1-2:16",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/REV_footnotes.md",
-      "line_number": 2871,
+      "source_file": "study/footnotes/NT/REV_footnotes.md",
+      "line_number": 1768,
       "raw_match": "[[ROM.2:6]]",
       "reference_type": "wikilink",
-      "context": "believers' works is a common NT theme ([[MAT.16:27]]; [[ROM.2:6]]; [[2CO.5:10]]; [[1PE.1:17]]; see also"
+      "context": "Standing before God at His throne at the final judgment, the dead are confronted with their works. The books of judgment ([[DAN.7:10]]) contain a record of men's deeds; their own works will judge them ([[PSA.61:13]]; [[JER.17:6]]). This judging of believers' works is a common NT theme ([[MAT.16:27]]; [[ROM.2:6]]; [[2CO.5:10]]; [[1PE.1:17]]; see also the Anaphora of the Liturgy of St. Basil and the hymns for the Sunday of the Last Judgment). In contrast is the Book of Life. It contains the names of all saved by grace (see [[EXO.32:32]]; Is 4:3; [[DAN.12:1]], [[DAN.12:2]])--not that they have no works, but that God's mercy is far greater in comparison. The Orthodox liturgy thus petitions God for a \"good account before the dread judgment seat of Christ.\""
     },
     {
-      "source_file": "staging/validated/OT/JOS_footnotes.md",
-      "line_number": 520,
+      "source_file": "study/footnotes/OT/JOS_footnotes.md",
+      "line_number": 309,
       "raw_match": "[[ROM.2:6]]",
       "reference_type": "wikilink",
-      "context": "Judgment, when He \"will render to each one according to his deeds\" ([[ROM.2:6]])."
+      "context": "Cities of refuge were established to protect slayers who killed someone involuntarily (v. 3). They were protected from the avenger of blood until a judgment could be rendered in each case. This system of protection demonstrated the love and forbearance of God ([[ROM.2:4]]), who does not punish before judgment is rendered as to innocence or guilt. Thus, He provided a place of refuge. God also set forth Christ as a city of refuge where one is protected until he is proven innocent or guilty at the Day of Judgment, when He \"will render to each one according to his deeds\" ([[ROM.2:6]])."
     }
   ]
 }

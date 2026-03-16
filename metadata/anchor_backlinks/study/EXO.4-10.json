@@ -2,12 +2,22 @@
   "anchor_id": "EXO.4:10",
   "canon_uri": "canon/OT/EXO.md#EXO.4:10",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Then Moses said to the Lord, 'I pray, O Lord, I am not capable, neither before nor since You spoke to Your servant; but I am weak in speech and slow of tongue.'",
+  "pericope": {
+    "id": "EXO.P005",
+    "title": "Attesting Miracles",
+    "range": "EXO.3:22-4:30",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/JER_footnotes.md",
-      "line_number": 32,
+      "source_file": "study/footnotes/OT/JER_footnotes.md",
+      "line_number": 30,
       "raw_match": "[[EXO.4:10]]",
       "reference_type": "wikilink",
       "context": "Like Moses before him ([[EXO.4:10]]), Jeremiah claims he does not know how to speak. As with all the prophets, God put His words in Jeremiah's mouth (v. 9)."

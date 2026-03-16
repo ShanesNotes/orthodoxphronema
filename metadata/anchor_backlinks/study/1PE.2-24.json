@@ -2,22 +2,32 @@
   "anchor_id": "1PE.2:24",
   "canon_uri": "canon/NT/1PE.md#1PE.2:24",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "who Himself bore our sins in His own body on the tree, that we, having died to sins, might live for righteousness-by whose stripes you were healed.",
+  "pericope": {
+    "id": "1PE.P008",
+    "title": "Servants: Submissive to Masters",
+    "range": "1PE.2:17-2:24",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/REV_footnotes.md",
-      "line_number": 3069,
-      "raw_match": "[[1PE.2:24]]",
-      "reference_type": "wikilink",
-      "context": "obedience ([[1PE.2:24]]), a tree of curse ([[GAL.3:13]]). But there is no more curse (v. 3) in the"
-    },
-    {
-      "source_file": "staging/validated/OT/LEV_articles.md",
+      "source_file": "study/articles/OT/LEV_articles.md",
       "line_number": 21,
       "raw_match": "[[1PE.2:24]]",
       "reference_type": "wikilink",
-      "context": "In the Old Testament animal sacrifices, the blood shed and poured out represented the lifeforce of the animal offered to God ([[GEN.9:4]]; Lv 17:11; [[DEU.12:23]]). The animal was more than simply a substitute for the worshiper. There was also identification between the animal sacrificed and the one on whose behalf it was offered, explaining the emphasis in the Old Testament on the blood of the sacrifice ([[EXO.12:13]]; 24:4-8; 29:15-21; 30:1-10; Lv 14:24, 25; [[NUM.19:1]]-4). These sacrifices point to the blood of Christ in the New Testament: 'My blood of the new covenant, which is shed for many for the remission of sins' ([[MAT.26:28]]; see also Acts On the Day of Atonement, the preeminent Old Testament sacrifice was made. It was to atone for all the sins the nation of Israel had committed that year (Lv 16:2-34). The ceremony included (1) animal sacrifices as offerings for sins, and (2) the placing of 'all the transgressions of the children of Israel... on the head of the living kid'-the scapegoatwhich was then driven off into the wilderness (Lv 16:21). This event prefigures the once-forall self-sacrifice of Christ, our great High Priest (Heb 4:14-5:10; 10:19-22), who takes upon Himself all the sins of all humanity (Is 53:11, 12; [[JOH.1:29]]; [[2CO.5:21]]; [[1PE.2:24]]), tramples down death by His voluntary Death on the cross, and thereby reconciles us to God (Is 53:5; [[GAL.3:13]], [[GAL.3:14]]; [[COL.1:13]], [[COL.1:14]]; [[TIT.2:13]], [[TIT.2:14]]; [[1PE.3:18]]). #### The New Covenant"
+      "context": "In the Old Testament animal sacrifices, the blood shed and poured out represented the life-force of the animal offered to God ([[GEN.9:4]]; [[LEV.17:11]]; [[DEU.12:23]]). The animal was more than simply a substitute for the worshiper. There was also identification between the animal sacrificed and the one on whose behalf it was offered, explaining the emphasis in the Old Testament on the blood of the sacrifice ([[EXO.12:13]]; 24:4-8; 29:15-21; 30:1-10; [[LEV.14:24]], 25; [[NUM.19:1]]-4). These sacrifices point to the blood of Christ in the New Testament: 'My blood of the new covenant, which is shed for many for the remission of sins' ([[MAT.26:28]]; see also Acts On the Day of Atonement, the preeminent Old Testament sacrifice was made. It was to atone for all the sins the nation of Israel had committed that year ([[LEV.16:2]]-34). The ceremony included (1) animal sacrifices as offerings for sins, and (2) the placing of 'all the transgressions of the children of Israel... on the head of the living kid'-the scapegoat\u2014which was then driven off into the wilderness ([[LEV.16:21]]). This event prefigures the once-for-all self-sacrifice of Christ, our great High Priest ([[HEB.4:14]]-5:10; 10:19-22), who takes upon Himself all the sins of all humanity ([[ISA.53:11]], 12; [[JOH.1:29]]; [[2CO.5:21]]; [[1PE.2:24]]), tramples down death by His voluntary Death on the cross, and thereby reconciles us to God ([[ISA.53:5]]; [[GAL.3:13]], [[GAL.3:14]]; [[COL.1:13]], [[COL.1:14]]; [[TIT.2:13]], [[TIT.2:14]]; [[1PE.3:18]])."
+    },
+    {
+      "source_file": "study/footnotes/NT/REV_footnotes.md",
+      "line_number": 1889,
+      "raw_match": "[[1PE.2:24]]",
+      "reference_type": "wikilink",
+      "context": "The river of water of life manifests the Giver of Life, the Holy Spirit (see 21:6; also [[EZK.47:1]]-12; [[ZEC.14:8]]; see also 2En 8:5). The OT Feast of Tabernacles, the festival of the Messianic Kingdom, emphasized light and water. As in his Gospel, so here John shows these themes are fulfilled by Christ and His Church. Christ is the Light of the World (21:23-26; 22:5 with [[JOH.8:12]]); the Holy Spirit is the Water of Life (22:1, 2; 21:6 with Jn 7:37-39). The Church is the Messianic Kingdom. God the Father and the Lamb, the Son incarnate, share one throne, for they are consubstantial and one worship is offered them. With the Spirit proceeding from the throne, the entire Trinity is here. 22:2, 3 The tree of life, a symbol of Christ Himself, gives immortality. It fulfills the tree of life in Paradise ([[GEN.3:22]]) and the other tree of life, the Cross of the Savior, the tree of obedience ([[1PE.2:24]]), a tree of curse ([[GAL.3:13]]). But there is no more curse (v. 3) in the Holy City: a reversal of the curse of [[GEN.3:16]]-19. The fruits and leaves of the tree are completely and universally therapeutic, reversing the effects of the fruit of the tree of disobedience ([[GEN.3:6]])."
     }
   ]
 }

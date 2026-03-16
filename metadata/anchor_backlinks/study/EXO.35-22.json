@@ -2,15 +2,25 @@
   "anchor_id": "EXO.35:22",
   "canon_uri": "canon/OT/EXO.md#EXO.35:22",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "They came, both men and women, as many as had a willing mind, and brought signets, earrings, rings, and necklaces, all jewelry of gold to the Lord.",
+  "pericope": {
+    "id": "EXO.P076",
+    "title": "Regulations Regarding the Sabbath",
+    "range": "EXO.34:35-35:28",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/EXO_footnotes.md",
-      "line_number": 1550,
+      "source_file": "study/footnotes/OT/EXO_footnotes.md",
+      "line_number": 1194,
       "raw_match": "[[EXO.35:22]]",
       "reference_type": "wikilink",
-      "context": "[[EXO.35:5]], [[EXO.35:21]], [[EXO.35:22]], [[EXO.35:26]], [[EXO.35:29]]: The offering was to be made from a willing heart, for the Law"
+      "context": "[[EXO.35:5]], [[EXO.35:21]], [[EXO.35:22]], [[EXO.35:26]], [[EXO.35:29]]: The offering was to be made from a willing heart, for the Law did not force anyone to serve the Lord. The same is true under grace in the New Testament, for the Lord never forces anyone against his will."
     }
   ]
 }

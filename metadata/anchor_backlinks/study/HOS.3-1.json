@@ -2,15 +2,25 @@
   "anchor_id": "HOS.3:1",
   "canon_uri": "canon/OT/HOS.md#HOS.3:1",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Then the Lord said to me, 'Go yet again and love a woman that loves evil things, an adulteress, even as the Lord loves the children of Israel, for they look after strange gods and love raisin cakes.'",
+  "pericope": {
+    "id": "HOS.P012",
+    "title": "Israel Will Return to the Lord",
+    "range": "HOS.2:23-14:9",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/REV_footnotes.md",
-      "line_number": 1991,
+      "source_file": "study/footnotes/NT/REV_footnotes.md",
+      "line_number": 1230,
       "raw_match": "[[HOS.3:1]]",
       "reference_type": "wikilink",
-      "context": "unlike adulterous Israel ([[HOS.3:1]]). These martyred faithful who love not their lives even"
+      "context": "Virgins: In the OT, prostitution and adultery symbolize idolatry, and virginity signifies faithfulness to God. Thus, the 144,000 have kept themselves pure from the idolatrous worship of the beast. Instead, they are faithful and follow the Lord wherever He goes ([[RUT.1:16]], [[RUT.1:17]]) as sheep follow a shepherd (and here, the Shepherd is the Lamb), unlike adulterous Israel ([[HOS.3:1]]). These martyred faithful who love not their lives even unto death are the firstfruits offered to God from among humanity: the faithful remnant. They are truthful (having nothing to do with the father of lies) and unblemished (a technical term in OT temple sacrifice; see [[EXO.12:5]]; [[EPH.5:25]]-27; [[1PE.1:19]]). We shall later encounter them as the bride of the Lamb (19:8; 21:2). 14:6, 7 A universal summons to worship the one true God in the face of His approaching judgment."
     }
   ]
 }

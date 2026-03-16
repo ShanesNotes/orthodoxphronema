@@ -2,22 +2,32 @@
   "anchor_id": "LUK.10:20",
   "canon_uri": "canon/NT/LUK.md#LUK.10:20",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Nevertheless do not rejoice in this, that the spirits are subject to you, but rather arejoice because your names are written in heaven.'",
+  "pericope": {
+    "id": "LUK.P052",
+    "title": "The Seventy Sent Out",
+    "range": "LUK.9:62-10:23",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/REV_footnotes.md",
-      "line_number": 621,
+      "source_file": "study/footnotes/NT/REV_footnotes.md",
+      "line_number": 389,
       "raw_match": "[[LUK.10:20]]",
       "reference_type": "wikilink",
-      "context": "The Book of Life (13:8; 17:8; 20:12, 15; [[EXO.32:32]]; [[PSA.68:29]]; [[DAN.12:1]]; [[LUK.10:20]]; see"
+      "context": "The Book of Life (13:8; 17:8; 20:12, 15; [[EXO.32:32]]; [[PSA.68:29]]; [[DAN.12:1]]; [[LUK.10:20]]; see also 1En 47:3) is God's register naming all who will inherit eternal life. By the fourth century, at the beginning of Lent the names of the catechumens were enrolled in a church record book termed \"The Heavenly Book,\" or \"The Book of the Church\" (see TheoMop, JohnChr and GrgNy). The Son speaks of His Father and His angels but He also calls them His own angels ([[MAT.13:41]]; 24:31), showing His equality with the Father."
     },
     {
-      "source_file": "staging/validated/OT/JER_footnotes.md",
-      "line_number": 1084,
+      "source_file": "study/footnotes/OT/JER_footnotes.md",
+      "line_number": 843,
       "raw_match": "[[LUK.10:1]]-20",
       "reference_type": "wikilink_range",
-      "context": "seventy men to be heralds of the Gospel ([[LUK.10:1]]-20). These seventy lived a godly life of"
+      "context": "Seventy years: Jeremiah speaks both historically and mystically. There was a return of exiles under Cyrus after seventy years. During His earthly ministry, Christ chose seventy men to be heralds of the Gospel ([[LUK.10:1]]-20). These seventy lived a godly life of obedience to Christ, suffering martyrdom and spreading the Kingdom--the true regathering from exile in the world."
     }
   ]
 }

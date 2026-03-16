@@ -2,15 +2,25 @@
   "anchor_id": "GEN.2:12",
   "canon_uri": "canon/OT/GEN.md#GEN.2:12",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "And the gold of that land is good. The carbuncle and the emerald are there as well.",
+  "pericope": {
+    "id": "GEN.P002",
+    "title": "The Garden of Eden",
+    "range": "GEN.2:7-2:24",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/ZEC_footnotes.md",
-      "line_number": 687,
+      "source_file": "study/footnotes/OT/ZEC_footnotes.md",
+      "line_number": 492,
       "raw_match": "[[GEN.2:10]]-15",
       "reference_type": "wikilink_range",
-      "context": "([[GEN.2:10]]-15). In the garden of Paradise, Christ is the living water who sustains, refreshes, and gives life to the inhabitants."
+      "context": "Christ is the living water ([[JOH.4:10]]-14). In the Apocalypse, a river runs through the Holy City ([[REV.22:1]]-5). The Garden of Eden was at the headwaters of four great rivers ([[GEN.2:10]]-15). In the garden of Paradise, Christ is the living water who sustains, refreshes, and gives life to the inhabitants."
     }
   ]
 }

@@ -5,8 +5,6 @@ testament: OT
 canon_position: 11
 source: "Orthodox Study Bible (OSB), Thomas Nelson 2008"
 parse_date: "2026-03-10"
-promote_date: null
-checksum: null
 status: staged
 deuterocanonical: false
 has_additions: false
@@ -80,7 +78,7 @@ has_additions: false
 
 ## Chapter 2
 
-1KI.2:1 4 So King3 Solomon ruled over Israel. His officials were the scribes, Azariah the son of Zadok, and Elihoreph and Ahijah, the sons of Shisha; and the recorder, Jehoshaphat the son of Ahilud; 4and the priests, Zadok and Abiathar, the priests; 5Azariah, the son of Nathan, over the administrators; Zabud the son of Nathan, the king's companion; 6Ahishar, over the household; and Eliab, the son of Saph, over the people; and Adoniram the son of Abda, over the tribute. 7Solomon had twelve governors over all Israel, who provided food for the king and his household; each one made provision for one month of the year. 8They were the son of Hur, in the mountains of Ephraim, one month; 9the son of Rechab in Makaz and Bethlehem and Beth Shemesh and Elon as far as Beth Hanan, one month; 10the son of Hesed, in Arubboth; to him belonged Sochoh and all the land of Hepher, one month; 11the son of Abinadab, in all the regions of Dor; he had Taphath the daughter of Solomon as his wife, one month; 12Baana the son of Ahilud, in Taanach, Megiddo, and all the house of Shean, which is beside Zaretan below Jezreel, from Beth Shean and Abel Meholah, as far as the other side of Jokneam, one month; 13the son of Geber, in Ramoth Gilead; to him belonged the region of Argob in Bashan —sixty large cities with walls and bronze gate-bars, one month; 14Ahinadab the son of Iddo, in Mahanaim, one month; 15Ahimaaz in Naphtali; he also took Basemath the daughter of Solomon as wife, one month; 16Baanah the son of Hushai in Maaleth, one month; 17Shimei the son of Elahom in Benjamin; 18Geber the son of Adai, in the land of Gad, in the country of Sihon king of Heshbon, and Og king of Bashan, one month; 19Jehoshaphat the son of Paruah in Issachar. 5 Intable, this manner the governors provided everything King Solomon requested for the king's each man in his month. They did not change a thing; even the barley and the grain stalks for the horses and the chariots they brought to the place where the king was, each man according to his appointment.
+1KI.2:1 4 So King3 Solomon ruled over Israel. His officials were the scribes, Azariah the son of Zadok, and Elihoreph and Ahijah, the sons of Shisha; and the recorder, Jehoshaphat the son of Ahilud;
 1KI.2:2 Now the days of David drew near to death, and he charged Solomon his son, saying
 1KI.2:3 'I am going the way of all the earth, but you must be strong and become a man.
 1KI.2:4 Keep the charge of the Lord your God, to walk in His ways, to keep His commandments and statutes, and the writings of His judgments in the Law of Moses, so you may understand what you shall do regarding whatever I command of you;

@@ -2,22 +2,32 @@
   "anchor_id": "MAT.14:27",
   "canon_uri": "canon/NT/MAT.md#MAT.14:27",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "But immediately Jesus spoke to them, saying, 'Be of good cheer! It is I; do not be afraid.'",
+  "pericope": {
+    "id": "MAT.P049",
+    "title": "Walking on Water",
+    "range": "MAT.14:21-14:35",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/JOH_footnotes.md",
-      "line_number": 1181,
+      "source_file": "study/footnotes/NT/JOH_footnotes.md",
+      "line_number": 735,
       "raw_match": "[[MAT.14:27]]",
       "reference_type": "wikilink",
-      "context": "[[MAT.14:27]]."
+      "context": "This is the fifth sign recorded by John (see note at 2:1-11). On the parallel between this sign and Israel's crossing of the Red Sea, see note on 6:1-71. See also note at [[MAT.14:27]]."
     },
     {
-      "source_file": "staging/validated/NT/REV_footnotes.md",
-      "line_number": 277,
+      "source_file": "study/footnotes/NT/REV_footnotes.md",
+      "line_number": 171,
       "raw_match": "[[MAT.14:27]]",
       "reference_type": "wikilink",
-      "context": "walking upon the water, [[MAT.14:27]]--\"Fear not, I AM\"; the Transfiguration, [[MAT.17:7]]). In the"
+      "context": "Mortal humanity cannot bear the revelation of divine glory, a frequent biblical theme (see [[EXO.19:21]]; 33:20; Is 6:5). Just as he fell prostrate at Mount Tabor ([[MAT.17:6]]), so also does John here, in the presence of the glorified Savior (see [[EZK.1:27]]; [[DAN.10:7]]-9; see also 1En 14:24). Do not be afraid is a revelatory formula from the OT. As a signal for the theophany, it was carried over into the NT (see the Annunciation, [[LUK.1:30]]; Jesus walking upon the water, [[MAT.14:27]]--\"Fear not, I AM\"; the Transfiguration, [[MAT.17:7]]). In the OT God was called \"the first and the last\" (Is 44:6; 48:12), and so, too, is the Messiah. Some early heresies (e.g. Docetism) held that Jesus only seemed to die. But the Lord Himself testified, I... was dead, affirming the authenticity of His death; alive forevermore, His Resurrection--the power of which effects His lordship over death and its realm. The Orthodox icon of the resurrected Christ depicts Him with these keys (v. 18) in hand, standing triumphantly on the open gates of Hades."
     }
   ]
 }

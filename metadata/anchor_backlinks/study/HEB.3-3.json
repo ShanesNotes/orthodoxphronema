@@ -2,29 +2,39 @@
   "anchor_id": "HEB.3:3",
   "canon_uri": "canon/NT/HEB.md#HEB.3:3",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "For this One has been counted worthy of more glory than Moses, inasmuch as He who built the house has more honor than the house.",
+  "pericope": {
+    "id": "HEB.P005",
+    "title": "Christ Is Faithful in a Superior Office",
+    "range": "HEB.2:18-3:10",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/DEU_footnotes.md",
-      "line_number": 24,
+      "source_file": "study/footnotes/OT/DEU_footnotes.md",
+      "line_number": 21,
       "raw_match": "[[HEB.3:3]]",
       "reference_type": "wikilink",
-      "context": "speak. The Lord is the Son of God, \"who built the house\" ([[HEB.3:3]]). Moses was \"faithful"
+      "context": "In the eleventh month of the fortieth year, Moses spoke the contents of Deuteronomy, \"beyond the Jordan in the land of Moab\" (v. 5). He spoke the words the Lord gave him to speak. The Lord is the Son of God, \"who built the house\" ([[HEB.3:3]]). Moses was \"faithful in all His house as a servant,\" but the Son is \"over His own house\" ([[HEB.3:5]], [[HEB.3:6]])."
     },
     {
-      "source_file": "staging/validated/OT/NUM_footnotes.md",
-      "line_number": 417,
+      "source_file": "study/footnotes/OT/NUM_footnotes.md",
+      "line_number": 266,
       "raw_match": "[[HEB.3:1]]-6",
       "reference_type": "wikilink_range",
-      "context": "was a faithful servant within His house (v. 7; [[HEB.3:1]]-6)."
+      "context": "The Lord who descended is the Son of God. He is over the house, whereas Moses was a faithful servant within His house (v. 7; [[HEB.3:1]]-6)."
     },
     {
-      "source_file": "staging/validated/OT/PRO_footnotes.md",
-      "line_number": 593,
+      "source_file": "study/footnotes/OT/PRO_footnotes.md",
+      "line_number": 407,
       "raw_match": "[[HEB.3:1]]-6",
       "reference_type": "wikilink_range",
-      "context": "([[HEB.3:1]]-6). This house is built on Christ, on the Mother of God, and on the apostles and"
+      "context": "Wisdom is Christ, and He built His house. This house is first the Virgin Mary, the Mother of God, for He was conceived in her womb. Secondly, His house is the Church ([[HEB.3:1]]-6). This house is built on Christ, on the Mother of God, and on the apostles and prophets. Christ Himself is the Chief Cornerstone ([[EPH.2:19]]-22). The seven pillars of the Church is the Holy Spirit, who is called \"the seven Spirits of God\" ([[REV.3:1]]). These seven spirits are the graces of the Holy Spirit that rested on Christ, summarized in Is 11:2, 3: wisdom, understanding, counsel, might, knowledge, godliness, and the fear of God. These are the \"seven pillars\" by which the Church is supported through Christ."
     }
   ]
 }

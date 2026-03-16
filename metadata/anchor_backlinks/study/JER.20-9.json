@@ -2,15 +2,25 @@
   "anchor_id": "JER.20:9",
   "canon_uri": "canon/OT/JER.md#JER.20:9",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Then I said, 'I will not name the name of the Lord, nor speak anymore in His name.' But His word was like a burning fire in my bones. I am weakened on all sides and no longer able to bear it.",
+  "pericope": {
+    "id": "JER.P042",
+    "title": "Jeremiah Is Despised",
+    "range": "JER.20:6-20:17",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/SIR_footnotes.md",
-      "line_number": 2150,
+      "source_file": "study/footnotes/OT/SIR_footnotes.md",
+      "line_number": 1692,
       "raw_match": "[[JER.20:9]]",
       "reference_type": "wikilink",
-      "context": "determined not to speak them, but could not hold them back ([[JER.20:9]]). His prophecies"
+      "context": ", 7 The sad prophecies of Jeremiah were a great burden to him. On one occasion he determined not to speak them, but could not hold them back ([[JER.20:9]]). His prophecies about the destruction and burning of Jerusalem were completely fulfilled (see [[JER.38:14]]- 39:10; 52:12, 13; [[2KI.25:1]]-21)."
     }
   ]
 }

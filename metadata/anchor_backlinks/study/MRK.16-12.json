@@ -2,15 +2,25 @@
   "anchor_id": "MRK.16:12",
   "canon_uri": "canon/NT/MRK.md#MRK.16:12",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "After that, He appeared in another form to two of them as they walked and went into the country.",
+  "pericope": {
+    "id": "MRK.P061",
+    "title": "The Risen Christ Appears",
+    "range": "MRK.16:8-16:12",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/LUK_footnotes.md",
-      "line_number": 3161,
+      "source_file": "study/footnotes/NT/LUK_footnotes.md",
+      "line_number": 2109,
       "raw_match": "[[MRK.16:12]]",
       "reference_type": "wikilink",
-      "context": "different forms, which is what occurs here (see [[MRK.16:12]] and note). Their eyes were"
+      "context": "The nature of the resurrected body is so different from its previous state that it is not immediately recognizable ([[JOH.20:14]]; 21:4, 12; see [[1CO.15:35]]-44). It is also able to take different forms, which is what occurs here (see [[MRK.16:12]] and note). Their eyes were restrained: Christ intentionally prevents them from recognizing Him in order to expose their doubting thoughts and then cure them by means of the OT Scriptures (v. 27)."
     }
   ]
 }

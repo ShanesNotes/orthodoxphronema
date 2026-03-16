@@ -1,8 +1,8 @@
 {
   "book_code": "PHP",
   "testament": "NT",
-  "timestamp": "2026-03-13T13:36:35.521525",
-  "registry_version": "1.4.0",
+  "timestamp": "2026-03-15T18:29:29.618521",
+  "registry_version": "1.7.6",
   "body_checksum": "5bc4839737426c6bf57064f26ed51bc1d3cb2886c4522ff893d1414e4fc1d30f",
   "allow_incomplete": true,
   "staged_path": "/home/ark/orthodoxphronema/staging/validated/NT/PHP.md",
@@ -34,10 +34,8 @@
       "messages": []
     },
     "V7": {
-      "status": "WARN",
-      "messages": [
-        "V7   Completeness: 104/95 verses (109.5%); gap of -9"
-      ]
+      "status": "PASS",
+      "messages": []
     },
     "V8": {
       "status": "PASS",

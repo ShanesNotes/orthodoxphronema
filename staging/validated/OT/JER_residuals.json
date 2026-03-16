@@ -1,4 +1,9 @@
 {
+  "book": "JER",
+  "file": "staging/validated/OT/JER.md",
+  "generated": "2026-03-10",
+  "ratified_by": "human",
+  "ratified_date": "2026-03-15",
   "residuals": [
     {
       "anchor": "JER.10:22",
@@ -31,7 +36,7 @@
     {
       "anchor": "JER.38:40",
       "classification": "docling_issue",
-      "description": "Verse boundary absorbed into JER.38:39 — OSB content matches Brenton JER.38:40",
+      "description": "Verse boundary not split from JER.38:39 by Docling — OSB content for v40 is present within v39 text",
       "blocking": false,
       "ratified": false
     },

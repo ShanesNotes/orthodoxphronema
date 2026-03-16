@@ -2,12 +2,22 @@
   "anchor_id": "MAT.27:43",
   "canon_uri": "canon/NT/MAT.md#MAT.27:43",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "He trusted in God; let Him deliver Him now if He will have Him; for He said, 'I am the Son of God.' '",
+  "pericope": {
+    "id": "MAT.P091",
+    "title": "This Is Jesus The King Of The Jews.",
+    "range": "MAT.27:37-27:54",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/WIS_footnotes.md",
-      "line_number": 59,
+      "source_file": "study/footnotes/OT/WIS_footnotes.md",
+      "line_number": 53,
       "raw_match": "[[MAT.27:43]]",
       "reference_type": "wikilink",
       "context": "Compare [[MAT.27:43]]."

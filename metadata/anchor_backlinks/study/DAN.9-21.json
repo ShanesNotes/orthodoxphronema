@@ -2,15 +2,25 @@
   "anchor_id": "DAN.9:21",
   "canon_uri": "canon/OT/DAN.md#DAN.9:21",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "yes, while I was speaking in prayer, then the man Gabriel, whom I saw in my vision at the beginning, flew and touched me about the time of the evening sacrifice.",
+  "pericope": {
+    "id": "DAN.P028",
+    "title": "Gabriel and the Seventy Weeks",
+    "range": "DAN.9:19-9:26",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/TOB_footnotes.md",
-      "line_number": 289,
+      "source_file": "study/footnotes/OT/TOB_footnotes.md",
+      "line_number": 215,
       "raw_match": "[[DAN.9:21]]",
       "reference_type": "wikilink",
-      "context": "archangels. The names of four of them are revealed: Raphael, Gabriel ([[DAN.9:21]]; [[LUK.1:19]], [[LUK.1:26]]-38), Michael ([[DAN.10:21]]; Jude 9) and Uriel (2 Esdras 4:1)."
+      "context": "Raphael reveals himself to Tobit and Tobias as one of seven holy angels who appear before the glory of the Holy One (see [[REV.1:4]]). These seven are also called archangels. The names of four of them are revealed: Raphael, Gabriel ([[DAN.9:21]]; [[LUK.1:19]], [[LUK.1:26]]-38), Michael ([[DAN.10:21]]; Jude 9) and Uriel (2 Esdras 4:1)."
     }
   ]
 }

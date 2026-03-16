@@ -2,15 +2,25 @@
   "anchor_id": "MAT.1:12",
   "canon_uri": "canon/NT/MAT.md#MAT.1:12",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "And after they were brought to Babylon, Jeconiah begot Shealtiel, and Shealtiel begot Zerubbabel.",
+  "pericope": {
+    "id": "MAT.P001",
+    "title": "Matthew \u2014 Opening",
+    "range": "MAT.1:1-1:24",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/1ES_footnotes.md",
-      "line_number": 116,
+      "source_file": "study/footnotes/OT/1ES_footnotes.md",
+      "line_number": 87,
       "raw_match": "[[MAT.1:12]]",
       "reference_type": "wikilink",
-      "context": "named. He is of Christ's lineage ([[MAT.1:12]]), a leader in the rebuilding of the temple, and a"
+      "context": "The third, named Zerubbabel, is the only one of the three bodyguards who is named. He is of Christ's lineage ([[MAT.1:12]]), a leader in the rebuilding of the temple, and a figure of Christ."
     }
   ]
 }

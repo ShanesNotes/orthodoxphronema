@@ -2,22 +2,32 @@
   "anchor_id": "EZK.38:22",
   "canon_uri": "canon/OT/EZK.md#EZK.38:22",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "I will judge him with death and bloodshed, and I will send a flooding rain and hailstones, and fire and brimstone against him and everyone with him, and also against the many nations with him.",
+  "pericope": {
+    "id": "EZK.P063",
+    "title": "Gog Is Judged",
+    "range": "EZK.38:17-38:22",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/REV_footnotes.md",
-      "line_number": 2839,
+      "source_file": "study/footnotes/NT/REV_footnotes.md",
+      "line_number": 1748,
       "raw_match": "[[EZK.38:22]]",
       "reference_type": "wikilink",
-      "context": "[[EZK.38:22]]; 39:6). The devil joins the beast and the false prophet in the lake of fire,"
+      "context": "The lengthy millennial period of Satan's binding and the saints' heavenly reign (vv. 1-6) is concluded by the release of Satan and the final battle of history (probably the same as that of 16:12-16; 19:14-21). Gog and Magog (v. 8; see Ezk 38; 39) are nations hostile to God's people, gathered for one final assault directed against the beloved city (v. 9), Jerusalem as the Church. As Elijah called down fire... out of heaven on his persecutors ([[2KI.1:10]]-12), so here God sends a consuming fire (see [[GEN.19:24]]; 3Kg 18:38; [[EZK.38:22]]; 39:6). The devil joins the beast and the false prophet in the lake of fire, the second death of eternal damnation, and is no longer a threat to the world."
     },
     {
-      "source_file": "staging/validated/OT/SIR_footnotes.md",
-      "line_number": 2163,
+      "source_file": "study/footnotes/OT/SIR_footnotes.md",
+      "line_number": 1701,
       "raw_match": "[[EZK.38:22]]",
       "reference_type": "wikilink",
-      "context": "the people of Israel to their land. Verse 9 likely refers to [[EZK.38:22]], which prophesies God"
+      "context": "In spite of the hardships and sorrows of living with his people during the Babylonian captivity, Ezekiel had visions of great glory to come and the restoration of the people of Israel to their land. Verse 9 likely refers to [[EZK.38:22]], which prophesies God pouring out wrath upon the attackers of a restored Israel. God will do good to those who walk in the right paths."
     }
   ]
 }

@@ -2,15 +2,25 @@
   "anchor_id": "MRK.4:5",
   "canon_uri": "canon/NT/MRK.md#MRK.4:5",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Some fell on stony ground, where it did not have much earth; and immediately it sprang up because it had no depth of earth.",
+  "pericope": {
+    "id": "MRK.P012",
+    "title": "The Parable of the Sower",
+    "range": "MRK.3:35-4:8",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/HEB_footnotes.md",
-      "line_number": 345,
+      "source_file": "study/footnotes/NT/HEB_footnotes.md",
+      "line_number": 217,
       "raw_match": "[[MRK.4:5]]",
       "reference_type": "wikilink",
-      "context": "take constant daily care not to be deceived and thus fall away (see [[MRK.4:5]], [[MRK.4:6]], [[MRK.4:16]], [[MRK.4:17]])."
+      "context": "Those in Christ are not immune to turning away from God. There is a temporary attractiveness in sin, which leads to a hardened heart and ultimately apostasy. We must take constant daily care not to be deceived and thus fall away (see [[MRK.4:5]], [[MRK.4:6]], [[MRK.4:16]], [[MRK.4:17]])."
     }
   ]
 }

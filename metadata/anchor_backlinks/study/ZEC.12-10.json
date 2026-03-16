@@ -2,15 +2,25 @@
   "anchor_id": "ZEC.12:10",
   "canon_uri": "canon/OT/ZEC.md#ZEC.12:10",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "And I will pour the spirit of grace and compassion upon the house of David and those inhabiting Jerusalem, and they shall look upon Me whom they mocked, and they will mourn for Him as for a beloved one, and they shall grieve profoundly as for a firstborn son.",
+  "pericope": {
+    "id": "ZEC.P016",
+    "title": "The Coming Deliverance for Judah",
+    "range": "ZEC.11:17-12:13",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/REV_footnotes.md",
-      "line_number": 105,
+      "source_file": "study/footnotes/NT/REV_footnotes.md",
+      "line_number": 67,
       "raw_match": "[[ZEC.12:10]]",
       "reference_type": "wikilink",
-      "context": "Jesus Christ is presented as the Risen Savior, Lord of all (see [[ZEC.12:10]]), giving hope to"
+      "context": "Jesus Christ is presented as the Risen Savior, Lord of all (see [[ZEC.12:10]]), giving hope to the early Christians that the Church will not always be dominated by a cruel state. Instead of washed, many Greek texts read \"freed.\" The term witness (Gr. martys), used only here and in 3:14 in the entire NT, refers to Christ, the authentic witness of all divine revelation; all that God has revealed is summed up in His life, witness, Passion, Resurrection, and exaltation. He has inaugurated the new age, for He is firstborn from the dead in His humanity and has achieved a universal sovereignty by His death, Resurrection, and revelation of His Kingdom for the world's salvation."
     }
   ]
 }

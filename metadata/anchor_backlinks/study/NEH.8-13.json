@@ -2,15 +2,25 @@
   "anchor_id": "NEH.8:13",
   "canon_uri": "canon/OT/NEH.md#NEH.8:13",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Now on the second day the heads of the fathers' houses of all the people, with the priests and Levites, were gathered to Ezra the scribe in order to understand the words of the Law.",
+  "pericope": {
+    "id": "NEH.P024",
+    "title": "The People Hear the Law",
+    "range": "NEH.7:73-13:31",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/2MA_footnotes.md",
-      "line_number": 67,
+      "source_file": "study/footnotes/OT/2MA_footnotes.md",
+      "line_number": 55,
       "raw_match": "[[NEH.8:13]]-18",
       "reference_type": "wikilink_range",
-      "context": "It is noteworthy that an eighth day was added to this celebration (see [[NEH.8:13]]-18). This section of 2 Maccabees is referring to the feast of Hanukkah, which celebrates fire"
+      "context": "It is noteworthy that an eighth day was added to this celebration (see [[NEH.8:13]]-18). This section of 2 Maccabees is referring to the feast of Hanukkah, which celebrates fire and light (see note at 1:9)."
     }
   ]
 }

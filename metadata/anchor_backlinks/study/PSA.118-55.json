@@ -2,15 +2,25 @@
   "anchor_id": "PSA.118:55",
   "canon_uri": "canon/OT/PSA.md#PSA.118:55",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "I remembered Your name in the night, O Lord, And I kept Your law.",
+  "pericope": {
+    "id": "PSA.P118",
+    "title": "Psalm 118",
+    "range": "PSA.118:1-118:176",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/GEN_footnotes.md",
-      "line_number": 500,
+      "source_file": "study/footnotes/OT/GEN_footnotes.md",
+      "line_number": 366,
       "raw_match": "[[PSA.118:55]]",
       "reference_type": "wikilink",
-      "context": "night, O Lord, / And I kept Your law\" ([[PSA.118:55]]). This Noah did, and he built an altar"
+      "context": "\"God remembered Noah\" (8:1), but Noah also remembered God. Remembrance in salvation is a two-way street. As the Psalmist said, \"I remembered Your name in the night, O Lord, / And I kept Your law\" ([[PSA.118:55]]). This Noah did, and he built an altar to God."
     }
   ]
 }

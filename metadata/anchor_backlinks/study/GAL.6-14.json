@@ -2,15 +2,25 @@
   "anchor_id": "GAL.6:14",
   "canon_uri": "canon/NT/GAL.md#GAL.6:14",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "But God forbid that I should boast except in the cross of our Lord Jesus Christ, by whom the world has been crucified to me, and I to the world.",
+  "pericope": {
+    "id": "GAL.P021",
+    "title": "The Rule of Faith",
+    "range": "GAL.6:10-6:16",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/MAT_footnotes.md",
-      "line_number": 3957,
+      "source_file": "study/footnotes/NT/MAT_footnotes.md",
+      "line_number": 2535,
       "raw_match": "[[GAL.6:14]]",
       "reference_type": "wikilink",
-      "context": "Cross ([[1CO.2:2]]; [[GAL.6:14]]), which is the weapon Christ used to destroy death and the"
+      "context": "These women are the first witnesses of the supreme event in all history: the Resurrection of Christ and the destruction of death. The angel refers to Christ as the One who was crucified, teaching us not to shy away from His death, but to glory in the Cross ([[1CO.2:2]]; [[GAL.6:14]]), which is the weapon Christ used to destroy death and the trophy of His victory. At the liturgical services of Pascha (Easter), Orthodox Christians sing the following hymn hundreds of times: \"Christ is risen from the dead, trampling down death by death, and upon those in the tombs bestowing life.\" As St. Paul says, \"If Christ is not risen, your faith is futile\" ([[1CO.15:17]])."
     }
   ]
 }

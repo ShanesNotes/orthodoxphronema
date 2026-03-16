@@ -2,15 +2,25 @@
   "anchor_id": "1PE.2:17",
   "canon_uri": "canon/NT/1PE.md#1PE.2:17",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Honor all people. Love the brotherhood. Fear God. Honor the king.",
+  "pericope": {
+    "id": "1PE.P008",
+    "title": "Servants: Submissive to Masters",
+    "range": "1PE.2:17-2:24",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/MAT_footnotes.md",
-      "line_number": 1649,
+      "source_file": "study/footnotes/NT/MAT_footnotes.md",
+      "line_number": 1065,
       "raw_match": "[[1PE.2:17]]",
       "reference_type": "wikilink",
-      "context": "1:50; 23:40; [[ACT.10:2]]; [[COL.3:22]]; [[1PE.2:17]]), for only God has the power to judge the soul."
+      "context": "That there is no need to fear the killing of the soul shows the immortality of the human soul, which is ours by grace. Fear Him is a command to fear God (Pr 9:10; Lk 1:50; 23:40; [[ACT.10:2]]; [[COL.3:22]]; [[1PE.2:17]]), for only God has the power to judge the soul. Christians are instructed to resist the devil ([[JAS.4:7]]), but not to fear him. Hell is literally \"Gehenna.\" In Jewish history, Gehenna (the Valley of Hinnom) became a place of forbidden religious practices ([[2CH.28:3]]; [[JER.39:35]]). King Josiah put an end to these practices ([[2KI.23:10]]). By Christ's time, the valley had become a garbage dump that smoldered ceaselessly. Because of these associations, Gehenna acquired the connotation of eternal punishment in the afterlife."
     }
   ]
 }

@@ -2,36 +2,46 @@
   "anchor_id": "1JN.4:19",
   "canon_uri": "canon/NT/1JN.md#1JN.4:19",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "We love Him because He first loved us.",
+  "pericope": {
+    "id": "1JN.P011",
+    "title": "Love of God Means Love of Others",
+    "range": "1JN.4:19-4:20",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/1CO_footnotes.md",
-      "line_number": 1151,
+      "source_file": "study/footnotes/NT/1CO_footnotes.md",
+      "line_number": 770,
       "raw_match": "[[1JN.4:19]]",
       "reference_type": "wikilink",
-      "context": "God we must follow Him ([[ACT.5:29]]); and (3) love ([[1JN.4:19]]). And while we must aim to"
+      "context": "St. Basil the Great teaches there are three reasons, all biblical and all God-given, that people follow the Lord: (1) fear (Pr 1:7); (2) obedience, a recognition that because He is God we must follow Him ([[ACT.5:29]]); and (3) love ([[1JN.4:19]]). And while we must aim to do all things out of love, we also must not cease fearing God and obeying Him. To a church preoccupied with tongues, Paul teaches the ultimate gift: love."
     },
     {
-      "source_file": "staging/validated/NT/MAT_footnotes.md",
-      "line_number": 925,
+      "source_file": "study/footnotes/NT/MAT_footnotes.md",
+      "line_number": 597,
       "raw_match": "[[1JN.4:7]]-21",
       "reference_type": "wikilink_range",
-      "context": "[[1JN.4:7]]-21.)"
+      "context": "Freed from hate, sadness, and anger, we are able to receive the greatest virtue: perfect love. The love of enemies is not merely an emotion, but includes decision and action. It is to treat and see our enemies as the closest members of our own family. (See [[1JN.4:7]]-21.)"
     },
     {
-      "source_file": "staging/validated/NT/MAT_footnotes.md",
-      "line_number": 2183,
+      "source_file": "study/footnotes/NT/MAT_footnotes.md",
+      "line_number": 1410,
       "raw_match": "[[1JN.4:7]]-21",
       "reference_type": "wikilink_range",
-      "context": "service to others--these two cannot be separated (see also [[JAS.2:14]]-18; [[1JN.4:7]]-21)."
+      "context": "Christ shows that the commandment of God cannot be superseded by man's religious traditions. Devotion to God includes both obedience to His commandments and service to others--these two cannot be separated (see also [[JAS.2:14]]-18; [[1JN.4:7]]-21)."
     },
     {
-      "source_file": "staging/validated/OT/PSA_footnotes.md",
-      "line_number": 2123,
+      "source_file": "study/footnotes/OT/PSA_footnotes.md",
+      "line_number": 1290,
       "raw_match": "[[1JN.4:19]]",
       "reference_type": "wikilink",
-      "context": "hearing his prayers (v. 1; see also [[1JN.4:19]]). The love of God matures in this believer"
+      "context": "Ps 114 speaks of the person who loves the Lord because the Lord loves him by hearing his prayers (v. 1; see also [[1JN.4:19]]). The love of God matures in this believer through (1) answers to prayer (vv. 1, 2); (2) deliverance from the fear of death and the dangers of Hades (vv. 3-5); (3) humility and rest in the Lord (vv. 6, 7); and (4) looking for the resurrection of the dead and the life of the world to come (vv. 8, 9; see also Creed)."
     }
   ]
 }

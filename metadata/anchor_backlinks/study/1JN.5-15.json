@@ -2,15 +2,25 @@
   "anchor_id": "1JN.5:15",
   "canon_uri": "canon/NT/1JN.md#1JN.5:15",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "And if we know that He hears us, whatever we ask, we know that we have the petitions that we have asked of Him.",
+  "pericope": {
+    "id": "1JN.P015",
+    "title": "Pray According to God's Will",
+    "range": "1JN.5:13-5:16",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/1ES_footnotes.md",
-      "line_number": 183,
+      "source_file": "study/footnotes/OT/1ES_footnotes.md",
+      "line_number": 140,
       "raw_match": "[[1JN.5:15]]",
       "reference_type": "wikilink",
-      "context": "things to those who ask according to His will ([[MAT.21:22]]; [[JOH.14:14]]; [[1JN.5:15]])."
+      "context": "Ask what you will: As the Father gives all things to the Son, so Christ gives all things to those who ask according to His will ([[MAT.21:22]]; [[JOH.14:14]]; [[1JN.5:15]])."
     }
   ]
 }

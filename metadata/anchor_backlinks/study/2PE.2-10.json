@@ -2,15 +2,25 @@
   "anchor_id": "2PE.2:10",
   "canon_uri": "canon/NT/2PE.md#2PE.2:10",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "and especially those who walk according to the flesh in the lust of uncleanness and despise authority. They are presumptuous, self-willed. They are not afraid to speak evil of dignitaries,",
+  "pericope": {
+    "id": "2PE.P007",
+    "title": "The Depravity of False Teachers",
+    "range": "2PE.2:9-2:16",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/JUD_footnotes.md",
-      "line_number": 83,
+      "source_file": "study/footnotes/NT/JUD_footnotes.md",
+      "line_number": 56,
       "raw_match": "[[2PE.2:10]]",
       "reference_type": "wikilink",
-      "context": "parallel in [[2PE.2:10]]). Although, they are hostile to God, they are nonetheless to be treated"
+      "context": "Authority (lit., \"lordships\"; also translated \"dominion\"; see [[EPH.1:21]]; [[COL.1:16]]) and dignitaries (lit., \"glories\") refer to angels, perhaps in this case to fallen angels (see the parallel in [[2PE.2:10]]). Although, they are hostile to God, they are nonetheless to be treated dispassionately."
     }
   ]
 }

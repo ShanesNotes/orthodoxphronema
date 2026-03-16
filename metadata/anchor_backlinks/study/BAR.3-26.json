@@ -2,15 +2,25 @@
   "anchor_id": "BAR.3:26",
   "canon_uri": "canon/OT/BAR.md#BAR.3:26",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "The giants born there, those renowned from the beginning, being very large in size and skilled in war,",
+  "pericope": {
+    "id": "BAR.P007",
+    "title": "The Way of Wisdom",
+    "range": "BAR.3:8-3:27",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/SIR_footnotes.md",
-      "line_number": 388,
+      "source_file": "study/footnotes/OT/SIR_footnotes.md",
+      "line_number": 288,
       "raw_match": "[[BAR.3:26]]",
       "reference_type": "wikilink",
-      "context": "The ancient giants are mentioned in [[GEN.6:4]]; WSol 14:6; [[BAR.3:26]]; and 3Mc 2:4.They"
+      "context": "The ancient giants are mentioned in [[GEN.6:4]]; WSol 14:6; [[BAR.3:26]]; and 3Mc 2:4. They are described as expert men of war, arrogant, insolent, foolish, mighty, and trusting in their own strength. They were destroyed by God in the flood."
     }
   ]
 }

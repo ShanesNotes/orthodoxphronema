@@ -2,15 +2,25 @@
   "anchor_id": "MAT.18:24",
   "canon_uri": "canon/NT/MAT.md#MAT.18:24",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "And when he had begun to settle accounts, one was brought to him who owed him ten thousand talents.",
+  "pericope": {
+    "id": "MAT.P062",
+    "title": "Forgiveness in the Church",
+    "range": "MAT.18:20-19:11",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/SIR_footnotes.md",
-      "line_number": 1002,
+      "source_file": "study/footnotes/OT/SIR_footnotes.md",
+      "line_number": 775,
       "raw_match": "[[MAT.18:23]]-35",
       "reference_type": "wikilink_range",
-      "context": "failing ([[MAT.18:23]]-35)."
+      "context": "One of the most powerful of Christ's parables greatly amplifies this common human failing ([[MAT.18:23]]-35)."
     }
   ]
 }

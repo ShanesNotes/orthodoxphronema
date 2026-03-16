@@ -2,15 +2,25 @@
   "anchor_id": "GAL.3:20",
   "canon_uri": "canon/NT/GAL.md#GAL.3:20",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Now a mediator does not mediate for one only, but God is one.",
+  "pericope": {
+    "id": "GAL.P012",
+    "title": "The Law Our Tutor",
+    "range": "GAL.3:18-3:24",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/1CO_footnotes.md",
-      "line_number": 1457,
+      "source_file": "study/footnotes/NT/1CO_footnotes.md",
+      "line_number": 969,
       "raw_match": "[[GAL.3:19]]-22",
       "reference_type": "wikilink_range",
-      "context": "unchanged humans ([[ROM.3:20]]; 4:15; 5:13, 20; 7:7; [[GAL.3:19]]-22)."
+      "context": "Our basic mortal condition is manifested in sin. We are born mortal; we then become sinful. Thus does death \"sting\" us before we die. Being a Christian is more than having one's sins forgiven or being good; it is being alive. The law is not sinful, but it exposes sin. And, since it does not provide the power to obey it, it increases sinfulness in unchanged humans ([[ROM.3:20]]; 4:15; 5:13, 20; 7:7; [[GAL.3:19]]-22)."
     }
   ]
 }

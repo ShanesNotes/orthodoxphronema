@@ -2,22 +2,32 @@
   "anchor_id": "ACT.2:36",
   "canon_uri": "canon/NT/ACT.md#ACT.2:36",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "'Therefore let all the house of Israel know assuredly that God has made this Jesus, whom you crucified, both Lord and Christ.'",
+  "pericope": {
+    "id": "ACT.P008",
+    "title": "What Shall We Do?",
+    "range": "ACT.2:36-2:38",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/1CO_footnotes.md",
-      "line_number": 241,
+      "source_file": "study/footnotes/NT/1CO_footnotes.md",
+      "line_number": 161,
       "raw_match": "[[ACT.2:36]]",
       "reference_type": "wikilink",
-      "context": "in His humanity ([[ACT.2:36]]). They crucified God!"
+      "context": "The Lord of glory demonstrates that the dignity and honor of Jesus is that of God the Father Himself ([[EXO.24:16]]-18). The incarnate Son of God, who clothes Himself \"with light as with a garment\" ([[PSA.103:2]]), stood naked before human judges, receiving blows from hands which He had formed. The Lord of Glory, the Son of the Father, was crucified in His humanity ([[ACT.2:36]]). They crucified God!"
     },
     {
-      "source_file": "staging/validated/OT/GEN_footnotes.md",
-      "line_number": 1859,
+      "source_file": "study/footnotes/OT/GEN_footnotes.md",
+      "line_number": 1374,
       "raw_match": "[[ACT.2:36]]",
       "reference_type": "wikilink",
-      "context": "again, and became the Lord of all ([[ACT.2:36]]; 10:36)."
+      "context": "Joseph's brothers cast him into a pit (v. 24), then lifted him out and sold him as a slave into Egypt. However, he ultimately became the lord of all Egypt. Similarly, Jesus was betrayed for thirty pieces of silver, was killed and buried in His grave. But He rose again, and became the Lord of all ([[ACT.2:36]]; 10:36)."
     }
   ]
 }

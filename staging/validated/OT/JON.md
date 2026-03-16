@@ -5,8 +5,6 @@ testament: OT
 canon_position: 36
 source: "Orthodox Study Bible (OSB), Thomas Nelson 2008"
 parse_date: "2026-03-10"
-promote_date: null
-checksum: null
 status: staged
 deuterocanonical: false
 has_additions: false
@@ -14,7 +12,7 @@ has_additions: false
 
 ## Chapter 1
 
-JON.1:1 Now Nineveh, the great city, and preach in it; for the cry of her wickedness has come up to me.” 3But Jonah rose up to flee to Tarshish from the presence of the Lord. So he went down to Joppa and found a ship going to Tarshish, paid his fare, and boarded the ship to set sail with them to Tarshish, away from the presence of the Lord. 4But the Lord raised up a great wind upon the sea, and there came about a mighty tempest, and the ship was in danger of breaking up. 5And the mariners were afraid and cried out, each one to his god. And they cast out the cargo of the ship into the sea, attempting to lighten the ship. But Jonah had gone below into the hold of the ship, had gone to sleep, and was snoring. 6The captain came to him and said, “Why are you snoring? Get up and call upon your God, that your God may keep us safe so we do not perish.” 7And each one said to his shipmate, “Come! Let us cast lots and find out on whose account this calamity is upon us.” So they cast lots, and the lot fell upon Jonah. 8Then they said to him, “Tell us, what is your occupation? Where do you come from and from what country and people are you?” 9And he said to them, “I am a servant of the Lord, and I worship the Lord God of heaven, who made the sea and the dry land.” 10Then the men were exceedingly afraid and said to him, “What is this that you did?” For the men knew he was fleeing from the presence of the Lord, because he had told them. 11Then they said to him, “What should we do to you that the sea will calm itself for us?” For the sea continued to be tempestuous, and the waves rose up even higher. 12And Jonah said to them, “Take me up and cast me into the sea, and the sea will grow calm for you, for I know this great tempest is upon you because of me.” 13And the men tried hard to return to the land, but were unable to do so, for the sea arose and grew even more tempestuous against them. 14Then they cried out to the Lord and said, “Please, O Lord, do not let us perish on account of this man's life, nor bring righteous blood upon us; for you, O Lord, have brought this about.” 15So they took up Jonah and threw him into the sea, and the sea ceased from its raging. 16And the men feared the Lord even more, and they offered a sacrifice to the Lord and vowed vows. Jonah's Song of Thanksgiving
+JON.1:1 Now Nineveh, the great city, and preach in it; for the cry of her wickedness has come up to me.”
 JON.1:2 'Arise and go to Nineveh, the great city, and preach in it; for the cry of her wickedness has come up to me.'
 JON.1:3 But Jonah rose up to flee to Tarshish from the presence of the Lord. So he went down to Joppa and found a ship going to Tarshish, paid his fare, and boarded the ship to set sail with them to Tarshish, away from the presence of the Lord.
 JON.1:4 But the Lord raised up a great wind upon the sea, and there came about a mighty tempest, and the ship was in danger of breaking up.
@@ -50,7 +48,7 @@ JON.2:11 Then the Lord commanded the sea creature, and it cast up Jonah onto the
 
 ### The Repentance of Nineveh
 
-JON.3:1 Now Nineveh, the great city, and preach there according to the message I previously spoke to you.” 3So Jonah arose and went to Nineveh, just as the Lord spoke. Nineveh was an exceedingly great city to God, a journey of about three days. 4And Jonah began to enter into the city, going a day's journey, where he proclaimed and said, “Yet three days and Nineveh shall be overthrown.” 5And the men of Nineveh believed God. They proclaimed a fast and put on sackcloth, from the greatest of them to the least. 6Then the word came to the king of Nineveh; and he arose from his throne, removed his robe, and put on sackcloth, and sat upon ashes. 7And it was proclaimed and spoken in Nineveh by the king and by his great men, saying, “Let not the men, cattle, oxen, or sheep taste anything, eat, or drink water.” 8So the men and the cattle were clothed with sackcloth, and they cried out fervently to God; and they each turned back from their evil ways and from the wrongdoings of their hands, saying, 9“Who knows if God shall have a change of heart and turn from His fierce anger, that we should not perish?” 10And God saw their works, that they turned from their evil ways. And God had a change of heart about the evil which He said He would do to them, and He did not do it. Jonah Is Grieved by the Lord's Compassion But Jonah was deeply grieved and was troubled.
+JON.3:1 Now Nineveh, the great city, and preach there according to the message I previously spoke to you.”
 JON.3:2 'Arise and go to Nineveh, the great city, and preach there according to the message I previously spoke to you.'
 JON.3:3 So Jonah arose and went to Nineveh, just as the Lord spoke. Nineveh was an exceedingly great city to God, a journey of about three days.
 JON.3:4 And Jonah began to enter into the city, going a day's journey, where he proclaimed and said, 'Yet three days and Nineveh shall be overthrown.'

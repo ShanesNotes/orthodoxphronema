@@ -2,15 +2,25 @@
   "anchor_id": "1JN.3:8",
   "canon_uri": "canon/NT/1JN.md#1JN.3:8",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "He who sins is of the devil, for the devil has sinned from the beginning. For this purpose the Son of God was manifested, that He might destroy the works of the devil.",
+  "pericope": {
+    "id": "1JN.P005",
+    "title": "Practice Righteousness: Do Not Sin",
+    "range": "1JN.2:27-3:8",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/GEN_footnotes.md",
-      "line_number": 176,
+      "source_file": "study/footnotes/OT/GEN_footnotes.md",
+      "line_number": 127,
       "raw_match": "[[1JN.3:8]]-10",
       "reference_type": "wikilink_range",
-      "context": "seed are those who reject Christ and follow the devil ([[1JN.3:8]]-10). Christ destroyed the"
+      "context": "The woman's seed is first Christ, and second His Church ([[GAL.3:16]], [[GAL.3:26]]). The serpent's seed are those who reject Christ and follow the devil ([[1JN.3:8]]-10). Christ destroyed the devil through the cross (bruise your head)."
     }
   ]
 }

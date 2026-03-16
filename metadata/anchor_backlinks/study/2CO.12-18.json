@@ -2,11 +2,21 @@
   "anchor_id": "2CO.12:18",
   "canon_uri": "canon/NT/2CO.md#2CO.12:18",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "I urged Titus, and sent our brother with him. Did Titus take advantage of you? Did we not walk in the same spirit? Did we not walk in the same steps?",
+  "pericope": {
+    "id": "2CO.P037",
+    "title": "A Love Rejected",
+    "range": "2CO.12:13-12:20",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/LUK_articles.md",
+      "source_file": "study/articles/NT/LUK_articles.md",
       "line_number": 37,
       "raw_match": "[[2CO.12:18]]",
       "reference_type": "wikilink",

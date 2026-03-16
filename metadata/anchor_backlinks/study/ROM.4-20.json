@@ -2,15 +2,25 @@
   "anchor_id": "ROM.4:20",
   "canon_uri": "canon/NT/ROM.md#ROM.4:20",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "He did not waver at the promise of God through unbelief, but was strengthened in faith, giving glory to God,",
+  "pericope": {
+    "id": "ROM.P011",
+    "title": "Abraham's Children: Faithful Believers",
+    "range": "ROM.4:12-4:23",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/GEN_footnotes.md",
-      "line_number": 720,
+      "source_file": "study/footnotes/OT/GEN_footnotes.md",
+      "line_number": 503,
       "raw_match": "[[ROM.4:17]]-25",
       "reference_type": "wikilink_range",
-      "context": "God's promise. For man is saved by this promise through faith in Christ ([[ROM.4:17]]-25; 9:7, 8)."
+      "context": "The Voice of the Lord is also the Word of the Father. He reassures Abraham that his heir will come from your own body. This refers to the birth of Isaac, based on God's promise. For man is saved by this promise through faith in Christ ([[ROM.4:17]]-25; 9:7, 8)."
     }
   ]
 }

@@ -2,29 +2,39 @@
   "anchor_id": "ROM.12:5",
   "canon_uri": "canon/NT/ROM.md#ROM.12:5",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "so we, being many, are one body in Christ, and individually members of one another.",
+  "pericope": {
+    "id": "ROM.P033",
+    "title": "A Life of Unity in the Church",
+    "range": "ROM.12:2-12:5",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/1PE_footnotes.md",
-      "line_number": 431,
+      "source_file": "study/footnotes/NT/1PE_footnotes.md",
+      "line_number": 284,
       "raw_match": "[[ROM.12:4]]-10",
       "reference_type": "wikilink_range",
-      "context": "in a spirit of love (see [[ROM.12:4]]-10; 1Co 12-14)."
+      "context": "Whatever gifts God has given to His people are to be used for the glory of God and in a spirit of love (see [[ROM.12:4]]-10; 1Co 12-14)."
     },
     {
-      "source_file": "staging/validated/NT/MAT_footnotes.md",
-      "line_number": 3473,
+      "source_file": "study/footnotes/NT/MAT_footnotes.md",
+      "line_number": 2223,
       "raw_match": "[[ROM.12:4]]-7",
       "reference_type": "wikilink_range",
-      "context": "The amount each receives is based on that person's abilities ([[ROM.12:4]]-7). God does not"
+      "context": "This parable illustrates the use of gifts given by God. Even one talent was a great sum of money; here it represents the goodness God has bestowed on each person. The amount each receives is based on that person's abilities ([[ROM.12:4]]-7). God does not show partiality in the ultimate reward, for all are invited to share the same joy (vv. 21, 23). The wicked and lazy servant (v. 26) could not evade responsibility for ignoring his talent, for idleness is as much a rejection of God as outright wickedness. Burying the talent in the ground (v. 18) is an illustration of using one's God-given gifts for earthly pursuits. The bankers (v. 27) represent other faithful people to whom the man could have turned to help him use his talents wisely. Since help was available to him in the Church, the man has no excuse."
     },
     {
-      "source_file": "staging/validated/OT/JDG_footnotes.md",
-      "line_number": 331,
+      "source_file": "study/footnotes/OT/JDG_footnotes.md",
+      "line_number": 253,
       "raw_match": "[[ROM.12:3]]-6",
       "reference_type": "wikilink_range",
-      "context": "their own accomplishments ([[ROM.12:3]]-6)."
+      "context": "The men of Ephraim had been excluded from the battle. Gideon showed the wisdom of not arguing in the face of their anger; instead he encouraged them tactfully, based on their own accomplishments ([[ROM.12:3]]-6)."
     }
   ]
 }

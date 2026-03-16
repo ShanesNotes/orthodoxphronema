@@ -2,22 +2,32 @@
   "anchor_id": "ROM.10:15",
   "canon_uri": "canon/NT/ROM.md#ROM.10:15",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "And how shall they preach unless they are sent? As it is written: 'How beautiful are the feet of those who preach the gospel of peace,Who bring glad tidings of good things!'",
+  "pericope": {
+    "id": "ROM.P027",
+    "title": "Israel Rejects, Gentiles Receive the Gospel",
+    "range": "ROM.10:13-10:17",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/NAH_footnotes.md",
-      "line_number": 63,
+      "source_file": "study/footnotes/OT/NAH_footnotes.md",
+      "line_number": 48,
       "raw_match": "[[ROM.10:15]]",
       "reference_type": "wikilink",
       "context": "The good tidings are the gospel of peace, preached by the apostles. See [[ROM.10:15]]."
     },
     {
-      "source_file": "staging/validated/OT/SNG_footnotes.md",
-      "line_number": 639,
+      "source_file": "study/footnotes/OT/SNG_footnotes.md",
+      "line_number": 484,
       "raw_match": "[[ROM.10:15]]",
       "reference_type": "wikilink",
-      "context": "beauty of the feet of those who preach the gospel of peace (Is 52:7; [[ROM.10:15]]). The"
+      "context": "Just as the Bride praised the beauty of the Bridegroom (5:10-16), so here the Bridegroom extols the beauty of the Bride. The beauty of her feet (v. 2) calls to mind the beauty of the feet of those who preach the gospel of peace (Is 52:7; [[ROM.10:15]]). The nose (v. 5) is the organ of scent, the most discriminating of the senses and the one most closely linked to memory. This discernment forms a part of the living memory of the Church. The king is taken with the head and the hair of his bride (v. 6), and also with her stature and her breasts (v. 8). St. Paul teaches that \"Christ also loved the church and gave Himself for her\" ([[EPH.5:25]]). At the marriage of Cana, Jesus saved the good wine (v. 10) until last ([[JOH.2:10]]). All of these things are symbolic of the love between husband and wife or between Christ and the Church."
     }
   ]
 }

@@ -2,12 +2,22 @@
   "anchor_id": "2KI.4:34",
   "canon_uri": "canon/OT/2KI.md#2KI.4:34",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Then he went up and lay on the child, and put his mouth on his mouth, his eyes on his eyes, and his hands on his hands; and he bowed himself down upon him, and the flesh of the child warmed.",
+  "pericope": {
+    "id": "2KI.P007",
+    "title": "Elisha Raises the Shunammite Woman's Son",
+    "range": "2KI.4:7-4:36",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/ACT_footnotes.md",
-      "line_number": 1971,
+      "source_file": "study/footnotes/NT/ACT_footnotes.md",
+      "line_number": 1241,
       "raw_match": "[[2KI.4:34]]",
       "reference_type": "wikilink",
       "context": "See [[2KI.4:34]]."

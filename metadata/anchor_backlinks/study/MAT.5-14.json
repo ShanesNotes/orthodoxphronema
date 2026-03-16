@@ -2,36 +2,46 @@
   "anchor_id": "MAT.5:14",
   "canon_uri": "canon/NT/MAT.md#MAT.5:14",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "'You are the light of the world. A city that is set on a hill cannot be hidden.",
+  "pericope": {
+    "id": "MAT.P011",
+    "title": "The Beatitudes: The Blessings of True Discipleship",
+    "range": "MAT.4:25-5:15",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/ACT_footnotes.md",
-      "line_number": 2631,
+      "source_file": "study/footnotes/NT/ACT_footnotes.md",
+      "line_number": 1711,
       "raw_match": "[[MAT.5:14]]",
       "reference_type": "wikilink",
-      "context": "for the gospel cannot be hidden ([[MAT.5:14]]). The story of the Acts of the Apostles continues"
+      "context": "Paul's preaching finishes here where it began: proclaiming(1) the Kingdom of God and (2) things concerning the Lord Jesus Christ. These two interrelated subjects are still the content of the preaching and teaching of the Orthodox Church. No one forbidding him: Imprisonment did not stop Paul from bearing witness to Jesus Christ, for the gospel cannot be hidden ([[MAT.5:14]]). The story of the Acts of the Apostles continues through their successors in the Church to this day."
     },
     {
-      "source_file": "staging/validated/NT/JOH_footnotes.md",
-      "line_number": 1437,
+      "source_file": "study/footnotes/NT/JOH_footnotes.md",
+      "line_number": 899,
       "raw_match": "[[MAT.5:14]]",
       "reference_type": "wikilink",
-      "context": "on His followers ([[MAT.5:14]]; [[PHP.2:15]]). Our Lord confirms His claim by performing the"
+      "context": "I am the light of the world: Jesus spoke these words in the context of the great lamps being lit at the conclusion of the Feast of Tabernacles (see note at 7:2). Thus He declares Himself to be the fulfillment and the divine object of all celebrations of light. In the Scriptures, God the Father Himself is light (1:4-9; [[1JN.1:5]]), an attribute He bestows on His followers ([[MAT.5:14]]; [[PHP.2:15]]). Our Lord confirms His claim by performing the great sign of opening the eyes of a man born blind (9:1-7; see especially 9:5)."
     },
     {
-      "source_file": "staging/validated/NT/REV_footnotes.md",
-      "line_number": 189,
+      "source_file": "study/footnotes/NT/REV_footnotes.md",
+      "line_number": 117,
       "raw_match": "[[MAT.5:14]]",
       "reference_type": "wikilink",
-      "context": "amidst the seven lampstands signifies His presence in the Church (see [[MAT.5:14]]). The"
+      "context": "The glorified Christ introduces himself as the Alpha and the Omega, the First and the Last, thus identifying Himself with God the Father (v. 8; 22:13). His position amidst the seven lampstands signifies His presence in the Church (see [[MAT.5:14]]). The seven golden lampstands, a fusion of the great menorah of the temple with its seven lamps (see [[EXO.25:31]]-37; [[ZEC.4:2]]; [[HEB.9:2]]) and the golden lampstands of Solomon's temple (3Kg 7:35), represent the fullness of God's presence. Also symbolized are the seven Asian churches that receive the letters of chs. 2; 3. This reference prompts some scholars to suggest John was in the church in a liturgical setting during the Revelation."
     },
     {
-      "source_file": "staging/validated/OT/ECC_footnotes.md",
-      "line_number": 249,
+      "source_file": "study/footnotes/OT/ECC_footnotes.md",
+      "line_number": 197,
       "raw_match": "[[MAT.5:14]]",
       "reference_type": "wikilink",
-      "context": "with His ineffable light, as Christ Himself said, \"You are the light of the world\" ([[MAT.5:14]]). Therefore, let us work to acquire the wisdom that is Christ our king, that we might"
+      "context": "Christ's \"face shone like the sun\" on Mount Tabor ([[MAT.17:2]]). The faithful also shine with His ineffable light, as Christ Himself said, \"You are the light of the world\" ([[MAT.5:14]]). Therefore, let us work to acquire the wisdom that is Christ our king, that we might shine as lights \"in the midst of a crooked and perverse generation\" ([[PHP.2:15]])."
     }
   ]
 }

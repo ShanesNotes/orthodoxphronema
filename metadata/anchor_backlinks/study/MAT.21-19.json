@@ -2,15 +2,25 @@
   "anchor_id": "MAT.21:19",
   "canon_uri": "canon/NT/MAT.md#MAT.21:19",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "And seeing a fig tree by the road, He came to it and found nothing on it but leaves, and said to it, 'Let no fruit grow on you ever again.' Immediately the fig tree withered away.",
+  "pericope": {
+    "id": "MAT.P069",
+    "title": "Palm Sunday: The Messianic King",
+    "range": "MAT.20:34-21:27",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/REV_footnotes.md",
-      "line_number": 579,
+      "source_file": "study/footnotes/NT/REV_footnotes.md",
+      "line_number": 362,
       "raw_match": "[[MAT.21:19]]",
       "reference_type": "wikilink",
-      "context": "although it appeared to be alive, it was spiritually dead ([[MAT.21:19]]). There is irony in"
+      "context": "Sardis, 30 miles southeast of Thyatira, was known for its wealth and unassailable fortifications. It was an ancient city, once very powerful, fallen into decline. The church there was also in decline, not falling into heresy or immorality, but into death. For the church in Sardis had so completely compromised with the surrounding pagan world that although it appeared to be alive, it was spiritually dead ([[MAT.21:19]]). There is irony in Christ's accusation. Sardis boasted of a venerable temple to the Asiatic mother-goddess Cybele, purportedly able to restore the dead to life. In the letter to Ephesus (2:1-7), the seven stars represented the angels that guided the churches. The seven Spirits of God is either an expression indicating the fullness of God's powerful presence in the Church, or an allusion to the sevenfold operation of the Spirit of God spoken of by Isaiah (11:2), a connection proposed by St. Justin. The earliest recorded interpreter of Revelation, St. Melito, was bishop of Sardis c. 190."
     }
   ]
 }

@@ -2,15 +2,25 @@
   "anchor_id": "JER.27:6",
   "canon_uri": "canon/OT/JER.md#JER.27:6",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "'My people have been lost sheep. Their shepherds drove them out to wander on the mountains. They went from mountain to hill and forgot their marriage bed.",
+  "pericope": {
+    "id": "JER.P050",
+    "title": "Seventy Years of Disgrace",
+    "range": "JER.24:10-38:39",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/BAR_footnotes.md",
-      "line_number": 45,
+      "source_file": "study/footnotes/OT/BAR_footnotes.md",
+      "line_number": 39,
       "raw_match": "[[JER.27:6]]-8",
       "reference_type": "wikilink_range",
-      "context": "authority (see [[JER.27:6]]-8; 36:4-7; [[ROM.13:1]]-7; [[1TI.2:1]], [[1TI.2:2]])."
+      "context": "God's people have always been called to pray for the... king and all who are in authority (see [[JER.27:6]]-8; 36:4-7; [[ROM.13:1]]-7; [[1TI.2:1]], [[1TI.2:2]])."
     }
   ]
 }

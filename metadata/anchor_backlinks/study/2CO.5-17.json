@@ -2,36 +2,46 @@
   "anchor_id": "2CO.5:17",
   "canon_uri": "canon/NT/2CO.md#2CO.5:17",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Therefore, if anyone is in Christ, he is a new creation; old things have passed away; behold, all things have become new.",
+  "pericope": {
+    "id": "2CO.P019",
+    "title": "Apostolic Ministry: Reconciliation",
+    "range": "2CO.5:17-5:20",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/REV_footnotes.md",
-      "line_number": 2909,
+      "source_file": "study/footnotes/NT/REV_footnotes.md",
+      "line_number": 1791,
       "raw_match": "[[2CO.5:17]]",
       "reference_type": "wikilink",
-      "context": "It will be totally renewed (5:9; 21:5; Is 65:17-25; [[ROM.8:19]]-22; [[2CO.5:17]]; [[2PE.3:13]]): freed"
+      "context": "The NT teaching that the present world will pass away (see [[MAT.5:18]]; [[MRK.13:31]]; 1Co 7:31; [[2PE.3:10]]-13; [[1JN.2:17]]) does not mean the present creation will be utterly destroyed. It will be totally renewed (5:9; 21:5; Is 65:17-25; [[ROM.8:19]]-22; [[2CO.5:17]]; [[2PE.3:13]]): freed from corruption, purified, transfigured, glorified. The first cosmos will pass away."
     },
     {
-      "source_file": "staging/validated/OT/DEU_footnotes.md",
-      "line_number": 515,
+      "source_file": "study/footnotes/OT/DEU_footnotes.md",
+      "line_number": 306,
       "raw_match": "[[2CO.5:17]]",
       "reference_type": "wikilink",
-      "context": "The month of new corn was a type of becoming new creatures in Christ ([[2CO.5:17]]), bearing the good fruits of virtue by casting away all hypocrisy, deceit, and arrogance, and"
+      "context": "The month of new corn was a type of becoming new creatures in Christ ([[2CO.5:17]]), bearing the good fruits of virtue by casting away all hypocrisy, deceit, and arrogance, and putting on love for God and neighbor through the Holy Spirit (AthanG)."
     },
     {
-      "source_file": "staging/validated/OT/ISA_footnotes.md",
-      "line_number": 1638,
+      "source_file": "study/footnotes/OT/ISA_footnotes.md",
+      "line_number": 1294,
       "raw_match": "[[2CO.5:17]]",
       "reference_type": "wikilink",
-      "context": "to Christ are a \"new creation\" ([[2CO.5:17]]); but it will be fulfilled completely in the age to"
+      "context": "This prophecy is partially fulfilled in this age, where those who have been united to Christ are a \"new creation\" ([[2CO.5:17]]); but it will be fulfilled completely in the age to come, when Christ comes again with a new heaven and a new earth (see [[REV.21:1]]-4)."
     },
     {
-      "source_file": "staging/validated/OT/JOB_footnotes.md",
-      "line_number": 231,
+      "source_file": "study/footnotes/OT/JOB_footnotes.md",
+      "line_number": 168,
       "raw_match": "[[2CO.5:17]]",
       "reference_type": "wikilink",
-      "context": "([[2CO.5:17]]) and established the comprehension that is of the Spirit. 9:8"
+      "context": "Bildad's images, which rightly describe all who forget the Lord, are wasted on Job. In speaking of those who have forgotten God, St. Gregory writes that while they accept God's gifts and blessings, \"they do not seek His glory, but their own applause.\" 9:2 Job's question is answered in Christ, the only truly righteous One. 9:5 St. Ambrose sees in the mountains a type of the Old Testament and the Prophets. \"The Jew grew old; grace was renewed.\" Christ \"overturned\" the understanding of the Law ([[2CO.5:17]]) and established the comprehension that is of the Spirit. 9:8 St. Gregory the Great sees in heaven a type of the preaching of the apostles and evangelists. St. Cyril notes that this is the same Lord who, as Man, walked on the sea as on firm ground ([[JOH.6:19]])."
     }
   ]
 }

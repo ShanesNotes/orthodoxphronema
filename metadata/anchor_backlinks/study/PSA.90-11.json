@@ -2,15 +2,25 @@
   "anchor_id": "PSA.90:11",
   "canon_uri": "canon/OT/PSA.md#PSA.90:11",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "For He shall command His angels concerning you, To keep you in all your ways;",
+  "pericope": {
+    "id": "PSA.P090",
+    "title": "Psalm 90",
+    "range": "PSA.90:1-90:16",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/LJE_footnotes.md",
-      "line_number": 33,
+      "source_file": "study/footnotes/OT/LJE_footnotes.md",
+      "line_number": 28,
       "raw_match": "[[PSA.90:11]]",
       "reference_type": "wikilink",
-      "context": "us through the day. For other examples, see [[EXO.23:20]]-23; 32:34; [[PSA.90:11]]."
+      "context": "This verse describes the important role of the guardian angel, who watches and guides us through the day. For other examples, see [[EXO.23:20]]-23; 32:34; [[PSA.90:11]]."
     }
   ]
 }

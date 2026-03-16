@@ -2,15 +2,25 @@
   "anchor_id": "JAS.2:13",
   "canon_uri": "canon/NT/JAS.md#JAS.2:13",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "For judgment is without mercy to the one who has shown no mercy. Mercy triumphs over judgment.",
+  "pericope": {
+    "id": "JAS.P006",
+    "title": "Faith that Works",
+    "range": "JAS.2:13-2:25",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/ISA_footnotes.md",
-      "line_number": 1544,
+      "source_file": "study/footnotes/OT/ISA_footnotes.md",
+      "line_number": 1221,
       "raw_match": "[[JAS.2:13]]",
       "reference_type": "wikilink",
-      "context": "over judgment\" ([[JAS.2:13]]). God so loved the world that the Lord Himself saved"
+      "context": "Judgment and mercy are bound together, but by God's grace, \"mercy triumphs over judgment\" ([[JAS.2:13]]). God so loved the world that the Lord Himself saved them. But note how their rebellion grieved His Holy Spirit, causing Him to turn against them."
     }
   ]
 }

@@ -2,15 +2,25 @@
   "anchor_id": "EZK.5:15",
   "canon_uri": "canon/OT/EZK.md#EZK.5:15",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "You shall be mournful and miserable among the nations around you when I execute judgments among you, in the vengeance of my anger. I, the Lord, have spoken.",
+  "pericope": {
+    "id": "EZK.P005",
+    "title": "Jerusalem's Desolation Prophesied",
+    "range": "EZK.4:17-5:16",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/REV_footnotes.md",
-      "line_number": 1055,
+      "source_file": "study/footnotes/NT/REV_footnotes.md",
+      "line_number": 650,
       "raw_match": "[[EZK.5:15]]",
       "reference_type": "wikilink",
-      "context": "power of adversaries ([[JER.27:29]]; [[EZK.5:15]]). Jesus taught \"nation will rise against nation\""
+      "context": "The first rider (on the white horse, carrying a bow) represents the spirit of conquest, reminiscent of fierce divine judgment in the OT, usually wrought through the military power of adversaries ([[JER.27:29]]; [[EZK.5:15]]). Jesus taught \"nation will rise against nation\" ([[MAT.24:7]]). The figure here probably represents liberators of the oppressed people of God."
     }
   ]
 }

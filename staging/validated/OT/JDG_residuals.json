@@ -1,8 +1,8 @@
 {
   "book_code": "JDG",
   "registry_version": "1.2.3",
-  "ratified_by": null,
-  "ratified_date": null,
+  "ratified_by": "human",
+  "ratified_date": "2026-03-15",
   "residuals": [
     {
       "anchor": "JDG.11:40",

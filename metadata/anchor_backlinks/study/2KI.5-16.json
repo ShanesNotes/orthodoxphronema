@@ -2,15 +2,25 @@
   "anchor_id": "2KI.5:16",
   "canon_uri": "canon/OT/2KI.md#2KI.5:16",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "But Elisha said, 'As the Lord lives before whom I stand, I will receive nothing.' Again he urged him to take it, but he refused.",
+  "pericope": {
+    "id": "2KI.P009",
+    "title": "Naaman Cured of Leprosy",
+    "range": "2KI.4:44-6:6",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/JDT_footnotes.md",
-      "line_number": 436,
+      "source_file": "study/footnotes/OT/JDT_footnotes.md",
+      "line_number": 278,
       "raw_match": "[[2KI.5:16]]",
       "reference_type": "wikilink",
-      "context": "In imitation of Abraham ([[GEN.14:22]], [[GEN.14:23]]), and Elisha ([[2KI.5:16]]), Judith took nothing"
+      "context": "In imitation of Abraham ([[GEN.14:22]], [[GEN.14:23]]), and Elisha ([[2KI.5:16]]), Judith took nothing for herself, but dedicated all the property to the Lord."
     }
   ]
 }

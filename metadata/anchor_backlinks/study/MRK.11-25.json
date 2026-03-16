@@ -2,15 +2,25 @@
   "anchor_id": "MRK.11:25",
   "canon_uri": "canon/NT/MRK.md#MRK.11:25",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "'And whenever you stand praying, if you have anything against anyone, forgive him, that your Father in heaven may also forgive you your trespasses.",
+  "pericope": {
+    "id": "MRK.P038",
+    "title": "The Triumphal Entry",
+    "range": "MRK.10:52-11:33",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/MAT_footnotes.md",
-      "line_number": 837,
+      "source_file": "study/footnotes/NT/MAT_footnotes.md",
+      "line_number": 541,
       "raw_match": "[[MRK.11:25]]",
       "reference_type": "wikilink",
-      "context": "Peace with other believers is a requirement for worship ([[MRK.11:25]]). The liturgical"
+      "context": "Peace with other believers is a requirement for worship ([[MRK.11:25]]). The liturgical \"kiss of peace\" at the beginning of the eucharistic prayer is a sign of reconciliation and forgiveness, preparing the faithful to offer the holy gifts at the altar ([[1CO.16:20]]; 1Pt 5:14)."
     }
   ]
 }

@@ -2,15 +2,25 @@
   "anchor_id": "LUK.18:27",
   "canon_uri": "canon/NT/LUK.md#LUK.18:27",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "But He said, 'The things which are impossible with men are possible with God.'",
+  "pericope": {
+    "id": "LUK.P086",
+    "title": "The Reward of Renunciation",
+    "range": "LUK.18:27-18:28",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/DEU_footnotes.md",
-      "line_number": 1062,
+      "source_file": "study/footnotes/OT/DEU_footnotes.md",
+      "line_number": 675,
       "raw_match": "[[LUK.18:27]]",
       "reference_type": "wikilink",
-      "context": "men are possible with God\" ([[LUK.18:27]]), and, \"Is anything impossible with God?\" (Gn"
+      "context": "This commandment is the commandment regarding the attainment of righteousness before God through faith. In vv. 11-14, Moses tells us how to become righteous in the eyes of God through faith. To do so is not too burdensome. But the multitude of commandments in the Law of Moses were \"too burdensome\" for the people to be able to become righteous in God's sight. As St. Peter said, \"neither our fathers nor we were able to bear\" them ([[ACT.15:10]]). 30:11-13 Far off means in heaven or beyond the sea. By describing \"far off\" in this manner, Moses shows how we attain righteousness before God through faith. We attain it by casting out the questions, \"Who will ascend into heaven for us?\" and \"Who will go over the sea for us?\" These questions are another way of asking, \"How can these things be?\" as Nicodemus asked Jesus ([[JOH.3:9]]). These questions raise supposed impossibilities based on human reasoning, but \"the things which are impossible with men are possible with God\" ([[LUK.18:27]]), and, \"Is anything impossible with God?\" (Gn 18:14). How then are these questions based on human reasoning cast out? Moses gives the answer in v. 14."
     }
   ]
 }

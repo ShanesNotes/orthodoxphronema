@@ -2,15 +2,25 @@
   "anchor_id": "JOH.8:20",
   "canon_uri": "canon/NT/JOH.md#JOH.8:20",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Jesus answered, 'You know neither Me nor My Father. If you had known Me, you would have known My Father also.' These words Jesus spoke in the treasury, as He taught in the temple; and no one laid hands on Him, for His hour had not yet come.",
+  "pericope": {
+    "id": "JOH.P026",
+    "title": "Jesus, Light of the World",
+    "range": "JOH.8:12-8:29",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/LUK_footnotes.md",
-      "line_number": 789,
+      "source_file": "study/footnotes/NT/LUK_footnotes.md",
+      "line_number": 523,
       "raw_match": "[[JOH.8:20]]",
       "reference_type": "wikilink",
-      "context": "Jews. Here, the hour of His Passion has not yet come (see [[JOH.8:20]])."
+      "context": "This double response of marveling (v. 22) and rejection (v. 29) occurs frequently in those who encounter Christ (see 11:14-16; [[JOH.9:16]]). His being rejected in His own country fulfills the rejection of the OT prophets such as Elijah (v. 26) and Elisha (v. 27), and foreshadows His rejection by the whole Jewish nation at His trial before Pilate ([[JOH.19:14]], [[JOH.19:15]]). Christ accepts death according to the Father's will, not at the will of the Jews. Here, the hour of His Passion has not yet come (see [[JOH.8:20]])."
     }
   ]
 }

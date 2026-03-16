@@ -2,15 +2,25 @@
   "anchor_id": "MAT.21:45",
   "canon_uri": "canon/NT/MAT.md#MAT.21:45",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Now when the chief priests and Pharisees heard His parables, they perceived that He was speaking of them.",
+  "pericope": {
+    "id": "MAT.P071",
+    "title": "Leaders Mistreat God's Messengers",
+    "range": "MAT.21:32-21:45",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/AMO_footnotes.md",
-      "line_number": 151,
+      "source_file": "study/footnotes/OT/AMO_footnotes.md",
+      "line_number": 116,
       "raw_match": "[[MAT.21:45]]",
       "reference_type": "wikilink",
-      "context": "Pharisees in the gates ([[MAT.21:45]], [[MAT.21:46]]; Lk 11:45-12:1; 13:14-17; [[JOH.7:7]]; 8:20; see also Pr"
+      "context": "Christ, the upright word Incarnate, was hated for publicly rebuking the scribes and Pharisees in the gates ([[MAT.21:45]], [[MAT.21:46]]; [[LUK.11:45]]-12:1; 13:14-17; [[JOH.7:7]]; 8:20; see also Pr"
     }
   ]
 }

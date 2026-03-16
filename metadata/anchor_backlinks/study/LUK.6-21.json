@@ -2,15 +2,25 @@
   "anchor_id": "LUK.6:21",
   "canon_uri": "canon/NT/LUK.md#LUK.6:21",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Blessed are you who hunger now, For you shall be filled. Blessed are you who weep now, For you shall laugh.",
+  "pericope": {
+    "id": "LUK.P030",
+    "title": "Crowds Follow Jesus",
+    "range": "LUK.6:16-6:25",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/JAS_footnotes.md",
-      "line_number": 209,
+      "source_file": "study/footnotes/NT/JAS_footnotes.md",
+      "line_number": 137,
       "raw_match": "[[LUK.6:21]]-25",
       "reference_type": "wikilink_range",
-      "context": "things, and even hurt others to gain them (see [[LUK.6:21]]-25; [[1CO.1:26]]-28). They may mock"
+      "context": ". 1:26-27 Here are three examples of the relationship between faith and works. (1) Mastery over speech: What proceeds out of the mouth flows from the heart, for sooner or later our tongue will reveal the quality of our faith in God. (2) Ministry to the needy: Faithful Christians must be the guardians of the poor, especially of those orphans and widows who have lost their natural guardians. \"Do not let the widows be neglected; after the Lord, you must be their guardian\" (IgnAnt). (3) Moral purity in thought and deed: A traditional indicator of a working faith. \"Let us make haste to wash away through fasting the filth of our transgressions, and through acts of mercy and compassion to the needy let us enter into the bridal chamber of the Bridegroom Christ, who grants to us great mercy\" (Vespers, week before Lent). 2:1-4 Unjustly judging others is an example of fainthearted faith being manifested in unjust works. Favoring the rich over the poor is contrary to true faith. A person's dignity and worth come from God, not from fellow humans. So we must not judge others by the earthly standards of rank, wealth, attainments, and appearance. 2:5-7 God is not partial to anyone. The poor are more likely to repent and renounce this world for the sake of the kingdom, for they more easily see the emptiness of earthly things. The rich (v. 6), on the other hand, tend to prize earthly things, desire material things, and even hurt others to gain them (see [[LUK.6:21]]-25; [[1CO.1:26]]-28). They may mock Christians for the name by which (v. 7) they are called, the name invoked at baptism. 2:8-13 The corrective standard of judgment is perfect faith manifested in perfect works. The royal law (v. 8), the law of liberty (v. 12; 1:25), is the second great commandment of Christ: love for neighbor ([[JOH.13:34]]). The standard by which we judge is that by which we will be judged; the mercy we give will be the mercy we receive. \"God has shown mercy to us. Let us in our turn show mercy: let us feed the poor, and with the divine water of fasting let us wash the defilement from our souls.... O heavenly angels, entreat the Giver of good to accept in His infinite mercy our poor and mean repentance\" (Matins, Friday before Lent)."
     }
   ]
 }

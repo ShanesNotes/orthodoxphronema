@@ -2,15 +2,25 @@
   "anchor_id": "JER.38:27",
   "canon_uri": "canon/OT/JER.md#JER.38:27",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "'Therefore, behold, days are coming,' says the Lord, 'when I will sow Israel and Judah with the seed of man and the seed of cattle.",
+  "pericope": {
+    "id": "JER.P050",
+    "title": "Seventy Years of Disgrace",
+    "range": "JER.24:10-38:39",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/MAT_footnotes.md",
-      "line_number": 1949,
+      "source_file": "study/footnotes/NT/MAT_footnotes.md",
+      "line_number": 1259,
       "raw_match": "[[JER.38:27]]",
       "reference_type": "wikilink",
-      "context": "In the OT, metaphors of sowing and harvesting are common ([[PSA.125:5]]; [[JER.38:27]]-"
+      "context": "In the OT, metaphors of sowing and harvesting are common ([[PSA.125:5]]; [[JER.38:27]]- 30; [[HOS.2:21]]-23; [[JOL.3:12]]-14), as this was a part of daily life. Here, Jesus reveals Himself as the promised Messiah, the sower in the earth, who had been foretold in Is 55:10-13."
     }
   ]
 }

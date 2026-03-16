@@ -2,15 +2,25 @@
   "anchor_id": "1TI.4:14",
   "canon_uri": "canon/NT/1TI.md#1TI.4:14",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Do not neglect the gift that is in you, which was given to you by prophecy with the laying on of the hands of the eldership.",
+  "pericope": {
+    "id": "1TI.P014",
+    "title": "Self-Discipline in Ministry",
+    "range": "1TI.4:11-4:15",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/JAS_footnotes.md",
-      "line_number": 443,
+      "source_file": "study/footnotes/NT/JAS_footnotes.md",
+      "line_number": 280,
       "raw_match": "[[1TI.4:14]]",
       "reference_type": "wikilink",
-      "context": "laying on of hands (see [[1TI.4:14]]). Prayer is combined with olive oil--not only the primary"
+      "context": "The sick person is to call for the elders (presbyters) for prayer. Salvation deals with the whole person, for each human being is a unity, body and soul. Hence, this sacrament has a double purpose: not only for healing but for forgiveness also. The presbyter (shortened form: priest) is given certain gifts of the ministry at ordination, the laying on of hands (see [[1TI.4:14]]). Prayer is combined with olive oil--not only the primary medicine of ancient times, but also a symbol of the Holy Spirit in the Church--in a single sacrament that effects a healing for the whole person. Thus, the elements of the sacrament of healing include (1) the presbyter or priest (v. 13); (2) the prayer of (the) faith that will save (v. 15), connected with (3) the work of Christ Himself, for the Lord will raise us up, and (4) the Holy Spirit, manifested in the oil; and (5) confession of sins just prior to the anointing with oil, which explains why James writes if he has committed sins, he will be forgiven (v. 15). In the Orthodox Church, this sacrament is granted anyone who is sick, whether in danger of dying or not."
     }
   ]
 }

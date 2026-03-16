@@ -2,15 +2,25 @@
   "anchor_id": "JOL.2:16",
   "canon_uri": "canon/OT/JOL.md#JOL.2:16",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "gather the people, sanctify the congregation, call out the elders, and gather the nursing infants. Let the bridegroom go out from his bedchamber and the bride out of her bridal chamber.",
+  "pericope": {
+    "id": "JOL.P004",
+    "title": "The Day of the Lord",
+    "range": "JOL.2:1-2:27",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/EZR_footnotes.md",
-      "line_number": 262,
+      "source_file": "study/footnotes/OT/EZR_footnotes.md",
+      "line_number": 190,
       "raw_match": "[[JOL.2:12]]-17",
       "reference_type": "wikilink_range",
-      "context": "of God, and in securing His power against the enemy ([[EST.4:16]]; [[JOL.2:12]]-17; [[MAT.17:17]]-"
+      "context": "A fast by the faithful has tremendous power in helping to discern the right way of God, and in securing His power against the enemy ([[EST.4:16]]; [[JOL.2:12]]-17; [[MAT.17:17]]- 21)."
     }
   ]
 }

@@ -2,12 +2,22 @@
   "anchor_id": "REV.9:17",
   "canon_uri": "canon/NT/REV.md#REV.9:17",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "And thus I saw the horses in the vision: those who sat on them had breastplates of fiery red, hyacinth blue, and sulfur yellow; and the heads of the horses were like the heads of lions; and out of their mouths came fire, smoke, and brimstone.",
+  "pericope": {
+    "id": "REV.P027",
+    "title": "Trumpet Six, Woe Two: The Plagues",
+    "range": "REV.9:12-9:20",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/2MA_footnotes.md",
-      "line_number": 481,
+      "source_file": "study/footnotes/OT/2MA_footnotes.md",
+      "line_number": 411,
       "raw_match": "[[REV.9:17]]",
       "reference_type": "wikilink",
       "context": "See [[REV.9:17]]."

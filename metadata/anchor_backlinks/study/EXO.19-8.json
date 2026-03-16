@@ -2,15 +2,25 @@
   "anchor_id": "EXO.19:8",
   "canon_uri": "canon/OT/EXO.md#EXO.19:8",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Then all the people answered with one accord and said, 'Everything the Lord said we will do and hearken to.' So Moses reported these words to God.",
+  "pericope": {
+    "id": "EXO.P035",
+    "title": "Israel at Sinai",
+    "range": "EXO.18:27-19:24",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/MAT_footnotes.md",
-      "line_number": 605,
+      "source_file": "study/footnotes/NT/MAT_footnotes.md",
+      "line_number": 393,
       "raw_match": "[[EXO.19:3]]-13",
       "reference_type": "wikilink_range",
-      "context": "5:1, 2 In the OT, only a select few were chosen to hear God directly (see [[EXO.19:3]]-13). Here,"
+      "context": "Note that the crowds do not swarm Jesus when He commands repentance (v. 17), but only when He begins to heal and work miracles. This fact shows that the people misunderstand the true nature of His Kingdom. It also shows Christ's concession \"to give credibility to what He teaches\" among the fickle multitudes (Theoph). 5:1, 2 In the OT, only a select few were chosen to hear God directly (see [[EXO.19:3]]-13). Here, God Incarnate speaks to the multitudes face to face. The mountain is a place where divine action enters human history, the place where God reveals Himself to man (17:1; [[GEN.22:2]]; [[EXO.3:1]]; 19:2; 3Kg 18:20). Seated is the traditional Jewish position for teaching with authority. Some early Christian preachers (for example, St. John Chrysostom) sat while the people stood. Matthew mentioning that Jesus opened his mouth emphasizes this teaching is \"one-way,\" that Jesus has come to speak with authority (7:29), and the disciples are there not to discuss or debate, but to listen."
     }
   ]
 }

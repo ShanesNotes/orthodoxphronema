@@ -2,15 +2,25 @@
   "anchor_id": "REV.3:1",
   "canon_uri": "canon/NT/REV.md#REV.3:1",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "'And to the angel of the church in Sardis write, 'These things says He who has the seven Spirits of God and the seven stars: 'I know your works, that you have name that you are alive, but you are dead.",
+  "pericope": {
+    "id": "REV.P007",
+    "title": "Thyatira: Corrupt",
+    "range": "REV.2:17-3:5",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/PRO_footnotes.md",
-      "line_number": 597,
+      "source_file": "study/footnotes/OT/PRO_footnotes.md",
+      "line_number": 409,
       "raw_match": "[[REV.3:1]]",
       "reference_type": "wikilink",
-      "context": "God\" ([[REV.3:1]]). These seven spirits are the graces of the Holy Spirit that rested on Christ, summarized in Is 11:2, 3: wisdom, understanding, counsel, might, knowledge, godliness, and the fear of God. These are the \"seven pillars\" by which the Church is supported"
+      "context": "Wisdom is Christ, and He built His house. This house is first the Virgin Mary, the Mother of God, for He was conceived in her womb. Secondly, His house is the Church ([[HEB.3:1]]-6). This house is built on Christ, on the Mother of God, and on the apostles and prophets. Christ Himself is the Chief Cornerstone ([[EPH.2:19]]-22). The seven pillars of the Church is the Holy Spirit, who is called \"the seven Spirits of God\" ([[REV.3:1]]). These seven spirits are the graces of the Holy Spirit that rested on Christ, summarized in Is 11:2, 3: wisdom, understanding, counsel, might, knowledge, godliness, and the fear of God. These are the \"seven pillars\" by which the Church is supported through Christ."
     }
   ]
 }

@@ -2,15 +2,25 @@
   "anchor_id": "LUK.2:21",
   "canon_uri": "canon/NT/LUK.md#LUK.2:21",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "And when eight days were completed for the circumcision of the Child,His name was called JESUS, the name given by the angel before He was conceived in the womb.",
+  "pericope": {
+    "id": "LUK.P009",
+    "title": "Jesus Dedicated in the Temple",
+    "range": "LUK.2:21-2:22",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/GEN_footnotes.md",
-      "line_number": 875,
+      "source_file": "study/footnotes/OT/GEN_footnotes.md",
+      "line_number": 620,
       "raw_match": "[[LUK.2:21]]",
       "reference_type": "wikilink",
-      "context": "eighth day after His birth from the Virgin ([[LUK.2:21]])."
+      "context": "The rite of circumcision was not the covenant itself. It was a sign of the covenant (v. 11). It was a temporary sign, because it applied only to Abraham's genealogy (v. 12), that is, to Abraham's physical lineage, and also to those born in his house or bought with his money. Thus, the rite did not apply to the \"many nations,\" or Gentiles, to be made righteous by faith in the gospel (v. 3; see also [[ROM.4:9]]-17). Christ Himself fulfilled this rite and brought it to an end when He was circumcised on the eighth day after His birth from the Virgin ([[LUK.2:21]])."
     }
   ]
 }

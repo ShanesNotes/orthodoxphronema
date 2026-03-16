@@ -2,22 +2,32 @@
   "anchor_id": "DEU.21:23",
   "canon_uri": "canon/OT/DEU.md#DEU.21:23",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "his body shall not remain overnight on the tree, but you shall surely bury him that day; for he who is hanged on a tree is accursed of God; that you do not defile the land the Lord your God gives you as an inheritance.",
+  "pericope": {
+    "id": "DEU.P047",
+    "title": "A Rebellious Son",
+    "range": "DEU.21:17-22:11",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/ACT_footnotes.md",
-      "line_number": 405,
+      "source_file": "study/footnotes/NT/ACT_footnotes.md",
+      "line_number": 273,
       "raw_match": "[[DEU.21:23]]",
       "reference_type": "wikilink",
-      "context": "dead tree brings life to mankind through Jesus. See also [[DEU.21:23]]; [[GAL.3:13]]."
+      "context": "Christ's Cross is often referred to as a tree, both because it is made of wood and because trees were often used to crucify criminals. There is also a deeper meaning in this term, for just as a living tree brought death to mankind through Adam ([[GEN.2:17]]), now a dead tree brings life to mankind through Jesus. See also [[DEU.21:23]]; [[GAL.3:13]]."
     },
     {
-      "source_file": "staging/validated/OT/JDT_footnotes.md",
-      "line_number": 402,
+      "source_file": "study/footnotes/OT/JDT_footnotes.md",
+      "line_number": 252,
       "raw_match": "[[DEU.21:23]]",
       "reference_type": "wikilink",
-      "context": "his disgrace ([[DEU.21:22]], [[DEU.21:23]]). 14:5"
+      "context": "). 12:10 The officers were excluded so as to limit the feast to a private household affair. 12:12 Passions (in this case, lust) can affect moral judgment to the point that evil is considered good (Is 5:18-23). Holofernes is so enmeshed in his passion he considers it a disgrace if we do not seduce her. 12:14 Again, Judith's words are deliberately ambiguous (see 11:6, note). Bagoas understands my lord to refer to Holofernes, but Judith means \"my Lord.\" 12:15 Holofernes' intent upon Judith had been made plain by the lambskins. They were used for bedding, not to recline on to eat a meal. 12:16 Ravished does not mean filled with joy. Rather, it here indicates a violent seizing of one's senses which results in senselessness, even insanity. 13:2-3 Holofernes' being unconscious from the wine explains why Bagoas unquestioningly accepts Judith's words that she would go out to pray. Of course, she was preparing for her unhindered departure. 13:4-5 Judith prayer was said in her heart to keep this final petition for blessing between herself and the Lord and away from prying ears. 13:6, 7 Holofernes' sword and Judith's plea O Lord... strengthen me brings to mind [[PSA.36:15]], [[PSA.36:17]], [[PSA.36:39]]. 13:13 Her return was incredible to them because, in their weakness of faith, they thought her departure had meant her certain death. 13:14 Praise God contains an allusion to the etymology of the name Judith, which means \"Jewess\" or \"praise\" (see [[GEN.49:8]]). 13:15 That Holofernes died by the hand of a woman emphasizes the shame associated with his being so weak as to have succumbed to such a death. 13:16 Judith here offers evidence that her act was consistent with God's will. 13:18-20 This blessing is a prototype of the blessing and veneration the Church gives to the Theotokos. 14:1 This public display of the head (or body) of a fallen enemy leader was done to reveal his disgrace ([[DEU.21:22]], [[DEU.21:23]]). 14:5 The canopy (13:15) is a single witness to the identity of the head. Achior is a former ally of Holofernes who provides confirmation of the identity of the head. 14:10 For an Ammonite to be membered with the house of Israel is in contradiction to the law ([[DEU.23:4]], [[DEU.23:5]]). So also is the salvation of all Gentiles. 15:8 They would have greeted her with words similar to St. Paul's salutation to the Thessalonians, \"Now may the Lord of peace Himself give you peace always in every way. The Lord be with you all\" ([[2TH.3:16]]), a typical Jewish greeting. 15:13 The songs of praise would likely have included the Psalms of Ascent (120-134). 16:2 This verse alludes to [[PSA.17:48]]. 16:3 The mountains of the north was the typical path of advance against Israel by the kingdoms of the east in order to avoid a march across the Arabian desert. 16:5-6 See Is 57:13. 16:6 The Titans' sons are likely Goliath and his kin (2Kg 21:18-22). 16:10 The Persians and the Medes are a reminder that this story is set in the time after the return from captivity."
     }
   ]
 }

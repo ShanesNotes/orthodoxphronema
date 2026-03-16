@@ -2,29 +2,39 @@
   "anchor_id": "MRK.14:51",
   "canon_uri": "canon/NT/MRK.md#MRK.14:51",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Now a certain young man followed Him, having a linen cloth thrown around his naked body. And the young men laid hold of him,",
+  "pericope": {
+    "id": "MRK.P054",
+    "title": "Jesus Is Arrested",
+    "range": "MRK.14:42-14:51",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/JOH_footnotes.md",
-      "line_number": 2985,
+      "source_file": "study/footnotes/NT/JOH_footnotes.md",
+      "line_number": 1919,
       "raw_match": "[[MRK.14:51]]",
       "reference_type": "wikilink",
-      "context": "an author to conceal his name in the details of his story (see 13:23; compare [[MRK.14:51]], [[MRK.14:52]];"
+      "context": "This other disciple is John, the author of this Gospel. It was a common practice for an author to conceal his name in the details of his story (see 13:23; compare [[MRK.14:51]], [[MRK.14:52]]; [[LUK.24:13]], [[LUK.24:18]])."
     },
     {
-      "source_file": "staging/validated/NT/LUK_footnotes.md",
-      "line_number": 3149,
+      "source_file": "study/footnotes/NT/LUK_footnotes.md",
+      "line_number": 2101,
       "raw_match": "[[MRK.14:51]]",
       "reference_type": "wikilink",
-      "context": "was a common literary device for a writer not to give his own name (see [[MRK.14:51]]; Jn"
+      "context": "The two of them are Cleopas (v. 18) and, according to tradition, Luke himself. It was a common literary device for a writer not to give his own name (see [[MRK.14:51]]; Jn 21:24)."
     },
     {
-      "source_file": "staging/validated/NT/REV_footnotes.md",
-      "line_number": 2283,
+      "source_file": "study/footnotes/NT/REV_footnotes.md",
+      "line_number": 1410,
       "raw_match": "[[MRK.14:51]]",
       "reference_type": "wikilink",
-      "context": "stripped of their garments, their vesture, then and there (see [[MRK.14:51]]). A Christian's"
+      "context": "In a parenthetical comment, we are told that this Day of the Lord will see Him coming unexpectedly as a thief in the night (see 3:3; [[MAT.24:42]]-44; [[1TH.5:2]]). Like the wise virgins who stand in readiness for the bridegroom who comes at midnight, the Lord exhorts His blessed faithful here to remain vigilant as well. It is said that the officer on duty at the Jerusalem temple was to see that his night guards kept awake during their watch. If they were caught asleep, they were beaten. If caught a second time, they were stripped of their garments, their vesture, then and there (see [[MRK.14:51]]). A Christian's garment is his white baptismal robe, \"the garment of righteousness,\" the putting on of Christ."
     }
   ]
 }

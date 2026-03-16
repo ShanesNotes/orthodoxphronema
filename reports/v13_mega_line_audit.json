@@ -1,0 +1,853 @@
+{
+  "summary": {
+    "v13": {
+      "pass": 55,
+      "warn": 3,
+      "fail": 19
+    },
+    "v5": {
+      "pass": 76,
+      "warn": 0,
+      "fail": 1
+    }
+  },
+  "v13_fail_books": {
+    "02_EXO": [
+      {
+        "anchor": "EXO.12:1",
+        "line": 380,
+        "length": 3752,
+        "classification": "article_bleed",
+        "allcaps_words": [
+          "CHRIST"
+        ],
+        "embedded_verse_count": 13
+      },
+      {
+        "anchor": "EXO.13:1",
+        "line": 445,
+        "length": 8422,
+        "classification": "verse_fusing",
+        "allcaps_words": [],
+        "embedded_verse_count": 41
+      },
+      {
+        "anchor": "EXO.14:1",
+        "line": 481,
+        "length": 4829,
+        "classification": "verse_fusing",
+        "allcaps_words": [],
+        "embedded_verse_count": 27
+      },
+      {
+        "anchor": "EXO.21:1",
+        "line": 716,
+        "length": 7928,
+        "classification": "article_bleed",
+        "allcaps_words": [
+          "IMAGES",
+          "IMAGERY"
+        ],
+        "embedded_verse_count": 28
+      },
+      {
+        "anchor": "EXO.25:1",
+        "line": 875,
+        "length": 4666,
+        "classification": "verse_fusing",
+        "allcaps_words": [],
+        "embedded_verse_count": 29
+      },
+      {
+        "anchor": "EXO.31:1",
+        "line": 1158,
+        "length": 2340,
+        "classification": "verse_fusing",
+        "allcaps_words": [],
+        "embedded_verse_count": 7
+      }
+    ],
+    "03_LEV": [
+      {
+        "anchor": "LEV.4:1",
+        "line": 82,
+        "length": 5939,
+        "classification": "verse_fusing",
+        "allcaps_words": [],
+        "embedded_verse_count": 24
+      },
+      {
+        "anchor": "LEV.6:1",
+        "line": 156,
+        "length": 3420,
+        "classification": "verse_fusing",
+        "allcaps_words": [],
+        "embedded_verse_count": 17
+      },
+      {
+        "anchor": "LEV.7:1",
+        "line": 190,
+        "length": 10518,
+        "classification": "verse_fusing",
+        "allcaps_words": [],
+        "embedded_verse_count": 54
+      },
+      {
+        "anchor": "LEV.8:1",
+        "line": 236,
+        "length": 5075,
+        "classification": "verse_fusing",
+        "allcaps_words": [],
+        "embedded_verse_count": 25
+      },
+      {
+        "anchor": "LEV.14:1",
+        "line": 466,
+        "length": 16457,
+        "classification": "article_bleed",
+        "allcaps_words": [
+          "SACRIFICE",
+          "COVENANT"
+        ],
+        "embedded_verse_count": 72
+      },
+      {
+        "anchor": "LEV.15:1",
+        "line": 531,
+        "length": 8179,
+        "classification": "article_bleed",
+        "allcaps_words": [
+          "SACRIFICE",
+          "COVENANT"
+        ],
+        "embedded_verse_count": 33
+      },
+      {
+        "anchor": "LEV.18:1",
+        "line": 635,
+        "length": 15467,
+        "classification": "verse_fusing",
+        "allcaps_words": [],
+        "embedded_verse_count": 83
+      },
+      {
+        "anchor": "LEV.19:1",
+        "line": 670,
+        "length": 11750,
+        "classification": "verse_fusing",
+        "allcaps_words": [],
+        "embedded_verse_count": 60
+      },
+      {
+        "anchor": "LEV.20:1",
+        "line": 712,
+        "length": 6908,
+        "classification": "verse_fusing",
+        "allcaps_words": [],
+        "embedded_verse_count": 35
+      },
+      {
+        "anchor": "LEV.22:1",
+        "line": 770,
+        "length": 5709,
+        "classification": "article_bleed",
+        "allcaps_words": [
+          "PENTECOST"
+        ],
+        "embedded_verse_count": 24
+      },
+      {
+        "anchor": "LEV.23:1",
+        "line": 811,
+        "length": 1025,
+        "classification": "article_bleed",
+        "allcaps_words": [
+          "PENTECOST"
+        ],
+        "embedded_verse_count": 1
+      },
+      {
+        "anchor": "LEV.24:1",
+        "line": 880,
+        "length": 11033,
+        "classification": "verse_fusing",
+        "allcaps_words": [],
+        "embedded_verse_count": 55
+      },
+      {
+        "anchor": "LEV.25:1",
+        "line": 914,
+        "length": 8092,
+        "classification": "verse_fusing",
+        "allcaps_words": [],
+        "embedded_verse_count": 40
+      }
+    ],
+    "04_NUM": [
+      {
+        "anchor": "NUM.6:1",
+        "line": 285,
+        "length": 4033,
+        "classification": "verse_fusing",
+        "allcaps_words": [],
+        "embedded_verse_count": 13
+      },
+      {
+        "anchor": "NUM.26:1",
+        "line": 1129,
+        "length": 7866,
+        "classification": "verse_fusing",
+        "allcaps_words": [],
+        "embedded_verse_count": 49
+      },
+      {
+        "anchor": "NUM.28:1",
+        "line": 1230,
+        "length": 4367,
+        "classification": "verse_fusing",
+        "allcaps_words": [],
+        "embedded_verse_count": 16
+      },
+      {
+        "anchor": "NUM.31:1",
+        "line": 1344,
+        "length": 6487,
+        "classification": "verse_fusing",
+        "allcaps_words": [],
+        "embedded_verse_count": 33
+      },
+      {
+        "anchor": "NUM.34:1",
+        "line": 1520,
+        "length": 8560,
+        "classification": "verse_fusing",
+        "allcaps_words": [],
+        "embedded_verse_count": 29
+      },
+      {
+        "anchor": "NUM.35:1",
+        "line": 1557,
+        "length": 5375,
+        "classification": "verse_fusing",
+        "allcaps_words": [],
+        "embedded_verse_count": 23
+      }
+    ],
+    "06_JOS": [
+      {
+        "anchor": "JOS.1:1",
+        "line": 17,
+        "length": 2740,
+        "classification": "verse_fusing",
+        "allcaps_words": [],
+        "embedded_verse_count": 11
+      },
+      {
+        "anchor": "JOS.6:1",
+        "line": 149,
+        "length": 4275,
+        "classification": "verse_fusing",
+        "allcaps_words": [],
+        "embedded_verse_count": 20
+      },
+      {
+        "anchor": "JOS.10:1",
+        "line": 287,
+        "length": 10409,
+        "classification": "verse_fusing",
+        "allcaps_words": [],
+        "embedded_verse_count": 52
+      },
+      {
+        "anchor": "JOS.11:1",
+        "line": 336,
+        "length": 3705,
+        "classification": "verse_fusing",
+        "allcaps_words": [],
+        "embedded_verse_count": 17
+      },
+      {
+        "anchor": "JOS.13:1",
+        "line": 399,
+        "length": 8134,
+        "classification": "verse_fusing",
+        "allcaps_words": [],
+        "embedded_verse_count": 43
+      },
+      {
+        "anchor": "JOS.16:1",
+        "line": 543,
+        "length": 1830,
+        "classification": "verse_fusing",
+        "allcaps_words": [],
+        "embedded_verse_count": 6
+      }
+    ],
+    "07_JDG": [
+      {
+        "anchor": "JDG.3:1",
+        "line": 107,
+        "length": 8781,
+        "classification": "verse_fusing",
+        "allcaps_words": [],
+        "embedded_verse_count": 45
+      },
+      {
+        "anchor": "JDG.4:1",
+        "line": 152,
+        "length": 3921,
+        "classification": "verse_fusing",
+        "allcaps_words": [],
+        "embedded_verse_count": 21
+      },
+      {
+        "anchor": "JDG.9:1",
+        "line": 341,
+        "length": 8792,
+        "classification": "verse_fusing",
+        "allcaps_words": [],
+        "embedded_verse_count": 40
+      },
+      {
+        "anchor": "JDG.19:1",
+        "line": 683,
+        "length": 5526,
+        "classification": "verse_fusing",
+        "allcaps_words": [],
+        "embedded_verse_count": 27
+      }
+    ],
+    "10_2SA": [
+      {
+        "anchor": "2SA.14:1",
+        "line": 458,
+        "length": 5747,
+        "classification": "verse_fusing",
+        "allcaps_words": [],
+        "embedded_verse_count": 30
+      }
+    ],
+    "11_1KI": [
+      {
+        "anchor": "1KI.2:1",
+        "line": 83,
+        "length": 2039,
+        "classification": "oversized",
+        "allcaps_words": [],
+        "embedded_verse_count": 3
+      },
+      {
+        "anchor": "1KI.12:33",
+        "line": 614,
+        "length": 534,
+        "classification": "oversized",
+        "allcaps_words": [],
+        "embedded_verse_count": 0
+      }
+    ],
+    "12_2KI": [
+      {
+        "anchor": "2KI.10:1",
+        "line": 359,
+        "length": 6812,
+        "classification": "verse_fusing",
+        "allcaps_words": [],
+        "embedded_verse_count": 24
+      }
+    ],
+    "13_1CH": [
+      {
+        "anchor": "1CH.1:1",
+        "line": 17,
+        "length": 2967,
+        "classification": "verse_fusing",
+        "allcaps_words": [],
+        "embedded_verse_count": 25
+      },
+      {
+        "anchor": "1CH.2:1",
+        "line": 76,
+        "length": 6902,
+        "classification": "verse_fusing",
+        "allcaps_words": [],
+        "embedded_verse_count": 49
+      },
+      {
+        "anchor": "1CH.3:1",
+        "line": 148,
+        "length": 2192,
+        "classification": "verse_fusing",
+        "allcaps_words": [],
+        "embedded_verse_count": 11
+      },
+      {
+        "anchor": "1CH.5:1",
+        "line": 234,
+        "length": 4581,
+        "classification": "verse_fusing",
+        "allcaps_words": [],
+        "embedded_verse_count": 20
+      },
+      {
+        "anchor": "1CH.8:1",
+        "line": 426,
+        "length": 8105,
+        "classification": "verse_fusing",
+        "allcaps_words": [],
+        "embedded_verse_count": 48
+      },
+      {
+        "anchor": "1CH.9:1",
+        "line": 474,
+        "length": 5497,
+        "classification": "verse_fusing",
+        "allcaps_words": [],
+        "embedded_verse_count": 27
+      },
+      {
+        "anchor": "1CH.12:1",
+        "line": 611,
+        "length": 5405,
+        "classification": "verse_fusing",
+        "allcaps_words": [],
+        "embedded_verse_count": 14
+      },
+      {
+        "anchor": "1CH.13:1",
+        "line": 660,
+        "length": 2025,
+        "classification": "verse_fusing",
+        "allcaps_words": [],
+        "embedded_verse_count": 12
+      },
+      {
+        "anchor": "1CH.23:1",
+        "line": 947,
+        "length": 3667,
+        "classification": "verse_fusing",
+        "allcaps_words": [],
+        "embedded_verse_count": 26
+      },
+      {
+        "anchor": "1CH.25:1",
+        "line": 1023,
+        "length": 3069,
+        "classification": "verse_fusing",
+        "allcaps_words": [],
+        "embedded_verse_count": 7
+      }
+    ],
+    "14_2CH": [
+      {
+        "anchor": "2CH.4:1",
+        "line": 87,
+        "length": 2907,
+        "classification": "verse_fusing",
+        "allcaps_words": [],
+        "embedded_verse_count": 15
+      },
+      {
+        "anchor": "2CH.8:1",
+        "line": 219,
+        "length": 2824,
+        "classification": "verse_fusing",
+        "allcaps_words": [],
+        "embedded_verse_count": 13
+      },
+      {
+        "anchor": "2CH.10:1",
+        "line": 286,
+        "length": 2987,
+        "classification": "verse_fusing",
+        "allcaps_words": [],
+        "embedded_verse_count": 14
+      },
+      {
+        "anchor": "2CH.14:1",
+        "line": 403,
+        "length": 2093,
+        "classification": "verse_fusing",
+        "allcaps_words": [],
+        "embedded_verse_count": 12
+      },
+      {
+        "anchor": "2CH.17:1",
+        "line": 474,
+        "length": 2452,
+        "classification": "verse_fusing",
+        "allcaps_words": [],
+        "embedded_verse_count": 13
+      },
+      {
+        "anchor": "2CH.18:1",
+        "line": 502,
+        "length": 5268,
+        "classification": "verse_fusing",
+        "allcaps_words": [],
+        "embedded_verse_count": 28
+      }
+    ],
+    "16_EZR": [
+      {
+        "anchor": "EZR.4:1",
+        "line": 132,
+        "length": 4137,
+        "classification": "verse_fusing",
+        "allcaps_words": [],
+        "embedded_verse_count": 15
+      },
+      {
+        "anchor": "EZR.7:1",
+        "line": 216,
+        "length": 9911,
+        "classification": "verse_fusing",
+        "allcaps_words": [],
+        "embedded_verse_count": 27
+      },
+      {
+        "anchor": "EZR.8:1",
+        "line": 256,
+        "length": 5525,
+        "classification": "verse_fusing",
+        "allcaps_words": [],
+        "embedded_verse_count": 13
+      }
+    ],
+    "17_NEH": [
+      {
+        "anchor": "NEH.10:1",
+        "line": 585,
+        "length": 3832,
+        "classification": "verse_fusing",
+        "allcaps_words": [],
+        "embedded_verse_count": 8
+      }
+    ],
+    "18_TOB": [
+      {
+        "anchor": "TOB.3:1",
+        "line": 63,
+        "length": 3176,
+        "classification": "verse_fusing",
+        "allcaps_words": [],
+        "embedded_verse_count": 14
+      },
+      {
+        "anchor": "TOB.6:1",
+        "line": 142,
+        "length": 3183,
+        "classification": "verse_fusing",
+        "allcaps_words": [],
+        "embedded_verse_count": 16
+      },
+      {
+        "anchor": "TOB.9:1",
+        "line": 214,
+        "length": 4805,
+        "classification": "verse_fusing",
+        "allcaps_words": [],
+        "embedded_verse_count": 29
+      },
+      {
+        "anchor": "TOB.10:1",
+        "line": 225,
+        "length": 4264,
+        "classification": "verse_fusing",
+        "allcaps_words": [],
+        "embedded_verse_count": 25
+      },
+      {
+        "anchor": "TOB.11:1",
+        "line": 247,
+        "length": 2180,
+        "classification": "verse_fusing",
+        "allcaps_words": [],
+        "embedded_verse_count": 15
+      }
+    ],
+    "19_JDT": [
+      {
+        "anchor": "JDT.3:1",
+        "line": 74,
+        "length": 4107,
+        "classification": "verse_fusing",
+        "allcaps_words": [],
+        "embedded_verse_count": 21
+      },
+      {
+        "anchor": "JDT.10:1",
+        "line": 270,
+        "length": 3975,
+        "classification": "verse_fusing",
+        "allcaps_words": [],
+        "embedded_verse_count": 19
+      }
+    ],
+    "20_EST": [
+      {
+        "anchor": "EST.1:1",
+        "line": 17,
+        "length": 1181,
+        "classification": "oversized",
+        "allcaps_words": [],
+        "embedded_verse_count": 0
+      },
+      {
+        "anchor": "EST.1:3",
+        "line": 24,
+        "length": 769,
+        "classification": "oversized",
+        "allcaps_words": [],
+        "embedded_verse_count": 0
+      },
+      {
+        "anchor": "EST.3:14",
+        "line": 113,
+        "length": 1088,
+        "classification": "oversized",
+        "allcaps_words": [],
+        "embedded_verse_count": 0
+      },
+      {
+        "anchor": "EST.3:15",
+        "line": 118,
+        "length": 807,
+        "classification": "oversized",
+        "allcaps_words": [],
+        "embedded_verse_count": 0
+      },
+      {
+        "anchor": "EST.4:18",
+        "line": 145,
+        "length": 818,
+        "classification": "oversized",
+        "allcaps_words": [],
+        "embedded_verse_count": 0
+      },
+      {
+        "anchor": "EST.4:23",
+        "line": 154,
+        "length": 921,
+        "classification": "oversized",
+        "allcaps_words": [],
+        "embedded_verse_count": 0
+      },
+      {
+        "anchor": "EST.4:24",
+        "line": 155,
+        "length": 582,
+        "classification": "oversized",
+        "allcaps_words": [],
+        "embedded_verse_count": 0
+      },
+      {
+        "anchor": "EST.4:25",
+        "line": 160,
+        "length": 743,
+        "classification": "oversized",
+        "allcaps_words": [],
+        "embedded_verse_count": 0
+      },
+      {
+        "anchor": "EST.8:14",
+        "line": 272,
+        "length": 1296,
+        "classification": "oversized",
+        "allcaps_words": [],
+        "embedded_verse_count": 0
+      },
+      {
+        "anchor": "EST.8:15",
+        "line": 273,
+        "length": 1129,
+        "classification": "oversized",
+        "allcaps_words": [],
+        "embedded_verse_count": 0
+      },
+      {
+        "anchor": "EST.8:17",
+        "line": 279,
+        "length": 968,
+        "classification": "oversized",
+        "allcaps_words": [],
+        "embedded_verse_count": 0
+      },
+      {
+        "anchor": "EST.10:5",
+        "line": 348,
+        "length": 525,
+        "classification": "oversized",
+        "allcaps_words": [],
+        "embedded_verse_count": 0
+      },
+      {
+        "anchor": "EST.10:6",
+        "line": 351,
+        "length": 518,
+        "classification": "oversized",
+        "allcaps_words": [],
+        "embedded_verse_count": 0
+      }
+    ],
+    "36_JON": [
+      {
+        "anchor": "JON.1:1",
+        "line": 17,
+        "length": 2312,
+        "classification": "verse_fusing",
+        "allcaps_words": [],
+        "embedded_verse_count": 14
+      },
+      {
+        "anchor": "JON.3:1",
+        "line": 53,
+        "length": 1365,
+        "classification": "verse_fusing",
+        "allcaps_words": [],
+        "embedded_verse_count": 7
+      }
+    ],
+    "39_ZEP": [
+      {
+        "anchor": "ZEP.2:1",
+        "line": 40,
+        "length": 2535,
+        "classification": "verse_fusing",
+        "allcaps_words": [],
+        "embedded_verse_count": 12
+      },
+      {
+        "anchor": "ZEP.3:1",
+        "line": 60,
+        "length": 3471,
+        "classification": "verse_fusing",
+        "allcaps_words": [],
+        "embedded_verse_count": 15
+      }
+    ],
+    "41_ZEC": [
+      {
+        "anchor": "ZEC.8:1",
+        "line": 156,
+        "length": 3705,
+        "classification": "verse_fusing",
+        "allcaps_words": [],
+        "embedded_verse_count": 9
+      }
+    ],
+    "44_JER": [
+      {
+        "anchor": "JER.2:1",
+        "line": 44,
+        "length": 1452,
+        "classification": "article_bleed",
+        "allcaps_words": [
+          "TRANSGRESSION",
+          "PROPHETS"
+        ],
+        "embedded_verse_count": 2
+      },
+      {
+        "anchor": "JER.11:1",
+        "line": 370,
+        "length": 3543,
+        "classification": "verse_fusing",
+        "allcaps_words": [],
+        "embedded_verse_count": 14
+      },
+      {
+        "anchor": "JER.14:1",
+        "line": 463,
+        "length": 3740,
+        "classification": "verse_fusing",
+        "allcaps_words": [],
+        "embedded_verse_count": 19
+      },
+      {
+        "anchor": "JER.16:1",
+        "line": 522,
+        "length": 3428,
+        "classification": "verse_fusing",
+        "allcaps_words": [],
+        "embedded_verse_count": 15
+      },
+      {
+        "anchor": "JER.23:1",
+        "line": 725,
+        "length": 6326,
+        "classification": "verse_fusing",
+        "allcaps_words": [],
+        "embedded_verse_count": 27
+      },
+      {
+        "anchor": "JER.29:1",
+        "line": 1035,
+        "length": 1160,
+        "classification": "oversized",
+        "allcaps_words": [],
+        "embedded_verse_count": 3
+      },
+      {
+        "anchor": "JER.37:1",
+        "line": 1341,
+        "length": 2942,
+        "classification": "verse_fusing",
+        "allcaps_words": [],
+        "embedded_verse_count": 15
+      },
+      {
+        "anchor": "JER.42:1",
+        "line": 1578,
+        "length": 8058,
+        "classification": "verse_fusing",
+        "allcaps_words": [],
+        "embedded_verse_count": 33
+      }
+    ]
+  },
+  "v13_warn_books": {
+    "09_1SA": [
+      {
+        "anchor": "1SA.2:10",
+        "line": 63,
+        "length": 516,
+        "classification": "oversized",
+        "allcaps_words": [],
+        "embedded_verse_count": 0
+      }
+    ],
+    "23_3MA": [
+      {
+        "anchor": "3MA.4:11",
+        "line": 133,
+        "length": 503,
+        "classification": "oversized",
+        "allcaps_words": [],
+        "embedded_verse_count": 0
+      }
+    ],
+    "56_1CO": [
+      {
+        "anchor": "1CO.1:1",
+        "line": 20,
+        "length": 546,
+        "classification": "oversized",
+        "allcaps_words": [],
+        "embedded_verse_count": 0
+      },
+      {
+        "anchor": "1CO.1:3",
+        "line": 28,
+        "length": 539,
+        "classification": "oversized",
+        "allcaps_words": [],
+        "embedded_verse_count": 0
+      }
+    ]
+  },
+  "v5_fail_books": {
+    "02_EXO": [
+      "V5   Article header in canon at line 380: matched 'CHRIST\\\\ OUR\\\\ PASSOVER'"
+    ]
+  }
+}

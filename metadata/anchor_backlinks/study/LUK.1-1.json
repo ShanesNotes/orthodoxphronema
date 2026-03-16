@@ -1,0 +1,26 @@
+{
+  "anchor_id": "LUK.1:1",
+  "canon_uri": "canon/NT/LUK.md#LUK.1:1",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-15T23:42:04+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Inasmuch as many have taken in hand to set in order anarrative of those things which have been fulfilled aamong us,",
+  "pericope": {
+    "id": "LUK.P001",
+    "title": "John's Birth Announced to Zacharias",
+    "range": "LUK.1:1-1:24",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
+  "links": [
+    {
+      "source_file": "study/lectionary-notes/NT/LUK_lectionary.md",
+      "line_number": 12,
+      "raw_match": "[[LUK.1:1]]",
+      "reference_type": "wikilink",
+      "context": "**1:1-15** \u2014 [[LUK.1:1]]\u201315, 57\u201368, 76, 80: This passage is read on June 24, the Feast of the Birth of John the Baptist."
+    }
+  ]
+}

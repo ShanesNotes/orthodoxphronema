@@ -9,7 +9,7 @@ extracted: 2026-03-14
 
 # Lectionary Notes: DAN
 
-**2:31-36** — Dan 2:31–36, 44–45: This passage is read in Church on Christmas Eve.
+**2:31-36** — [[DAN.2:31]]–36, 44–45: This passage is read in Church on Christmas Eve.
 
 **3:1-90** — This passage is read on Great and Holy Saturday.
 

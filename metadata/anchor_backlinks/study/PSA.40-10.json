@@ -2,15 +2,25 @@
   "anchor_id": "PSA.40:10",
   "canon_uri": "canon/OT/PSA.md#PSA.40:10",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "For even the man of my peace, in whom I hoped, He who ate my bread, dealt deceptively with me;",
+  "pericope": {
+    "id": "PSA.P040",
+    "title": "Psalm 40",
+    "range": "PSA.40:1-40:14",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/JOH_footnotes.md",
-      "line_number": 2865,
+      "source_file": "study/footnotes/NT/JOH_footnotes.md",
+      "line_number": 1835,
       "raw_match": "[[PSA.40:10]]",
       "reference_type": "wikilink",
-      "context": "alludes to Judas ([[PSA.40:10]]; 108:2-13; [[ZEC.11:12]], [[ZEC.11:13]]), and Judas becomes a type for all who"
+      "context": "The son of perdition (\"destruction\") is Judas Iscariot (6:70, 71). OT prophecy alludes to Judas ([[PSA.40:10]]; 108:2-13; [[ZEC.11:12]], [[ZEC.11:13]]), and Judas becomes a type for all who will fall away in the last days (see [[2TH.2:3]], where \"son of perdition\" refers to the Antichrist)."
     }
   ]
 }

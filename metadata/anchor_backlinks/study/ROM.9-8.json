@@ -2,15 +2,25 @@
   "anchor_id": "ROM.9:8",
   "canon_uri": "canon/NT/ROM.md#ROM.9:8",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "That is, those who are the children of the flesh, these are not the children of God; but the children of the promise are counted as the seed.",
+  "pericope": {
+    "id": "ROM.P023",
+    "title": "God Is Sovereign, Faithful to Israel",
+    "range": "ROM.9:8-9:12",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/GEN_footnotes.md",
-      "line_number": 1076,
+      "source_file": "study/footnotes/OT/GEN_footnotes.md",
+      "line_number": 776,
       "raw_match": "[[ROM.9:8]]",
       "reference_type": "wikilink",
-      "context": "counted as Abraham's seed ([[ROM.9:8]]). These children are those who embrace Abraham's"
+      "context": "Thus, Sarah conceived, based on the word of promise. She did not conceive based on the power of the flesh, for both she and Abraham were past the time of childbearing. Therefore, it is not the children of the flesh--that is, Abraham's offspring through procreation--who are the children of God. Rather, the children of this promise are counted as Abraham's seed ([[ROM.9:8]]). These children are those who embrace Abraham's faith through the Lord Jesus Christ ([[GAL.3:16]])."
     }
   ]
 }

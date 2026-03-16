@@ -2,22 +2,32 @@
   "anchor_id": "MAT.10:5",
   "canon_uri": "canon/NT/MAT.md#MAT.10:5",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "These twelve Jesus sent out and commanded them, saying: 'Do not go into the way of the Gentiles, and do not enter a city of the Samaritans.",
+  "pericope": {
+    "id": "MAT.P027",
+    "title": "Mission and Instructions",
+    "range": "MAT.10:4-10:14",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/JOH_footnotes.md",
-      "line_number": 2153,
+      "source_file": "study/footnotes/NT/JOH_footnotes.md",
+      "line_number": 1375,
       "raw_match": "[[MAT.10:5]]",
       "reference_type": "wikilink",
-      "context": "Gentiles ([[MAT.10:5]]; 15:24), the disciples approach Him before bringing these inquirers."
+      "context": "These Greeks were Gentiles who believed in the God of Abraham, having come to participate in the Passover feast. That they were still called Greeks shows they were not yet full proselytes (converts). Since Jesus had taught His disciples not to go to the Gentiles ([[MAT.10:5]]; 15:24), the disciples approach Him before bringing these inquirers. Glorified (v. 23) refers to the Savior's death on the Cross. Christ's obscure response indicates two things: (1) the answer these Greeks are seeking will not be found in words, but in the Cross; and (2) the Cross will be the event that opens all manner of grace to the Gentiles."
     },
     {
-      "source_file": "staging/validated/NT/LUK_footnotes.md",
-      "line_number": 1239,
+      "source_file": "study/footnotes/NT/LUK_footnotes.md",
+      "line_number": 826,
       "raw_match": "[[MAT.10:5]]",
       "reference_type": "wikilink",
-      "context": "since our Lord forbade His disciples to go to the Gentiles ([[MAT.10:5]]) and was Himself"
+      "context": "Some teach that the presence of swine indicates a Gentile population. However, since our Lord forbade His disciples to go to the Gentiles ([[MAT.10:5]]) and was Himself reluctant to seek out the Gentiles ([[MAT.15:24]]), likely these were Jews engaged in a sinful occupation (see also the note at [[MAT.4:15]]). The destruction of the entire herd reveals: (1) while animals are a venerable part of creation, man is of far greater value; (2) Christ removes a source of sin, for swine herding was an abomination to the Jews ([[DEU.14:8]]); (3) demons have no power over creation, but are subject to the will of God--they could only enter the swine at Christ's command; (4) people are protected under God's providence--otherwise, the demon-possessed man would have come to the same end as the swine; (5) the magnitude of the economic loss would remain as a sign for the hardhearted people who fled that region (v. 34)."
     }
   ]
 }

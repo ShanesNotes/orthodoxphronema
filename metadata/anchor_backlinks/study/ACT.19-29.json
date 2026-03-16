@@ -2,11 +2,21 @@
   "anchor_id": "ACT.19:29",
   "canon_uri": "canon/NT/ACT.md#ACT.19:29",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "So the whole city was filled with confusion, and rushed into the theater with one accord, having seized Gaius and Aristarchus, Macedonians, Paul's travel companions.",
+  "pericope": {
+    "id": "ACT.P073",
+    "title": "A Greek Goddess Defended",
+    "range": "ACT.19:22-19:40",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/LUK_articles.md",
+      "source_file": "study/articles/NT/LUK_articles.md",
       "line_number": 38,
       "raw_match": "[[ACT.19:29]]",
       "reference_type": "wikilink",

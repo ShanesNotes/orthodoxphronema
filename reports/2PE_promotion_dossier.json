@@ -1,8 +1,8 @@
 {
   "book_code": "2PE",
   "testament": "NT",
-  "timestamp": "2026-03-13T13:36:31.041705",
-  "registry_version": "1.4.0",
+  "timestamp": "2026-03-15T18:29:25.540069",
+  "registry_version": "1.7.6",
   "body_checksum": "fdbf2d6e85e0770b31b8e4812f023a16818d2264a99ba683c1082ee6b7007fcb",
   "allow_incomplete": true,
   "staged_path": "/home/ark/orthodoxphronema/staging/validated/NT/2PE.md",

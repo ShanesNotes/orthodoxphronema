@@ -2,15 +2,25 @@
   "anchor_id": "PSA.79:16",
   "canon_uri": "canon/OT/PSA.md#PSA.79:16",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Which Your right hand planted, and perfect it. And visit the son of man, whom You strengthened for Yourself.",
+  "pericope": {
+    "id": "PSA.P079",
+    "title": "Psalm 79",
+    "range": "PSA.79:1-79:20",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/JOH_footnotes.md",
-      "line_number": 2595,
+      "source_file": "study/footnotes/NT/JOH_footnotes.md",
+      "line_number": 1664,
       "raw_match": "[[PSA.79:16]]",
       "reference_type": "wikilink",
-      "context": "of Christ, which He planted with His own right hand ([[PSA.79:15]], [[PSA.79:16]])."
+      "context": "The vine is a symbol of Israel (Is 5:1-7; [[JER.2:21]]). In contrast to disobedient and unfruitful Israel, our Lord calls Himself the true vine, which together with the branches constitutes a new and fruitful people of God: the Church. At the Divine Liturgy, the bishop prays that the Lord will visit and confirm the vineyard, the local body of Christ, which He planted with His own right hand ([[PSA.79:15]], [[PSA.79:16]]). To abide in this vine is to abide in Christ and His Church. The figure of the vine and the branches shows (1) our union with Christ is intimate and real; (2) life flows from the vine to the branches--abiding in Christ is dynamic and vitalizing; and (3) the fruit we bear is both good works and mission (v. 16; 17:18)."
     }
   ]
 }

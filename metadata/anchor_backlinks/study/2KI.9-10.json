@@ -2,12 +2,22 @@
   "anchor_id": "2KI.9:10",
   "canon_uri": "canon/OT/2KI.md#2KI.9:10",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "The dogs shall eat Jezebel on the plot of ground at Jezreel, and there shall be no one to bury her.' ' And he opened the door and fled.",
+  "pericope": {
+    "id": "2KI.P017",
+    "title": "Jehu Is King of Israel",
+    "range": "2KI.8:29-9:12",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/TOB_footnotes.md",
-      "line_number": 60,
+      "source_file": "study/footnotes/OT/TOB_footnotes.md",
+      "line_number": 53,
       "raw_match": "[[2KI.9:10]]",
       "reference_type": "wikilink",
       "context": "Not to bury the dead was seen as a curse, the ultimate in disrespect ([[2KI.9:10]]; Jer"

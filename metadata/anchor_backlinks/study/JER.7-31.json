@@ -2,15 +2,25 @@
   "anchor_id": "JER.7:31",
   "canon_uri": "canon/OT/JER.md#JER.7:31",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Behold, the days are coming,' says the Lord, 'when they will no longer say, 'the Altar of Tophet,' or, 'the Valley of the Son of Hinnom,' but instead, 'the Valley of the Slain'; and they will be buried in Tophet, for there is no other place.",
+  "pericope": {
+    "id": "JER.P014",
+    "title": "False Worship Will Be Judged",
+    "range": "JER.7:25-7:32",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/BAR_footnotes.md",
-      "line_number": 77,
+      "source_file": "study/footnotes/OT/BAR_footnotes.md",
+      "line_number": 65,
       "raw_match": "[[JER.7:31]]",
       "reference_type": "wikilink",
-      "context": "was besieged; they also sacrificed children to the god Molech (see [[JER.7:31]]; 19:9; Lam"
+      "context": "The cannibalism admitted here includes the children the Jews ate when Jerusalem was besieged; they also sacrificed children to the god Molech (see [[JER.7:31]]; 19:9; Lam"
     }
   ]
 }

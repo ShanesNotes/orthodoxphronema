@@ -2,12 +2,22 @@
   "anchor_id": "COL.3:16",
   "canon_uri": "canon/NT/COL.md#COL.3:16",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Let the word of Christ dwell in you richly in all wisdom, teaching and admonishing one another in psalms and hymns and spiritual songs, singing with grace in your hearts to the Lord.",
+  "pericope": {
+    "id": "COL.P010",
+    "title": "Spirituality in the Church",
+    "range": "COL.2:23-3:16",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/3MA_footnotes.md",
-      "line_number": 602,
+      "source_file": "study/footnotes/OT/3MA_footnotes.md",
+      "line_number": 507,
       "raw_match": "[[COL.3:16]]",
       "reference_type": "wikilink",
       "context": "See [[COL.3:16]]; [[JAS.5:13]]."

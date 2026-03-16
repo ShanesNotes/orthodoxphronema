@@ -2,15 +2,25 @@
   "anchor_id": "EZK.5:10",
   "canon_uri": "canon/OT/EZK.md#EZK.5:10",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Therefore fathers shall eat their children in your midst, and children shall eat their fathers; and I will execute judgments among you, and all of you who remain, I will scatter to every wind.",
+  "pericope": {
+    "id": "EZK.P005",
+    "title": "Jerusalem's Desolation Prophesied",
+    "range": "EZK.4:17-5:16",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/BAR_footnotes.md",
-      "line_number": 83,
+      "source_file": "study/footnotes/OT/BAR_footnotes.md",
+      "line_number": 70,
       "raw_match": "[[EZK.5:10]]",
       "reference_type": "wikilink",
-      "context": "; 4:10; [[EZK.5:10]]; [[2KI.23:10]]; [[DEU.28:53]]). 2:5"
+      "context": "; 4:10; [[EZK.5:10]]; [[2KI.23:10]]; [[DEU.28:53]]). 2:5 See [[DEU.28:13]]. 2:9 The Lord brings calamities upon us in His righteousness for our good, that we might turn back to Him."
     }
   ]
 }

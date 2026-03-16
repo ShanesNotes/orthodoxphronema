@@ -2,11 +2,21 @@
   "anchor_id": "TIT.1:4",
   "canon_uri": "canon/NT/TIT.md#TIT.1:4",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "To Titus, a true son in our common faith: Grace, mercy, and peace from God the Father and the Lord Jesus Christ our Savior.",
+  "pericope": {
+    "id": "TIT.P002",
+    "title": "Ordination of Sound Elders",
+    "range": "TIT.1:4-1:7",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/LUK_articles.md",
+      "source_file": "study/articles/NT/LUK_articles.md",
       "line_number": 37,
       "raw_match": "[[TIT.1:4]]",
       "reference_type": "wikilink",

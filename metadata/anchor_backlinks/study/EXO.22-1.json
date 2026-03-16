@@ -2,15 +2,25 @@
   "anchor_id": "EXO.22:1",
   "canon_uri": "canon/OT/EXO.md#EXO.22:1",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "If a thief is found breaking in at night and is killed, there shall be no guilt for his blood.",
+  "pericope": {
+    "id": "EXO.P042",
+    "title": "Stolen Property",
+    "range": "EXO.21:36-22:13",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/LUK_footnotes.md",
-      "line_number": 2553,
+      "source_file": "study/footnotes/NT/LUK_footnotes.md",
+      "line_number": 1709,
       "raw_match": "[[EXO.22:1]]",
       "reference_type": "wikilink",
-      "context": "Law ([[EXO.22:1]]). By doing both, Zacchaeus not only fulfills the Law, but shows his love of"
+      "context": "Zacchaeus uses the term give for his free and generous offering to the poor, and restore for what he owes those he had cheated, as this was not a gift but required by the Law ([[EXO.22:1]]). By doing both, Zacchaeus not only fulfills the Law, but shows his love of the gospel."
     }
   ]
 }

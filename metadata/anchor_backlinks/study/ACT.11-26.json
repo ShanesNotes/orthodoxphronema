@@ -2,22 +2,32 @@
   "anchor_id": "ACT.11:26",
   "canon_uri": "canon/NT/ACT.md#ACT.11:26",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "And when he had found him, he brought him to Antioch. So it was that for a whole year they assembled with the church and taught great many people. And the disciples were first called Christians in Antioch.",
+  "pericope": {
+    "id": "ACT.P039",
+    "title": "Aid to Jewish Christians",
+    "range": "ACT.11:26-11:29",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/2MA_footnotes.md",
-      "line_number": 149,
+      "source_file": "study/footnotes/OT/2MA_footnotes.md",
+      "line_number": 126,
       "raw_match": "[[ACT.11:26]]",
       "reference_type": "wikilink",
       "context": "Another famous son of Tarsus is the Apostle Paul ([[ACT.11:25]], [[ACT.11:26]])."
     },
     {
-      "source_file": "staging/validated/OT/PRO_footnotes.md",
-      "line_number": 1914,
+      "source_file": "study/footnotes/OT/PRO_footnotes.md",
+      "line_number": 1432,
       "raw_match": "[[ACT.11:26]]",
       "reference_type": "wikilink",
-      "context": "[[ACT.11:26]]). For Wisdom is Christ, and those who follow Him are known by this name. And His good grace is worth more than silver and gold, for by His grace Christians"
+      "context": "A good name to be chosen more than much wealth is the name Christian (see [[ACT.11:26]]). For Wisdom is Christ, and those who follow Him are known by this name. And His good grace is worth more than silver and gold, for by His grace Christians live according to His virtues implanted within them."
     }
   ]
 }

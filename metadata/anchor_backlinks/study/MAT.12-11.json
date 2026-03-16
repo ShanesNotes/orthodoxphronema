@@ -2,15 +2,25 @@
   "anchor_id": "MAT.12:11",
   "canon_uri": "canon/NT/MAT.md#MAT.12:11",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Then He said to them, 'What man is there among you who has one sheep, and if it falls into a pit on the Sabbath, will not lay hold of it and lift it out?",
+  "pericope": {
+    "id": "MAT.P034",
+    "title": "The Pharisees' Hostility",
+    "range": "MAT.11:30-12:13",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/DEU_footnotes.md",
-      "line_number": 530,
+      "source_file": "study/footnotes/OT/DEU_footnotes.md",
+      "line_number": 316,
       "raw_match": "[[MAT.12:11]]",
       "reference_type": "wikilink",
-      "context": "sheep? Therefore it is lawful to do good on the Sabbath\" ([[MAT.12:11]], [[MAT.12:12]]). Furthermore, He"
+      "context": "The seventh and final day of the Feast of Unleavened Bread was a Sabbath on which Israel was to do no work... except what must be done for life. Therefore, the Sabbath was not a total cessation of all work; work essential to life might be done. Jesus cured a paralytic on the Sabbath, and this cure was obviously essential to his life. Yet the Jews accused Him of breaking the Sabbath, and even tried to kill Him ([[JOH.5:16]]). But these same Jews would take care of their animals on the Sabbath, even if one should fall into a ditch. So Jesus asked them, \"Of how much more value then is a man than a sheep? Therefore it is lawful to do good on the Sabbath\" ([[MAT.12:11]], [[MAT.12:12]]). Furthermore, He also said, \"The Son of Man is Lord even of the Sabbath\" ([[MAT.12:8]]), and \"The Sabbath was made for man, and not man for the Sabbath\" ([[MRK.2:27]])."
     }
   ]
 }

@@ -2,15 +2,25 @@
   "anchor_id": "1JN.5:17",
   "canon_uri": "canon/NT/1JN.md#1JN.5:17",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "All unrighteousness is sin, and there is sin not leading to death.",
+  "pericope": {
+    "id": "1JN.P016",
+    "title": "Separate from Sin",
+    "range": "1JN.5:17-5:18",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/JOB_footnotes.md",
-      "line_number": 331,
+      "source_file": "study/footnotes/OT/JOB_footnotes.md",
+      "line_number": 238,
       "raw_match": "[[1JN.5:17]]",
       "reference_type": "wikilink",
-      "context": "death\" ([[1JN.5:16]], [[1JN.5:17]]). But \"one day it may also come forth out of the bag of secrecy into"
+      "context": "Christ was cut down in His death, but would sprout again in His Resurrection (see [[PSA.1:3]]) and send out tender shoots--\"the faithful being multiplied by His Resurrection grew out far and wide\" (GrgGt). 14:14 Will man live again: \"Our Lord, when He was near His passion, took up the voice of those who were weak in Himself, saying, 'O My Father, if it is possible, let this cup pass from Me' ([[MAT.26:39]]); and that He might remove their fear, He took it in Himself\" (GrgGt). 14:17 As a mortal man, Job has transgressed unwillingly, that is, \"sin not leading to death\" ([[1JN.5:16]], [[1JN.5:17]]). But \"one day it may also come forth out of the bag of secrecy into the publicity of the Judgment\" (GrgGt). 15:1-6 \"Blessed Job bears a type of the Holy Church universal, and his friends bear the likeness of heretics\" (GrgGt). 15:20 \"With their feeble insight, [Job's friends] did not perceive that the Lord had given him over to be tempted so that, like an athlete of Christ, he might be fashioned by the temptations and attain to the crown of a greater glory\" (AmbM). 16:8 St. Hesychius compares this verse to Christ's betrayal at Judas's hands ([[JOH.13:21]]; Mt"
     }
   ]
 }

@@ -2,15 +2,25 @@
   "anchor_id": "DAN.2:28",
   "canon_uri": "canon/OT/DAN.md#DAN.2:28",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "But there is a God in heaven who reveals mysteries, and He has made known to king Nebuchadnezzar what must come to pass in the last days. Your dream and the visions in your head upon your bed was this:",
+  "pericope": {
+    "id": "DAN.P004",
+    "title": "Daniel Interprets the Dream",
+    "range": "DAN.2:23-2:44",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/REV_footnotes.md",
-      "line_number": 19,
+      "source_file": "study/footnotes/NT/REV_footnotes.md",
+      "line_number": 16,
       "raw_match": "[[DAN.2:28]]",
       "reference_type": "wikilink",
-      "context": "into the wrong hands. God Himself is the ultimate source of all revelation (see [[DAN.2:28]],"
+      "context": "Revelation or Apocalypse (Gr. apokalypsis) means literally to unconceal, unveil, or reveal. It was used anciently of a coded message that must get through without falling into the wrong hands. God Himself is the ultimate source of all revelation (see [[DAN.2:28]], 29, 45), but it is the Son, Jesus Christ--who revealed Himself to the prophets of the OT before He became flesh and now is made flesh--who mediates this unveiling (see [[JOH.1:18]]; 4:19-23; 7:16; 8:26, 40; 12:49; 15:15; 17:8). This revelation concerns not only the age to come, but certain things from the past and from this present age as well. Things which must tells us this is not a haphazard presentation. Shortly take place indicates God's time, which is always imminent. It may take a lot of earth's time."
     }
   ]
 }

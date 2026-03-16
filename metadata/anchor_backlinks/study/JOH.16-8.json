@@ -2,11 +2,21 @@
   "anchor_id": "JOH.16:8",
   "canon_uri": "canon/NT/JOH.md#JOH.16:8",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "And when He has come, He will convict the world of sin, and of righteousness, and of judgment:",
+  "pericope": {
+    "id": "JOH.P057",
+    "title": "The Work of the Holy Spirit",
+    "range": "JOH.16:5-16:14",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/EXO_articles.md",
+      "source_file": "study/articles/OT/EXO_articles.md",
       "line_number": 28,
       "raw_match": "[[JOH.16:8]]",
       "reference_type": "wikilink",

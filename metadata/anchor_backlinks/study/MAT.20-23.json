@@ -2,12 +2,22 @@
   "anchor_id": "MAT.20:23",
   "canon_uri": "canon/NT/MAT.md#MAT.20:23",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "So He said to them, 'You will indeed drink My cup, and be baptized with the baptism that I am baptized with; but to sit on My right hand and on My left is not Mine to give, but it is for those for whom it is prepared by My Father.'",
+  "pericope": {
+    "id": "MAT.P067",
+    "title": "Leaders as Servants",
+    "range": "MAT.20:19-20:26",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/LUK_footnotes.md",
-      "line_number": 1889,
+      "source_file": "study/footnotes/NT/LUK_footnotes.md",
+      "line_number": 1261,
       "raw_match": "[[MAT.20:20]]-23",
       "reference_type": "wikilink_range",
       "context": "Baptism refers to Christ's Passion (see note at [[MAT.20:20]]-23)."

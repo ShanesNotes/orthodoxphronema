@@ -1,0 +1,26 @@
+{
+  "anchor_id": "JOH.11:45",
+  "canon_uri": "canon/NT/JOH.md#JOH.11:45",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-16T02:01:16+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Then many of the Jews who had come to Mary, and had seen the things Jesus did, believed in Him.",
+  "pericope": {
+    "id": "JOH.P039",
+    "title": "The Sanhedrin Plots to Kill Jesus",
+    "range": "JOH.11:44-11:56",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
+  "links": [
+    {
+      "source_file": "study/footnotes/OT/DAN_footnotes.md",
+      "line_number": 220,
+      "raw_match": "[[JOH.11:1]]-45",
+      "reference_type": "wikilink_range",
+      "context": "St. Ephraim of Syria writes that both the OT Daniel and the NT Lazarus (see [[JOH.11:1]]-45) illustrate Christ in His tomb. \"A type of You therefore was Daniel, and also Lazarus; one in the den, which the Gentiles sealed up, and one in the sepulchre, that the people opened. Lo! their signs and their seals reproved them. Their mouth would have been open, if they had left Your sepulchre open. But they went away because they had shut Your sepulchre and sealed it, and closed up their own mouths. Yes, they closed it, and when they had senselessly covered Your sepulchre, all the slanderers covered their own heads. But in Your Resurrection You persuaded them concerning Your Birth; since the womb was sealed, and the sepulchre closed up; being alike pure in the womb, and living in the sepulchre. The womb and the sepulchre being sealed were witnesses unto You.\" 6:19 Note how a pagan king kept vigil and fasted while his friend Daniel was in danger."
+    }
+  ]
+}

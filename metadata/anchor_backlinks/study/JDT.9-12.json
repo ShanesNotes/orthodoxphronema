@@ -2,12 +2,22 @@
   "anchor_id": "JDT.9:12",
   "canon_uri": "canon/OT/JDT.md#JDT.9:12",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Yes, O God of my father and God of the inheritance of Israel, Lord of heaven and earth, Creator of the waters, King of all Your creation, attend to my prayer!",
+  "pericope": {
+    "id": "JDT.P013",
+    "title": "The Prayer of Judith",
+    "range": "JDT.8:36-9:13",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/3MA_footnotes.md",
-      "line_number": 130,
+      "source_file": "study/footnotes/OT/3MA_footnotes.md",
+      "line_number": 109,
       "raw_match": "[[JDT.9:12]]",
       "reference_type": "wikilink",
       "context": "References to God as King of the heavens include [[DAN.4:37]]; 1Ez 4:46, 58; [[JDT.9:12]]; Tb 13:7, 11."

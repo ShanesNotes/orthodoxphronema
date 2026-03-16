@@ -2,22 +2,32 @@
   "anchor_id": "GEN.5:24",
   "canon_uri": "canon/OT/GEN.md#GEN.5:24",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Thus Enoch was well-pleasing to God, and was not found, for God translated him.",
+  "pericope": {
+    "id": "GEN.P006",
+    "title": "The Descendants of Adam",
+    "range": "GEN.4:26-5:31",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/2KI_footnotes.md",
-      "line_number": 49,
+      "source_file": "study/footnotes/OT/2KI_footnotes.md",
+      "line_number": 41,
       "raw_match": "[[GEN.5:24]]",
       "reference_type": "wikilink",
-      "context": "As Enoch ([[GEN.5:24]]) was translated to heaven without experiencing his own death, so"
+      "context": "As Enoch ([[GEN.5:24]]) was translated to heaven without experiencing his own death, so too was Elijah--thus making known to us that God alone has the keys of life, death, and the grave."
     },
     {
-      "source_file": "staging/validated/OT/WIS_footnotes.md",
-      "line_number": 106,
+      "source_file": "study/footnotes/OT/WIS_footnotes.md",
+      "line_number": 95,
       "raw_match": "[[GEN.5:18]]-24",
       "reference_type": "wikilink_range",
-      "context": "was taken up to be with the Lord and made perfect ([[GEN.5:18]]-24)."
+      "context": "Though he is not named in this passage, this is a specific reference to Enoch, who was taken up to be with the Lord and made perfect ([[GEN.5:18]]-24)."
     }
   ]
 }

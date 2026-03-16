@@ -2,29 +2,39 @@
   "anchor_id": "LUK.7:38",
   "canon_uri": "canon/NT/LUK.md#LUK.7:38",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "and stood at His feet behind Him weeping; and she began to wash His feet with her tears, and wiped them with the hair of her head; and she kissed His feet and anointed them with the fragrant oil.",
+  "pericope": {
+    "id": "LUK.P033",
+    "title": "Forgiveness of a Sinful Woman",
+    "range": "LUK.7:35-7:49",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/MAT_footnotes.md",
-      "line_number": 639,
+      "source_file": "study/footnotes/NT/MAT_footnotes.md",
+      "line_number": 414,
       "raw_match": "[[LUK.7:36]]-38",
       "reference_type": "wikilink_range",
-      "context": "others ([[JOH.11:35]]), the state of the world ([[LUK.19:41]]), and their own sins ([[LUK.7:36]]-38). All of"
+      "context": "Those who mourn sorrow over the sufferings of this life (9:23), the sufferings of others ([[JOH.11:35]]), the state of the world ([[LUK.19:41]]), and their own sins ([[LUK.7:36]]-38). All of these are comforted by the power of God both in this world and in the age to come. Holy sorrow is part of repentance, conversion, and virtuous action, and is the firstfruit of infinite joy. It is to be distinguished from ungodly sorrow, a sadness that leads to despair (see [[2CO.7:10]])."
     },
     {
-      "source_file": "staging/validated/NT/MAT_footnotes.md",
-      "line_number": 3597,
+      "source_file": "study/footnotes/NT/MAT_footnotes.md",
+      "line_number": 2301,
       "raw_match": "[[LUK.7:36]]-38",
       "reference_type": "wikilink_range",
-      "context": "accounts of similar events in [[MRK.14:3]]-9; [[LUK.7:36]]-38; and [[JOH.12:1]]-8. Some Fathers say"
+      "context": "Because of her fervent faith, Jesus promises perpetual public memory of this woman. There is no consensus among the Fathers as to her identity in relation to accounts of similar events in [[MRK.14:3]]-9; [[LUK.7:36]]-38; and [[JOH.12:1]]-8. Some Fathers say that there were three different women in these four accounts, others that there were only two."
     },
     {
-      "source_file": "staging/validated/OT/SNG_footnotes.md",
-      "line_number": 132,
+      "source_file": "study/footnotes/OT/SNG_footnotes.md",
+      "line_number": 95,
       "raw_match": "[[LUK.7:38]]",
       "reference_type": "wikilink",
-      "context": "spikenard for His burial while He was at the table ([[MAT.26:6]], [[MAT.26:7]]; [[MRK.14:3]]; [[LUK.7:37]], [[LUK.7:38]]; Jn"
+      "context": "This prophetic verse was fulfilled by Mary of Bethany's anointing of the Lord with spikenard for His burial while He was at the table ([[MAT.26:6]], [[MAT.26:7]]; [[MRK.14:3]]; [[LUK.7:37]], [[LUK.7:38]]; Jn 12:3)."
     }
   ]
 }

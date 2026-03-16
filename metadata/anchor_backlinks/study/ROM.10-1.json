@@ -2,15 +2,25 @@
   "anchor_id": "ROM.10:1",
   "canon_uri": "canon/NT/ROM.md#ROM.10:1",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Brethren, my heart's desire and prayer to God for Israel is that they may be saved.",
+  "pericope": {
+    "id": "ROM.P025",
+    "title": "Israel Pursues Self-Righteousness",
+    "range": "ROM.9:30-10:3",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/HOS_footnotes.md",
-      "line_number": 163,
+      "source_file": "study/footnotes/OT/HOS_footnotes.md",
+      "line_number": 127,
       "raw_match": "[[ROM.10:1]]",
       "reference_type": "wikilink",
-      "context": "for her a time of salvation and a return to faith\" (CyrAl). See also [[ROM.10:1]]; 11:26, 27."
+      "context": "\"One says that Israel will be weak not forever but for days. For it has been reserved for her a time of salvation and a return to faith\" (CyrAl). See also [[ROM.10:1]]; 11:26, 27."
     }
   ]
 }

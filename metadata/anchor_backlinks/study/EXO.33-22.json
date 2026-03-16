@@ -2,22 +2,32 @@
   "anchor_id": "EXO.33:22",
   "canon_uri": "canon/OT/EXO.md#EXO.33:22",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "So it shall be, while My glory passes by, that I will put you in the cleft of the rock, and will cover you with My hand while I pass by.",
+  "pericope": {
+    "id": "EXO.P072",
+    "title": "God Promises His Presence",
+    "range": "EXO.33:11-33:22",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/JOH_footnotes.md",
-      "line_number": 205,
+      "source_file": "study/footnotes/NT/JOH_footnotes.md",
+      "line_number": 129,
       "raw_match": "[[EXO.33:21]]-23",
       "reference_type": "wikilink_range",
-      "context": "received by the faithful. Moses saw the \"back\" of God ([[EXO.33:21]]-23); Isaiah saw His glory"
+      "context": "No one has seen God at any time: No one can see the nature, or essence, of God, for to see God is to die ([[EXO.33:20]]). Only One who is Himself divine can see God, and thus the Son is the only One who can declare Him. This revelation of God's energies can be received by the faithful. Moses saw the \"back\" of God ([[EXO.33:21]]-23); Isaiah saw His glory (see Is 6:1; [[JOH.12:41]])."
     },
     {
-      "source_file": "staging/validated/NT/REV_footnotes.md",
-      "line_number": 3085,
+      "source_file": "study/footnotes/NT/REV_footnotes.md",
+      "line_number": 1899,
       "raw_match": "[[EXO.33:20]]-23",
       "reference_type": "wikilink_range",
-      "context": "His energy is not possible in this life ([[EXO.33:20]]-23; [[MAT.5:8]]; [[JOH.1:18]]; [[1CO.13:12]]; [[HEB.12:14]];"
+      "context": "The face of God is that of the glorified Christ (see [[JOH.14:9]]; [[1JN.3:2]]). The face which cannot be seen is the hidden essence of God ([[JOH.1:18]]; [[1TI.6:16]]). Normally, even to see His energy is not possible in this life ([[EXO.33:20]]-23; [[MAT.5:8]]; [[JOH.1:18]]; [[1CO.13:12]]; [[HEB.12:14]]; [[1JN.3:2]]). But in the age to come the faithful, who bear Jesus' name... on their foreheads, may see Him ceaselessly. In the OT only the high priest bore the unspeakable name of God on his forehead, and that he did externally, on a golden headband around his turban ([[EXO.28:31]]-33; see [[EZK.9:4]]-6; [[REV.3:12]]; 7:3). In the NT, all who believe are granted His name."
     }
   ]
 }

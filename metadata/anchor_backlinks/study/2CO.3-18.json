@@ -2,50 +2,60 @@
   "anchor_id": "2CO.3:18",
   "canon_uri": "canon/NT/2CO.md#2CO.3:18",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "But we all, with unveiled face, beholding as in a mirror the glory of the Lord, are being transformed into the same image from glory to glory, just as by the Spirit of the Lord.",
+  "pericope": {
+    "id": "2CO.P013",
+    "title": "Paul's Faithfulness to the Gospel",
+    "range": "2CO.3:18-4:5",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/1JN_footnotes.md",
-      "line_number": 281,
+      "source_file": "study/footnotes/NT/1JN_footnotes.md",
+      "line_number": 177,
       "raw_match": "[[2CO.3:18]]",
       "reference_type": "wikilink",
-      "context": "\"transformed into the same image from glory to glory\" ([[2CO.3:18]]). When we see Him as"
+      "context": "Made in God's image and likeness, we are fulfilled by becoming like Him, a process called sanctification or deification. Being \"partakers of the divine nature\" ([[2PE.1:4]]), we are \"transformed into the same image from glory to glory\" ([[2CO.3:18]]). When we see Him as He is, in the fullness of His glory at the last day, this process will be supremely magnified. John had seen the foretaste of this glory on the Mount of Transfiguration (Mt 17:1-9; [[MRK.9:2]]-9; [[LUK.9:28]]-36). How shall we see Him? Through our likeness to Him; our human nature will be glorified with the glorified humanity of the Son (see [[COL.3:3]], [[COL.3:4]]) and through a knowledge of all three Persons of the Trinity. (Note Paul's expressions, \"face to face\" and \"with unveiled face\" in [[1CO.13:12]]; [[2CO.3:18]])."
     },
     {
-      "source_file": "staging/validated/NT/1JN_footnotes.md",
-      "line_number": 295,
+      "source_file": "study/footnotes/NT/1JN_footnotes.md",
+      "line_number": 184,
       "raw_match": "[[2CO.3:18]]",
       "reference_type": "wikilink",
-      "context": "unveiled face\" in [[1CO.13:12]]; [[2CO.3:18]])."
+      "context": "Made in God's image and likeness, we are fulfilled by becoming like Him, a process called sanctification or deification. Being \"partakers of the divine nature\" ([[2PE.1:4]]), we are \"transformed into the same image from glory to glory\" ([[2CO.3:18]]). When we see Him as He is, in the fullness of His glory at the last day, this process will be supremely magnified. John had seen the foretaste of this glory on the Mount of Transfiguration (Mt 17:1-9; [[MRK.9:2]]-9; [[LUK.9:28]]-36). How shall we see Him? Through our likeness to Him; our human nature will be glorified with the glorified humanity of the Son (see [[COL.3:3]], [[COL.3:4]]) and through a knowledge of all three Persons of the Trinity. (Note Paul's expressions, \"face to face\" and \"with unveiled face\" in [[1CO.13:12]]; [[2CO.3:18]])."
     },
     {
-      "source_file": "staging/validated/NT/ACT_footnotes.md",
-      "line_number": 543,
+      "source_file": "study/footnotes/NT/ACT_footnotes.md",
+      "line_number": 364,
       "raw_match": "[[2CO.3:18]]",
       "reference_type": "wikilink",
-      "context": "face. This is a preview of the glory all believers will share in the age to come ([[2CO.3:18]])."
+      "context": "Those who become one with Christ receive this divine radiance revealed in Stephen's face. This is a preview of the glory all believers will share in the age to come ([[2CO.3:18]]). See also [[EXO.34:29]]-35."
     },
     {
-      "source_file": "staging/validated/NT/TIT_footnotes.md",
-      "line_number": 141,
+      "source_file": "study/footnotes/NT/TIT_footnotes.md",
+      "line_number": 93,
       "raw_match": "[[2CO.3:16]]-18",
       "reference_type": "wikilink_range",
-      "context": "Christ (see [[2CO.3:16]]-18)."
+      "context": "While Paul is painfully aware we are awaiting the consummation of the age to come (2:13), he knows we already participate in the eschatological community. Baptism and chrismation are the beginning, the rite of passage toward a progressive life of renewal in Christ (see [[2CO.3:16]]-18)."
     },
     {
-      "source_file": "staging/validated/OT/JOS_footnotes.md",
-      "line_number": 531,
+      "source_file": "study/footnotes/OT/JOS_footnotes.md",
+      "line_number": 317,
       "raw_match": "[[2CO.3:18]]",
       "reference_type": "wikilink",
-      "context": "Righteousness, and we are to be \"conformed to [His] image\" ([[ROM.8:29]]; [[2CO.3:18]]). The"
+      "context": "Joshua put the stone knives (with which he had circumcised the sons of Israel born during the days of Israel's wanderings in the desert) in the town he built, Timnath Serah. The name of this town means \"image of the sun.\" Christ is the Sun of Righteousness, and we are to be \"conformed to [His] image\" ([[ROM.8:29]]; [[2CO.3:18]]). The stone knives speak of holy baptism, by which \"the sins of the flesh\" are cut away (Col 2:11, 12)."
     },
     {
-      "source_file": "staging/validated/OT/SNG_footnotes.md",
-      "line_number": 540,
+      "source_file": "study/footnotes/OT/SNG_footnotes.md",
+      "line_number": 412,
       "raw_match": "[[2CO.3:14]]-18",
       "reference_type": "wikilink_range",
-      "context": "remains on those who know only the Mosaic Law ([[2CO.3:14]]-18)."
+      "context": "The apostles and preachers of the faith are the guards of the walls, the keepers of the New Jerusalem. They guard the Church by the true teaching of the doctrine of Christ and protect the city from charlatans, Christ-peddlers, heretics, and schismatics. The veil remains on those who know only the Mosaic Law ([[2CO.3:14]]-18)."
     }
   ]
 }

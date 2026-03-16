@@ -2,12 +2,22 @@
   "anchor_id": "JOS.6:21",
   "canon_uri": "canon/OT/JOS.md#JOS.6:21",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Then Joshua said to the two young men who acted as spies, 'Go into the house of the woman, and bring her out from there, and whatever she has.'",
+  "pericope": {
+    "id": "JOS.P009",
+    "title": "The Defeat of Jericho",
+    "range": "JOS.5:15-6:25",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/2MA_footnotes.md",
-      "line_number": 525,
+      "source_file": "study/footnotes/OT/2MA_footnotes.md",
+      "line_number": 453,
       "raw_match": "[[JOS.6:1]]-21",
       "reference_type": "wikilink_range",
       "context": "See [[JOS.6:1]]-21."

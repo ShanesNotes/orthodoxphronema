@@ -2,11 +2,21 @@
   "anchor_id": "HEB.10:4",
   "canon_uri": "canon/NT/HEB.md#HEB.10:4",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "For it is not possible that the blood of bulls and goats could take away sins.",
+  "pericope": {
+    "id": "HEB.P022",
+    "title": "The New Worship Accomplishes God's Will",
+    "range": "HEB.9:28-10:6",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/EXO_articles.md",
+      "source_file": "study/articles/OT/EXO_articles.md",
       "line_number": 30,
       "raw_match": "[[HEB.10:1]]-4",
       "reference_type": "wikilink_range",

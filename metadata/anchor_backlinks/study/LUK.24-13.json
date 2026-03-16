@@ -2,29 +2,39 @@
   "anchor_id": "LUK.24:13",
   "canon_uri": "canon/NT/LUK.md#LUK.24:13",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Now behold, two of them were traveling that same day to avillage called Emmaus, which was seven miles from Jerusalem.",
+  "pericope": {
+    "id": "LUK.P121",
+    "title": "The Women Find the Tomb Empty",
+    "range": "LUK.23:56-24:53",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/JOH_footnotes.md",
-      "line_number": 323,
+      "source_file": "study/footnotes/NT/JOH_footnotes.md",
+      "line_number": 200,
       "raw_match": "[[LUK.24:13]]",
       "reference_type": "wikilink",
-      "context": "common literary device for a writer not to give his own name (see [[LUK.24:13]])."
+      "context": "The Lord's first disciples had been followers of John the Baptist. They were Andrew (v. 40); Simon, who was also known as Peter, or Cephas (vv. 41, 42); Philip (v. 43); Nathanael (v. 45), who was also known as Bartholomew; and an unnamed disciple (vv. 35-40), who some Fathers say was John, the author of this Gospel. It was a common literary device for a writer not to give his own name (see [[LUK.24:13]])."
     },
     {
-      "source_file": "staging/validated/NT/JOH_footnotes.md",
-      "line_number": 2987,
+      "source_file": "study/footnotes/NT/JOH_footnotes.md",
+      "line_number": 1920,
       "raw_match": "[[LUK.24:13]]",
       "reference_type": "wikilink",
-      "context": "[[LUK.24:13]], [[LUK.24:18]])."
+      "context": "This other disciple is John, the author of this Gospel. It was a common practice for an author to conceal his name in the details of his story (see 13:23; compare [[MRK.14:51]], [[MRK.14:52]]; [[LUK.24:13]], [[LUK.24:18]])."
     },
     {
-      "source_file": "staging/validated/NT/MRK_footnotes.md",
-      "line_number": 633,
+      "source_file": "study/footnotes/NT/MRK_footnotes.md",
+      "line_number": 431,
       "raw_match": "[[LUK.24:13]]",
       "reference_type": "wikilink",
-      "context": "his own name (see [[LUK.24:13]]; [[JOH.21:24]]). The other evangelists do not report this incident."
+      "context": "To flee naked is a great shame and humiliation ([[EZK.16:39]]; [[AMO.2:16]]). Some teach this young man was James, the brother of the Lord ([[GAL.1:19]]), while others say that it was the apostle John, the youngest of the twelve. Most others believe this was Mark, the author of this Gospel, as it was a common literary device for a writer not to give his own name (see [[LUK.24:13]]; [[JOH.21:24]]). The other evangelists do not report this incident. They would not have been inclined to humiliate Mark, whereas Mark would have been more likely to relate such an event concerning himself."
     }
   ]
 }

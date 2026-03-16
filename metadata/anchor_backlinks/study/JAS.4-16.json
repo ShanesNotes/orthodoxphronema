@@ -2,22 +2,32 @@
   "anchor_id": "JAS.4:16",
   "canon_uri": "canon/NT/JAS.md#JAS.4:16",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "But now you boast in your arrogance. All such boasting is evil.",
+  "pericope": {
+    "id": "JAS.P011",
+    "title": "Being Overly Confident",
+    "range": "JAS.4:12-4:16",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/ACT_footnotes.md",
-      "line_number": 1791,
+      "source_file": "study/footnotes/NT/ACT_footnotes.md",
+      "line_number": 1124,
       "raw_match": "[[JAS.4:13]]-17",
       "reference_type": "wikilink_range",
-      "context": "submission of his own plans to God's (see [[JAS.4:13]]-17). The coming feast was either"
+      "context": "God willing underscores Paul's constant reliance on God and the continual submission of his own plans to God's (see [[JAS.4:13]]-17). The coming feast was either Passover, which became the Christian celebration of Christ's Resurrection, or Pentecost, which became the celebration of the descent of the Holy Spirit (see 20:16). Note there was already a budding liturgical \"calendar\" among the apostles, revealing their deep desire to gather in remembrance of the great Christian feasts."
     },
     {
-      "source_file": "staging/validated/OT/PRO_footnotes.md",
-      "line_number": 2208,
+      "source_file": "study/footnotes/OT/PRO_footnotes.md",
+      "line_number": 1654,
       "raw_match": "[[JAS.4:13]]-16",
       "reference_type": "wikilink_range",
-      "context": "also [[JAS.4:13]]-16). Furthermore, one may be dead tomorrow. \"Hold fast then to virtue. For even so, if you depart young, you will depart in safety; if you come to old age, you will"
+      "context": "The Lord alone has foreknowledge. Neither men nor angels have foreknowledge. Men and angels, including the devil and his angels, can only guess about the future. Men and angels know the future only if the Lord reveals it to them. Therefore, no one should boast about tomorrow, for no one knows what the next day will bring forth (see also [[JAS.4:13]]-16). Furthermore, one may be dead tomorrow. \"Hold fast then to virtue. For even so, if you depart young, you will depart in safety; if you come to old age, you will reach it safely\" (JohnChr)."
     }
   ]
 }

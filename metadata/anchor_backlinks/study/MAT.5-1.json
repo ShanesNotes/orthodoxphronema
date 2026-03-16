@@ -2,12 +2,22 @@
   "anchor_id": "MAT.5:1",
   "canon_uri": "canon/NT/MAT.md#MAT.5:1",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "And seeing the multitudes, He went up on a mountain, and when He was seated His disciples came to Him.",
+  "pericope": {
+    "id": "MAT.P011",
+    "title": "The Beatitudes: The Blessings of True Discipleship",
+    "range": "MAT.4:25-5:15",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/LUK_footnotes.md",
-      "line_number": 843,
+      "source_file": "study/footnotes/NT/LUK_footnotes.md",
+      "line_number": 562,
       "raw_match": "[[MAT.5:1]]",
       "reference_type": "wikilink",
       "context": "Sitting was the traditional position for a teacher (see note at [[MAT.5:1]])."

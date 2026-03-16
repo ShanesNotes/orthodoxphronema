@@ -2,15 +2,25 @@
   "anchor_id": "LUK.23:51",
   "canon_uri": "canon/NT/LUK.md#LUK.23:51",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "He had not consented to their decision and deed. He was from Arimathea, a city of the Jews, who himself was also waiting for the kingdom of God.",
+  "pericope": {
+    "id": "LUK.P120",
+    "title": "Burial",
+    "range": "LUK.23:49-23:55",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/JOH_footnotes.md",
-      "line_number": 3255,
+      "source_file": "study/footnotes/NT/JOH_footnotes.md",
+      "line_number": 2094,
       "raw_match": "[[LUK.23:50]]-53",
       "reference_type": "wikilink_range",
-      "context": "See also note at [[LUK.23:50]]-53."
+      "context": "Joseph of Arimathea was a hidden disciple, one who believed in Jesus but had made no public acknowledgement of faith. Nicodemus had come to Jesus by night (3:2) and later defended Him before the Pharisees (7:50-52). By burying Him, both show their devotion to our Lord publicly, in stark contrast to the fearful disciples, who had scattered. See also note at [[LUK.23:50]]-53."
     }
   ]
 }

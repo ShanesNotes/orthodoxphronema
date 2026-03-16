@@ -2,15 +2,25 @@
   "anchor_id": "DAN.5:7",
   "canon_uri": "canon/OT/DAN.md#DAN.5:7",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "So the king cried aloud to bring in the magicians, the Chaldeans and the diviners. He spoke to the wise men of Babylon, saying, 'Whoever reads this writing and makes known its interpretation to me, he shall be clothed with purple and wear a gold chain around his neck. He shall also be the third ruler in my kingdom.'",
+  "pericope": {
+    "id": "DAN.P017",
+    "title": "Handwriting on the Wall",
+    "range": "DAN.5:4-5:11",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/1ES_footnotes.md",
-      "line_number": 71,
+      "source_file": "study/footnotes/OT/1ES_footnotes.md",
+      "line_number": 52,
       "raw_match": "[[DAN.5:7]]",
       "reference_type": "wikilink",
-      "context": "which Christ's body was wrapped ([[JOH.20:7]]); and the necklace symbolizes virtue (Pr 3:3, 22; 6:21; SS 1:10; see also [[DAN.5:7]])."
+      "context": "Purple denotes royalty and equality with the king (see note on [[EST.6:6]]-9); the gold cups symbolize Christ's cup of salvation; sleep in a gold bed foreshadows His rest in the tomb; the chariot--like Elijah's chariot of fire (3Kg 2:11)--foreshadows the Ascension; the linen head covering points both to the OT priesthood and to the linen in which Christ's body was wrapped ([[JOH.20:7]]); and the necklace symbolizes virtue (Pr 3:3, 22; 6:21; SS 1:10; see also [[DAN.5:7]])."
     }
   ]
 }

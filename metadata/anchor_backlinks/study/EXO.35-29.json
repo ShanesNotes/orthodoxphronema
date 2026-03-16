@@ -2,15 +2,25 @@
   "anchor_id": "EXO.35:29",
   "canon_uri": "canon/OT/EXO.md#EXO.35:29",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Thus the children of Israel brought a freewill offering to the Lord, all the men and women whose minds were willing to bring material for all kinds of work, which the Lord, by the hand of Moses, commanded to be done.",
+  "pericope": {
+    "id": "EXO.P077",
+    "title": "Artisans for the Tabernacle",
+    "range": "EXO.35:29-35:35",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/EXO_footnotes.md",
-      "line_number": 1550,
+      "source_file": "study/footnotes/OT/EXO_footnotes.md",
+      "line_number": 1194,
       "raw_match": "[[EXO.35:29]]",
       "reference_type": "wikilink",
-      "context": "[[EXO.35:5]], [[EXO.35:21]], [[EXO.35:22]], [[EXO.35:26]], [[EXO.35:29]]: The offering was to be made from a willing heart, for the Law"
+      "context": "[[EXO.35:5]], [[EXO.35:21]], [[EXO.35:22]], [[EXO.35:26]], [[EXO.35:29]]: The offering was to be made from a willing heart, for the Law did not force anyone to serve the Lord. The same is true under grace in the New Testament, for the Lord never forces anyone against his will."
     }
   ]
 }

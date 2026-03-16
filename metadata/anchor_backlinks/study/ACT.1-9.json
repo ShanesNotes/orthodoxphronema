@@ -2,29 +2,39 @@
   "anchor_id": "ACT.1:9",
   "canon_uri": "canon/NT/ACT.md#ACT.1:9",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Now when He had spoken these things, while they watched, He was taken up, and a cloud received Him out of their sight.",
+  "pericope": {
+    "id": "ACT.P002",
+    "title": "Day 40: The Ascension",
+    "range": "ACT.1:8-1:9",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/GAL_footnotes.md",
-      "line_number": 53,
-      "raw_match": "[[ACT.1:9]]-11",
-      "reference_type": "wikilink_range",
-      "context": "birth ([[LUK.2:9]]-15), Resurrection ([[MAT.28:5]]-7), and Ascension ([[ACT.1:9]]-11). But angelic"
-    },
-    {
-      "source_file": "staging/validated/OT/AMO_footnotes.md",
-      "line_number": 233,
-      "raw_match": "[[ACT.1:9]]",
-      "reference_type": "wikilink",
-      "context": "earth ([[ACT.1:8]], [[ACT.1:9]]; 2:1-11). He restored the faithful remnant (v. 12); brought in the"
-    },
-    {
-      "source_file": "staging/validated/OT/DAN_articles.md",
+      "source_file": "study/articles/OT/DAN_articles.md",
       "line_number": 30,
       "raw_match": "[[ACT.1:9]]-11",
       "reference_type": "wikilink_range",
-      "context": "When God the Son became incarnate, this can be called an everlasting theophany. For having assumed human nature, Christ not only manifests God to the world during His earthly life ([[JOH.1:14]]; see also 14:9; [[COL.2:9]]; [[1JN.1:1]]-3), but He ascends into heaven in the same glorified flesh in which He will return at His Second Coming (see [[ACT.1:9]]-11). At the baptism of Christ ([[MAT.3:13]]-17), a further theophany occurs, as all three Persons of the Holy Trinity are made known: the Father in the voice from heaven, the Holy Spirit in the form of a dove, and the Incarnate Son. Hence, the feast day commemorating this event is known as Holy Theophany. On this day the Church sings, 'When Thou, O Lord, wast baptized in the Jordan, the worship of the Trinity was made manifest.' Additionally, at Christ's Transfiguration on Mt. Tabor ([[MAT.17:1]]-9), the Father again is heard, the Holy Spirit is present in the brightness of the cloud, and the Son shines with the gleaming radiance of His Divinity. ### Apocalypticliterature *(after DAN.7:8)*"
+      "context": "When God the Son became incarnate, this can be called an everlasting theophany. For having assumed human nature, Christ not only manifests God to the world during His earthly life ([[JOH.1:14]]; see also 14:9; [[COL.2:9]]; [[1JN.1:1]]-3), but He ascends into heaven in the same glorified flesh in which He will return at His Second Coming (see [[ACT.1:9]]-11). At the baptism of Christ ([[MAT.3:13]]-17), a further theophany occurs, as all three Persons of the Holy Trinity are made known: the Father in the voice from heaven, the Holy Spirit in the form of a dove, and the Incarnate Son. Hence, the feast day commemorating this event is known as Holy Theophany. On this day the Church sings, 'When Thou, O Lord, wast baptized in the Jordan, the worship of the Trinity was made manifest.' Additionally, at Christ's Transfiguration on Mt. Tabor ([[MAT.17:1]]-9), the Father again is heard, the Holy Spirit is present in the brightness of the cloud, and the Son shines with the gleaming radiance of His Divinity. ### Apocalyptic Literature *(after DAN.7:8)*"
+    },
+    {
+      "source_file": "study/footnotes/NT/GAL_footnotes.md",
+      "line_number": 35,
+      "raw_match": "[[ACT.1:9]]-11",
+      "reference_type": "wikilink_range",
+      "context": "Different (Gr. heteros, v. 6) means different in kind, whereas another (Gr. allos, v. 7) means another of the same kind. Paul is saying that the teaching the Galatians are listening to is not a harmless variation of the truth, but a completely different, false gospel. This \"gospel\" (1) is a turning away from the grace of Christ (v. 6); (2) brings trouble to the faithful; (3) will pervert the gospel of Christ (v. 7)--it is a distortion of the truth, a mixture of truth and falsehood; (4) is accursed or anathematized by the Church (v. 8); and (5) is intended to please men (v. 10), not God. Paul's warning about we, or an angel from heaven is not hypothetical. Angels can and have delivered the gospel to us: they announced Christ's conception ([[LUK.1:26]]-38), birth ([[LUK.2:9]]-15), Resurrection ([[MAT.28:5]]-7), and Ascension ([[ACT.1:9]]-11). But angelic messages are not necessarily true; they may come from fallen angels, who are accursed."
+    },
+    {
+      "source_file": "study/footnotes/OT/AMO_footnotes.md",
+      "line_number": 162,
+      "raw_match": "[[ACT.1:9]]",
+      "reference_type": "wikilink",
+      "context": "Basil the Great, quoting this passage, comments that it is shameful when we spend our time running about \"searching for anything not demanded by real necessity but calculated to provide a wretched delight and ruinous vainglory.\" 6:12 Justice was overturned when Pilate, having declared that Christ was innocent, submitted to the anger of the Jews and allowed Him to be crucified ([[LUK.23:13]]-25). Chrysostom remarks further that bitterness was hell's response when Christ entered. 7:2 Like all true prophets, Amos grieves and intercedes on behalf of his people. 7:7 Adamant is a stone of unbreakable substance. Ephraim the Syrian writes that this \"stone\" is Christ, set in the midst of the people. \"The leaders of the people were gathered together against Him and wanted His downfall because His teaching did not please them. But He said, 'It will crush and destroy whomever it falls upon' ([[MAT.21:44]]), because He had resisted idolatry, among other things.\" 7:14-15 Gregory the Great writes on the work of grace in the life of the humble: \"What a skilled worker this Spirit is. There is no question of delay in learning what the Spirit teaches us. No sooner does the Spirit touch our minds in regard to anything than we are taught; the Spirit's very touch is teaching. The Spirit changes the human heart in a moment, filling it with light. Suddenly we are no longer what we were; suddenly we are something we never used to be.\" 8:8-10 The day of Christ's Crucifixion was indeed a day of mourning (v. 10). The earth quaked ([[MAT.27:50]]-53), and the sun was darkened at midday ([[MRK.15:33]]). In a more immediate sense, this prophecy may also have been fulfilled on June 15, 763 BC, when a total solar eclipse occurred in Palestine. 8:11 Basil the Great writes that when the people \"put to death the bread of life, a hunger for the bread came upon them.\" 9:1-15 This prophecy is fulfilled in Christ and His Church. In the Incarnation, He shook the gateway of humanity under the Old Covenant; destroyed demonic powers with the sword of the Spirit; descended into Hades (v. 2); sanctified creation in the river (v. 5) of baptism; made his ascent to the heaven (v. 6); and established His Church on the earth ([[ACT.1:8]], [[ACT.1:9]]; 2:1-11). He restored the faithful remnant (v. 12); brought in the nations (v. 12); and planted His Church among them. Drink wine (v. 14) foreshadows the Eucharist."
     }
   ]
 }

@@ -2,15 +2,25 @@
   "anchor_id": "1JN.5:19",
   "canon_uri": "canon/NT/1JN.md#1JN.5:19",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "We know that we are of God, and the whole world lies under the sway of the wicked one.",
+  "pericope": {
+    "id": "1JN.P017",
+    "title": "Live in Christ",
+    "range": "1JN.5:19-5:21",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/MAT_footnotes.md",
-      "line_number": 553,
+      "source_file": "study/footnotes/NT/MAT_footnotes.md",
+      "line_number": 359,
       "raw_match": "[[1JN.5:19]]",
       "reference_type": "wikilink",
-      "context": "in his power ([[1JN.5:19]]). Jesus refuses the road of earthly glory, which would lead Him"
+      "context": "God's Kingdom is not one of earthly power and possessions. In the devil's test, Jesus was being asked to choose worldly power over the Kingdom of God. The devil is the \"ruler of this world\" ([[JOH.12:31]]), \"the god of this age\" ([[2CO.4:4]]), because the whole world is in his power ([[1JN.5:19]]). Jesus refuses the road of earthly glory, which would lead Him away from His suffering and death for the redemption of the world."
     }
   ]
 }

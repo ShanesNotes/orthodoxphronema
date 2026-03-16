@@ -2,29 +2,39 @@
   "anchor_id": "MAT.5:39",
   "canon_uri": "canon/NT/MAT.md#MAT.5:39",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "But I tell you not to resist an evil person. But whoever slaps you on your right cheek, turn the other to him also.",
+  "pericope": {
+    "id": "MAT.P013",
+    "title": "Righteousness Illustrated",
+    "range": "MAT.5:20-5:47",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/1CO_footnotes.md",
-      "line_number": 579,
+      "source_file": "study/footnotes/NT/1CO_footnotes.md",
+      "line_number": 382,
       "raw_match": "[[MAT.5:39]]",
       "reference_type": "wikilink",
-      "context": "turn the other cheek (see [[MAT.5:39]])."
+      "context": "Love of litigation is a love of greed, hatred, and retaliation. Christians ought to be possessed of generosity, mercy, and forgiveness. To let yourselves be cheated is to turn the other cheek (see [[MAT.5:39]]). 6:9, 10 As to those who will not inherit the kingdom of God, see 15:50; [[GAL.5:19]]-21; [[EPH.5:5]]; [[REV.21:7]], [[REV.21:8]]; 22:15."
     },
     {
-      "source_file": "staging/validated/OT/EXO_footnotes.md",
-      "line_number": 1097,
+      "source_file": "study/footnotes/OT/EXO_footnotes.md",
+      "line_number": 845,
       "raw_match": "[[MAT.5:39]]",
       "reference_type": "wikilink",
-      "context": "ready to endure twice as much damage ([[MAT.5:38]], [[MAT.5:39]]; JohnCas)."
+      "context": "The Law allowed vengeance to be taken on one's enemy, but the saints in the Old Testament did not fulfill this law. They went beyond it and suffered all kinds of deprivation from their enemies ([[HEB.11:37]], [[HEB.11:38]]). The law of Christ would have our patience proved by the injuries and blows offered to us being redoubled, and bids us be ready to endure twice as much damage ([[MAT.5:38]], [[MAT.5:39]]; JohnCas)."
     },
     {
-      "source_file": "staging/validated/OT/SIR_footnotes.md",
-      "line_number": 289,
+      "source_file": "study/footnotes/OT/SIR_footnotes.md",
+      "line_number": 204,
       "raw_match": "[[MAT.5:38]]-48",
       "reference_type": "wikilink_range",
-      "context": "to do so (see [[MAT.5:38]]-48; [[LUK.6:27]]-36). St. Paul sums up the Christian view of almsgiving: \"Therefore, as we have opportunity, let us do good to all, especially to those who are of"
+      "context": "These verses reflect the view of ancient societies, including the Hebrews and Greeks, that one should extend grace or do good mainly to one's family or to one who is godly. Few believed in doing good to one's enemies until Jesus Christ strongly taught us to do so (see [[MAT.5:38]]-48; [[LUK.6:27]]-36). St. Paul sums up the Christian view of almsgiving: \"Therefore, as we have opportunity, let us do good to all, especially to those who are of the household of faith\" ([[GAL.6:10]])."
     }
   ]
 }

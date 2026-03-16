@@ -2,15 +2,25 @@
   "anchor_id": "NUM.3:48",
   "canon_uri": "canon/OT/NUM.md#NUM.3:48",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Then you shall give the silver with which the excess number of them is redeemed to Aaron and his sons.'",
+  "pericope": {
+    "id": "NUM.P006",
+    "title": "Levites Dedicated, Replacing the Firstborn",
+    "range": "NUM.3:39-3:50",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/MAT_footnotes.md",
-      "line_number": 2505,
+      "source_file": "study/footnotes/NT/MAT_footnotes.md",
+      "line_number": 1615,
       "raw_match": "[[NUM.3:43]]-51",
       "reference_type": "wikilink_range",
-      "context": "over twelve years of age for the maintenance of the temple (see [[NUM.3:43]]-51). Since Jesus"
+      "context": "The temple tax was an annual head tax on all male Jews (except the priests) over twelve years of age for the maintenance of the temple (see [[NUM.3:43]]-51). Since Jesus is the Son of God, He is both High Priest and \"proprietor\" of the temple, and thus is exempt from the tax. Nevertheless, He pays it anyway, both to avoid unnecessary offense and to show that He has totally identified Himself with mankind."
     }
   ]
 }

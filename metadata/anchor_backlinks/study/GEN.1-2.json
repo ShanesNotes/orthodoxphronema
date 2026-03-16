@@ -2,36 +2,46 @@
   "anchor_id": "GEN.1:2",
   "canon_uri": "canon/OT/GEN.md#GEN.1:2",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "The earth was invisible and unfinished; and darkness was over the deep. The Spirit of God was hovering over the face of the water.",
+  "pericope": {
+    "id": "GEN.P001",
+    "title": "Genesis \u2014 Opening",
+    "range": "GEN.1:1-2:6",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/MAT_footnotes.md",
-      "line_number": 421,
-      "raw_match": "[[GEN.1:2]]",
-      "reference_type": "wikilink",
-      "context": "The Spirit of God hovered over the water at the first creation ([[GEN.1:2]]). Now, the"
-    },
-    {
-      "source_file": "staging/validated/OT/GEN_articles.md",
+      "source_file": "study/articles/OT/GEN_articles.md",
       "line_number": 20,
       "raw_match": "[[GEN.1:2]]",
       "reference_type": "wikilink",
-      "context": "' We believe in one God, the Father Almighty, Maker of Heaven and Earth, and of all things visible and invisible.' These opening words of the Nicene Creed, the central doctrinal statement of Christianity, affirm that the One True God is the source of everything that exists -both physical and spiritual, both animate and inanimate. The Holy Scriptures begin with a similarly striking assertion: 'In the beginning God made heaven and begin with a similarly striking earth.' St. Basil the Great declares: In the fear that human reasonings may make you wander from the truth, Moses has anticipated inquiry by engraving in our hearts, as a seal and a safeguard, the awesome name of God: 'In the beginning God created.' It is He-beneficent Nature, Goodness without measure, a worthy object of love for all beings endowed with reason, the beauty the most to be desired, the origin of all that exists...-it is He who 'in the beginning created heaven and earth.' The ever-existent Almighty God was not forced to create the universe. Rather, in His goodness and lovingkindness, He freely chose to do so. And the fact that the Lord created the universe out of nothing stands in clear contrast to the creation myths of the surrounding cultures in the ancient world. The central role of Jesus Christ, the Word of the Father, in the creation of all things is plainly stated in the first chapter of the apostle John's gospel, where it is written, 'In the beginning was the Word,... All things were made through Him, and without Him nothing was made that was made.' And the specific role of the Holy Spirit, the Third Person of the Undivided Trinity, in the creation of the world is seen in [[GEN.1:2]] (see also [[PSA.103:30]]; 32:6). Regarding questions about the scientific accuracy of the Genesis account of creation, and about various viewpoints concerning evolution, the Orthodox Church has not dogmatized any particular view. What is dogmatically proclaimed is that the One Triune God created everything that exists, and that man was created in a unique way and is alone made in the image and likeness of God ([[GEN.1:26]], [[GEN.1:27]]). The Church Fathers also consistently affirm that each species of the animate creation came into existence instantaneously, at the command of God, with its seed within itself. The development of life was not by accident. Rather, Supreme Intelligence and Impenetrable Wisdom were at work in the creation and sustenance of all that exists. In discussing various scientific theories of his day, St. Basil the Great declared, 'If there is anything in this [or any other] system which seems probable to you, keep your admiration for the source of such perfect order-the wisdom of God.' He also wrote, 'We must still remain faithful to the principle of true religion and recognize that all that exists is sustained by the Creator's power.' The repeated affirmation 'and God saw that it was good' in Genesis 1 underscores the intrinsic, fundamental goodness of matter and the whole created order, even after the Fall. This understanding is the basis for a sacramental world-view-that the created order not only is good, but also can be a means for communion with God, by virtue of being created by the All-Good God. Moreover, the astounding beauty, intricate order, and sublime harmony of all aspects of Creation, as well as the tremendously vast expanse of the universe, are intended to draw mankind to an awareness of and appreciation for the Creator, and to the worship of Him -and Him alone (see [[PSA.18:1]]-4; [[ROM.1:20]]). #### The Creation"
+      "context": "' We believe in one God, the Father Almighty, Maker of Heaven and Earth, and of all things visible and invisible.' These opening words of the Nicene Creed, the central doctrinal statement of Christianity, affirm that the One True God is the source of everything that exists -both physical and spiritual, both animate and inanimate. The Holy Scriptures begin with a similarly striking assertion: 'In the beginning God made heaven and earth.' St. Basil the Great declares: In the fear that human reasonings may make you wander from the truth, Moses has anticipated inquiry by engraving in our hearts, as a seal and a safeguard, the awesome name of God: 'In the beginning God created.' It is He-beneficent Nature, Goodness without measure, a worthy object of love for all beings endowed with reason, the beauty the most to be desired, the origin of all that exists...-it is He who 'in the beginning created heaven and earth.' The ever-existent Almighty God was not forced to create the universe. Rather, in His goodness and lovingkindness, He freely chose to do so. And the fact that the Lord created the universe out of nothing stands in clear contrast to the creation myths of the surrounding cultures in the ancient world. The central role of Jesus Christ, the Word of the Father, in the creation of all things is plainly stated in the first chapter of the apostle John's gospel, where it is written, 'In the beginning was the Word,... All things were made through Him, and without Him nothing was made that was made.' And the specific role of the Holy Spirit, the Third Person of the Undivided Trinity, in the creation of the world is seen in [[GEN.1:2]] (see also [[PSA.103:30]]; 32:6). Regarding questions about the scientific accuracy of the Genesis account of creation, and about various viewpoints concerning evolution, the Orthodox Church has not dogmatized any particular view. What is dogmatically proclaimed is that the One Triune God created everything that exists, and that man was created in a unique way and is alone made in the image and likeness of God ([[GEN.1:26]], [[GEN.1:27]]). The Church Fathers also consistently affirm that each species of the animate creation came into existence instantaneously, at the command of God, with its seed within itself. The development of life was not by accident. Rather, Supreme Intelligence and Impenetrable Wisdom were at work in the creation and sustenance of all that exists. In discussing various scientific theories of his day, St. Basil the Great declared, 'If there is anything in this [or any other] system which seems probable to you, keep your admiration for the source of such perfect order-the wisdom of God.' He also wrote, 'We must still remain faithful to the principle of true religion and recognize that all that exists is sustained by the Creator's power.' The repeated affirmation 'and God saw that it was good' in Genesis 1 underscores the intrinsic, fundamental goodness of matter and the whole created order, even after the Fall. This understanding is the basis for a sacramental world-view-that the created order not only is good, but also can be a means for communion with God, by virtue of being created by the All-Good God. Moreover, the astounding beauty, intricate order, and sublime harmony of all aspects of Creation, as well as the tremendously vast expanse of the universe, are intended to draw mankind to an awareness of and appreciation for the Creator, and to the worship of Him -and Him alone (see [[PSA.18:1]]-4; [[ROM.1:20]]). #### The Creation"
     },
     {
-      "source_file": "staging/validated/OT/GEN_articles.md",
+      "source_file": "study/articles/OT/GEN_articles.md",
       "line_number": 31,
       "raw_match": "[[GEN.1:2]]",
       "reference_type": "wikilink",
       "context": "[[GEN.1:1]]-God the Father created the heavens and the earth. The Creed says: 'I believe in one God, the Father Almighty, Maker of heaven and earth.' [[GEN.1:2]]-The Spirit of God is the Holy Spirit. He hovered over creation in creative power and equality with the Father. He co-created with the Father. [[GEN.1:3]]-As the Word of God, the Son made the light ([[JOH.1:1]]-3). With creative power and equality with the Father, He also co-created with the Father and the Spirit. [[GEN.1:26]]-The pronouns 'Us' and 'Our' reveal a plurality of divine Persons. These Persons are the Father, Son, and Holy Spirit operating in complete unity out of the one divine Nature. #### The Holy Trinity Saves The World"
     },
     {
-      "source_file": "staging/validated/OT/PRO_footnotes.md",
-      "line_number": 550,
+      "source_file": "study/footnotes/NT/MAT_footnotes.md",
+      "line_number": 275,
       "raw_match": "[[GEN.1:2]]",
       "reference_type": "wikilink",
-      "context": "He is not mentioned here by name, the Holy Spirit was also present and working, for He, too, is the Creator (see [[GEN.1:2]]). Three distinct Persons created the world with one"
+      "context": "The Spirit of God hovered over the water at the first creation ([[GEN.1:2]]). Now, the Holy Spirit comes in the form of a dove to anoint the Messiah, the Son of God, at the beginning of the new creation. Jesus does not become the Son of God this day; rather, He is revealed to all as the Son of God on this day. The Holy Spirit has always rested on Him. The feast day of Epiphany (a manifestation or revelation) or Theophany (a manifestation of God), celebrated on January 6, commemorates this day and points to the age to come."
+    },
+    {
+      "source_file": "study/footnotes/OT/PRO_footnotes.md",
+      "line_number": 373,
+      "raw_match": "[[GEN.1:2]]",
+      "reference_type": "wikilink",
+      "context": "The Son also created the world, for He was working beside the Father. The Father is the Creator, and the Son is the Creator. How so? Because the working is one working. They are two distinct Persons, but the work of creation is one work. Although He is not mentioned here by name, the Holy Spirit was also present and working, for He, too, is the Creator (see [[GEN.1:2]]). Three distinct Persons created the world with one working. This one working is emphasized in the statement: \"The Father made the world through the Son in the Spirit.\" Therefore the Holy Trinity, our one God, made the world with one working, and They rejoice in one another (v. 30)."
     }
   ]
 }

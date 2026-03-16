@@ -2,15 +2,25 @@
   "anchor_id": "JER.28:60",
   "canon_uri": "canon/OT/JER.md#JER.28:60",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "After this, you shall say, 'Thus Babylon shall sink and not rise, because of the calamities I bring upon her.' '",
+  "pericope": {
+    "id": "JER.P050",
+    "title": "Seventy Years of Disgrace",
+    "range": "JER.24:10-38:39",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/REV_footnotes.md",
-      "line_number": 2545,
+      "source_file": "study/footnotes/NT/REV_footnotes.md",
+      "line_number": 1573,
       "raw_match": "[[JER.28:60]]",
       "reference_type": "wikilink",
-      "context": "annihilation ([[JER.28:59]], [[JER.28:60]]; [[NAH.3:4]]-7). Her spell of idolatry, vice, and murder bound the"
+      "context": "The great millstone thrown into the sea recalls Babylon's disasters and annihilation ([[JER.28:59]], [[JER.28:60]]; [[NAH.3:4]]-7). Her spell of idolatry, vice, and murder bound the whole civilized world with a bewitching belief that she was immortal and secure. But as her influence was total, so her destruction is total. No signs of life are seen or heard; an eerie silence pervades. In her was found the blood of prophets and saints (v. 24) here alludes directly to the massacres of Christians under such as Nero and Domitian. However, Babylon as the center of opposition to God and self-deification of creation continues beyond the immediate incarnation to be seen in the Roman Empire."
     }
   ]
 }

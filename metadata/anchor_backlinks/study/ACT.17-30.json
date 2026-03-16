@@ -2,22 +2,32 @@
   "anchor_id": "ACT.17:30",
   "canon_uri": "canon/NT/ACT.md#ACT.17:30",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Truly, these times of ignorance God overlooked, but now commands all men everywhere to repent,",
+  "pericope": {
+    "id": "ACT.P064",
+    "title": "To The Unknown God.",
+    "range": "ACT.17:23-17:33",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/1JN_footnotes.md",
-      "line_number": 199,
+      "source_file": "study/footnotes/NT/1JN_footnotes.md",
+      "line_number": 124,
       "raw_match": "[[ACT.17:30]]",
       "reference_type": "wikilink",
-      "context": "found in Christ Jesus for true life [see [[ACT.17:30]]; [[1TH.1:10]]]. Nothing should seem fitting"
+      "context": "The last hour is the era of the New Covenant, the \"eleventh hour\" ([[MAT.20:6]]). The deceptions at hand, not a specific prediction of the end of the world, are in view. Many antichrists are the heretics, through whom the Antichrist of the end times (see 2Th 2) is doing his spadework. Very early in the second century, on his way to martyrdom in Rome, Ignatius of Antioch wrote, \"These are the last times [see [[1CO.7:29]]]. Let us then be ashamed and fear God's patience so that it may not become condemnation for us. We should either fear the wrath to come or love the grace which is present, one of the two, just so that we may be found in Christ Jesus for true life [see [[ACT.17:30]]; [[1TH.1:10]]]. Nothing should seem fitting to you apart from him in whom I bear my bonds as spiritual pearls. May I rise again in them by your prayer, in which I may always participate so that I may be found in the lot apportioned to the Ephesian Christians, who have always agreed with the apostles by the power of Jesus Christ.\""
     },
     {
-      "source_file": "staging/validated/NT/ROM_footnotes.md",
-      "line_number": 1307,
+      "source_file": "study/footnotes/NT/ROM_footnotes.md",
+      "line_number": 852,
       "raw_match": "[[ACT.17:30]]",
       "reference_type": "wikilink",
-      "context": "unrighteousness because it was practiced in ignorance ([[ACT.17:30]]). By contrast, the Jews"
+      "context": "The first answer to the question of Jewish unbelief was from God's standpoint: His sovereign will (vv. 6-29). Here, Paul gives the second part of the answer, which is man's free response: faith. The Gentiles who had been unconcerned with righteousness now attain it through faith in Christ. God mercifully overlooks their former unrighteousness because it was practiced in ignorance ([[ACT.17:30]]). By contrast, the Jews fail to attain even the righteousness of the law, for they do not pursue the law by faith but by works (v. 32). Because they only saw the letter of the law, they missed both its spirit and its profession of Christ, the Lawgiver, who was to come. Because they saw the letter of the law as being greater than its fulfillment, Christ becomes their stumbling stone (v. 32)."
     }
   ]
 }

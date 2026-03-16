@@ -2,15 +2,25 @@
   "anchor_id": "MAT.9:24",
   "canon_uri": "canon/NT/MAT.md#MAT.9:24",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "He said to them, 'Make room, for the girl is not dead, but sleeping.' And they ridiculed Him.",
+  "pericope": {
+    "id": "MAT.P022",
+    "title": "A Healing and a Resurrection",
+    "range": "MAT.9:17-9:25",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/ACT_footnotes.md",
-      "line_number": 949,
+      "source_file": "study/footnotes/NT/ACT_footnotes.md",
+      "line_number": 641,
       "raw_match": "[[MAT.9:22]]-25",
       "reference_type": "wikilink_range",
-      "context": "ruler's daughter ([[MAT.9:22]]-25)."
+      "context": "Peter's raising of Tabitha from the dead parallels Christ's raising of the synagogue ruler's daughter ([[MAT.9:22]]-25)."
     }
   ]
 }

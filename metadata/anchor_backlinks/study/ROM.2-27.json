@@ -2,15 +2,25 @@
   "anchor_id": "ROM.2:27",
   "canon_uri": "canon/NT/ROM.md#ROM.2:27",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "And will not the physically uncircumcised, if he fulfills the law, judge you who, even with your written code and circumcision, are atransgressor of the law?",
+  "pericope": {
+    "id": "ROM.P007",
+    "title": "Judgment of the Jews",
+    "range": "ROM.2:17-2:28",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/SIR_footnotes.md",
-      "line_number": 1390,
+      "source_file": "study/footnotes/OT/SIR_footnotes.md",
+      "line_number": 1084,
       "raw_match": "[[ROM.2:26]]-29",
       "reference_type": "wikilink_range",
-      "context": "Covenants (see [[ROM.2:26]]-29)."
+      "context": "The tribes of Jacob include all those of the true Israel, in both the Old and New Covenants (see [[ROM.2:26]]-29)."
     }
   ]
 }

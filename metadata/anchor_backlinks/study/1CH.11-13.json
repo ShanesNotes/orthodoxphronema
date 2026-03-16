@@ -2,12 +2,22 @@
   "anchor_id": "1CH.11:13",
   "canon_uri": "canon/OT/1CH.md#1CH.11:13",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "He was with David at Pasdammim, and the Philistines gathered there for battle, near a field full of barley. And the people fled from the sight of the Philistines.",
+  "pericope": {
+    "id": "1CH.P039",
+    "title": "David's Mighty Men",
+    "range": "1CH.11:9-11:46",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/2SA_footnotes.md",
-      "line_number": 920,
+      "source_file": "study/footnotes/OT/2SA_footnotes.md",
+      "line_number": 716,
       "raw_match": "[[1CH.11:11]]-14",
       "reference_type": "wikilink_range",
       "context": "These three men form a special band (see [[1CH.11:11]]-14)."

@@ -2,15 +2,25 @@
   "anchor_id": "EXO.32:11",
   "canon_uri": "canon/OT/EXO.md#EXO.32:11",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "But Moses prayed before the Lord God and said, 'Why, O Lord, does Your wrath burn hot against Your people whom You brought out of the land of Egypt with great power and a mighty hand?",
+  "pericope": {
+    "id": "EXO.P069",
+    "title": "The Golden Calf",
+    "range": "EXO.31:18-32:34",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/HAB_footnotes.md",
-      "line_number": 93,
+      "source_file": "study/footnotes/OT/HAB_footnotes.md",
+      "line_number": 68,
       "raw_match": "[[EXO.32:11]]",
       "reference_type": "wikilink",
-      "context": "like many other biblical prophets: Abraham ([[GEN.18:23]]ff.), Moses ([[EXO.32:11]]ff.), Jeremiah"
+      "context": "With surprising boldness, Habakkuk questions God's judgment. Here Habakkuk is like many other biblical prophets: Abraham ([[GEN.18:23]]ff.), Moses ([[EXO.32:11]]ff.), Jeremiah (20:7), or Amos (7:1ff.). Throughout the Bible, men and women wrestle mightily with God and His will, like Jacob with God at the River Jabbok ([[GEN.32:22]])."
     }
   ]
 }

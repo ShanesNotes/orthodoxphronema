@@ -2,15 +2,25 @@
   "anchor_id": "ROM.5:14",
   "canon_uri": "canon/NT/ROM.md#ROM.5:14",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Nevertheless death reigned from Adam to Moses, even over those who had not sinned according to the likeness of the transgression of Adam, who is atype of Him who was to come.",
+  "pericope": {
+    "id": "ROM.P012",
+    "title": "Righteousness as a Living Reality",
+    "range": "ROM.4:24-5:20",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/1CH_footnotes.md",
-      "line_number": 23,
+      "source_file": "study/footnotes/OT/1CH_footnotes.md",
+      "line_number": 18,
       "raw_match": "[[ROM.5:14]]",
       "reference_type": "wikilink",
-      "context": "hidden treasures which should not be passed over, for they serve to remind us of two allencompassing truths: (1) the reality of our inheritance from Adam: that we live, suffer, have children, and die. We cannot save ourselves ([[ROM.5:14]]), and need a Savior; and (2)"
+      "context": "The first nine chapters of this book are genealogies. They run from Adam to Noah (1:1-4); Noah to Abraham (1:5-15); Abraham to Jacob or Israel (1:16-22); Israel to David (2:1-15); and from the sons of David through the sons of Solomon (3:1-24). Then follow the genealogies of the twelve tribes (4:1-8:40); of the remnant who will return to Jerusalem after the captivity (9:1-24); and of Saul (9:35-44). Genealogies are hidden treasures which should not be passed over, for they serve to remind us of two allencompassing truths: (1) the reality of our inheritance from Adam: that we live, suffer, have children, and die. We cannot save ourselves ([[ROM.5:14]]), and need a Savior; and (2) that God created us in His image, He loves His creation, and He is endlessly interacting in history in order to restore creation to Himself. 1:1-4 In these verses Adam and Noah typify Christ, the \"Beginning and the End\" (Rev"
     }
   ]
 }

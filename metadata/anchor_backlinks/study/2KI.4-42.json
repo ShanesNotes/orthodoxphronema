@@ -2,15 +2,25 @@
   "anchor_id": "2KI.4:42",
   "canon_uri": "canon/OT/2KI.md#2KI.4:42",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Then a man came from Baal-Shalisha and brought to the man of God the firstfruits, twenty loaves of barley bread and fruit cake. And he said, 'Give it to the people and let them eat.'",
+  "pericope": {
+    "id": "2KI.P008",
+    "title": "The Other Miracles",
+    "range": "2KI.4:37-4:43",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/JOH_footnotes.md",
-      "line_number": 1155,
+      "source_file": "study/footnotes/NT/JOH_footnotes.md",
+      "line_number": 718,
       "raw_match": "[[2KI.4:42]]-44",
       "reference_type": "wikilink_range",
-      "context": "had multiplied bread for 100 men ([[2KI.4:42]]-44), he offers the food brought by a certain"
+      "context": "Christ tests Philip to increase his faith (v. 5), for Philip needed help in understanding Him (14:8-10). Two hundred denarii corresponds to over six months' wages for a laborer. Andrew has greater faith than Philip: knowing the prophet Elisha had multiplied bread for 100 men ([[2KI.4:42]]-44), he offers the food brought by a certain lad. Nevertheless, Andrew is still weak in faith, questioning what a mere five loaves could do for the number of people there (v. 9)."
     }
   ]
 }

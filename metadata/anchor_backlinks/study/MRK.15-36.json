@@ -2,15 +2,25 @@
   "anchor_id": "MRK.15:36",
   "canon_uri": "canon/NT/MRK.md#MRK.15:36",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Then someone ran and filled a sponge full of sour wine, put it on a reed, and offered it to Him to drink, saying, 'Let Him alone; let us see if Elijah will come to take Him down.'",
+  "pericope": {
+    "id": "MRK.P058",
+    "title": "The King Of The Jews. \u2020",
+    "range": "MRK.15:26-15:39",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/PSA_footnotes.md",
-      "line_number": 1295,
+      "source_file": "study/footnotes/OT/PSA_footnotes.md",
+      "line_number": 788,
       "raw_match": "[[MRK.15:36]]",
       "reference_type": "wikilink",
-      "context": "[[MRK.15:23]], [[MRK.15:36]]; [[LUK.23:36]]; [[JOH.19:28]]-30); and (4) the Jews would be rejected for their"
+      "context": "Ps 68 prophesies the Passion of the Lord Jesus Christ (the End, v. 1) and the changes it would bring about (concerning things that shall be changed, v. 1). The changes His Passion would bring are noted throughout the psalm. Examples are: (1) the Church would become a house of prayer for all peoples (v. 10; see also [[JOH.2:19]]; [[MAT.21:13]]; Mk 11:17; [[LUK.19:46]]); (2) the cross would bear our reproaches against God (v. 10; see also Rom 15:3); (3) the cross would destroy death (gall and vinegar, v. 22; see also [[MAT.27:34]], [[MAT.27:48]]; [[MRK.15:23]], [[MRK.15:36]]; [[LUK.23:36]]; [[JOH.19:28]]-30); and (4) the Jews would be rejected for their unbelief, and the believing Gentiles brought to salvation (vv. 23, 24; [[ROM.9:9]]-11)."
     }
   ]
 }

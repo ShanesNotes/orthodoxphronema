@@ -241,7 +241,7 @@ The spiritual reality of the bronze serpent made by Moses ([[NUM.21:9]]) is lost
 meaning worthless. 18:7
 The Lord was with Hezekiah, for in faith He waited on the Lord and the promise of
 His Incarnation ([[MAT.1:22]], [[MAT.1:23]]). 18:13-19
-This account is also recorded in Isaiah 36:1-39:8. 18:16
+This account is also recorded in [[ISA.36:1]]-39:8. 18:16
 Hezekiah's priority is not the temple gold but the preservation of the remnant in
 Judah (19:4). 18:28-35
 Rabshakeh's words are those of a false prophet and a blasphemer (see 19:6). He

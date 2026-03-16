@@ -2,15 +2,25 @@
   "anchor_id": "MRK.15:34",
   "canon_uri": "canon/NT/MRK.md#MRK.15:34",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "And at the ninth hour Jesus cried out with a loud voice, saying, 'Eloi, Eloi, lama sabachthani?' which is translated, 'My God, My God, why have You forsaken Me?'",
+  "pericope": {
+    "id": "MRK.P058",
+    "title": "The King Of The Jews. \u2020",
+    "range": "MRK.15:26-15:39",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/PSA_footnotes.md",
-      "line_number": 427,
+      "source_file": "study/footnotes/OT/PSA_footnotes.md",
+      "line_number": 260,
       "raw_match": "[[MRK.15:34]]",
       "reference_type": "wikilink",
-      "context": "to the Crucifixion: for example, v. 2, quoted in [[MAT.27:46]] and [[MRK.15:34]]; v. 9, quoted in Mt"
+      "context": "Ps 21 is a prophecy of the Lord's death and Resurrection, and of His Church. Thus, this psalm may be outlined as follows: (1) the Resurrection (v. 1); (2) the Crucifixion (vv. 2- 22); (3) the Church (vv. 23-33). (1) Christ is the End, and He was resurrected early in the morning (v. 1; see also Mk 16:2; [[LUK.24:1]]). (2) The New Testament quotes several verses from this psalm in relation to the Crucifixion: for example, v. 2, quoted in [[MAT.27:46]] and [[MRK.15:34]]; v. 9, quoted in Mt 27:43; and v. 19, quoted in [[MAT.27:35]]. (3) The New Testament also quotes v. 23 in Heb 2:12, referring to the \"one, holy, catholic and apostolic Church\" (Creed)."
     }
   ]
 }

@@ -2,15 +2,25 @@
   "anchor_id": "JER.2:13",
   "canon_uri": "canon/OT/JER.md#JER.2:13",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "'For My people have committed two evils: They forsook Me, the fountain of living water, and hewed for themselves broken cisterns, unable to hold water.",
+  "pericope": {
+    "id": "JER.P005",
+    "title": "Forsaking the Lord",
+    "range": "JER.2:13-2:27",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/BAR_footnotes.md",
-      "line_number": 133,
+      "source_file": "study/footnotes/OT/BAR_footnotes.md",
+      "line_number": 110,
       "raw_match": "[[JER.2:13]]",
       "reference_type": "wikilink",
-      "context": "The fountain of wisdom is a likely reference to God the Father (see [[JER.2:13]], where"
+      "context": "The fountain of wisdom is a likely reference to God the Father (see [[JER.2:13]], where the Father and Son are together depicted as a fountain and living water). In WSir 1:5, the Word is described as the fountain of wisdom (see [[LUK.2:40]], [[LUK.2:52]]; 21:15; [[JOH.4:13]], [[JOH.4:14]])."
     }
   ]
 }

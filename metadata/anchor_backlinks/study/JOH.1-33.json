@@ -2,15 +2,25 @@
   "anchor_id": "JOH.1:33",
   "canon_uri": "canon/NT/JOH.md#JOH.1:33",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "I did not know Him, but He who sent me to baptize with water said to me, 'Upon whom you see the Spirit descending, and remaining on Him, this is He who baptizes with the Holy Spirit.'",
+  "pericope": {
+    "id": "JOH.P005",
+    "title": "The Baptist's Testimony to Christ",
+    "range": "JOH.1:28-1:33",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/MAT_footnotes.md",
-      "line_number": 17,
+      "source_file": "study/footnotes/NT/MAT_footnotes.md",
+      "line_number": 15,
       "raw_match": "[[JOH.1:33]]",
       "reference_type": "wikilink",
-      "context": "\"Anointed One,\" the Messiah, the One who is filled with the Holy Spirit (see [[JOH.1:33]])."
+      "context": "Jesus means \"O Lord, save,\" referring to His role as Savior (v. 21). Christ means \"Anointed One,\" the Messiah, the One who is filled with the Holy Spirit (see [[JOH.1:33]]). Though the Son alone became Man, God the Father and the Holy Spirit work in Jesus Christ to save us. Jesus became Man as a Jew, from the lineage of Abraham, the father of all Jews, and of David, Israel's greatest king and the prototype of the royal Messiah. This genealogy reveals that the Son of God so identifies with the human condition that He takes it all on Himself and becomes part of it. Christ's ancestry includes both righteous and wicked people, faithful kings and murderers, Jews and Gentiles, kings and peasants."
     }
   ]
 }

@@ -2,15 +2,25 @@
   "anchor_id": "2CH.3:1",
   "canon_uri": "canon/OT/2CH.md#2CH.3:1",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Now Solomon began to build the house of the Lord at Jerusalem on Mount Moriah, where the Lord had appeared to his father David, at the place that David had prepared on the threshing floor of Ornan the Jebusite.",
+  "pericope": {
+    "id": "2CH.P004",
+    "title": "Construction Begins on the Temple",
+    "range": "2CH.2:15-4:22",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/2SA_footnotes.md",
-      "line_number": 965,
+      "source_file": "study/footnotes/OT/2SA_footnotes.md",
+      "line_number": 751,
       "raw_match": "[[2CH.3:1]]",
       "reference_type": "wikilink",
-      "context": "later will use the threshing-floor as the site for his temple (see [[1CH.22:1]]; [[2CH.3:1]]). David's court history is concluded in chapters 1 and 2 of 3 Kingdoms."
+      "context": "Gad instructs David to set up an altar and offer sacrifice. The purchase of the threshing-floor of Orna the Jebusite and the oxen begins the offering of sacrifices in Jerusalem. This story is intended to reflect the origin of sacrifices there. Solomon later will use the threshing-floor as the site for his temple (see [[1CH.22:1]]; [[2CH.3:1]]). David's court history is concluded in chapters 1 and 2 of 3 Kingdoms."
     }
   ]
 }

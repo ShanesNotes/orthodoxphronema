@@ -2,15 +2,25 @@
   "anchor_id": "1CO.16:7",
   "canon_uri": "canon/NT/1CO.md#1CO.16:7",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "For I do not wish to see you now on the way; but I hope to stay awhile with you, if the Lord permits.",
+  "pericope": {
+    "id": "1CO.P041",
+    "title": "Paul's Plans",
+    "range": "1CO.16:4-16:11",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/2CO_footnotes.md",
-      "line_number": 63,
+      "source_file": "study/footnotes/NT/2CO_footnotes.md",
+      "line_number": 46,
       "raw_match": "[[1CO.16:5]]-7",
       "reference_type": "wikilink_range",
-      "context": "Corinth, passing through Macedonia in northern Greece ([[1CO.16:5]]-7). (2) When he felt"
+      "context": "Paul has changed his travel plans. (1) In his earlier letter, he planned to travel to Corinth, passing through Macedonia in northern Greece ([[1CO.16:5]]-7). (2) When he felt compelled to go to Corinth immediately, the \"sorrowful visit,\" he planned to visit Corinth twice (vv. 15, 16); but he actually came only once. (3) In the \"sorrowful\" letter (now lost), written after that visit, he stated his plan to travel directly from Ephesus to Corinth. Instead, he traveled up through Macedonia (2:12, 13). This was perceived as vacillation by some in Corinth."
     }
   ]
 }

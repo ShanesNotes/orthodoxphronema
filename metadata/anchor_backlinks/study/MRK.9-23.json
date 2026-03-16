@@ -2,15 +2,25 @@
   "anchor_id": "MRK.9:23",
   "canon_uri": "canon/NT/MRK.md#MRK.9:23",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Jesus said to him, 'If you can believe, all things are possible to him who believes.'",
+  "pericope": {
+    "id": "MRK.P033",
+    "title": "The Transfiguration",
+    "range": "MRK.9:1-9:28",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/LUK_footnotes.md",
-      "line_number": 1441,
+      "source_file": "study/footnotes/NT/LUK_footnotes.md",
+      "line_number": 957,
       "raw_match": "[[MRK.9:22]]-24",
       "reference_type": "wikilink_range",
-      "context": "the crowds, whose faith was weaker still (see [[MRK.9:22]]-24)."
+      "context": "While the disciples' faith was incomplete ([[MAT.17:19]], [[MAT.17:20]]), Christ's rebuke is also to the crowds, whose faith was weaker still (see [[MRK.9:22]]-24)."
     }
   ]
 }

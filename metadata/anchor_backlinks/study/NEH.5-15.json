@@ -2,15 +2,25 @@
   "anchor_id": "NEH.5:15",
   "canon_uri": "canon/OT/NEH.md#NEH.5:15",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "But the former governors who were before me laid burdens on the people and took from them bread and wine, besides forty shekels of silver. Yes, even the outcasts bore rule over the people, but I did not do so because of the fear of God.",
+  "pericope": {
+    "id": "NEH.P019",
+    "title": "Conspiracy against Jerusalem",
+    "range": "NEH.4:5-7:37",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/ACT_footnotes.md",
-      "line_number": 2049,
+      "source_file": "study/footnotes/NT/ACT_footnotes.md",
+      "line_number": 1294,
       "raw_match": "[[NEH.5:14]]-19",
       "reference_type": "wikilink_range",
-      "context": "to question his motives (compare with [[NEH.5:14]]-19; 13:10-13). The quotation from"
+      "context": "While St. Paul teaches the clergy should be supported materially by the faithful ([[1CO.9:1]]-23), he has not required this for himself from the communities he established. This allowed Paul to preach all the more freely and took away any opportunity for others to question his motives (compare with [[NEH.5:14]]-19; 13:10-13). The quotation from Christ (v. 35) is not recorded in the four Gospels (see [[JOH.21:25]])."
     }
   ]
 }

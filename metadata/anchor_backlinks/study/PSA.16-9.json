@@ -2,15 +2,25 @@
   "anchor_id": "PSA.16:9",
   "canon_uri": "canon/OT/PSA.md#PSA.16:9",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "From the face of the ungodly who trouble me. My enemies surrounded my soul;",
+  "pericope": {
+    "id": "PSA.P016",
+    "title": "Psalm 16",
+    "range": "PSA.16:1-16:15",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/1CO_footnotes.md",
-      "line_number": 1325,
+      "source_file": "study/footnotes/NT/1CO_footnotes.md",
+      "line_number": 881,
       "raw_match": "[[PSA.16:9]]-12",
       "reference_type": "wikilink_range",
-      "context": "(See [[PSA.16:9]]-12; [[GAL.1:4]]; [[1JN.2:2]]; 4:10.)"
+      "context": "Paul delivered an apostolic tradition of Christ's Resurrection which is unchanging and sufficient for salvation (v. 2). How had Paul received his gospel? By direct experience with the risen Lord (v. 8), confirmed by his interactions with the original apostles ([[GAL.2:2]]-10) and the whole Church. It is impossible to decipher what he learned where; in Paul's mind, his gospel forms a seamless whole. \"To receive\" designates the passing on of tradition (see 11:2, 23; [[GAL.1:9]]; [[PHP.4:9]]; [[1TH.2:13]]; 4:1). 15:3-4 This concise statement of the gospel is probably part of an early creed or catechism. (See [[PSA.16:9]]-12; [[GAL.1:4]]; [[1JN.2:2]]; 4:10.)"
     }
   ]
 }

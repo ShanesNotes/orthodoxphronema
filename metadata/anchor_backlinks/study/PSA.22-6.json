@@ -2,15 +2,25 @@
   "anchor_id": "PSA.22:6",
   "canon_uri": "canon/OT/PSA.md#PSA.22:6",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Surely goodness and mercy shall follow me All the days of my life; And I will dwell in the house of the Lord to the end of my days.",
+  "pericope": {
+    "id": "PSA.P022",
+    "title": "Psalm 22",
+    "range": "PSA.22:1-22:6",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/SNG_footnotes.md",
-      "line_number": 691,
+      "source_file": "study/footnotes/OT/SNG_footnotes.md",
+      "line_number": 520,
       "raw_match": "[[PSA.22:6]]",
       "reference_type": "wikilink",
-      "context": "My mother's house is symbolic of the \"house of the Lord\" ([[PSA.22:6]]). God's house"
+      "context": "My mother's house is symbolic of the \"house of the Lord\" ([[PSA.22:6]]). God's house has \"many mansions\" or dwellings ([[JOH.14:2]]), and these chambers are the intended home of all humanity. In the spiced wine we see in mystery the mixed wine consecrated in the Eucharist."
     }
   ]
 }

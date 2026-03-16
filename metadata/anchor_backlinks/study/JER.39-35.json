@@ -2,15 +2,25 @@
   "anchor_id": "JER.39:35",
   "canon_uri": "canon/OT/JER.md#JER.39:35",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "They built altars to Baal in the valley of the son of Hinnom, to offer their sons and daughters to King Molech, which things I did not command; nor did such things come into My heart, for them to do this abomination to cause Judah to sin.'",
+  "pericope": {
+    "id": "JER.P051",
+    "title": "The Nation Will Be Restored",
+    "range": "JER.38:40-52:28",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/MAT_footnotes.md",
-      "line_number": 1655,
+      "source_file": "study/footnotes/NT/MAT_footnotes.md",
+      "line_number": 1068,
       "raw_match": "[[JER.39:35]]",
       "reference_type": "wikilink",
-      "context": "a place of forbidden religious practices ([[2CH.28:3]]; [[JER.39:35]]). King Josiah put an end to"
+      "context": "That there is no need to fear the killing of the soul shows the immortality of the human soul, which is ours by grace. Fear Him is a command to fear God (Pr 9:10; Lk 1:50; 23:40; [[ACT.10:2]]; [[COL.3:22]]; [[1PE.2:17]]), for only God has the power to judge the soul. Christians are instructed to resist the devil ([[JAS.4:7]]), but not to fear him. Hell is literally \"Gehenna.\" In Jewish history, Gehenna (the Valley of Hinnom) became a place of forbidden religious practices ([[2CH.28:3]]; [[JER.39:35]]). King Josiah put an end to these practices ([[2KI.23:10]]). By Christ's time, the valley had become a garbage dump that smoldered ceaselessly. Because of these associations, Gehenna acquired the connotation of eternal punishment in the afterlife."
     }
   ]
 }

@@ -2,15 +2,25 @@
   "anchor_id": "2TI.2:15",
   "canon_uri": "canon/NT/2TI.md#2TI.2:15",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Be diligent to present yourself approved to God, a worker who does not need to be ashamed, rightly dividing the word of truth.",
+  "pericope": {
+    "id": "2TI.P007",
+    "title": "Apostolic Teaching vs. Error",
+    "range": "2TI.2:13-2:18",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/LUK_footnotes.md",
-      "line_number": 3205,
+      "source_file": "study/footnotes/NT/LUK_footnotes.md",
+      "line_number": 2139,
       "raw_match": "[[2TI.2:15]]",
       "reference_type": "wikilink",
-      "context": "Scriptures taught correctly and with faith (see [[2TI.2:15]]). This burning is the conviction"
+      "context": "Did not our heart burn within us: The inescapable effect of hearing the Holy Scriptures taught correctly and with faith (see [[2TI.2:15]]). This burning is the conviction that the words and promises are true."
     }
   ]
 }

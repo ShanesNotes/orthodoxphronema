@@ -2,22 +2,32 @@
   "anchor_id": "AMO.5:19",
   "canon_uri": "canon/OT/AMO.md#AMO.5:19",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "It will be as though a man fled from a lion, and a bear met him! As though he rushed into the house, leaned his hand on the wall, and a serpent bit him!",
+  "pericope": {
+    "id": "AMO.P007",
+    "title": "A Call to Repentance",
+    "range": "AMO.5:3-5:26",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/LUK_footnotes.md",
-      "line_number": 1001,
-      "raw_match": "[[AMO.5:19]]",
-      "reference_type": "wikilink",
-      "context": "not merely of sorrow, but of unspeakable destruction (Is 5:18-24; [[AMO.5:18]], [[AMO.5:19]]; Rev"
-    },
-    {
-      "source_file": "staging/validated/OT/LEV_articles.md",
-      "line_number": 24,
+      "source_file": "study/articles/OT/LEV_articles.md",
+      "line_number": 26,
       "raw_match": "[[AMO.5:9]]-27",
       "reference_type": "wikilink_range",
-      "context": "Christ's once-for-all offering of Himself is for all people for all time, and supersedes the Mosaic sacrificial system. Accordingly, the mystery of the eucharistic service, accomplished within the Divine Liturgy of the Church, is done 'in remembrance' of Christ's sacrifice ([[LUK.22:19]]) and is a 'reasonable and bloodless sacrifice' to be understood as our sacrifice-offering to God-'a mercy of peace, a sacrifice of praise.' In the Divine Liturgy, instead of an animal or grain offering, we offer the Body and Blood of Christ to God. In a mystery known only to God, we thereby participate in the very Body and Blood of Christ offered once for all. And in this substantial union between Christ-the One sacrificed-and the worshiper, we come to more fully understand how we are united to Christ in our baptism and nurtured in our union with Christ by the eucharistic offering. The Church prays, 'Thine own of Thine own we offer unto Thee, on behalf of all and for all.' Offering sacrifices never exempted the Hebrews from the duty to live prayerfully and morally (Pr 15:8, 9). Moreover, Old Testament prophets stood against empty ritual and vain sacrifice (1Kg 15:22; Pss 49:7-15; 50:15-17; Is 1:1-20; [[HOS.6:6]]; [[AMO.5:9]]-27; [[MIC.6:1]]-8). Hence, the Mosaic sacrificial system not only prefigures Christ's own sacrifice, but also points to the pouring out of ourselves in self-sacrificial service as detailed in [[ROM.12:1]] and 1 Peter 2:5."
+      "context": "Christ's once-for-all offering of Himself is for all people for all time, and supersedes the Mosaic sacrificial system. Accordingly, the mystery of the eucharistic service, accomplished within the Divine Liturgy of the Church, is done 'in remembrance' of Christ's sacrifice ([[LUK.22:19]]) and is a 'reasonable and bloodless sacrifice' to be understood as our sacrifice-offering to God-'a mercy of peace, a sacrifice of praise.' In the Divine Liturgy, instead of an animal or grain offering, we offer the Body and Blood of Christ to God. In a mystery known only to God, we thereby participate in the very Body and Blood of Christ offered once for all. And in this substantial union between Christ-the One sacrificed-and the worshiper, we come to more fully understand how we are united to Christ in our baptism and nurtured in our union with Christ by the eucharistic offering. The Church prays, 'Thine own of Thine own we offer unto Thee, on behalf of all and for all.' Offering sacrifices never exempted the Hebrews from the duty to live prayerfully and morally ([[PRO.15:8]], 9). Moreover, Old Testament prophets stood against empty ritual and vain sacrifice ([[1SA.15:22]]; [[PSA.49:7]]-15; 50:15-17; [[ISA.1:1]]-20; [[HOS.6:6]]; [[AMO.5:9]]-27; [[MIC.6:1]]-8). Hence, the Mosaic sacrificial system not only prefigures Christ's own sacrifice, but also points to the pouring out of ourselves in self-sacrificial service as detailed in [[ROM.12:1]] and [[1PE.2:5]]."
+    },
+    {
+      "source_file": "study/footnotes/NT/LUK_footnotes.md",
+      "line_number": 669,
+      "raw_match": "[[AMO.5:19]]",
+      "reference_type": "wikilink",
+      "context": "Luke reports four \"woes\" not found in Matthew's account. Woe is an indication not merely of sorrow, but of unspeakable destruction (Is 5:18-24; [[AMO.5:18]], [[AMO.5:19]]; Rev 12:12). Those who prize the vices listed here are liable to the \"utmost misery\"; however, they find hope when they sacrifice their earthly blessings in showing mercy to others (CyrAl)."
     }
   ]
 }

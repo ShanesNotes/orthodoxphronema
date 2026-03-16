@@ -2,15 +2,25 @@
   "anchor_id": "GEN.17:15",
   "canon_uri": "canon/OT/GEN.md#GEN.17:15",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Then God said to Abraham, 'As for Sarai your wife, you shall not call her name Sarai, but Sarah shall be her name.",
+  "pericope": {
+    "id": "GEN.P022",
+    "title": "Circumcision: Sign of the Covenant",
+    "range": "GEN.16:16-17:26",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/LUK_footnotes.md",
-      "line_number": 327,
+      "source_file": "study/footnotes/NT/LUK_footnotes.md",
+      "line_number": 216,
       "raw_match": "[[GEN.17:15]]",
       "reference_type": "wikilink",
-      "context": "Elizabeth affirms God has called John to a specific mission (see also 1:31; [[GEN.17:5]], [[GEN.17:15]];"
+      "context": "John means \"grace of God.\" By insisting on the name God chose for her son, Elizabeth affirms God has called John to a specific mission (see also 1:31; [[GEN.17:5]], [[GEN.17:15]]; 32:28)."
     }
   ]
 }

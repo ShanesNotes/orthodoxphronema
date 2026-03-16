@@ -2,22 +2,32 @@
   "anchor_id": "EXO.20:22",
   "canon_uri": "canon/OT/EXO.md#EXO.20:22",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Then the Lord said to Moses, 'Thus you shall say to the house of Jacob and report it to the children of Israel: 'You have seen that I talked with you from heaven.",
+  "pericope": {
+    "id": "EXO.P038",
+    "title": "Making an Altar",
+    "range": "EXO.20:21-20:25",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/EXO_articles.md",
+      "source_file": "study/articles/OT/EXO_articles.md",
       "line_number": 23,
       "raw_match": "[[EXO.20:1]]-26",
       "reference_type": "wikilink_range",
       "context": "Christ and Moses were friends and conversed as friends. The pre-incarnate Christ gave Moses the Law; in turn, Moses gave it to Israel ([[EXO.20:1]]-26). As the Lawgiver, Christ, not Moses, was the Author of the Law. Moses was His servant. In the New Testament, Moses and Elijah appeared with Christ on the Mount of Transfiguration, and they conversed with Him as friend with friend ([[MAT.17:1]]-8). The presence of Moses shows Christ as the fulfillment of the Law. The presence of Elijah shows Christ as the fulfillment of the Prophets. #### Contrast Between Christ And Moses"
     },
     {
-      "source_file": "staging/validated/OT/EXO_articles.md",
+      "source_file": "study/articles/OT/EXO_articles.md",
       "line_number": 26,
       "raw_match": "[[EXO.20:22]]",
       "reference_type": "wikilink",
-      "context": "Christ is incomparably greater than Moses, for Christ, the Son of God, who brought all creation into existence from nonexistence, is building His Church. When Christ gave Moses and Israel the Law, He spoke as the Lord their God. Moses, however, spoke to Israel in the name of the Lord their God, not in his own name ([[EXO.20:22]]). When the Son of God became incarnate, He continued to speak to Israel, but now directly and not through a prophet. Although during His three-year ministry in Israel, He did works and spoke words in His almighty power, Israel refused to believe Him, their own Lord God. But to those Jews who did believe, He gave authority to become His children ([[JOH.1:11]], [[JOH.1:12]]). Christ also gave authority to believing Gentiles to become His children. In the Old Testament, He made it clear through Moses and His prophets the Gentiles would be included in promises to Israel (for example, [[GEN.12:1]]-3; Is 49:5, 6). Both would be in His Church. Race is not the issue, but rather faith in Christ. His Church is one, composed of every nation, tongue and tribe ([[REV.5:9]]). #### Harmonybetween Law And Grace"
+      "context": "Christ is incomparably greater than Moses, for Christ, the Son of God, who brought all creation into existence from nonexistence, is building His Church. When Christ gave Moses and Israel the Law, He spoke as the Lord their God. Moses, however, spoke to Israel in the name of the Lord their God, not in his own name ([[EXO.20:22]]). When the Son of God became incarnate, He continued to speak to Israel, but now directly and not through a prophet. Although during His three-year ministry in Israel, He did works and spoke words in His almighty power, Israel refused to believe Him, their own Lord God. But to those Jews who did believe, He gave authority to become His children ([[JOH.1:11]], [[JOH.1:12]]). Christ also gave authority to believing Gentiles to become His children. In the Old Testament, He made it clear through Moses and His prophets the Gentiles would be included in promises to Israel (for example, [[GEN.12:1]]-3; [[ISA.49:5]], 6). Both would be in His Church. Race is not the issue, but rather faith in Christ. His Church is one, composed of every nation, tongue and tribe ([[REV.5:9]]). #### Harmony between Law And Grace"
     }
   ]
 }

@@ -2,15 +2,25 @@
   "anchor_id": "EZK.36:28",
   "canon_uri": "canon/OT/EZK.md#EZK.36:28",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "You will dwell in the land I gave to your fathers. You will be My people, and I shall be your God.",
+  "pericope": {
+    "id": "EZK.P059",
+    "title": "The Cleansing of Israel",
+    "range": "EZK.36:15-36:38",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/BAR_footnotes.md",
-      "line_number": 121,
+      "source_file": "study/footnotes/OT/BAR_footnotes.md",
+      "line_number": 99,
       "raw_match": "[[EZK.36:26]]-29",
       "reference_type": "wikilink_range",
-      "context": "41; [[EZK.36:26]]-29; [[AMO.9:15]]; [[HEB.13:20]])."
+      "context": "The everlasting covenant is fulfilled in Christ and His new covenant (Jer 32:38- 41; [[EZK.36:26]]-29; [[AMO.9:15]]; [[HEB.13:20]])."
     }
   ]
 }

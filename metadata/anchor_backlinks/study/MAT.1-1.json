@@ -2,36 +2,46 @@
   "anchor_id": "MAT.1:1",
   "canon_uri": "canon/NT/MAT.md#MAT.1:1",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "The book of the genealogy of Jesus Christ, the Son of David, the Son of Abraham:",
+  "pericope": {
+    "id": "MAT.P001",
+    "title": "Matthew \u2014 Opening",
+    "range": "MAT.1:1-1:24",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/EZK_footnotes.md",
-      "line_number": 48,
+      "source_file": "study/footnotes/OT/EZK_footnotes.md",
+      "line_number": 36,
       "raw_match": "[[MAT.1:1]]",
       "reference_type": "wikilink",
-      "context": "Gospel with Christ's genealogy ([[MAT.1:1]]). The lion is Mark, \"because of the crying in the"
+      "context": "St. Gregory the Great comments that the man is Matthew, because he begins his Gospel with Christ's genealogy ([[MAT.1:1]]). The lion is Mark, \"because of the crying in the wilderness\" ([[MRK.1:1]]). The ox is Luke, \"because he started with a sacrifice\" ([[LUK.1:8]]). The eagle is John, who \"stretched toward the very substance of divinity\" ([[JOH.1:1]]). Gregory also sees in them types of Christ, who became a man in the Incarnation, an ox on the Cross, a lion in the Resurrection, and an eagle in the Ascension. Finally, says Gregory, they symbolize \"every one of the elect, who are perfect in the way of God,\" whose virtues are reason, self-sacrifice, fortitude, and contemplation of heavenly things."
     },
     {
-      "source_file": "staging/validated/OT/PSA_footnotes.md",
-      "line_number": 65,
+      "source_file": "study/footnotes/OT/PSA_footnotes.md",
+      "line_number": 43,
       "raw_match": "[[MAT.1:1]]",
       "reference_type": "wikilink",
-      "context": "flesh ([[MAT.1:1]]; [[ROM.1:3]]). Thus, Jesus is praying to the Lord, who is God the Father (vv. 2,"
+      "context": "The historical account in Ps 3 is that of King David fleeing from his son, Absalom (2Kg 15-18). But prophetically, Ps 3 is speaking of Jesus as the Son of David according to the flesh ([[MAT.1:1]]; [[ROM.1:3]]). Thus, Jesus is praying to the Lord, who is God the Father (vv. 2, 4, 5, 6, 8, 9). And the many... who rise up against me (v. 2) are the fallen angels, of whom Absalom and his army were a type. These angels, which number ten thousands (v. 7), always lie in their denial of man's salvation through Christ (v. 3). But just as Jesus always rejected their lies (vv. 4-9), so He is teaching His Church to do the same."
     },
     {
-      "source_file": "staging/validated/OT/PSA_footnotes.md",
-      "line_number": 1599,
+      "source_file": "study/footnotes/OT/PSA_footnotes.md",
+      "line_number": 980,
       "raw_match": "[[MAT.1:1]]",
       "reference_type": "wikilink",
-      "context": "also [[MAT.1:1]]), the Lord God (vv. 7, 8, 9; see also [[JOH.20:28]]), the Firstborn of God the Father"
+      "context": "Ps 88 concerns understanding the Lord's mercy and truth (vv. 2, 3, 6, 9, 15, 25, 29, 34, 50). This mercy and truth is in the new covenant He made with the Church (vv. 4, 6, 29, 35, 40). In His Incarnation, the Lord is called \"the seed of David\" (see vv. 4, 21, 50; see also [[MAT.1:1]]), the Lord God (vv. 7, 8, 9; see also [[JOH.20:28]]), the Firstborn of God the Father (vv. 27, 28; see also [[HEB.1:6]]), and the King (v. 19; see also [[1TI.6:15]]). His throne is established in the Church through the works of His Incarnation--for example, through His Transfiguration on Mt. Tabor (vv. 6-19), through His sufferings and death (vv. 39- 46), and through His Resurrection (vv. 47-52)."
     },
     {
-      "source_file": "staging/validated/OT/PSA_footnotes.md",
-      "line_number": 2035,
+      "source_file": "study/footnotes/OT/PSA_footnotes.md",
+      "line_number": 1236,
       "raw_match": "[[MAT.1:1]]",
       "reference_type": "wikilink",
-      "context": "flesh ([[MAT.1:1]]), but He is also the Lord of David according to His divinity (see also Mt"
+      "context": "Ps 109 is a prophecy concerning the Melchizedek Priesthood of the Lord Jesus Christ, which explains the true meaning of the Nativity. In [[GEN.14:18]]-20, Melchizedek is called the king of Salem and priest of the Most High God (see also [[HEB.7:1]]). His priesthood was not based on genealogy ([[HEB.7:3]]). It was based on himself alone, for no one preceded him in priesthood, nor succeeded him ([[HEB.7:8]]). On this basis he was a type of Christ, whose priesthood is based in His endless life, for He rose again from the dead ([[HEB.7:16]]). The Lord [the Father] said to my Lord [Christ], \"Sit at My right hand\" (v. 1). For Christ is not only Man, but also the Lord God, coequal and one in nature with the Father. For He is begotten from the Father before all time (before the morning star, v. 3), and is therefore His eternal Son (v. 3; see also Creed). He is the Son of David according to the flesh ([[MAT.1:1]]), but He is also the Lord of David according to His divinity (see also Mt 22:41-45). At the Father's right hand, this Melchizedek Priest rules and reigns over all things, including His enemies (vv. 1, 2, 5-7), and leads His Church in heavenly worship of the Blessed Trinity (v. 3)."
     }
   ]
 }

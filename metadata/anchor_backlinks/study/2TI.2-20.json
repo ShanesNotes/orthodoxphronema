@@ -2,15 +2,25 @@
   "anchor_id": "2TI.2:20",
   "canon_uri": "canon/NT/2TI.md#2TI.2:20",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "But in a great house there are not only vessels of gold and silver, but also of wood and clay, some for honor and some for dishonor.",
+  "pericope": {
+    "id": "2TI.P008",
+    "title": "Apostolic Conduct vs. Error",
+    "range": "2TI.2:19-2:25",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/1TH_footnotes.md",
-      "line_number": 179,
+      "source_file": "study/footnotes/NT/1TH_footnotes.md",
+      "line_number": 118,
       "raw_match": "[[2TI.2:20]]",
       "reference_type": "wikilink",
-      "context": "His own vessel speaks of the entire human being ([[ROM.9:20]]-23; [[2CO.4:7]]; [[2TI.2:20]],"
+      "context": "His own vessel speaks of the entire human being ([[ROM.9:20]]-23; [[2CO.4:7]]; [[2TI.2:20]], 21)--probably one's own self, perhaps one's wife (or husband). In either case one's vessel must be possessed with purity, self-control, and chastity."
     }
   ]
 }

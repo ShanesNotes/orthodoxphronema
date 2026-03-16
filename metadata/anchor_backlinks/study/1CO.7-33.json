@@ -2,15 +2,25 @@
   "anchor_id": "1CO.7:33",
   "canon_uri": "canon/NT/1CO.md#1CO.7:33",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "But he who is married cares about the things of the worldhow he may please his wife.",
+  "pericope": {
+    "id": "1CO.P017",
+    "title": "Concerning Virginity",
+    "range": "1CO.7:24-7:37",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/MAT_footnotes.md",
-      "line_number": 2641,
+      "source_file": "study/footnotes/NT/MAT_footnotes.md",
+      "line_number": 1703,
       "raw_match": "[[1CO.7:25]]-38",
       "reference_type": "wikilink_range",
-      "context": "also [[1CO.7:7]], [[1CO.7:25]]-38."
+      "context": "Christ steers the disciples toward understanding the holiness of virginity, not as a rejection of marriage, but as a special calling for those to whom it has been given. Eunuchs were men who had been castrated, whether by birth defect, disease, or mutilation, and were often employed to guard women of nobility. Here, Jesus uses the term figuratively for those who freely choose lifelong celibacy for the sake of the kingdom of heaven. This consecrated virginity is not to be confused with selfmutilation, which the Church condemned at the First Ecumenical Council (AD 325). See also [[1CO.7:7]], [[1CO.7:25]]-38."
     }
   ]
 }

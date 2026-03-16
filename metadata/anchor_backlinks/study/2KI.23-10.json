@@ -2,29 +2,39 @@
   "anchor_id": "2KI.23:10",
   "canon_uri": "canon/OT/2KI.md#2KI.23:10",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "He defiled Topheth, which is in the Valley of the Son of Hinnom, so no man might make his son or his daughter pass through the fire as an offering to Molech.",
+  "pericope": {
+    "id": "2KI.P060",
+    "title": "True Worship of God Is Restored",
+    "range": "2KI.22:20-23:19",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/MAT_footnotes.md",
-      "line_number": 1657,
+      "source_file": "study/footnotes/NT/MAT_footnotes.md",
+      "line_number": 1069,
       "raw_match": "[[2KI.23:10]]",
       "reference_type": "wikilink",
-      "context": "these practices ([[2KI.23:10]]). By Christ's time, the valley had become a garbage dump that"
+      "context": "That there is no need to fear the killing of the soul shows the immortality of the human soul, which is ours by grace. Fear Him is a command to fear God (Pr 9:10; Lk 1:50; 23:40; [[ACT.10:2]]; [[COL.3:22]]; [[1PE.2:17]]), for only God has the power to judge the soul. Christians are instructed to resist the devil ([[JAS.4:7]]), but not to fear him. Hell is literally \"Gehenna.\" In Jewish history, Gehenna (the Valley of Hinnom) became a place of forbidden religious practices ([[2CH.28:3]]; [[JER.39:35]]). King Josiah put an end to these practices ([[2KI.23:10]]). By Christ's time, the valley had become a garbage dump that smoldered ceaselessly. Because of these associations, Gehenna acquired the connotation of eternal punishment in the afterlife."
     },
     {
-      "source_file": "staging/validated/OT/BAR_footnotes.md",
-      "line_number": 83,
+      "source_file": "study/footnotes/OT/BAR_footnotes.md",
+      "line_number": 70,
       "raw_match": "[[2KI.23:10]]",
       "reference_type": "wikilink",
-      "context": "; 4:10; [[EZK.5:10]]; [[2KI.23:10]]; [[DEU.28:53]]). 2:5"
+      "context": "; 4:10; [[EZK.5:10]]; [[2KI.23:10]]; [[DEU.28:53]]). 2:5 See [[DEU.28:13]]. 2:9 The Lord brings calamities upon us in His righteousness for our good, that we might turn back to Him."
     },
     {
-      "source_file": "staging/validated/OT/JER_footnotes.md",
-      "line_number": 264,
+      "source_file": "study/footnotes/OT/JER_footnotes.md",
+      "line_number": 223,
       "raw_match": "[[2KI.23:10]]",
       "reference_type": "wikilink",
-      "context": "Tophet: The place where children were being sacrificed to Molech ([[2KI.23:10]]). The"
+      "context": "Tophet: The place where children were being sacrificed to Molech ([[2KI.23:10]]). The sad end of this child sacrifice will be cannibalism, effected during the siege of Jerusalem ([[BAR.2:3]])."
     }
   ]
 }

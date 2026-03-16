@@ -2,15 +2,25 @@
   "anchor_id": "JOS.1:18",
   "canon_uri": "canon/OT/JOS.md#JOS.1:18",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "But whatever man disobeys you and does not heed your words as you command him, let him die; but you be strong and courageous.'",
+  "pericope": {
+    "id": "JOS.P003",
+    "title": "The Two Spies",
+    "range": "JOS.1:18-2:12",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/AMO_footnotes.md",
-      "line_number": 24,
+      "source_file": "study/footnotes/OT/AMO_footnotes.md",
+      "line_number": 21,
       "raw_match": "[[JOS.1:12]]-18",
       "reference_type": "wikilink_range",
-      "context": "means \"heap of testimony\" (see [[GEN.31:47]], [[GEN.31:48]]; [[JOS.1:12]]-18 and note), as showing forth the"
+      "context": "These judgments are clearly against God's spiritual enemies: demonic powers, idolatry, false teaching, pride, hypocrisy, etc. Gregory the Great sees Gilead, which means \"heap of testimony\" (see [[GEN.31:47]], [[GEN.31:48]]; [[JOS.1:12]]-18 and note), as showing forth the witness of the faithful; and the saw made of iron as being \"the sword of error,\" or false teaching, which leads the people astray. \"When therefore, we endeavor to instruct these people not to entertain perverse views, we must first admonish them not to seek their own interests. For if the root of pride is cut away the branches of false assertions become withered.\""
     }
   ]
 }

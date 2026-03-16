@@ -2,15 +2,25 @@
   "anchor_id": "ROM.1:4",
   "canon_uri": "canon/NT/ROM.md#ROM.1:4",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "and declared to be the Son of God with power according to the Spirit of holiness, by the resurrection from the dead.",
+  "pericope": {
+    "id": "ROM.P001",
+    "title": "Romans \u2014 Opening",
+    "range": "ROM.1:1-1:6",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/HEB_footnotes.md",
-      "line_number": 111,
+      "source_file": "study/footnotes/NT/HEB_footnotes.md",
+      "line_number": 68,
       "raw_match": "[[ROM.1:4]]",
       "reference_type": "wikilink",
-      "context": "enthronement in heaven that settles the matter (v. 4; see [[ROM.1:4]]). Begotten is a"
+      "context": "Christ is superior to the angels. They are, in some Judaic thought, only \"the sons of God,\" whereas Christ is the Son of God. (The LXX at [[DEU.32:43]], which Hebrews paraphrases in v. 6, literally reads \"sons of God,\" not \"angels of God.\") While Christ is recognized as God's eternal Son at His Baptism and the Transfiguration, it is His enthronement in heaven that settles the matter (v. 4; see [[ROM.1:4]]). Begotten is a reference to the Son in His divine, eternal nature. The Nicene Creed states He is \"begotten, not made, begotten from the Father before all time.\" Today is eternity. There never was a time when God the Son did not exist."
     }
   ]
 }

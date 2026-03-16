@@ -2,22 +2,39 @@
   "anchor_id": "REV.4:6",
   "canon_uri": "canon/NT/REV.md#REV.4:6",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Before the throne there was a sea of glass, like crystal. And in the midst of the throne, and around the throne, were four living creatures full of eyes in front and in back.",
+  "pericope": {
+    "id": "REV.P010",
+    "title": "Heavenly Temple, Heavenly Worship",
+    "range": "REV.3:22-4:9",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/DAN_footnotes.md",
-      "line_number": 359,
+      "source_file": "study/footnotes/OT/DAN_footnotes.md",
+      "line_number": 249,
       "raw_match": "[[REV.4:6]]",
       "reference_type": "wikilink",
-      "context": "temporary, earthly beasts (see [[REV.4:6]], [[REV.4:7]] and note; see also [[EZK.1:5]], [[EZK.1:21]]). Some of the"
+      "context": "Signs are performed by God among unbelieving peoples so that the worship and word of the one true God may be proclaimed with power, as shown by Darius's new decree (vv. 26, 27). 7:1-8 St. Aphrahat comments that the great sea (the Mediterranean Sea) is symbolic of the world, and \"these four great beasts (v. 3) are the four kingdoms signified above\" (see text and notes at 2:25-49). The lioness with eagle's wings (v. 4) is the Babylonian Empire; the bear rose up on one side (v. 5) because when the kingdom of Media and Persia arose, it arose in the east. Hippolytus sees the three ribs as being the Medes, the Assyrians, and the Babylonians. They are also often identified with Lydia, Babylon, and Egypt, all of which were conquered and reduced to a single realm by the Persians under Cyrus and his son, Cambyses. The Fathers agree the leopard is Alexander the Great, and the four wings and four heads (v. 6) are his four generals (see 8:5-14 and note). The fourth beast (v. 7) is seen to be the Roman Empire, which subdued the world with its strength. Note that the four heavenly beasts of St. John's vision far surpass these temporary, earthly beasts (see [[REV.4:6]], [[REV.4:7]] and note; see also [[EZK.1:5]], [[EZK.1:21]]). Some of the Fathers say that the ten horns prophesy nations that will rise up in the last days."
     },
     {
-      "source_file": "staging/validated/OT/DAN_footnotes.md",
-      "line_number": 375,
+      "source_file": "study/footnotes/OT/DAN_footnotes.md",
+      "line_number": 262,
       "raw_match": "[[REV.4:2]]-6",
       "reference_type": "wikilink_range",
-      "context": "thrones (see [[REV.4:2]]-6 and notes), the multitude of worshipping angels and other"
+      "context": "[[DAN.7:8]], [[DAN.7:24]], [[DAN.7:25]]: The little horn is seen to be the antichrist, an eleventh king who shall appear suddenly in the midst of the ten horns, seizing power through magic and sorcery. He will exalt himself as God and make war on the Church (v. 11). But Christ will deliver the Church and establish God's everlasting kingdom. The Orthodox response to the prophetic teaching of the Scriptures is not to fear, or to try to second-guess God's timetable, but rather to practice repentance and watchfulness against sin and to engage in spreading the gospel. 7:9-12 Daniel's vision is similar to several aspects of St. John's Revelation, including the thrones (see [[REV.4:2]]-6 and notes), the multitude of worshipping angels and other creatures (see [[REV.5:11]]), and the books (v. 10; see also [[REV.20:12]] and note). 7:13-14 Daniel's vision of the Ancient of Days is that of the Second Coming of Christ, the Son of Man, in glory. 7:25 A time, times, and half a time refers to the \"short time\" (three and a half years) of tribulation that will befall the faithful just prior to the end of the age (see 12:7 and note; [[REV.12:7]]-16 and notes). 8:1-27 Daniel's vision occurred about 551 BC. The ram (v. 3) represents Darius and the rule of the Medes and Persians (v. 20), which ended with the death of Belshazzar in 538. The male goat (v. 5) represents the conquests of the Greeks (v. 21) up until the time of the Romans, about 64 BC."
+    },
+    {
+      "source_file": "study/footnotes/OT/EZK_footnotes.md",
+      "line_number": 29,
+      "raw_match": "[[REV.4:6]]-9",
+      "reference_type": "wikilink_range",
+      "context": "Ezekiel identifies the four living creatures as cherubim (10:9-16), the guardians of the throne of God ([[EXO.25:10]]-22; 3Kg 6:23-28). Like those of St. John's vision (see [[REV.4:6]]-9), they are seen by the Fathers to typify the Four Evangelists, while their unity in the spirit (vv. 12, 20) illustrates the spread of the gospel."
     }
   ]
 }

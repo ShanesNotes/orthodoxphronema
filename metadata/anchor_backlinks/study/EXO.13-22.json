@@ -2,15 +2,25 @@
   "anchor_id": "EXO.13:22",
   "canon_uri": "canon/OT/EXO.md#EXO.13:22",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Thus the pillar of cloud by day and the pillar of fire by night did not depart from before all the people.",
+  "pericope": {
+    "id": "EXO.P028",
+    "title": "Crossing the Red Sea",
+    "range": "EXO.13:22-15:18",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/NAH_footnotes.md",
-      "line_number": 51,
+      "source_file": "study/footnotes/OT/NAH_footnotes.md",
+      "line_number": 37,
       "raw_match": "[[EXO.13:22]]",
       "reference_type": "wikilink",
-      "context": "Spirit (see [[EXO.13:21]], [[EXO.13:22]]; 24:12-18 and notes). A cloud was at Christ's feet at His"
+      "context": "He threatens the sea and makes it dry: At the Great Blessing of Water on Theophany we sing, \"The waters saw You, O God; the waters saw You and were afraid. The Jordan turned back, seeing the fire of the Godhead descending bodily and entering its stream. The Jordan turned back, beholding the Holy Spirit coming down in the form of a dove and flying about You. The Jordan turned back, seeing the Invisible made visible, the Creator made flesh, the Master in the form of a servant. The Jordan turned back and the mountains skipped, looking upon God in the flesh; and the clouds gave voice, marveling at Him who has come, the Light of Light, true God of true God.\" 1:3-5 This Old Testament imagery of the earthquake (also see 1Kg 4:5; 3Kg 19:11; Ps 103:32) was fulfilled ultimately at the Crucifixion ([[MAT.27:51]]). Clouds symbolize the Holy Spirit (see [[EXO.13:21]], [[EXO.13:22]]; 24:12-18 and notes). A cloud was at Christ's feet at His Transfiguration ([[LUK.9:34]]); and He Himself says He will come again in a cloud ([[LUK.21:27]])."
     }
   ]
 }

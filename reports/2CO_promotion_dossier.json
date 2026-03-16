@@ -1,8 +1,8 @@
 {
   "book_code": "2CO",
   "testament": "NT",
-  "timestamp": "2026-03-13T13:36:30.684309",
-  "registry_version": "1.4.0",
+  "timestamp": "2026-03-15T18:29:25.218135",
+  "registry_version": "1.7.6",
   "body_checksum": "929f34b810f5bab3bb054b8f8b7570f6e250d938db86a49fa3355040881c5815",
   "allow_incomplete": true,
   "staged_path": "/home/ark/orthodoxphronema/staging/validated/NT/2CO.md",

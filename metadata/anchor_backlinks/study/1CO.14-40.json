@@ -2,15 +2,25 @@
   "anchor_id": "1CO.14:40",
   "canon_uri": "canon/NT/1CO.md#1CO.14:40",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Let all things be done decently and in order.",
+  "pericope": {
+    "id": "1CO.P033",
+    "title": "Witnesses to the Resurrection",
+    "range": "1CO.14:40-15:10",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/LEV_footnotes.md",
-      "line_number": 597,
+      "source_file": "study/footnotes/OT/LEV_footnotes.md",
+      "line_number": 336,
       "raw_match": "[[1CO.14:40]]",
       "reference_type": "wikilink",
-      "context": "([[1CO.14:40]]). Priests (clergy) are to be ordained to officiate at the altar. But amazingly, we"
+      "context": "Worship in the old covenant was to be done according to the prescribed manner. No creativity whatsoever with regard to sacrifice was allowed. Nothing was to be done haphazardly. Quite to the contrary, creativity was prohibited and even punished, as seen in the next chapter. God, not man, set the rules for worship. Communion with God was approached on His terms, not man's. Thus, a priesthood was initiated in Israel, and only those ordained were to officiate at an altar, and not just any willing and able Israelite. So too in the new covenant. The worship is to be accomplished \"decently and in order\" ([[1CO.14:40]]). Priests (clergy) are to be ordained to officiate at the altar. But amazingly, we live in a day when many professing Christians, claiming to be guided by the Bible, spurn order, even mock it, as though it were ungodly. They even call an order of worship dead. Spontaneity and creativity are exalted as if they were truly life. However, there is no biblical basis for such worship, for this kind of worship is dead in the eyes of the true God."
     }
   ]
 }

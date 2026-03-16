@@ -2,15 +2,25 @@
   "anchor_id": "GEN.5:5",
   "canon_uri": "canon/OT/GEN.md#GEN.5:5",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "So all the days Adam lived were nine hundred and thirty years, and he died.",
+  "pericope": {
+    "id": "GEN.P006",
+    "title": "The Descendants of Adam",
+    "range": "GEN.4:26-5:31",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/NUM_footnotes.md",
-      "line_number": 779,
+      "source_file": "study/footnotes/OT/NUM_footnotes.md",
+      "line_number": 522,
       "raw_match": "[[GEN.5:5]]",
       "reference_type": "wikilink",
-      "context": "thirty years, and he died\" ([[GEN.5:5]]). Death also came into the world through him (Rom"
+      "context": "The people who looked on the copper serpent on the signal pole lived. They lived because the motionless copper serpent signaled that the power of the venom in them was now dead. The serpent bit Adam in the Garden of Eden, and his venom eventually caused him to die physically and decay in the grave: \"So all the days Adam lived were nine hundred and thirty years, and he died\" ([[GEN.5:5]]). Death also came into the world through him (Rom 5:12). When Christ hung motionless on the cross ([[JOH.3:14]]), His dead body signaled the end of death's reign over man's body, for \"He trampled down death by His death, upon those in the tombs bestowing life\" (sung by the Church at Easter). The copper serpent \"saved those who looked upon it, not because it lived, but because it was killed, and killed with it the powers that were subject to it, being destroyed as it deserved. And what is the fitting epitaph for it from us? 'O death, where is your sting? O grave, where is your victory' (1Co 15:55). You are overthrown by the cross; you are slain by Him who is the Giver of life; you are without breath, dead, without motion, even though you keep the form of a serpent lifted up on high on a pole\" (GrgTheo)."
     }
   ]
 }

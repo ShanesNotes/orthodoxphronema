@@ -2,15 +2,25 @@
   "anchor_id": "1CO.10:27",
   "canon_uri": "canon/NT/1CO.md#1CO.10:27",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "If any of those who do not believe invites you to dinner, and you desire to go, eat whatever is set before you, asking no question for conscience' sake.",
+  "pericope": {
+    "id": "1CO.P025",
+    "title": "Offend No Man, Glorify God",
+    "range": "1CO.10:22-10:33",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/LUK_footnotes.md",
-      "line_number": 1515,
+      "source_file": "study/footnotes/NT/LUK_footnotes.md",
+      "line_number": 1006,
       "raw_match": "[[1CO.10:27]]",
       "reference_type": "wikilink",
-      "context": "14:2-6; [[1CO.10:27]]; [[HEB.13:2]])."
+      "context": "Twice here Christ commands the apostles to eat whatever is offered to them. This has a twofold significance: (1) the apostles must be content with whatever is offered, even if the food is little and simple; and (2) the gracious reception of others' hospitality takes precedence over personal fasting or dietary disciplines. St. Cassian the Desert Father notes that when he visited a monastery, the fast was always relaxed to honor him as a guest. When he asked why, the elder responded, \"Fasting is always with me, but you I cannot always have with me. Fasting is useful and necessary, but it depends on our choice, while the law of God demands charity. Thus receiving Christ in you, I serve you with all diligence, and when I have taken leave of you, I resume the rule of fasting again.\" In this way the ascetics would obey Christ's command here and His command that we not \"appear to men to be fasting\" ([[MAT.6:18]]; see also Rom 14:2-6; [[1CO.10:27]]; [[HEB.13:2]])."
     }
   ]
 }

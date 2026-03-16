@@ -2,15 +2,25 @@
   "anchor_id": "MRK.16:2",
   "canon_uri": "canon/NT/MRK.md#MRK.16:2",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Very early in the morning, on the first day of the week, they came to the tomb when the sun had risen.",
+  "pericope": {
+    "id": "MRK.P060",
+    "title": "The Empty Tomb",
+    "range": "MRK.15:47-16:7",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/PSA_footnotes.md",
-      "line_number": 463,
+      "source_file": "study/footnotes/OT/PSA_footnotes.md",
+      "line_number": 282,
       "raw_match": "[[MRK.16:2]]",
       "reference_type": "wikilink",
-      "context": "week, v. 1; see also [[MAT.28:1]]; [[MRK.16:2]]; [[LUK.24:1]]; [[JOH.20:1]])."
+      "context": "Ps 23 is a prophecy of the Resurrection of the Lord Jesus Christ (the first day of the week, v. 1; see also [[MAT.28:1]]; [[MRK.16:2]]; [[LUK.24:1]]; [[JOH.20:1]]). His Resurrection proves (1) He is the Creator of the world, which He owns (vv. 1, 2); (2) He is worthy to ascend on high as the Forerunner of the Church (vv. 3-6; see also Heb 6:19, 20; 7:26; 9:24); (3) He is the King of glory, who destroyed death and Hades (vv. 7- 10; see also [[REV.1:18]]; 4:8-11)."
     }
   ]
 }

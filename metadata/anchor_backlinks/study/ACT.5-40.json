@@ -2,15 +2,25 @@
   "anchor_id": "ACT.5:40",
   "canon_uri": "canon/NT/ACT.md#ACT.5:40",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "And they agreed with him, and when they had called for the apostles and beaten them, they commanded that they should not speak in the name of Jesus, and let them go.",
+  "pericope": {
+    "id": "ACT.P020",
+    "title": "Apostolic Evangelism",
+    "range": "ACT.5:39-5:41",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/MAT_footnotes.md",
-      "line_number": 737,
+      "source_file": "study/footnotes/NT/MAT_footnotes.md",
+      "line_number": 477,
       "raw_match": "[[ACT.5:40]]",
       "reference_type": "wikilink",
-      "context": "[[ACT.5:40]], [[ACT.5:41]].)"
+      "context": "Those who suffer persecution for Christ walk the road of the prophets, saints, and martyrs. The Greek for be exceedingly glad means to \"leap exceedingly with joy.\" (See [[ACT.5:40]], [[ACT.5:41]].)"
     }
   ]
 }

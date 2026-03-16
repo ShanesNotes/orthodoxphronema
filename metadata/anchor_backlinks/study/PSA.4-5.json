@@ -2,15 +2,25 @@
   "anchor_id": "PSA.4:5",
   "canon_uri": "canon/OT/PSA.md#PSA.4:5",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Be angry, and do not sin; Have remorse upon your beds For what you say in your hearts. (Pause)",
+  "pericope": {
+    "id": "PSA.P004",
+    "title": "Psalm 4",
+    "range": "PSA.4:1-4:9",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/MAT_footnotes.md",
-      "line_number": 825,
+      "source_file": "study/footnotes/NT/MAT_footnotes.md",
+      "line_number": 533,
       "raw_match": "[[PSA.4:5]]",
       "reference_type": "wikilink",
-      "context": "authority. While there is anger which is not sinful ([[PSA.4:5]]; [[MRK.3:5]]), here Jesus forbids"
+      "context": "The repeated formula but I say to you is a statement of total, divine authority (7:29). As the Creator of man and the Author of the Law, Christ can speak with this authority. While there is anger which is not sinful ([[PSA.4:5]]; [[MRK.3:5]]), here Jesus forbids sinful anger, identifying it with murder. The council is the supreme legal body among the Jews. Hell (Gr. Gehenna; see 10:28 and note) is the final condition of sinners who resist God's grace."
     }
   ]
 }

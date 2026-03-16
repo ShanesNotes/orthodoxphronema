@@ -2,15 +2,25 @@
   "anchor_id": "REV.1:16",
   "canon_uri": "canon/NT/REV.md#REV.1:16",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "He had in His right hand seven stars, out of His mouth went a sharp two-edged sword, and His countenance was like the sun shining in its strength.",
+  "pericope": {
+    "id": "REV.P003",
+    "title": "Vision and Commission of Christ",
+    "range": "REV.1:8-1:19",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/ZEC_footnotes.md",
-      "line_number": 306,
+      "source_file": "study/footnotes/OT/ZEC_footnotes.md",
+      "line_number": 212,
       "raw_match": "[[REV.1:12]]-20",
       "reference_type": "wikilink_range",
-      "context": "([[REV.1:12]]-20), which are seven churches."
+      "context": ", 2 Awakened from a dream by an angel, Zechariah asks him to explain its meaning. Zechariah sees a golden lampstand, a seven-branched candlestick called a menorah. The menorah is a symbol for Israel. It appeared in Solomon's temple and appears still in the Jewish synagogue. St. John the Theologian saw Christ in the midst of seven lampstands ([[REV.1:12]]-20), which are seven churches."
     }
   ]
 }

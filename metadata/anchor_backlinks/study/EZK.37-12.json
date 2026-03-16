@@ -2,43 +2,53 @@
   "anchor_id": "EZK.37:12",
   "canon_uri": "canon/OT/EZK.md#EZK.37:12",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Therefore prophesy and say to them, 'Thus says the Lord: 'Behold, I will open your tombs, bring you up from your graves, and bring you into the land of Israel.",
+  "pericope": {
+    "id": "EZK.P060",
+    "title": "Vision of the Dry Bones",
+    "range": "EZK.37:1-37:13",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/JOH_footnotes.md",
-      "line_number": 2081,
-      "raw_match": "[[EZK.37:1]]-13",
-      "reference_type": "wikilink_range",
-      "context": "rise ([[EZK.37:1]]-13)."
-    },
-    {
-      "source_file": "staging/validated/NT/LUK_footnotes.md",
-      "line_number": 1073,
-      "raw_match": "[[EZK.37:1]]-14",
-      "reference_type": "wikilink_range",
-      "context": "that God will one day open the graves and raise all the dead ([[EZK.37:1]]-14). Many people"
-    },
-    {
-      "source_file": "staging/validated/NT/MAT_footnotes.md",
-      "line_number": 3891,
-      "raw_match": "[[EZK.37:1]]-14",
-      "reference_type": "wikilink_range",
-      "context": "and will one day open the graves of all mankind ([[EZK.37:1]]-14). The saints entering the"
-    },
-    {
-      "source_file": "staging/validated/OT/JOB_articles.md",
+      "source_file": "study/articles/OT/JOB_articles.md",
       "line_number": 18,
       "raw_match": "[[EZK.37:1]]-14",
       "reference_type": "wikilink_range",
-      "context": "For the ancient Hebrews, death meant a return to the same earth from which all are taken: 'For earth you are, and to the earth you shall return' ([[GEN.3:19]]; [[JOB.7:21]]). Nevertheless, a general idea developed that the souls of the dead do continue, though only in a shadowy, semi-comatose kind of existence in a netherworld called sheol, or Hades ([[GEN.37:34]], [[GEN.37:35]]; Pss 114:3, 138:8; Is 14:9-11), a land of 'oblivion' ([[PSA.87:10]]-12; [[JOB.14:18]]-22). In sheolthe depths or abyss of the earth, 'the Pit'-even the righteous dead abide, without any power of deliverance ([[JOB.7:6]]-10; [[PSA.88:48]]; Is 38:18; [[EZK.26:19]]-21). Yet there was at least a general hope that one's memory would be kept alive by one's community and descendants (Ps 111:16; Pr 10:7; [[DEU.25:5]], [[DEU.25:6]]). Only gradually did God reveal glimpses of a glorious life after death to His people, a hope that would become available to all through the power of Christ's Resurrection. An early hint of this coming hope was revealed to Job. Amid his terrible suffering, Job asks, 'If a man dies, shall he live again?' And through a flash of divine insight, he says: 'I will wait until I arise' ([[JOB.14:14]]). Psalms also begin to reflect upon personal resurrection to everlasting life ([[PSA.15:8]]-11; 48:15; 70:20-23; 90:1-16). The first indications of a corporate resurrection of the people of Israel are given in the 8th century BC through Hosea ([[HOS.6:1]]-3; 13:14) and Isaiah (Is 26:19). In the early 6th century BC, Ezekiel receives the dramatic vision of a miraculous reconstitution of 'the whole house of Israel' on the plain covered with dry bones ([[EZK.37:1]]-14). The Church reads this passage triumphantly on Great and Holy Saturday. Why? Because it is prophetic of the freeing of all the souls from Hades by Christ on that day ([[1PE.3:19]]; [[EPH.4:8]]-10) and the general resurrection of all the dead on the last day. By the late first century BC, as seen in the Wisdom of Solomon, immortality is directly linked with living in wisdom and righteousness: 'Kinship with Wisdom is immortality' (WSol 8:17); 'The righteous shall live forever' (WSol 5:15; see also 1:13-15; 2:22, 23; 6:1721). Various passages from this book (WSol 3:1-9; 4:7-15; 5:15-6:3) are read at Vespers in commemoration of some of the more prominent saints. At the time of Christ, the Sadducees rejected belief in an afterlife (see [[MAT.22:23]]), while the Pharisees did believe in resurrection and immortality ([[ACT.23:6]]-8). It was the Pharisees' view which came to dominate in later Judaism. Lazarus' sister Martha knew about a general 'resurrection at the last day' ([[JOH.11:24]]), but Jesus declares to her that resurrection and eternal life come only through Him ([[JOH.11:25]]; see 3:14-16; 4:14; 6:40, 47-58; 14:1-6). Christ promises that believers will be with Him after their death ([[LUK.23:42]], [[LUK.23:43]]; see [[2CO.5:8]]; [[PHP.1:21]]-23). The souls of believers are further enlightened in Christ, as they experience a foretaste of the eternal heavenly kingdom. Yet all the departed still await the general resurrection, the day when their souls will be reunited with their bodies, which are transformed into a glorified state ([[1CO.15:50]]-54) like Christ's own body ([[PHP.3:20]], [[PHP.3:21]]; [[1JN.3:2]]). #### Eliphaz Renders Job Guilty"
+      "context": "For the ancient Hebrews, death meant a return to the same earth from which all are taken: 'For earth you are, and to the earth you shall return' ([[GEN.3:19]]; [[JOB.7:21]]). Nevertheless, a general idea developed that the souls of the dead do continue, though only in a shadowy, semi-comatose kind of existence in a netherworld called sheol, or Hades ([[GEN.37:34]], [[GEN.37:35]]; [[PSA.114:3]], 138:8; [[ISA.14:9]]-11), a land of 'oblivion' ([[PSA.87:10]]-12; [[JOB.14:18]]-22). In sheolthe depths or abyss of the earth, 'the Pit'-even the righteous dead abide, without any power of deliverance ([[JOB.7:6]]-10; [[PSA.88:48]]; [[ISA.38:18]]; [[EZK.26:19]]-21). Yet there was at least a general hope that one's memory would be kept alive by one's community and descendants ([[PSA.111:6]]; [[PRO.10:7]]; [[DEU.25:5]], [[DEU.25:6]]). Only gradually did God reveal glimpses of a glorious life after death to His people, a hope that would become available to all through the power of Christ's Resurrection. An early hint of this coming hope was revealed to Job. Amid his terrible suffering, Job asks, 'If a man dies, shall he live again?' And through a flash of divine insight, he says: 'I will wait until I arise' ([[JOB.14:14]]). Psalms also begin to reflect upon personal resurrection to everlasting life ([[PSA.15:8]]-11; 48:15; 70:20-23; 90:1-16). The first indications of a corporate resurrection of the people of Israel are given in the 8th century BC through Hosea ([[HOS.6:1]]-3; 13:14) and Isaiah ([[ISA.26:19]]). In the early 6th century BC, Ezekiel receives the dramatic vision of a miraculous reconstitution of 'the whole house of Israel' on the plain covered with dry bones ([[EZK.37:1]]-14). The Church reads this passage triumphantly on Great and Holy Saturday. Why? Because it is prophetic of the freeing of all the souls from Hades by Christ on that day ([[1PE.3:19]]; [[EPH.4:8]]-10) and the general resurrection of all the dead on the last day. By the late first century BC, as seen in the Wisdom of Solomon, immortality is directly linked with living in wisdom and righteousness: 'Kinship with Wisdom is immortality' ([[WIS.8:17]]); 'The righteous shall live forever' ([[WIS.5:15]]; see also 1:13-15; 2:22, 23; 6:1721). Various passages from this book ([[WIS.3:1]]-9; 4:7-15; 5:15-6:3) are read at Vespers in commemoration of some of the more prominent saints. At the time of Christ, the Sadducees rejected belief in an afterlife (see [[MAT.22:23]]), while the Pharisees did believe in resurrection and immortality ([[ACT.23:6]]-8). It was the Pharisees' view which came to dominate in later Judaism. Lazarus' sister Martha knew about a general 'resurrection at the last day' ([[JOH.11:24]]), but Jesus declares to her that resurrection and eternal life come only through Him ([[JOH.11:25]]; see 3:14-16; 4:14; 6:40, 47-58; 14:1-6). Christ promises that believers will be with Him after their death ([[LUK.23:42]], [[LUK.23:43]]; see [[2CO.5:8]]; [[PHP.1:21]]-23). The souls of believers are further enlightened in Christ, as they experience a foretaste of the eternal heavenly kingdom. Yet all the departed still await the general resurrection, the day when their souls will be reunited with their bodies, which are transformed into a glorified state ([[1CO.15:50]]-54) like Christ's own body ([[PHP.3:20]], [[PHP.3:21]]; [[1JN.3:2]])."
     },
     {
-      "source_file": "staging/validated/OT/SIR_footnotes.md",
-      "line_number": 1935,
+      "source_file": "study/footnotes/NT/JOH_footnotes.md",
+      "line_number": 1327,
+      "raw_match": "[[EZK.37:1]]-13",
+      "reference_type": "wikilink_range",
+      "context": "That Lazarus came out bound in his graveclothes is seen by many Fathers as an indication that he will need them again--that his resurrection continues an earthly life which will again end in death. The Savior's graveclothes, by contrast, would be left in the tomb (20:5-7). Unlike Lazarus's, Christ's Resurrection transfigures human nature; He will never die again. This sign not only prepared the disciples to believe in Christ's Resurrection, but in the words of the hymn for the day, it also \"confirmed the universal resurrection,\" proving Christ has the power to fulfill the promise given to Ezekiel that all the dead will one day rise ([[EZK.37:1]]-13)."
+    },
+    {
+      "source_file": "study/footnotes/NT/LUK_footnotes.md",
+      "line_number": 717,
       "raw_match": "[[EZK.37:1]]-14",
       "reference_type": "wikilink_range",
-      "context": "clear Ben Sirach had in mind [[EZK.37:1]]-14, which predicts the resurrection of the faithful"
+      "context": "This is one of three resurrections performed by our Lord as recorded in the Gospels (see also 8:41-56; [[JOH.11:1]]-44). They confirm the promise given to the prophet Ezekiel that God will one day open the graves and raise all the dead ([[EZK.37:1]]-14). Many people have exercised authority over the living; only the Son of God \"has power over both the living and the dead\" (funeral service). While Christ has power through His word alone (Jn 11:43), here He also touched the coffin to show that His very body is life-giving. This event also prefigures Christ's own Resurrection. As Mary would weep for Jesus at the Cross, yet her tears would be turned to joy by the Resurrection, here a widow's only son is raised from the dead, putting an end to her weeping (AmbM)."
+    },
+    {
+      "source_file": "study/footnotes/NT/MAT_footnotes.md",
+      "line_number": 2490,
+      "raw_match": "[[EZK.37:1]]-14",
+      "reference_type": "wikilink_range",
+      "context": "The completeness of the salvation won by Christ is signified in the resurrection of the saints from the OT. This guarantees the promise given to Ezekiel that God can and will one day open the graves of all mankind ([[EZK.37:1]]-14). The saints entering the holy city is an icon of resurrected humanity entering the heavenly Jerusalem ([[HEB.11:10]]; 12:22, 23; [[REV.21:2]]-22:5)."
+    },
+    {
+      "source_file": "study/footnotes/OT/SIR_footnotes.md",
+      "line_number": 1528,
+      "raw_match": "[[EZK.37:1]]-14",
+      "reference_type": "wikilink_range",
+      "context": "Such passages as this and 49:10 make it clear that Sirach reflects a widely held ancient belief in the resurrection. Since 49:10 is in the section on Ezekiel, it would seem clear Ben Sirach had in mind [[EZK.37:1]]-14, which predicts the resurrection of the faithful of Israel."
     }
   ]
 }

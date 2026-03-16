@@ -2,29 +2,39 @@
   "anchor_id": "HEB.3:10",
   "canon_uri": "canon/NT/HEB.md#HEB.3:10",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Therefore I was angry with that generation, And said, 'They always go astray in their heart, And they have not known My ways.'",
+  "pericope": {
+    "id": "HEB.P005",
+    "title": "Christ Is Faithful in a Superior Office",
+    "range": "HEB.2:18-3:10",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/DEU_footnotes.md",
-      "line_number": 75,
+      "source_file": "study/footnotes/OT/DEU_footnotes.md",
+      "line_number": 56,
       "raw_match": "[[HEB.3:7]]-11",
       "reference_type": "wikilink_range",
-      "context": "rebellion. An unbelieving heart was the cause ([[HEB.3:7]]-11, 19). They judged by outward"
+      "context": "Israel disobeyed the Lord's word because they revolted in their heart and murmured in their tents. The Law was not the problem, nor the cause of their rebellion. An unbelieving heart was the cause ([[HEB.3:7]]-11, 19). They judged by outward appearance (we saw the sons of giants there), rather than by faith in the Lord and His word. \"For we walk by faith, not by sight\" ([[2CO.5:7]])."
     },
     {
-      "source_file": "staging/validated/OT/EXO_footnotes.md",
-      "line_number": 798,
+      "source_file": "study/footnotes/OT/EXO_footnotes.md",
+      "line_number": 613,
       "raw_match": "[[HEB.3:7]]-11",
       "reference_type": "wikilink_range",
-      "context": "their complaining ultimately caused their destruction in the desert ([[HEB.3:7]]-11). Similarly, the Church suffers when its members complain ([[1CO.10:10]])."
+      "context": "The entire congregation complained against the godly leadership, but they were actually complaining against God. This sin arose from the sins of gluttony and unbelief. These sins led them into rebellion against the Lord and His appointed leadership, and their complaining ultimately caused their destruction in the desert ([[HEB.3:7]]-11). Similarly, the Church suffers when its members complain ([[1CO.10:10]])."
     },
     {
-      "source_file": "staging/validated/OT/NUM_footnotes.md",
-      "line_number": 922,
+      "source_file": "study/footnotes/OT/NUM_footnotes.md",
+      "line_number": 623,
       "raw_match": "[[HEB.3:10]]",
       "reference_type": "wikilink",
-      "context": "astray in their heart and did not know the Lord's ways ([[PSA.94:10]]; [[HEB.3:10]]). Their hearts"
+      "context": "The first census of the men of war was 603,550 (1:46). From this massive number, only two survived to enter the land of promise! Why? Because they always went astray in their heart and did not know the Lord's ways ([[PSA.94:10]]; [[HEB.3:10]]). Their hearts were blinded by rebellion against the Lord, who said of them, \"They shall surely die in the desert.\" Therefore, we, too, are admonished, \"Beware, brethren, lest there be in any of you an evil heart of unbelief in departing from the living God\" ([[HEB.3:12]]). This evil heart of unbelief is equated with the sin of rebellion, which is inexcusable."
     }
   ]
 }

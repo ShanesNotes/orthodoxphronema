@@ -2,15 +2,25 @@
   "anchor_id": "LUK.1:79",
   "canon_uri": "canon/NT/LUK.md#LUK.1:79",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "To givelight to those who sit in darkness and the shadow of death, To guide our feet into the way of peace.'",
+  "pericope": {
+    "id": "LUK.P007",
+    "title": "John's Growth",
+    "range": "LUK.1:79-2:19",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/HEB_footnotes.md",
-      "line_number": 63,
+      "source_file": "study/footnotes/NT/HEB_footnotes.md",
+      "line_number": 40,
       "raw_match": "[[LUK.1:79]]",
       "reference_type": "wikilink",
-      "context": "([[LUK.1:79]]; 2:32; [[JOH.1:4]]-9), the Transfiguration ([[MAT.17:2]]) and the Resurrection."
+      "context": "Through whom also He made the worlds (v. 2; see [[JOH.1:3]]) and upholding all things by the word of His power (v. 3; see [[COL.1:16]], [[COL.1:17]]): These two phrases reveal the Son as God acting in the world. The Lord Jesus Christ is (1) the One who created the universe, together with the Father and the Holy Spirit, and is therefore (2) the One who sustains the Creation and has absolute authority over it. It is natural, then, that the Son, as both God and Man, is heir of all things (v. 2). If the sons of Abraham hoped to be heirs of the promised land, the sons of Christ can hope to be heirs of the whole universe. The first half of v. 3 is quoted verbatim in the Liturgy of St. Basil the Great. The brightness of His glory expresses the Son's nature, His origin from and identity of nature with the Father. He is the Father's brightness because He is begotten from the Father beyond time and without change. Thus, the Nicene Creed speaks of \"Light of Light.\" As the sun does not exist without radiating light, so the Father does not exist without His Son. Thus, the Son reflects His Father's glory in this world. The unapproachable light of divinity, the divine energy ([[1TI.6:16]]; [[1PE.2:9]]; [[1JN.1:7]]), is approachable only in the incarnate Christ ([[JOH.12:36]]). God's brightness, though it had been experienced at the burning bush ([[EXO.3:2]]-4), known by Israel ([[EXO.10:23]]; 13:21), and spoken of by the prophets ([[PSA.35:10]]; 103:2; Is 9:1; 10:17; [[HAB.3:4]]), is especially revealed in Christ's birth ([[LUK.1:79]]; 2:32; [[JOH.1:4]]-9), the Transfiguration ([[MAT.17:2]]) and the Resurrection. The express image of His person (Gr. hypostasis) expresses the Son's Person as being distinct from the Father. The Son is the perfect and eternal \"icon\" of the Father. Thus, the personal distinction of God as Trinity is known only through Him (see [[JOH.14:9]]). No one knows the Father but through the Son. Having conquered sin and death, the Son sat down at the right hand of the Majesty on high, a reference to the Father, showing Christ's exaltation as Man. 1:1, 2 In time past and to the fathers (v. 1) are contrasted with in these last days and to us (v. 2). In OT times God spoke constantly through the Holy Spirit in the Law and the prophets, leading His people into greater truth. Now He speaks directly, through His own incarnate Son. The fathers are the leaders of Israel and representative of all the spiritual ancestors of New Israel."
     }
   ]
 }

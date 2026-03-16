@@ -2,11 +2,21 @@
   "anchor_id": "ISA.44:3",
   "canon_uri": "canon/OT/ISA.md#ISA.44:3",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "For I will give water to the thirsty who walk in a waterless place. I will put My Spirit upon your seed and My blessings upon your children.",
+  "pericope": {
+    "id": "ISA.P002",
+    "title": "Jerusalem.",
+    "range": "ISA.2:1-66:24",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/GEN_articles.md",
+      "source_file": "study/articles/OT/GEN_articles.md",
       "line_number": 33,
       "raw_match": "[[ISA.44:3]]",
       "reference_type": "wikilink",

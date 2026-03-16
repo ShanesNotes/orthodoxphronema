@@ -1,0 +1,26 @@
+{
+  "anchor_id": "JOH.19:6",
+  "canon_uri": "canon/NT/JOH.md#JOH.19:6",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-15T23:42:04+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Therefore, when the chief priests and officers saw Him, they cried out, saying, 'Crucify Him, crucify Him! '",
+  "pericope": {
+    "id": "JOH.P064",
+    "title": "Pilate's Judgment",
+    "range": "JOH.19:4-19:15",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
+  "links": [
+    {
+      "source_file": "study/lectionary-notes/NT/JOH_lectionary.md",
+      "line_number": 28,
+      "raw_match": "[[JOH.19:6]]",
+      "reference_type": "wikilink",
+      "context": "**19:6-11** \u2014 [[JOH.19:6]]\u201311, 13\u201320, 25\u201328, 30\u201335: This passage is read on September 14, the Feast of the Exaltation of the Holy Cross."
+    }
+  ]
+}

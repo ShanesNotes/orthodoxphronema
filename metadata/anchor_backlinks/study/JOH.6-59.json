@@ -2,22 +2,32 @@
   "anchor_id": "JOH.6:59",
   "canon_uri": "canon/NT/JOH.md#JOH.6:59",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "These things He said in the synagogue as He taught in Capernaum.",
+  "pericope": {
+    "id": "JOH.P020",
+    "title": "The Words of Eternal Life",
+    "range": "JOH.6:59-6:70",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/1JN_footnotes.md",
-      "line_number": 251,
+      "source_file": "study/footnotes/NT/1JN_footnotes.md",
+      "line_number": 158,
       "raw_match": "[[JOH.6:53]]-59",
       "reference_type": "wikilink_range",
-      "context": "Eucharist ([[JOH.6:53]]-59; 15:1-8). For John, apostolic teaching and writing (vv. 24-26) is"
+      "context": "To abide in Christ involves not only mental assent to the doctrine of the Incarnation. It is a sacramental union with Him, effected in baptism and nourished in the Eucharist ([[JOH.6:53]]-59; 15:1-8). For John, apostolic teaching and writing (vv. 24-26) is identical with being taught of God (v. 27). Without both the work of the Spirit and apostolic doctrine, we would remain in darkness."
     },
     {
-      "source_file": "staging/validated/NT/LUK_footnotes.md",
-      "line_number": 2749,
+      "source_file": "study/footnotes/NT/LUK_footnotes.md",
+      "line_number": 1835,
       "raw_match": "[[JOH.6:51]]-66",
       "reference_type": "wikilink_range",
-      "context": "Jesus\" (Justin). See [[JOH.6:51]]-66 and notes, and the article \"The Eucharist\" at 1Co 11."
+      "context": "Gave thanks has at its root the Greek word eucharist, which immediately came to refer to both the Liturgy and the sacrament of Holy Communion. Before the end of the first century, a manuscript called the Didache refers to the celebration of the Liturgy as \"the Eucharist,\" and in the year AD 150, St. Justin says of Holy Communion, \"This food we call 'Eucharist,' of which no one is allowed to partake except one who believes that the things we teach are true, and has received the washing [holy baptism] for forgiveness of sins and for rebirth, and who lives as Christ commanded us.\" This is My body: The Orthodox Church has always accepted Christ's words as true, \"that the food consecrated by the word of prayer which comes from Him is the flesh and blood of that incarnate Jesus\" (Justin). See [[JOH.6:51]]-66 and notes, and the article \"The Eucharist\" at 1Co 11."
     }
   ]
 }

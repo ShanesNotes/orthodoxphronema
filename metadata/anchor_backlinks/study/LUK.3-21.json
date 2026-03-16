@@ -2,15 +2,25 @@
   "anchor_id": "LUK.3:21",
   "canon_uri": "canon/NT/LUK.md#LUK.3:21",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "When all the people were baptized, it came to pass that Jesus also was baptized; and while He prayed, the heaven was opened.",
+  "pericope": {
+    "id": "LUK.P016",
+    "title": "Jesus Is Baptized",
+    "range": "LUK.3:20-3:21",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/MAT_footnotes.md",
-      "line_number": 415,
+      "source_file": "study/footnotes/NT/MAT_footnotes.md",
+      "line_number": 270,
       "raw_match": "[[LUK.3:21]]",
       "reference_type": "wikilink",
-      "context": "brings up and purifies the entire world with Him\" (GrgNy; see also note on [[LUK.3:21]])."
+      "context": "Jesus does not need purification. By making the purification of humanity His own, He would wash away humanity's sin, grant regeneration, and reveal the mystery of the Holy Trinity. Thus, His baptism was necessary for the fulfillment of God's righteous plan of salvation. \"Jesus enters the filthy, sinful waters of the world and when He comes out, brings up and purifies the entire world with Him\" (GrgNy; see also note on [[LUK.3:21]])."
     }
   ]
 }

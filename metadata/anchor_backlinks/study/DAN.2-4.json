@@ -2,12 +2,22 @@
   "anchor_id": "DAN.2:4",
   "canon_uri": "canon/OT/DAN.md#DAN.2:4",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Then the Chaldeans spoke to the king in the Syrian language, 'O king, live forever. Tell your servants the dream, and we will tell you its interpretation.'",
+  "pericope": {
+    "id": "DAN.P002",
+    "title": "King Nebuchadnezzar's Dream",
+    "range": "DAN.1:21-2:12",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/NEH_footnotes.md",
-      "line_number": 89,
+      "source_file": "study/footnotes/OT/NEH_footnotes.md",
+      "line_number": 66,
       "raw_match": "[[DAN.2:4]]",
       "reference_type": "wikilink",
       "context": "May the king live forever! was the common way to greet a king (see [[DAN.2:4]]; 5:10;"

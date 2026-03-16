@@ -2,15 +2,25 @@
   "anchor_id": "HAB.1:1",
   "canon_uri": "canon/OT/HAB.md#HAB.1:1",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "The burden which the prophet Habakkuk saw.",
+  "pericope": {
+    "id": "HAB.P001",
+    "title": "Habakkuk \u2014 Chapter 1",
+    "range": "HAB.1:1-1:17",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/NAH_footnotes.md",
-      "line_number": 15,
+      "source_file": "study/footnotes/OT/NAH_footnotes.md",
+      "line_number": 14,
       "raw_match": "[[HAB.1:1]]",
       "reference_type": "wikilink",
-      "context": "The burden: See [[HAB.1:1]] and note. Nahum's prophecy takes on its deepest meaning"
+      "context": "The burden: See [[HAB.1:1]] and note. Nahum's prophecy takes on its deepest meaning when Nineveh is seen as an icon of sinful humanity. The \"good tidings\" (2:1) of the gospel turn the hearts of men away from idolatry (1:14-2:2); while the fire of the Holy Spirit (2:5) and cleansing in the waters of baptism (2:7-9) destroy demonic powers, purging and renewing the repentant heart."
     }
   ]
 }

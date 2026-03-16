@@ -2,11 +2,21 @@
   "anchor_id": "ISA.48:16",
   "canon_uri": "canon/OT/ISA.md#ISA.48:16",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Come near to Me, hear this: I have not spoken in secret from the beginning, nor did I speak in a dark place of the earth. When it took place, I was there, and now the Lord and His Spirit have sent Me.'",
+  "pericope": {
+    "id": "ISA.P002",
+    "title": "Jerusalem.",
+    "range": "ISA.2:1-66:24",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/GEN_articles.md",
+      "source_file": "study/articles/OT/GEN_articles.md",
       "line_number": 33,
       "raw_match": "[[ISA.48:16]]",
       "reference_type": "wikilink",

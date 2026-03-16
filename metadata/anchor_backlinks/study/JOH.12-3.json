@@ -2,15 +2,25 @@
   "anchor_id": "JOH.12:3",
   "canon_uri": "canon/NT/JOH.md#JOH.12:3",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Then Mary took a pound of very costly oil of spikenard, anointed the feet of Jesus, and wiped His feet with her hair. And the house was filled with the fragrance of the oil.",
+  "pericope": {
+    "id": "JOH.P040",
+    "title": "Jesus Anointed for His Burial",
+    "range": "JOH.11:57-12:10",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/MAT_footnotes.md",
-      "line_number": 3597,
+      "source_file": "study/footnotes/NT/MAT_footnotes.md",
+      "line_number": 2301,
       "raw_match": "[[JOH.12:1]]-8",
       "reference_type": "wikilink_range",
-      "context": "accounts of similar events in [[MRK.14:3]]-9; [[LUK.7:36]]-38; and [[JOH.12:1]]-8. Some Fathers say"
+      "context": "Because of her fervent faith, Jesus promises perpetual public memory of this woman. There is no consensus among the Fathers as to her identity in relation to accounts of similar events in [[MRK.14:3]]-9; [[LUK.7:36]]-38; and [[JOH.12:1]]-8. Some Fathers say that there were three different women in these four accounts, others that there were only two."
     }
   ]
 }

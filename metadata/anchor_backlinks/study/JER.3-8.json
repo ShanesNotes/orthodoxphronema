@@ -2,15 +2,25 @@
   "anchor_id": "JER.3:8",
   "canon_uri": "canon/OT/JER.md#JER.3:8",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "I also saw it, and because of all the things in which the habitation of Israel committed adultery and was overtaken in it, therefore I put her away and placed in her hands a certificate of divorce. Yet even after this, faithless Judah did not fear, but she, too, proceeded to commit fornication.",
+  "pericope": {
+    "id": "JER.P008",
+    "title": "A Call to Return",
+    "range": "JER.3:5-4:3",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/JDG_footnotes.md",
-      "line_number": 613,
+      "source_file": "study/footnotes/OT/JDG_footnotes.md",
+      "line_number": 453,
       "raw_match": "[[JER.3:8]]",
       "reference_type": "wikilink",
-      "context": "became involved in extreme sexual misconduct ([[HOS.4:1]]-6; [[JER.3:1]], [[JER.3:8]]; [[EZK.16:41]]; 23:44)."
+      "context": "To \"play the harlot\" or take a concubine was an expression typically used to paint a prophetic picture of people following false gods, often Baal, whose followers often became involved in extreme sexual misconduct ([[HOS.4:1]]-6; [[JER.3:1]], [[JER.3:8]]; [[EZK.16:41]]; 23:44)."
     }
   ]
 }

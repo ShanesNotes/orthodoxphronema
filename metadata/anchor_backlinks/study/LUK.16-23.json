@@ -2,15 +2,25 @@
   "anchor_id": "LUK.16:23",
   "canon_uri": "canon/NT/LUK.md#LUK.16:23",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "And being in torments in Hades, he lifted up his eyes and saw Abraham afar off, and Lazarus in his bosom.",
+  "pericope": {
+    "id": "LUK.P078",
+    "title": "The Rich Man and Lazarus",
+    "range": "LUK.16:18-16:30",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/BAR_footnotes.md",
-      "line_number": 128,
+      "source_file": "study/footnotes/OT/BAR_footnotes.md",
+      "line_number": 105,
       "raw_match": "[[LUK.16:22]]-31",
       "reference_type": "wikilink_range",
-      "context": "with the Lord (see [[LUK.16:22]]-31)."
+      "context": "The prayer of the dead of Israel suggests the intercessions of the departed saints with the Lord (see [[LUK.16:22]]-31)."
     }
   ]
 }

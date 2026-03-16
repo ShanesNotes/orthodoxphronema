@@ -2,15 +2,25 @@
   "anchor_id": "LUK.8:1",
   "canon_uri": "canon/NT/LUK.md#LUK.8:1",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Now it came to pass, afterward, that He went through every city and village, preaching and bringing the glad tidings of the kingdom of God. And the twelve were with Him,",
+  "pericope": {
+    "id": "LUK.P034",
+    "title": "Women Who Served Jesus",
+    "range": "LUK.7:50-8:2",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/JOH_footnotes.md",
-      "line_number": 785,
+      "source_file": "study/footnotes/NT/JOH_footnotes.md",
+      "line_number": 489,
       "raw_match": "[[LUK.8:1]]-3",
       "reference_type": "wikilink_range",
-      "context": "[[LUK.8:1]]-3)."
+      "context": "They marveled not only that Jesus spoke with a Samaritan, but that He was speaking with an unaccompanied woman, which was potentially scandalous. For further instances of the Lord's dealings with women, see 7:53-8:11; 11:20-33; 20:11-18 (see also [[LUK.8:1]]-3)."
     }
   ]
 }

@@ -2,15 +2,25 @@
   "anchor_id": "JOB.2:8",
   "canon_uri": "canon/OT/JOB.md#JOB.2:8",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "So he took a potsherd to scrape away the discharge and sat on a dunghill outside the city.",
+  "pericope": {
+    "id": "JOB.P004",
+    "title": "Job Loses His Health",
+    "range": "JOB.1:22-2:14",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/JOH_footnotes.md",
-      "line_number": 1975,
+      "source_file": "study/footnotes/NT/JOH_footnotes.md",
+      "line_number": 1258,
       "raw_match": "[[JOB.2:8]]",
       "reference_type": "wikilink",
-      "context": "posture when mourning and receiving other mourners ([[JOB.2:8]], [[JOB.2:13]]; [[EZK.8:14]])."
+      "context": "Not unlike the incident of [[LUK.10:38]]-42, the two sisters react differently to Christ's arrival. Martha, being inclined to active service, rushes out to meet Jesus, while Mary remains in mourning until called by Christ (vv. 28, 29). Sitting was the traditional posture when mourning and receiving other mourners ([[JOB.2:8]], [[JOB.2:13]]; [[EZK.8:14]])."
     }
   ]
 }

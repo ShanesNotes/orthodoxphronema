@@ -2,22 +2,32 @@
   "anchor_id": "JOH.14:15",
   "canon_uri": "canon/NT/JOH.md#JOH.14:15",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "'If you love Me, keep a My commandments.",
+  "pericope": {
+    "id": "JOH.P052",
+    "title": "The Coming of the Holy Spirit",
+    "range": "JOH.14:14-14:16",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/JAS_footnotes.md",
-      "line_number": 297,
+      "source_file": "study/footnotes/NT/JAS_footnotes.md",
+      "line_number": 187,
       "raw_match": "[[JOH.14:15]]",
       "reference_type": "wikilink",
-      "context": "[[JOH.14:15]]; [[GAL.5:6]]) shows that only God can save."
+      "context": "This summary of the organic relationship of faith and works (see [[MAT.7:21]]; 25:31-46; [[JOH.14:15]]; [[GAL.5:6]]) shows that only God can save."
     },
     {
-      "source_file": "staging/validated/OT/SIR_footnotes.md",
-      "line_number": 1289,
+      "source_file": "study/footnotes/OT/SIR_footnotes.md",
+      "line_number": 1007,
       "raw_match": "[[JOH.14:15]]",
       "reference_type": "wikilink",
-      "context": "love Me, keep My commandments\" ([[JOH.14:15]])."
+      "context": "Ben Sirach declares that he who keeps the law does the equivalent to making a peace offering. Faithfulness to God's revelation requires obedience. Jesus said, \"If you love Me, keep My commandments\" ([[JOH.14:15]])."
     }
   ]
 }

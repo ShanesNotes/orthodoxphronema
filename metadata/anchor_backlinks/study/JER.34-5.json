@@ -2,15 +2,25 @@
   "anchor_id": "JER.34:5",
   "canon_uri": "canon/OT/JER.md#JER.34:5",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "I gave the earth to Nebuchadnezzar the king of Babylon to serve him; and I gave the wild beasts of the field to him to work for him.",
+  "pericope": {
+    "id": "JER.P050",
+    "title": "Seventy Years of Disgrace",
+    "range": "JER.24:10-38:39",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/MAT_footnotes.md",
-      "line_number": 1793,
+      "source_file": "study/footnotes/NT/MAT_footnotes.md",
+      "line_number": 1159,
       "raw_match": "[[JER.34:1]]-11",
       "reference_type": "wikilink_range",
-      "context": "of hardship, burdens, and responsibilities (3Kg 12:1-11; [[JER.34:1]]-11; WSir 40:1), but in"
+      "context": "Jesus' yoke is submission to the Kingdom of God. A yoke could be seen as a sign of hardship, burdens, and responsibilities (3Kg 12:1-11; [[JER.34:1]]-11; WSir 40:1), but in Christ, the yoke is easy, for the power of God works in each person. Furthermore, the reward is infinitely greater than any effort man puts forth. Gentle (v. 29) is literally \"meek\" (see note on 5:5). 12:1, 2 The Pharisees are rigid in their legalism. While the Law allowed plucking a few heads of grain in a neighbor's field ([[DEU.23:25]]), they consider it \"reaping\" and therefore unlawful on the Sabbath."
     }
   ]
 }

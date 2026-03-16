@@ -2,15 +2,25 @@
   "anchor_id": "EXO.17:10",
   "canon_uri": "canon/OT/EXO.md#EXO.17:10",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "So Joshua did as Moses said to him and set the army in array against Amalek. Then Moses, Aaron, and Hur went up to the top of the hill.",
+  "pericope": {
+    "id": "EXO.P033",
+    "title": "Victory over Amalek",
+    "range": "EXO.17:7-17:15",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/SIR_footnotes.md",
-      "line_number": 1895,
+      "source_file": "study/footnotes/OT/SIR_footnotes.md",
+      "line_number": 1498,
       "raw_match": "[[EXO.17:8]]-13",
       "reference_type": "wikilink_range",
-      "context": "It is probable that Ben Sirach is speaking of the incident in [[EXO.17:8]]-13 when"
+      "context": ", 2 It is probable that Ben Sirach is speaking of the incident in [[EXO.17:8]]-13 when Joshua defeated the Amalekites. Joshua prevailed in battle as long as Moses lifted up his hands, holding the rod of God in them. Due to Moses' fatigue, it became necessary for Aaron and Hur to support his arms until the battle ended. The name Joshua means savior."
     }
   ]
 }

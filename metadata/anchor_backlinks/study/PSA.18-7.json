@@ -2,12 +2,22 @@
   "anchor_id": "PSA.18:7",
   "canon_uri": "canon/OT/PSA.md#PSA.18:7",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Its rising is from one end of heaven, And its circuit runs to the other end; And nothing shall be hidden from its heat.",
+  "pericope": {
+    "id": "PSA.P018",
+    "title": "Psalm 18",
+    "range": "PSA.18:1-18:15",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/SIR_footnotes.md",
-      "line_number": 1768,
+      "source_file": "study/footnotes/OT/SIR_footnotes.md",
+      "line_number": 1400,
       "raw_match": "[[PSA.18:5]]-7",
       "reference_type": "wikilink_range",
       "context": "A similar teaching on the sun appears in [[PSA.18:5]]-7."

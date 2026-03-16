@@ -2,15 +2,25 @@
   "anchor_id": "EPH.4:13",
   "canon_uri": "canon/NT/EPH.md#EPH.4:13",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "till we all come to the unity of the faith and of the knowledge of the Son of God, to a perfect man, to the measure of the stature of the fullness of Christ;",
+  "pericope": {
+    "id": "EPH.P011",
+    "title": "Put Off the Old, Put On the New",
+    "range": "EPH.4:12-4:23",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/MAT_footnotes.md",
-      "line_number": 933,
+      "source_file": "study/footnotes/NT/MAT_footnotes.md",
+      "line_number": 603,
       "raw_match": "[[EPH.4:13]]",
       "reference_type": "wikilink",
-      "context": "the perfection of the Father ([[EPH.4:13]]; see also the article, \"Deification,\" at 2Pt 1), which"
+      "context": "The summary statement of all that has preceded. The Christian can indeed grow in the perfection of the Father ([[EPH.4:13]]; see also the article, \"Deification,\" at 2Pt 1), which is shown by imitating His love and mercy (compare [[LUK.6:36]])."
     }
   ]
 }

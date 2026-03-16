@@ -2,22 +2,32 @@
   "anchor_id": "MRK.1:14",
   "canon_uri": "canon/NT/MRK.md#MRK.1:14",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Now after John was put in prison, Jesus came to Galilee, preaching the gospel of the kingdom of God,",
+  "pericope": {
+    "id": "MRK.P002",
+    "title": "Jesus Baptized and Tempted",
+    "range": "MRK.1:8-1:14",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/LUK_footnotes.md",
-      "line_number": 1091,
+      "source_file": "study/footnotes/NT/LUK_footnotes.md",
+      "line_number": 728,
       "raw_match": "[[MRK.1:14]]",
       "reference_type": "wikilink",
-      "context": "John the Baptist was imprisoned soon after Jesus was baptized ([[MRK.1:14]])."
+      "context": "John the Baptist was imprisoned soon after Jesus was baptized ([[MRK.1:14]]). Though John directed his disciples to follow Christ ([[JOH.1:29]]-31, 35-37), some remained with him. While John's own faith was undoubtedly strengthened by the signs Christ performed, the Fathers universally see this encounter as a means John used to convince his remaining disciples that Jesus was indeed the Coming One."
     },
     {
-      "source_file": "staging/validated/OT/EZK_footnotes.md",
-      "line_number": 110,
+      "source_file": "study/footnotes/OT/EZK_footnotes.md",
+      "line_number": 104,
       "raw_match": "[[MRK.1:14]]",
       "reference_type": "wikilink",
-      "context": "prophet, was put in prison ([[MRK.1:14]]); and his father, Zacharias, had his tongue bound"
+      "context": "The gospel spread first by preaching the sound, and later by the Holy Scriptures (the wheels). 3:15 The captivity is an icon of the world held captive to sin. Here the prophet foreshadows John the Baptist preaching repentance and baptizing the Jewish faithful at the Jordan. Seven days signifies a time of completion. 3:17-19 The watchman must warn the lawless of the coming judgment, or he will be held accountable for his silence. 3:20 The righteous man images the Old Testament faithful, who heeded the prophets' warning and recognized Christ when He came. 3:22-27 After the gospel was preached to the Jews, it was taken to the plain, i.e., the whole world. Ezekiel's being shut up and put in chains points to the cutting off of prophecy to make way for Christ. Note that John the Baptist, the last Old Testament prophet, was put in prison ([[MRK.1:14]]); and his father, Zacharias, had his tongue bound ([[LUK.1:20]]). 4:1 St. Gregory the Great comments that the Prophet is called son of man so that when he is exalted, he might remember his fallen state."
     }
   ]
 }

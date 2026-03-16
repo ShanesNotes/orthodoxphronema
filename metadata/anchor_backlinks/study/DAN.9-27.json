@@ -2,22 +2,32 @@
   "anchor_id": "DAN.9:27",
   "canon_uri": "canon/OT/DAN.md#DAN.9:27",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Then he shall confirm a covenant with many for one week, and in the middle of the week, My sacrifice and drink-offering will be taken away; and there shall be in the temple the abomination of desolations, and to the end of the time, an end to the desolation shall be appointed.'",
+  "pericope": {
+    "id": "DAN.P029",
+    "title": "The Man of Splendor",
+    "range": "DAN.9:27-10:8",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/REV_footnotes.md",
-      "line_number": 1525,
+      "source_file": "study/footnotes/NT/REV_footnotes.md",
+      "line_number": 943,
       "raw_match": "[[DAN.9:27]]",
       "reference_type": "wikilink",
-      "context": "profaned ([[DAN.9:27]]). John affirms the true temple, the Church, will be preserved during"
+      "context": "The voice of God directs John to take the book. The symbolism of eating refers to receiving a revelation from God: John's account has many parallels to the commissioning of Ezekiel ([[EZK.2:8]]-3:3; see also [[PSA.118:103]]). The contrast between sweetness in the mouth and bitterness in the stomach shows the sweetness of receiving God's revelation (announcing God's victory for His people) as opposed to the bitterness of its message of woe (announcing God's terrible judgments, as well as sufferings for His faithful ones). 11:1, 2 The measurement of the temple recalls Ezekiel's vision (Ezk 40-42). Here the measurement indicates the preservation of the temple, not restoration. Commentators variously interpret the temple as (1) a literal temple to be rebuilt in Jerusalem in the future, (2) a symbol of the Church (see [[EPH.2:19]]-21; [[1PE.2:5]]), or (3) the Jewish-Christian Church of the first century. The holy city (v. 2) shows the setting to be Jerusalem. The Synoptic Gospels also taught that Jerusalem would fall (Mt 24; Mk 13; Lk 21); Luke mentioned specifically that the Gentiles would trample Jerusalem for a period (21:24). In patristic tradition the second interpretation is preferable. The court outside (v. 2) is for both Jews and Gentiles. It will not be measured because of the large number of Christians. The forty-two months (v. 2) is three and a half years, one-half of seven, symbolizing what is not full or final but temporary, incomplete. It derives from Daniel's \"a time, two times, and half a time\" (12:7), the three-and-a-half-year period when the temple was to be profaned ([[DAN.9:27]]). John affirms the true temple, the Church, will be preserved during this Gentile onslaught. \"Temple\" is a frequent NT symbol for the Church ([[1CO.3:16]], [[1CO.3:17]]; [[2CO.6:16]]; [[EPH.2:19]]-22)."
     },
     {
-      "source_file": "staging/validated/OT/1MA_footnotes.md",
-      "line_number": 76,
+      "source_file": "study/footnotes/OT/1MA_footnotes.md",
+      "line_number": 62,
       "raw_match": "[[DAN.9:27]]",
       "reference_type": "wikilink",
-      "context": "Inside the temple, Antiochus erected the abomination of desolation ([[DAN.9:27]]), either a statue of Zeus sculpted in the likeness of the emperor or some cultic stones. Until"
+      "context": "Inside the temple, Antiochus erected the abomination of desolation ([[DAN.9:27]]), either a statue of Zeus sculpted in the likeness of the emperor or some cultic stones. Until that time, the temple had been the focal point of the Jewish nation and faith. Jews made three pilgrimages there each year, at the feasts of Passover, Pentecost, and Tabernacles."
     }
   ]
 }

@@ -2,29 +2,39 @@
   "anchor_id": "JOH.3:21",
   "canon_uri": "canon/NT/JOH.md#JOH.3:21",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "But he who does the truth comes to the light, that his deeds may be clearly seen, that they have been done in God.'",
+  "pericope": {
+    "id": "JOH.P011",
+    "title": "The Preaching of John the Baptist",
+    "range": "JOH.3:21-4:44",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/EPH_footnotes.md",
-      "line_number": 649,
+      "source_file": "study/footnotes/NT/EPH_footnotes.md",
+      "line_number": 411,
       "raw_match": "[[JOH.3:19]]-21",
       "reference_type": "wikilink_range",
-      "context": "our sins and repent of them (see [[JOH.3:19]]-21). Orthodox Christians do this before baptism,"
+      "context": "Besides separating from darkness, Christians are also to expose (v. 11) it. But we must first come out of hiding in order to be exposed ourselves. That is, we must confess our sins and repent of them (see [[JOH.3:19]]-21). Orthodox Christians do this before baptism, before the Eucharist, and also in a separate sacrament of repentance. The hymn in v. 14 is an early baptismal hymn: baptism is illumination (see [[ACT.26:18]]; [[2CO.4:6]]; [[HEB.6:4]]; 10:32). To walk in the light is to walk in one's baptism."
     },
     {
-      "source_file": "staging/validated/NT/LUK_footnotes.md",
-      "line_number": 2853,
+      "source_file": "study/footnotes/NT/LUK_footnotes.md",
+      "line_number": 1903,
       "raw_match": "[[JOH.3:19]]-21",
       "reference_type": "wikilink_range",
       "context": "Darkness: See [[JOH.3:19]]-21; 13:30."
     },
     {
-      "source_file": "staging/validated/OT/AMO_footnotes.md",
-      "line_number": 144,
+      "source_file": "study/footnotes/OT/AMO_footnotes.md",
+      "line_number": 110,
       "raw_match": "[[JOH.3:19]]-21",
       "reference_type": "wikilink_range",
-      "context": "be plunged into the very darkness (v. 20) that they love so much (see [[JOH.3:19]]-21)."
+      "context": "The Sun of Righteousness rises in the morning and transforms (v. 8) the repentant soul from death into life. But on the day of the Lord, those who flee God will be plunged into the very darkness (v. 20) that they love so much (see [[JOH.3:19]]-21)."
     }
   ]
 }

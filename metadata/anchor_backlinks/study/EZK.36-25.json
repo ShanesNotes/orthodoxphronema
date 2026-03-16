@@ -2,11 +2,21 @@
   "anchor_id": "EZK.36:25",
   "canon_uri": "canon/OT/EZK.md#EZK.36:25",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "I shall sprinkle clean water on you, and you will be cleansed from all your uncleanness, and I will also cleanse you from all your idols.",
+  "pericope": {
+    "id": "EZK.P059",
+    "title": "The Cleansing of Israel",
+    "range": "EZK.36:15-36:38",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/ACT_articles.md",
+      "source_file": "study/articles/NT/ACT_articles.md",
       "line_number": 20,
       "raw_match": "[[EZK.36:25]]-27",
       "reference_type": "wikilink_range",

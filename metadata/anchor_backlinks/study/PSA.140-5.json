@@ -2,15 +2,25 @@
   "anchor_id": "PSA.140:5",
   "canon_uri": "canon/OT/PSA.md#PSA.140:5",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "The righteous man shall correct me With mercy, and he shall reprove me; But let not the oil of the sinner anoint my head, For my prayer shall be intense in the presence of their pleasures.",
+  "pericope": {
+    "id": "PSA.P140",
+    "title": "Psalm 140",
+    "range": "PSA.140:1-140:10",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/SIR_footnotes.md",
-      "line_number": 274,
+      "source_file": "study/footnotes/OT/SIR_footnotes.md",
+      "line_number": 194,
       "raw_match": "[[PSA.140:5]]",
       "reference_type": "wikilink",
-      "context": "Christians extend hospitality, but not indiscriminately (see [[PSA.140:4]], [[PSA.140:5]]; [[2TI.3:6]]). Almsgiving--giving to the needy--has always been a godly virtue. The Wisdom of Sirach"
+      "context": "Christians extend hospitality, but not indiscriminately (see [[PSA.140:4]], [[PSA.140:5]]; [[2TI.3:6]]). Almsgiving--giving to the needy--has always been a godly virtue. The Wisdom of Sirach teaches when one practices this virtue to wisely choose a godly recipient. The man who does not give alms is classed with those who persist in evil (v. 3)."
     }
   ]
 }

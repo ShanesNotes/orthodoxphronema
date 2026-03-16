@@ -2,22 +2,32 @@
   "anchor_id": "2CO.4:4",
   "canon_uri": "canon/NT/2CO.md#2CO.4:4",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "whose minds the god of this age has blinded, who do not believe, lest the light of the gospel of the glory of Christ, who is the image of God, should shine on them.",
+  "pericope": {
+    "id": "2CO.P013",
+    "title": "Paul's Faithfulness to the Gospel",
+    "range": "2CO.3:18-4:5",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/MAT_footnotes.md",
-      "line_number": 551,
+      "source_file": "study/footnotes/NT/MAT_footnotes.md",
+      "line_number": 358,
       "raw_match": "[[2CO.4:4]]",
       "reference_type": "wikilink",
-      "context": "\"ruler of this world\" ([[JOH.12:31]]), \"the god of this age\" ([[2CO.4:4]]), because the whole world is"
+      "context": "God's Kingdom is not one of earthly power and possessions. In the devil's test, Jesus was being asked to choose worldly power over the Kingdom of God. The devil is the \"ruler of this world\" ([[JOH.12:31]]), \"the god of this age\" ([[2CO.4:4]]), because the whole world is in his power ([[1JN.5:19]]). Jesus refuses the road of earthly glory, which would lead Him away from His suffering and death for the redemption of the world."
     },
     {
-      "source_file": "staging/validated/NT/MAT_footnotes.md",
-      "line_number": 1671,
+      "source_file": "study/footnotes/NT/MAT_footnotes.md",
+      "line_number": 1078,
       "raw_match": "[[2CO.4:4]]",
       "reference_type": "wikilink",
-      "context": "Christ came was under the authority of Satan ([[JOH.12:31]]; [[2CO.4:4]]). It is therefore essential"
+      "context": "Just before His most violent death on the Cross, Christ promised peace to His disciples. But the existence of evil necessitates spiritual warfare. The earth to which Christ came was under the authority of Satan ([[JOH.12:31]]; [[2CO.4:4]]). It is therefore essential that Christ wage war against the leader of vice with weapons of virtue ([[EPH.6:11]]-18). See also note at [[LUK.12:51]]."
     }
   ]
 }

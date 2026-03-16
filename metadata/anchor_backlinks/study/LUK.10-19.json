@@ -2,22 +2,32 @@
   "anchor_id": "LUK.10:19",
   "canon_uri": "canon/NT/LUK.md#LUK.10:19",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Behold, I give you the authority to trample on serpents and scorpions, and over all the power of the enemy, and nothing shall by any means hurt you.",
+  "pericope": {
+    "id": "LUK.P052",
+    "title": "The Seventy Sent Out",
+    "range": "LUK.9:62-10:23",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/MRK_footnotes.md",
-      "line_number": 813,
+      "source_file": "study/footnotes/NT/MRK_footnotes.md",
+      "line_number": 555,
       "raw_match": "[[LUK.10:19]]",
       "reference_type": "wikilink",
-      "context": "To take up serpents refers primarily to spiritual battle against demons ([[LUK.10:19]])."
+      "context": "To take up serpents refers primarily to spiritual battle against demons ([[LUK.10:19]]). Thus, Christ is promising to deliver believers from the powers of sin. Furthermore, this would include certain physical protection as well. St. Paul was bitten by a serpent and suffered no harm ([[ACT.28:3]]-6), and according to tradition, Barsabas Justus ([[ACT.1:23]]) was forced by unbelievers to drink poison and survived. Nevertheless, while God's grace can protect believers from both physical and spiritual harm, to test God by deliberately committing harmful acts against oneself is a grave sin ([[DEU.6:16]]; [[MAT.4:7]])."
     },
     {
-      "source_file": "staging/validated/OT/JER_footnotes.md",
-      "line_number": 1084,
+      "source_file": "study/footnotes/OT/JER_footnotes.md",
+      "line_number": 843,
       "raw_match": "[[LUK.10:1]]-20",
       "reference_type": "wikilink_range",
-      "context": "seventy men to be heralds of the Gospel ([[LUK.10:1]]-20). These seventy lived a godly life of"
+      "context": "Seventy years: Jeremiah speaks both historically and mystically. There was a return of exiles under Cyrus after seventy years. During His earthly ministry, Christ chose seventy men to be heralds of the Gospel ([[LUK.10:1]]-20). These seventy lived a godly life of obedience to Christ, suffering martyrdom and spreading the Kingdom--the true regathering from exile in the world."
     }
   ]
 }

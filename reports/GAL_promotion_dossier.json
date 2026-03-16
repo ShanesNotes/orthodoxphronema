@@ -1,8 +1,8 @@
 {
   "book_code": "GAL",
   "testament": "NT",
-  "timestamp": "2026-03-13T13:36:32.647876",
-  "registry_version": "1.4.0",
+  "timestamp": "2026-03-15T18:29:27.033916",
+  "registry_version": "1.7.6",
   "body_checksum": "c1548646a1c8c62cf421e0ae44af81c1191db4a3c6123c41e46ffed5f15737e6",
   "allow_incomplete": true,
   "staged_path": "/home/ark/orthodoxphronema/staging/validated/NT/GAL.md",

@@ -2,29 +2,39 @@
   "anchor_id": "JOH.4:11",
   "canon_uri": "canon/NT/JOH.md#JOH.4:11",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "The woman said to Him, 'Sir, You have nothing to draw with, and the well is deep. Where then do You get that living water?",
+  "pericope": {
+    "id": "JOH.P011",
+    "title": "The Preaching of John the Baptist",
+    "range": "JOH.3:21-4:44",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/REV_footnotes.md",
-      "line_number": 2943,
+      "source_file": "study/footnotes/NT/REV_footnotes.md",
+      "line_number": 1812,
       "raw_match": "[[JOH.4:10]]-14",
       "reference_type": "wikilink_range",
-      "context": "The water of life (\"living water,\" [[JOH.4:10]]-14; 7:37-39, or \"living fountains of"
+      "context": "The water of life (\"living water,\" [[JOH.4:10]]-14; 7:37-39, or \"living fountains of waters,\" [[REV.7:17]]) is the grace of the Holy Spirit, bestowed along with baptism in chrismation. Only the one who thirsts will be given the water forever (v. 6). And, repeating the concluding exhortation of each of the seven letters (chs. 2; 3), only those who overcome (v. 7), who persist in their allegiance to God, inherit, becoming permanent sons of God. Those who fall away through cowardice or unbelief face instead the lake of fire (v. 8). They lose God's inheritance, receiving instead the damning recompense of sin and death (see 20:15; 22:15), along with Satan, the beast, the false prophet, Death, and Hades."
     },
     {
-      "source_file": "staging/validated/OT/MIC_footnotes.md",
-      "line_number": 41,
+      "source_file": "study/footnotes/OT/MIC_footnotes.md",
+      "line_number": 32,
       "raw_match": "[[JOH.4:1]]-42",
       "reference_type": "wikilink_range",
-      "context": "Samaritans were among the first to repent and receive the gospel ([[JOH.4:1]]-42). Therefore, this prophecy is ultimately fulfilled in the Church, Christ's vineyard."
+      "context": ", 7 Samaritans were among the first to repent and receive the gospel ([[JOH.4:1]]-42). Therefore, this prophecy is ultimately fulfilled in the Church, Christ's vineyard."
     },
     {
-      "source_file": "staging/validated/OT/ZEC_footnotes.md",
-      "line_number": 683,
+      "source_file": "study/footnotes/OT/ZEC_footnotes.md",
+      "line_number": 490,
       "raw_match": "[[JOH.4:10]]-14",
       "reference_type": "wikilink_range",
-      "context": "Christ is the living water ([[JOH.4:10]]-14). In the Apocalypse, a river runs through"
+      "context": "Christ is the living water ([[JOH.4:10]]-14). In the Apocalypse, a river runs through the Holy City ([[REV.22:1]]-5). The Garden of Eden was at the headwaters of four great rivers ([[GEN.2:10]]-15). In the garden of Paradise, Christ is the living water who sustains, refreshes, and gives life to the inhabitants."
     }
   ]
 }

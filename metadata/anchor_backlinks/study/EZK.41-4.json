@@ -2,15 +2,25 @@
   "anchor_id": "EZK.41:4",
   "canon_uri": "canon/OT/EZK.md#EZK.41:4",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "He measured the length of the doors, forty cubits, and the width, twenty cubits, in front of the sanctuary; and he said to me, 'This is the holy of holies.'",
+  "pericope": {
+    "id": "EZK.P074",
+    "title": "The Wall and Its Chambers",
+    "range": "EZK.41:4-41:14",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/REV_footnotes.md",
-      "line_number": 3007,
+      "source_file": "study/footnotes/NT/REV_footnotes.md",
+      "line_number": 1852,
       "raw_match": "[[EZK.41:4]]",
       "reference_type": "wikilink",
-      "context": "6:19, 20; [[EZK.41:4]]) and symbolic of its perfection: the multiples of 12 symbolize the"
+      "context": "As in Ezekiel's vision, the angel measures the city (Ezk 40-42): a colossal cube (12 x 1,000 stadia = 1,500 miles square), recalling the shape of the holy of holies (3Kg 6:19, 20; [[EZK.41:4]]) and symbolic of its perfection: the multiples of 12 symbolize the people of God, and 1000 shows its greatness. The precious stones portray its glory. As the priests in the Jerusalem temple walked on pavements of gold (3Kg 6:29), so the new, royal priesthood will walk on a street of pure gold (v. 21)."
     }
   ]
 }

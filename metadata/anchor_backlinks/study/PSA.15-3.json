@@ -1,0 +1,26 @@
+{
+  "anchor_id": "PSA.15:3",
+  "canon_uri": "canon/OT/PSA.md#PSA.15:3",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-15T23:42:04+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "To the saints on His earth, In them He magnified all His will.",
+  "pericope": {
+    "id": "PSA.P015",
+    "title": "Psalm 15",
+    "range": "PSA.15:1-15:11",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
+  "links": [
+    {
+      "source_file": "study/lectionary-notes/OT/PSA_lectionary.md",
+      "line_number": 34,
+      "raw_match": "[[PSA.15:3]]",
+      "reference_type": "wikilink",
+      "context": "**15:1** \u2014 [[PSA.15:3]] is often used in the services of the Church to honor the saints."
+    }
+  ]
+}

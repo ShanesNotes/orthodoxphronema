@@ -2,15 +2,25 @@
   "anchor_id": "2PE.2:2",
   "canon_uri": "canon/NT/2PE.md#2PE.2:2",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "And many will follow their destructive ways, because of whom the way of truth will be blasphemed.",
+  "pericope": {
+    "id": "2PE.P005",
+    "title": "The Deceptions of False Teachers",
+    "range": "2PE.1:19-2:2",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/DAN_footnotes.md",
-      "line_number": 689,
+      "source_file": "study/footnotes/OT/DAN_footnotes.md",
+      "line_number": 484,
       "raw_match": "[[2PE.2:2]]",
       "reference_type": "wikilink",
-      "context": "blatant deception? St. Peter gives the answer concerning the allure of the false teachers: \"Many will follow their destructive ways\" ([[2PE.2:2]]). 1:23-24"
+      "context": "Daniel smiled: It is indeed very humorous that a king or anyone could believe an idol of clay and bronze could eat (see also v. 19). 1:10-21 How could seventy priests and their families--and a king--indulge in such blatant deception? St. Peter gives the answer concerning the allure of the false teachers: \"Many will follow their destructive ways\" ([[2PE.2:2]]). 1:23-24 In contrast to the clay and bronze statue of Bel, this idol lives, eats, and drinks! 1:26 Likely, the king gave permission because he saw the serpent as an immortal god. 1:33-39 The prophet Habakkuk, for whom the OT book is named, had lived a century earlier. So there would be three miracles here: (1) being carried by the hair, as Ezekiel was ([[EZK.8:3]]); (2) being translated from one place to another, as Philip was ([[ACT.8:39]], [[ACT.8:40]]); and (3) being brought back from the dead, as Moses and Elijah were ([[MAT.17:3]]). 1:40-42 Once again, Daniel is vindicated."
     }
   ]
 }

@@ -75,7 +75,7 @@ extracted: 2026-03-14
 
 **46:1-7** — This passage is read at Thursday Vespers during the sixth week of Great Lent.
 
-**49:1** — Gen 49:1, 2, 8–12: This passage is read during Saturday Vespers in the sixth week of Great Lent.
+**49:1** — [[GEN.49:1]], [[GEN.49:2]], [[GEN.49:8]]–12: This passage is read during Saturday Vespers in the sixth week of Great Lent.
 
 **49:33-26** — This passage is read during Friday Vespers in the sixth week of Great Lent.
 

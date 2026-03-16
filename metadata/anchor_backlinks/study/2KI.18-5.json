@@ -2,15 +2,25 @@
   "anchor_id": "2KI.18:5",
   "canon_uri": "canon/OT/2KI.md#2KI.18:5",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "He trusted in the Lord God of Israel, and after him there was none like him among all the kings of Judah, nor among those that were before him.",
+  "pericope": {
+    "id": "2KI.P048",
+    "title": "Hezekiah Is King of Judah",
+    "range": "2KI.17:41-18:11",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/2CH_footnotes.md",
-      "line_number": 355,
+      "source_file": "study/footnotes/OT/2CH_footnotes.md",
+      "line_number": 251,
       "raw_match": "[[2KI.18:1]]-8",
       "reference_type": "wikilink_range",
-      "context": "the faithful, and set the captives free (see [[2KI.18:1]]-8)."
+      "context": "Hezekiah prefigures Christ, who opened the doors (v. 3) to heaven, gathered the faithful, and set the captives free (see [[2KI.18:1]]-8)."
     }
   ]
 }

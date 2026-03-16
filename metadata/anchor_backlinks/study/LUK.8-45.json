@@ -2,15 +2,25 @@
   "anchor_id": "LUK.8:45",
   "canon_uri": "canon/NT/LUK.md#LUK.8:45",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "And Jesus said, 'Who touched Me?'",
+  "pericope": {
+    "id": "LUK.P041",
+    "title": "Jairus' Daughter Raised, a Woman Healed",
+    "range": "LUK.8:39-8:55",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/ACT_footnotes.md",
-      "line_number": 1869,
+      "source_file": "study/footnotes/NT/ACT_footnotes.md",
+      "line_number": 1173,
       "raw_match": "[[LUK.8:41]]-48",
       "reference_type": "wikilink_range",
-      "context": "of objects bestowing grace, see 5:15; [[NUM.21:8]], [[NUM.21:9]]; [[2KI.13:20]], [[2KI.13:21]]; [[MRK.6:12]], [[MRK.6:13]]; [[LUK.8:41]]-48;"
+      "context": "The miracles performed here follow those performed by Christ and show that Christ lives and works through His followers. Of particular significance is the way physical objects (handkerchiefs and aprons, v. 12) become instruments of grace when touched by people of great faith. That God works wonders both through His saints and through created objects shows that creation itself is being renewed. (For other examples of objects bestowing grace, see 5:15; [[NUM.21:8]], [[NUM.21:9]]; [[2KI.13:20]], [[2KI.13:21]]; [[MRK.6:12]], [[MRK.6:13]]; [[LUK.8:41]]-48; [[JOH.9:6]], [[JOH.9:7]].)"
     }
   ]
 }

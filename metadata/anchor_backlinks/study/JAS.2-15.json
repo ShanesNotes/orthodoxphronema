@@ -2,22 +2,32 @@
   "anchor_id": "JAS.2:15",
   "canon_uri": "canon/NT/JAS.md#JAS.2:15",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "If a brother or sister is naked and destitute of daily food,",
+  "pericope": {
+    "id": "JAS.P006",
+    "title": "Faith that Works",
+    "range": "JAS.2:13-2:25",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/JOH_footnotes.md",
-      "line_number": 657,
+      "source_file": "study/footnotes/NT/JOH_footnotes.md",
+      "line_number": 411,
       "raw_match": "[[JAS.2:14]]-24",
       "reference_type": "wikilink_range",
-      "context": "this\" (JohnChr). See also [[JAS.2:14]]-24."
+      "context": "John echoes the teaching of Christ Himself (v. 18). Note the absence of the word \"alone\" in this statement of faith. \"We do not from this assert that faith alone is sufficient for salvation; the directions for living that are given in many places in the Gospels show this\" (JohnChr). See also [[JAS.2:14]]-24."
     },
     {
-      "source_file": "staging/validated/NT/MAT_footnotes.md",
-      "line_number": 2183,
+      "source_file": "study/footnotes/NT/MAT_footnotes.md",
+      "line_number": 1410,
       "raw_match": "[[JAS.2:14]]-18",
       "reference_type": "wikilink_range",
-      "context": "service to others--these two cannot be separated (see also [[JAS.2:14]]-18; [[1JN.4:7]]-21)."
+      "context": "Christ shows that the commandment of God cannot be superseded by man's religious traditions. Devotion to God includes both obedience to His commandments and service to others--these two cannot be separated (see also [[JAS.2:14]]-18; [[1JN.4:7]]-21)."
     }
   ]
 }

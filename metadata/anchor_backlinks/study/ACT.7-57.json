@@ -2,15 +2,25 @@
   "anchor_id": "ACT.7:57",
   "canon_uri": "canon/NT/ACT.md#ACT.7:57",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Then they cried out with a loud voice, stopped their ears, and ran at him with one accord;",
+  "pericope": {
+    "id": "ACT.P024",
+    "title": "Stephen's Martyrdom",
+    "range": "ACT.7:52-7:59",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/REV_footnotes.md",
-      "line_number": 2667,
+      "source_file": "study/footnotes/NT/REV_footnotes.md",
+      "line_number": 1646,
       "raw_match": "[[ACT.7:57]]",
       "reference_type": "wikilink",
-      "context": "[[ACT.7:57]]). Christ is presented as the Warrior-Messiah, a triumphant King. In Semitic"
+      "context": "Heaven is opened: A standard revelatory formula (4:1; [[EZK.1:1]]; [[MAT.3:16]]; [[JOH.1:51]]; [[ACT.7:57]]). Christ is presented as the Warrior-Messiah, a triumphant King. In Semitic thought, name expressed being. Some of the names of the rider are understandable: Faithful and True (see 3:13), Word of God (v. 13; see [[JOH.1:1]], [[JOH.1:14]]), KING OF KINGS (v. 16; see 17:14) AND LORD OF LORDS (see [[DEU.10:17]]; [[1TI.6:15]]). But He also has a secret name only He can understand (v. 12; see 2:17; [[DAN.2:47]]), for He is God, and only God can comprehend God ([[JOH.1:18]])."
     }
   ]
 }

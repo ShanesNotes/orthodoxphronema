@@ -2,15 +2,25 @@
   "anchor_id": "MRK.5:3",
   "canon_uri": "canon/NT/MRK.md#MRK.5:3",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "who had his dwelling among the tombs; and no one could bind him, not even with chains,",
+  "pericope": {
+    "id": "MRK.P019",
+    "title": "The Gadarene Demoniac",
+    "range": "MRK.4:41-5:19",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/REV_footnotes.md",
-      "line_number": 2747,
+      "source_file": "study/footnotes/NT/REV_footnotes.md",
+      "line_number": 1694,
       "raw_match": "[[MRK.5:3]]",
       "reference_type": "wikilink",
-      "context": "chain binds Satan ([[MRK.5:3]])."
+      "context": "The bottomless pit (abyss) is the great nether regions ([[PSA.87:7]]) where the disobedient are confined awaiting final judgment. The demons fear it (see [[LUK.8:31]]; Jude 6). It is reached through a chasm, the key to which is in the hand of the angel. The great chain binds Satan ([[MRK.5:3]])."
     }
   ]
 }

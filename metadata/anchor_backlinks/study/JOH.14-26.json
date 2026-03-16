@@ -2,15 +2,25 @@
   "anchor_id": "JOH.14:26",
   "canon_uri": "canon/NT/JOH.md#JOH.14:26",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "But the Helper, the Holy Spirit, whom the Father will send in My name, He will teach you all things, and bring to your remembrance all things that I said to you.",
+  "pericope": {
+    "id": "JOH.P054",
+    "title": "The Son's Departure",
+    "range": "JOH.14:24-14:30",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/1JN_footnotes.md",
-      "line_number": 229,
+      "source_file": "study/footnotes/NT/1JN_footnotes.md",
+      "line_number": 143,
       "raw_match": "[[JOH.14:26]]",
       "reference_type": "wikilink",
-      "context": "([[JOH.14:26]]; 16:13-15). You is plural. Anointing is not for independent action but for the"
+      "context": "Anointing (Gr. criso, hence \"chrismation\") recalls the coronation of kings and the ordinations of priests and prophets in the OT, which activated the spiritual gifts and energies needed for their offices. The NT anointing is the ongoing reality of the presence of the Holy Spirit, who works in every member of the Church to preserve her in the truth ([[JOH.14:26]]; 16:13-15). You is plural. Anointing is not for independent action but for the one holy Church."
     }
   ]
 }

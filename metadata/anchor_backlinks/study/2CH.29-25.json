@@ -2,15 +2,25 @@
   "anchor_id": "2CH.29:25",
   "canon_uri": "canon/OT/2CH.md#2CH.29:25",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "And he stationed the Levites in the house of the Lord with cymbals, with stringed instruments, and with harps, according to the commandment of David and Gad the king's seer and Nathan the prophet; for this was the commandment of the Lord by his prophets.",
+  "pericope": {
+    "id": "2CH.P057",
+    "title": "Worship Is Restored",
+    "range": "2CH.29:19-29:35",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/2SA_footnotes.md",
-      "line_number": 944,
+      "source_file": "study/footnotes/OT/2SA_footnotes.md",
+      "line_number": 738,
       "raw_match": "[[2CH.29:25]]",
       "reference_type": "wikilink",
-      "context": "Gad the prophet (see 1Kg 22:5; [[1CH.21:9]]ff; [[2CH.29:25]]) gives David a choice of"
+      "context": "Gad the prophet (see 1Kg 22:5; [[1CH.21:9]]ff; [[2CH.29:25]]) gives David a choice of one of three penalties for taking the census: (1) three years of famine; (2) three months of flight from enemies; (3) three days of death in the land. David chooses the third, and a plague afflicts Israel from Dan to Beersheba. At the point of the destruction of Jerusalem, God says enough! David beseeches the angel to afflict him and his father's house, but not his sheep, the flock of Israel."
     }
   ]
 }

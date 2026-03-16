@@ -2,12 +2,22 @@
   "anchor_id": "REV.19:16",
   "canon_uri": "canon/NT/REV.md#REV.19:16",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "And He has on His robe and on His thigh name written:",
+  "pericope": {
+    "id": "REV.P056",
+    "title": "Defeat of the Beast and False Prophet",
+    "range": "REV.19:16-19:20",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/2MA_footnotes.md",
-      "line_number": 577,
+      "source_file": "study/footnotes/OT/2MA_footnotes.md",
+      "line_number": 499,
       "raw_match": "[[REV.19:16]]",
       "reference_type": "wikilink",
       "context": "The King of kings is the Eternal Son and Word of God ( see [[REV.19:13]], [[REV.19:16]])."

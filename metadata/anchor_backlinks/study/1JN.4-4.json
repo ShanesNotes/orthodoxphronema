@@ -2,15 +2,25 @@
   "anchor_id": "1JN.4:4",
   "canon_uri": "canon/NT/1JN.md#1JN.4:4",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "You are of God, little children, and have overcome them, because He who is in you is greater than he who is in the world.",
+  "pericope": {
+    "id": "1JN.P007",
+    "title": "The Spirit's Witness: The Incarnation",
+    "range": "1JN.3:24-4:5",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/LUK_footnotes.md",
-      "line_number": 1669,
+      "source_file": "study/footnotes/NT/LUK_footnotes.md",
+      "line_number": 1115,
       "raw_match": "[[1JN.4:4]]",
       "reference_type": "wikilink",
-      "context": "stronger is Christ (see [[1JN.4:4]])."
+      "context": "The strong man is Satan, who holds sway over the fallen human race, while the stronger is Christ (see [[1JN.4:4]])."
     }
   ]
 }

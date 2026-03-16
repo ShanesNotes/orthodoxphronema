@@ -2,15 +2,25 @@
   "anchor_id": "LUK.4:29",
   "canon_uri": "canon/NT/LUK.md#LUK.4:29",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "and rose up and thrust Him out of the city; and they led Him to the brow of the hill on which their city was built, that they might throw Him down over the cliff.",
+  "pericope": {
+    "id": "LUK.P020",
+    "title": "Unbelief at Nazareth",
+    "range": "LUK.4:15-4:36",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/JOH_footnotes.md",
-      "line_number": 1887,
+      "source_file": "study/footnotes/NT/JOH_footnotes.md",
+      "line_number": 1196,
       "raw_match": "[[LUK.4:28]]-30",
       "reference_type": "wikilink_range",
-      "context": "17, 18), His accusers cannot arrest Him until He is ready (7:30; 8:20; see [[LUK.4:28]]-30)."
+      "context": "Because Christ is going to His Passion voluntarily and according to His own will (vv. 17, 18), His accusers cannot arrest Him until He is ready (7:30; 8:20; see [[LUK.4:28]]-30)."
     }
   ]
 }

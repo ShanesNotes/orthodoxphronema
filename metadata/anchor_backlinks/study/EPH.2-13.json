@@ -2,15 +2,25 @@
   "anchor_id": "EPH.2:13",
   "canon_uri": "canon/NT/EPH.md#EPH.2:13",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "But now in Christ Jesus you who once were far off have been brought near by the blood of Christ.",
+  "pericope": {
+    "id": "EPH.P006",
+    "title": "The Means of Union",
+    "range": "EPH.2:12-2:18",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/GEN_footnotes.md",
-      "line_number": 729,
+      "source_file": "study/footnotes/OT/GEN_footnotes.md",
+      "line_number": 510,
       "raw_match": "[[EPH.2:11]]-16",
       "reference_type": "wikilink_range",
-      "context": "both Jews and Gentiles ([[EPH.2:11]]-16)."
+      "context": "The seed is first Christ, then His Church ([[GAL.3:16]]; [[ROM.4:16]]). The stars are a type of all the members of His body ([[PHP.2:15]]). Their number is countless, and consists of both Jews and Gentiles ([[EPH.2:11]]-16)."
     }
   ]
 }

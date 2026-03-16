@@ -2,15 +2,25 @@
   "anchor_id": "1CO.10:20",
   "canon_uri": "canon/NT/1CO.md#1CO.10:20",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Rather, that the things which the Gentiles sacrifice they sacrifice to demons and not to God, and I do not want you to have fellowship with demons.",
+  "pericope": {
+    "id": "1CO.P024",
+    "title": "Worship Is Sacramental",
+    "range": "1CO.10:13-10:21",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/REV_footnotes.md",
-      "line_number": 1419,
+      "source_file": "study/footnotes/NT/REV_footnotes.md",
+      "line_number": 882,
       "raw_match": "[[1CO.10:20]]",
       "reference_type": "wikilink",
-      "context": "not cause the survivors to repent (see [[1CO.8:4]]). Paul ([[1CO.10:20]], [[1CO.10:21]]) and early fathers"
+      "context": "Unfortunately, humanity is so addicted to sin that even these terrifying plagues do not cause the survivors to repent (see [[1CO.8:4]]). Paul ([[1CO.10:20]], [[1CO.10:21]]) and early fathers such as Justin Martyr and Irenaeus also connected idol worship with the worship of demons."
     }
   ]
 }

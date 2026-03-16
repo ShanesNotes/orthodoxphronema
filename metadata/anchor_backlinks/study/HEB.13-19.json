@@ -1,0 +1,26 @@
+{
+  "anchor_id": "HEB.13:19",
+  "canon_uri": "canon/NT/HEB.md#HEB.13:19",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-16T02:01:16+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "But I especially urge you to do this, that I may be restored to you the sooner.",
+  "pericope": {
+    "id": "HEB.P039",
+    "title": "Conclusion",
+    "range": "HEB.13:19-13:25",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
+  "links": [
+    {
+      "source_file": "study/footnotes/OT/EZK_footnotes.md",
+      "line_number": 546,
+      "raw_match": "[[HEB.13:10]]-19",
+      "reference_type": "wikilink_range",
+      "context": "Here the vision concerns the heavenly altar (v. 46), imaged in the Divine Liturgy, where the saints offer their whole being to God in praise and worship. See [[HEB.13:10]]-19 and notes. The court is the foursquare fullness of the Church, which operates in faith, hope, charity, and good works."
+    }
+  ]
+}

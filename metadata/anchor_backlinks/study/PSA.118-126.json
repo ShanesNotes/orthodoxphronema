@@ -2,15 +2,25 @@
   "anchor_id": "PSA.118:126",
   "canon_uri": "canon/OT/PSA.md#PSA.118:126",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "It is time for the Lord to act; They broke Your law.",
+  "pericope": {
+    "id": "PSA.P118",
+    "title": "Psalm 118",
+    "range": "PSA.118:1-118:176",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/REV_footnotes.md",
-      "line_number": 1471,
+      "source_file": "study/footnotes/NT/REV_footnotes.md",
+      "line_number": 914,
       "raw_match": "[[PSA.118:126]]",
       "reference_type": "wikilink",
-      "context": "God, v. 7) is to be completed. This recalls [[PSA.118:126]], proclaimed by the deacon at the"
+      "context": "The angel, lifting his hand in the form for taking an oath (see [[GEN.14:22]]; [[DAN.12:7]]), swears that the fullness of time has arrived and God's plan for history (the mystery of God, v. 7) is to be completed. This recalls [[PSA.118:126]], proclaimed by the deacon at the beginning of the Divine Liturgy: \"It is time for the Lord to act!\" as an answer to the question of the martyrs dwelling under the altar (6:10-11). Lives forever and ever (v. 6) is literally \"unto ages of ages,\" the closing phrase of most Orthodox Christian prayers."
     }
   ]
 }

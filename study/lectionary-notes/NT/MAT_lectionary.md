@@ -9,9 +9,9 @@ extracted: 2026-03-14
 
 # Lectionary Notes: MAT
 
-**9:36** — Mt 9:36; 10:1–8: This passage is read on June 30, the Synaxis of the Twelve Apostles.
+**9:36** — [[MAT.9:36]]; 10:1–8: This passage is read on June 30, the Synaxis of the Twelve Apostles.
 
-**10:1** — Mt 10:1, 5–8: This passage is read on days commemorating holy unmercenary healers.
+**10:1** — [[MAT.10:1]], [[MAT.10:5]]–8: This passage is read on days commemorating holy unmercenary healers.
 
 **10:16-22** — This passage is read on days commemorating holy martyrs and on August 1, the Feast of the Procession of the Cross.
 

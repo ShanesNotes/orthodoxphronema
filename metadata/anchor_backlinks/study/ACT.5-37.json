@@ -2,15 +2,25 @@
   "anchor_id": "ACT.5:37",
   "canon_uri": "canon/NT/ACT.md#ACT.5:37",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "After this man, Judas of Galilee rose up in the days of the census, and drew away many people after him. He also perished, and all who obeyed him were dispersed.",
+  "pericope": {
+    "id": "ACT.P019",
+    "title": "The Apostles Arrested",
+    "range": "ACT.5:16-5:38",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/JOH_footnotes.md",
-      "line_number": 1755,
+      "source_file": "study/footnotes/NT/JOH_footnotes.md",
+      "line_number": 1108,
       "raw_match": "[[ACT.5:37]]",
       "reference_type": "wikilink",
-      "context": "Judas of Galilee and Theudas ([[ACT.5:36]], [[ACT.5:37]])."
+      "context": "The phrase all who ever came before Me does not refer to Moses or genuine prophets, but to people claiming to be the Messiah both before and after Christ, such as Judas of Galilee and Theudas ([[ACT.5:36]], [[ACT.5:37]])."
     }
   ]
 }

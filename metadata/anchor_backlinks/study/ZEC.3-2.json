@@ -2,29 +2,39 @@
   "anchor_id": "ZEC.3:2",
   "canon_uri": "canon/OT/ZEC.md#ZEC.3:2",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "And the Lord said to the devil, 'The Lord rebukes you, O devil, even the Lord choosing for Himself Jerusalem rebukes you. Behold, is this one not like a brand plucked from the fire?'",
+  "pericope": {
+    "id": "ZEC.P005",
+    "title": "Joshua the High Priest",
+    "range": "ZEC.2:17-3:9",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/JUD_footnotes.md",
-      "line_number": 93,
+      "source_file": "study/footnotes/NT/JUD_footnotes.md",
+      "line_number": 63,
       "raw_match": "[[ZEC.3:2]]",
       "reference_type": "wikilink",
-      "context": "possibility of the assumption of Moses; also [[ZEC.3:1]], [[ZEC.3:2]]). The people of God are defended"
+      "context": "Apparently from the apocryphal book The Assumption of Moses (see [[DEU.34:5]], [[DEU.34:6]] for the possibility of the assumption of Moses; also [[ZEC.3:1]], [[ZEC.3:2]]). The people of God are defended by holy angels. This is also a gracious warning to believers concerning vehement accusations against God's enemies: Let God judge. The archangel Michael showed this restraint ([[ZEC.3:2]]) even though he was dealing with the devil himself."
     },
     {
-      "source_file": "staging/validated/NT/JUD_footnotes.md",
-      "line_number": 99,
+      "source_file": "study/footnotes/NT/JUD_footnotes.md",
+      "line_number": 66,
       "raw_match": "[[ZEC.3:2]]",
       "reference_type": "wikilink",
-      "context": "restraint ([[ZEC.3:2]]) even though he was dealing with the devil himself."
+      "context": "Apparently from the apocryphal book The Assumption of Moses (see [[DEU.34:5]], [[DEU.34:6]] for the possibility of the assumption of Moses; also [[ZEC.3:1]], [[ZEC.3:2]]). The people of God are defended by holy angels. This is also a gracious warning to believers concerning vehement accusations against God's enemies: Let God judge. The archangel Michael showed this restraint ([[ZEC.3:2]]) even though he was dealing with the devil himself."
     },
     {
-      "source_file": "staging/validated/OT/SIR_footnotes.md",
-      "line_number": 714,
+      "source_file": "study/footnotes/OT/SIR_footnotes.md",
+      "line_number": 546,
       "raw_match": "[[ZEC.3:2]]",
       "reference_type": "wikilink",
-      "context": "rebuke you!\" (See also [[ZEC.3:2]].)"
+      "context": "Jude 9 also warns against rebuking Satan, instead instructing us to say, \"The Lord rebuke you!\" (See also [[ZEC.3:2]].)"
     }
   ]
 }

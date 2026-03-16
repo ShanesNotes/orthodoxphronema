@@ -2,22 +2,32 @@
   "anchor_id": "LUK.2:38",
   "canon_uri": "canon/NT/LUK.md#LUK.2:38",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "And coming in that instant she gave thanks to the Lord, and spoke of Him to all those who looked for redemption in Jerusalem.",
+  "pericope": {
+    "id": "LUK.P012",
+    "title": "Jesus' Childhood in Nazareth",
+    "range": "LUK.2:38-2:39",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/ACT_footnotes.md",
-      "line_number": 2063,
+      "source_file": "study/footnotes/NT/ACT_footnotes.md",
+      "line_number": 1303,
       "raw_match": "[[LUK.2:36]]-38",
       "reference_type": "wikilink_range",
-      "context": "Isaiah's wife (Is 8:3), the Virgin Mary ([[LUK.1:46]]-55), and Anna ([[LUK.2:36]]-38)."
+      "context": "Prophecy is the gift of the Holy Spirit to speak the will of God authoritatively. This gift is given to both men and women (see [[1CO.11:4]], [[1CO.11:5]]), and many holy women were prophets, including Miriam ([[EXO.15:20]], [[EXO.15:21]]), Deborah ([[JDG.4:4]]), Huldah ([[2KI.22:14]]), Isaiah's wife (Is 8:3), the Virgin Mary ([[LUK.1:46]]-55), and Anna ([[LUK.2:36]]-38)."
     },
     {
-      "source_file": "staging/validated/OT/ISA_footnotes.md",
-      "line_number": 1476,
+      "source_file": "study/footnotes/OT/ISA_footnotes.md",
+      "line_number": 1165,
       "raw_match": "[[LUK.2:36]]-38",
       "reference_type": "wikilink_range",
-      "context": "Anna ([[LUK.2:36]]-38), \"who looked for redemption in Jerusalem.\""
+      "context": "Many in Zion awaited the Messiah, glory instead of ashes. One thinks of the aged Simeon ([[LUK.2:22]]-35), who was \"waiting for the Consolation of Israel,\" and the prophetess Anna ([[LUK.2:36]]-38), \"who looked for redemption in Jerusalem.\""
     }
   ]
 }

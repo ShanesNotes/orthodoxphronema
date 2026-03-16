@@ -2,29 +2,39 @@
   "anchor_id": "ROM.9:11",
   "canon_uri": "canon/NT/ROM.md#ROM.9:11",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "(for the children not yet being born, nor having done any good or evil, that the purpose of God according to election might stand, not of works but of Him who calls),",
+  "pericope": {
+    "id": "ROM.P023",
+    "title": "God Is Sovereign, Faithful to Israel",
+    "range": "ROM.9:8-9:12",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/GEN_footnotes.md",
-      "line_number": 1350,
+      "source_file": "study/footnotes/OT/GEN_footnotes.md",
+      "line_number": 982,
       "raw_match": "[[ROM.9:11]]",
       "reference_type": "wikilink",
-      "context": "calling, and not on the basis of works, either good or bad ([[ROM.9:11]]). For God foreknew"
+      "context": "This prophecy shows that God's purpose in salvation stands on the basis of His calling, and not on the basis of works, either good or bad ([[ROM.9:11]]). For God foreknew which of the two sons would believe the word of promise given to Abraham. Jacob embraced the faith of Abraham, whereas Esau rejected it. Both were called, but Jacob alone responded to the call through faith. The Jews came from Jacob, and those who respond to God's calling, as did Jacob, are the children of God. For the Jews who do not embrace Abraham's faith are like Esau."
     },
     {
-      "source_file": "staging/validated/OT/MAL_footnotes.md",
-      "line_number": 32,
+      "source_file": "study/footnotes/OT/MAL_footnotes.md",
+      "line_number": 25,
       "raw_match": "[[ROM.9:10]]-13",
       "reference_type": "wikilink_range",
-      "context": "Jacob, not of indicating hatred for the unchosen (see [[GEN.25:23]]; [[LUK.14:26]]; [[ROM.9:10]]-13)."
+      "context": "In what way have You loved us? God declares His love for His people, but they reply coldly. God reminds them of the covenant with Abraham, Isaac, and Jacob. Jacob I have loved, but Esau I have hated is a Semitic way of emphasizing God's choice of Jacob, not of indicating hatred for the unchosen (see [[GEN.25:23]]; [[LUK.14:26]]; [[ROM.9:10]]-13)."
     },
     {
-      "source_file": "staging/validated/OT/PSA_footnotes.md",
-      "line_number": 1297,
+      "source_file": "study/footnotes/OT/PSA_footnotes.md",
+      "line_number": 789,
       "raw_match": "[[ROM.9:9]]-11",
       "reference_type": "wikilink_range",
-      "context": "unbelief, and the believing Gentiles brought to salvation (vv. 23, 24; [[ROM.9:9]]-11)."
+      "context": "Ps 68 prophesies the Passion of the Lord Jesus Christ (the End, v. 1) and the changes it would bring about (concerning things that shall be changed, v. 1). The changes His Passion would bring are noted throughout the psalm. Examples are: (1) the Church would become a house of prayer for all peoples (v. 10; see also [[JOH.2:19]]; [[MAT.21:13]]; Mk 11:17; [[LUK.19:46]]); (2) the cross would bear our reproaches against God (v. 10; see also Rom 15:3); (3) the cross would destroy death (gall and vinegar, v. 22; see also [[MAT.27:34]], [[MAT.27:48]]; [[MRK.15:23]], [[MRK.15:36]]; [[LUK.23:36]]; [[JOH.19:28]]-30); and (4) the Jews would be rejected for their unbelief, and the believing Gentiles brought to salvation (vv. 23, 24; [[ROM.9:9]]-11)."
     }
   ]
 }

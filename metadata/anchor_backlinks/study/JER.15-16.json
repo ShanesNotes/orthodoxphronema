@@ -2,15 +2,25 @@
   "anchor_id": "JER.15:16",
   "canon_uri": "canon/OT/JER.md#JER.15:16",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Make an end to them, and Your word shall be the gladness and joy of my heart; for I am called by Your name, O Lord, the Almighty.",
+  "pericope": {
+    "id": "JER.P030",
+    "title": "Jeremiah Senses Failure",
+    "range": "JER.15:9-15:17",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/EZK_footnotes.md",
-      "line_number": 84,
+      "source_file": "study/footnotes/OT/EZK_footnotes.md",
+      "line_number": 82,
       "raw_match": "[[JER.15:16]]",
       "reference_type": "wikilink",
-      "context": "honey (see [[PSA.18:10]]; 118:103; [[JER.15:16]]; [[ZEC.5:1]]-4; [[REV.10:8]]-11). 3:6"
+      "context": "For the faithful, the taste of Christ the Word in our mouth is even sweeter than honey (see [[PSA.18:10]]; 118:103; [[JER.15:16]]; [[ZEC.5:1]]-4; [[REV.10:8]]-11)."
     }
   ]
 }

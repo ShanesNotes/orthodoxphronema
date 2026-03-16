@@ -64,7 +64,7 @@ Composable V-checks in `checks.py`, orchestrated by `validate_canon.py`.
 | V2 | Chapter count | Matches registry expected count |
 | V3 | Chapter sequence | Chapters are sequential, no gaps |
 | V4 | Verse sequence | Verses monotonically increase within chapters |
-| V5 | Article bleed | No study-article text leaked into canon |
+| V5 | Article bleed | No study-article text leaked into canon (per-book headers + all-caps heuristic) |
 | V6 | Frontmatter | Required YAML fields present |
 | V7 | Completeness | Anchor count matches registry verse totals |
 | V8 | Heading integrity | No fragment/repeated/orphan headings |
@@ -72,6 +72,7 @@ Composable V-checks in `checks.py`, orchestrated by `validate_canon.py`.
 | V10 | Absorbed content | Brenton cross-check for fused verse content |
 | V11 | Split words | Docling column-split OCR artifacts |
 | V12 | Inline leakage | Verse's own number leaked into text body |
+| V13 | Mega-lines | Verse lines >1000 chars (article bleed, verse fusing, parser defects) |
 
 ### Stage 4: Promote (`pipeline/promote/`)
 

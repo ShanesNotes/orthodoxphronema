@@ -2,15 +2,25 @@
   "anchor_id": "MRK.9:43",
   "canon_uri": "canon/NT/MRK.md#MRK.9:43",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "If your hand causes you to sin, cut it off. It is better for you to enter into life maimed, rather than having two hands, to go to hell, into the fire that shall never be quenched-",
+  "pericope": {
+    "id": "MRK.P034",
+    "title": "Jesus' Second Prophecy of His Passion",
+    "range": "MRK.9:29-10:11",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/LUK_footnotes.md",
-      "line_number": 2361,
+      "source_file": "study/footnotes/NT/LUK_footnotes.md",
+      "line_number": 1575,
       "raw_match": "[[MRK.9:42]]-48",
       "reference_type": "wikilink_range",
-      "context": "that silkworms feed, worms being an image of hell ([[MRK.9:42]]-48). This patristic"
+      "context": "Here, the mulberry tree is symbolic of the devil's works. It is on the leaf of this tree that silkworms feed, worms being an image of hell ([[MRK.9:42]]-48). This patristic interpretation is confirmed by numerous scriptural images of evil being destroyed in the sea (8:33; [[EXO.14:27]]; [[MAT.21:21]]; [[REV.20:10]])."
     }
   ]
 }

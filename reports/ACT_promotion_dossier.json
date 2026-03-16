@@ -1,8 +1,8 @@
 {
   "book_code": "ACT",
   "testament": "NT",
-  "timestamp": "2026-03-13T13:36:31.539411",
-  "registry_version": "1.4.0",
+  "timestamp": "2026-03-15T18:29:26.017793",
+  "registry_version": "1.7.6",
   "body_checksum": "b8b0b33b276505bc78b030512e5a5909049f12d19e4b5d141d5b81e863be9bf9",
   "allow_incomplete": true,
   "staged_path": "/home/ark/orthodoxphronema/staging/validated/NT/ACT.md",

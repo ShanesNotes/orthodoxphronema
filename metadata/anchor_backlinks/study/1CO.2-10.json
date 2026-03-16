@@ -2,22 +2,32 @@
   "anchor_id": "1CO.2:10",
   "canon_uri": "canon/NT/1CO.md#1CO.2:10",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "But God has revealed them to us through His Spirit. For the Spirit searches all things, yes, the deep things of God.",
+  "pericope": {
+    "id": "1CO.P008",
+    "title": "Understanding Unity: Wisdom of the Spirit",
+    "range": "1CO.2:5-3:3",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/EPH_footnotes.md",
-      "line_number": 85,
+      "source_file": "study/footnotes/NT/EPH_footnotes.md",
+      "line_number": 53,
       "raw_match": "[[1CO.2:10]]-16",
       "reference_type": "wikilink_range",
-      "context": "made known to us through the apostles (3:1-5; [[1CO.2:6]], [[1CO.2:7]], [[1CO.2:10]]-16; 4:1). The mystery is"
+      "context": "The sacraments of baptism (redemption) and the Eucharist (His blood) are alluded to as the necessary foundation for drawing near to God. Redemption has a technical meaning relative to the freeing of slaves. Here, the bondage is to sins; the act of releasing is forgiveness; the price of redemption is blood--the human life of Christ given over to death for the sake of new life. This beginning of life in Christ is not merely legal, nor instantaneous, but living and dynamic. 1:9, 10 The mystery is the plan of salvation, the gospel, the Kingdom of God, the Church. This mystery centers on Christ Himself ([[COL.2:2]]), from the Incarnation ([[1TI.3:16]]), to the Cross ([[1CO.2:8]]), to the restoration and culmination of all things (v. 10). It is the fullness (v. 10) of all, not only for humanity but for the whole creation. Although it was announced by the prophets ([[ROM.16:25]], [[ROM.16:26]]), God revealed it through Christ, and it is made known to us through the apostles (3:1-5; [[1CO.2:6]], [[1CO.2:7]], [[1CO.2:10]]-16; 4:1). The mystery is made manifest in history by the fact that Gentiles and Jews compose one body (3:6; Col 1:26-28). The mystery is experienced in the sacraments of the Church, which are called the \"mysteries.\""
     },
     {
-      "source_file": "staging/validated/OT/EXO_footnotes.md",
-      "line_number": 827,
+      "source_file": "study/footnotes/OT/EXO_footnotes.md",
+      "line_number": 635,
       "raw_match": "[[1CO.2:10]]",
       "reference_type": "wikilink",
-      "context": "walk in the Spirit ([[1CO.2:9]], [[1CO.2:10]]; AmbM)."
+      "context": ", 14 Israel saw the quail and the manna with their physical eyes, but these things were limited to this present life. The future life in the world to come is seen by those who walk in the Spirit ([[1CO.2:9]], [[1CO.2:10]]; AmbM)."
     }
   ]
 }

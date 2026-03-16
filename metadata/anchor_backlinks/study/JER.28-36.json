@@ -2,15 +2,25 @@
   "anchor_id": "JER.28:36",
   "canon_uri": "canon/OT/JER.md#JER.28:36",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Therefore, thus says the Lord: 'Behold, I will judge your adversary and exact vengeance for you. I shall lay waste her sea and dry up her springs.",
+  "pericope": {
+    "id": "JER.P050",
+    "title": "Seventy Years of Disgrace",
+    "range": "JER.24:10-38:39",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/REV_footnotes.md",
-      "line_number": 2247,
+      "source_file": "study/footnotes/NT/REV_footnotes.md",
+      "line_number": 1386,
       "raw_match": "[[JER.28:36]]",
       "reference_type": "wikilink",
-      "context": "3:17) are repeated (see also Is 11:15; [[JER.28:36]]; [[ZEC.10:11]])."
+      "context": "In 9:13-21 the Parthian Empire threatened the Roman Empire, as it had Israel. In this verse, the historical setting of ch. 9 is clarified: Rome will lose its natural defensive line (the Euphrates) and be punished by the kings from the east, the Parthians (see also 6:2; 17:12, 13). The OT miracles of crossing over a river on dry land ([[EXO.14:21]], [[EXO.14:22]]; Jos 3:17) are repeated (see also Is 11:15; [[JER.28:36]]; [[ZEC.10:11]])."
     }
   ]
 }

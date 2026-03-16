@@ -2,11 +2,21 @@
   "anchor_id": "ROM.16:10",
   "canon_uri": "canon/NT/ROM.md#ROM.16:10",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Greet Apelles, approved in Christ. Greet those who are of the household of Aristobulus.",
+  "pericope": {
+    "id": "ROM.P044",
+    "title": "Paul's Personal Greetings",
+    "range": "ROM.15:33-16:15",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/LUK_articles.md",
+      "source_file": "study/articles/NT/LUK_articles.md",
       "line_number": 38,
       "raw_match": "[[ROM.16:10]]",
       "reference_type": "wikilink",

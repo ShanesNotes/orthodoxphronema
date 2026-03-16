@@ -2,71 +2,81 @@
   "anchor_id": "JOH.1:29",
   "canon_uri": "canon/NT/JOH.md#JOH.1:29",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "The next day John saw Jesus coming toward him, and said, 'Behold! The Lamb of God who takes away the sin of the world!",
+  "pericope": {
+    "id": "JOH.P005",
+    "title": "The Baptist's Testimony to Christ",
+    "range": "JOH.1:28-1:33",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/LUK_footnotes.md",
-      "line_number": 97,
-      "raw_match": "[[JOH.1:29]]",
-      "reference_type": "wikilink",
-      "context": "the sin of the world\" ([[JOH.1:29]])."
-    },
-    {
-      "source_file": "staging/validated/NT/LUK_footnotes.md",
-      "line_number": 1093,
-      "raw_match": "[[JOH.1:29]]-31",
-      "reference_type": "wikilink_range",
-      "context": "Though John directed his disciples to follow Christ ([[JOH.1:29]]-31, 35-37), some remained"
-    },
-    {
-      "source_file": "staging/validated/NT/REV_footnotes.md",
-      "line_number": 959,
-      "raw_match": "[[JOH.1:29]]",
-      "reference_type": "wikilink",
-      "context": "5:6, 7 Jesus is called the Lamb of God in [[JOH.1:29]]. Isaiah compares the Messiah's voluntary"
-    },
-    {
-      "source_file": "staging/validated/OT/EXO_articles.md",
+      "source_file": "study/articles/OT/EXO_articles.md",
       "line_number": 18,
       "raw_match": "[[JOH.1:29]]",
       "reference_type": "wikilink",
-      "context": "Passover, the central rite and symbol of Judaism, is based on the experience of the liberation of the Hebrew people from bondage in Egypt ([[EXO.12:1]]-15:21). It is called Passover both because the Lord passed over the homes of the Hebrews, sparing them from the death that came to the first-born in Egypt, and because the Hebrews passed over the Red Sea as if it were dry land. Passover celebrates God's steadfast love and devotion to His people and their freedom in Him. Throughout the rest of the Old Testament, Passover preeminently signifies God's rescue and forging together of His chosen people, Israel. The Lord repeatedly brings this event to mind as He encourages and exhorts His people to return to their covenantal responsibilities ([[JDG.6:7]]-10; 1Kg 10:17-19; [[PSA.80:10]], [[PSA.80:11]]; [[JER.11:1]]-8; [[MIC.6:1]]-8). Through His saving work, Christ becomes our Passover ( pascha in Greek). Through Him we experience liberation from sin, death, and the devil. St. Paul exclaims, 'Christ, our Passover, was sacrificed for us. Therefore let us keep the feast' ([[1CO.5:7]], [[1CO.5:8]]). He is the Paschal Lamb (Is 53:7; [[JOH.1:29]]; [[REV.5:6]]-14) who gave Himself up in sacrifice 'once for all' ([[HEB.10:10]]-14) to reconcile us with God. At every Pascha-'Easter'-the Church sings: Today a sacred Pascha is revealed to us, a new and holy Pascha, a mystical Pascha, a Pascha worthy of veneration, a Pascha which is Christ the Redeemer. In many typological details, the Passover of the Jews clearly points towards Christ as our Passover. 1 The Passover lamb, whose blood was smeared by the Hebrews on their doorposts in the sign of the Cross, was a male without blemish; Jesus was a male without blemish who died on the Cross. 2 The blood of the Passover lamb saved the first-born of the Hebrews from death; the blood of Christ saves all those believing in Him from eternal death ([[ROM.5:8]]-10; [[1PE.1:17]]-19). 3 The Passover lamb had none of its bones broken ([[EXO.12:10]], [[EXO.12:46]]); Jesus also had no bones broken as He was sacrificed ([[JOH.19:31]]-36). 4 The Hebrews escaped from the burden of slavery in Egypt by passing through the Red Sea; Christians pass 'from Egypt, from the burden of sin,' being's et free and saved' through the waters of Holy Baptism (GrgNy). For in the waters of Baptism, we are 'baptized into His death,' 'crucified with Him,' and raised up 'in the likeness of His resurrection' to 'walk in newness of life' ([[ROM.6:3]]-11). #### St. John Chrysostom marvels at the power of Christ's blood: If the type of it had such great power... in the midst of Egypt, when smeared on the doorposts, much more the reality.... if death so shuddered at the shadow, tell me how would it not have dreaded the very reality? This blood is the salvation of our souls; by it the soul is washed, and made beautiful and... more gleaming than gold (see [[REV.7:13]], [[REV.7:14]]). Sustained and strengthened by the blood of Christ our Passover, we resume daily our journey to the eternal promised land, the promised kingdom to come. ### The Grace Of Christand The Law Of Moses *(after EXO.20:6)*"
+      "context": "Passover, the central rite and symbol of Judaism, is based on the experience of the liberation of the Hebrew people from bondage in Egypt ([[EXO.12:1]]-15:21). It is called Passover both because the Lord passed over the homes of the Hebrews, sparing them from the death that came to the first-born in Egypt, and because the Hebrews passed over the Red Sea as if it were dry land. Passover celebrates God's steadfast love and devotion to His people and their freedom in Him. Throughout the rest of the Old Testament, Passover preeminently signifies God's rescue and forging together of His chosen people, Israel. The Lord repeatedly brings this event to mind as He encourages and exhorts His people to return to their covenantal responsibilities ([[JDG.6:7]]-10; [[1SA.10:17]]-19; [[PSA.80:10]], [[PSA.80:11]]; [[JER.11:1]]-8; [[MIC.6:1]]-8). Through His saving work, Christ becomes our Passover ( pascha in Greek). Through Him we experience liberation from sin, death, and the devil. St. Paul exclaims, 'Christ, our Passover, was sacrificed for us. Therefore let us keep the feast' ([[1CO.5:7]], [[1CO.5:8]]). He is the Paschal Lamb ([[ISA.53:7]]; [[JOH.1:29]]; [[REV.5:6]]-14) who gave Himself up in sacrifice 'once for all' ([[HEB.10:10]]-14) to reconcile us with God. At every Pascha-'Easter'-the Church sings: Today a sacred Pascha is revealed to us, a new and holy Pascha, a mystical Pascha, a Pascha worthy of veneration, a Pascha which is Christ the Redeemer. In many typological details, the Passover of the Jews clearly points towards Christ as our Passover. 1 The Passover lamb, whose blood was smeared by the Hebrews on their doorposts in the sign of the Cross, was a male without blemish; Jesus was a male without blemish who died on the Cross. 2 The blood of the Passover lamb saved the first-born of the Hebrews from death; the blood of Christ saves all those believing in Him from eternal death ([[ROM.5:8]]-10; [[1PE.1:17]]-19). 3 The Passover lamb had none of its bones broken ([[EXO.12:10]], [[EXO.12:46]]); Jesus also had no bones broken as He was sacrificed ([[JOH.19:31]]-36). 4 The Hebrews escaped from the burden of slavery in Egypt by passing through the Red Sea; Christians pass 'from Egypt, from the burden of sin,' being set free and saved' through the waters of Holy Baptism (GrgNy). For in the waters of Baptism, we are 'baptized into His death,' 'crucified with Him,' and raised up 'in the likeness of His resurrection' to 'walk in newness of life' ([[ROM.6:3]]-11). #### St. John Chrysostom marvels at the power of Christ's blood: If the type of it had such great power... in the midst of Egypt, when smeared on the doorposts, much more the reality.... if death so shuddered at the shadow, tell me how would it not have dreaded the very reality? This blood is the salvation of our souls; by it the soul is washed, and made beautiful and... more gleaming than gold (see [[REV.7:13]], [[REV.7:14]]). Sustained and strengthened by the blood of Christ our Passover, we resume daily our journey to the eternal promised land, the promised kingdom to come. ### The Grace Of Christ and The Law Of Moses *(after EXO.20:6)*"
     },
     {
-      "source_file": "staging/validated/OT/ISA_footnotes.md",
-      "line_number": 1202,
-      "raw_match": "[[JOH.1:29]]",
-      "reference_type": "wikilink",
-      "context": "Lamb of God who takes away the sin of the world\" ([[JOH.1:29]])."
-    },
-    {
-      "source_file": "staging/validated/OT/JOB_footnotes.md",
-      "line_number": 215,
-      "raw_match": "[[JOH.1:29]]",
-      "reference_type": "wikilink",
-      "context": "death for relief (v. 21), but Christ's death purged our lawlessness ([[JOH.1:29]]), and His"
-    },
-    {
-      "source_file": "staging/validated/OT/LEV_articles.md",
+      "source_file": "study/articles/OT/LEV_articles.md",
       "line_number": 21,
       "raw_match": "[[JOH.1:29]]",
       "reference_type": "wikilink",
-      "context": "In the Old Testament animal sacrifices, the blood shed and poured out represented the lifeforce of the animal offered to God ([[GEN.9:4]]; Lv 17:11; [[DEU.12:23]]). The animal was more than simply a substitute for the worshiper. There was also identification between the animal sacrificed and the one on whose behalf it was offered, explaining the emphasis in the Old Testament on the blood of the sacrifice ([[EXO.12:13]]; 24:4-8; 29:15-21; 30:1-10; Lv 14:24, 25; [[NUM.19:1]]-4). These sacrifices point to the blood of Christ in the New Testament: 'My blood of the new covenant, which is shed for many for the remission of sins' ([[MAT.26:28]]; see also Acts On the Day of Atonement, the preeminent Old Testament sacrifice was made. It was to atone for all the sins the nation of Israel had committed that year (Lv 16:2-34). The ceremony included (1) animal sacrifices as offerings for sins, and (2) the placing of 'all the transgressions of the children of Israel... on the head of the living kid'-the scapegoatwhich was then driven off into the wilderness (Lv 16:21). This event prefigures the once-forall self-sacrifice of Christ, our great High Priest (Heb 4:14-5:10; 10:19-22), who takes upon Himself all the sins of all humanity (Is 53:11, 12; [[JOH.1:29]]; [[2CO.5:21]]; [[1PE.2:24]]), tramples down death by His voluntary Death on the cross, and thereby reconciles us to God (Is 53:5; [[GAL.3:13]], [[GAL.3:14]]; [[COL.1:13]], [[COL.1:14]]; [[TIT.2:13]], [[TIT.2:14]]; [[1PE.3:18]]). #### The New Covenant"
+      "context": "In the Old Testament animal sacrifices, the blood shed and poured out represented the life-force of the animal offered to God ([[GEN.9:4]]; [[LEV.17:11]]; [[DEU.12:23]]). The animal was more than simply a substitute for the worshiper. There was also identification between the animal sacrificed and the one on whose behalf it was offered, explaining the emphasis in the Old Testament on the blood of the sacrifice ([[EXO.12:13]]; 24:4-8; 29:15-21; 30:1-10; [[LEV.14:24]], 25; [[NUM.19:1]]-4). These sacrifices point to the blood of Christ in the New Testament: 'My blood of the new covenant, which is shed for many for the remission of sins' ([[MAT.26:28]]; see also Acts On the Day of Atonement, the preeminent Old Testament sacrifice was made. It was to atone for all the sins the nation of Israel had committed that year ([[LEV.16:2]]-34). The ceremony included (1) animal sacrifices as offerings for sins, and (2) the placing of 'all the transgressions of the children of Israel... on the head of the living kid'-the scapegoat\u2014which was then driven off into the wilderness ([[LEV.16:21]]). This event prefigures the once-for-all self-sacrifice of Christ, our great High Priest ([[HEB.4:14]]-5:10; 10:19-22), who takes upon Himself all the sins of all humanity ([[ISA.53:11]], 12; [[JOH.1:29]]; [[2CO.5:21]]; [[1PE.2:24]]), tramples down death by His voluntary Death on the cross, and thereby reconciles us to God ([[ISA.53:5]]; [[GAL.3:13]], [[GAL.3:14]]; [[COL.1:13]], [[COL.1:14]]; [[TIT.2:13]], [[TIT.2:14]]; [[1PE.3:18]])."
     },
     {
-      "source_file": "staging/validated/OT/LEV_footnotes.md",
-      "line_number": 29,
-      "raw_match": "[[JOH.1:29]]",
-      "reference_type": "wikilink",
-      "context": "of God who takes away the sin of the world\" ([[JOH.1:29]])."
-    },
-    {
-      "source_file": "staging/validated/OT/NUM_articles.md",
+      "source_file": "study/articles/OT/NUM_articles.md",
       "line_number": 20,
       "raw_match": "[[JOH.1:29]]",
       "reference_type": "wikilink",
-      "context": "Typology was the primary lens used by the Church through which the Old Testament was read and interpreted. St. Irenaeus writes concerning the Old Testament, 'If anyone, therefore, reads the Scriptures with attention, he will find in them an account of Christ, and a foreshadowing of the new calling.... The treasure hidden in the Scriptures is Christ, since He was pointed out by means of types and prophecies.' Christ indeed came to fulfill in reality what had been in the Old Testament but 'a shadow of the good things to come' ([[HEB.10:1]]). Jesus told His apostles, 'All things must be fulfilled which were written in the Law of Moses and the Prophets and the Psalms concerning Me' ([[LUK.24:44]], [[LUK.24:45]]; see also 24:27; [[JOH.5:38]], [[JOH.5:46]]). Sometimes Old Testament prophecies refer to past events as types-for example, the reference in [[PSA.109:4]] to Melchizedek, and in [[JER.38:31]]-34 to the Old Covenant. Yet it is the New Testament which confirms typology as the key to understanding the Old Testament. This is evident in the famous exclamation by St. John the Baptist when Jesus approached him at the Jordan: 'Behold! The Lamb of God who takes away the sin of the world!' ([[JOH.1:29]]). Here John not only is asserting that Jesus is the fulfillment of prophecy (Is 53:7), but he is also making the first recorded public declaration linking the Person of Jesus with an Old Testament event-the sacrifice of the lamb at Passover ([[EXO.12:1]]-11; see also [[1CO.5:7]]; [[1PE.1:18]], [[1PE.1:19]]). The ultimate sacrifice of the Only Begotten Son of God was also foreshadowed in type by Abraham's offering of his son, Isaac ([[GEN.22:1]]-14). #### The New Testament, Looking Back"
+      "context": "Typology was the primary lens used by the Church through which the Old Testament was read and interpreted. St. Irenaeus writes concerning the Old Testament, 'If anyone, therefore, reads the Scriptures with attention, he will find in them an account of Christ, and a foreshadowing of the new calling.... The treasure hidden in the Scriptures is Christ, since He was pointed out by means of types and prophecies.' Christ indeed came to fulfill in reality what had been in the Old Testament but 'a shadow of the good things to come' ([[HEB.10:1]]). Jesus told His apostles, 'All things must be fulfilled which were written in the Law of Moses and the Prophets and the Psalms concerning Me' ([[LUK.24:44]], [[LUK.24:45]]; see also 24:27; [[JOH.5:38]], [[JOH.5:46]]). Sometimes Old Testament prophecies refer to past events as types-for example, the reference in [[PSA.109:4]] to Melchizedek, and in [[JER.38:31]]-34 to the Old Covenant. Yet it is the New Testament which confirms typology as the key to understanding the Old Testament. This is evident in the famous exclamation by St. John the Baptist when Jesus approached him at the Jordan: 'Behold! The Lamb of God who takes away the sin of the world!' ([[JOH.1:29]]). Here John not only is asserting that Jesus is the fulfillment of prophecy ([[ISA.53:7]]), but he is also making the first recorded public declaration linking the Person of Jesus with an Old Testament event-the sacrifice of the lamb at Passover ([[EXO.12:1]]-11; see also [[1CO.5:7]]; [[1PE.1:18]], [[1PE.1:19]]). The ultimate sacrifice of the Only Begotten Son of God was also foreshadowed in type by Abraham's offering of his son, Isaac ([[GEN.22:1]]-14). #### The New Testament, Looking Back"
+    },
+    {
+      "source_file": "study/footnotes/NT/LUK_footnotes.md",
+      "line_number": 67,
+      "raw_match": "[[JOH.1:29]]",
+      "reference_type": "wikilink",
+      "context": "As high priest, Zacharias prayed not for a son, but for the atonement of the sins of Israel ([[HEB.9:7]]). Gabriel's (v. 19) announcement reveals both that Zacharias' prayer for atonement will be answered and that Elizabeth will conceive a son. This atonement will be announced by John, who will identify Christ as \"the Lamb of God who takes away the sin of the world\" ([[JOH.1:29]])."
+    },
+    {
+      "source_file": "study/footnotes/NT/LUK_footnotes.md",
+      "line_number": 729,
+      "raw_match": "[[JOH.1:29]]-31",
+      "reference_type": "wikilink_range",
+      "context": "John the Baptist was imprisoned soon after Jesus was baptized ([[MRK.1:14]]). Though John directed his disciples to follow Christ ([[JOH.1:29]]-31, 35-37), some remained with him. While John's own faith was undoubtedly strengthened by the signs Christ performed, the Fathers universally see this encounter as a means John used to convince his remaining disciples that Jesus was indeed the Coming One."
+    },
+    {
+      "source_file": "study/footnotes/NT/REV_footnotes.md",
+      "line_number": 594,
+      "raw_match": "[[JOH.1:29]]",
+      "reference_type": "wikilink",
+      "context": "Who can know the mysteries of the scroll and the seals? Who but Christ, the Son of God Himself, can understand the greatest of all mysteries and how God deals with man in history? The Lion... of Judah and Root of David are messianic titles with parallels in the OT and apocryphal books (see [[GEN.49:9]], [[GEN.49:10]]; Is 11:1-10). The One who has conquered Satan decisively, once and for all, in His self-sacrifice on the Cross and in His Resurrection, is alone worthy to open the scroll of destiny, reveal its message, and carry out its words. 5:6, 7 Jesus is called the Lamb of God in [[JOH.1:29]]. Isaiah compares the Messiah's voluntary self-sacrifice to a lamb being led to slaughter (Is 53). The central theme of Revelation is victory through sacrifice. This Lamb stands between the throne, the four living creatures, and the elders. St. Ignatius refers to the bishop standing at the center of his flock as an image of both the Father and the Son. In the development of episcopal vesture, the bishop's outer garment was for a time woven of wool. Seven horns and seven eyes represent the fullness of Christ's power and knowledge; through Him also the Holy Spirit (the seven Spirits of God) is sent on His mission to the world. Intertestamental Jewish apocalyptic literature portrayed the Messiah as a horned lamb who would fight for His people and conquer the forces of evil. The Jews, however, never expected this warrior-lamb to suffer and die, and did not consider Him to be God. The warrior-lamb is both with God (in the midst of the throne) and with man (in the midst of the elders), for He is the union of God and man without the merging of the two natures."
+    },
+    {
+      "source_file": "study/footnotes/OT/ISA_footnotes.md",
+      "line_number": 943,
+      "raw_match": "[[JOH.1:29]]",
+      "reference_type": "wikilink",
+      "context": "\"The shepherd of Israel, and now of the whole world also\" (GrgTheo) became \"the Lamb of God who takes away the sin of the world\" ([[JOH.1:29]])."
+    },
+    {
+      "source_file": "study/footnotes/OT/JOB_footnotes.md",
+      "line_number": 150,
+      "raw_match": "[[JOH.1:29]]",
+      "reference_type": "wikilink",
+      "context": "\"The strength of the righteous is to subdue the flesh, to love the hardships of this world for the sake of eternal rewards, to count the allurements of prosperity as nothing, and to overcome the dread of adversity in our heart\" (GrgGt). 6:18 Job's lament gives voice to Christ in His Passion, summed up when He cried out, \"My God, My God, why have You forsaken Me?\" ([[PSA.21:1]]; [[MAT.27:46]]). 7:8 I am no more speaks of death and judgment, for believers know that they \"will be lost if they are judged apart from mercy, for even this very life that we seem to live righteously is sin\" (GrgGt). 7:11 St. Gregory remarks that we are to approach confession with Job's frame of mind. 7:12 St. Hesychius comments that a guard refers to the enemy, who is allowed to afflict the righteous with hard trials. 7:20-21 Christ also asked \"why?\" while hanging on the Cross ([[MAT.27:46]]). Job looked to death for relief (v. 21), but Christ's death purged our lawlessness ([[JOH.1:29]]), and His Resurrection in the morning ([[PSA.5:3]]) brought a new covenant of life and hope."
+    },
+    {
+      "source_file": "study/footnotes/OT/LEV_footnotes.md",
+      "line_number": 21,
+      "raw_match": "[[JOH.1:29]]",
+      "reference_type": "wikilink",
+      "context": "The statement, If a man among you should offer gifts to the Lord, emphasizes the freewill characteristic of any offering. God never forces anyone to worship Him. Offering animal sacrifices to the Lord was not new and was well known in antiquity. Both Abel and Abraham offered animal sacrifices to the Lord (Gn 4; 22). What are newly introduced are (1) the specific instructions about the sacrifices, (2) the enumeration of them, and (3) laws governing where, how, and by whom they were to be offered. God gave these instructions for the benefit of both Israel and those under the new covenant, for their purpose was to lead mankind to Christ. St. Paul says, \"Therefore the law was our tutor to bring us to Christ, that we might be justified by faith. But after faith has come, we are no longer under a tutor\" ([[GAL.3:24]], [[GAL.3:25]]). Only domesticated animals could be offered to God--animals dependent on the people, who in turn depended on them. These sacrificial animals were a type of Christ, \"the Lamb of God who takes away the sin of the world\" ([[JOH.1:29]])."
     }
   ]
 }

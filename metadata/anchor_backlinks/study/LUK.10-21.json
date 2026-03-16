@@ -2,15 +2,25 @@
   "anchor_id": "LUK.10:21",
   "canon_uri": "canon/NT/LUK.md#LUK.10:21",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "In that hour Jesus rejoiced in the Spirit and said, 'I thank You, Father, Lord of heaven and earth, that You have hidden these things from the wise and prudent and revealed them to babes. Even so, Father, for so it seemed good in Your sight.",
+  "pericope": {
+    "id": "LUK.P052",
+    "title": "The Seventy Sent Out",
+    "range": "LUK.9:62-10:23",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/1JN_footnotes.md",
-      "line_number": 145,
+      "source_file": "study/footnotes/NT/1JN_footnotes.md",
+      "line_number": 91,
       "raw_match": "[[LUK.10:21]]",
       "reference_type": "wikilink",
-      "context": "Christian growth. (1) Little children are the newly converted (see [[LUK.10:21]]), who see"
+      "context": "In this poem of comfort and encouragement, John addresses three stages of Christian growth. (1) Little children are the newly converted (see [[LUK.10:21]]), who see clearly that their sins are forgiven (v. 12) and who know the Father (v. 13). (2) Fathers, the mature in understanding, have known Him who is from the beginning (vv. 13, 14). (3) Young men are those who war against the devil (vv. 13, 14), who are strong (v. 14) and who have the word of God (v. 14) living in them."
     }
   ]
 }

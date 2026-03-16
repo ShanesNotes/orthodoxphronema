@@ -2,15 +2,25 @@
   "anchor_id": "JER.5:19",
   "canon_uri": "canon/OT/JER.md#JER.5:19",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "It will be that when you say, 'Why did the Lord our God do all these things to us?' then you shall answer them, 'Because you served foreign gods in your land, so you shall serve foreigners in a land not yours.'",
+  "pericope": {
+    "id": "JER.P011",
+    "title": "God's Judgment Is Just",
+    "range": "JER.4:31-5:30",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/LAM_footnotes.md",
-      "line_number": 170,
+      "source_file": "study/footnotes/OT/LAM_footnotes.md",
+      "line_number": 149,
       "raw_match": "[[JER.5:19]]",
       "reference_type": "wikilink",
-      "context": "([[JER.5:19]])."
+      "context": "The foreigners are not just the Babylonians, but could also be a reference to idols ([[JER.5:19]])."
     }
   ]
 }

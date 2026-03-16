@@ -2,22 +2,32 @@
   "anchor_id": "DAN.7:9",
   "canon_uri": "canon/OT/DAN.md#DAN.7:9",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "I continued to watch until thrones were put in place, and the Ancient of Days enthroned Himself. His clothing was white as snow, and the hair of His head was like pure wool. His throne was a fiery flame, and its wheels a burning fire.",
+  "pericope": {
+    "id": "DAN.P023",
+    "title": "Daniel's Vision of Four Beasts",
+    "range": "DAN.6:29-7:13",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/REV_footnotes.md",
-      "line_number": 815,
+      "source_file": "study/footnotes/NT/REV_footnotes.md",
+      "line_number": 510,
       "raw_match": "[[DAN.7:9]]",
       "reference_type": "wikilink",
-      "context": "lordship (3Kg 22:19; [[PSA.46:9]]; Is 6:1; [[EZK.1:25]]-27; [[DAN.7:9]]; [[MAT.5:34]]; 23:22; see also 1En"
+      "context": "God is seen in biblical visions as sitting on a throne, a symbol of His sovereign lordship (3Kg 22:19; [[PSA.46:9]]; Is 6:1; [[EZK.1:25]]-27; [[DAN.7:9]]; [[MAT.5:34]]; 23:22; see also 1En 14:18, 19). The image of this throne occurs over 40 times in Revelation and is further described as \"a great white throne\" (20:11), a throne of judgment. But here His throne is surrounded by a rainbow (v. 3), the sign of God's everlasting covenant according to which He will not judge man again as He did at the Flood ([[GEN.9:12]]-17). Mercy triumphs over judgment ([[MAT.9:13]]). Thus, in the Orthodox Church, the altar table is sometimes called \"the throne.\""
     },
     {
-      "source_file": "staging/validated/NT/REV_footnotes.md",
-      "line_number": 2847,
+      "source_file": "study/footnotes/NT/REV_footnotes.md",
+      "line_number": 1754,
       "raw_match": "[[DAN.7:9]]",
       "reference_type": "wikilink",
-      "context": "God executes judgment from the great white throne (see [[DAN.7:9]]; see also 1En"
+      "context": "God executes judgment from the great white throne (see [[DAN.7:9]]; see also 1En 18:8). The One who sits on the throne in Revelation is God the Father (4:2-9; 5:1, 7, 13; 6:16; 7:10; etc.). However, in the rest of the NT Christ is the judge on the throne (Mt 25:31-46; [[JOH.5:22]]; [[ACT.10:42]]; 17:31; [[2CO.5:10]]). John is about to show their unity: \"the throne of God and of the Lamb\" (22:1). Earth and heaven flee away ([[MAT.24:35]]; 2Pt 3:10-13) in terror, a cosmic sign of the great Day of the Lord and the coming of the new heaven and earth (21:1)."
     }
   ]
 }

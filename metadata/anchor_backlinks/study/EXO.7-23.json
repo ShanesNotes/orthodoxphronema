@@ -2,15 +2,25 @@
   "anchor_id": "EXO.7:23",
   "canon_uri": "canon/OT/EXO.md#EXO.7:23",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Pharaoh then turned and went to his house. Neither was his heart moved by this.",
+  "pericope": {
+    "id": "EXO.P010",
+    "title": "The Plague of Water Turned to Blood",
+    "range": "EXO.7:13-7:24",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/REV_footnotes.md",
-      "line_number": 1293,
+      "source_file": "study/footnotes/NT/REV_footnotes.md",
+      "line_number": 801,
       "raw_match": "[[EXO.7:14]]-25",
       "reference_type": "wikilink_range",
-      "context": "As in the first plague of Egypt ([[EXO.7:14]]-25), the sea, marine life, and maritime"
+      "context": "As in the first plague of Egypt ([[EXO.7:14]]-25), the sea, marine life, and maritime commerce are affected."
     }
   ]
 }

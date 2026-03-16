@@ -2,15 +2,25 @@
   "anchor_id": "MRK.10:35",
   "canon_uri": "canon/NT/MRK.md#MRK.10:35",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Then James and John, the sons of Zebedee, came to Him, saying, 'Teacher, we want You to do for us whatever we ask.'",
+  "pericope": {
+    "id": "MRK.P036",
+    "title": "The Danger of Riches",
+    "range": "MRK.10:16-10:44",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/MAT_footnotes.md",
-      "line_number": 2775,
+      "source_file": "study/footnotes/NT/MAT_footnotes.md",
+      "line_number": 1786,
       "raw_match": "[[MRK.10:35]]",
       "reference_type": "wikilink",
-      "context": "revealed by the plural you in v. 22, and in [[MRK.10:35]]."
+      "context": "This quest for temporal power and glory is unfitting for a disciple and shows an earthly misunderstanding of the Kingdom of God. Matthew reports that the mother of Zebedee's sons requested this honor, but John's and James' own involvement is revealed by the plural you in v. 22, and in [[MRK.10:35]]. Christ calls His Crucifixion a cup and His death a baptism. The Cross is a cup because He drank it willingly ([[HEB.12:2]]). His death is baptism, for He was completely immersed in it, yet it cleansed the world ([[ROM.6:3]]-6). Christ's prophecy of John and James participating in the same cup and baptism shows the life of persecution and martyrdom they would lead after Pentecost. Christ declaring that the places of honor in the Kingdom are not His to give does not mean that He lacks authority. Rather, it means that they are not His to give arbitrarily. Instead, He will give them to those for whom God has prepared them. Note also that with regard to sitting as equals on the right and left hand of Christ in His Kingdom, St. John Chrysostom teaches that no one could possibly occupy such a position. With regard to the highest places of honor that can be given to man, the icons of the Church universally depict the Virgin Mary (the most blessed among women--[[LUK.1:28]]) and John the Baptist (the greatest born of women--11:11) holding these places."
     }
   ]
 }

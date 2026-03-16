@@ -2,22 +2,32 @@
   "anchor_id": "HEB.11:19",
   "canon_uri": "canon/NT/HEB.md#HEB.11:19",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "concluding that God was able to raise him up, even from the dead, from which he also received him in a figurative sense.",
+  "pericope": {
+    "id": "HEB.P029",
+    "title": "Faith from Abraham to Joseph",
+    "range": "HEB.11:7-11:21",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/GEN_footnotes.md",
-      "line_number": 1145,
+      "source_file": "study/footnotes/OT/GEN_footnotes.md",
+      "line_number": 828,
       "raw_match": "[[HEB.11:19]]",
       "reference_type": "wikilink",
-      "context": "the future resurrection from the dead, in which Abraham believed ([[HEB.11:19]])."
+      "context": "Abraham received Isaac back alive. This prefigured the Resurrection of Christ and the future resurrection from the dead, in which Abraham believed ([[HEB.11:19]])."
     },
     {
-      "source_file": "staging/validated/OT/NUM_footnotes.md",
-      "line_number": 201,
+      "source_file": "study/footnotes/OT/NUM_footnotes.md",
+      "line_number": 129,
       "raw_match": "[[HEB.11:19]]",
       "reference_type": "wikilink",
-      "context": "shadow of the good things to come . . .\" [[HEB.11:19]]: \". . . from which [Abraham] also"
+      "context": "[[NUM.4:1]], [[NUM.4:16]], [[NUM.4:29]]: Gershom, Kohath, and Merari were the sons of Levi ([[EXO.6:16]]). Their lineage, in turn, would be assigned as the liturgical ministers of the tabernacle. The Scripture refers to the tabernacle and its liturgical service of worship by various words, all of which show the temporal nature of this worship. These Scripture passages are as follows: [[EXO.25:40]] (also quoted in [[HEB.8:5]]): \"See to it that you make [all things] according to the pattern shown you on the mountain.\" [[HEB.8:5]]: \"[The priests] serve the copy and shadow of the heavenly things.\" [[HEB.9:23]]: \"Therefore it was necessary that the copies of the things in the heavens should be purified with these.\" [[HEB.9:9]]: \"It was symbolic for the present time in which both gifts and sacrifices are offered.\" [[HEB.9:24]]: \"For Christ has not entered the holy places made with hands, which are copies of the true, but into heaven itself, now to appear in the presence of God for us.\" [[HEB.10:1]]: \"For the law, having a shadow of the good things to come...\" [[HEB.11:19]]: \"... from which [Abraham] also received [Isaac] in a figurative sense.\" The various words therefore are \"pattern,\" \"copy,\" \"shadow,\" \"figure,\" and \"symbol,\" all of which carry the same meaning, namely, one level of reality that represents and is fulfilled in another and greater level. Therefore, the Old Testament liturgical service of worship was temporal in nature, and is fulfilled in the greater reality of the Church's liturgical worship. Liturgical worship in the Church is called \"heaven on earth,\" for it fulfills the types."
     }
   ]
 }

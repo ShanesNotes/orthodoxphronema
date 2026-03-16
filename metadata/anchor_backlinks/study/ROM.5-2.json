@@ -2,22 +2,32 @@
   "anchor_id": "ROM.5:2",
   "canon_uri": "canon/NT/ROM.md#ROM.5:2",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "through whom also we have access by faith into this grace in which we stand, and rejoice in hope of the glory of God.",
+  "pericope": {
+    "id": "ROM.P012",
+    "title": "Righteousness as a Living Reality",
+    "range": "ROM.4:24-5:20",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/JAS_footnotes.md",
-      "line_number": 35,
-      "raw_match": "[[ROM.5:2]]",
-      "reference_type": "wikilink",
-      "context": "([[MAT.5:11]], [[MAT.5:12]]; [[ACT.5:41]]; [[ROM.5:2]], [[ROM.5:3]]; 8:18; [[HEB.12:11]]; [[1PE.2:19]]). Though unkind"
-    },
-    {
-      "source_file": "staging/validated/NT/ROM_articles.md",
+      "source_file": "study/articles/NT/ROM_articles.md",
       "line_number": 38,
       "raw_match": "[[ROM.5:2]]",
       "reference_type": "wikilink",
       "context": "F or most of church history, salvation was seen as comprehending all of life: Christians believed in Christ, were baptized, and were nurtured in their salvation in the Church. Key doctrines of the faith centered around the Holy Trinity, the Incarnation of the Son of God, the atonement. In Western Europe during the sixteenth century and before, however, justifiable concern arose among the Reformers over a prevailing understanding that salvation depended on human works of merit, and not on the grace and mercy of God. Their rediscovery of Romans 5 lead to the slogan sola fides: justification by faith alone. This Reformation debate in the West raised the question for the Orthodox East: Why this new polarization of faith and works? It had been settled since the apostolic era that salvation was granted by the mercy of God to righteous men and women. Those baptized into Christ were called to believe in Him and do good works. An opposition of faith versus works was unprecedented in Orthodox thought. The Orthodox understanding of justification differs from the Protestant in several ways. 1 Justification and the new covenant. When Orthodox Christians approach the doctrine of salvation, the discussion centers around the new covenant. Justification-being or becoming righteous-by faith in God is part of being brought into a covenant relationship with Him. Whereas Israel was under the old covenant, in which salvation came through faith as revealed in the law, the Church is under the new covenant. Salvation comes through faith in Christ, who fulfills the law. We receive the gift of the Holy Spirit, who dwells in us, leading us to the knowledge of God the Father. Rather than justification as a legal acquittal before God, Orthodox believers see justification by faith as a covenant relationship with Him, centered in union with Christ ([[ROM.6:1]]-6). 2 Justification and God's mercy. Orthodoxy emphasizes it is first God's mercy-not our faith-that saves us. 'Therefore, having been justified by faith, we have peace with God through our Lord Jesus Christ, through whom also we have access by faith into this grace in which we stand, and rejoice in hope of the glory of God' ([[ROM.5:1]], [[ROM.5:2]]). It is God who initiates or makes the new covenant with us. 3 Justification by faith is dynamic, not static. For Orthodox Christians, faith is living, dynamic, continuous-never static or merely point-in-time. Faith is not something a Christian exercises only at one critical moment, expecting it to cover all the rest of his life. True faith is not just a decision, it's a way of life. Thus, the Orthodox Christian sees salvation in at least three aspects: (a) I have been saved, being joined to Christ in Holy Baptism; (b) I am being saved, growing in Christ through the sacramental life of the Church; and (c) I will be saved, by the mercy of God at the Last Judgment. Justification by faith, though not the major New Testament doctrine for Orthodox as it is for Protestants, poses no problem. But justification by faith alone brings up an objection. It contradicts Scripture, which says, 'You see then that a man is justified by works, and not by faith only' ([[JAS.2:24]]). We are 'justified by faith apart from the deeds of the law' ([[ROM.3:28]]), but nowhere does the Bible say we are justified by faith 'alone.' On the contrary, 'faith by itself, if it does not have works, is dead' ([[JAS.2:17]]). As Christians we are no longer under the demands of the Old Testament law ([[ROM.3:20]]), for Christ has fulfilled the law ([[GAL.2:21]]; 3:5, 24). By God's mercy, we are brought into a new covenant relationship with Him. We who believe are granted entrance into His Kingdom by His grace. Through His mercy, we are justified by faith and empowered by God for good works or deeds of righteousness that bring glory to Him."
+    },
+    {
+      "source_file": "study/footnotes/NT/JAS_footnotes.md",
+      "line_number": 26,
+      "raw_match": "[[ROM.5:2]]",
+      "reference_type": "wikilink",
+      "context": "Trials, the world's oppression, take place by God's permission. The issue is not trials but our response to them. Properly received, trials reveal where our hearts are. They are food for faith, which must grow or die. The godly reaction to trials is joy and perseverance ([[MAT.5:11]], [[MAT.5:12]]; [[ACT.5:41]]; [[ROM.5:2]], [[ROM.5:3]]; 8:18; [[HEB.12:11]]; [[1PE.2:19]]). Though unkind circumstances are from the evil one, to get angry at circumstances is to get angry at God, who permits them."
     }
   ]
 }

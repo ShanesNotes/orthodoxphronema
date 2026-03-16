@@ -2,15 +2,25 @@
   "anchor_id": "GAL.6:10",
   "canon_uri": "canon/NT/GAL.md#GAL.6:10",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Therefore, as we have opportunity, let us do good to all, especially to those who are of the household of faith.",
+  "pericope": {
+    "id": "GAL.P021",
+    "title": "The Rule of Faith",
+    "range": "GAL.6:10-6:16",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/SIR_footnotes.md",
-      "line_number": 291,
+      "source_file": "study/footnotes/OT/SIR_footnotes.md",
+      "line_number": 205,
       "raw_match": "[[GAL.6:10]]",
       "reference_type": "wikilink",
-      "context": "the household of faith\" ([[GAL.6:10]])."
+      "context": "These verses reflect the view of ancient societies, including the Hebrews and Greeks, that one should extend grace or do good mainly to one's family or to one who is godly. Few believed in doing good to one's enemies until Jesus Christ strongly taught us to do so (see [[MAT.5:38]]-48; [[LUK.6:27]]-36). St. Paul sums up the Christian view of almsgiving: \"Therefore, as we have opportunity, let us do good to all, especially to those who are of the household of faith\" ([[GAL.6:10]])."
     }
   ]
 }

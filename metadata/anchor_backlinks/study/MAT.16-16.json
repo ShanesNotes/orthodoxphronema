@@ -2,22 +2,32 @@
   "anchor_id": "MAT.16:16",
   "canon_uri": "canon/NT/MAT.md#MAT.16:16",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Simon Peter answered and said, 'You are the Christ, the Son of the living God.'",
+  "pericope": {
+    "id": "MAT.P053",
+    "title": "Jesus Is the Christ, the Son of God",
+    "range": "MAT.16:12-16:19",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/SNG_footnotes.md",
-      "line_number": 396,
+      "source_file": "study/footnotes/OT/SNG_footnotes.md",
+      "line_number": 304,
       "raw_match": "[[MAT.16:16]]-18",
       "reference_type": "wikilink_range",
-      "context": "Gospel, against which even hell itself has no power ([[MAT.16:16]]-18). A thousand shields"
+      "context": "The tower of David would be the impregnable fortress in David's Jerusalem. The Church is the New Jerusalem, and this fortress is the immovable confession of Christ, the Gospel, against which even hell itself has no power ([[MAT.16:16]]-18). A thousand shields refers to small bucklers, a piece of defensive armor, speaking of God's protection of those in warfare."
     },
     {
-      "source_file": "staging/validated/OT/SNG_footnotes.md",
-      "line_number": 529,
+      "source_file": "study/footnotes/OT/SNG_footnotes.md",
+      "line_number": 404,
       "raw_match": "[[MAT.16:15]]-17",
       "reference_type": "wikilink_range",
-      "context": "unless He chooses to reveal Himself (see [[MAT.16:15]]-17)."
+      "context": "I... did not find him is a solemn reminder that our Bridegroom cannot be found unless He chooses to reveal Himself (see [[MAT.16:15]]-17)."
     }
   ]
 }

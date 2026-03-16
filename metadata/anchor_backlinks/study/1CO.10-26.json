@@ -2,15 +2,25 @@
   "anchor_id": "1CO.10:26",
   "canon_uri": "canon/NT/1CO.md#1CO.10:26",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "for 'the earth is the LORD'S, and all its fullness.'",
+  "pericope": {
+    "id": "1CO.P025",
+    "title": "Offend No Man, Glorify God",
+    "range": "1CO.10:22-10:33",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/1ES_footnotes.md",
-      "line_number": 21,
+      "source_file": "study/footnotes/OT/1ES_footnotes.md",
+      "line_number": 17,
       "raw_match": "[[1CO.10:23]]-26",
       "reference_type": "wikilink_range",
-      "context": "an OT type of the NT paschal feast ([[1CO.10:23]]-26), in which the Church celebrates the"
+      "context": "The Passover under Josiah and the account of his death (vv. 26-31). Josiah was the last king of Judah to seek truth (v. 21). As such, he is a figure of Christ, who is the embodiment of truth ([[JOH.14:6]]). From Exodus 12 we learn that the Feast of the Passover is an OT type of the NT paschal feast ([[1CO.10:23]]-26), in which the Church celebrates the death and Resurrection of Christ."
     }
   ]
 }

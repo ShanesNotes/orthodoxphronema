@@ -2,22 +2,32 @@
   "anchor_id": "GEN.6:4",
   "canon_uri": "canon/OT/GEN.md#GEN.6:4",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Now there were giants on the earth in those days, and also afterward, when the sons of God came in to the daughters of men and they bore children to them. Those were the mighty men of old, men of renown.",
+  "pericope": {
+    "id": "GEN.P007",
+    "title": "Man's Wickedness",
+    "range": "GEN.5:32-6:7",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/BAR_footnotes.md",
-      "line_number": 157,
+      "source_file": "study/footnotes/OT/BAR_footnotes.md",
+      "line_number": 132,
       "raw_match": "[[GEN.6:4]]",
       "reference_type": "wikilink",
       "context": "Giants: See [[GEN.6:4]]; WSir 16:7."
     },
     {
-      "source_file": "staging/validated/OT/SIR_footnotes.md",
-      "line_number": 388,
+      "source_file": "study/footnotes/OT/SIR_footnotes.md",
+      "line_number": 288,
       "raw_match": "[[GEN.6:4]]",
       "reference_type": "wikilink",
-      "context": "The ancient giants are mentioned in [[GEN.6:4]]; WSol 14:6; [[BAR.3:26]]; and 3Mc 2:4.They"
+      "context": "The ancient giants are mentioned in [[GEN.6:4]]; WSol 14:6; [[BAR.3:26]]; and 3Mc 2:4. They are described as expert men of war, arrogant, insolent, foolish, mighty, and trusting in their own strength. They were destroyed by God in the flood."
     }
   ]
 }

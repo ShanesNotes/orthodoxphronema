@@ -2,15 +2,25 @@
   "anchor_id": "EXO.26:22",
   "canon_uri": "canon/OT/EXO.md#EXO.26:22",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "For the far side of the tabernacle, westward, you shall make six posts.",
+  "pericope": {
+    "id": "EXO.P054",
+    "title": "The Tabernacle",
+    "range": "EXO.25:40-26:36",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/ZEC_footnotes.md",
-      "line_number": 350,
+      "source_file": "study/footnotes/OT/ZEC_footnotes.md",
+      "line_number": 244,
       "raw_match": "[[EXO.26:15]]-28",
       "reference_type": "wikilink_range",
-      "context": ", 2 The sickle is \"scroll\" in Hebrew. Both are indicative of judgment. The sickle is huge, of roughly the same dimensions as the tabernacle in the wilderness (see [[EXO.26:15]]-28) or"
+      "context": ", 2 The sickle is \"scroll\" in Hebrew. Both are indicative of judgment. The sickle is huge, of roughly the same dimensions as the tabernacle in the wilderness (see [[EXO.26:15]]-28) or the porch of Solomon's temple (see 3Kg 6:6, 7)."
     }
   ]
 }

@@ -2,15 +2,25 @@
   "anchor_id": "JOH.6:4",
   "canon_uri": "canon/NT/JOH.md#JOH.6:4",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Now the Passover, a feast of the Jews, was near.",
+  "pericope": {
+    "id": "JOH.P015",
+    "title": "Feeding of the Five Thousand",
+    "range": "JOH.5:47-6:13",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/EXO_footnotes.md",
-      "line_number": 571,
+      "source_file": "study/footnotes/OT/EXO_footnotes.md",
+      "line_number": 432,
       "raw_match": "[[JOH.6:4]]",
       "reference_type": "wikilink",
-      "context": "Lord's Pascha,\" but later it was called \"the Jews' Pascha\" (see [[JOH.6:4]]), because they denied"
+      "context": "The haste in eating the Lord's Pascha speaks of sojourning. Likewise, we are to eat the Lord's Eucharist as sojourners (JohnChr), for we \"look for the resurrection of the dead and the life of the world to come\" (Creed). Originally, Passover was called \"the Lord's Pascha,\" but later it was called \"the Jews' Pascha\" (see [[JOH.6:4]]), because they denied the Lord who fulfilled the type (AthanG)."
     }
   ]
 }

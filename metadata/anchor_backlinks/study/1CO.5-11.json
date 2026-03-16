@@ -2,15 +2,25 @@
   "anchor_id": "1CO.5:11",
   "canon_uri": "canon/NT/1CO.md#1CO.5:11",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "But now I have written to you not to keep company with anyone named a brother, who is sexually immoral, or covetous, or an idolater, or areviler, or adrunkard, or an extortioner-not even to eat with such a person.",
+  "pericope": {
+    "id": "1CO.P013",
+    "title": "Incest: The Church Must Be Pure",
+    "range": "1CO.4:21-5:12",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/2TI_footnotes.md",
-      "line_number": 157,
+      "source_file": "study/footnotes/NT/2TI_footnotes.md",
+      "line_number": 111,
       "raw_match": "[[1CO.5:1]]-13",
       "reference_type": "wikilink_range",
-      "context": "stands firm and unalterable and cannot tolerate the false (see [[1CO.5:1]]-13; [[2CO.6:14]]-18),"
+      "context": "Good theology helps us along the path to good behavior. Although the truth stands firm and unalterable and cannot tolerate the false (see [[1CO.5:1]]-13; [[2CO.6:14]]-18), it instills a reasonable patience and gentleness toward all, especially toward false teachers --while not losing sight of the fact that they are enemies and to be avoided (3:5)."
     }
   ]
 }

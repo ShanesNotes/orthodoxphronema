@@ -2,15 +2,25 @@
   "anchor_id": "1CO.9:3",
   "canon_uri": "canon/NT/1CO.md#1CO.9:3",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "My defense to those who examine me is this:",
+  "pericope": {
+    "id": "1CO.P020",
+    "title": "A Good Example: Paul's Rights",
+    "range": "1CO.8:13-9:13",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/ACT_footnotes.md",
-      "line_number": 2045,
+      "source_file": "study/footnotes/NT/ACT_footnotes.md",
+      "line_number": 1292,
       "raw_match": "[[1CO.9:1]]-23",
       "reference_type": "wikilink_range",
-      "context": "([[1CO.9:1]]-23), he has not required this for himself from the communities he established."
+      "context": "While St. Paul teaches the clergy should be supported materially by the faithful ([[1CO.9:1]]-23), he has not required this for himself from the communities he established. This allowed Paul to preach all the more freely and took away any opportunity for others to question his motives (compare with [[NEH.5:14]]-19; 13:10-13). The quotation from Christ (v. 35) is not recorded in the four Gospels (see [[JOH.21:25]])."
     }
   ]
 }

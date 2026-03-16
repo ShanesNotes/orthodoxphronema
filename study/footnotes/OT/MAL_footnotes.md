@@ -142,7 +142,7 @@ How have we insulted you? God answers this self-righteous question pointedly: th
 additional gifts. Some modern Christians reject tithing, claiming it is a part of the Law not
 applicable today. But they forget that Abram (Abraham) tithed to Melchizedek five
 hundred years before the Law was given to Moses ([[GEN.14:18]]-20). And Melchizedek is a
-type of Christ (Heb 6:19-7:6). To those who tithe, God promises a blessing until it is
+type of Christ ([[HEB.6:19]]-7:6). To those who tithe, God promises a blessing until it is
 overflowing. 
 
 ### 3:13-15

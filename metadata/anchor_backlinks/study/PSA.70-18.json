@@ -2,12 +2,22 @@
   "anchor_id": "PSA.70:18",
   "canon_uri": "canon/OT/PSA.md#PSA.70:18",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "And even to old age and to my last breath, O God, do not abandon me, Until I proclaim Your arm to every coming generation, Yes, Your mighty deeds and Your righteousness.",
+  "pericope": {
+    "id": "PSA.P070",
+    "title": "Psalm 70",
+    "range": "PSA.70:1-70:24",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/ISA_footnotes.md",
-      "line_number": 997,
+      "source_file": "study/footnotes/OT/ISA_footnotes.md",
+      "line_number": 777,
       "raw_match": "[[PSA.70:18]]",
       "reference_type": "wikilink",
       "context": "An encouraging promise to believers in old age, reminiscent of [[PSA.70:17]], [[PSA.70:18]]."

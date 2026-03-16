@@ -2,15 +2,25 @@
   "anchor_id": "REV.14:17",
   "canon_uri": "canon/NT/REV.md#REV.14:17",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Then another angel came out of the temple which is in heaven, he also having a sharp sickle.",
+  "pericope": {
+    "id": "REV.P040",
+    "title": "Harvest of Wrath: The Grapes",
+    "range": "REV.14:14-14:19",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/JOL_footnotes.md",
-      "line_number": 385,
+      "source_file": "study/footnotes/OT/JOL_footnotes.md",
+      "line_number": 268,
       "raw_match": "[[REV.14:17]]-20",
       "reference_type": "wikilink_range",
-      "context": "evil in the nations (see [[REV.14:17]]-20). 4:16-17 The language used by Joel is reminiscent of descriptions of the last days found in"
+      "context": "The judgment of all nations can be understood in one or more of three different ways. It may, on the one hand, refer to the attempted siege of Jerusalem during the building of the wall (see 2Ez 4). There is a strong case for this interpretation because of the earlier reference to the restoration from exile. Secondly, the passage may refer to the age of the Church, in which God deals with the persecutors or heretics who attempt to assail her. Thirdly, this may be understood as the final judgment of all people for their sins. In any case, God is dealing with nations who are willingly attacking His people. The Valley of Jehoshaphat most likely refers to the Kidron Valley, just east of Jerusalem. The triumph of God over His enemies in a valley is echoed in 1 Enoch 53; 54, but here the valley is fiery. This image was retained in the New Testament, where Christ refers to a valley in which trash was burnt, Gehenna (translated \"hell\"), as a symbol of judgment. 4:4 All the coast of Philistia refers to the non-Jewish nations that lived in Galilee and its environs. Under Babylonian and Persian administration, many non-Jewish peoples moved into the northern regions of Israel. 4:6 The slave trade was widespread in antiquity. The abduction of Israelites for sale into slavery is attested as late as the Maccabean period (1Mc 3:41; 2Mc 8:11). 4:9-12 This passage is sarcastic in tone. God does not desire the death of a sinner (Ezk 18:23, 32), but knowing that the nations will attack Israel, He goads them on. He is well aware that their attack will come to no avail, but he uses the assault as an opportunity to bring them into judgment. 4:10 Spears: The Greek word used here indicates a special kind of spear. It was a barbed pole used to probe for concealed pits into which an advancing soldier might fall. 4:13 While the nations turn from farming to warfare, the Lord does the opposite, attending to agriculture, harvesting grain, and treading wine. While the treading of grapes is typically an image of the massacre of enemies, Joel emphasizes the moral aspects of the image. The runoff of the grapes is not simply blood, but the result of the abundance of evil in the nations (see [[REV.14:17]]-20)."
     }
   ]
 }

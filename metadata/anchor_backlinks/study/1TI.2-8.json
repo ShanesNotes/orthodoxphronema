@@ -2,15 +2,25 @@
   "anchor_id": "1TI.2:8",
   "canon_uri": "canon/NT/1TI.md#1TI.2:8",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "I desire therefore that the men pray everywhere, lifting up holy hands, without wrath and doubting;",
+  "pericope": {
+    "id": "1TI.P008",
+    "title": "Faithful Lives Fitting for Prayer",
+    "range": "1TI.2:5-2:15",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/2MA_footnotes.md",
-      "line_number": 165,
+      "source_file": "study/footnotes/OT/2MA_footnotes.md",
+      "line_number": 139,
       "raw_match": "[[1TI.2:8]]",
       "reference_type": "wikilink",
-      "context": "13). St. Paul instructs the Church to pray \"lifting up holy hands\" ([[1TI.2:8]])."
+      "context": "The people stretched out their hands to pray. Perhaps the earliest account of the lifting of hands for intercession is in Moses' role in Israel's victory over Amalek ([[EXO.17:8]]- 13). St. Paul instructs the Church to pray \"lifting up holy hands\" ([[1TI.2:8]])."
     }
   ]
 }

@@ -2,15 +2,25 @@
   "anchor_id": "MAT.24:39",
   "canon_uri": "canon/NT/MAT.md#MAT.24:39",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "and did not know until the flood came and took them all away, so also will the coming of the Son of Man be.",
+  "pericope": {
+    "id": "MAT.P077",
+    "title": "The Great Tribulation",
+    "range": "MAT.24:14-24:47",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/GEN_footnotes.md",
-      "line_number": 461,
+      "source_file": "study/footnotes/OT/GEN_footnotes.md",
+      "line_number": 339,
       "raw_match": "[[MAT.24:37]]-39",
       "reference_type": "wikilink_range",
-      "context": "them to respond. So it will be in the Day of Judgment ([[MAT.24:37]]-39; [[LUK.17:26]], [[LUK.17:27]]; [[2PE.2:4]], [[2PE.2:5]])."
+      "context": "The Lord God closed the door of the ark, for He is the Judge and determines who is in and who is out. The people on the outside were going about their usual manner of life--buying, selling, eating, drinking, marrying, and giving in marriage--but they were indifferent to God and His grace. The Flood caught them unawares, but it was too late for them to respond. So it will be in the Day of Judgment ([[MAT.24:37]]-39; [[LUK.17:26]], [[LUK.17:27]]; [[2PE.2:4]], [[2PE.2:5]])."
     }
   ]
 }

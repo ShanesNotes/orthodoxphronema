@@ -2,15 +2,25 @@
   "anchor_id": "1CO.6:14",
   "canon_uri": "canon/NT/1CO.md#1CO.6:14",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "And God both raised up the Lord and will also raise us up by His power.",
+  "pericope": {
+    "id": "1CO.P015",
+    "title": "Immorality: The Church Is a Temple",
+    "range": "1CO.6:11-6:19",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/ROM_footnotes.md",
-      "line_number": 183,
+      "source_file": "study/footnotes/NT/ROM_footnotes.md",
+      "line_number": 128,
       "raw_match": "[[1CO.6:12]]-20",
       "reference_type": "wikilink_range",
-      "context": "attention here (see [[1CO.6:12]]-20). Those who focus only on sexual sins fail to see that all"
+      "context": "While sexual immorality is not the only way man is given over to unrighteousness, it is often more destructive than other sins and thus receives specific attention here (see [[1CO.6:12]]-20). Those who focus only on sexual sins fail to see that all sin separates man from God and leads to destruction. Covetousness is a sinful passion directly opposite the virtue of thankfulness--it is being unsatisfied with the blessings already received and having an insatiable desire for more. Murder also includes hatred towards another ([[MAT.5:21]], [[MAT.5:22]]). Whisperers are people who gossip. Inventors of evil things are those who cooperate with the devil to discover new forms of wickedness. Those who approve (v. 32) of sins such as homosexual behavior, greed, and rebellion against parents are as guilty as those who commit them."
     }
   ]
 }

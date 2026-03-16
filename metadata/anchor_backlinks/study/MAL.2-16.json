@@ -2,15 +2,25 @@
   "anchor_id": "MAL.2:16",
   "canon_uri": "canon/OT/MAL.md#MAL.2:16",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "'But if you hate her and send her away,' says the Lord God of Israel, 'ungodliness will obscure your thinking,' says the Lord Almighty. 'So take heed to your spirit, that you do not forsake her.'",
+  "pericope": {
+    "id": "MAL.P004",
+    "title": "The Tragedy of Divorce",
+    "range": "MAL.2:12-2:16",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/1CO_footnotes.md",
-      "line_number": 685,
+      "source_file": "study/footnotes/NT/1CO_footnotes.md",
+      "line_number": 455,
       "raw_match": "[[MAL.2:16]]",
       "reference_type": "wikilink",
-      "context": "unmarried, that is, separated, or be reconciled. Divorce is hated by God ([[MAL.2:16]]), a"
+      "context": "If a Christian couple cannot stay together, the two alternatives are to remain unmarried, that is, separated, or be reconciled. Divorce is hated by God ([[MAL.2:16]]), a last measure, a great calamity. Paul forbids remarriage while the first spouse is still living (v. 39)."
     }
   ]
 }

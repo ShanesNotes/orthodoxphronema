@@ -4,6 +4,16 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-13T21:28:41+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Then Jacob said, 'Swear to me today.' So he swore to him, and sold his birthright to Jacob.",
+  "pericope": {
+    "id": "GEN.P040",
+    "title": "Isaac and Abimelech",
+    "range": "GEN.25:33-26:34",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
       "source_file": "staging/validated/NT/HEB_footnotes.md",

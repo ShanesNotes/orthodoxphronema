@@ -2,22 +2,32 @@
   "anchor_id": "GEN.3:6",
   "canon_uri": "canon/OT/GEN.md#GEN.3:6",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "So when the woman saw the tree was good for food, was pleasant to the eyes, and a tree beautiful to contemplate, she took its fruit and ate. She also gave it to her husband with her, and he ate.",
+  "pericope": {
+    "id": "GEN.P003",
+    "title": "The Fall of Mankind",
+    "range": "GEN.2:25-3:23",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/MRK_footnotes.md",
-      "line_number": 745,
+      "source_file": "study/footnotes/NT/MRK_footnotes.md",
+      "line_number": 507,
       "raw_match": "[[GEN.3:6]]",
       "reference_type": "wikilink",
-      "context": "instead led him to sin ([[GEN.3:6]]), now the women disciples remain faithful while the men"
+      "context": "The faithfulness of the women shows that in Christ, divine order is being restored to the fallen world. Whereas Eve was created to complete Adam ([[GEN.2:18]]), but instead led him to sin ([[GEN.3:6]]), now the women disciples remain faithful while the men flee and hide. It is the women who bring the message of the Resurrection to the men (16:9-11; [[LUK.24:9]]-11), thus restoring that which had been broken through sin."
     },
     {
-      "source_file": "staging/validated/NT/REV_footnotes.md",
-      "line_number": 3075,
+      "source_file": "study/footnotes/NT/REV_footnotes.md",
+      "line_number": 1892,
       "raw_match": "[[GEN.3:6]]",
       "reference_type": "wikilink",
-      "context": "disobedience ([[GEN.3:6]])."
+      "context": "The river of water of life manifests the Giver of Life, the Holy Spirit (see 21:6; also [[EZK.47:1]]-12; [[ZEC.14:8]]; see also 2En 8:5). The OT Feast of Tabernacles, the festival of the Messianic Kingdom, emphasized light and water. As in his Gospel, so here John shows these themes are fulfilled by Christ and His Church. Christ is the Light of the World (21:23-26; 22:5 with [[JOH.8:12]]); the Holy Spirit is the Water of Life (22:1, 2; 21:6 with Jn 7:37-39). The Church is the Messianic Kingdom. God the Father and the Lamb, the Son incarnate, share one throne, for they are consubstantial and one worship is offered them. With the Spirit proceeding from the throne, the entire Trinity is here. 22:2, 3 The tree of life, a symbol of Christ Himself, gives immortality. It fulfills the tree of life in Paradise ([[GEN.3:22]]) and the other tree of life, the Cross of the Savior, the tree of obedience ([[1PE.2:24]]), a tree of curse ([[GAL.3:13]]). But there is no more curse (v. 3) in the Holy City: a reversal of the curse of [[GEN.3:16]]-19. The fruits and leaves of the tree are completely and universally therapeutic, reversing the effects of the fruit of the tree of disobedience ([[GEN.3:6]])."
     }
   ]
 }

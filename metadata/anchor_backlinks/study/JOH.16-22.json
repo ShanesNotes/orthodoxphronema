@@ -2,15 +2,25 @@
   "anchor_id": "JOH.16:22",
   "canon_uri": "canon/NT/JOH.md#JOH.16:22",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Therefore you now have sorrow; but I will see you again and your heart will rejoice, and your joy no one will take from you.",
+  "pericope": {
+    "id": "JOH.P058",
+    "title": "Death, Resurrection, Ascension Foretold",
+    "range": "JOH.16:15-16:32",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/MIC_footnotes.md",
-      "line_number": 128,
+      "source_file": "study/footnotes/OT/MIC_footnotes.md",
+      "line_number": 100,
       "raw_match": "[[JOH.16:22]]",
       "reference_type": "wikilink",
-      "context": "St. John Chrysostom, in his sermon on [[JOH.16:21]], [[JOH.16:22]], sees Christ's words echoing"
+      "context": ", \"'We hated evil and loved good.' And restore justice in the gate.\" 3:2-3 The closest parallel to this passage is the charge against the shepherds in [[EZK.34:2]], [[EZK.34:3]]: \"O shepherds of Israel who feed themselves, should not the shepherds feed the sheep? 3 Behold, you drink the milk and clothe yourselves with the wool. You slay the fatlings, but do not feed My sheep.\" 3:8 Micah is a true prophet of God, as opposed to the false prophets of v. 5. Note that Micah's prophecy against sin under the Law emphasizes the Spirit's judgment and power; while Isaiah's parallel prophecy (see Is 61:1, 2), which is fulfilled in the New Covenant, emphasizes healing and liberty in Christ ([[LUK.4:17]]-21). 4:10 St. John Chrysostom, in his sermon on [[JOH.16:21]], [[JOH.16:22]], sees Christ's words echoing those of the Prophets (see also [[HOS.13:13]]; Is 13:8; [[JER.4:31]]). He writes, \"Now, He was making use of a comparison frequently employed by the Prophets, also, when they compared their sufferings to the excessive pain of birth pangs. What He meant is something like this: 'Suffering as keen as birth pangs will take possession of you. However, the pain of childbirth becomes a cause of joy.'\" Indeed, the daughter of Zion will \"give birth\" to a new creation when she has been redeemed by Christ (see note at Jn 16:21, 22). 5:6, 7 The remnant of Jacob will be among the nations: This phrase does not necessarily imply the scattering of Israel, but rather a focal point for the gathering of the nations together in Christ, as in 4:1-3 and 4:6, 7."
     }
   ]
 }

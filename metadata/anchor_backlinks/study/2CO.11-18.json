@@ -2,15 +2,25 @@
   "anchor_id": "2CO.11:18",
   "canon_uri": "canon/NT/2CO.md#2CO.11:18",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Seeing that many boast according to the flesh, I also will boast.",
+  "pericope": {
+    "id": "2CO.P032",
+    "title": "Paul's Reluctant Boasting",
+    "range": "2CO.11:15-11:20",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/REV_footnotes.md",
-      "line_number": 347,
+      "source_file": "study/footnotes/NT/REV_footnotes.md",
+      "line_number": 214,
       "raw_match": "[[2CO.11:13]]-23",
       "reference_type": "wikilink_range",
-      "context": "serious problem in the early Church (see [[2CO.11:13]]-23), and Paul warned they would"
+      "context": "The Ephesian church had persevered in orthodox faith and moral uprightness, but had left its first love (v. 4), presumably for God and each other. False apostles were a serious problem in the early Church (see [[2CO.11:13]]-23), and Paul warned they would ravage the church of Ephesus ([[ACT.20:29]]). However, in the early second century, St. Ignatius of Antioch praised the Ephesians for their continuing resistance to heresy. The lampstand (v. 5) is probably the Ephesian church's honor as the metropolitan church of Asia."
     }
   ]
 }

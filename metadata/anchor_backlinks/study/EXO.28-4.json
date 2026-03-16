@@ -2,15 +2,25 @@
   "anchor_id": "EXO.28:4",
   "canon_uri": "canon/OT/EXO.md#EXO.28:4",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "These are the garments they shall make: a breastplate, an ephod, a full-length robe, a skillfully woven tunic with a fringe, a turban, and a sash. So they shall make holy garments for Aaron your brother and his sons, so they may minister to Me as priests.",
+  "pericope": {
+    "id": "EXO.P058",
+    "title": "The Priest's Vestments",
+    "range": "EXO.27:21-28:13",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/REV_footnotes.md",
-      "line_number": 213,
+      "source_file": "study/footnotes/NT/REV_footnotes.md",
+      "line_number": 131,
       "raw_match": "[[EXO.28:4]]",
       "reference_type": "wikilink",
-      "context": "also see Him vested in high-priestly garments (see [[EXO.28:4]]; 29:5; Lv 16:4; WSol 18:24;"
+      "context": "One like the Son of Man recalls Daniel's messianic figure ([[DAN.7:13]]--repeated by Stephen at his martyrdom, [[ACT.7:56]]). Christ called Himself Son of Man (see especially [[MAT.24:30]]ff.), for He is the fulfillment of Daniel's prophecy. Additional parallels may be seen in both the Old and New Testaments ([[DAN.10:6]]; [[MAT.17:2]]; [[EPH.6:17]]; [[HEB.4:12]]). We also see Him vested in high-priestly garments (see [[EXO.28:4]]; 29:5; Lv 16:4; WSol 18:24; [[ZEC.3:4]], [[ZEC.3:5]]). The gold with which He is girded is both royal (1Mc 10:89) and priestly."
     }
   ]
 }

@@ -2,15 +2,25 @@
   "anchor_id": "DEU.30:5",
   "canon_uri": "canon/OT/DEU.md#DEU.30:5",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Then the Lord your God will bring you to the land your fathers inherited, and you shall have it as an inheritance. He will prosper and multiply you more than your fathers.",
+  "pericope": {
+    "id": "DEU.P062",
+    "title": "The Blessings of Repentance",
+    "range": "DEU.29:28-30:18",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/NEH_footnotes.md",
-      "line_number": 67,
+      "source_file": "study/footnotes/OT/NEH_footnotes.md",
+      "line_number": 50,
       "raw_match": "[[DEU.30:1]]-5",
       "reference_type": "wikilink_range",
-      "context": "[[DEU.30:1]]-5. This man . . . the king is Artaxerxes I, under whom Nehemiah held the office"
+      "context": "No indeed is Nehemiah's way of saying, \"I'm not putting up with the damaged state of the walls and gates of Jerusalem.\" Nehemiah's prayer reflects his devotion to the words of Scripture. The phrase great and awesome God is from [[DEU.7:21]]. Verses 8 and 9 quote [[DEU.30:1]]-5. This man... the king is Artaxerxes I, under whom Nehemiah held the office of cupbearer (v. 11). He it is who would grant Nehemiah's request to return to Jerusalem (2:6-8)."
     }
   ]
 }

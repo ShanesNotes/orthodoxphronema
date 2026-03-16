@@ -1,8 +1,8 @@
 {
   "book_code": "LUK",
   "testament": "NT",
-  "timestamp": "2026-03-15T15:56:29.309204",
-  "registry_version": "1.7.4",
+  "timestamp": "2026-03-15T18:29:28.818136",
+  "registry_version": "1.7.6",
   "body_checksum": "0fe2eb16fed4f60234ff714f101ceec9f81838597e848fd0684a02443e8cc3cf",
   "allow_incomplete": true,
   "staged_path": "/home/ark/orthodoxphronema/staging/validated/NT/LUK.md",
@@ -61,5 +61,5 @@
     }
   },
   "residuals_sidecar": null,
-  "decision": "promoted"
+  "decision": "dry-run"
 }

@@ -2,15 +2,25 @@
   "anchor_id": "1JN.5:3",
   "canon_uri": "canon/NT/1JN.md#1JN.5:3",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "For this is the love of God, that we keep His commandments. And His commandments are not burdensome.",
+  "pericope": {
+    "id": "1JN.P012",
+    "title": "Faith Overcomes the World",
+    "range": "1JN.4:21-5:4",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/HAB_footnotes.md",
-      "line_number": 23,
+      "source_file": "study/footnotes/OT/HAB_footnotes.md",
+      "line_number": 18,
       "raw_match": "[[1JN.5:3]]",
       "reference_type": "wikilink",
-      "context": "commandments is not burdensome ([[1JN.5:3]])."
+      "context": "Prophets frequently describe prophetic oracles as \"burdens\" (Heb. massa I: \"burden, carrying\" and massa II: \"pronouncement, prophecy,\" both deriving from a verbal root nasa, \"to carry\") from the Lord, possibly because the oracles nearly always spell out heavy judgment from God ([[JER.23:33]]). In contrast, Jesus describes his burden as \"light\" (Mt 11:30). John says that because of all God's love has done for us, keeping His commandments is not burdensome ([[1JN.5:3]])."
     }
   ]
 }

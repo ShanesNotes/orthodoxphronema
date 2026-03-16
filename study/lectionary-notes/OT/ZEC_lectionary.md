@@ -9,7 +9,7 @@ extracted: 2026-03-14
 
 # Lectionary Notes: ZEC
 
-**14:1** — Zec 14:1, 4; 8–11: This passage is read at Vespers of the Feast of the Ascension of the Lord.
+**14:1** — [[ZEC.14:1]], [[ZEC.14:4]]; 8–11: This passage is read at Vespers of the Feast of the Ascension of the Lord.
 
 **1:16-20** — This passage is read on January 5, the Eve of the Feast of Theophany.
 

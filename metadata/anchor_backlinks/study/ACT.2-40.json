@@ -2,15 +2,25 @@
   "anchor_id": "ACT.2:40",
   "canon_uri": "canon/NT/ACT.md#ACT.2:40",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "And with many other words he testified and exhorted them, saying, 'Be saved from this perverse generation.'",
+  "pericope": {
+    "id": "ACT.P009",
+    "title": "The First Converts Baptized",
+    "range": "ACT.2:39-2:40",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/JON_footnotes.md",
-      "line_number": 60,
+      "source_file": "study/footnotes/OT/JON_footnotes.md",
+      "line_number": 50,
       "raw_match": "[[ACT.2:38]]-41",
       "reference_type": "wikilink_range",
-      "context": "Ninevites to repent and seek salvation. Similarly, God's presence in creation ([[ROM.1:20]]), combined with the presence of the Holy Spirit in believers ([[ACT.2:38]]-41), draws men to"
+      "context": "God's power in nature, combined with Jonah's witness, persuade the sailors to convert to the God of Israel. Later, the Spirit's presence in Jonah will convince the Ninevites to repent and seek salvation. Similarly, God's presence in creation ([[ROM.1:20]]), combined with the presence of the Holy Spirit in believers ([[ACT.2:38]]-41), draws men to God."
     }
   ]
 }

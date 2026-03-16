@@ -2,15 +2,25 @@
   "anchor_id": "MRK.3:6",
   "canon_uri": "canon/NT/MRK.md#MRK.3:6",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Then the Pharisees went out and immediately plotted with the Herodians against Him, how they might destroy Him.",
+  "pericope": {
+    "id": "MRK.P010",
+    "title": "The People Follow Jesus",
+    "range": "MRK.3:6-3:29",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/JER_footnotes.md",
-      "line_number": 688,
+      "source_file": "study/footnotes/OT/JER_footnotes.md",
+      "line_number": 555,
       "raw_match": "[[MRK.3:6]]",
       "reference_type": "wikilink",
-      "context": "they also plotted against Christ, to destroy Him ([[MRK.3:6]])."
+      "context": "As the Jews sought to devise a plan against Jeremiah to strike him down, so they also plotted against Christ, to destroy Him ([[MRK.3:6]])."
     }
   ]
 }

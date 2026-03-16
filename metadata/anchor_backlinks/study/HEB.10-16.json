@@ -2,22 +2,32 @@
   "anchor_id": "HEB.10:16",
   "canon_uri": "canon/NT/HEB.md#HEB.10:16",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "'This is the covenant that I will make with them after those days, says the LORD: I will put My laws into their hearts, and in their minds I will write them,'",
+  "pericope": {
+    "id": "HEB.P023",
+    "title": "The New Worship Gives Boldness",
+    "range": "HEB.10:7-10:17",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/JER_footnotes.md",
-      "line_number": 1184,
+      "source_file": "study/footnotes/OT/JER_footnotes.md",
+      "line_number": 927,
       "raw_match": "[[HEB.10:15]]-18",
       "reference_type": "wikilink_range",
-      "context": "the coming of Christ ([[2CO.3:3]]; [[HEB.10:15]]-18)."
+      "context": "The implanting of the new covenant, the law in the heart, was clearly effected with the coming of Christ ([[2CO.3:3]]; [[HEB.10:15]]-18)."
     },
     {
-      "source_file": "staging/validated/OT/MAL_footnotes.md",
-      "line_number": 236,
+      "source_file": "study/footnotes/OT/MAL_footnotes.md",
+      "line_number": 181,
       "raw_match": "[[HEB.10:16]]",
       "reference_type": "wikilink",
-      "context": "hearts and minds and remembering our sins and lawless deeds no more ([[HEB.10:16]], [[HEB.10:17]])."
+      "context": "The Giver of the Law of Moses will soon become incarnate, writing His laws on our hearts and minds and remembering our sins and lawless deeds no more ([[HEB.10:16]], [[HEB.10:17]])."
     }
   ]
 }

@@ -2,15 +2,25 @@
   "anchor_id": "MAT.24:31",
   "canon_uri": "canon/NT/MAT.md#MAT.24:31",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "And He will send His angels with great sound of a trumpet, and they will gather together His elect from the four winds, from one end of heaven to the other.",
+  "pericope": {
+    "id": "MAT.P077",
+    "title": "The Great Tribulation",
+    "range": "MAT.24:14-24:47",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/REV_footnotes.md",
-      "line_number": 179,
+      "source_file": "study/footnotes/NT/REV_footnotes.md",
+      "line_number": 110,
       "raw_match": "[[MAT.24:31]]",
       "reference_type": "wikilink",
-      "context": "19:16, 19; [[MAT.24:31]]; [[1CO.15:52]]; [[1TH.4:16]])."
+      "context": "In the Spirit may mean John received the revelation in a visionary ecstasy (see Ezk 3:12), but more probably that he was in the worship (\"in Spirit and in truth\") of the Lord. The Lord's Day is the earliest reference to the Christian name for Sunday. The Didache and St. Ignatius of Antioch show this name was used very early for the day when Christians gathered to celebrate the Resurrection in the Holy Eucharist. As a fulfillment of the first day of the week of the old creation, Sunday becomes the \"eighth day,\" the \"first day of the new creation.\" The term \"eighth day\" is seen in 2En 33:1 and inaugurates the first day of the timeless age to come. The loud voice, as of a trumpet is a traditional, eschatological, apocalyptic introduction describing an appearance of the Lord (see Ex 19:16, 19; [[MAT.24:31]]; [[1CO.15:52]]; [[1TH.4:16]])."
     }
   ]
 }

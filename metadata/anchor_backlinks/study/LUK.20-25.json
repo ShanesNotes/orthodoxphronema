@@ -2,15 +2,25 @@
   "anchor_id": "LUK.20:25",
   "canon_uri": "canon/NT/LUK.md#LUK.20:25",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "They answered and said, 'Caesar's.' And He said to them, 'Render therefore to Caesar the things that are Caesar's, and to God the things that are God's.'",
+  "pericope": {
+    "id": "LUK.P095",
+    "title": "Do We Pay Taxes to Caesar?",
+    "range": "LUK.20:19-20:25",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/ACT_footnotes.md",
-      "line_number": 347,
+      "source_file": "study/footnotes/NT/ACT_footnotes.md",
+      "line_number": 234,
       "raw_match": "[[LUK.20:25]]",
       "reference_type": "wikilink",
-      "context": "While God commands our obedience to governing authorities ([[LUK.20:25]]; [[ROM.13:1]]-"
+      "context": "While God commands our obedience to governing authorities ([[LUK.20:25]]; [[ROM.13:1]]- 7), obedience to God comes first. When the two are in conflict, the believer must follow God and be willing to accept the consequences."
     }
   ]
 }

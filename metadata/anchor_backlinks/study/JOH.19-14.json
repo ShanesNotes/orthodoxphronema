@@ -2,22 +2,32 @@
   "anchor_id": "JOH.19:14",
   "canon_uri": "canon/NT/JOH.md#JOH.19:14",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Now it was the Preparation Day of the Passover, and about the sixth hour. And he said to the Jews, 'Behold your King!'",
+  "pericope": {
+    "id": "JOH.P064",
+    "title": "Pilate's Judgment",
+    "range": "JOH.19:4-19:15",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/LUK_footnotes.md",
-      "line_number": 787,
+      "source_file": "study/footnotes/NT/LUK_footnotes.md",
+      "line_number": 522,
       "raw_match": "[[JOH.19:14]]",
       "reference_type": "wikilink",
-      "context": "([[JOH.19:14]], [[JOH.19:15]]). Christ accepts death according to the Father's will, not at the will of the"
+      "context": "This double response of marveling (v. 22) and rejection (v. 29) occurs frequently in those who encounter Christ (see 11:14-16; [[JOH.9:16]]). His being rejected in His own country fulfills the rejection of the OT prophets such as Elijah (v. 26) and Elisha (v. 27), and foreshadows His rejection by the whole Jewish nation at His trial before Pilate ([[JOH.19:14]], [[JOH.19:15]]). Christ accepts death according to the Father's will, not at the will of the Jews. Here, the hour of His Passion has not yet come (see [[JOH.8:20]])."
     },
     {
-      "source_file": "staging/validated/NT/MAT_footnotes.md",
-      "line_number": 3633,
+      "source_file": "study/footnotes/NT/MAT_footnotes.md",
+      "line_number": 2323,
       "raw_match": "[[JOH.19:14]]",
       "reference_type": "wikilink",
-      "context": "Passover is debated among the Fathers (see also note at [[JOH.19:14]]). What is certain is that"
+      "context": "The Passover commemorates God's deliverance of Israel from slavery in Egypt to the Land of Promise. It prefigures the Passion of Christ, the new Passover (Gr. Pascha), God's redemption of all humanity from sin and death, and entrance into the promised Kingdom. Whether the first day of the Feast was Passover or the day before Passover is debated among the Fathers (see also note at [[JOH.19:14]]). What is certain is that Jesus regarded the meal with the disciples to be the Passover meal."
     }
   ]
 }

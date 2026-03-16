@@ -2,12 +2,22 @@
   "anchor_id": "NEH.1:11",
   "canon_uri": "canon/OT/NEH.md#NEH.1:11",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Rather, O Lord, let Your ear be attentive to the prayer of Your servant and to the prayer of Your servants who desire to fear Your name; and let Your servant prosper today, I pray, and grant him mercy in the sight of this man.' (For I was cupbearer to the king.)",
+  "pericope": {
+    "id": "NEH.P006",
+    "title": "Nehemiah Is Sent to Judah",
+    "range": "NEH.1:11-2:2",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/2MA_footnotes.md",
-      "line_number": 90,
+      "source_file": "study/footnotes/OT/2MA_footnotes.md",
+      "line_number": 74,
       "raw_match": "[[NEH.1:5]]-11",
       "reference_type": "wikilink_range",
       "context": "This begins the prayer of Nehemiah (1:24-2:18). See also [[NEH.1:5]]-11."

@@ -1,0 +1,26 @@
+{
+  "anchor_id": "JOS.3:7",
+  "canon_uri": "canon/OT/JOS.md#JOS.3:7",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-15T23:42:04+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Then the Lord said to Joshua, 'Today I shall begin to exalt you in the sight of all the children of Israel, so they will know that I shall be with you as I was with Moses.",
+  "pericope": {
+    "id": "JOS.P005",
+    "title": "Crossing the Jordan",
+    "range": "JOS.2:24-3:16",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
+  "links": [
+    {
+      "source_file": "study/lectionary-notes/OT/JOS_lectionary.md",
+      "line_number": 12,
+      "raw_match": "[[JOS.3:7]]",
+      "reference_type": "wikilink",
+      "context": "**3:7** \u2014 [[JOS.3:7]], [[JOS.3:8]], [[JOS.3:15]]\u201317: This passage is read at Vespers of the Feast of the Theophany of the Lord."
+    }
+  ]
+}

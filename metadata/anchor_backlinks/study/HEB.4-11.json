@@ -2,11 +2,21 @@
   "anchor_id": "HEB.4:11",
   "canon_uri": "canon/NT/HEB.md#HEB.4:11",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Let us therefore be diligent to enter that rest, lest anyone fall according to the same example of disobedience.",
+  "pericope": {
+    "id": "HEB.P009",
+    "title": "Work to Enter His Rest",
+    "range": "HEB.4:10-4:12",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/DEU_articles.md",
+      "source_file": "study/articles/OT/DEU_articles.md",
       "line_number": 26,
       "raw_match": "[[HEB.4:1]]-11",
       "reference_type": "wikilink_range",

@@ -1,0 +1,26 @@
+{
+  "anchor_id": "JOB.9:8",
+  "canon_uri": "canon/OT/JOB.md#JOB.9:8",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-16T02:01:16+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "He who alone stretches out heaven; He who walks on the sea as on firm ground;",
+  "pericope": {
+    "id": "JOB.P017",
+    "title": "Bildad Speaks of the Ungodly",
+    "range": "JOB.9:1-9:34",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
+  "links": [
+    {
+      "source_file": "study/footnotes/OT/EXO_footnotes.md",
+      "line_number": 523,
+      "raw_match": "[[JOB.9:8]]",
+      "reference_type": "wikilink",
+      "context": "Moses accomplished what he did through prayer and as a servant of Christ, but Christ Himself walked on the Sea of Galilee by His own absolute power ([[MAT.14:25]]). Job [[JOB.9:8]] prophesied of Christ, \"who walks on the sea as on firm ground\" (JohnChr)."
+    }
+  ]
+}

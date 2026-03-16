@@ -2,15 +2,25 @@
   "anchor_id": "HAG.1:1",
   "canon_uri": "canon/OT/HAG.md#HAG.1:1",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "In the second year of King Darius, in the sixth month, on the first day of the month, the word of the Lord came by the hand of Haggai the prophet, saying, 'Speak to Zerubbabel the son of Shealtiel, from the tribe of Judah, and Joshua son of Jehozadak the high priest, this message.",
+  "pericope": {
+    "id": "HAG.P001",
+    "title": "Haggai \u2014 Opening",
+    "range": "HAG.1:1-1:1",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/TOB_footnotes.md",
-      "line_number": 349,
+      "source_file": "study/footnotes/OT/TOB_footnotes.md",
+      "line_number": 270,
       "raw_match": "[[HAG.1:1]]-15",
       "reference_type": "wikilink_range",
-      "context": "glorious, was completed in approximately 515 BC (see [[HAG.1:1]]-15)."
+      "context": "The temple will be rebuilt, but not as it was before. The second temple, not as glorious, was completed in approximately 515 BC (see [[HAG.1:1]]-15)."
     }
   ]
 }

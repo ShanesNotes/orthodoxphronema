@@ -2,15 +2,25 @@
   "anchor_id": "MIC.4:1",
   "canon_uri": "canon/OT/MIC.md#MIC.4:1",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "And it shall come to pass in the last days that the mountain of the Lord will be revealed. It will be raised up on the top of the mountains, and it will be exalted far above the hills, and peoples will hasten to it.",
+  "pericope": {
+    "id": "MIC.P006",
+    "title": "The Lord Shall Reign",
+    "range": "MIC.3:12-4:13",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/ISA_footnotes.md",
-      "line_number": 74,
+      "source_file": "study/footnotes/OT/ISA_footnotes.md",
+      "line_number": 63,
       "raw_match": "[[MIC.4:1]]-4",
       "reference_type": "wikilink_range",
-      "context": "the Gentiles (see [[MIC.4:1]]-4)."
+      "context": "The mountain is a symbol of the Church, which will proclaim God's way to all the Gentiles (see [[MIC.4:1]]-4)."
     }
   ]
 }

@@ -2,29 +2,39 @@
   "anchor_id": "GEN.3:17",
   "canon_uri": "canon/OT/GEN.md#GEN.3:17",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Then to Adam He said, 'Because you heeded the voice of your wife, and ate from the one tree of which I commanded you, saying, 'You shall not eat from it,' cursed is the ground in your labors. In toil you shall eat from it all the days of your life.",
+  "pericope": {
+    "id": "GEN.P003",
+    "title": "The Fall of Mankind",
+    "range": "GEN.2:25-3:23",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/LUK_footnotes.md",
-      "line_number": 187,
+      "source_file": "study/footnotes/NT/LUK_footnotes.md",
+      "line_number": 126,
       "raw_match": "[[GEN.3:17]]",
       "reference_type": "wikilink",
-      "context": "While Eve brought forth children in sorrow ([[GEN.3:17]]), Mary, being the new Eve, will"
+      "context": "While Eve brought forth children in sorrow ([[GEN.3:17]]), Mary, being the new Eve, will rejoice in bringing forth her Son; as Eve had been cursed, so now Mary is blessed. Highly favored (Gr. charitou) can also be translated \"full of grace.\" Mary is the most blessed woman who has ever lived because of her complete willingness to receive God's grace, or in the words of her Son, to \"hear the word of God and keep it\" (11:28)."
     },
     {
-      "source_file": "staging/validated/NT/REV_footnotes.md",
-      "line_number": 3071,
+      "source_file": "study/footnotes/NT/REV_footnotes.md",
+      "line_number": 1890,
       "raw_match": "[[GEN.3:16]]-19",
       "reference_type": "wikilink_range",
-      "context": "Holy City: a reversal of the curse of [[GEN.3:16]]-19. The fruits and leaves of the tree are"
+      "context": "The river of water of life manifests the Giver of Life, the Holy Spirit (see 21:6; also [[EZK.47:1]]-12; [[ZEC.14:8]]; see also 2En 8:5). The OT Feast of Tabernacles, the festival of the Messianic Kingdom, emphasized light and water. As in his Gospel, so here John shows these themes are fulfilled by Christ and His Church. Christ is the Light of the World (21:23-26; 22:5 with [[JOH.8:12]]); the Holy Spirit is the Water of Life (22:1, 2; 21:6 with Jn 7:37-39). The Church is the Messianic Kingdom. God the Father and the Lamb, the Son incarnate, share one throne, for they are consubstantial and one worship is offered them. With the Spirit proceeding from the throne, the entire Trinity is here. 22:2, 3 The tree of life, a symbol of Christ Himself, gives immortality. It fulfills the tree of life in Paradise ([[GEN.3:22]]) and the other tree of life, the Cross of the Savior, the tree of obedience ([[1PE.2:24]]), a tree of curse ([[GAL.3:13]]). But there is no more curse (v. 3) in the Holy City: a reversal of the curse of [[GEN.3:16]]-19. The fruits and leaves of the tree are completely and universally therapeutic, reversing the effects of the fruit of the tree of disobedience ([[GEN.3:6]])."
     },
     {
-      "source_file": "staging/validated/OT/EZK_footnotes.md",
-      "line_number": 206,
+      "source_file": "study/footnotes/OT/EZK_footnotes.md",
+      "line_number": 191,
       "raw_match": "[[GEN.3:17]]-19",
       "reference_type": "wikilink_range",
-      "context": "and note). 12:18-19 Compare to [[GEN.3:17]]-19. 12:21-28 Christ echoes this passage in His parable of the good steward ([[LUK.12:42]]-48). 12:25"
+      "context": "Compare to [[GEN.3:17]]-19."
     }
   ]
 }

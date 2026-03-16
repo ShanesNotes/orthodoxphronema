@@ -2,15 +2,25 @@
   "anchor_id": "REV.16:19",
   "canon_uri": "canon/NT/REV.md#REV.16:19",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Now the great city was divided into three parts, and the cities of the nations fell. And great Babylon was remembered before God, to give her the cup of the wine of the fierceness of His wrath.",
+  "pericope": {
+    "id": "REV.P048",
+    "title": "Bowl Seven: Earth Utterly Shaken",
+    "range": "REV.16:16-17:4",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/HAB_footnotes.md",
-      "line_number": 196,
+      "source_file": "study/footnotes/OT/HAB_footnotes.md",
+      "line_number": 147,
       "raw_match": "[[REV.16:19]]",
       "reference_type": "wikilink",
-      "context": "fierceness of His wrath\" ([[REV.16:19]])."
+      "context": "The proud man, for his debauchery and violence, will ultimately drink the wine of God's wrath. The Book of Revelation describes the eschatological judgment upon the \"great Babylon\" in terms of God giving her to drink of \"the cup of the wine of the fierceness of His wrath\" ([[REV.16:19]])."
     }
   ]
 }

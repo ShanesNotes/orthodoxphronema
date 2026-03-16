@@ -2,15 +2,25 @@
   "anchor_id": "PSA.11:5",
   "canon_uri": "canon/OT/PSA.md#PSA.11:5",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Saying, \"We will make our tongue powerful; Our lips are our own; Who is lord over us?\"",
+  "pericope": {
+    "id": "PSA.P011",
+    "title": "Psalm 11",
+    "range": "PSA.11:1-11:9",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/HAB_footnotes.md",
-      "line_number": 163,
+      "source_file": "study/footnotes/OT/HAB_footnotes.md",
+      "line_number": 123,
       "raw_match": "[[PSA.11:5]]",
       "reference_type": "wikilink",
-      "context": "described elsewhere as virtual atheism ([[PSA.11:4]], [[PSA.11:5]]). The yield is not security but death and"
+      "context": "Man has a relentless hunger for material gain, which he thinks will insulate him from misfortune; but wealth is false security. This deluded quest for self-sufficiency is described elsewhere as virtual atheism ([[PSA.11:4]], [[PSA.11:5]]). The yield is not security but death and destruction. There is no security other than in God."
     }
   ]
 }

@@ -2,15 +2,25 @@
   "anchor_id": "EXO.32:34",
   "canon_uri": "canon/OT/EXO.md#EXO.32:34",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Now therefore, go down and lead the people to the place of which I spoke to you. Behold, My Angel shall go before your face. Nevertheless, in the day when I visit, I will strike them for their sin.'",
+  "pericope": {
+    "id": "EXO.P069",
+    "title": "The Golden Calf",
+    "range": "EXO.31:18-32:34",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/MAL_footnotes.md",
-      "line_number": 209,
+      "source_file": "study/footnotes/OT/MAL_footnotes.md",
+      "line_number": 158,
       "raw_match": "[[EXO.32:32]]-34",
       "reference_type": "wikilink_range",
-      "context": "name. Their names are in a book of remembrance ([[EXO.32:32]]-34; Is 4:3; [[DAN.7:10]])."
+      "context": "Contrast such people with those who feared the Lord and reverenced His name. Their names are in a book of remembrance ([[EXO.32:32]]-34; Is 4:3; [[DAN.7:10]])."
     }
   ]
 }

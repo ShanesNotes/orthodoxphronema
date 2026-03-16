@@ -2,15 +2,25 @@
   "anchor_id": "ACT.21:9",
   "canon_uri": "canon/NT/ACT.md#ACT.21:9",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Now this man had four virgin daughters who prophesied.",
+  "pericope": {
+    "id": "ACT.P077",
+    "title": "Palestine and Jerusalem: Don't Go",
+    "range": "ACT.20:37-21:15",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/JOL_footnotes.md",
-      "line_number": 318,
+      "source_file": "study/footnotes/OT/JOL_footnotes.md",
+      "line_number": 223,
       "raw_match": "[[ACT.21:9]]",
       "reference_type": "wikilink",
-      "context": "distinction (see [[ACT.21:9]])."
+      "context": "When Peter quotes this verse, he changes after this to \"in the last days\" ([[ACT.2:17]]), one of several modest modifications of the verse. Peter's adaptation of Joel indicates that he understood the passage to be eschatological. Your sons and daughters shall prophesy: The gift of prophecy was to be given to both men and women without distinction (see [[ACT.21:9]])."
     }
   ]
 }

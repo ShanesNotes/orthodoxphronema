@@ -2,22 +2,32 @@
   "anchor_id": "1CO.4:15",
   "canon_uri": "canon/NT/1CO.md#1CO.4:15",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "For though you might have ten thousand instructors in Christ, yet you do not have many fathers; for in Christ Jesus I have begotten you through the gospel.",
+  "pericope": {
+    "id": "1CO.P012",
+    "title": "Appeal and Warning",
+    "range": "1CO.4:12-4:20",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/MAT_footnotes.md",
-      "line_number": 3181,
+      "source_file": "study/footnotes/NT/MAT_footnotes.md",
+      "line_number": 2037,
       "raw_match": "[[1CO.4:15]]",
       "reference_type": "wikilink",
-      "context": "[[ACT.13:1]]; [[1CO.12:28]]; [[EPH.4:11]]; and [[2TI.1:11]]. Father is used in [[LUK.16:24]]; [[1CO.4:15]]; and Col"
+      "context": "Christ's warning against calling hypocrites father and teacher is not an absolute prohibition against using these terms, as some teach. These terms are applied to men many times in the NT, all of which usages are inspired by God. Teacher is used in [[JOH.3:10]]; [[ACT.13:1]]; [[1CO.12:28]]; [[EPH.4:11]]; and [[2TI.1:11]]. Father is used in [[LUK.16:24]]; [[1CO.4:15]]; and Col 3:21. Since the very early days of the Church, bishops and presbyters have been called \"father\" not because they take the place of God, but because in their fatherly care for their flocks, they lead people to God, and they exercise fatherly authority within the community."
     },
     {
-      "source_file": "staging/validated/NT/PHM_footnotes.md",
-      "line_number": 57,
+      "source_file": "study/footnotes/NT/PHM_footnotes.md",
+      "line_number": 43,
       "raw_match": "[[1CO.4:15]]",
       "reference_type": "wikilink",
-      "context": "[[1CO.4:15]]; [[GAL.4:19]])."
+      "context": "Paul became Onesimus's spiritual father by convincing him of the truth of Christ (see [[1CO.4:15]]; [[GAL.4:19]])."
     }
   ]
 }

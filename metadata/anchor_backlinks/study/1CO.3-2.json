@@ -2,22 +2,32 @@
   "anchor_id": "1CO.3:2",
   "canon_uri": "canon/NT/1CO.md#1CO.3:2",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "I fed you with milk and not with solid food; for until now you were not able to receive it, and even now you are still not able;",
+  "pericope": {
+    "id": "1CO.P008",
+    "title": "Understanding Unity: Wisdom of the Spirit",
+    "range": "1CO.2:5-3:3",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/1PE_footnotes.md",
-      "line_number": 209,
+      "source_file": "study/footnotes/NT/1PE_footnotes.md",
+      "line_number": 137,
       "raw_match": "[[1CO.3:2]]",
       "reference_type": "wikilink",
-      "context": "word ([[1CO.3:2]]), the sacraments of the Church, and continual growth in the Christian life."
+      "context": "The pure milk of the word is apostolic doctrine ([[ACT.2:42]]), the basic teaching of the Church--both written (1:10-12) and spoken (1:25). These lead us to the meat of the word ([[1CO.3:2]]), the sacraments of the Church, and continual growth in the Christian life. We have tasted that the Lord is gracious and should long for this spiritual nourishment."
     },
     {
-      "source_file": "staging/validated/OT/SNG_footnotes.md",
-      "line_number": 378,
+      "source_file": "study/footnotes/OT/SNG_footnotes.md",
+      "line_number": 290,
       "raw_match": "[[1CO.3:2]]",
       "reference_type": "wikilink",
-      "context": "to receiving nourishment, the meat or \"solid food\" of the Word ([[1CO.3:2]]). The bride is"
+      "context": "The bride's teeth, made clean by washing (baptism and repentance), are the gateway to receiving nourishment, the meat or \"solid food\" of the Word ([[1CO.3:2]]). The bride is fruitful, bearing twins."
     }
   ]
 }

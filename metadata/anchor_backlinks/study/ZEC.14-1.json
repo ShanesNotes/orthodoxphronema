@@ -1,0 +1,26 @@
+{
+  "anchor_id": "ZEC.14:1",
+  "canon_uri": "canon/OT/ZEC.md#ZEC.14:1",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-15T23:42:04+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Behold, the days of the Lord come, and your plunder will be divided among you.",
+  "pericope": {
+    "id": "ZEC.P018",
+    "title": "The Day of the Lord",
+    "range": "ZEC.13:9-14:21",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
+  "links": [
+    {
+      "source_file": "study/lectionary-notes/OT/ZEC_lectionary.md",
+      "line_number": 12,
+      "raw_match": "[[ZEC.14:1]]",
+      "reference_type": "wikilink",
+      "context": "**14:1** \u2014 [[ZEC.14:1]], [[ZEC.14:4]]; 8\u201311: This passage is read at Vespers of the Feast of the Ascension of the Lord."
+    }
+  ]
+}

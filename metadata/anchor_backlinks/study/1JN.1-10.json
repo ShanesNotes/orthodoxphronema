@@ -2,15 +2,25 @@
   "anchor_id": "1JN.1:10",
   "canon_uri": "canon/NT/1JN.md#1JN.1:10",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "If we say that we have not sinned, we make Him a liar, and His word is not in us.",
+  "pericope": {
+    "id": "1JN.P003",
+    "title": "Keep God's Commandments of Love",
+    "range": "1JN.1:10-2:16",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/JAS_footnotes.md",
-      "line_number": 479,
+      "source_file": "study/footnotes/NT/JAS_footnotes.md",
+      "line_number": 300,
       "raw_match": "[[1JN.1:10]]",
       "reference_type": "wikilink",
-      "context": "community ([[1JN.1:8]], [[1JN.1:10]]). Thus, the Church has effected healing through such works of"
+      "context": "Some allege that confessing sins to God before a priest is not biblical. The ancient Christian custom was to confess your trespasses to one another (v. 16). When a Christian was guilty of sin, the matter was confessed before the whole Church as an act of repentance. As the Church grew, and those not part of the community came to observe, the pressure in such public confession became so great that the priest, instead of the entire community, heard the confession, representing the people. What is not taught in Scripture is a private confession only to God, which refuses to acknowledge sin to the community ([[1JN.1:8]], [[1JN.1:10]]). Thus, the Church has effected healing through such works of faith as confession of sins and the power of intercessory prayer."
     }
   ]
 }

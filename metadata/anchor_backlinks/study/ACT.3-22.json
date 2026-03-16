@@ -2,22 +2,32 @@
   "anchor_id": "ACT.3:22",
   "canon_uri": "canon/NT/ACT.md#ACT.3:22",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "For Moses truly said to the fathers, 'The LORD your God will raise up for you a Prophet like me from your brethren. Him you shall hear in all things, whatever He says to you.",
+  "pericope": {
+    "id": "ACT.P012",
+    "title": "Peter's Sermon at Solomon's Porch",
+    "range": "ACT.3:10-3:25",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/2CO_footnotes.md",
-      "line_number": 225,
+      "source_file": "study/footnotes/NT/2CO_footnotes.md",
+      "line_number": 151,
       "raw_match": "[[ACT.3:22]]",
       "reference_type": "wikilink",
-      "context": "sometimes called Lord ([[MAT.11:25]]; 22:44; [[LUK.1:32]]; 4:12, 18; 10:21; [[ACT.3:22]]; 4:26; Rev"
+      "context": "The Lord here is a title. In the NT Lord usually refers to the Son. The Father is sometimes called Lord ([[MAT.11:25]]; 22:44; [[LUK.1:32]]; 4:12, 18; 10:21; [[ACT.3:22]]; 4:26; Rev 11:15; 21:22), and the Spirit is referred to as Lord here (v. 17) and in the Nicene Creed: \"I believe in the Holy Spirit, the Lord and giver of life.\" There is difference of opinion as to which of the Divine Persons the Lord refers to in each usage here. But Orthodox interpreters all agree that: (1) The Father, the Son, and the Holy Spirit are in no way confused here--Paul has in mind one Person or another. The Son, for example, cannot be the Holy Spirit. (2) The Spirit is a Divine Person, not an impersonal force--though elsewhere in the NT \"spirit\" occasionally refers to a realm or way of existence. (3) This title here describes how God reigns in the world. It does not describe the eternal relationship of the Persons of the Trinity: the Spirit, for instance, does not proceed from the Son. Paul is transforming the Old Covenant understanding of one God, the Lord, into Jesus' New Covenant revelation of one God in three Persons, each of whom is Lord. So when one turns to the Lord (v. 16) he turns not just to the Father but also to the incarnate Son (v. 16), in the power of the Holy Spirit (v. 17)."
     },
     {
-      "source_file": "staging/validated/OT/DEU_footnotes.md",
-      "line_number": 636,
+      "source_file": "study/footnotes/OT/DEU_footnotes.md",
+      "line_number": 386,
       "raw_match": "[[ACT.3:22]]",
       "reference_type": "wikilink",
-      "context": "destroy\" ([[ACT.3:22]], [[ACT.3:23]]). St. John Chrysostom also interprets \"utterly destroy\" as meaning"
+      "context": "The Prophet to come would speak in the Father's name, for no other prophet could speak in such a manner. Why? Because no other prophet could call the Father \"My Father\" ([[JOH.5:43]]; 10:25). Everyone else must address the Father as \"Our Father\" (Lord's Prayer), for the Son is the Father's Only-begotten. He is God of God and one in essence with the Father (Creed). Therefore, the Father says He would judge anyone refusing to listen to His Prophet (I will require it of him). St. Peter interprets the words \"will require\" as meaning \"utterly destroy\" ([[ACT.3:22]], [[ACT.3:23]]). St. John Chrysostom also interprets \"utterly destroy\" as meaning the putting away of the Law of Moses: \"Do you see how the Law itself showed how it is done away in Christ? For this Prophet, that is, Christ according to the flesh, whom Moses commanded them to hear, made to cease both Sabbath and circumcision and all other things.\" When Jesus multiplied the five loaves and the two fish to feed the five thousand men, the people said afterward, \"This is truly the Prophet who is to come into the world\" (Jn 6:14). A few minutes later these same people \"complained about Him\" ([[JOH.6:41]]) because of what He taught, and consequently deserted Him ([[JOH.6:66]])."
     }
   ]
 }

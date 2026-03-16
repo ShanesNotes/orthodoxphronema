@@ -2,15 +2,25 @@
   "anchor_id": "ACT.7:30",
   "canon_uri": "canon/NT/ACT.md#ACT.7:30",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "'And when forty years had passed, an Angel of the Lord appeared to him in a flame of fire in a bush, in the wilderness of Mount Sinai.",
+  "pericope": {
+    "id": "ACT.P023",
+    "title": "Stephen's Defense",
+    "range": "ACT.6:15-7:51",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/EXO_footnotes.md",
-      "line_number": 118,
+      "source_file": "study/footnotes/OT/EXO_footnotes.md",
+      "line_number": 88,
       "raw_match": "[[ACT.7:30]]",
       "reference_type": "wikilink",
-      "context": "Midian, where he lived for forty years ([[ACT.7:29]], [[ACT.7:30]])."
+      "context": "This is another instance of divine providence preserving Moses' life. He fled to Midian, where he lived for forty years ([[ACT.7:29]], [[ACT.7:30]])."
     }
   ]
 }

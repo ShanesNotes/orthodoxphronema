@@ -2,22 +2,32 @@
   "anchor_id": "REV.12:13",
   "canon_uri": "canon/NT/REV.md#REV.12:13",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Now when the dragon saw that he had been cast to the earth, he persecuted the woman who gave birth to the male Child.",
+  "pericope": {
+    "id": "REV.P034",
+    "title": "War on Earth",
+    "range": "REV.12:12-12:16",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/DAN_footnotes.md",
-      "line_number": 383,
+      "source_file": "study/footnotes/OT/DAN_footnotes.md",
+      "line_number": 266,
       "raw_match": "[[REV.12:7]]-16",
       "reference_type": "wikilink_range",
-      "context": "tribulation that will befall the faithful just prior to the end of the age (see 12:7 and note; [[REV.12:7]]-16 and notes). 8:1-27"
+      "context": "[[DAN.7:8]], [[DAN.7:24]], [[DAN.7:25]]: The little horn is seen to be the antichrist, an eleventh king who shall appear suddenly in the midst of the ten horns, seizing power through magic and sorcery. He will exalt himself as God and make war on the Church (v. 11). But Christ will deliver the Church and establish God's everlasting kingdom. The Orthodox response to the prophetic teaching of the Scriptures is not to fear, or to try to second-guess God's timetable, but rather to practice repentance and watchfulness against sin and to engage in spreading the gospel. 7:9-12 Daniel's vision is similar to several aspects of St. John's Revelation, including the thrones (see [[REV.4:2]]-6 and notes), the multitude of worshipping angels and other creatures (see [[REV.5:11]]), and the books (v. 10; see also [[REV.20:12]] and note). 7:13-14 Daniel's vision of the Ancient of Days is that of the Second Coming of Christ, the Son of Man, in glory. 7:25 A time, times, and half a time refers to the \"short time\" (three and a half years) of tribulation that will befall the faithful just prior to the end of the age (see 12:7 and note; [[REV.12:7]]-16 and notes). 8:1-27 Daniel's vision occurred about 551 BC. The ram (v. 3) represents Darius and the rule of the Medes and Persians (v. 20), which ended with the death of Belshazzar in 538. The male goat (v. 5) represents the conquests of the Greeks (v. 21) up until the time of the Romans, about 64 BC."
     },
     {
-      "source_file": "staging/validated/OT/DAN_footnotes.md",
-      "line_number": 652,
+      "source_file": "study/footnotes/OT/DAN_footnotes.md",
+      "line_number": 453,
       "raw_match": "[[REV.12:7]]-16",
       "reference_type": "wikilink_range",
-      "context": "context that the time, times, and half a time, means a year, and two years, and half a year, that is to say, three years and a half\" (Aug). See also 7:25 and note; [[REV.12:7]]-16 and"
+      "context": "\"But he who reads this passage, even half asleep, cannot fail to see that the kingdom of Antichrist shall fiercely, though for a short time, assail the Church before the last judgment of God shall introduce the eternal reign of the saints. For it is patent from the context that the time, times, and half a time, means a year, and two years, and half a year, that is to say, three years and a half\" (Aug). See also 7:25 and note; [[REV.12:7]]-16 and notes."
     }
   ]
 }

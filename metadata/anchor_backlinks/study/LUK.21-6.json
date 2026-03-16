@@ -2,15 +2,25 @@
   "anchor_id": "LUK.21:6",
   "canon_uri": "canon/NT/LUK.md#LUK.21:6",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "'These things which you see-the days will come in which not one stone shall be left upon another that shall not be thrown down.'",
+  "pericope": {
+    "id": "LUK.P100",
+    "title": "Signs of the End",
+    "range": "LUK.21:4-21:18",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/ACT_footnotes.md",
-      "line_number": 531,
+      "source_file": "study/footnotes/NT/ACT_footnotes.md",
+      "line_number": 356,
       "raw_match": "[[LUK.21:6]]",
       "reference_type": "wikilink",
-      "context": "body; and (2) His prophecy of the destruction of the temple ([[LUK.21:6]], [[LUK.21:20]]). This prophecy"
+      "context": "The charge that Jesus would destroy the temple was leveled against Him at His trial ([[MAT.26:61]]) by false witnesses. This was a misinterpretation of two of His sayings: (1) \"Destroy this temple, and in three days I will raise it up\" ([[JOH.2:19]])--referring to His own body; and (2) His prophecy of the destruction of the temple ([[LUK.21:6]], [[LUK.21:20]]). This prophecy was fulfilled in AD 70, when the Romans destroyed the temple as punishment for a Jewish rebellion."
     }
   ]
 }

@@ -2,15 +2,32 @@
   "anchor_id": "2KI.25:7",
   "canon_uri": "canon/OT/2KI.md#2KI.25:7",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "And before his eyes, they killed the sons of Zedekiah. They then put out his eyes, bound him with fetters, and took him to Babylon.",
+  "pericope": {
+    "id": "2KI.P069",
+    "title": "The Temple Is Destroyed",
+    "range": "2KI.25:7-25:20",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/SIR_footnotes.md",
-      "line_number": 2154,
+      "source_file": "study/footnotes/OT/EZK_footnotes.md",
+      "line_number": 186,
+      "raw_match": "[[2KI.25:7]]",
+      "reference_type": "wikilink",
+      "context": "Jerusalem was destroyed and its inhabitants taken into captivity in 586 BC, about six years after this prophecy was given. 12:12 The ruler is Zedekiah, who ruled from 598-587. He fled Jerusalem by night through a break in the city wall; then he was taken captive and his eyes put out (see [[2KI.25:7]] and note)."
+    },
+    {
+      "source_file": "study/footnotes/OT/SIR_footnotes.md",
+      "line_number": 1694,
       "raw_match": "[[2KI.25:1]]-21",
       "reference_type": "wikilink_range",
-      "context": "39:10; 52:12, 13; [[2KI.25:1]]-21)."
+      "context": ", 7 The sad prophecies of Jeremiah were a great burden to him. On one occasion he determined not to speak them, but could not hold them back ([[JER.20:9]]). His prophecies about the destruction and burning of Jerusalem were completely fulfilled (see [[JER.38:14]]- 39:10; 52:12, 13; [[2KI.25:1]]-21)."
     }
   ]
 }

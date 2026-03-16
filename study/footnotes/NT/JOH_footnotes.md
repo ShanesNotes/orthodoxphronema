@@ -691,7 +691,7 @@ same thing in [[LUK.4:23]]). In Jewish tradition, a valid testimony requires two
 This chapter parallels the story of the Passover and Exodus of Israel from Egypt in
 several important ways.
 (1) In the Exodus account (Ex 11-17), God first performed His signs against Pharaoh,
-then gave instructions on how to be saved at the time of the Passover (Ex 11:1-12:14). In
+then gave instructions on how to be saved at the time of the Passover ([[EXO.11:1]]-12:14). In
 this passage, the multitudes follow Christ because of His signs (v. 2), and this too takes
 place at Passover (v. 4).
 (2) In the Exodus, the Jews were said to eat unleavened bread because they were
@@ -886,7 +886,7 @@ had themselves committed adultery.
 
 Christ's answer confounds the Pharisees, for He upholds a great principle of the
 Law--that the wages of sin is death ([[GEN.2:17]]; [[ROM.6:23]])--without neglecting its greater
-aspect of mercy ([[DEU.13:17]]; Ps 116:2-117:4; [[HOS.6:6]]). This mercy is offered freely to all
+aspect of mercy ([[DEU.13:17]]; [[PSA.116:2]]-117:4; [[HOS.6:6]]). This mercy is offered freely to all
 repentant sinners. In order for us to receive this gift, we must in turn flee from sin (v. 11).
 
 ### 8:12
@@ -1425,7 +1425,7 @@ Finally, the second coming of Christ is but a little while when compared to eter
 According to St. John Chrysostom, Isaiah's prophecy does not mean God causes
 spiritual blindness in people who would otherwise have been faithful. This is a figure of
 speech common to Scripture revealing God as giving people up to their own devices (as in
-[[ROM.1:24]], [[ROM.1:26]]). What is meant by He has blinded is that God has permitted their selfchosen blindness (compare Ex 8:15, 32 with [[EXO.10:20]], [[EXO.10:27]]). They did not become blind
+[[ROM.1:24]], [[ROM.1:26]]). What is meant by He has blinded is that God has permitted their selfchosen blindness (compare [[EXO.8:15]], 32 with [[EXO.10:20]], [[EXO.10:27]]). They did not become blind
 because God spoke through Isaiah, but rather Isaiah spoke because he foresaw their
 blindness.
 

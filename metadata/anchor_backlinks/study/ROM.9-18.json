@@ -2,15 +2,25 @@
   "anchor_id": "ROM.9:18",
   "canon_uri": "canon/NT/ROM.md#ROM.9:18",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Therefore He has mercy on whom He wills, and whom He wills He hardens.",
+  "pericope": {
+    "id": "ROM.P024",
+    "title": "God Is Just in His Choice",
+    "range": "ROM.9:13-9:29",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/EXO_footnotes.md",
-      "line_number": 452,
+      "source_file": "study/footnotes/OT/EXO_footnotes.md",
+      "line_number": 340,
       "raw_match": "[[ROM.9:18]]",
       "reference_type": "wikilink",
-      "context": "will ([[ROM.9:17]], [[ROM.9:18]]). We should never inquire into why God does what He does, nor even"
+      "context": "The Lord of all the earth used Pharaoh to declare His mighty power throughout the earth, for He shows compassion to whom He will, and He shows mercy to whom He will ([[ROM.9:17]], [[ROM.9:18]]). We should never inquire into why God does what He does, nor even raise any questions about it. Our response should be obedience to Him (JohnChr)."
     }
   ]
 }

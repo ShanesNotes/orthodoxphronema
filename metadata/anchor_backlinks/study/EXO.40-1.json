@@ -1,0 +1,26 @@
+{
+  "anchor_id": "EXO.40:1",
+  "canon_uri": "canon/OT/EXO.md#EXO.40:1",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-15T23:42:04+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Now the Lord spoke to Moses, saying,",
+  "pericope": {
+    "id": "EXO.P088",
+    "title": "Setting Up the Tabernacle",
+    "range": "EXO.39:23-40:8",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
+  "links": [
+    {
+      "source_file": "study/lectionary-notes/OT/EXO_lectionary.md",
+      "line_number": 14,
+      "raw_match": "[[EXO.40:1]]",
+      "reference_type": "wikilink",
+      "context": "**40:1-5** \u2014 [[EXO.40:1]]\u20135, 9, 10, 16, 34, 35: These verses are read during the Feast of the Entry of the Most Holy Mother of God into the Temple."
+    }
+  ]
+}

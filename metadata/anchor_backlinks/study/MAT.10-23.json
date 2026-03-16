@@ -2,12 +2,22 @@
   "anchor_id": "MAT.10:23",
   "canon_uri": "canon/NT/MAT.md#MAT.10:23",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "When they persecute you in this city, flee to another. For assuredly, I say to you, you will not have gone through the cities of Israel before the Son of Man comes.",
+  "pericope": {
+    "id": "MAT.P029",
+    "title": "Encouragement to Fearless Witness",
+    "range": "MAT.10:23-10:41",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/EXO_footnotes.md",
-      "line_number": 1075,
+      "source_file": "study/footnotes/OT/EXO_footnotes.md",
+      "line_number": 829,
       "raw_match": "[[MAT.10:23]]",
       "reference_type": "wikilink",
       "context": "The Word of the Father appointed cities of refuge, and when He became incarnate, He also commanded, \"When they persecute you in this city, flee into another\" ([[MAT.10:23]]; AthanG)."

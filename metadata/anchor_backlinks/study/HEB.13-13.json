@@ -2,22 +2,39 @@
   "anchor_id": "HEB.13:13",
   "canon_uri": "canon/NT/HEB.md#HEB.13:13",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Therefore let us go forth to Him, outside the camp, bearing His reproach.",
+  "pericope": {
+    "id": "HEB.P037",
+    "title": "Loyalty to Orthodox Doctrine and Worship",
+    "range": "HEB.13:8-13:15",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/EXO_footnotes.md",
-      "line_number": 1449,
+      "source_file": "study/footnotes/OT/EXO_footnotes.md",
+      "line_number": 1116,
       "raw_match": "[[HEB.13:12]]-14",
       "reference_type": "wikilink_range",
-      "context": "earthly Jerusalem to find Him in the heavenly Jerusalem ([[HEB.13:12]]-14; AmbM)."
+      "context": "Moses pitched the tabernacle outside the camp, far from the camp. Everyone who sought the Lord went outside the camp. When the Lord became incarnate, He suffered on the Cross outside Jerusalem. Those who wish to find Him must leave the earthly Jerusalem to find Him in the heavenly Jerusalem ([[HEB.13:12]]-14; AmbM)."
     },
     {
-      "source_file": "staging/validated/OT/LEV_footnotes.md",
-      "line_number": 988,
+      "source_file": "study/footnotes/OT/EZK_footnotes.md",
+      "line_number": 546,
+      "raw_match": "[[HEB.13:10]]-19",
+      "reference_type": "wikilink_range",
+      "context": "Here the vision concerns the heavenly altar (v. 46), imaged in the Divine Liturgy, where the saints offer their whole being to God in praise and worship. See [[HEB.13:10]]-19 and notes. The court is the foursquare fullness of the Church, which operates in faith, hope, charity, and good works."
+    },
+    {
+      "source_file": "study/footnotes/OT/LEV_footnotes.md",
+      "line_number": 600,
       "raw_match": "[[HEB.13:11]]-13",
       "reference_type": "wikilink_range",
-      "context": "the camp, bearing His reproach\" ([[HEB.13:11]]-13)."
+      "context": "The bull of the sin offering and the goat, the blood of which was taken into the holy of holies, both were taken outside the camp and burned. Another type of Christ: \"For the bodies of those animals, whose blood is brought into the sanctuary by the high priest for sin, are burned outside the camp. Therefore Jesus also, that He might sanctify the people with His own blood, suffered outside the gate. Therefore let us go forth to Him, outside the camp, bearing His reproach\" ([[HEB.13:11]]-13)."
     }
   ]
 }

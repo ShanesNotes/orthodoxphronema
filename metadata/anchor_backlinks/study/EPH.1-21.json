@@ -2,15 +2,25 @@
   "anchor_id": "EPH.1:21",
   "canon_uri": "canon/NT/EPH.md#EPH.1:21",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "far above all principality and power and might and dominion, and every name that is named, not only in this age but also in that which is to come.",
+  "pericope": {
+    "id": "EPH.P003",
+    "title": "Prayer for Revelation",
+    "range": "EPH.1:13-1:22",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/JUD_footnotes.md",
-      "line_number": 79,
+      "source_file": "study/footnotes/NT/JUD_footnotes.md",
+      "line_number": 54,
       "raw_match": "[[EPH.1:21]]",
       "reference_type": "wikilink",
-      "context": "Authority (lit., \"lordships\"; also translated \"dominion\"; see [[EPH.1:21]]; [[COL.1:16]]) and"
+      "context": "Authority (lit., \"lordships\"; also translated \"dominion\"; see [[EPH.1:21]]; [[COL.1:16]]) and dignitaries (lit., \"glories\") refer to angels, perhaps in this case to fallen angels (see the parallel in [[2PE.2:10]]). Although, they are hostile to God, they are nonetheless to be treated dispassionately."
     }
   ]
 }

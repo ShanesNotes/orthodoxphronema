@@ -2,15 +2,25 @@
   "anchor_id": "REV.20:4",
   "canon_uri": "canon/NT/REV.md#REV.20:4",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "And I saw thrones, and they sat on them, and judgment was committed to them. Then I saw the souls of those who had been beheaded for their witness to Jesus and for the word of God, who had not worshiped the beast or his image, and had not received his mark on their foreheads or on their hands. And they lived and reigned with Christ for a a thousand years.",
+  "pericope": {
+    "id": "REV.P057",
+    "title": "The Millennial Age",
+    "range": "REV.19:21-20:5",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/1CO_footnotes.md",
-      "line_number": 565,
+      "source_file": "study/footnotes/NT/1CO_footnotes.md",
+      "line_number": 373,
       "raw_match": "[[REV.20:4]]",
       "reference_type": "wikilink",
-      "context": "share in His authority to judge (see [[MAT.19:28]]; [[JOH.5:22]], [[JOH.5:27]]; [[2PE.2:4]]; Jude 6; [[REV.20:4]]). This"
+      "context": "Saints will judge the world (v. 2) and angels (v. 3) because in Christ, Christians share in His authority to judge (see [[MAT.19:28]]; [[JOH.5:22]], [[JOH.5:27]]; [[2PE.2:4]]; Jude 6; [[REV.20:4]]). This being so, how much more are we able to judge the everyday concerns of this life (v. 3)?"
     }
   ]
 }

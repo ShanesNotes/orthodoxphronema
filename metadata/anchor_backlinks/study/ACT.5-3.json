@@ -2,15 +2,25 @@
   "anchor_id": "ACT.5:3",
   "canon_uri": "canon/NT/ACT.md#ACT.5:3",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "But Peter said, 'Ananias, why has Satan filled your heart to lie to the Holy Spirit and keep back part of the price of the land for yourself?",
+  "pericope": {
+    "id": "ACT.P017",
+    "title": "Ananias and Sapphira",
+    "range": "ACT.4:36-5:10",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/REV_footnotes.md",
-      "line_number": 2789,
+      "source_file": "study/footnotes/NT/REV_footnotes.md",
+      "line_number": 1719,
       "raw_match": "[[ACT.5:3]]",
       "reference_type": "wikilink",
-      "context": "29; [[LUK.10:17]], [[LUK.10:18]]; [[JOH.12:31]], [[JOH.12:32]]; [[COL.2:15]]). He is not totally inactive ([[ACT.5:3]]; [[1CO.5:5]]; Eph"
+      "context": "The devil is thrown into the pit, which is shut and sealed for a thousand years-- meaning a long period of time--to allow the Church to be planted, to grow and to overcome, even in times of persecution and trial. The word \"millennium\" is synonymous with thousand years, and carries with it no connotations of peace and prosperity. The Bible teaches that Satan was bound at the completion of Christ's saving work ([[MAT.12:28]], 29; [[LUK.10:17]], [[LUK.10:18]]; [[JOH.12:31]], [[JOH.12:32]]; [[COL.2:15]]). He is not totally inactive ([[ACT.5:3]]; [[1CO.5:5]]; Eph 6:11), but he cannot deceive the nations by keeping the gospel from them. At the close of the millennium or Church age, Satan will be released for a little while (vv. 7, 8)."
     }
   ]
 }

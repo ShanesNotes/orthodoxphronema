@@ -2,15 +2,25 @@
   "anchor_id": "HEB.11:25",
   "canon_uri": "canon/NT/HEB.md#HEB.11:25",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "choosing rather to suffer affliction with the people of God than to enjoy the passing pleasures of sin,",
+  "pericope": {
+    "id": "HEB.P030",
+    "title": "Faith from Moses to Joshua",
+    "range": "HEB.11:22-11:30",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/EXO_footnotes.md",
-      "line_number": 102,
+      "source_file": "study/footnotes/OT/EXO_footnotes.md",
+      "line_number": 75,
       "raw_match": "[[HEB.11:24]]-26",
       "reference_type": "wikilink_range",
-      "context": "([[HEB.11:24]]-26)."
+      "context": "Moses went out to see his brethren because he refused to be called the son of Pharaoh's daughter. Why? Because of his faith, for he chose the Lord and holiness over the riches of Egypt and the passing pleasures of sin. He had his eyes on the world to come ([[HEB.11:24]]-26)."
     }
   ]
 }

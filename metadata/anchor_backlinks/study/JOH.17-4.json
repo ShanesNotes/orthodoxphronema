@@ -2,15 +2,25 @@
   "anchor_id": "JOH.17:4",
   "canon_uri": "canon/NT/JOH.md#JOH.17:4",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "I have glorified You on the earth. I have finished the work which You have given Me to do.",
+  "pericope": {
+    "id": "JOH.P059",
+    "title": "Christ's Prayer for Himself",
+    "range": "JOH.16:33-17:4",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/JOS_footnotes.md",
-      "line_number": 581,
+      "source_file": "study/footnotes/OT/JOS_footnotes.md",
+      "line_number": 352,
       "raw_match": "[[JOH.17:4]]",
       "reference_type": "wikilink",
-      "context": "lost\" ([[JOH.17:4]], [[JOH.17:12]])."
+      "context": "Consider the ways in which Joshua's address is fulfilled in Christ's high priestly prayer in Jn 17. For example: Joshua says, \"I am old\" (v. 2); Christ prays, \"the hour has come\" ([[JOH.17:1]]). Joshua says, \"you shall inherit their land... therefore... love the Lord\" (vv. 5, 11); Christ prays, \"this is eternal life, that they may know You, the only true God, and Jesus Christ whom You have sent\" ([[JOH.17:3]]). Joshua says, \"I am going... not one word has failed\" (v. 14); Christ prays, \"I have finished the work... none of them is lost\" ([[JOH.17:4]], [[JOH.17:12]])."
     }
   ]
 }

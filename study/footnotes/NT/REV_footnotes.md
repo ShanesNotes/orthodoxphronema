@@ -921,7 +921,7 @@ question of the martyrs dwelling under the altar (6:10-11). Lives forever and ev
 
 The voice of God directs John to take the book. The symbolism of eating refers
 to receiving a revelation from God: John's account has many parallels to the
-commissioning of Ezekiel (Ezk 2:8-3:3; see also [[PSA.118:103]]). The contrast between
+commissioning of Ezekiel ([[EZK.2:8]]-3:3; see also [[PSA.118:103]]). The contrast between
 sweetness in the mouth and bitterness in the stomach shows the sweetness of receiving
 God's revelation (announcing God's victory for His people) as opposed to the bitterness of
 its message of woe (announcing God's terrible judgments, as well as sufferings for His
@@ -1388,7 +1388,7 @@ also 6:2; 17:12, 13). The OT miracles of crossing over a river on dry land ([[EX
 ### 16:13
 *(anchor: REV.16:13)*
 
-An allusion to the second Egyptian plague (Ex 7:26-8:11). The unclean spirits (see
+An allusion to the second Egyptian plague ([[EXO.7:26]]-8:11). The unclean spirits (see
 [[1TI.4:1]]; [[1JN.4:3]]) are like frogs.
 
 ### 16:14

@@ -2,36 +2,46 @@
   "anchor_id": "HEB.4:12",
   "canon_uri": "canon/NT/HEB.md#HEB.4:12",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "For the word of God is living and powerful, and sharper than any two-edged sword, piercing even to the division of soul and spirit, and of joints and marrow, and is a discerner of the thoughts and intents of the heart.",
+  "pericope": {
+    "id": "HEB.P009",
+    "title": "Work to Enter His Rest",
+    "range": "HEB.4:10-4:12",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/1TI_footnotes.md",
-      "line_number": 237,
+      "source_file": "study/footnotes/NT/1TI_footnotes.md",
+      "line_number": 165,
       "raw_match": "[[HEB.4:12]]",
       "reference_type": "wikilink",
-      "context": "The word (Gr. logos) of God is the Son ([[JOH.1:1]]; [[HEB.4:12]]; [[1PE.1:23]]; [[1JN.1:1]]; Rev"
+      "context": "The word (Gr. logos) of God is the Son ([[JOH.1:1]]; [[HEB.4:12]]; [[1PE.1:23]]; [[1JN.1:1]]; Rev 19:13). A word of God in the NT can be God's creative will ([[2PE.3:5]], [[2PE.3:7]]), the OT ([[MRK.7:13]]), a blessing using God's name (as here), the gospel itself ([[ACT.4:31]]; 6:7; 13:5, 26; 15:7, 36; [[1TH.2:13]]), or a special message from God. The Son is the ultimate reference for every other word of God. Sometimes it is difficult to tell whether \"word\" refers to Christ Himself or words about Him ([[COL.1:25]]). To spread the word of God is to spread Christ Himself. (The Greek rema is identically translated as \"word\" whether it refers to the gospel [Heb 6:5; [[1PE.1:25]]], a message from God [1Pt 1:25], or an act of God [Heb 11:3].) Words of faith (v. 6) means speech consonant with the gospel. Doctrine, or \"teaching,\" is the content of the gospel. Thus, the rich and manifold speech concerning salvation serves our communion with Christ, the Word of God. He is the reason these words are vital and powerful. Using words without the Word is vain."
     },
     {
-      "source_file": "staging/validated/NT/LUK_footnotes.md",
-      "line_number": 2809,
+      "source_file": "study/footnotes/NT/LUK_footnotes.md",
+      "line_number": 1875,
       "raw_match": "[[HEB.4:12]]",
       "reference_type": "wikilink",
-      "context": "refers to the living word of God in the battle against sin ([[EPH.6:17]]; [[HEB.4:12]]). St. Ambrose"
+      "context": "The sword (v. 36) is not to be understood literally (compare vv. 49-51), but refers to the living word of God in the battle against sin ([[EPH.6:17]]; [[HEB.4:12]]). St. Ambrose adds an additional meaning: that giving up one's garment and buying a sword refers to surrendering the body to the sword of martyrdom. Because the disciples were thinking of swords literally, Jesus abruptly ends the discussion with the words, \"It is enough,\" or better translated, \"Enough of this!\" (see [[DEU.3:26]]; [[MRK.14:41]])."
     },
     {
-      "source_file": "staging/validated/NT/REV_footnotes.md",
-      "line_number": 211,
+      "source_file": "study/footnotes/NT/REV_footnotes.md",
+      "line_number": 130,
       "raw_match": "[[HEB.4:12]]",
       "reference_type": "wikilink",
-      "context": "seen in both the Old and New Testaments ([[DAN.10:6]]; [[MAT.17:2]]; [[EPH.6:17]]; [[HEB.4:12]]). We"
+      "context": "One like the Son of Man recalls Daniel's messianic figure ([[DAN.7:13]]--repeated by Stephen at his martyrdom, [[ACT.7:56]]). Christ called Himself Son of Man (see especially [[MAT.24:30]]ff.), for He is the fulfillment of Daniel's prophecy. Additional parallels may be seen in both the Old and New Testaments ([[DAN.10:6]]; [[MAT.17:2]]; [[EPH.6:17]]; [[HEB.4:12]]). We also see Him vested in high-priestly garments (see [[EXO.28:4]]; 29:5; Lv 16:4; WSol 18:24; [[ZEC.3:4]], [[ZEC.3:5]]). The gold with which He is girded is both royal (1Mc 10:89) and priestly."
     },
     {
-      "source_file": "staging/validated/NT/REV_footnotes.md",
-      "line_number": 257,
+      "source_file": "study/footnotes/NT/REV_footnotes.md",
+      "line_number": 159,
       "raw_match": "[[HEB.4:12]]",
       "reference_type": "wikilink",
-      "context": "2:16; 18:15; Is 11:4; 49:2; WSol 18:15; [[EPH.6:17]]; [[2TH.2:9]]; [[HEB.4:12]]). The brilliance of His"
+      "context": "The Lord holds the stars that represent the seven churches (1:20), and hence, the Church. For Christ is Lord of the Church. In His just judgment, the sword He wields is the Word of God, which cuts effortlessly to the very marrow and heart of humanity (see 2:16; 18:15; Is 11:4; 49:2; WSol 18:15; [[EPH.6:17]]; [[2TH.2:9]]; [[HEB.4:12]]). The brilliance of His face recalls the Uncreated Light John saw radiating from the Savior at the Transfiguration on Mount Tabor."
     }
   ]
 }

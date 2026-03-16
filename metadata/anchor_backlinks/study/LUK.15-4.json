@@ -2,15 +2,25 @@
   "anchor_id": "LUK.15:4",
   "canon_uri": "canon/NT/LUK.md#LUK.15:4",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "'What man of you, having a hundred sheep, if he loses one of them, does not leave the ninety-nine in the wilderness, and go after the one which is lost until he finds it?",
+  "pericope": {
+    "id": "LUK.P073",
+    "title": "The Cost of Discipleship",
+    "range": "LUK.14:24-15:6",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/EZK_footnotes.md",
-      "line_number": 415,
+      "source_file": "study/footnotes/OT/EZK_footnotes.md",
+      "line_number": 389,
       "raw_match": "[[LUK.15:4]]-7",
       "reference_type": "wikilink_range",
-      "context": "establishment of His sheep (v. 31), the Church. Compare Jn 10; [[LUK.15:4]]-7; 19:17."
+      "context": "It is appropriate that immediately after regaining his voice, the prophet condemns the false shepherds and prophesies the coming of the Good Shepherd, Christ, and the establishment of His sheep (v. 31), the Church. Compare Jn 10; [[LUK.15:4]]-7; 19:17."
     }
   ]
 }

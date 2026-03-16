@@ -2,22 +2,32 @@
   "anchor_id": "ACT.8:35",
   "canon_uri": "canon/NT/ACT.md#ACT.8:35",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Then Philip opened his mouth, and beginning at this Scripture, preached Jesus to him.",
+  "pericope": {
+    "id": "ACT.P028",
+    "title": "The Ethiopian Eunuch",
+    "range": "ACT.8:25-8:39",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/EZK_footnotes.md",
-      "line_number": 194,
+      "source_file": "study/footnotes/OT/EZK_footnotes.md",
+      "line_number": 174,
       "raw_match": "[[ACT.8:26]]-39",
       "reference_type": "wikilink_range",
-      "context": "Gentile eunuch, listened and was converted ([[ACT.8:26]]-39). 11:17-25 I will give them the land: This prophecy is being fulfilled in the New Israel, which is the Church, composed of both believing Jews and Gentiles (the nations). 12:1-3"
+      "context": "Wheel translates the word Gelgel, used in the LXX as a proper noun, a transliteration of the Hebrew glgl. In the Vulgate, St. Jerome translates it \"turnings.\" 10:17-18 As the glory of the Lord passed from the house to the cherubim, so God's glory departed from the earthly Israel to the heavenly Jerusalem, over and above them. 11:1 Ezekiel's miraculous prophetic appearance in Jerusalem must have given Israel's princes quite a shock; even so, they refused to repent. Indeed, Pelatiah dropped dead on the spot (v. 13). Ananias and Sapphira met a similar fate in the New Testament (Acts 5:10). The apostle Philip was transported in a similar way, but this time his audience, a Gentile eunuch, listened and was converted ([[ACT.8:26]]-39)."
     },
     {
-      "source_file": "staging/validated/OT/EZK_footnotes.md",
-      "line_number": 356,
+      "source_file": "study/footnotes/OT/EZK_footnotes.md",
+      "line_number": 342,
       "raw_match": "[[ACT.8:26]]-39",
       "reference_type": "wikilink_range",
-      "context": "of God\" when Philip appeared to him ([[ACT.8:26]]-39)."
+      "context": "In the days of the Captivity, Egypt and Ethiopia stood against God's purposes. But after Pentecost, these nations were blessed with the establishment of the Church among the Gentiles. Indeed, the Ethiopian eunuch confessed that \"Jesus Christ is the Son of God\" when Philip appeared to him ([[ACT.8:26]]-39)."
     }
   ]
 }

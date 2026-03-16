@@ -4,6 +4,16 @@
   "text_tradition": "LXX",
   "generated_at": "2026-03-13T21:28:41+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Then Jacob cooked a stew; and Esau came in from the field, and was weary.",
+  "pericope": {
+    "id": "GEN.P039",
+    "title": "Esau Sells His Birthright",
+    "range": "GEN.25:26-25:32",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
       "source_file": "staging/validated/NT/HEB_footnotes.md",

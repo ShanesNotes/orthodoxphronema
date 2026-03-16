@@ -2,29 +2,39 @@
   "anchor_id": "1CO.9:27",
   "canon_uri": "canon/NT/1CO.md#1CO.9:27",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "But I discipline my body and bring it into subjection, lest, when I have preached to others, I myself should become disqualified.",
+  "pericope": {
+    "id": "1CO.P023",
+    "title": "A Bad Example: Israel's Apostasy",
+    "range": "1CO.9:27-10:12",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/1TI_footnotes.md",
-      "line_number": 265,
+      "source_file": "study/footnotes/NT/1TI_footnotes.md",
+      "line_number": 181,
       "raw_match": "[[1CO.9:24]]-27",
       "reference_type": "wikilink_range",
-      "context": "Paul is no stranger to physical exercise and its benefits (see [[1CO.9:24]]-27), but he"
+      "context": "Paul is no stranger to physical exercise and its benefits (see [[1CO.9:24]]-27), but he prefers spiritual exercise, for it leads to life eternal."
     },
     {
-      "source_file": "staging/validated/NT/2TI_footnotes.md",
-      "line_number": 237,
+      "source_file": "study/footnotes/NT/2TI_footnotes.md",
+      "line_number": 165,
       "raw_match": "[[1CO.9:24]]-27",
       "reference_type": "wikilink_range",
-      "context": "to an athletic contest (see [[1CO.9:24]]-27) is common in the writings of the ascetic Fathers."
+      "context": "The race is the life and work that God gave Paul. The comparison of the spiritual life to an athletic contest (see [[1CO.9:24]]-27) is common in the writings of the ascetic Fathers."
     },
     {
-      "source_file": "staging/validated/OT/ZEC_footnotes.md",
-      "line_number": 418,
+      "source_file": "study/footnotes/OT/ZEC_footnotes.md",
+      "line_number": 293,
       "raw_match": "[[1CO.9:24]]-27",
       "reference_type": "wikilink_range",
-      "context": "4:10). St. Paul promises crowns to believers who endure ([[1CO.9:24]]-27)."
+      "context": "Zechariah is commanded by the word of the Lord to collect gifts from the rulers and useful men of captivity into the house of Josiah and place these gifts of gold, silver, and crowns at the feet of Joshua the high priest. The promise is made that the crown goes to the one who endured. Others then shall come to rebuild the temple. In the New Testament, crowns are cast at the feet of Jesus Christ the Great High Priest (Rev 4:10). St. Paul promises crowns to believers who endure ([[1CO.9:24]]-27)."
     }
   ]
 }

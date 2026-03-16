@@ -2,22 +2,32 @@
   "anchor_id": "LUK.24:35",
   "canon_uri": "canon/NT/LUK.md#LUK.24:35",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "And they told about the things that had happened on the road, and how He was known to them in the breaking of bread.",
+  "pericope": {
+    "id": "LUK.P121",
+    "title": "The Women Find the Tomb Empty",
+    "range": "LUK.23:56-24:53",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/JOH_footnotes.md",
-      "line_number": 3413,
+      "source_file": "study/footnotes/NT/JOH_footnotes.md",
+      "line_number": 2197,
       "raw_match": "[[LUK.24:35]]",
       "reference_type": "wikilink",
-      "context": "were familiar (20:16; [[LUK.24:35]]). It is through this familiar grace that our Lord is"
+      "context": "The Sea of Tiberias is another name for the Sea of Galilee. Because Christ's resurrected body was transfigured and incorruptible, it was not visible unless He willingly showed Himself. His resurrected body is indeed human, but it is glorified in every respect and illustrates the kind of body each believer will have in the general resurrection (see [[1CO.15:42]]-49). 21:6, 7 This is the second time Christ provided a multitude of fish for these men (Lk 5:4-6). Jesus often revealed Himself after the Resurrection through words and acts that were familiar (20:16; [[LUK.24:35]]). It is through this familiar grace that our Lord is recognizable to all His followers (see also note at [[LUK.5:6]]). John, the beloved disciple, is the first to perceive that the Man on the shore is the Lord, showing that love for Christ brings spiritual insight. Peter plunging into the sea demonstrates the boldness of his faith (see note at 20:3-8)."
     },
     {
-      "source_file": "staging/validated/OT/2CH_footnotes.md",
-      "line_number": 19,
+      "source_file": "study/footnotes/OT/2CH_footnotes.md",
+      "line_number": 16,
       "raw_match": "[[LUK.24:33]]-42",
       "reference_type": "wikilink_range",
-      "context": "on earth ([[LUK.24:33]]-42). He will impart to them His own wisdom and understanding"
+      "context": "Like Solomon, Christ will be established and magnified (v. 1); and like the king before the old altar (vv. 3-6), Christ will break bread with His disciples for the last time on earth ([[LUK.24:33]]-42). He will impart to them His own wisdom and understanding (v. 10; [[LUK.24:45]]). He will bear witness (v. 13) to them of His divinity. Then, He will ascend ([[LUK.24:50]]-53) into the heavenly Jerusalem (v. 13; [[HEB.12:22]]), bringing all creation with Him."
     }
   ]
 }

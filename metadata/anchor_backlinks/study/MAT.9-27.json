@@ -2,15 +2,25 @@
   "anchor_id": "MAT.9:27",
   "canon_uri": "canon/NT/MAT.md#MAT.9:27",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "When Jesus departed from there, two blind men followed Him, crying out and saying, 'Son of David, have mercy on us!'",
+  "pericope": {
+    "id": "MAT.P023",
+    "title": "Two Blind Men Healed",
+    "range": "MAT.9:26-9:30",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/3MA_footnotes.md",
-      "line_number": 491,
+      "source_file": "study/footnotes/OT/3MA_footnotes.md",
+      "line_number": 419,
       "raw_match": "[[MAT.9:27]]",
       "reference_type": "wikilink",
-      "context": "someone calling on Jesus for mercy ([[MAT.9:27]]; 15:22; 17:15; 20:30, 31; [[MRK.10:47]], [[MRK.10:48]]; Lk"
+      "context": "The Jews have bade each other farewell (v. 49), but still call on the Lord for help even against all odds and cry out for mercy. In the Gospels, there are seven instances of someone calling on Jesus for mercy ([[MAT.9:27]]; 15:22; 17:15; 20:30, 31; [[MRK.10:47]], [[MRK.10:48]]; Lk 17:13; 18:38, 39). In every case, they receive it."
     }
   ]
 }

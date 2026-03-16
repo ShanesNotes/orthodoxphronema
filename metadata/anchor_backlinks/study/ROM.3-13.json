@@ -2,15 +2,25 @@
   "anchor_id": "ROM.3:13",
   "canon_uri": "canon/NT/ROM.md#ROM.3:13",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "'Their throat is an open tomb; With their tongues they have practiced deceit';'The poison of asps is under their lips';",
+  "pericope": {
+    "id": "ROM.P008",
+    "title": "The Jews' Unfaithfulness",
+    "range": "ROM.2:29-3:19",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/PSA_footnotes.md",
-      "line_number": 259,
+      "source_file": "study/footnotes/OT/PSA_footnotes.md",
+      "line_number": 160,
       "raw_match": "[[ROM.3:9]]-18",
       "reference_type": "wikilink_range",
-      "context": "(v. 1; see also [[ROM.3:9]]-18). For although they may claim to know God, nevertheless, they"
+      "context": "Ps 13 describes both Jews and Gentiles who say in their hearts, \"There is no God\" (v. 1; see also [[ROM.3:9]]-18). For although they may claim to know God, nevertheless, they are actually denying He exists, because of (1) their total involvement in a state of moral depravity (vv. 1, 3); (2) their refusal to seek God (v. 2); (3) their persecution of God's righteous people (vv. 4-6); and (4) their denial of the Incarnate God, the Lord Jesus Christ (v. 7)."
     }
   ]
 }

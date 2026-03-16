@@ -2,36 +2,46 @@
   "anchor_id": "MAT.21:43",
   "canon_uri": "canon/NT/MAT.md#MAT.21:43",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "This was the LORD's doing, And it is marvelous in our eyes'?'Therefore I say to you, the kingdom of God will be taken from you and given to a nation bearing the fruits of it.",
+  "pericope": {
+    "id": "MAT.P071",
+    "title": "Leaders Mistreat God's Messengers",
+    "range": "MAT.21:32-21:45",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/MRK_footnotes.md",
-      "line_number": 477,
+      "source_file": "study/footnotes/NT/MRK_footnotes.md",
+      "line_number": 329,
       "raw_match": "[[MAT.21:43]]",
       "reference_type": "wikilink",
-      "context": "people, who are called to bear spiritual fruit (see [[MAT.21:43]]; [[GAL.5:22]], [[GAL.5:23]]; see note at Mt"
+      "context": "It was not the season for figs means that this fig tree had sprouted an early full foliage, indicating a first crop, but without bearing any fruit. Jesus, finding not even one fig, condemns it. In Scripture a fig tree is often a symbol of Israel ([[HOS.9:10]]). Her fruitfulness has ceased, so the Kingdom will be taken from her and given to another people, who are called to bear spiritual fruit (see [[MAT.21:43]]; [[GAL.5:22]], [[GAL.5:23]]; see note at Mt 21:19)."
     },
     {
-      "source_file": "staging/validated/OT/EXO_footnotes.md",
-      "line_number": 1183,
+      "source_file": "study/footnotes/OT/EXO_footnotes.md",
+      "line_number": 913,
       "raw_match": "[[MAT.21:43]]",
       "reference_type": "wikilink",
-      "context": "nation bearing the fruits of it ([[MAT.21:43]]). This nation consists of the obedient in the"
+      "context": "Israel was to be a royal priesthood and a holy nation based on obedience to the Lord. The Lord speaking to Israel was the Word, and when He became Incarnate, the nation disobeyed Him. Therefore, He took the kingdom away from Israel and gave it to a nation bearing the fruits of it ([[MAT.21:43]]). This nation consists of the obedient in the Church, both Jews and Gentiles ([[1PE.2:9]], [[1PE.2:10]])."
     },
     {
-      "source_file": "staging/validated/OT/GEN_footnotes.md",
-      "line_number": 1528,
+      "source_file": "study/footnotes/OT/GEN_footnotes.md",
+      "line_number": 1111,
       "raw_match": "[[MAT.21:42]]-44",
       "reference_type": "wikilink_range",
       "context": "The stone is Christ, the foundation stone of the Church ([[MAT.21:42]]-44; [[MRK.12:10]]; [[LUK.20:17]], [[LUK.20:18]]; [[ACT.4:11]]; [[ROM.9:32]], [[ROM.9:33]]; [[1CO.3:10]], [[1CO.3:11]]; [[1PE.2:4]]-8). The oil signifies Christ, whose human nature was anointed by the Holy Spirit ([[MAT.1:18]]; 3:16; [[HEB.1:9]])."
     },
     {
-      "source_file": "staging/validated/OT/NUM_footnotes.md",
-      "line_number": 538,
+      "source_file": "study/footnotes/OT/NUM_footnotes.md",
+      "line_number": 349,
       "raw_match": "[[MAT.21:43]]",
       "reference_type": "wikilink",
-      "context": "ultimately led them to the loss of God's kingdom ([[MAT.21:43]]), as it does for all (Rom"
+      "context": "Unbelief leads to death and self-destruction. For there is no remedy for unbelief. It ultimately led them to the loss of God's kingdom ([[MAT.21:43]]), as it does for all (Rom 11:22)."
     }
   ]
 }

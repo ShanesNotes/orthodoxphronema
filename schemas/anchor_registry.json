@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "$comment": "Registry v1.1.0. Changes require version bump, changelog entry, and migration plan.",
-  "registry_version": "1.7.4",
+  "registry_version": "1.7.6",
   "ratified_date": "2026-03-15",
   "registry_changelog": [
     {
@@ -83,6 +83,16 @@
       "version": "1.7.4",
       "date": "2026-03-15",
       "description": "1CH ch1 CVC: 54→42. OSB/LXX versification ends ch1 at v42 (Kings of Edom + Chiefs). The registry value of 54 was MT-based. Ezra audit finding: duplicate content at 1:43-54 removed. Source: Ezra audit + OSB PDF."
+    },
+    {
+      "version": "1.7.5",
+      "date": "2026-03-15",
+      "description": "DEU ch30 CVC: 19→20. Brenton LXX confirms 20 verses. Staging has 20 verses; canon mega-line had fused ch29+ch30. Source: Brenton LXX witness + staging verification."
+    },
+    {
+      "version": "1.7.6",
+      "date": "2026-03-15",
+      "description": "NUM CVC LXX alignment: ch16 50→35 (MT 16:36-50 = LXX 17:1-15), ch29 40→39 (MT 29:40 = LXX 30:1), ch30 16→17 (receives shifted verse). Source: OSB PDF pdftotext verification + memo 91 ratification."
     }
   ],
   "total_canonical_books": 76,
@@ -259,7 +269,7 @@
         33,
         45,
         41,
-        50,
+        35,
         28,
         32,
         22,
@@ -272,8 +282,8 @@
         65,
         23,
         31,
-        40,
-        16,
+        39,
+        17,
         54,
         42,
         56,
@@ -319,7 +329,7 @@
         26,
         69,
         28,
-        19,
+        20,
         30,
         52,
         32,

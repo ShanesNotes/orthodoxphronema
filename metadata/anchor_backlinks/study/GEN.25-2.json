@@ -2,15 +2,25 @@
   "anchor_id": "GEN.25:2",
   "canon_uri": "canon/OT/GEN.md#GEN.25:2",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "So she bore him Zimran, Jokshan, Medan, Midian, Ishbak, and Shuah.",
+  "pericope": {
+    "id": "GEN.P036",
+    "title": "Abraham and Keturah",
+    "range": "GEN.24:67-25:5",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/ROM_footnotes.md",
-      "line_number": 1205,
+      "source_file": "study/footnotes/NT/ROM_footnotes.md",
+      "line_number": 789,
       "raw_match": "[[GEN.25:1]]-4",
       "reference_type": "wikilink_range",
-      "context": "Keturah ([[GEN.25:1]]-4) would be Israelites. Furthermore, not all those in Isaac's line are"
+      "context": "Jewish unbelief is illuminated by Paul's description of a twofold Israel: one spiritual and the other physical. God is faithful to all Israel, but the issue is this: Who is a true child of Abraham? It is not Abraham's children of the flesh (v. 8), his natural or biological offspring, who are his true children. If this were the case, the children of Hagar ([[GEN.16:4]], [[GEN.16:15]]) and of Keturah ([[GEN.25:1]]-4) would be Israelites. Furthermore, not all those in Isaac's line are Israelites; otherwise Esau and the Edomites would be. Abraham's true children are the children of the promise (v. 8), that is, those who are in Isaac (v. 7), which means faithful believers. Because Isaac was miraculously conceived through God's promise, which Abraham believed ([[GEN.18:10]]-15; 21:1-7), it is those who continue in this faith who are Abraham's true offspring."
     }
   ]
 }

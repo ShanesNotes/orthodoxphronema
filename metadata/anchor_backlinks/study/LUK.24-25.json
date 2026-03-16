@@ -1,0 +1,26 @@
+{
+  "anchor_id": "LUK.24:25",
+  "canon_uri": "canon/NT/LUK.md#LUK.24:25",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-16T02:01:16+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Then He said to them, 'O foolish ones, and slow of heart to believe in all that the prophets have spoken!",
+  "pericope": {
+    "id": "LUK.P121",
+    "title": "The Women Find the Tomb Empty",
+    "range": "LUK.23:56-24:53",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
+  "links": [
+    {
+      "source_file": "study/footnotes/OT/EZK_footnotes.md",
+      "line_number": 73,
+      "raw_match": "[[LUK.24:25]]",
+      "reference_type": "wikilink",
+      "context": "The roll of a book signifies Holy Scripture, which Christ unrolled ([[MRK.4:34]]; [[LUK.24:25]]). Scripture \"is written within by allegory, and without by history; within through spiritual understanding, but without through the plain sense of the letter still befitting the weak\" (GrgGt). Lamentation and mourning indicate repentance, while woe points to the Final Judgment ([[LUK.6:25]])."
+    }
+  ]
+}

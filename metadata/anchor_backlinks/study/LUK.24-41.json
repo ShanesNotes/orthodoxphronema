@@ -2,22 +2,32 @@
   "anchor_id": "LUK.24:41",
   "canon_uri": "canon/NT/LUK.md#LUK.24:41",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "But while they still did not believe for joy, and marveled, He said to them, 'Have you any food here?'",
+  "pericope": {
+    "id": "LUK.P121",
+    "title": "The Women Find the Tomb Empty",
+    "range": "LUK.23:56-24:53",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/MAT_footnotes.md",
-      "line_number": 3659,
+      "source_file": "study/footnotes/NT/MAT_footnotes.md",
+      "line_number": 2340,
       "raw_match": "[[LUK.24:41]]-43",
       "reference_type": "wikilink_range",
-      "context": "reality of His victory over death ([[LUK.24:41]]-43). Furthermore, it points to the eternal"
+      "context": "The Fathers teach that Jesus also drinks the cup of His own Blood. This He does to lead all believers into participation in His heavenly mysteries. In My Father's kingdom relates to the time after His Resurrection, when Christ will eat and drink to show the reality of His victory over death ([[LUK.24:41]]-43). Furthermore, it points to the eternal banquet of the Kingdom in the age to come."
     },
     {
-      "source_file": "staging/validated/OT/2CH_footnotes.md",
-      "line_number": 19,
+      "source_file": "study/footnotes/OT/2CH_footnotes.md",
+      "line_number": 16,
       "raw_match": "[[LUK.24:33]]-42",
       "reference_type": "wikilink_range",
-      "context": "on earth ([[LUK.24:33]]-42). He will impart to them His own wisdom and understanding"
+      "context": "Like Solomon, Christ will be established and magnified (v. 1); and like the king before the old altar (vv. 3-6), Christ will break bread with His disciples for the last time on earth ([[LUK.24:33]]-42). He will impart to them His own wisdom and understanding (v. 10; [[LUK.24:45]]). He will bear witness (v. 13) to them of His divinity. Then, He will ascend ([[LUK.24:50]]-53) into the heavenly Jerusalem (v. 13; [[HEB.12:22]]), bringing all creation with Him."
     }
   ]
 }

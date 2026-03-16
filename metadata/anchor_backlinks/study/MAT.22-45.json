@@ -2,22 +2,32 @@
   "anchor_id": "MAT.22:45",
   "canon_uri": "canon/NT/MAT.md#MAT.22:45",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "If David then calls Him 'Lord,' how is He his Son?'",
+  "pericope": {
+    "id": "MAT.P074",
+    "title": "David's Son Is His Lord",
+    "range": "MAT.22:40-22:45",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/LUK_footnotes.md",
-      "line_number": 2661,
+      "source_file": "study/footnotes/NT/LUK_footnotes.md",
+      "line_number": 1779,
       "raw_match": "[[MAT.22:41]]-46",
       "reference_type": "wikilink_range",
-      "context": "humanity and David's Lord in His divinity (see note at [[MAT.22:41]]-46)."
+      "context": "The first reference to the L ORD applies to God the Father, while the term my Lord refers to Christ. This question is answered in that Christ is the Son of David in His humanity and David's Lord in His divinity (see note at [[MAT.22:41]]-46)."
     },
     {
-      "source_file": "staging/validated/NT/LUK_footnotes.md",
-      "line_number": 2883,
+      "source_file": "study/footnotes/NT/LUK_footnotes.md",
+      "line_number": 1924,
       "raw_match": "[[MAT.22:41]]-46",
       "reference_type": "wikilink_range",
-      "context": "because doing so would have meant confessing Him as the Christ (20:4-7; [[MAT.22:41]]-46;"
+      "context": "Jesus asked many questions of the Jewish leaders which they refused to answer because doing so would have meant confessing Him as the Christ (20:4-7; [[MAT.22:41]]-46; [[MRK.3:4]])."
     }
   ]
 }

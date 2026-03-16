@@ -2,15 +2,25 @@
   "anchor_id": "MAT.12:21",
   "canon_uri": "canon/NT/MAT.md#MAT.12:21",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "And in His name Gentiles will trust.'",
+  "pericope": {
+    "id": "MAT.P036",
+    "title": "Is Jesus from God?",
+    "range": "MAT.12:21-12:44",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/LUK_footnotes.md",
-      "line_number": 1375,
+      "source_file": "study/footnotes/NT/LUK_footnotes.md",
+      "line_number": 914,
       "raw_match": "[[MAT.12:16]]-21",
       "reference_type": "wikilink_range",
-      "context": "as Messiah be understood (see note on [[MAT.12:16]]-21)."
+      "context": "Jesus desires to keep His identity as the Christ hidden to avoid popular political and theological misunderstandings. Only after His Passion and Resurrection can His identity as Messiah be understood (see note on [[MAT.12:16]]-21)."
     }
   ]
 }

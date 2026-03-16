@@ -2,15 +2,25 @@
   "anchor_id": "PSA.47:3",
   "canon_uri": "canon/OT/PSA.md#PSA.47:3",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Well-rooted in joy throughout the earth, The mountains of Zion, the sides of the north, The city of the great King;",
+  "pericope": {
+    "id": "PSA.P047",
+    "title": "Psalm 47",
+    "range": "PSA.47:1-47:15",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/JDT_footnotes.md",
-      "line_number": 82,
+      "source_file": "study/footnotes/OT/JDT_footnotes.md",
+      "line_number": 70,
       "raw_match": "[[PSA.47:3]]",
       "reference_type": "wikilink",
-      "context": "Nebuchadnezzar (see [[JOS.3:11]]; [[PSA.47:3]])."
+      "context": "The titles the great king and lord of all the earth are further claims of divinity by Nebuchadnezzar (see [[JOS.3:11]]; [[PSA.47:3]])."
     }
   ]
 }

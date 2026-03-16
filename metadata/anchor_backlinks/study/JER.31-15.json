@@ -2,15 +2,25 @@
   "anchor_id": "JER.31:15",
   "canon_uri": "canon/OT/JER.md#JER.31:15",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Moab, his city, is ruined, and his choice young men have gone down to the slaughter.",
+  "pericope": {
+    "id": "JER.P050",
+    "title": "Seventy Years of Disgrace",
+    "range": "JER.24:10-38:39",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/RUT_footnotes.md",
-      "line_number": 75,
+      "source_file": "study/footnotes/OT/RUT_footnotes.md",
+      "line_number": 59,
       "raw_match": "[[JER.31:15]]",
       "reference_type": "wikilink",
-      "context": "Rachel, who would later lament over the loss of her children to Babylon ([[JER.31:15]]) and"
+      "context": "Lamenting in Bethlehem over the loss of her children in Moab, Naomi prefigures Rachel, who would later lament over the loss of her children to Babylon ([[JER.31:15]]) and over the children slain by Herod ([[MAT.2:16]]-18). See 4:11."
     }
   ]
 }

@@ -2,36 +2,46 @@
   "anchor_id": "ROM.4:17",
   "canon_uri": "canon/NT/ROM.md#ROM.4:17",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "(as it is written, 'I have made you a father of many nations' a ) in the presence of Him whom he believed-God, who gives life to the dead and calls those things which do not exist as though they did;",
+  "pericope": {
+    "id": "ROM.P011",
+    "title": "Abraham's Children: Faithful Believers",
+    "range": "ROM.4:12-4:23",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/LUK_footnotes.md",
-      "line_number": 601,
+      "source_file": "study/footnotes/NT/LUK_footnotes.md",
+      "line_number": 401,
       "raw_match": "[[ROM.4:16]]-18",
       "reference_type": "wikilink_range",
-      "context": "children to Abraham through faith in Christ ([[ROM.4:16]]-18)."
+      "context": "While parents and ancestors help impart piety and holiness (see note on 1:6), ancestry itself does not make one worthy of God. Each person in every generation must bear fruits worthy of repentance. Stones symbolize the Gentiles who would become children to Abraham through faith in Christ ([[ROM.4:16]]-18)."
     },
     {
-      "source_file": "staging/validated/OT/GEN_footnotes.md",
-      "line_number": 720,
+      "source_file": "study/footnotes/OT/GEN_footnotes.md",
+      "line_number": 503,
       "raw_match": "[[ROM.4:17]]-25",
       "reference_type": "wikilink_range",
-      "context": "God's promise. For man is saved by this promise through faith in Christ ([[ROM.4:17]]-25; 9:7, 8)."
+      "context": "The Voice of the Lord is also the Word of the Father. He reassures Abraham that his heir will come from your own body. This refers to the birth of Isaac, based on God's promise. For man is saved by this promise through faith in Christ ([[ROM.4:17]]-25; 9:7, 8)."
     },
     {
-      "source_file": "staging/validated/OT/GEN_footnotes.md",
-      "line_number": 842,
+      "source_file": "study/footnotes/OT/GEN_footnotes.md",
+      "line_number": 596,
       "raw_match": "[[ROM.4:17]]",
       "reference_type": "wikilink",
-      "context": "many nations (see also [[ROM.4:16]], [[ROM.4:17]])."
+      "context": "The covenant is that established \"in Christ\" ([[GAL.3:17]]). God established it before the Mosaic covenant. Therefore, the Law of Moses, which came later, could not cancel it. Abraham's faith is multiplied exceedingly in the Church. For he is the father of many nations (see also [[ROM.4:16]], [[ROM.4:17]])."
     },
     {
-      "source_file": "staging/validated/OT/GEN_footnotes.md",
-      "line_number": 871,
+      "source_file": "study/footnotes/OT/GEN_footnotes.md",
+      "line_number": 618,
       "raw_match": "[[ROM.4:9]]-17",
       "reference_type": "wikilink_range",
-      "context": "Gentiles, to be made righteous by faith in the gospel (v. 3; see also [[ROM.4:9]]-17). Christ"
+      "context": "The rite of circumcision was not the covenant itself. It was a sign of the covenant (v. 11). It was a temporary sign, because it applied only to Abraham's genealogy (v. 12), that is, to Abraham's physical lineage, and also to those born in his house or bought with his money. Thus, the rite did not apply to the \"many nations,\" or Gentiles, to be made righteous by faith in the gospel (v. 3; see also [[ROM.4:9]]-17). Christ Himself fulfilled this rite and brought it to an end when He was circumcised on the eighth day after His birth from the Virgin ([[LUK.2:21]])."
     }
   ]
 }

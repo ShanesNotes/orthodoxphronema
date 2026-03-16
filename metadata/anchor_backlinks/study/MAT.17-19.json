@@ -2,15 +2,25 @@
   "anchor_id": "MAT.17:19",
   "canon_uri": "canon/NT/MAT.md#MAT.17:19",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Then the disciples came to Jesus privately and said, 'Why could we not cast it out?'",
+  "pericope": {
+    "id": "MAT.P056",
+    "title": "The Disciples Lack Faith",
+    "range": "MAT.17:13-17:20",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/LUK_footnotes.md",
-      "line_number": 1439,
+      "source_file": "study/footnotes/NT/LUK_footnotes.md",
+      "line_number": 956,
       "raw_match": "[[MAT.17:19]]",
       "reference_type": "wikilink",
-      "context": "While the disciples' faith was incomplete ([[MAT.17:19]], [[MAT.17:20]]), Christ's rebuke is also to"
+      "context": "While the disciples' faith was incomplete ([[MAT.17:19]], [[MAT.17:20]]), Christ's rebuke is also to the crowds, whose faith was weaker still (see [[MRK.9:22]]-24)."
     }
   ]
 }

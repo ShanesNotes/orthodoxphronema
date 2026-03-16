@@ -2,15 +2,25 @@
   "anchor_id": "HEB.5:9",
   "canon_uri": "canon/NT/HEB.md#HEB.5:9",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "And having been perfected, He became the author of eternal salvation to all who obey Him,",
+  "pericope": {
+    "id": "HEB.P012",
+    "title": "Beware of Immaturity",
+    "range": "HEB.5:6-6:7",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/PSA_footnotes.md",
-      "line_number": 405,
+      "source_file": "study/footnotes/OT/PSA_footnotes.md",
+      "line_number": 247,
       "raw_match": "[[HEB.5:7]]-9",
       "reference_type": "wikilink_range",
-      "context": "hand for the sake of our salvation (vv. 1-8; see also [[HEB.5:7]]-9). And in His death,"
+      "context": "Ps 20 is also a royal psalm, because it is a prophecy of the King's triumphal Ascension, in which He is also the End. The Father is identified as the Lord (vv. 2, 8) and as the Most High (v. 8); and the King is also called the Lord (v. 10), who is exalted (v. 14) in His Ascension, as well as the Father's hand and right hand (v. 9). In being called by these names, Jesus is shown to be one in essence and coequal with the Father. Jesus asked the Father to raise Him from the dead and to enthrone Him at His right hand for the sake of our salvation (vv. 1-8; see also [[HEB.5:7]]-9). And in His death, Resurrection and Ascension, He destroyed all the enemies, namely, the devil and his angels (vv. 9-13). So, in response to all the Lord's mighty deeds, the Church sings and praises Him (v. 14)."
     }
   ]
 }

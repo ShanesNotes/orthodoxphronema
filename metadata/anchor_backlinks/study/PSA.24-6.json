@@ -2,15 +2,25 @@
   "anchor_id": "PSA.24:6",
   "canon_uri": "canon/OT/PSA.md#PSA.24:6",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Remember Your compassion, O Lord, And Your mercy, for they are from of old.",
+  "pericope": {
+    "id": "PSA.P024",
+    "title": "Psalm 24",
+    "range": "PSA.24:1-24:22",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/GEN_footnotes.md",
-      "line_number": 470,
+      "source_file": "study/footnotes/OT/GEN_footnotes.md",
+      "line_number": 346,
       "raw_match": "[[PSA.24:6]]",
       "reference_type": "wikilink",
-      "context": "remembrance is salvation. Many Scriptures speak of God remembering man in salvation. For example, [[PSA.24:6]], [[PSA.24:7]]: \"Remember Your compassion, O Lord, / And Your mercy, for"
+      "context": "God remembered Noah and saved him from the floodwaters, for He made a wind that caused the waters to subside. Noah was saved because God remembered him. This remembrance is salvation. Many Scriptures speak of God remembering man in salvation. For example, [[PSA.24:6]], [[PSA.24:7]]: \"Remember Your compassion, O Lord, / And Your mercy, for they are from of old. / Do not remember the sins of my youth, nor of my ignorance; / But remember me according to Your mercy, / Because of Your loving-kindness, O Lord.\" The thief on the cross said to Jesus, \"Lord, remember me when You come into Your kingdom.\" And Jesus said to him, \"Assuredly, I say to you, today you will be with Me in Paradise\" ([[LUK.23:42]]-43)."
     }
   ]
 }

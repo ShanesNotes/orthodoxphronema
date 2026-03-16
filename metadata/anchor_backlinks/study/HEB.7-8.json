@@ -2,15 +2,25 @@
   "anchor_id": "HEB.7:8",
   "canon_uri": "canon/NT/HEB.md#HEB.7:8",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Here mortal men receive tithes, but there he receives them, of whom it is witnessed that he lives.",
+  "pericope": {
+    "id": "HEB.P015",
+    "title": "Priestly Orders: Levi and Melchizedek",
+    "range": "HEB.6:20-7:27",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/PSA_footnotes.md",
-      "line_number": 2021,
+      "source_file": "study/footnotes/OT/PSA_footnotes.md",
+      "line_number": 1229,
       "raw_match": "[[HEB.7:8]]",
       "reference_type": "wikilink",
-      "context": "one preceded him in priesthood, nor succeeded him ([[HEB.7:8]]). On this basis he was a type"
+      "context": "Ps 109 is a prophecy concerning the Melchizedek Priesthood of the Lord Jesus Christ, which explains the true meaning of the Nativity. In [[GEN.14:18]]-20, Melchizedek is called the king of Salem and priest of the Most High God (see also [[HEB.7:1]]). His priesthood was not based on genealogy ([[HEB.7:3]]). It was based on himself alone, for no one preceded him in priesthood, nor succeeded him ([[HEB.7:8]]). On this basis he was a type of Christ, whose priesthood is based in His endless life, for He rose again from the dead ([[HEB.7:16]]). The Lord [the Father] said to my Lord [Christ], \"Sit at My right hand\" (v. 1). For Christ is not only Man, but also the Lord God, coequal and one in nature with the Father. For He is begotten from the Father before all time (before the morning star, v. 3), and is therefore His eternal Son (v. 3; see also Creed). He is the Son of David according to the flesh ([[MAT.1:1]]), but He is also the Lord of David according to His divinity (see also Mt 22:41-45). At the Father's right hand, this Melchizedek Priest rules and reigns over all things, including His enemies (vv. 1, 2, 5-7), and leads His Church in heavenly worship of the Blessed Trinity (v. 3)."
     }
   ]
 }

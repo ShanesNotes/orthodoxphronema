@@ -2,15 +2,25 @@
   "anchor_id": "ACT.2:19",
   "canon_uri": "canon/NT/ACT.md#ACT.2:19",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "I will show wonders in heaven above And signs in the earth beneath: Blood and fire and vapor of smoke.",
+  "pericope": {
+    "id": "ACT.P006",
+    "title": "The Holy Spirit Has Come",
+    "range": "ACT.2:15-2:20",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/REV_footnotes.md",
-      "line_number": 1287,
+      "source_file": "study/footnotes/NT/REV_footnotes.md",
+      "line_number": 796,
       "raw_match": "[[ACT.2:19]]",
       "reference_type": "wikilink",
-      "context": "[[ACT.2:19]]). A mixture of hail, fire, and blood is a typical apocalyptic picture of judgment."
+      "context": "Only vegetation is affected. The seventh plague in Egypt is recalled ([[EXO.9:22]]-26; see also [[EZK.5:12]]; [[ZEC.13:8]], [[ZEC.13:9]]). The reference to blood most likely comes from Joel (3:3; see [[ACT.2:19]]). A mixture of hail, fire, and blood is a typical apocalyptic picture of judgment."
     }
   ]
 }

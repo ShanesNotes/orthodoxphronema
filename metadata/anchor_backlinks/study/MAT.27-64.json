@@ -2,22 +2,32 @@
   "anchor_id": "MAT.27:64",
   "canon_uri": "canon/NT/MAT.md#MAT.27:64",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Therefore command that the tomb be made secure until the third day, lest His disciples come by night and steal Him away, and say to the people, 'He has risen from the dead.' So the last deception will be worse than the first.'",
+  "pericope": {
+    "id": "MAT.P093",
+    "title": "Saturday: Guards at the Tomb",
+    "range": "MAT.27:61-27:65",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/EXO_footnotes.md",
-      "line_number": 850,
+      "source_file": "study/footnotes/OT/EXO_footnotes.md",
+      "line_number": 654,
       "raw_match": "[[MAT.27:62]]-66",
       "reference_type": "wikilink_range",
-      "context": "their houses, contrary to the Law of Moses, to plot against Jesus ([[MAT.27:62]]-66; JohnChr). They broke the Law to plot against the Lawgiver."
+      "context": "Every man was to remain in his house on the Sabbath. Yet the Jewish leaders left their houses, contrary to the Law of Moses, to plot against Jesus ([[MAT.27:62]]-66; JohnChr). They broke the Law to plot against the Lawgiver."
     },
     {
-      "source_file": "staging/validated/OT/EXO_footnotes.md",
-      "line_number": 1391,
+      "source_file": "study/footnotes/OT/EXO_footnotes.md",
+      "line_number": 1072,
       "raw_match": "[[MAT.27:62]]-66",
       "reference_type": "wikilink_range",
-      "context": "on the Sabbath ([[MAT.27:62]]-66), but were running around and seeking to keep Christ in the"
+      "context": "The penalty for breaking the Sabbath was death. Yet the Jewish leaders did not rest on the Sabbath ([[MAT.27:62]]-66), but were running around and seeking to keep Christ in the tomb (AthanG)."
     }
   ]
 }

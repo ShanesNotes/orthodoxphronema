@@ -2,22 +2,32 @@
   "anchor_id": "MAT.5:11",
   "canon_uri": "canon/NT/MAT.md#MAT.5:11",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "'Blessed are you when they revile and persecute you, and say all kinds of evil against you falsely for My sake.",
+  "pericope": {
+    "id": "MAT.P011",
+    "title": "The Beatitudes: The Blessings of True Discipleship",
+    "range": "MAT.4:25-5:15",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/2TI_footnotes.md",
-      "line_number": 25,
+      "source_file": "study/footnotes/NT/2TI_footnotes.md",
+      "line_number": 21,
       "raw_match": "[[MAT.5:11]]",
       "reference_type": "wikilink",
-      "context": "While any Christian may be persecuted ([[JOH.15:20]]; see [[MAT.5:11]], [[MAT.5:12]] and note), we reject"
+      "context": "While any Christian may be persecuted ([[JOH.15:20]]; see [[MAT.5:11]], [[MAT.5:12]] and note), we reject feelings of fear or timidity. We do not \"quench the Spirit\" ([[1TH.5:19]]), but act with power and courage (2:12; see [[MAT.10:33]]; [[LUK.9:26]])."
     },
     {
-      "source_file": "staging/validated/NT/JAS_footnotes.md",
-      "line_number": 35,
+      "source_file": "study/footnotes/NT/JAS_footnotes.md",
+      "line_number": 26,
       "raw_match": "[[MAT.5:11]]",
       "reference_type": "wikilink",
-      "context": "([[MAT.5:11]], [[MAT.5:12]]; [[ACT.5:41]]; [[ROM.5:2]], [[ROM.5:3]]; 8:18; [[HEB.12:11]]; [[1PE.2:19]]). Though unkind"
+      "context": "Trials, the world's oppression, take place by God's permission. The issue is not trials but our response to them. Properly received, trials reveal where our hearts are. They are food for faith, which must grow or die. The godly reaction to trials is joy and perseverance ([[MAT.5:11]], [[MAT.5:12]]; [[ACT.5:41]]; [[ROM.5:2]], [[ROM.5:3]]; 8:18; [[HEB.12:11]]; [[1PE.2:19]]). Though unkind circumstances are from the evil one, to get angry at circumstances is to get angry at God, who permits them."
     }
   ]
 }

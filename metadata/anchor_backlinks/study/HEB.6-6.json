@@ -2,15 +2,25 @@
   "anchor_id": "HEB.6:6",
   "canon_uri": "canon/NT/HEB.md#HEB.6:6",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "if they fall away, to renew them again to repentance, since they crucify again for themselves the Son of God, and put Him to an open shame.",
+  "pericope": {
+    "id": "HEB.P012",
+    "title": "Beware of Immaturity",
+    "range": "HEB.5:6-6:7",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/1JN_footnotes.md",
-      "line_number": 455,
+      "source_file": "study/footnotes/NT/1JN_footnotes.md",
+      "line_number": 288,
       "raw_match": "[[HEB.6:4]]-6",
       "reference_type": "wikilink_range",
-      "context": "32; [[HEB.6:4]]-6; 10:26-31.)"
+      "context": "What about those Christians who are not living righteously? Sin leading to death is willful, continual disbelief in the grace of the Holy Spirit toward us. (See [[MAT.12:28]], [[MAT.12:31]], 32; [[HEB.6:4]]-6; 10:26-31.)"
     }
   ]
 }

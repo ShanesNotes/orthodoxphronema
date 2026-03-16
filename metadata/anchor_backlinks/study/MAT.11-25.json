@@ -2,15 +2,25 @@
   "anchor_id": "MAT.11:25",
   "canon_uri": "canon/NT/MAT.md#MAT.11:25",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "At that time Jesus answered and said, 'I thank You, Father, Lord of heaven and earth, that You have hidden these things from the wise and prudent and have revealed them to babes.",
+  "pericope": {
+    "id": "MAT.P033",
+    "title": "Rest in Christ",
+    "range": "MAT.11:24-11:29",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/2CO_footnotes.md",
-      "line_number": 225,
+      "source_file": "study/footnotes/NT/2CO_footnotes.md",
+      "line_number": 151,
       "raw_match": "[[MAT.11:25]]",
       "reference_type": "wikilink",
-      "context": "sometimes called Lord ([[MAT.11:25]]; 22:44; [[LUK.1:32]]; 4:12, 18; 10:21; [[ACT.3:22]]; 4:26; Rev"
+      "context": "The Lord here is a title. In the NT Lord usually refers to the Son. The Father is sometimes called Lord ([[MAT.11:25]]; 22:44; [[LUK.1:32]]; 4:12, 18; 10:21; [[ACT.3:22]]; 4:26; Rev 11:15; 21:22), and the Spirit is referred to as Lord here (v. 17) and in the Nicene Creed: \"I believe in the Holy Spirit, the Lord and giver of life.\" There is difference of opinion as to which of the Divine Persons the Lord refers to in each usage here. But Orthodox interpreters all agree that: (1) The Father, the Son, and the Holy Spirit are in no way confused here--Paul has in mind one Person or another. The Son, for example, cannot be the Holy Spirit. (2) The Spirit is a Divine Person, not an impersonal force--though elsewhere in the NT \"spirit\" occasionally refers to a realm or way of existence. (3) This title here describes how God reigns in the world. It does not describe the eternal relationship of the Persons of the Trinity: the Spirit, for instance, does not proceed from the Son. Paul is transforming the Old Covenant understanding of one God, the Lord, into Jesus' New Covenant revelation of one God in three Persons, each of whom is Lord. So when one turns to the Lord (v. 16) he turns not just to the Father but also to the incarnate Son (v. 16), in the power of the Holy Spirit (v. 17)."
     }
   ]
 }

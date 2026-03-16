@@ -2,15 +2,25 @@
   "anchor_id": "MAT.13:3",
   "canon_uri": "canon/NT/MAT.md#MAT.13:3",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Then He spoke many things to them in parables, saying: 'Behold, a sower went out to sow.",
+  "pericope": {
+    "id": "MAT.P038",
+    "title": "The Parable of the Sower",
+    "range": "MAT.12:50-13:8",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/JOB_footnotes.md",
-      "line_number": 805,
+      "source_file": "study/footnotes/OT/JOB_footnotes.md",
+      "line_number": 637,
       "raw_match": "[[MAT.13:3]]",
       "reference_type": "wikilink",
-      "context": "of discipline in the Church. The seed is the word of preaching ([[MAT.13:3]]), and the"
+      "context": "St. Gregory sees in the wild donkey a type of the saints who seek the kingdom of heaven, far removed from earthly cares, and who pay no heed to the blame (v. 7) of the evil one. He sees in the wild ox a type of the proud nations which were tamed by the gospel. The manger is understood to be Holy Scripture, and the ropes are the precepts of discipline in the Church. The seed is the word of preaching ([[MAT.13:3]]), and the threshing floor is the Church itself ([[MAT.3:12]])."
     }
   ]
 }

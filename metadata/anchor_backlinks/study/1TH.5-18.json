@@ -2,22 +2,32 @@
   "anchor_id": "1TH.5:18",
   "canon_uri": "canon/NT/1TH.md#1TH.5:18",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "in everything give thanks; for this is the will of God in Christ Jesus for you.",
+  "pericope": {
+    "id": "1TH.P009",
+    "title": "Reminders Concerning Unity",
+    "range": "1TH.5:11-5:21",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/LUK_footnotes.md",
-      "line_number": 2441,
+      "source_file": "study/footnotes/NT/LUK_footnotes.md",
+      "line_number": 1631,
       "raw_match": "[[1TH.5:16]]-18",
       "reference_type": "wikilink_range",
-      "context": "described (17:22-37; see also [[1TH.5:16]]-18 and note)."
+      "context": "Persistent (v. 7) and faithful (v. 8) prayer is the remedy for the tribulation just described (17:22-37; see also [[1TH.5:16]]-18 and note)."
     },
     {
-      "source_file": "staging/validated/NT/PHP_footnotes.md",
-      "line_number": 303,
+      "source_file": "study/footnotes/NT/PHP_footnotes.md",
+      "line_number": 200,
       "raw_match": "[[1TH.5:16]]-18",
       "reference_type": "wikilink_range",
-      "context": "perseverance in daily prayers (see [[1TH.5:16]]-18)."
+      "context": "Paul often uses the word always in relation to prayer. Rejoicing always is a fruit of perseverance in daily prayers (see [[1TH.5:16]]-18)."
     }
   ]
 }

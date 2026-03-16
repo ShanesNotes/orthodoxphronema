@@ -2,15 +2,25 @@
   "anchor_id": "ACT.18:2",
   "canon_uri": "canon/NT/ACT.md#ACT.18:2",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "And he found a certain Jew named Aquila, born in Pontus, who had recently come from Italy with his wife Priscilla (because Claudius had commanded all the Jews to depart from Rome); and he came to them.",
+  "pericope": {
+    "id": "ACT.P065",
+    "title": "The Church in Corinth",
+    "range": "ACT.17:34-18:3",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/1CO_footnotes.md",
-      "line_number": 1487,
+      "source_file": "study/footnotes/NT/1CO_footnotes.md",
+      "line_number": 992,
       "raw_match": "[[ACT.18:2]]",
       "reference_type": "wikilink",
-      "context": "by Claudius in AD 49-50. They had resided in Corinth for a while ([[ACT.18:2]]) and then"
+      "context": "Aquila and Priscilla were Jews who had been among those expelled from Rome by Claudius in AD 49-50. They had resided in Corinth for a while ([[ACT.18:2]]) and then moved to Ephesus ([[ACT.18:26]])."
     }
   ]
 }

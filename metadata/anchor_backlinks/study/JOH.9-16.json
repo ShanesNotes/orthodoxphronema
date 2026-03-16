@@ -2,15 +2,25 @@
   "anchor_id": "JOH.9:16",
   "canon_uri": "canon/NT/JOH.md#JOH.9:16",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Therefore some of the Pharisees said, 'This Man is not from God, because He does not keep the Sabbath.'",
+  "pericope": {
+    "id": "JOH.P031",
+    "title": "Those Who See, Those Who Do Not",
+    "range": "JOH.9:13-9:40",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/LUK_footnotes.md",
-      "line_number": 781,
+      "source_file": "study/footnotes/NT/LUK_footnotes.md",
+      "line_number": 519,
       "raw_match": "[[JOH.9:16]]",
       "reference_type": "wikilink",
-      "context": "in those who encounter Christ (see 11:14-16; [[JOH.9:16]]). His being rejected in His own"
+      "context": "This double response of marveling (v. 22) and rejection (v. 29) occurs frequently in those who encounter Christ (see 11:14-16; [[JOH.9:16]]). His being rejected in His own country fulfills the rejection of the OT prophets such as Elijah (v. 26) and Elisha (v. 27), and foreshadows His rejection by the whole Jewish nation at His trial before Pilate ([[JOH.19:14]], [[JOH.19:15]]). Christ accepts death according to the Father's will, not at the will of the Jews. Here, the hour of His Passion has not yet come (see [[JOH.8:20]])."
     }
   ]
 }

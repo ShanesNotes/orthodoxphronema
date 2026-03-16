@@ -2,15 +2,25 @@
   "anchor_id": "GEN.28:21",
   "canon_uri": "canon/OT/GEN.md#GEN.28:21",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "and bring me back in safety to my father's house, then the Lord shall be my God.",
+  "pericope": {
+    "id": "GEN.P045",
+    "title": "Jacob's Ladder",
+    "range": "GEN.28:9-28:21",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/JDG_footnotes.md",
-      "line_number": 674,
+      "source_file": "study/footnotes/OT/JDG_footnotes.md",
+      "line_number": 503,
       "raw_match": "[[GEN.28:19]]-22",
       "reference_type": "wikilink_range",
-      "context": "They traveled to Bethel ([[GEN.28:19]]-22) to inquire of God because the ark of the"
+      "context": "They traveled to Bethel ([[GEN.28:19]]-22) to inquire of God because the ark of the covenant had been moved there (v. 27)."
     }
   ]
 }

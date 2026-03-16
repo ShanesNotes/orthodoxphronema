@@ -1,9 +1,9 @@
 {
   "book_code": "RUT",
   "testament": "OT",
-  "timestamp": "2026-03-13T13:36:36.005544",
-  "registry_version": "1.4.0",
-  "body_checksum": "39611c5e8b38a7cdfb9cadefa16ba7bfd02d9479e71a7add79cbd42a34d8d41a",
+  "timestamp": "2026-03-15T18:29:30.088665",
+  "registry_version": "1.7.6",
+  "body_checksum": "285610ff87fb2f32ee46f4078447bfb7596bcee13e521219d287f6df01791851",
   "allow_incomplete": true,
   "staged_path": "/home/ark/orthodoxphronema/staging/validated/OT/RUT.md",
   "residuals_path": null,
@@ -18,144 +18,36 @@
       "messages": []
     },
     "V2": {
-      "status": "WARN",
-      "messages": [
-        "V2   Chapter count: expected 4, got 2"
-      ]
+      "status": "PASS",
+      "messages": []
     },
     "V3": {
-      "status": "FAIL",
-      "messages": [
-        "V3   Chapter sequence broken at line 60: expected 2, got 4"
-      ]
+      "status": "PASS",
+      "messages": []
     },
     "V4": {
-      "status": "WARN",
-      "messages": [
-        "V4   Missing verses in ch.1: jumps from 2 to 5",
-        "V4   Missing verses in ch.1: jumps from 5 to 11",
-        "V4   Missing verses in ch.1: jumps from 11 to 14",
-        "V4   Missing verses in ch.1: jumps from 14 to 16",
-        "V4   Missing verses in ch.1: jumps from 16 to 18",
-        "V4   Missing verses in ch.1: jumps from 18 to 20",
-        "V4   Missing verses in ch.1: jumps from 20 to 22",
-        "V4   Missing verses in ch.2: jumps from 1 to 3",
-        "V4   Missing verses in ch.2: jumps from 3 to 5",
-        "V4   Missing verses in ch.2: jumps from 6 to 8",
-        "V4   Missing verses in ch.2: jumps from 8 to 10",
-        "V4   Missing verses in ch.2: jumps from 11 to 13",
-        "V4   Missing verses in ch.2: jumps from 14 to 17",
-        "V4   Missing verses in ch.2: jumps from 17 to 20",
-        "V4   Missing verses in ch.3: jumps from 2 to 5",
-        "V4   Missing verses in ch.3: jumps from 6 to 10",
-        "V4   Missing verses in ch.3: jumps from 10 to 14",
-        "V4   Missing verses in ch.3: jumps from 15 to 18",
-        "V4   Missing verses in ch.4: jumps from 2 to 5",
-        "V4   Missing verses in ch.4: jumps from 7 to 11",
-        "V4   Missing verses in ch.4: jumps from 11 to 13",
-        "V4   Missing verses in ch.4: jumps from 13 to 16"
-      ]
+      "status": "PASS",
+      "messages": []
     },
     "V5": {
       "status": "PASS",
       "messages": []
     },
     "V7": {
-      "status": "WARN",
-      "messages": [
-        "V7   Completeness: 39/85 verses (45.9%); gap of 46"
-      ]
+      "status": "PASS",
+      "messages": []
     },
     "V8": {
       "status": "PASS",
       "messages": []
     },
     "V9": {
-      "status": "FAIL",
-      "messages": [
-        "V9   Embedded verse RUT.1:3 found inside RUT.1:2 at line 18",
-        "V9   Embedded verse RUT.1:4 found inside RUT.1:2 at line 18",
-        "V9   Embedded verse RUT.1:6 found inside RUT.1:5 at line 20",
-        "V9   Embedded verse RUT.1:7 found inside RUT.1:5 at line 20",
-        "V9   Embedded verse RUT.1:8 found inside RUT.1:5 at line 20",
-        "V9   Embedded verse RUT.1:9 found inside RUT.1:5 at line 20",
-        "V9   Embedded verse RUT.1:10 found inside RUT.1:5 at line 20",
-        "V9   Embedded verse RUT.1:12 found inside RUT.1:11 at line 21",
-        "V9   Embedded verse RUT.1:13 found inside RUT.1:11 at line 21",
-        "V9   Embedded verse RUT.1:15 found inside RUT.1:14 at line 22",
-        "V9   Embedded verse RUT.1:17 found inside RUT.1:16 at line 23",
-        "V9   Embedded verse RUT.1:19 found inside RUT.1:18 at line 24",
-        "V9   Embedded verse RUT.1:21 found inside RUT.1:20 at line 25",
-        "V9   Embedded verse RUT.2:2 found inside RUT.2:1 at line 31",
-        "V9   Embedded verse RUT.2:4 found inside RUT.2:3 at line 32",
-        "V9   Embedded verse RUT.2:7 found inside RUT.2:6 at line 34",
-        "V9   Embedded verse RUT.2:9 found inside RUT.2:8 at line 35",
-        "V9   Embedded verse RUT.2:12 found inside RUT.2:11 at line 37",
-        "V9   Embedded verse RUT.2:15 found inside RUT.2:14 at line 39",
-        "V9   Embedded verse RUT.2:16 found inside RUT.2:14 at line 39",
-        "V9   Embedded verse RUT.2:18 found inside RUT.2:17 at line 40",
-        "V9   Embedded verse RUT.2:19 found inside RUT.2:17 at line 40",
-        "V9   Embedded verse RUT.3:3 found inside RUT.3:2 at line 50",
-        "V9   Embedded verse RUT.3:4 found inside RUT.3:2 at line 50",
-        "V9   Embedded verse RUT.3:7 found inside RUT.3:6 at line 52",
-        "V9   Embedded verse RUT.3:8 found inside RUT.3:6 at line 52",
-        "V9   Embedded verse RUT.3:9 found inside RUT.3:6 at line 52",
-        "V9   Embedded verse RUT.3:11 found inside RUT.3:10 at line 53",
-        "V9   Embedded verse RUT.3:12 found inside RUT.3:10 at line 53",
-        "V9   Embedded verse RUT.3:13 found inside RUT.3:10 at line 53",
-        "V9   Embedded verse RUT.3:16 found inside RUT.3:15 at line 55",
-        "V9   Embedded verse RUT.3:17 found inside RUT.3:15 at line 55",
-        "V9   Embedded verse RUT.4:3 found inside RUT.4:2 at line 63",
-        "V9   Embedded verse RUT.4:4 found inside RUT.4:2 at line 63",
-        "V9   Embedded verse RUT.4:8 found inside RUT.4:7 at line 66",
-        "V9   Embedded verse RUT.4:9 found inside RUT.4:7 at line 66",
-        "V9   Embedded verse RUT.4:10 found inside RUT.4:7 at line 66",
-        "V9   Embedded verse RUT.4:12 found inside RUT.4:11 at line 67",
-        "V9   Embedded verse RUT.4:14 found inside RUT.4:13 at line 68",
-        "V9   Embedded verse RUT.4:15 found inside RUT.4:13 at line 68"
-      ]
+      "status": "PASS",
+      "messages": []
     },
     "V10": {
-      "status": "WARN",
-      "messages": [
-        "V10  Absorbed content: RUT.1:3 likely present in RUT.1:2 (Brenton word match: 5/6 = 83%)",
-        "V10  Absorbed content: RUT.1:4 likely present in RUT.1:2 (Brenton word match: 14/16 = 88%)",
-        "V10  Absorbed content: RUT.1:6 likely present in RUT.1:5 (Brenton word match: 14/16 = 88%)",
-        "V10  Absorbed content: RUT.1:7 likely present in RUT.1:5 (Brenton word match: 8/11 = 73%)",
-        "V10  Absorbed content: RUT.1:8 likely present in RUT.1:5 (Brenton word match: 14/16 = 88%)",
-        "V10  Absorbed content: RUT.1:9 likely present in RUT.1:5 (Brenton word match: 15/15 = 100%)",
-        "V10  Absorbed content: RUT.1:10 likely present in RUT.1:5 (Brenton word match: 6/7 = 86%)",
-        "V10  Absorbed content: RUT.1:12 likely present in RUT.1:11 (Brenton word match: 9/10 = 90%)",
-        "V10  Absorbed content: RUT.1:13 likely present in RUT.1:11 (Brenton word match: 16/22 = 73%)",
-        "V10  Absorbed content: RUT.1:15 likely present in RUT.1:14 (Brenton word match: 9/13 = 69%)",
-        "V10  Absorbed content: RUT.1:17 likely present in RUT.1:16 (Brenton word match: 11/18 = 61%)",
-        "V10  Absorbed content: RUT.1:19 likely present in RUT.1:18 (Brenton word match: 16/23 = 70%)",
-        "V10  Absorbed content: RUT.1:21 likely present in RUT.1:20 (Brenton word match: 10/13 = 77%)",
-        "V10  Absorbed content: RUT.2:2 likely present in RUT.2:1 (Brenton word match: 7/17 = 41%)",
-        "V10  Absorbed content: RUT.2:4 likely present in RUT.2:3 (Brenton word match: 11/14 = 79%)",
-        "V10  Absorbed content: RUT.2:7 likely present in RUT.2:6 (Brenton word match: 12/18 = 67%)",
-        "V10  Absorbed content: RUT.2:9 likely present in RUT.2:8 (Brenton word match: 17/31 = 55%)",
-        "V10  Absorbed content: RUT.2:12 likely present in RUT.2:11 (Brenton word match: 11/16 = 69%)",
-        "V10  Absorbed content: RUT.2:15 likely present in RUT.2:14 (Brenton word match: 8/11 = 73%)",
-        "V10  Absorbed content: RUT.2:18 likely present in RUT.2:17 (Brenton word match: 15/19 = 79%)",
-        "V10  Absorbed content: RUT.2:19 likely present in RUT.2:17 (Brenton word match: 16/26 = 62%)",
-        "V10  Absorbed content: RUT.3:3 likely present in RUT.3:2 (Brenton word match: 7/15 = 47%)",
-        "V10  Absorbed content: RUT.3:4 likely present in RUT.3:2 (Brenton word match: 13/27 = 48%)",
-        "V10  Absorbed content: RUT.3:7 likely present in RUT.3:6 (Brenton word match: 6/14 = 43%)",
-        "V10  Absorbed content: RUT.3:8 likely present in RUT.3:6 (Brenton word match: 5/9 = 56%)",
-        "V10  Absorbed content: RUT.3:11 likely present in RUT.3:10 (Brenton word match: 9/14 = 64%)",
-        "V10  Absorbed content: RUT.3:13 likely present in RUT.3:10 (Brenton word match: 13/23 = 57%)",
-        "V10  Absorbed content: RUT.3:16 likely present in RUT.3:15 (Brenton word match: 9/9 = 100%)",
-        "V10  Absorbed content: RUT.3:17 likely present in RUT.3:15 (Brenton word match: 7/8 = 88%)",
-        "V10  Absorbed content: RUT.4:3 likely present in RUT.4:2 (Brenton word match: 11/16 = 69%)",
-        "V10  Absorbed content: RUT.4:4 likely present in RUT.4:2 (Brenton word match: 18/32 = 56%)",
-        "V10  Absorbed content: RUT.4:8 likely present in RUT.4:7 (Brenton word match: 4/8 = 50%)",
-        "V10  Absorbed content: RUT.4:9 likely present in RUT.4:7 (Brenton word match: 12/17 = 71%)",
-        "V10  Absorbed content: RUT.4:10 likely present in RUT.4:7 (Brenton word match: 21/26 = 81%)",
-        "V10  Absorbed content: RUT.4:12 likely present in RUT.4:11 (Brenton word match: 10/15 = 67%)",
-        "V10  Absorbed content: RUT.4:14 likely present in RUT.4:13 (Brenton word match: 13/15 = 87%)",
-        "V10  Absorbed content: RUT.4:15 likely present in RUT.4:13 (Brenton word match: 7/15 = 47%)"
-      ]
+      "status": "PASS",
+      "messages": []
     },
     "V11": {
       "status": "PASS",
@@ -167,5 +59,5 @@
     }
   },
   "residuals_sidecar": null,
-  "decision": "blocked"
+  "decision": "dry-run"
 }

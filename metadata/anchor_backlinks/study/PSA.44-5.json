@@ -2,15 +2,25 @@
   "anchor_id": "PSA.44:5",
   "canon_uri": "canon/OT/PSA.md#PSA.44:5",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "And stretch Your bow, and grant prosperity, and reign Because of truth, gentleness, and righteousness, And Your right hand shall guide You wondrously.",
+  "pericope": {
+    "id": "PSA.P044",
+    "title": "Psalm 44",
+    "range": "PSA.44:1-44:18",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/REV_footnotes.md",
-      "line_number": 2687,
+      "source_file": "study/footnotes/NT/REV_footnotes.md",
+      "line_number": 1658,
       "raw_match": "[[PSA.44:3]]-7",
       "reference_type": "wikilink_range",
-      "context": "righteousness\" (v. 11), judging sin (see the reaping of the harvest of 14:14-20; [[PSA.44:3]]-7;"
+      "context": "His robe dipped in blood (see [[GEN.49:11]]; Is 63:1-6) unites Christ's sacrifice on the Cross, granting forgiveness of sin and fulfilling all righteousness, with His making war \"in righteousness\" (v. 11), judging sin (see the reaping of the harvest of 14:14-20; [[PSA.44:3]]-7; WSol 18:15, 16; [[JOH.12:31]])."
     }
   ]
 }

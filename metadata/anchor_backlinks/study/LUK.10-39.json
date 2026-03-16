@@ -2,15 +2,25 @@
   "anchor_id": "LUK.10:39",
   "canon_uri": "canon/NT/LUK.md#LUK.10:39",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "And she had asister called Mary, who also sat at Jesus' afeet and heard His word.",
+  "pericope": {
+    "id": "LUK.P054",
+    "title": "Mary and Martha",
+    "range": "LUK.10:38-11:12",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/JOH_footnotes.md",
-      "line_number": 1969,
+      "source_file": "study/footnotes/NT/JOH_footnotes.md",
+      "line_number": 1255,
       "raw_match": "[[LUK.10:38]]-42",
       "reference_type": "wikilink_range",
-      "context": "Not unlike the incident of [[LUK.10:38]]-42, the two sisters react differently to Christ's"
+      "context": "Not unlike the incident of [[LUK.10:38]]-42, the two sisters react differently to Christ's arrival. Martha, being inclined to active service, rushes out to meet Jesus, while Mary remains in mourning until called by Christ (vv. 28, 29). Sitting was the traditional posture when mourning and receiving other mourners ([[JOB.2:8]], [[JOB.2:13]]; [[EZK.8:14]])."
     }
   ]
 }

@@ -819,7 +819,7 @@ compassion. Even though mankind does not understand the basis of God's decisions
 
 Man can have no complaint against God's sovereignty any more than clay can
 question the potter about how he fashions it. When we recognize our standing before
-God, the objections vanish (see Job 38:1-42:6). It is not only impossible to answer
+God, the objections vanish (see [[JOB.38:1]]-42:6). It is not only impossible to answer
 questions of this kind (vv. 22-24), but it is presumptuous to raise them (JohnChr).
 
 ### 9:22-24

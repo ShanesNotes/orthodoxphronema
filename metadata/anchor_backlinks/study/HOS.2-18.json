@@ -2,15 +2,25 @@
   "anchor_id": "HOS.2:18",
   "canon_uri": "canon/OT/HOS.md#HOS.2:18",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "In that day I will make a covenant for them With the wild beasts of the field, And with the birds of the sky, And with the reptiles of the earth. I will break the bow, the sword, and the battle from off the earth, And will cause them to dwell safely.",
+  "pericope": {
+    "id": "HOS.P010",
+    "title": "Restoration of Israel",
+    "range": "HOS.2:15-2:18",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/REV_footnotes.md",
-      "line_number": 2615,
+      "source_file": "study/footnotes/NT/REV_footnotes.md",
+      "line_number": 1616,
       "raw_match": "[[HOS.2:1]]-23",
       "reference_type": "wikilink_range",
-      "context": "people (see Is 54:1-8; [[EZK.16:7]]-14; [[HOS.2:1]]-23), of Christ with His Church ([[MAT.22:1]]-14;"
+      "context": "For the use of the term Omnipotent (Gr. pantokrator), see 1:8; 4:8; 11:17; 15:3; 16:7, 14; 19:15; 21:22, as well as [[HOS.12:6]]; [[AMO.4:13]]. It is used in the NT only in Revelation and once in [[2CO.6:18]], in a quote from the OT. The word means \"almighty, all-powerful.\" 19:6-9 At the Passover, deliverance from Egypt--the \"Babylon\" of Moses' day--was united with the theme of Israel's betrothal to the Lord (for further nuptial imagery, see Song of Songs; [[HOS.2:19]]; [[ROM.7:1]]-6). For marriage is a symbol of the union of God with His people (see Is 54:1-8; [[EZK.16:7]]-14; [[HOS.2:1]]-23), of Christ with His Church ([[MAT.22:1]]-14; [[2CO.11:2]]; [[EPH.5:22]]-32). This union is fulfilled in the rest of Revelation: Jesus, the Passover Lamb ([[1CO.5:7]]) whose death has ransomed the New Israel, is also the divine Bridegroom ([[MAT.22:2]]; 25:1-13). A wedding in the Middle East consisted of two parts: the betrothal and the wedding proper. The wedding itself began with the procession of the groom to the bride's home and concluded with the procession of all back to the bridegroom's home for the wedding supper. By analogy, the Church is now betrothed to Christ by faith. She awaits the coming of the Bridegroom for the marriage supper of the Lamb (v. 9), the final eschatological union of Christ and His Church. The recompense to the faithful for having remained steadfast and pure under persecution (see [[MAT.5:12]]; [[1PE.4:13]]) is to be clothed with fine linen, clean and bright (v. 8; see 3:4, 5; 7:14)--the clothes of grace, holiness, and incorruption--and to participate in this mystical supper both as guest (v. 9) and as bride (in apocalyptic literature it is not uncommon to find mixed images). This supper has already begun in the Eucharist, a foretaste of the Kingdom (see [[MAT.26:29]]; [[LUK.13:29]]; 22:30). The Orthodox sing on Pascha (Easter): \"Shine, shine, O New Jerusalem; the glory of the Lord has shone on you.... Grant that we may evermore perfectly partake of You in the never-ending Day of Your Kingdom.\""
     }
   ]
 }

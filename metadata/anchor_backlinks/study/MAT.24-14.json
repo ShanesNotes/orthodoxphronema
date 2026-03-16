@@ -2,29 +2,39 @@
   "anchor_id": "MAT.24:14",
   "canon_uri": "canon/NT/MAT.md#MAT.24:14",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "And this gospel of the kingdom will be preached in all the world as a witness to all the nations, and then the end will come.",
+  "pericope": {
+    "id": "MAT.P077",
+    "title": "The Great Tribulation",
+    "range": "MAT.24:14-24:47",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/2PE_footnotes.md",
-      "line_number": 275,
+      "source_file": "study/footnotes/NT/2PE_footnotes.md",
+      "line_number": 178,
       "raw_match": "[[MAT.24:14]]",
       "reference_type": "wikilink",
-      "context": "day. How? Through evangelism ([[MAT.24:14]]; [[MRK.13:10]]), prayer (especially the Lord's"
+      "context": "Because this world will pass away, we ought to be holy (v. 11) and godly, living as citizens of the new heaven and earth. Christians can actually hasten the coming of that day. How? Through evangelism ([[MAT.24:14]]; [[MRK.13:10]]), prayer (especially the Lord's Prayer, \"Thy Kingdom come\"), holy living ([[1PE.2:12]]), and repentance and obedience (Acts 3:19-21)."
     },
     {
-      "source_file": "staging/validated/OT/ISA_footnotes.md",
-      "line_number": 657,
+      "source_file": "study/footnotes/OT/ISA_footnotes.md",
+      "line_number": 495,
       "raw_match": "[[MAT.24:7]]-29",
       "reference_type": "wikilink_range",
       "context": "These verses are echoed in Christ's teaching about the end times (see [[MAT.24:7]]-29)."
     },
     {
-      "source_file": "staging/validated/OT/NUM_footnotes.md",
-      "line_number": 38,
+      "source_file": "study/footnotes/OT/NUM_footnotes.md",
+      "line_number": 28,
       "raw_match": "[[MAT.24:14]]",
       "reference_type": "wikilink",
-      "context": "kingdom will be fully established ([[MAT.24:14]])."
+      "context": "The Lord commanded a census to be taken in Israel to draft an army for war. This census shows the militant nature of Israel in warfare. Israel was a type of the Church, \"the Israel of God\" ([[GAL.6:16]]; see [[ROM.2:28]], [[ROM.2:29]]), and the Church is also militant. However, the warfare of the Church is spiritual and evangelistic in nature ([[EPH.6:10]]-20). The spiritual enemies are the sinful passions, death, and the devil. Evangelism is to bring as many as will come into the kingdom of God and is to continue up to the end, when the kingdom will be fully established ([[MAT.24:14]])."
     }
   ]
 }

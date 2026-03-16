@@ -2,15 +2,25 @@
   "anchor_id": "DEU.32:41",
   "canon_uri": "canon/OT/DEU.md#DEU.32:41",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "for I whet My sword like lightning; And My hand takes hold on judgment. I will render vengeance on My enemies, And repay those who hate Me.",
+  "pericope": {
+    "id": "DEU.P066",
+    "title": "The Song of Moses",
+    "range": "DEU.31:29-32:42",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/REV_footnotes.md",
-      "line_number": 2107,
+      "source_file": "study/footnotes/NT/REV_footnotes.md",
+      "line_number": 1302,
       "raw_match": "[[DEU.32:1]]-43",
       "reference_type": "wikilink_range",
-      "context": "3) is prefigured in the hymns of [[EXO.15:1]]-18 and [[DEU.32:1]]-43, where victory over the"
+      "context": "The victory celebration for those who refuse to submit to Antichrist, perhaps a hymn used in the liturgy of the early Church. In contrast to the idolatry of the beast, this hymn emphasizes the worthiness of the true God. The song of Moses and the Lamb (v. 3) is prefigured in the hymns of [[EXO.15:1]]-18 and [[DEU.32:1]]-43, where victory over the oppression of Pharaoh and the Egyptians is celebrated. The Jews incorporated these into the Sabbath liturgy, and the Church also sings them at various times of the year (for example, in Matins, and in the Vespers of Holy Saturday). The Church sings this song of the Lamb in baptism and at the Great Blessing of Water."
     }
   ]
 }

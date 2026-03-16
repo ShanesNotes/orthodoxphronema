@@ -2,15 +2,25 @@
   "anchor_id": "MAT.5:7",
   "canon_uri": "canon/NT/MAT.md#MAT.5:7",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Blessed are the merciful, For they shall obtain mercy.",
+  "pericope": {
+    "id": "MAT.P011",
+    "title": "The Beatitudes: The Blessings of True Discipleship",
+    "range": "MAT.4:25-5:15",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/JOB_footnotes.md",
-      "line_number": 552,
+      "source_file": "study/footnotes/OT/JOB_footnotes.md",
+      "line_number": 441,
       "raw_match": "[[MAT.5:7]]",
       "reference_type": "wikilink",
-      "context": "\"Who then are the 'merciful' ([[MAT.5:7]])? Those who give money or feed the poor? No. But who are they? Those who have become poor for the sake of Him who became poor for"
+      "context": "\"Who then are the 'merciful' ([[MAT.5:7]])? Those who give money or feed the poor? No. But who are they? Those who have become poor for the sake of Him who became poor for our sakes (see [[2CO.8:9]])\" (SymNew). These have nothing material to give, yet they constantly weep with compassion over the man in distress."
     }
   ]
 }

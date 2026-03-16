@@ -2,29 +2,39 @@
   "anchor_id": "EPH.2:16",
   "canon_uri": "canon/NT/EPH.md#EPH.2:16",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "and that He might reconcile them both to God in one body through the cross, thereby putting to death the enmity.",
+  "pericope": {
+    "id": "EPH.P006",
+    "title": "The Means of Union",
+    "range": "EPH.2:12-2:18",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/LUK_footnotes.md",
-      "line_number": 413,
+      "source_file": "study/footnotes/NT/LUK_footnotes.md",
+      "line_number": 271,
       "raw_match": "[[EPH.2:14]]-16",
       "reference_type": "wikilink_range",
-      "context": "[[EPH.2:14]]-16)."
+      "context": "The message of the first angel is confirmed by the multitude, fulfilling the Law in which every word is established with two or three witnesses ([[DEU.19:15]]). Christ Himself is our peace who has come to earth; in Him, man is no longer estranged from God (see [[EPH.2:14]]-16)."
     },
     {
-      "source_file": "staging/validated/NT/MAT_footnotes.md",
-      "line_number": 709,
+      "source_file": "study/footnotes/NT/MAT_footnotes.md",
+      "line_number": 459,
       "raw_match": "[[EPH.2:14]]-16",
       "reference_type": "wikilink_range",
-      "context": "Prince of peace (Is 9:6; [[EPH.2:14]]-16). The Holy Spirit gives peace to those who imitate"
+      "context": "Being the source of peace, Christ found no price sufficient for peace other than shedding His own blood. In doing so, Christ reveals Himself to us as the Reconciler, the Prince of peace (Is 9:6; [[EPH.2:14]]-16). The Holy Spirit gives peace to those who imitate Christ. Thus, peacemakers share God's peace with those around them, imitating Christ's sacrificial love and participating in His work. By God's grace, peacemakers become sons of God themselves."
     },
     {
-      "source_file": "staging/validated/OT/GEN_footnotes.md",
-      "line_number": 729,
+      "source_file": "study/footnotes/OT/GEN_footnotes.md",
+      "line_number": 510,
       "raw_match": "[[EPH.2:11]]-16",
       "reference_type": "wikilink_range",
-      "context": "both Jews and Gentiles ([[EPH.2:11]]-16)."
+      "context": "The seed is first Christ, then His Church ([[GAL.3:16]]; [[ROM.4:16]]). The stars are a type of all the members of His body ([[PHP.2:15]]). Their number is countless, and consists of both Jews and Gentiles ([[EPH.2:11]]-16)."
     }
   ]
 }

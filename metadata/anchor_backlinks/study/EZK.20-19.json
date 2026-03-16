@@ -2,15 +2,25 @@
   "anchor_id": "EZK.20:19",
   "canon_uri": "canon/OT/EZK.md#EZK.20:19",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "I am the Lord your God. Walk in My ordinances, keep My requirements and do them.",
+  "pericope": {
+    "id": "EZK.P024",
+    "title": "The Will of the Lord, and Man's Rebellion",
+    "range": "EZK.19:14-20:43",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/DEU_articles.md",
+      "source_file": "study/articles/OT/DEU_articles.md",
       "line_number": 21,
       "raw_match": "[[EZK.20:19]]",
       "reference_type": "wikilink",
-      "context": "When the Lord commanded the Hebrews, in the fourth of the Ten Commandments, to 'Remember the Sabbath day, to keep it holy,' He also gave them the reason: 'For in six days the Lord made heaven and earth, the sea, and everything in them, and rested on the seventh day. Therefore, the Lord blessed the Sabbath day and hallowed it' ([[EXO.20:8]], [[EXO.20:11]]; cf. [[GEN.2:1]]-3). When Moses restated the Ten Commandments in Deuteronomy 5, he added another reason: 'Remember, you were a servant in the land of Egypt, and the Lord your God brought you out from there by a mighty hand and by an outstretched arm; therefore, the Lord your God ordered you to guard the Sabbath day and to sanctify it' (5:15). The Hebrews were called to 'remember' ([[EXO.20:8]]), to 'keep' (Lv 19:3, 30), and to 'hallow' or's anctify' (Jer 17:19-27; [[EZK.20:19]], [[EZK.20:20]]; [[NEH.13:15]]-22) the Sabbath by resting from almost every kind of work. God provided them this sacred time each week to help them contemplate His awesome work in creation and their miraculous deliverance from Egypt. Stipulating the faithful observance of the Sabbath was one of the main ways God ordained to reinforce the people's covenant with Him ([[EXO.31:12]]-17; cf. Lv 24:8). Originally, communal worship was not linked with Sabbath observance; but with the development of the synagogue, probably during the Hebrews' exile in Babylon (sixth century BC), the Sabbath naturally became the day for synagogue worship, as it is for the Jews today. #### Sunday, The Day Of Worship"
+      "context": "When the Lord commanded the Hebrews, in the fourth of the Ten Commandments, to 'Remember the Sabbath day, to keep it holy,' He also gave them the reason: 'For in six days the Lord made heaven and earth, the sea, and everything in them, and rested on the seventh day. Therefore, the Lord blessed the Sabbath day and hallowed it' ([[EXO.20:8]], [[EXO.20:11]]; cf. [[GEN.2:1]]-3). When Moses restated the Ten Commandments in Deuteronomy 5, he added another reason: 'Remember, you were a servant in the land of Egypt, and the Lord your God brought you out from there by a mighty hand and by an outstretched arm; therefore, the Lord your God ordered you to guard the Sabbath day and to sanctify it' (5:15). The Hebrews were called to 'remember' ([[EXO.20:8]]), to 'keep' ([[LEV.19:3]], 30), and to 'hallow' or's anctify' ([[JER.17:19]]-27; [[EZK.20:19]], [[EZK.20:20]]; [[NEH.13:15]]-22) the Sabbath by resting from almost every kind of work. God provided them this sacred time each week to help them contemplate His awesome work in creation and their miraculous deliverance from Egypt. Stipulating the faithful observance of the Sabbath was one of the main ways God ordained to reinforce the people's covenant with Him ([[EXO.31:12]]-17; cf. [[LEV.24:8]]). Originally, communal worship was not linked with Sabbath observance; but with the development of the synagogue, probably during the Hebrews' exile in Babylon (sixth century BC), the Sabbath naturally became the day for synagogue worship, as it is for the Jews today. #### Sunday, The Day Of Worship"
     }
   ]
 }

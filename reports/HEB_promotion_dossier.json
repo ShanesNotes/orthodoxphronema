@@ -1,8 +1,8 @@
 {
   "book_code": "HEB",
   "testament": "NT",
-  "timestamp": "2026-03-13T13:36:33.011496",
-  "registry_version": "1.4.0",
+  "timestamp": "2026-03-15T18:29:27.368044",
+  "registry_version": "1.7.6",
   "body_checksum": "1d1a46ab9fd7df450aeddfe5a58e2e4c822b352ae7f56399d2828a4ce118eea7",
   "allow_incomplete": true,
   "staged_path": "/home/ark/orthodoxphronema/staging/validated/NT/HEB.md",

@@ -1,0 +1,26 @@
+{
+  "anchor_id": "NUM.28:8",
+  "canon_uri": "canon/OT/NUM.md#NUM.28:8",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-16T02:01:16+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "The second male lamb you shall offer toward evening; and you shall offer it according to its grain offering and drink offering, as a sweet aroma to the Lord.",
+  "pericope": {
+    "id": "NUM.P064",
+    "title": "Sabbath Offerings",
+    "range": "NUM.28:8-28:9",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
+  "links": [
+    {
+      "source_file": "study/footnotes/OT/NUM_footnotes.md",
+      "line_number": 680,
+      "raw_match": "[[NUM.28:3]]-8",
+      "reference_type": "wikilink_range",
+      "context": "The Son of God spoke to Moses, and the things He spoke on this occasion cover chs. 28 and 29. These two chapters form a comprehensive, complete, and well-ordered arrangement of Israel's liturgical worship in any given calendar year. These liturgics, given in various places in Exodus, Leviticus and Numbers, are here brought together as one unified whole. And once Israel completed their conquest of Canaan, these could be put into effect. Israel's liturgical worship existed for the sanctification of the time and life of every Israelite. It sanctified time and life, because it was arranged around the number seven. Its beginning point and center was in the seventh day of the week--the Sabbath day. And the number seven was regulated according to the divisions of time established at Creation (Gn 1-11)--into days, weeks, months, years, and periods of years. Thus, the liturgical worship ascended from (1) the daily offerings ([[EXO.29:38]]-42; [[NUM.28:3]]-8),"
+    }
+  ]
+}

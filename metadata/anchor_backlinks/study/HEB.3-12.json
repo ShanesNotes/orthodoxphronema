@@ -2,15 +2,25 @@
   "anchor_id": "HEB.3:12",
   "canon_uri": "canon/NT/HEB.md#HEB.3:12",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Beware, brethren, lest there be in any of you an evil heart of unbelief in departing from the living God;",
+  "pericope": {
+    "id": "HEB.P006",
+    "title": "Beware of Faithlessness",
+    "range": "HEB.3:11-3:18",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/NUM_footnotes.md",
-      "line_number": 928,
+      "source_file": "study/footnotes/OT/NUM_footnotes.md",
+      "line_number": 626,
       "raw_match": "[[HEB.3:12]]",
       "reference_type": "wikilink",
-      "context": "of you an evil heart of unbelief in departing from the living God\" ([[HEB.3:12]]). This evil"
+      "context": "The first census of the men of war was 603,550 (1:46). From this massive number, only two survived to enter the land of promise! Why? Because they always went astray in their heart and did not know the Lord's ways ([[PSA.94:10]]; [[HEB.3:10]]). Their hearts were blinded by rebellion against the Lord, who said of them, \"They shall surely die in the desert.\" Therefore, we, too, are admonished, \"Beware, brethren, lest there be in any of you an evil heart of unbelief in departing from the living God\" ([[HEB.3:12]]). This evil heart of unbelief is equated with the sin of rebellion, which is inexcusable."
     }
   ]
 }

@@ -10,7 +10,7 @@ The `skills/` directory contains project-specific skills with executable scripts
 Current skills:
 - `text-cleaner/` — corpus-agnostic OCR/extraction cleanup (P1-P8, D1-D6, F1-F4)
 - `canon-proofreader/` — thin wrapper delegating to text-cleaner with --profile canon
-- `canon-validator/` — V1-V12 validation suite, purity audit, coordination checks
+- `canon-validator/` — V1-V13 validation suite, purity audit, coordination checks
 - `canon-spell-audit/` — detection-only aspell audit with biblical names allowlist
 
 These are bridged into `.claude/skills/` for Claude Code native discovery. The bridge skills contain frontmatter for triggering and a pointer back here.

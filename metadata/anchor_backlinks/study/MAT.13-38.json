@@ -2,22 +2,32 @@
   "anchor_id": "MAT.13:38",
   "canon_uri": "canon/NT/MAT.md#MAT.13:38",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "The field is the world, the good seeds are the sons of the kingdom, but the tares are the sons of the wicked one.",
+  "pericope": {
+    "id": "MAT.P042",
+    "title": "The Wheat and Tares Explained",
+    "range": "MAT.13:35-13:42",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/SNG_footnotes.md",
-      "line_number": 230,
+      "source_file": "study/footnotes/OT/SNG_footnotes.md",
+      "line_number": 174,
       "raw_match": "[[MAT.13:38]]",
       "reference_type": "wikilink",
-      "context": "that assist us are the angelic hosts and even the saints. The field, according to the Lord, is the world ([[MAT.13:38]]) we live in. St. Paul takes the metaphor one step further, calling us"
+      "context": "The Bridegroom addresses the faithful as daughters of Jerusalem. The powers that assist us are the angelic hosts and even the saints. The field, according to the Lord, is the world ([[MAT.13:38]]) we live in. St. Paul takes the metaphor one step further, calling us \"God's field\" ([[1CO.3:9]])."
     },
     {
-      "source_file": "staging/validated/OT/SNG_footnotes.md",
-      "line_number": 665,
+      "source_file": "study/footnotes/OT/SNG_footnotes.md",
+      "line_number": 502,
       "raw_match": "[[MAT.13:38]]",
       "reference_type": "wikilink",
-      "context": "field. Jesus taught, \"The field is the world\" ([[MAT.13:38]]). This, together with words like"
+      "context": "The Bride beckons the Bridegroom that they may go forth together into the field. Jesus taught, \"The field is the world\" ([[MAT.13:38]]). This, together with words like villages (v. 12), rise early (v. 13), the vine has flowered (v. 13), aroma (v. 14) and fruits... new and old (v. 14), suggests a prophetic description of evangelism by the apostles and the Church."
     }
   ]
 }

@@ -2,15 +2,25 @@
   "anchor_id": "LUK.13:8",
   "canon_uri": "canon/NT/LUK.md#LUK.13:8",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "But he answered and said to him, 'Sir, let it alone this year also, until I dig around it and fertilize it.",
+  "pericope": {
+    "id": "LUK.P064",
+    "title": "The Critical Time of Repentance",
+    "range": "LUK.13:5-13:8",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/JOL_footnotes.md",
-      "line_number": 305,
+      "source_file": "study/footnotes/OT/JOL_footnotes.md",
+      "line_number": 215,
       "raw_match": "[[LUK.13:6]]-9",
       "reference_type": "wikilink_range",
-      "context": "establishment of the Church (see [[ROM.11:17]]-24; [[JOH.15:1]]; [[LUK.13:6]]-9). Rain, wheat, wine, and oil refer to the food that is right for you, namely the sacraments of Holy"
+      "context": "The trees bear their fruit: In this verse Joel foreshadows the cross of Christ, the tree which bore the greatest fruit of all. The vine and the fig tree refer to the establishment of the Church (see [[ROM.11:17]]-24; [[JOH.15:1]]; [[LUK.13:6]]-9). Rain, wheat, wine, and oil refer to the food that is right for you, namely the sacraments of Holy Baptism, the Eucharist, and the sealing of the Holy Spirit."
     }
   ]
 }

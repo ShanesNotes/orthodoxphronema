@@ -2,29 +2,39 @@
   "anchor_id": "2CO.4:18",
   "canon_uri": "canon/NT/2CO.md#2CO.4:18",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "while we do not look at the things which are seen, but at the things which are not seen. For the things which are seen are temporary, but the things which are not seen are eternal.",
+  "pericope": {
+    "id": "2CO.P016",
+    "title": "The Hope of the Resurrection",
+    "range": "2CO.4:17-5:7",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/REV_footnotes.md",
-      "line_number": 383,
+      "source_file": "study/footnotes/NT/REV_footnotes.md",
+      "line_number": 236,
       "raw_match": "[[2CO.4:7]]-18",
       "reference_type": "wikilink_range",
-      "context": "16:33; [[2CO.4:7]]-18). The fruit of the tree is the spiritual food of [[1CO.10:3]], the \"medicine of"
+      "context": "The message of the Spirit to the churches is explicitly a message to all Christians. In Hebrew, \"conquering\" and \"saving\" are synonymous: Salvation is victory. He who overcomes does so by participating in Christ's victory, which is salvation. In contrast to the false Nicolaitan sect, \"overcomers\" remain faithful to Christ until the end, in spite of all obstacles. Further, they fulfill the original destiny of man by partaking of the tree of life ([[GEN.2:9]]). To eat of this tree is to receive eternal life (vv. 11, 17, 26; 3:5, 12, 21; 21:7; Jn 16:33; [[2CO.4:7]]-18). The fruit of the tree is the spiritual food of [[1CO.10:3]], the \"medicine of immortality.\" Tree of life is also an allusion to the Cross, upon which all Christians must be co-crucified with Christ ([[GAL.2:20]]), partaking in the death of Christ in order to participate in His Resurrection. The Paradise of God is heaven ([[LUK.23:43]]; [[2CO.12:2]]-4); the city of God, the New Jerusalem (see 21:1-22:5), contrasted to the original earthly paradise."
     },
     {
-      "source_file": "staging/validated/NT/ROM_footnotes.md",
-      "line_number": 1137,
+      "source_file": "study/footnotes/NT/ROM_footnotes.md",
+      "line_number": 747,
       "raw_match": "[[2CO.4:18]]",
       "reference_type": "wikilink",
-      "context": "God turns them into \"light affliction\" ([[2CO.4:17]], [[2CO.4:18]]; 12:9, 10). God has foreknowledge of"
+      "context": "The Scriptures and man's experience both bear witness that all things work together for good to those who love God. Setbacks and difficulties there will be, but God turns them into \"light affliction\" ([[2CO.4:17]], [[2CO.4:18]]; 12:9, 10). God has foreknowledge of all things. Predestined must not be understood as overpowering man's free response, for man's free will is a gift from God. Nor does the term apply to individuals. Rather this term (which can also be translated \"preordained\") means that God has a specific calling for His people from before the beginning of the world. \"God does not will evil to be done, nor does He force virtue\" (JohnDm). Based on His foreknowledge, God assures, or predestines, that those who will choose to love Him will be conformed to the image of His Son, that is, glorified."
     },
     {
-      "source_file": "staging/validated/OT/PSA_footnotes.md",
-      "line_number": 2137,
+      "source_file": "study/footnotes/OT/PSA_footnotes.md",
+      "line_number": 1299,
       "raw_match": "[[2CO.4:13]]-18",
       "reference_type": "wikilink_range",
-      "context": "(Creed). St. Paul interprets the psalm in this manner in [[2CO.4:13]]-18. The psalmist"
+      "context": "Ps 115 speaks about \"the resurrection of the dead and the life of the world to come\" (Creed). St. Paul interprets the psalm in this manner in [[2CO.4:13]]-18. The psalmist recognizes the futility of this life (every man is a liar, v. 2). But by the vision (ecstasy, v. 2) of faith, we wait for the resurrection of the dead and our future life in the kingdom of God. Our faith is the reason the death of His holy ones is precious to God (v. 5). The bonds (v. 6) of death are broken apart by our resurrection, and we will offer a sacrifice of praise (v. 7) in the world to come (O Jerusalem, v. 9). By way of foretaste, we now take up the cup of salvation (v. 4) in the Eucharist, and offer it as a sacrifice of praise (v. 7) to God."
     }
   ]
 }

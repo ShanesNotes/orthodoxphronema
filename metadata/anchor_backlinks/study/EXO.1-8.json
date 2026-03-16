@@ -2,15 +2,25 @@
   "anchor_id": "EXO.1:8",
   "canon_uri": "canon/OT/EXO.md#EXO.1:8",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "But there arose a new king over Egypt who knew not Joseph.",
+  "pericope": {
+    "id": "EXO.P001",
+    "title": "Exodus \u2014 Opening",
+    "range": "EXO.1:1-1:21",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/EZR_footnotes.md",
-      "line_number": 145,
+      "source_file": "study/footnotes/OT/EZR_footnotes.md",
+      "line_number": 115,
       "raw_match": "[[EXO.1:8]]",
       "reference_type": "wikilink",
-      "context": "people of God ([[EXO.1:8]])."
+      "context": "The discontinued work under Artaxerxes is reminiscent of the temporary captivity of Israel in Egypt when a new king arose who did not know the goodness of the people of God ([[EXO.1:8]])."
     }
   ]
 }

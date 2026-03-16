@@ -2,15 +2,25 @@
   "anchor_id": "ROM.5:7",
   "canon_uri": "canon/NT/ROM.md#ROM.5:7",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "For scarcely for arighteous man will one die; yet perhaps for good man someone would even dare to die.",
+  "pericope": {
+    "id": "ROM.P012",
+    "title": "Righteousness as a Living Reality",
+    "range": "ROM.4:24-5:20",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/DEU_footnotes.md",
-      "line_number": 749,
+      "source_file": "study/footnotes/OT/DEU_footnotes.md",
+      "line_number": 462,
       "raw_match": "[[ROM.5:6]]-8",
       "reference_type": "wikilink_range",
-      "context": "you, that you also love one another\" ([[JOH.13:34]]). Jesus loved mankind more than Himself, and He even died for His enemies ([[ROM.5:6]]-8)."
+      "context": "When a man builds a house, love of neighbor must be in his mind. For love of neighbor is the summary of the Law (Lv 19:18; [[ROM.13:9]]). Under the Law one was to love his neighbor \"as himself.\" Under Grace one is to love his neighbor more than himself, for Jesus said, \"A new commandment I give to you, that you love one another; as I have loved you, that you also love one another\" ([[JOH.13:34]]). Jesus loved mankind more than Himself, and He even died for His enemies ([[ROM.5:6]]-8)."
     }
   ]
 }

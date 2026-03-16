@@ -2,36 +2,46 @@
   "anchor_id": "JOH.4:21",
   "canon_uri": "canon/NT/JOH.md#JOH.4:21",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Jesus said to her, 'Woman, believe Me, the hour is coming when you will neither on this mountain, nor in Jerusalem, worship the Father.",
+  "pericope": {
+    "id": "JOH.P011",
+    "title": "The Preaching of John the Baptist",
+    "range": "JOH.3:21-4:44",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/REV_footnotes.md",
-      "line_number": 3019,
+      "source_file": "study/footnotes/NT/REV_footnotes.md",
+      "line_number": 1860,
       "raw_match": "[[JOH.4:21]]",
       "reference_type": "wikilink",
-      "context": "There is no temple in the old sense in the New Jerusalem ([[JOH.4:21]]). Its temple is"
+      "context": "There is no temple in the old sense in the New Jerusalem ([[JOH.4:21]]). Its temple is the presence of God in all (v. 22; [[1CO.15:28]]; [[COL.3:11]]; [[1PE.2:4]]-10). The Church itself is the temple."
     },
     {
-      "source_file": "staging/validated/OT/ISA_footnotes.md",
-      "line_number": 1647,
+      "source_file": "study/footnotes/OT/ISA_footnotes.md",
+      "line_number": 1301,
       "raw_match": "[[JOH.4:20]]-24",
       "reference_type": "wikilink_range",
-      "context": "place, filling all things\" (JohnDm; see also [[JOH.4:20]]-24)."
+      "context": "\"God, then, being immaterial and uncircumscribed, has no place. For He is His own place, filling all things\" (JohnDm; see also [[JOH.4:20]]-24)."
     },
     {
-      "source_file": "staging/validated/OT/MIC_footnotes.md",
-      "line_number": 41,
+      "source_file": "study/footnotes/OT/MIC_footnotes.md",
+      "line_number": 32,
       "raw_match": "[[JOH.4:1]]-42",
       "reference_type": "wikilink_range",
-      "context": "Samaritans were among the first to repent and receive the gospel ([[JOH.4:1]]-42). Therefore, this prophecy is ultimately fulfilled in the Church, Christ's vineyard."
+      "context": ", 7 Samaritans were among the first to repent and receive the gospel ([[JOH.4:1]]-42). Therefore, this prophecy is ultimately fulfilled in the Church, Christ's vineyard."
     },
     {
-      "source_file": "staging/validated/OT/ZEC_footnotes.md",
-      "line_number": 704,
+      "source_file": "study/footnotes/OT/ZEC_footnotes.md",
+      "line_number": 503,
       "raw_match": "[[JOH.4:21]]-24",
       "reference_type": "wikilink_range",
-      "context": "whether we worship Him in Spirit and in truth ([[JOH.4:21]]-24). Zechariah concludes with a condemnation of Egypt and all nations that do not come to"
+      "context": "The grotesque imagery of the destruction of the enemies of Jerusalem reminds the reader of the utter seriousness of God's judgment. The passage warns that those who do not come up to Jerusalem to worship the King (who is the Lord) are destined for the same fate. Sometimes we look at the judgment of God upon wicked figures and think ourselves safe from wrath because our evil is small by comparison. The fact that we are not murderers of millions does not make us safe. The standard of God's judgment is whether we worship Him in Spirit and in truth ([[JOH.4:21]]-24). Zechariah concludes with a condemnation of Egypt and all nations that do not come to Jerusalem to celebrate the Feast of Tabernacles (also called the Feast of Booths; see Lv 23:33-36). This feast was associated with covenant renewal and the deliverance of Israel. Christ is the eternal Word of God who, in the Incarnation, \"dwelt [or tabernacled] among us\" ([[JOH.1:14]]). So then, all who reject Christ and do not enter the Church to celebrate and serve Him are condemned."
     }
   ]
 }

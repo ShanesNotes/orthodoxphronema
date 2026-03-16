@@ -2,19 +2,29 @@
   "anchor_id": "MAT.24:29",
   "canon_uri": "canon/NT/MAT.md#MAT.24:29",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "'Immediately after the tribulation of those days the sun will be darkened, and the moon will not give its light; the stars will fall from heaven, and the powers of the heavens will be shaken.",
+  "pericope": {
+    "id": "MAT.P077",
+    "title": "The Great Tribulation",
+    "range": "MAT.24:14-24:47",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/REV_footnotes.md",
-      "line_number": 1121,
+      "source_file": "study/footnotes/NT/REV_footnotes.md",
+      "line_number": 693,
       "raw_match": "[[MAT.24:29]]",
       "reference_type": "wikilink",
-      "context": "descriptions of \"the day of the Lord,\" the return of Christ ([[JOL.3:3]], [[JOL.3:4]]; [[MAT.24:29]], [[MAT.24:30]]; and"
+      "context": "The sixth seal represents the cosmic disturbances that often accompany descriptions of \"the day of the Lord,\" the return of Christ ([[JOL.3:3]], [[JOL.3:4]]; [[MAT.24:29]], [[MAT.24:30]]; and parallels). People in rebellion against God (v. 15) are terror-stricken before God's judgmental wrath."
     },
     {
-      "source_file": "staging/validated/OT/ISA_footnotes.md",
-      "line_number": 657,
+      "source_file": "study/footnotes/OT/ISA_footnotes.md",
+      "line_number": 495,
       "raw_match": "[[MAT.24:7]]-29",
       "reference_type": "wikilink_range",
       "context": "These verses are echoed in Christ's teaching about the end times (see [[MAT.24:7]]-29)."

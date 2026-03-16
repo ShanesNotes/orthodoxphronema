@@ -2,15 +2,25 @@
   "anchor_id": "HEB.10:6",
   "canon_uri": "canon/NT/HEB.md#HEB.10:6",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "In burnt offerings and sacrifices for sin You had no pleasure.",
+  "pericope": {
+    "id": "HEB.P022",
+    "title": "The New Worship Accomplishes God's Will",
+    "range": "HEB.9:28-10:6",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/PSA_footnotes.md",
-      "line_number": 801,
+      "source_file": "study/footnotes/OT/PSA_footnotes.md",
+      "line_number": 483,
       "raw_match": "[[HEB.10:5]]-7",
       "reference_type": "wikilink_range",
-      "context": "Ps 39 is a prophecy of the Incarnation (vv. 7-9; see also [[HEB.10:5]]-7). In His"
+      "context": "Ps 39 is a prophecy of the Incarnation (vv. 7-9; see also [[HEB.10:5]]-7). In His Incarnation, the Lord assumed a mortal body (v. 7) and a rational soul. But here the body is emphasized, because man's body is mortal and subject to death and decay in the grave (a miserable pit, v. 3). So by His death in the body, Christ destroyed death, and by His Resurrection (brought me up and a rock, v. 3), He overcame the decay that held man's body in the grave. He was able to do all this because of the two wills in His one Person. For He willed (v. 9) by His human will and energy. And the phrase Your will (v. 9) shows that He possessed within Himself the same will and energy as God the Father, because He is \"one in essence\" with Him (Creed). Therefore, by means of His two wills and energies, He destroyed death and decay, and put a new song in the mouth of the Church (v. 4)."
     }
   ]
 }

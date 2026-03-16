@@ -2,15 +2,25 @@
   "anchor_id": "ACT.2:32",
   "canon_uri": "canon/NT/ACT.md#ACT.2:32",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "This Jesus God has raised up, of which we are all witnesses.",
+  "pericope": {
+    "id": "ACT.P007",
+    "title": "Jesus Is the Messiah",
+    "range": "ACT.2:21-2:35",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/PSA_footnotes.md",
-      "line_number": 1123,
+      "source_file": "study/footnotes/OT/PSA_footnotes.md",
+      "line_number": 678,
       "raw_match": "[[ACT.2:25]]-32",
       "reference_type": "wikilink_range",
-      "context": "15:8-11; [[ACT.2:25]]-32; 13:34-37). Verses 2-12 give the Church the hope of \"the"
+      "context": "Ps 56 prophesies the death and Resurrection of Christ (the End, v. 1). He did not corrupt (v. 1), that is, His holy body did not decay in the grave (the cave, v. 1; see also Ps 15:8-11; [[ACT.2:25]]-32; 13:34-37). Verses 2-12 give the Church the hope of \"the resurrection from the dead and the life of the world to come\" (Creed)."
     }
   ]
 }

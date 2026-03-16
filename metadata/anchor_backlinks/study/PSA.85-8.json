@@ -2,12 +2,22 @@
   "anchor_id": "PSA.85:8",
   "canon_uri": "canon/OT/PSA.md#PSA.85:8",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "There is none like You among the gods, O Lord, And there are no works like Your works.",
+  "pericope": {
+    "id": "PSA.P085",
+    "title": "Psalm 85",
+    "range": "PSA.85:1-85:17",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/ISA_footnotes.md",
-      "line_number": 1514,
+      "source_file": "study/footnotes/OT/ISA_footnotes.md",
+      "line_number": 1196,
       "raw_match": "[[PSA.85:8]]",
       "reference_type": "wikilink",
       "context": "The prophecy refers to the Incarnation, when the Son of God takes on human flesh, becoming like us. Similar passages are [[EXO.15:11]]; [[PSA.85:8]]; [[JER.10:6]], [[JER.10:7]]."

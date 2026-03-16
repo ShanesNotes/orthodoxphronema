@@ -2,15 +2,25 @@
   "anchor_id": "2CO.1:5",
   "canon_uri": "canon/NT/2CO.md#2CO.1:5",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "For as the sufferings of Christ abound in us, so our consolation also abounds through Christ.",
+  "pericope": {
+    "id": "2CO.P002",
+    "title": "Sharing Suffering, Sharing Comfort",
+    "range": "2CO.1:2-1:6",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/COL_footnotes.md",
-      "line_number": 143,
+      "source_file": "study/footnotes/NT/COL_footnotes.md",
+      "line_number": 94,
       "raw_match": "[[2CO.1:5]]",
       "reference_type": "wikilink",
-      "context": "25:40; [[LUK.10:16]]; [[JOH.15:18]]-21; [[ACT.9:1]], [[ACT.9:4]], [[ACT.9:5]]; [[ROM.8:17]]; [[2CO.1:5]]; 4:10; [[PHP.1:20]]; 3:10.)"
+      "context": "Christ and the Church are so intimately united that, as we suffer and die with Him (beginning at baptism), so Christ suffers with us in our work of reconciliation. (See Mt 25:40; [[LUK.10:16]]; [[JOH.15:18]]-21; [[ACT.9:1]], [[ACT.9:4]], [[ACT.9:5]]; [[ROM.8:17]]; [[2CO.1:5]]; 4:10; [[PHP.1:20]]; 3:10.)"
     }
   ]
 }

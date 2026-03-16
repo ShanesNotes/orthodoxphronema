@@ -1,8 +1,8 @@
 {
   "book_code": "1PE",
   "testament": "NT",
-  "timestamp": "2026-03-13T13:36:30.240407",
-  "registry_version": "1.4.0",
+  "timestamp": "2026-03-15T18:29:24.798804",
+  "registry_version": "1.7.6",
   "body_checksum": "0946783a7ae490c0979f58f25d4c6671f2b876d1b1a108e444733664b3e0eff8",
   "allow_incomplete": true,
   "staged_path": "/home/ark/orthodoxphronema/staging/validated/NT/1PE.md",
@@ -34,10 +34,8 @@
       "messages": []
     },
     "V7": {
-      "status": "WARN",
-      "messages": [
-        "V7   Completeness: 106/105 verses (101.0%); gap of -1"
-      ]
+      "status": "PASS",
+      "messages": []
     },
     "V8": {
       "status": "WARN",

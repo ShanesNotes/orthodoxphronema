@@ -2,15 +2,25 @@
   "anchor_id": "JOH.8:15",
   "canon_uri": "canon/NT/JOH.md#JOH.8:15",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "You judge according to the flesh; I judge no one.",
+  "pericope": {
+    "id": "JOH.P026",
+    "title": "Jesus, Light of the World",
+    "range": "JOH.8:12-8:29",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/LUK_footnotes.md",
-      "line_number": 1041,
+      "source_file": "study/footnotes/NT/LUK_footnotes.md",
+      "line_number": 695,
       "raw_match": "[[JOH.8:15]]",
       "reference_type": "wikilink",
-      "context": "Christ does not judge anyone ([[JOH.8:15]]; 12:47). Therefore, \"if the Teacher does not"
+      "context": "Christ does not judge anyone ([[JOH.8:15]]; 12:47). Therefore, \"if the Teacher does not judge, neither must the disciple, for the disciple is guilty of worse sins than those for which he judges others\" (CyrAl)."
     }
   ]
 }

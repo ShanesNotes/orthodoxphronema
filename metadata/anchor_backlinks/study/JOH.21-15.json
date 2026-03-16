@@ -2,22 +2,32 @@
   "anchor_id": "JOH.21:15",
   "canon_uri": "canon/NT/JOH.md#JOH.21:15",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "So when they had eaten breakfast, Jesus said to Simon Peter, 'Simon, son of Jonah, do you love Me more than these?' He said to Him, 'Yes, Lord; You know that I love You.' He said to him, 'Feed My lambs.'",
+  "pericope": {
+    "id": "JOH.P076",
+    "title": "Jesus Restores and Commissions Peter",
+    "range": "JOH.21:14-21:17",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/1PE_footnotes.md",
-      "line_number": 461,
+      "source_file": "study/footnotes/NT/1PE_footnotes.md",
+      "line_number": 305,
       "raw_match": "[[JOH.21:15]]-17",
       "reference_type": "wikilink_range",
-      "context": "(See [[JOH.21:15]]-17.) From Christ Himself and throughout the history of the Church,"
+      "context": "(See [[JOH.21:15]]-17.) From Christ Himself and throughout the history of the Church, these words have been delivered in exhortation to the shepherds or leaders of the flock (v. 2). Pastoral work is to be undertaken willingly and cheerfully, with neither financial gain nor power in mind. For faithful service is rendered on behalf of Christ, the Chief Shepherd (v. 4), and awaits an eternal crown of glory."
     },
     {
-      "source_file": "staging/validated/NT/LUK_footnotes.md",
-      "line_number": 2799,
+      "source_file": "study/footnotes/NT/LUK_footnotes.md",
+      "line_number": 1868,
       "raw_match": "[[JOH.21:15]]-17",
       "reference_type": "wikilink_range",
-      "context": "returned to Me: See [[JOH.21:15]]-17. Strengthen your brethren refers not only to the"
+      "context": "The form of you in v. 31 is plural, indicating Satan asked for all the disciples, while the you in v. 32 is singular, indicating Jesus prayed especially for Simon Peter. Because Peter's faith was the strongest, he would be tested the most. When you have returned to Me: See [[JOH.21:15]]-17. Strengthen your brethren refers not only to the other disciples, but to all the faithful until Christ returns."
     }
   ]
 }

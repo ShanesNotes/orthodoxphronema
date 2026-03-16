@@ -2,15 +2,25 @@
   "anchor_id": "LUK.4:16",
   "canon_uri": "canon/NT/LUK.md#LUK.4:16",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "So He came to Nazareth, where He had been brought up. And as His custom was, He went into the synagogue on the Sabbath day, and stood up to read.",
+  "pericope": {
+    "id": "LUK.P020",
+    "title": "Unbelief at Nazareth",
+    "range": "LUK.4:15-4:36",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/ISA_footnotes.md",
-      "line_number": 1457,
+      "source_file": "study/footnotes/OT/ISA_footnotes.md",
+      "line_number": 1153,
       "raw_match": "[[LUK.4:16]]-21",
       "reference_type": "wikilink_range",
-      "context": "It is this passage to which Jesus referred in [[LUK.4:16]]-21 when He stood in the"
+      "context": ", 2 It is this passage to which Jesus referred in [[LUK.4:16]]-21 when He stood in the synagogue and read from the prophet Isaiah. He told the people, \"Today this Scripture is fulfilled in your hearing.\" Jesus made it very clear that He is the Lord God of whom Isaiah wrote. \"Christ said: 'The Spirit of the Lord is upon Me.' And rightly did He say 'upon Me,' because He was speaking as the Son of Man. For as the Son of Man, He was anointed and sent to preach the Gospel\" (AmbM)."
     }
   ]
 }

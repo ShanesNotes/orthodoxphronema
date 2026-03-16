@@ -2,12 +2,22 @@
   "anchor_id": "LUK.5:16",
   "canon_uri": "canon/NT/LUK.md#LUK.5:16",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "So He Himself often withdrew into the wilderness and prayed.",
+  "pericope": {
+    "id": "LUK.P024",
+    "title": "Jesus Forgives Sins",
+    "range": "LUK.5:16-5:25",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/MRK_footnotes.md",
-      "line_number": 73,
+      "source_file": "study/footnotes/NT/MRK_footnotes.md",
+      "line_number": 53,
       "raw_match": "[[LUK.5:12]]-16",
       "reference_type": "wikilink_range",
       "context": "On the cleansing of the leper, see notes at [[MAT.8:1]]-4 and [[LUK.5:12]]-16."

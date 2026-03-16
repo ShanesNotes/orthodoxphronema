@@ -2,29 +2,39 @@
   "anchor_id": "2CO.10:5",
   "canon_uri": "canon/NT/2CO.md#2CO.10:5",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "casting down arguments and every high thing that exalts itself against the knowledge of God, bringing every thought into captivity to the obedience of Christ,",
+  "pericope": {
+    "id": "2CO.P028",
+    "title": "Paul's Authority in Christ",
+    "range": "2CO.10:4-10:10",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/JOH_footnotes.md",
-      "line_number": 2309,
+      "source_file": "study/footnotes/NT/JOH_footnotes.md",
+      "line_number": 1475,
       "raw_match": "[[2CO.10:5]]",
       "reference_type": "wikilink",
-      "context": "thoughts; and (2) through conceptual images, as taught in [[2CO.10:5]]. Satan influenced"
+      "context": "Supper: This account does not directly mention the Eucharist (which is clearly reflected in 6:51-59). John omits the specifics of both the Eucharist and our Lord's Baptism (see 1:19-36; 3:1-36), accounts with which his hearers would have been familiar by the time John wrote his Gospel (about AD 90). Instead, he focuses on the significance of these events. Our Lord's discourses and actions at the Last Supper reveal the mystery of His Incarnation, service, and mission to and in the world. He emphasizes in turn the disciples' own mission to the world. There are two main ways the devil influences the human heart: (1) through ideas or thoughts; and (2) through conceptual images, as taught in [[2CO.10:5]]. Satan influenced Judas in both areas. Christians are called to reject the thoughts and images suggested by the devil the moment they occur. Judas cooperated with the devil's will, not only by entertaining these thoughts, but then by carrying them out. Far from being a helpless victim, Judas was the devil's willing co-conspirator."
     },
     {
-      "source_file": "staging/validated/OT/AMO_footnotes.md",
+      "source_file": "study/footnotes/OT/AMO_footnotes.md",
+      "line_number": 45,
+      "raw_match": "[[2CO.10:5]]",
+      "reference_type": "wikilink",
+      "context": "As a lion will not roar in a forest that has no prey, so the passions will not attack the believer who brings \"every thought into captivity to the obedience of Christ\" ([[2CO.10:5]])."
+    },
+    {
+      "source_file": "study/footnotes/OT/BAR_footnotes.md",
       "line_number": 58,
-      "raw_match": "[[2CO.10:5]]",
-      "reference_type": "wikilink",
-      "context": "believer who brings \"every thought into captivity to the obedience of Christ\" ([[2CO.10:5]])."
-    },
-    {
-      "source_file": "staging/validated/OT/BAR_footnotes.md",
-      "line_number": 68,
       "raw_match": "[[2CO.10:4]]-6",
       "reference_type": "wikilink_range",
-      "context": "One of the consequences of sin is evil imaginations. In [[2CO.10:4]]-6, St. Paul"
+      "context": "One of the consequences of sin is evil imaginations. In [[2CO.10:4]]-6, St. Paul instructs us to cast them down and bring our thoughts captive to Christ our God."
     }
   ]
 }

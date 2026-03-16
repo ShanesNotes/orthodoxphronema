@@ -2,12 +2,22 @@
   "anchor_id": "MRK.14:56",
   "canon_uri": "canon/NT/MRK.md#MRK.14:56",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "For many bore false witness against Him, but their testimonies did not agree.",
+  "pericope": {
+    "id": "MRK.P055",
+    "title": "Jesus Before the Sanhedrin",
+    "range": "MRK.14:52-14:64",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/ACT_footnotes.md",
-      "line_number": 2341,
+      "source_file": "study/footnotes/NT/ACT_footnotes.md",
+      "line_number": 1504,
       "raw_match": "[[MRK.14:56]]",
       "reference_type": "wikilink",
       "context": "Compare [[MRK.14:56]], [[MRK.14:59]]."

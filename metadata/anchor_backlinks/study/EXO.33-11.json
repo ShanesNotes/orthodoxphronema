@@ -1,0 +1,26 @@
+{
+  "anchor_id": "EXO.33:11",
+  "canon_uri": "canon/OT/EXO.md#EXO.33:11",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-15T23:42:04+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Thus the Lord spoke to Moses face to face, as a man speaks to his friend. Then he would return to the camp, but his servant Joshua the son of Nun, a young man, did not depart from the tabernacle.",
+  "pericope": {
+    "id": "EXO.P072",
+    "title": "God Promises His Presence",
+    "range": "EXO.33:11-33:22",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
+  "links": [
+    {
+      "source_file": "study/lectionary-notes/OT/EXO_lectionary.md",
+      "line_number": 12,
+      "raw_match": "[[EXO.33:11]]",
+      "reference_type": "wikilink",
+      "context": "**33:11-23** \u2014 [[EXO.33:11]]\u201323; 34:4\u20136, 8: These verses are read as the second reading during the Feast of the Transfiguration."
+    }
+  ]
+}

@@ -2,15 +2,25 @@
   "anchor_id": "JOH.3:10",
   "canon_uri": "canon/NT/JOH.md#JOH.3:10",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Jesus answered and said to him, 'Are you the teacher of Israel, and do not know these things?",
+  "pericope": {
+    "id": "JOH.P010",
+    "title": "Life in the Kingdom",
+    "range": "JOH.3:9-3:20",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/MAT_footnotes.md",
-      "line_number": 3179,
+      "source_file": "study/footnotes/NT/MAT_footnotes.md",
+      "line_number": 2036,
       "raw_match": "[[JOH.3:10]]",
       "reference_type": "wikilink",
-      "context": "many times in the NT, all of which usages are inspired by God. Teacher is used in [[JOH.3:10]];"
+      "context": "Christ's warning against calling hypocrites father and teacher is not an absolute prohibition against using these terms, as some teach. These terms are applied to men many times in the NT, all of which usages are inspired by God. Teacher is used in [[JOH.3:10]]; [[ACT.13:1]]; [[1CO.12:28]]; [[EPH.4:11]]; and [[2TI.1:11]]. Father is used in [[LUK.16:24]]; [[1CO.4:15]]; and Col 3:21. Since the very early days of the Church, bishops and presbyters have been called \"father\" not because they take the place of God, but because in their fatherly care for their flocks, they lead people to God, and they exercise fatherly authority within the community."
     }
   ]
 }

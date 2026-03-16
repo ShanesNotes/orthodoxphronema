@@ -2,15 +2,25 @@
   "anchor_id": "2TI.3:17",
   "canon_uri": "canon/NT/2TI.md#2TI.3:17",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "that the man of God may be complete, thoroughly equipped for every good work.",
+  "pericope": {
+    "id": "2TI.P011",
+    "title": "The People's Defense Against Apostasy: Orthodox Preaching",
+    "range": "2TI.3:17-4:4",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/1TI_footnotes.md",
-      "line_number": 193,
+      "source_file": "study/footnotes/NT/1TI_footnotes.md",
+      "line_number": 135,
       "raw_match": "[[2TI.3:15]]-17",
       "reference_type": "wikilink_range",
-      "context": "While the Scriptures are the inspired truth of God in human words ([[2TI.3:15]]-17), the"
+      "context": "While the Scriptures are the inspired truth of God in human words ([[2TI.3:15]]-17), the Church is the pillar and ground of that truth."
     }
   ]
 }

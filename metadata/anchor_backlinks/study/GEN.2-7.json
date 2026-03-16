@@ -2,29 +2,39 @@
   "anchor_id": "GEN.2:7",
   "canon_uri": "canon/OT/GEN.md#GEN.2:7",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Then God formed man out of dust from the ground, and breathed in his face the breath of life; and man became a living soul.",
+  "pericope": {
+    "id": "GEN.P002",
+    "title": "The Garden of Eden",
+    "range": "GEN.2:7-2:24",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/JOH_footnotes.md",
-      "line_number": 1603,
-      "raw_match": "[[GEN.2:7]]",
-      "reference_type": "wikilink",
-      "context": "from the earth ([[GEN.2:7]]). Christ reveals His divinity by restoring part of creation using the"
-    },
-    {
-      "source_file": "staging/validated/OT/2MA_footnotes.md",
-      "line_number": 371,
-      "raw_match": "[[GEN.2:7]]",
-      "reference_type": "wikilink",
-      "context": "world (see [[GEN.2:7]])."
-    },
-    {
-      "source_file": "staging/validated/OT/NUM_articles.md",
+      "source_file": "study/articles/OT/NUM_articles.md",
       "line_number": 22,
       "raw_match": "[[GEN.2:7]]-9",
       "reference_type": "wikilink_range",
-      "context": "In the Gospels, Christ sometimes refers to Old Testament events that typologically pointed forward to Himself, such as the serpent in the wilderness ([[NUM.21:4]]-9; [[JOH.3:14]], [[JOH.3:15]]), the manna in the wilderness ([[EXO.16:11]]-36; [[JOH.6:30]]-35, 47-51), and Jonah's three days and nights in the belly of the great fish (Jon 2:1-11; [[MAT.12:39]], [[MAT.12:40]]). Saints Paul and Peter, writing under the inspiration of the Holy Spirit, also reveal truths found in Old Testament types, such as Adam/Christ ([[GEN.2:7]]-9, 15-17; [[1CO.15:20]]-22), Melchizedek/Christ ([[GEN.14:18]]-20; [[HEB.6:19]], [[HEB.6:20]]) and Noah and the Flood/Baptism ([[GEN.7:1]]-8:19; [[1PE.3:20]], [[1PE.3:21]]). Typological revelation further plays an important role in the hymns of the Church. For example: The bush on the mountain that was not consumed by fire ([[EXO.3:1]]-6), and the Chaldean furnace that brought refreshment as the dew ([[DAN.3:19]]-50), plainly prefigured thee, O Bride of God. For in a material womb, unconsumed thou hast received the divine and immaterial Fire (Matins, Nativity of the Theotokos). With the Old Testament looking forward to the New through types, theophanies, and prophecies, and the New, in antitypes and fulfillment, pointing back to the Old, the essential unity of the two Testaments within one comprehensive Testament is revealed. As St. Maximus observes, 'The Old and New Testaments together form a single mystery.' 'Come to Heshbon, So the city of Sihon may be built and made ready."
+      "context": "In the Gospels, Christ sometimes refers to Old Testament events that typologically pointed forward to Himself, such as the serpent in the wilderness ([[NUM.21:4]]-9; [[JOH.3:14]], [[JOH.3:15]]), the manna in the wilderness ([[EXO.16:11]]-36; [[JOH.6:30]]-35, 47-51), and Jonah's three days and nights in the belly of the great fish ([[JON.2:1]]-11; [[MAT.12:39]], [[MAT.12:40]]). Saints Paul and Peter, writing under the inspiration of the Holy Spirit, also reveal truths found in Old Testament types, such as Adam/Christ ([[GEN.2:7]]-9, 15-17; [[1CO.15:20]]-22), Melchizedek/Christ ([[GEN.14:18]]-20; [[HEB.6:19]], [[HEB.6:20]]) and Noah and the Flood/Baptism ([[GEN.7:1]]-8:19; [[1PE.3:20]], [[1PE.3:21]]). Typological revelation further plays an important role in the hymns of the Church. For example: The bush on the mountain that was not consumed by fire ([[EXO.3:1]]-6), and the Chaldean furnace that brought refreshment as the dew ([[DAN.3:19]]-50), plainly prefigured thee, O Bride of God. For in a material womb, unconsumed thou hast received the divine and immaterial Fire (Matins, Nativity of the Theotokos). With the Old Testament looking forward to the New through types, theophanies, and prophecies, and the New, in antitypes and fulfillment, pointing back to the Old, the essential unity of the two Testaments within one comprehensive Testament is revealed. As St. Maximus observes, 'The Old and New Testaments together form a single mystery.'"
+    },
+    {
+      "source_file": "study/footnotes/NT/JOH_footnotes.md",
+      "line_number": 1012,
+      "raw_match": "[[GEN.2:7]]",
+      "reference_type": "wikilink",
+      "context": "St. Irenaeus sees in this mixture of clay and saliva a type of the creation of humanity from the earth ([[GEN.2:7]]). Christ reveals His divinity by restoring part of creation using the same material with which He created humanity in the beginning."
+    },
+    {
+      "source_file": "study/footnotes/OT/2MA_footnotes.md",
+      "line_number": 316,
+      "raw_match": "[[GEN.2:7]]",
+      "reference_type": "wikilink",
+      "context": "It is the Spirit of God who gives breath and life to all people who come into the world (see [[GEN.2:7]])."
     }
   ]
 }

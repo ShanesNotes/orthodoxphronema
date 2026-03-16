@@ -2,15 +2,25 @@
   "anchor_id": "ACT.10:44",
   "canon_uri": "canon/NT/ACT.md#ACT.10:44",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "While Peter was still speaking these words, the Holy Spirit fell upon all those who heard the word.",
+  "pericope": {
+    "id": "ACT.P036",
+    "title": "The Gentile Pentecost",
+    "range": "ACT.10:43-10:47",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/EPH_footnotes.md",
-      "line_number": 113,
+      "source_file": "study/footnotes/NT/EPH_footnotes.md",
+      "line_number": 71,
       "raw_match": "[[ACT.10:44]]-48",
       "reference_type": "wikilink_range",
-      "context": "Messiah. And the outpouring of the Holy Spirit upon the Gentiles ([[ACT.10:44]]-48) was a"
+      "context": "The outpouring of the Holy Spirit was an evidence that the last times, the day of the Lord, had come. Hence, Pentecost was a proof to the Jews that Jesus indeed was the Messiah. And the outpouring of the Holy Spirit upon the Gentiles ([[ACT.10:44]]-48) was a proof they were equal to the Jews in this final age. After baptism one is sealed with the Holy Spirit, called \"chrismation.\" (The word \"seal\" is repeated by Orthodox Christians as the priest or bishop anoints the newly baptized with oil.) The guarantee (v. 14) is a first installment in kind, a down payment or earnest of what is later to be completed: we both are redeemed and shall be redeemed. 1:3-14 In the original Greek, this is all one sentence. Paul's opening theme is the preeminence of God's initiative. We say, simply, \"Blessed is the Father, and the Son, and the Holy Spirit.\" Paul's doxology is more detailed: The Father has all power (vv. 3-6); the Son, all rule (vv. 7-12); the Spirit, all caretaking (vv. 13, 14)."
     }
   ]
 }

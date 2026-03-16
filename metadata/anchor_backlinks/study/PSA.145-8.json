@@ -2,15 +2,25 @@
   "anchor_id": "PSA.145:8",
   "canon_uri": "canon/OT/PSA.md#PSA.145:8",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "The Lord restores those broken down. The Lord gives wisdom to the blind. The Lord loves the righteous.",
+  "pericope": {
+    "id": "PSA.P145",
+    "title": "Psalm 145",
+    "range": "PSA.145:1-145:10",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/JOH_footnotes.md",
-      "line_number": 1687,
+      "source_file": "study/footnotes/NT/JOH_footnotes.md",
+      "line_number": 1066,
       "raw_match": "[[PSA.145:8]]",
       "reference_type": "wikilink",
-      "context": "35:5; 42:7) and a prerogative belonging solely to God ([[PSA.145:8]])."
+      "context": "The unprecedented nature of opening the eyes of one who was born blind is a confirmation of Christ's divinity. This was one of the signs of the coming Messiah (Is 35:5; 42:7) and a prerogative belonging solely to God ([[PSA.145:8]])."
     }
   ]
 }

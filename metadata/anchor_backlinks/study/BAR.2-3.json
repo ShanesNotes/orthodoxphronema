@@ -2,19 +2,29 @@
   "anchor_id": "BAR.2:3",
   "canon_uri": "canon/OT/BAR.md#BAR.2:3",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "that a man eat the flesh of his son and the flesh of his daughter.",
+  "pericope": {
+    "id": "BAR.P004",
+    "title": "The Consequences of Israel's Sin",
+    "range": "BAR.1:19-2:9",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/JER_footnotes.md",
-      "line_number": 268,
+      "source_file": "study/footnotes/OT/JER_footnotes.md",
+      "line_number": 225,
       "raw_match": "[[BAR.2:3]]",
       "reference_type": "wikilink",
-      "context": "([[BAR.2:3]])."
+      "context": "Tophet: The place where children were being sacrificed to Molech ([[2KI.23:10]]). The sad end of this child sacrifice will be cannibalism, effected during the siege of Jerusalem ([[BAR.2:3]])."
     },
     {
-      "source_file": "staging/validated/OT/JER_footnotes.md",
-      "line_number": 702,
+      "source_file": "study/footnotes/OT/JER_footnotes.md",
+      "line_number": 567,
       "raw_match": "[[BAR.2:3]]",
       "reference_type": "wikilink",
       "context": "The sin of cannibalism was later confessed by the people of Judah (7:31; [[BAR.2:3]])."

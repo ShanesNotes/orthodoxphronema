@@ -2,15 +2,25 @@
   "anchor_id": "HEB.10:38",
   "canon_uri": "canon/NT/HEB.md#HEB.10:38",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Now the just shall live by faith; But if anyone draws back, My soul has no pleasure in him.'",
+  "pericope": {
+    "id": "HEB.P026",
+    "title": "Continue to Persevere",
+    "range": "HEB.10:31-10:38",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/HAB_footnotes.md",
-      "line_number": 127,
+      "source_file": "study/footnotes/OT/HAB_footnotes.md",
+      "line_number": 95,
       "raw_match": "[[HEB.10:38]]",
       "reference_type": "wikilink",
-      "context": "vision to arrive, despite all contrary appearances or delays. [[HEB.10:37]], [[HEB.10:38]] quotes these"
+      "context": "During tumultuous times, God first commands Habakkuk to wait patiently for His vision to arrive, despite all contrary appearances or delays. [[HEB.10:37]], [[HEB.10:38]] quotes these verses from Habakkuk to exhort its hearers to endure suffering boldly as we await the fulfillment of God's promises."
     }
   ]
 }

@@ -2,19 +2,29 @@
   "anchor_id": "2KI.1:6",
   "canon_uri": "canon/OT/2KI.md#2KI.1:6",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "They said to him, 'A man came up to meet us, and said to us, 'Go, return to the king who sent you, and say to him, 'Thus says the Lord: 'Is it because there is no God in Israel that you are going to inquire of Baal-Zebub god of Ekron? This is not true. You shall not come down from the bed to which you have gone up, but you shall surely die.' ' '",
+  "pericope": {
+    "id": "2KI.P001",
+    "title": "2 Kings \u2014 Opening",
+    "range": "2KI.1:1-1:17",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/MAT_footnotes.md",
-      "line_number": 1857,
+      "source_file": "study/footnotes/NT/MAT_footnotes.md",
+      "line_number": 1201,
       "raw_match": "[[2KI.1:2]]-16",
       "reference_type": "wikilink_range",
-      "context": "god worshipped by the Philistines ([[2KI.1:2]]-16). Here, he is called ruler of the demons"
+      "context": "Beelzebub, or Baal, was the prince of \"the dung heap\" or lord of \"the flies\"--a god worshipped by the Philistines ([[2KI.1:2]]-16). Here, he is called ruler of the demons (v. 24). The impossibility of demons fighting against themselves illustrates the irrational pride and envy of the Pharisees in their opposition to Jesus."
     },
     {
-      "source_file": "staging/validated/OT/SIR_footnotes.md",
-      "line_number": 2066,
+      "source_file": "study/footnotes/OT/SIR_footnotes.md",
+      "line_number": 1628,
       "raw_match": "[[2KI.1:2]]-17",
       "reference_type": "wikilink_range",
       "context": "Apparently a reference to King Ahaziah (see [[2KI.1:2]]-17)."

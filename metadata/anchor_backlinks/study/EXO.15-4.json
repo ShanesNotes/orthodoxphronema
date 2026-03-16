@@ -2,29 +2,39 @@
   "anchor_id": "EXO.15:4",
   "canon_uri": "canon/OT/EXO.md#EXO.15:4",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Pharaoh's chariots and army He cast into the sea; His chosen captains also were drowned in the Red Sea.",
+  "pericope": {
+    "id": "EXO.P028",
+    "title": "Crossing the Red Sea",
+    "range": "EXO.13:22-15:18",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/REV_footnotes.md",
-      "line_number": 1975,
+      "source_file": "study/footnotes/NT/REV_footnotes.md",
+      "line_number": 1220,
       "raw_match": "[[EXO.15:1]]-18",
       "reference_type": "wikilink_range",
-      "context": "see 5:8-10; [[EXO.15:1]]-18; [[PSA.32:3]]; 98:1; 149:1; Is 42:10) which only the redeemed faithful"
+      "context": "The voice from heaven that made the voice of many waters, loud thunder, and harps recalls the sounds of the temple liturgy. This voice sings a new song (v. 3; see 5:8-10; [[EXO.15:1]]-18; [[PSA.32:3]]; 98:1; 149:1; Is 42:10) which only the redeemed faithful from the earth are able to learn."
     },
     {
-      "source_file": "staging/validated/NT/REV_footnotes.md",
-      "line_number": 2107,
+      "source_file": "study/footnotes/NT/REV_footnotes.md",
+      "line_number": 1302,
       "raw_match": "[[EXO.15:1]]-18",
       "reference_type": "wikilink_range",
-      "context": "3) is prefigured in the hymns of [[EXO.15:1]]-18 and [[DEU.32:1]]-43, where victory over the"
+      "context": "The victory celebration for those who refuse to submit to Antichrist, perhaps a hymn used in the liturgy of the early Church. In contrast to the idolatry of the beast, this hymn emphasizes the worthiness of the true God. The song of Moses and the Lamb (v. 3) is prefigured in the hymns of [[EXO.15:1]]-18 and [[DEU.32:1]]-43, where victory over the oppression of Pharaoh and the Egyptians is celebrated. The Jews incorporated these into the Sabbath liturgy, and the Church also sings them at various times of the year (for example, in Matins, and in the Vespers of Holy Saturday). The Church sings this song of the Lamb in baptism and at the Great Blessing of Water."
     },
     {
-      "source_file": "staging/validated/OT/JDG_footnotes.md",
-      "line_number": 164,
+      "source_file": "study/footnotes/OT/JDG_footnotes.md",
+      "line_number": 128,
       "raw_match": "[[EXO.15:1]]-18",
       "reference_type": "wikilink_range",
-      "context": "Testament victory songs, but perhaps the most famous is Moses' song in [[EXO.15:1]]-18"
+      "context": "As was often the custom after Israel's victories, a song or psalm (v. 3) was sung, recalling the details of the conflict. This is the lengthiest and most elaborate of the Old Testament victory songs, but perhaps the most famous is Moses' song in [[EXO.15:1]]-18 celebrating deliverance from Egypt."
     }
   ]
 }

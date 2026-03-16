@@ -2,22 +2,32 @@
   "anchor_id": "1JN.4:9",
   "canon_uri": "canon/NT/1JN.md#1JN.4:9",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "In this the love of God was manifested toward us, that God has sent His only begotten Son into the world, that we might live through Him.",
+  "pericope": {
+    "id": "1JN.P008",
+    "title": "God Redeems Us in Love",
+    "range": "1JN.4:6-4:10",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/MAT_footnotes.md",
-      "line_number": 925,
+      "source_file": "study/footnotes/NT/MAT_footnotes.md",
+      "line_number": 597,
       "raw_match": "[[1JN.4:7]]-21",
       "reference_type": "wikilink_range",
-      "context": "[[1JN.4:7]]-21.)"
+      "context": "Freed from hate, sadness, and anger, we are able to receive the greatest virtue: perfect love. The love of enemies is not merely an emotion, but includes decision and action. It is to treat and see our enemies as the closest members of our own family. (See [[1JN.4:7]]-21.)"
     },
     {
-      "source_file": "staging/validated/NT/MAT_footnotes.md",
-      "line_number": 2183,
+      "source_file": "study/footnotes/NT/MAT_footnotes.md",
+      "line_number": 1410,
       "raw_match": "[[1JN.4:7]]-21",
       "reference_type": "wikilink_range",
-      "context": "service to others--these two cannot be separated (see also [[JAS.2:14]]-18; [[1JN.4:7]]-21)."
+      "context": "Christ shows that the commandment of God cannot be superseded by man's religious traditions. Devotion to God includes both obedience to His commandments and service to others--these two cannot be separated (see also [[JAS.2:14]]-18; [[1JN.4:7]]-21)."
     }
   ]
 }

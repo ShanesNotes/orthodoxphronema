@@ -2,36 +2,46 @@
   "anchor_id": "MAT.17:7",
   "canon_uri": "canon/NT/MAT.md#MAT.17:7",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "But Jesus came and touched them and said, 'Arise, and do not be afraid.'",
+  "pericope": {
+    "id": "MAT.P055",
+    "title": "The Transfiguration",
+    "range": "MAT.16:28-17:12",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/2PE_footnotes.md",
-      "line_number": 145,
-      "raw_match": "[[MAT.17:1]]-8",
-      "reference_type": "wikilink_range",
-      "context": "Transfiguration ([[MAT.17:1]]-8). What Peter is going to repeat about the second coming is the"
-    },
-    {
-      "source_file": "staging/validated/NT/REV_footnotes.md",
-      "line_number": 277,
-      "raw_match": "[[MAT.17:7]]",
-      "reference_type": "wikilink",
-      "context": "walking upon the water, [[MAT.14:27]]--\"Fear not, I AM\"; the Transfiguration, [[MAT.17:7]]). In the"
-    },
-    {
-      "source_file": "staging/validated/OT/DAN_articles.md",
+      "source_file": "study/articles/OT/DAN_articles.md",
       "line_number": 31,
       "raw_match": "[[MAT.17:1]]-9",
       "reference_type": "wikilink_range",
-      "context": "When God the Son became incarnate, this can be called an everlasting theophany. For having assumed human nature, Christ not only manifests God to the world during His earthly life ([[JOH.1:14]]; see also 14:9; [[COL.2:9]]; [[1JN.1:1]]-3), but He ascends into heaven in the same glorified flesh in which He will return at His Second Coming (see [[ACT.1:9]]-11). At the baptism of Christ ([[MAT.3:13]]-17), a further theophany occurs, as all three Persons of the Holy Trinity are made known: the Father in the voice from heaven, the Holy Spirit in the form of a dove, and the Incarnate Son. Hence, the feast day commemorating this event is known as Holy Theophany. On this day the Church sings, 'When Thou, O Lord, wast baptized in the Jordan, the worship of the Trinity was made manifest.' Additionally, at Christ's Transfiguration on Mt. Tabor ([[MAT.17:1]]-9), the Father again is heard, the Holy Spirit is present in the brightness of the cloud, and the Son shines with the gleaming radiance of His Divinity. ### Apocalypticliterature *(after DAN.7:8)*"
+      "context": "When God the Son became incarnate, this can be called an everlasting theophany. For having assumed human nature, Christ not only manifests God to the world during His earthly life ([[JOH.1:14]]; see also 14:9; [[COL.2:9]]; [[1JN.1:1]]-3), but He ascends into heaven in the same glorified flesh in which He will return at His Second Coming (see [[ACT.1:9]]-11). At the baptism of Christ ([[MAT.3:13]]-17), a further theophany occurs, as all three Persons of the Holy Trinity are made known: the Father in the voice from heaven, the Holy Spirit in the form of a dove, and the Incarnate Son. Hence, the feast day commemorating this event is known as Holy Theophany. On this day the Church sings, 'When Thou, O Lord, wast baptized in the Jordan, the worship of the Trinity was made manifest.' Additionally, at Christ's Transfiguration on Mt. Tabor ([[MAT.17:1]]-9), the Father again is heard, the Holy Spirit is present in the brightness of the cloud, and the Son shines with the gleaming radiance of His Divinity. ### Apocalyptic Literature *(after DAN.7:8)*"
     },
     {
-      "source_file": "staging/validated/OT/EXO_articles.md",
+      "source_file": "study/articles/OT/EXO_articles.md",
       "line_number": 24,
       "raw_match": "[[MAT.17:1]]-8",
       "reference_type": "wikilink_range",
       "context": "Christ and Moses were friends and conversed as friends. The pre-incarnate Christ gave Moses the Law; in turn, Moses gave it to Israel ([[EXO.20:1]]-26). As the Lawgiver, Christ, not Moses, was the Author of the Law. Moses was His servant. In the New Testament, Moses and Elijah appeared with Christ on the Mount of Transfiguration, and they conversed with Him as friend with friend ([[MAT.17:1]]-8). The presence of Moses shows Christ as the fulfillment of the Law. The presence of Elijah shows Christ as the fulfillment of the Prophets. #### Contrast Between Christ And Moses"
+    },
+    {
+      "source_file": "study/footnotes/NT/2PE_footnotes.md",
+      "line_number": 97,
+      "raw_match": "[[MAT.17:1]]-8",
+      "reference_type": "wikilink_range",
+      "context": "Peter has been an eyewitness to the majesty of Christ in many ways--and here reminds us especially that he was one of those present with the Lord on the Mount of Transfiguration ([[MAT.17:1]]-8). What Peter is going to repeat about the second coming is the common apostolic tradition, which is buttressed by the eyewitness testimony of the apostles. It is not an elaborate scheme of fables, such as the Gnostics propounded. In all the Gospel accounts, the Transfiguration is a proof and foretaste of the coming of Christ in glory."
+    },
+    {
+      "source_file": "study/footnotes/NT/REV_footnotes.md",
+      "line_number": 171,
+      "raw_match": "[[MAT.17:7]]",
+      "reference_type": "wikilink",
+      "context": "Mortal humanity cannot bear the revelation of divine glory, a frequent biblical theme (see [[EXO.19:21]]; 33:20; Is 6:5). Just as he fell prostrate at Mount Tabor ([[MAT.17:6]]), so also does John here, in the presence of the glorified Savior (see [[EZK.1:27]]; [[DAN.10:7]]-9; see also 1En 14:24). Do not be afraid is a revelatory formula from the OT. As a signal for the theophany, it was carried over into the NT (see the Annunciation, [[LUK.1:30]]; Jesus walking upon the water, [[MAT.14:27]]--\"Fear not, I AM\"; the Transfiguration, [[MAT.17:7]]). In the OT God was called \"the first and the last\" (Is 44:6; 48:12), and so, too, is the Messiah. Some early heresies (e.g. Docetism) held that Jesus only seemed to die. But the Lord Himself testified, I... was dead, affirming the authenticity of His death; alive forevermore, His Resurrection--the power of which effects His lordship over death and its realm. The Orthodox icon of the resurrected Christ depicts Him with these keys (v. 18) in hand, standing triumphantly on the open gates of Hades."
     }
   ]
 }

@@ -2,15 +2,25 @@
   "anchor_id": "GAL.5:6",
   "canon_uri": "canon/NT/GAL.md#GAL.5:6",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "For in Christ Jesus neither circumcision nor uncircumcision avails anything, but faith working through love.",
+  "pericope": {
+    "id": "GAL.P018",
+    "title": "Liberty of the Apostles",
+    "range": "GAL.5:6-5:11",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/JAS_footnotes.md",
-      "line_number": 297,
+      "source_file": "study/footnotes/NT/JAS_footnotes.md",
+      "line_number": 187,
       "raw_match": "[[GAL.5:6]]",
       "reference_type": "wikilink",
-      "context": "[[JOH.14:15]]; [[GAL.5:6]]) shows that only God can save."
+      "context": "This summary of the organic relationship of faith and works (see [[MAT.7:21]]; 25:31-46; [[JOH.14:15]]; [[GAL.5:6]]) shows that only God can save."
     }
   ]
 }

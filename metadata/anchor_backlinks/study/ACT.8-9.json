@@ -2,22 +2,32 @@
   "anchor_id": "ACT.8:9",
   "canon_uri": "canon/NT/ACT.md#ACT.8:9",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "But there was a certain man called Simon, who previously practiced sorcery in the city and astonished the people of Samaria, claiming that he was someone great,",
+  "pericope": {
+    "id": "ACT.P026",
+    "title": "The Church in Samaria",
+    "range": "ACT.8:3-8:12",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/2TI_footnotes.md",
-      "line_number": 187,
+      "source_file": "study/footnotes/NT/2TI_footnotes.md",
+      "line_number": 130,
       "raw_match": "[[ACT.8:9]]-20",
       "reference_type": "wikilink_range",
-      "context": "twisted for evil and greed ([[ACT.8:9]]-20). Outward forms, even of liturgical worship, can"
+      "context": "The form and power of godliness are intended to be inseparable. We normally do not have the power of godliness without the form. Charismatic power, however, can be twisted for evil and greed ([[ACT.8:9]]-20). Outward forms, even of liturgical worship, can be carried on without power or conviction (see [[MAT.7:15]]; 24:4, 5, 24). As faith without works is a form without substance ([[JAS.2:26]]), so is religion without power. This is a stern warning to those of us committed to proper form."
     },
     {
-      "source_file": "staging/validated/NT/REV_footnotes.md",
-      "line_number": 1883,
+      "source_file": "study/footnotes/NT/REV_footnotes.md",
+      "line_number": 1166,
       "raw_match": "[[ACT.8:9]]-24",
       "reference_type": "wikilink_range",
-      "context": "([[ACT.8:9]]-24) used illusion and occult practices to make idols seem alive. This beast is"
+      "context": "With a parody of Pentecost, this monstrous cult leader is able to make fire come down from heaven on the earth by means of deception and sorcery (see Mt 24:24; [[ACT.13:6]]-12; Didache 16:3-4)--luring people into making an image to the beast (v. 14; the goddess of Rome or the emperor). Statues were often \"brought to life\" by sorcery. Irenaeus, Clement, Justin, and Eusebius note that the sorcerer Simon Magus ([[ACT.8:9]]-24) used illusion and occult practices to make idols seem alive. This beast is able to enforce the sentence of death on those who will not worship him (see Nebuchadnezzar's statue in Dan 3)."
     }
   ]
 }

@@ -2,15 +2,25 @@
   "anchor_id": "JOH.8:59",
   "canon_uri": "canon/NT/JOH.md#JOH.8:59",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Then they took up stones to throw at Him; but Jesus hid Himself and went out of the temple, going through the midst of them, and so passed by.",
+  "pericope": {
+    "id": "JOH.P030",
+    "title": "The Man Born Blind Sees",
+    "range": "JOH.8:59-9:12",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/EXO_footnotes.md",
-      "line_number": 209,
+      "source_file": "study/footnotes/OT/EXO_footnotes.md",
+      "line_number": 156,
       "raw_match": "[[JOH.8:57]]-59",
       "reference_type": "wikilink_range",
-      "context": "up stones to stone Him, for they knew this passage in Exodus ([[JOH.8:57]]-59). He is"
+      "context": "The name I AM the Existing One is the name for the Essence of God, which is one and undivided (AthanG, JohnDm). This Essence is like a boundless sea, containing all things yet not contained by anything. The Son is eternally begotten from the Essence of the Father. When Jesus said He was the Existing One, the Jews who were listening took up stones to stone Him, for they knew this passage in Exodus ([[JOH.8:57]]-59). He is acknowledged as the Existing One in every Vespers service of the Church."
     }
   ]
 }

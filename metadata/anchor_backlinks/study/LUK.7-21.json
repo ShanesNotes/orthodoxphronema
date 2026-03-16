@@ -2,15 +2,25 @@
   "anchor_id": "LUK.7:21",
   "canon_uri": "canon/NT/LUK.md#LUK.7:21",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "And that very hour He cured many of infirmities, afflictions, and evil spirits; and to many blind He gave sight.",
+  "pericope": {
+    "id": "LUK.P032",
+    "title": "A Widow's Son Is Raised",
+    "range": "LUK.7:10-7:34",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/MAT_footnotes.md",
-      "line_number": 1703,
+      "source_file": "study/footnotes/NT/MAT_footnotes.md",
+      "line_number": 1100,
       "raw_match": "[[LUK.7:21]]",
       "reference_type": "wikilink",
-      "context": "61:1). Jesus performed these miracles in the presence of John's disciples ([[LUK.7:21]]) so they"
+      "context": "Isaiah predicted that these signs would accompany the coming of the Messiah (Is 61:1). Jesus performed these miracles in the presence of John's disciples ([[LUK.7:21]]) so they could see with their own eyes works that only the Messiah could do."
     }
   ]
 }

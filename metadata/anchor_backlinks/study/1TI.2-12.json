@@ -2,15 +2,25 @@
   "anchor_id": "1TI.2:12",
   "canon_uri": "canon/NT/1TI.md#1TI.2:12",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "And I do not permit a woman to teach or to have authority over a man, but to be in silence.",
+  "pericope": {
+    "id": "1TI.P008",
+    "title": "Faithful Lives Fitting for Prayer",
+    "range": "1TI.2:5-2:15",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/1CO_footnotes.md",
-      "line_number": 1295,
+      "source_file": "study/footnotes/NT/1CO_footnotes.md",
+      "line_number": 862,
       "raw_match": "[[1TI.2:12]]",
       "reference_type": "wikilink",
-      "context": "simply converse (see also [[1TI.2:12]]). With the spiritual gifts (12:12-27), all are equal in"
+      "context": "An early tradition in the Church is that women shall keep silent and not talk during the Liturgy. While they are permitted to prophesy (11:5) they are not allowed to simply converse (see also [[1TI.2:12]]). With the spiritual gifts (12:12-27), all are equal in Christ, while the order of the original creation remains in the new creation."
     }
   ]
 }

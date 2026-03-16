@@ -2,29 +2,39 @@
   "anchor_id": "MAT.21:42",
   "canon_uri": "canon/NT/MAT.md#MAT.21:42",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "Jesus said to them, 'Have you never read in the Scriptures: 'The stone which the builders rejected Has become the chief cornerstone.",
+  "pericope": {
+    "id": "MAT.P071",
+    "title": "Leaders Mistreat God's Messengers",
+    "range": "MAT.21:32-21:45",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/EZR_footnotes.md",
-      "line_number": 105,
+      "source_file": "study/footnotes/OT/EZR_footnotes.md",
+      "line_number": 85,
       "raw_match": "[[MAT.21:42]]",
       "reference_type": "wikilink",
-      "context": "the Church ([[MAT.21:42]]; [[1CO.3:9]]-17; [[EPH.2:19]]-22)."
+      "context": "The young Levites together with the sons of Judah begin to lay the foundation for the temple. This is fulfilled through Jesus Christ and His apostles in the building of the Church ([[MAT.21:42]]; [[1CO.3:9]]-17; [[EPH.2:19]]-22)."
     },
     {
-      "source_file": "staging/validated/OT/GEN_footnotes.md",
-      "line_number": 1528,
+      "source_file": "study/footnotes/OT/GEN_footnotes.md",
+      "line_number": 1111,
       "raw_match": "[[MAT.21:42]]-44",
       "reference_type": "wikilink_range",
       "context": "The stone is Christ, the foundation stone of the Church ([[MAT.21:42]]-44; [[MRK.12:10]]; [[LUK.20:17]], [[LUK.20:18]]; [[ACT.4:11]]; [[ROM.9:32]], [[ROM.9:33]]; [[1CO.3:10]], [[1CO.3:11]]; [[1PE.2:4]]-8). The oil signifies Christ, whose human nature was anointed by the Holy Spirit ([[MAT.1:18]]; 3:16; [[HEB.1:9]])."
     },
     {
-      "source_file": "staging/validated/OT/PSA_footnotes.md",
-      "line_number": 2181,
+      "source_file": "study/footnotes/OT/PSA_footnotes.md",
+      "line_number": 1325,
       "raw_match": "[[MAT.21:42]]",
       "reference_type": "wikilink",
-      "context": "the fear of man; (2) vv. 22, 23 (quoted in [[MAT.21:42]]; [[MRK.12:10]], [[MRK.12:11]]; [[LUK.20:17]]; [[ACT.4:11]]),"
+      "context": "Ps 117 sets forth the theme, Give thanks to the Lord, for He is good; for His mercy endures forever (vv. 1-4, 29). Verses 5-28 are rich in teaching and give many reasons we are to give thanks to the Lord Jesus Christ for the salvation He provided us through His sufferings, death, and Resurrection (v. 28). The following verses are some of the reasons for thanksgiving: (1) v. 6 (quoted in [[HEB.13:6]]) emphasizes deliverance from the fear of man; (2) vv. 22, 23 (quoted in [[MAT.21:42]]; [[MRK.12:10]], [[MRK.12:11]]; [[LUK.20:17]]; [[ACT.4:11]]), show the Lord becoming the Chief Cornerstone of the Church; (3) v. 24 reveals the exceeding joy of the Resurrection; and (4) vv. 25, 26 (quoted in [[MAT.21:9]]; [[MRK.11:9]]; Lk 19:38) refer to the original Palm Sunday."
     }
   ]
 }

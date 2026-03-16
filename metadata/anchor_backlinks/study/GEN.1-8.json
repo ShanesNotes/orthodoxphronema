@@ -2,22 +2,32 @@
   "anchor_id": "GEN.1:8",
   "canon_uri": "canon/OT/GEN.md#GEN.1:8",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "So God called the firmament Heaven, and God saw that it was good; and there was evening and morning, the second day.",
+  "pericope": {
+    "id": "GEN.P001",
+    "title": "Genesis \u2014 Opening",
+    "range": "GEN.1:1-2:6",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/JOH_footnotes.md",
-      "line_number": 237,
+      "source_file": "study/footnotes/NT/JOH_footnotes.md",
+      "line_number": 147,
       "raw_match": "[[GEN.1:6]]-8",
       "reference_type": "wikilink_range",
-      "context": "second day in [[GEN.1:6]]-8."
+      "context": "Here the theological Prologue has concluded with 1:18, and the focus shifts to the beginnings of Christ's ministry: the witness of John the Baptist (1:19-34); the calling of the first apostles (1:35-51); Christ's first sign at Cana (2:1-11); and His rest at Capernaum (2:12). Just as John began his Gospel similarly to the opening of Genesis (\"In the beginning\"--v. 1; see [[GEN.1:1]]), so he parallels Genesis in this opening account, which covers seven consecutive days. (1) The first day (1:19-28)--John the Baptist bears witness to the Light--the Christ-- in the presence of the Jews. This parallels the creation of light on the first day in [[GEN.1:3]]- 5. (2) The second day (1:29-34)--John the Baptist declares that Christ baptizes with the Holy Spirit, which is greater than his own baptism of repentance, performed with water on earth. This parallels the separation of water above from the water below on the second day in [[GEN.1:6]]-8. (3) The third day (1:35-42)--John the Baptist sends two disciples to Christ whom Christ gathers to be His own, one of whom He declares to be the foundation of the Church (v. 42; see [[MAT.16:18]]). This parallels the gathering of the waters and the establishment of growth on the land on the third day in [[GEN.1:9]]-13. (4) The fourth day (1:43-51)--Jesus calls Philip and Nathanael, who see Christ as the true Light, the One who was revealed in the OT, a lesser light. This parallels the establishment of the lesser and greater lights governing the night and the day respectively on the fourth day in [[GEN.1:14]]-19. (5) The sixth day (2:1-11)--John does not include the events of the fifth day, but jumps to the sixth. The phrase on the third day is an expression meaning \"two days later,\" for it includes the current day in the calculation (see 2:1 and note). On this sixth day, the wedding in Cana occurs, which parallels the creation of man and woman in [[GEN.1:26]]-31. (6) The seventh day (2:12)--Jesus rests at Capernaum with His mother, His brothers, and His disciples, which parallels God resting on the seventh day in [[GEN.2:1]]- 3."
     },
     {
-      "source_file": "staging/validated/NT/REV_footnotes.md",
-      "line_number": 797,
+      "source_file": "study/footnotes/NT/REV_footnotes.md",
+      "line_number": 499,
       "raw_match": "[[GEN.1:8]]",
       "reference_type": "wikilink",
-      "context": "single open door through the vaulted firmament (see [[GEN.1:7]], [[GEN.1:8]]) allows vision into the"
+      "context": "After this does not refer to a chronological order within the text of chs. 1-4, but instead connects this next sequence with the initial vision, a vision that beholds past, present, and future as one whole. St. John writes, as it were, from inside the eye of an apocalyptic tornado, recording glimpses of the eschatological events that whirl by. The single open door through the vaulted firmament (see [[GEN.1:7]], [[GEN.1:8]]) allows vision into the depths of all mysteries, the celestial throne. Since earthly events have their origin in heaven, true insight into history can be attained only from that vantage point (see Gn 28:17; [[EZK.1:1]]; [[MRK.1:10]]; [[ACT.7:56]]; see also 1En 14:14; TLev 5:1). Come up, reminiscent of Moses' invitation from God to ascend Mt. Sinai ([[EXO.19:24]]), is a command with liturgical overtones: to enter God's sanctuary, His \"high place.\""
     }
   ]
 }

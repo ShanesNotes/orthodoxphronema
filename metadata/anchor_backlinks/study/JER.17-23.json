@@ -2,15 +2,25 @@
   "anchor_id": "JER.17:23",
   "canon_uri": "canon/OT/JER.md#JER.17:23",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "'But it shall come to pass that if you will not hear Me so as to sanctify the Sabbath days, and bear no burdens, nor enter the gates of Jerusalem on the Sabbath days, then I will kindle a fire in her gates. It will consume the streets of Jerusalem and will not be quenched.' ' '",
+  "pericope": {
+    "id": "JER.P037",
+    "title": "Potter and Clay",
+    "range": "JER.17:23-18:10",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/NT/JOH_footnotes.md",
-      "line_number": 985,
+      "source_file": "study/footnotes/NT/JOH_footnotes.md",
+      "line_number": 617,
       "raw_match": "[[JER.17:23]]",
       "reference_type": "wikilink",
-      "context": "Sabbath, this is prohibited in [[JER.17:23]] and explicitly forbidden in rabbinical teachings."
+      "context": "Although the Law itself does not specifically forbid the carrying of burdens on the Sabbath, this is prohibited in [[JER.17:23]] and explicitly forbidden in rabbinical teachings. That Christ is Lord over the Sabbath is made clear by His command (v. 8) and by the man's obedience (v. 9; see also [[MAT.12:1]]-8 and notes). As is often the case in John's Gospel, the term Jews here refers to the leaders and not to the people in general (see note at 2:18-21). Notice the malice of these leaders, for they focus solely on the Sabbath violation, asking the man, \"Who is the Man who said to you, 'Take up your bed'?\" but ignoring altogether the miraculous healing."
     }
   ]
 }

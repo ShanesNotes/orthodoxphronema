@@ -2,15 +2,25 @@
   "anchor_id": "DEU.2:6",
   "canon_uri": "canon/OT/DEU.md#DEU.2:6",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "You shall buy food from them with money, that you may eat; and you shall also buy water by the measure from them with money, that you may drink.",
+  "pericope": {
+    "id": "DEU.P005",
+    "title": "The Years in the Desert",
+    "range": "DEU.1:46-2:24",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/EZK_footnotes.md",
-      "line_number": 438,
+      "source_file": "study/footnotes/OT/EZK_footnotes.md",
+      "line_number": 410,
       "raw_match": "[[DEU.2:1]]-6",
       "reference_type": "wikilink_range",
-      "context": "[[DEU.2:1]]-6 and note."
+      "context": "Mount Seir is Edom (v. 15), where Esau, brother of Jacob, settled ([[GEN.36:8]]). See [[DEU.2:1]]-6 and note."
     }
   ]
 }

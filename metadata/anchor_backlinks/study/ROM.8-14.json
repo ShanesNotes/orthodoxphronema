@@ -2,15 +2,25 @@
   "anchor_id": "ROM.8:14",
   "canon_uri": "canon/NT/ROM.md#ROM.8:14",
   "text_tradition": "LXX",
-  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generated_at": "2026-03-16T02:01:16+00:00",
   "generator_version": "phase3-backlinks-v1",
+  "schema_version": "v2",
+  "verse_text": "For as many as are led by the Spirit of God, these are sons of God.",
+  "pericope": {
+    "id": "ROM.P018",
+    "title": "The Spirit Conveys Divine Sonship",
+    "range": "ROM.8:11-8:16",
+    "liturgical_use": []
+  },
+  "topic_threads": [],
+  "depth_available": 3,
   "links": [
     {
-      "source_file": "staging/validated/OT/DEU_footnotes.md",
-      "line_number": 1152,
+      "source_file": "study/footnotes/OT/DEU_footnotes.md",
+      "line_number": 735,
       "raw_match": "[[ROM.8:14]]-16",
       "reference_type": "wikilink_range",
-      "context": "through His Only-begotten Son and His Life-giving Spirit ([[JOH.1:12]]-14; [[ROM.8:14]]-16; Jam"
+      "context": "When the Scriptures wish to signify a son, it uses the term beget, rather than the terms make and create (AthanG). God the Father made man by bringing him from nonexistence into existence, but He begets him as a son by adoption. He adopts him through His Only-begotten Son and His Life-giving Spirit ([[JOH.1:12]]-14; [[ROM.8:14]]-16; Jam 1:18). But Moses warns God's children not to abandon the God who begot them, nor to forget the God who nourished them."
     }
   ]
 }
