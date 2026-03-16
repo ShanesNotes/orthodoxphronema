@@ -2,7 +2,7 @@
 
 **Author:** `ezra`  
 **Type:** `decision`  
-**Status:** `in_review`  
+**Status:** `ratified`  
 **Scope:** `ot canon lock`
 **Workstream:** `canon-hygiene`  
 **Phase:** `2`  

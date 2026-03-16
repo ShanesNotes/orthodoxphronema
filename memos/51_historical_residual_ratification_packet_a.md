@@ -2,7 +2,7 @@
 
 **Author:** `ezra`
 **Type:** `decision`
-**Status:** `in_review`
+**Status:** `ratified`
 **Scope:** `human ratification / residual governance / capped decision packet`
 
 ## Context

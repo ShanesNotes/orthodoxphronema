@@ -143,6 +143,38 @@
   - Marker ownership should be treated as belonging to the preceding verse boundary, not the following one.
   - `_recover_lc_splits()` comment and marker propagation logic are structurally unsafe under the observed source layout.
 
+## 2026-03-15 (NUM re-promotion audit)
+- Action: Audited NUM staging for re-promotion after 1:1 truncation fix and 6:27 recovery.
+- Scope: NUM.1:1 full text, NUM.6:27 existence, ch16/17 and ch29/30 LXX boundaries.
+- Result: **PASS — cleared for re-promotion.**
+- Verified:
+  - NUM.1:1 full verse present (ends "...saying,"); canon had truncation at "test".
+  - NUM.6:27 restored (was missing from canon, absorbed into 6:23 during extraction, fixed 2026-03-10).
+  - Ch16 ends at v35, ch17 starts at v1 (LXX numbering correct).
+  - Ch29 ends at v39, ch30 starts at v1 (LXX numbering correct).
+  - 1,288 anchors match registry v1.7.6 expectation.
+  - D1 editorial: clear (0 candidates). Residuals: 0 open.
+- Non-blocking observations:
+  - Residuals file carries registry_version 1.2.2 (historical trace, not gate input).
+- Promoted: 2026-03-15, checksum 7c372929.
+
+## 2026-03-15 (DEU re-promotion audit)
+- Action: Audited DEU staging for re-promotion after mega-line fix.
+- Scope: Chapter 29-31 region (previously fused into 7,281-char mega-line at 29:1).
+- Result: **PASS — cleared for re-promotion.**
+- Verified:
+  - Ch29 verses 1-28 each on own line, no gaps/duplicates.
+  - Ch30 verses 1-20 each on own line (registry corrected 19→20 at v1.7.5).
+  - DEU.30:19 and DEU.30:20 correctly separate.
+  - Chapter headers 29/30/31 properly placed.
+  - V1-V4, V7-V9 all PASS (962/962 anchors).
+  - Residuals sidecar: zero open items.
+  - Content integrity vs canon mega-line: text matches across all spot-checked verses.
+- Non-blocking observations:
+  - "afar land" vs "a far land" at DEU.29:21 — pre-existing OCR artifact, not introduced by fix.
+  - Em-dash normalization (hyphen vs em-dash) — pre-existing, book-wide pattern.
+- Promoted: 2026-03-15, checksum ae2dee8d.
+
 ## 2026-03-07 (team workflow review)
 - Action: Reviewed current collaboration pattern against proposed dual-agent workflow changes.
 - Recommendation:

@@ -2,7 +2,7 @@
 
 **Author:** `ark`
 **Type:** `decision`
-**Status:** `draft`
+**Status:** `ratified`
 **Scope:** Phase 3 hyperlinking architecture — governing document
 **Workstream:** `phase3-design`
 **Phase:** `3`

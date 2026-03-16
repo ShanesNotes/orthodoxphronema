@@ -1,6 +1,6 @@
 # Memo Index — Orthodox Phronema Archive
 
-> **Last updated:** 2026-03-15
+> **Last updated:** 2026-03-16
 > **Role:** Memo governance overlay
 > **Covers:** `47` top-level governance/memo files and `157` archived memo files
 > **See also:** `PROJECT_BOARD.md` for PM state and `memos/ezra_ops_board.md` for live dispatch
@@ -27,14 +27,11 @@ These memos define active policy, protocol, or default workflow. When they confl
 | `69_v11v12_activation_and_phase2_3_bootstrap.md` | `V11` / `V12` live; Phase 3 prep | — |
 | `70_workflow_consolidation.md` | Project board, memo index, research separation | — |
 | `128_foundational_purity_audit.md` | 76-book foundational purity audit; registry CVC reconciliation; study layer cleanup | — |
+| `88_phase3_ratified_spec.md` | Phase 3 governing architecture and implementation sequencing (ratified 2026-03-16) | — |
 
 ## Awaiting Human Ratification
 
-| Memo | Ask |
-|---|---|
-| `51_historical_residual_ratification_packet_a.md` | `JDG`, `1SA`, `2SA` historical residuals |
-| `88_phase3_ratified_spec.md` | Ratify the proposed governing Phase 3 document |
-| `91_ot_canon_lock_ratification_packet.md` | 17 V7-only books + `EST` disposition |
+(none)
 
 ## Phase 3 Design And Execution
 
@@ -43,11 +40,18 @@ These memos define active policy, protocol, or default workflow. When they confl
 | `67_phase3_schema_design.md` | Phase 3 schema draft |
 | `86_anchor_extraction_pipeline_research_synthesis.md` | R1 extraction pipeline (Cowork tasks) |
 | `87_duckdb_citation_graph_research_synthesis.md` | DuckDB citation graph (Cowork tasks) |
-| `88_phase3_ratified_spec.md` | Proposed governing Phase 3 spec, pending ratification |
 | `105_genesis_future_layer_seed.md` | Metadata substrate seed (prototype) |
 | `106_reference_alias_authority_and_normalization_seed.md` | Alias authority (foundation) |
 | `120_wikilink_rollout_seed_and_rev_batch.md` | Shared wikilink parser + first staged rewrite batch (`REV`) |
 | `122_wikilink_full_rollout.md` | Full staged companion wikilink normalization and Phase 3 artifact refresh |
+
+## Ratified Canon Governance
+
+| Memo | Scope | Ratified |
+|---|---|---|
+| `51_historical_residual_ratification_packet_a.md` | `JDG`, `1SA`, `2SA` historical residuals (non-blocking OSB source absences) | 2026-03-16 |
+| `91_ot_canon_lock_ratification_packet.md` | 17 V7-only OT books + `EST.4:6` disposition (OT canon now locked) | 2026-03-16 |
+| `136_osb_foundation_ratification_brief.md` | Consolidated ratification brief for memos 51, 88, 91 unblocking Phase 3 | 2026-03-16 |
 
 ## Active Operational
 
