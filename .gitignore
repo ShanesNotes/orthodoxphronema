@@ -47,3 +47,6 @@ x_article_docx.js
 
 # Virtual environment
 .venv/
+
+# Local dev scripts
+.claude/status.sh
