@@ -50,3 +50,6 @@ x_article_docx.js
 
 # Local dev scripts
 .claude/status.sh
+
+# DuckDB graph (regeneratable from Layer 2 backlink shards)
+metadata/graph/*.duckdb
