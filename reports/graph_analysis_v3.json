@@ -1,0 +1,1144 @@
+{
+  "generated_at": "2026-03-17T00:23:59.307345+00:00",
+  "schema_version": "v3",
+  "summary": {
+    "total_nodes": 6379,
+    "total_edges": 11124,
+    "books_represented": 64,
+    "liturgical_anchors": 51
+  },
+  "testament_flow": {
+    "OT\u2192OT": 2535,
+    "OT\u2192NT": 3844,
+    "NT\u2192OT": 1569,
+    "NT\u2192NT": 3176
+  },
+  "edge_type_distribution": {
+    "fulfills": 4356,
+    "instantiates": 3844,
+    "witnesses": 670,
+    "opposes": 669,
+    "echoes": 647,
+    "ascends_from": 497,
+    "descends_to": 285,
+    "comments": 125,
+    "scales_to": 31
+  },
+  "topic_thread_distribution": {
+    "christology": 4532,
+    "suffering": 2354,
+    "faith": 2230,
+    "baptism": 2011,
+    "covenant": 1979,
+    "logos": 1830,
+    "priesthood": 1776,
+    "praise": 1639,
+    "israel_church": 1610,
+    "creation_theology": 1521,
+    "repentance": 1510,
+    "resurrection": 1430,
+    "temple": 1417,
+    "mercy": 1389,
+    "prayer": 1357,
+    "kingdom": 1298,
+    "exodus_typology": 1218,
+    "eucharist": 1180,
+    "judgment": 1124,
+    "divine_word": 950,
+    "wisdom": 942,
+    "eschatology": 835,
+    "shepherd": 592,
+    "divine_light": 359,
+    "theosis": 106
+  },
+  "thread_cooccurrence_top25": {
+    "christology+suffering": 2210,
+    "christology+faith": 2056,
+    "baptism+christology": 1922,
+    "christology+covenant": 1773,
+    "christology+logos": 1708,
+    "christology+priesthood": 1570,
+    "christology+israel_church": 1533,
+    "christology+praise": 1521,
+    "christology+repentance": 1432,
+    "christology+resurrection": 1405,
+    "baptism+suffering": 1372,
+    "christology+creation_theology": 1366,
+    "faith+suffering": 1338,
+    "christology+mercy": 1298,
+    "christology+kingdom": 1246,
+    "logos+suffering": 1245,
+    "faith+logos": 1229,
+    "faith+israel_church": 1229,
+    "christology+prayer": 1220,
+    "christology+temple": 1192,
+    "baptism+faith": 1149,
+    "covenant+faith": 1146,
+    "christology+eucharist": 1145,
+    "priesthood+suffering": 1145,
+    "israel_church+suffering": 1141
+  },
+  "symbolic_patterns": {
+    "total_symbolic_edges": 11058,
+    "by_source": {
+      "pageau": 11058
+    },
+    "polarity": {
+      "light": 9404,
+      "generation": 1284,
+      "vertical": 272,
+      "luminosity": 94,
+      "origin": 4
+    },
+    "operation": {
+      "inform": 10427,
+      "ascend": 272,
+      "descend": 265,
+      "eat": 62,
+      "express": 32
+    },
+    "scale": {
+      "cosmic": 9495,
+      "individual": 721,
+      "communal": 482,
+      "intercommunal": 360
+    },
+    "theophany": {}
+  },
+  "hub_nodes_top30": [
+    {
+      "anchor": "JOH.1:14",
+      "in_degree": 25,
+      "verse_text": "And the Word became flesh and dwelt among us, and we beheld His glory, the glory as of the only bego",
+      "topic_threads": [
+        "baptism",
+        "christology",
+        "covenant",
+        "creation_theology",
+        "divine_light"
+      ],
+      "liturgical_use": []
+    },
+    {
+      "anchor": "ROM.6:3",
+      "in_degree": 16,
+      "verse_text": "Or do you not know that as many of us as were baptized into Christ Jesus were baptized into His deat",
+      "topic_threads": [
+        "baptism",
+        "christology",
+        "covenant",
+        "creation_theology",
+        "eschatology"
+      ],
+      "liturgical_use": []
+    },
+    {
+      "anchor": "ROM.6:4",
+      "in_degree": 16,
+      "verse_text": "Therefore we were buried with Him through baptism into death, that just as Christ was raised from th",
+      "topic_threads": [
+        "baptism",
+        "christology",
+        "covenant",
+        "creation_theology",
+        "eschatology"
+      ],
+      "liturgical_use": []
+    },
+    {
+      "anchor": "EPH.5:32",
+      "in_degree": 13,
+      "verse_text": "This is a great mystery, but I speak concerning Christ and the church.",
+      "topic_threads": [
+        "baptism",
+        "christology",
+        "creation_theology",
+        "eschatology",
+        "eucharist"
+      ],
+      "liturgical_use": []
+    },
+    {
+      "anchor": "JOH.1:1",
+      "in_degree": 13,
+      "verse_text": "In the beginning was the Word, and the Word was with God, and the Word was God.",
+      "topic_threads": [
+        "christology",
+        "covenant",
+        "creation_theology",
+        "divine_word",
+        "eschatology"
+      ],
+      "liturgical_use": []
+    },
+    {
+      "anchor": "1PE.2:9",
+      "in_degree": 12,
+      "verse_text": "But you are a chosen generation, a royal priesthood, a holy nation, His own special people, that you",
+      "topic_threads": [
+        "baptism",
+        "christology",
+        "covenant",
+        "creation_theology",
+        "divine_light"
+      ],
+      "liturgical_use": []
+    },
+    {
+      "anchor": "EPH.5:27",
+      "in_degree": 12,
+      "verse_text": "that He might present her to Himself a glorious church, not having spot or wrinkle or any such thing",
+      "topic_threads": [
+        "baptism",
+        "christology",
+        "creation_theology",
+        "eschatology",
+        "eucharist"
+      ],
+      "liturgical_use": []
+    },
+    {
+      "anchor": "1CO.10:4",
+      "in_degree": 11,
+      "verse_text": "and all drank the same spiritual drink. For they drank of that spiritual Rock that followed them, an",
+      "topic_threads": [
+        "baptism",
+        "christology",
+        "covenant",
+        "creation_theology",
+        "divine_light"
+      ],
+      "liturgical_use": []
+    },
+    {
+      "anchor": "EPH.5:25",
+      "in_degree": 11,
+      "verse_text": "Husbands, love your wives, just as Christ also loved the church and gave Himself for her,",
+      "topic_threads": [
+        "baptism",
+        "christology",
+        "creation_theology",
+        "eschatology",
+        "eucharist"
+      ],
+      "liturgical_use": []
+    },
+    {
+      "anchor": "EPH.5:26",
+      "in_degree": 11,
+      "verse_text": "that He might sanctify and cleanse her with the washing of water by the word,",
+      "topic_threads": [
+        "baptism",
+        "christology",
+        "creation_theology",
+        "eschatology",
+        "eucharist"
+      ],
+      "liturgical_use": []
+    },
+    {
+      "anchor": "EPH.5:30",
+      "in_degree": 11,
+      "verse_text": "For we are members of His body, of His flesh and of His bones.",
+      "topic_threads": [
+        "baptism",
+        "christology",
+        "creation_theology",
+        "eschatology",
+        "eucharist"
+      ],
+      "liturgical_use": []
+    },
+    {
+      "anchor": "EPH.6:12",
+      "in_degree": 11,
+      "verse_text": "For we do not wrestle against flesh and blood, but against principalities, against powers, against t",
+      "topic_threads": [
+        "baptism",
+        "christology",
+        "covenant",
+        "creation_theology",
+        "divine_light"
+      ],
+      "liturgical_use": []
+    },
+    {
+      "anchor": "GEN.1:26",
+      "in_degree": 11,
+      "verse_text": "Then God said, 'Let Us make man in Our image, according to Our likeness. Let them have dominion over",
+      "topic_threads": [
+        "baptism",
+        "christology",
+        "covenant",
+        "creation_theology",
+        "divine_word"
+      ],
+      "liturgical_use": []
+    },
+    {
+      "anchor": "LUK.1:35",
+      "in_degree": 11,
+      "verse_text": "And the angel answered and said to her, ' The Holy Spirit will come upon you, and the power of the H",
+      "topic_threads": [
+        "baptism",
+        "christology",
+        "covenant",
+        "creation_theology",
+        "exodus_typology"
+      ],
+      "liturgical_use": []
+    },
+    {
+      "anchor": "ROM.6:5",
+      "in_degree": 11,
+      "verse_text": "For if we have been united together in the likeness of His death, certainly we also shall be in the ",
+      "topic_threads": [
+        "baptism",
+        "christology",
+        "covenant",
+        "eschatology",
+        "exodus_typology"
+      ],
+      "liturgical_use": []
+    },
+    {
+      "anchor": "1CO.1:24",
+      "in_degree": 10,
+      "verse_text": "but to those who are called, both Jews and Greeks, Christ the power of God and the wisdom of God.",
+      "topic_threads": [
+        "baptism",
+        "christology",
+        "covenant",
+        "creation_theology",
+        "divine_word"
+      ],
+      "liturgical_use": []
+    },
+    {
+      "anchor": "1PE.2:5",
+      "in_degree": 10,
+      "verse_text": "you also, as living stones, are being built up a spiritual house, a holy priesthood, to offer up spi",
+      "topic_threads": [
+        "baptism",
+        "christology",
+        "covenant",
+        "creation_theology",
+        "divine_word"
+      ],
+      "liturgical_use": []
+    },
+    {
+      "anchor": "EPH.5:23",
+      "in_degree": 10,
+      "verse_text": "For the husband is head of the wife, as also Christ is head of the church; and He is the Savior of t",
+      "topic_threads": [
+        "baptism",
+        "christology",
+        "creation_theology",
+        "eschatology",
+        "eucharist"
+      ],
+      "liturgical_use": []
+    },
+    {
+      "anchor": "EPH.5:31",
+      "in_degree": 10,
+      "verse_text": "'For this reason a man shall leave his father and mother and be joined to his wife, and the two shal",
+      "topic_threads": [
+        "baptism",
+        "christology",
+        "creation_theology",
+        "eschatology",
+        "eucharist"
+      ],
+      "liturgical_use": []
+    },
+    {
+      "anchor": "GAL.4:4",
+      "in_degree": 10,
+      "verse_text": "But when the fullness of the time had come, God sent forth His Son, born of a woman, born under the ",
+      "topic_threads": [
+        "baptism",
+        "christology",
+        "covenant",
+        "creation_theology",
+        "eucharist"
+      ],
+      "liturgical_use": []
+    },
+    {
+      "anchor": "JOH.1:18",
+      "in_degree": 10,
+      "verse_text": "No one has seen God at any time. The only begotten Son, who is in the bosom of the Father, He has de",
+      "topic_threads": [
+        "baptism",
+        "christology",
+        "covenant",
+        "creation_theology",
+        "divine_word"
+      ],
+      "liturgical_use": []
+    },
+    {
+      "anchor": "JOH.6:55",
+      "in_degree": 10,
+      "verse_text": "For My flesh is food indeed, and My blood is drink indeed.",
+      "topic_threads": [
+        "baptism",
+        "christology",
+        "covenant",
+        "divine_word",
+        "eschatology"
+      ],
+      "liturgical_use": []
+    },
+    {
+      "anchor": "MAT.16:18",
+      "in_degree": 10,
+      "verse_text": "And I also say to you that you are Peter, and on this rock I will build My church, and the gates of ",
+      "topic_threads": [
+        "baptism",
+        "christology",
+        "covenant",
+        "creation_theology",
+        "divine_light"
+      ],
+      "liturgical_use": []
+    },
+    {
+      "anchor": "MAT.17:2",
+      "in_degree": 10,
+      "verse_text": "and He was transfigured before them. His face shone like the sun, and His clothes became as white as",
+      "topic_threads": [
+        "baptism",
+        "christology",
+        "covenant",
+        "creation_theology",
+        "divine_light"
+      ],
+      "liturgical_use": []
+    },
+    {
+      "anchor": "ROM.6:6",
+      "in_degree": 10,
+      "verse_text": "knowing this, that our old man was crucified with Him, that the body of sin might be done away with,",
+      "topic_threads": [
+        "baptism",
+        "christology",
+        "covenant",
+        "creation_theology",
+        "eschatology"
+      ],
+      "liturgical_use": []
+    },
+    {
+      "anchor": "ACT.2:38",
+      "in_degree": 9,
+      "verse_text": "Then Peter said to them, 'Repent, and let every one of you be baptized in the name of Jesus Christ f",
+      "topic_threads": [
+        "baptism",
+        "christology",
+        "covenant",
+        "creation_theology",
+        "divine_word"
+      ],
+      "liturgical_use": []
+    },
+    {
+      "anchor": "EPH.5:28",
+      "in_degree": 9,
+      "verse_text": "So husbands ought to love their own wives as their own bodies; he who loves his wife loves himself.",
+      "topic_threads": [
+        "baptism",
+        "christology",
+        "creation_theology",
+        "eschatology",
+        "eucharist"
+      ],
+      "liturgical_use": []
+    },
+    {
+      "anchor": "EPH.6:17",
+      "in_degree": 9,
+      "verse_text": "And take the helmet of salvation, and the sword of the Spirit, which is the word of God;",
+      "topic_threads": [
+        "baptism",
+        "christology",
+        "covenant",
+        "creation_theology",
+        "divine_light"
+      ],
+      "liturgical_use": []
+    },
+    {
+      "anchor": "EXO.3:14",
+      "in_degree": 9,
+      "verse_text": "Then God said to Moses, 'I AM the Existing One.' He also said, 'Thus you shall say to the children o",
+      "topic_threads": [
+        "baptism",
+        "christology",
+        "covenant",
+        "creation_theology",
+        "divine_word"
+      ],
+      "liturgical_use": []
+    },
+    {
+      "anchor": "GAL.4:5",
+      "in_degree": 9,
+      "verse_text": "to redeem those who were under the law, that we might receive the adoption as sons.",
+      "topic_threads": [
+        "baptism",
+        "christology",
+        "covenant",
+        "creation_theology",
+        "eucharist"
+      ],
+      "liturgical_use": []
+    }
+  ],
+  "liturgical_hubs": [
+    {
+      "anchor": "JOH.7:37",
+      "in_degree": 5,
+      "verse_text": "On the last day, that great day of the feast, Jesus stood and cried out, saying, 'If anyone thirsts,",
+      "liturgical_use": [
+        "Pascha",
+        "Pentecost"
+      ],
+      "topic_threads": [
+        "baptism",
+        "christology",
+        "covenant",
+        "creation_theology",
+        "divine_light"
+      ]
+    },
+    {
+      "anchor": "LUK.15:11",
+      "in_degree": 5,
+      "verse_text": "Then He said: 'A certain man had two sons.",
+      "liturgical_use": [
+        "Great Lent"
+      ],
+      "topic_threads": [
+        "christology",
+        "covenant",
+        "faith",
+        "israel_church",
+        "kingdom"
+      ]
+    },
+    {
+      "anchor": "MAT.17:1",
+      "in_degree": 5,
+      "verse_text": "Now after six days Jesus took Peter, James, and John his brother, led them up on a high mountain by ",
+      "liturgical_use": [
+        "Transfiguration"
+      ],
+      "topic_threads": [
+        "baptism",
+        "christology",
+        "covenant",
+        "divine_light",
+        "eschatology"
+      ]
+    },
+    {
+      "anchor": "GEN.1:1",
+      "in_degree": 3,
+      "verse_text": "In the beginning God made heaven and earth.",
+      "liturgical_use": [
+        "Great Lent",
+        "Vespers",
+        "Holy Saturday",
+        "Theophany",
+        "Nativity"
+      ],
+      "topic_threads": [
+        "baptism",
+        "christology",
+        "creation_theology",
+        "divine_word",
+        "faith"
+      ]
+    },
+    {
+      "anchor": "GEN.12:1",
+      "in_degree": 3,
+      "verse_text": "Now the Lord said to Abram, 'Get out of your country, from your kindred and from your father's house",
+      "liturgical_use": [
+        "Great and Holy Friday",
+        "Great Lent",
+        "Vespers"
+      ],
+      "topic_threads": [
+        "christology",
+        "covenant",
+        "creation_theology",
+        "faith",
+        "israel_church"
+      ]
+    },
+    {
+      "anchor": "GEN.22:1",
+      "in_degree": 3,
+      "verse_text": "Now it came to pass after these things that God tested Abraham, and said to him, \u201cAbraham! Abraham!\u201d",
+      "liturgical_use": [
+        "Great and Holy Friday",
+        "Great Lent",
+        "Vespers"
+      ],
+      "topic_threads": [
+        "christology",
+        "covenant",
+        "creation_theology",
+        "exodus_typology",
+        "faith"
+      ]
+    },
+    {
+      "anchor": "JOH.11:1",
+      "in_degree": 3,
+      "verse_text": "Now a certain man was sick, Lazarus of Bethany, the town of Mary and her sister Martha.",
+      "liturgical_use": [
+        "Palm Sunday"
+      ],
+      "topic_threads": [
+        "christology",
+        "resurrection",
+        "suffering"
+      ]
+    },
+    {
+      "anchor": "MAT.25:31",
+      "in_degree": 3,
+      "verse_text": "'When the Son of Man comes in His glory, and all the holy angels with Him, then He will sit on the t",
+      "liturgical_use": [
+        "Great Lent"
+      ],
+      "topic_threads": [
+        "christology",
+        "faith",
+        "kingdom",
+        "shepherd",
+        "suffering"
+      ]
+    },
+    {
+      "anchor": "GEN.1:14",
+      "in_degree": 2,
+      "verse_text": "Then God said, 'Let there be lights in the firmament of heaven for illumination to divide day from n",
+      "liturgical_use": [
+        "Great Lent",
+        "Vespers"
+      ],
+      "topic_threads": [
+        "baptism",
+        "christology",
+        "creation_theology",
+        "divine_word",
+        "faith"
+      ]
+    },
+    {
+      "anchor": "GEN.4:8",
+      "in_degree": 2,
+      "verse_text": "Now Cain talked with Abel his brother; and it came to pass, when they were in the field, that Cain r",
+      "liturgical_use": [
+        "Great Lent",
+        "Vespers"
+      ],
+      "topic_threads": [
+        "faith"
+      ]
+    },
+    {
+      "anchor": "JOH.20:19",
+      "in_degree": 2,
+      "verse_text": "Then, the same day at evening, being the first day of the week, when the doors were shut where the d",
+      "liturgical_use": [
+        "Pascha"
+      ],
+      "topic_threads": [
+        "christology",
+        "resurrection"
+      ]
+    },
+    {
+      "anchor": "LUK.14:16",
+      "in_degree": 2,
+      "verse_text": "Then He said to him, 'A certain man gave great supper and invited many,",
+      "liturgical_use": [
+        "Nativity"
+      ],
+      "topic_threads": [
+        "christology",
+        "covenant",
+        "faith",
+        "israel_church",
+        "kingdom"
+      ]
+    },
+    {
+      "anchor": "LUK.21:12",
+      "in_degree": 2,
+      "verse_text": "But before all these things, they will lay their hands on you and persecute you, delivering you up t",
+      "liturgical_use": [
+        "Saints"
+      ],
+      "topic_threads": [
+        "christology",
+        "covenant",
+        "eschatology",
+        "exodus_typology",
+        "faith"
+      ]
+    },
+    {
+      "anchor": "LUK.3:1",
+      "in_degree": 2,
+      "verse_text": "Now in the fifteenth year of the reign of Tiberius Caesar, Pontius Pilate being governor of Judea, H",
+      "liturgical_use": [
+        "Theophany"
+      ],
+      "topic_threads": [
+        "christology",
+        "judgment",
+        "repentance"
+      ]
+    },
+    {
+      "anchor": "MAT.24:3",
+      "in_degree": 2,
+      "verse_text": "Now as He sat on the Mount of Olives, the disciples came to Him privately, saying, 'Tell us, when wi",
+      "liturgical_use": [
+        "Pascha"
+      ],
+      "topic_threads": [
+        "christology",
+        "covenant",
+        "eschatology",
+        "exodus_typology",
+        "faith"
+      ]
+    },
+    {
+      "anchor": "MAT.24:36",
+      "in_degree": 2,
+      "verse_text": "'But of that day and hour no one knows, not even the angels of heaven, but My Father only.",
+      "liturgical_use": [
+        "Pascha"
+      ],
+      "topic_threads": [
+        "christology",
+        "covenant",
+        "eschatology",
+        "kingdom",
+        "logos"
+      ]
+    },
+    {
+      "anchor": "MAT.27:62",
+      "in_degree": 2,
+      "verse_text": "On the next day, which followed the Day of Preparation, the chief priests and Pharisees gathered tog",
+      "liturgical_use": [
+        "Orthros",
+        "Pascha",
+        "Holy Saturday"
+      ],
+      "topic_threads": [
+        "christology",
+        "priesthood"
+      ]
+    },
+    {
+      "anchor": "PSA.136:1",
+      "in_degree": 2,
+      "verse_text": "By David. By the rivers of Baby lon, There we sat and wept When we remembered Zion.",
+      "liturgical_use": [
+        "Orthros",
+        "Great Lent"
+      ],
+      "topic_threads": [
+        "christology",
+        "creation_theology",
+        "faith",
+        "logos",
+        "mercy"
+      ]
+    },
+    {
+      "anchor": "DAN.2:31",
+      "in_degree": 1,
+      "verse_text": "'As for you, O king, you saw and beheld one great image. That image was very large and its appearanc",
+      "liturgical_use": [
+        "Nativity"
+      ],
+      "topic_threads": []
+    },
+    {
+      "anchor": "DAN.3:1",
+      "in_degree": 1,
+      "verse_text": "In his eighteenth year, King Nebuchadnezzar made a golden image. Its height was sixty cubits and its",
+      "liturgical_use": [
+        "Holy Saturday"
+      ],
+      "topic_threads": []
+    }
+  ],
+  "fulfillment_chains_sample": [
+    {
+      "ot_context": "EXO",
+      "nt_target": "1CO.1:24",
+      "context_snippet": "On Mt. Sinai Moses received not only the Ten Commandments, but also precise and detailed instructions for building the tabernacle-a moveable tent-wher"
+    },
+    {
+      "ot_context": "1KI",
+      "nt_target": "1CO.1:24",
+      "context_snippet": ". King David was seventy years old here, shortly before his death (see 2Kg 5:4). 1:5 Adonijah, David's oldest living son, exalted himself to be king, "
+    },
+    {
+      "ot_context": "BAR",
+      "nt_target": "1CO.1:24",
+      "context_snippet": "This is a description of the Wisdom of God ([[1CO.1:24]])."
+    },
+    {
+      "ot_context": "EXO",
+      "nt_target": "1CO.1:24",
+      "context_snippet": "The twelve stones speak of twelve names of Christ by which our holy faith is built up. They reveal His oneness of essence with the Father and the fact"
+    },
+    {
+      "ot_context": "PRO",
+      "nt_target": "1CO.1:24",
+      "context_snippet": ", 2 The Book of Proverbs was written that one might know Christ, the Wisdom of God. As St. Paul pointed out, Christ is \"the power of God and the wisdo"
+    },
+    {
+      "ot_context": "SIR",
+      "nt_target": "1CO.1:24",
+      "context_snippet": "Forever tells us Wisdom is without beginning. He is Christ, the power and wisdom of the Father ([[1CO.1:24]])."
+    },
+    {
+      "ot_context": "WIS",
+      "nt_target": "1CO.1:24",
+      "context_snippet": "According to St. Paul, Christ is \"the wisdom of God\" ([[1CO.1:24]])."
+    },
+    {
+      "ot_context": "2KI",
+      "nt_target": "1CO.1:9",
+      "context_snippet": "). 4:11-17 This account of a miraculous birth to one who has found favor with God helps prepare the nation Israel for the coming miraculous birth of t"
+    },
+    {
+      "ot_context": "EXO",
+      "nt_target": "1CO.10:1",
+      "context_snippet": "The pillar of cloud by day and the pillar of fire by night speak of baptism, the sacrament of illumination or enlightenment ([[1CO.10:1]], [[1CO.10:2]"
+    },
+    {
+      "ot_context": "NUM",
+      "nt_target": "1CO.10:1",
+      "context_snippet": "; Lv 16:1-34; 23:1-44; [[NUM.28:16]]-29:38), to (5) the sabbatical year ([[EXO.23:10]], [[EXO.23:11]]; Lv 25:1-7), and eventually to (6) the Year of R"
+    },
+    {
+      "ot_context": "PSA",
+      "nt_target": "1CO.10:1",
+      "context_snippet": "Ps 80 is a psalm regarding Christ (the End) and His Church (the winepresses, v. 1). For His Church is the new wine (the new covenant), formed in the S"
+    },
+    {
+      "ot_context": "EXO",
+      "nt_target": "1CO.10:10",
+      "context_snippet": "These words were written to warn everyone to beware of spiritual arrogance, for anyone can fall into sin if he fails to guard against temptation ([[1C"
+    },
+    {
+      "ot_context": "NUM",
+      "nt_target": "1CO.10:10",
+      "context_snippet": ", 2 describes this offering: \"I beseech you therefore, brethren, by the mercies of God, that you present your bodies a living sacrifice, holy, accepta"
+    },
+    {
+      "ot_context": "EXO",
+      "nt_target": "1CO.10:11",
+      "context_snippet": "These words were written to warn everyone to beware of spiritual arrogance, for anyone can fall into sin if he fails to guard against temptation ([[1C"
+    },
+    {
+      "ot_context": "NUM",
+      "nt_target": "1CO.10:11",
+      "context_snippet": ", 2 describes this offering: \"I beseech you therefore, brethren, by the mercies of God, that you present your bodies a living sacrifice, holy, accepta"
+    },
+    {
+      "ot_context": "NUM",
+      "nt_target": "1CO.10:11",
+      "context_snippet": "; Lv 16:1-34; 23:1-44; [[NUM.28:16]]-29:38), to (5) the sabbatical year ([[EXO.23:10]], [[EXO.23:11]]; Lv 25:1-7), and eventually to (6) the Year of R"
+    },
+    {
+      "ot_context": "EXO",
+      "nt_target": "1CO.10:12",
+      "context_snippet": "These words were written to warn everyone to beware of spiritual arrogance, for anyone can fall into sin if he fails to guard against temptation ([[1C"
+    },
+    {
+      "ot_context": "NUM",
+      "nt_target": "1CO.10:12",
+      "context_snippet": ", 2 describes this offering: \"I beseech you therefore, brethren, by the mercies of God, that you present your bodies a living sacrifice, holy, accepta"
+    },
+    {
+      "ot_context": "SIR",
+      "nt_target": "1CO.10:18",
+      "context_snippet": "God intended Israel (v. 14) to be a tight-knit, unified nation. But He also intended her to have open and honorable relations with every nation (v. 14"
+    },
+    {
+      "ot_context": "EXO",
+      "nt_target": "1CO.10:2",
+      "context_snippet": "The pillar of cloud by day and the pillar of fire by night speak of baptism, the sacrament of illumination or enlightenment ([[1CO.10:1]], [[1CO.10:2]"
+    },
+    {
+      "ot_context": "NUM",
+      "nt_target": "1CO.10:2",
+      "context_snippet": "; Lv 16:1-34; 23:1-44; [[NUM.28:16]]-29:38), to (5) the sabbatical year ([[EXO.23:10]], [[EXO.23:11]]; Lv 25:1-7), and eventually to (6) the Year of R"
+    },
+    {
+      "ot_context": "PSA",
+      "nt_target": "1CO.10:2",
+      "context_snippet": "Ps 80 is a psalm regarding Christ (the End) and His Church (the winepresses, v. 1). For His Church is the new wine (the new covenant), formed in the S"
+    },
+    {
+      "ot_context": "DEU",
+      "nt_target": "1CO.10:3",
+      "context_snippet": "The rock speaks of Christ, and the oil of the Holy Spirit, and the honey of the spiritual food, for Christ gives us His Holy Spirit ([[1CO.10:3]], [[1"
+    },
+    {
+      "ot_context": "EZK",
+      "nt_target": "1CO.10:4",
+      "context_snippet": "Types of both Christ and Mary, His Mother, fill the Old Testament. Indeed, most of the Old Testament types of Mary-a natural consequence of her essent"
+    },
+    {
+      "ot_context": "DEU",
+      "nt_target": "1CO.10:4",
+      "context_snippet": "The rock speaks of Christ, and the oil of the Holy Spirit, and the honey of the spiritual food, for Christ gives us His Holy Spirit ([[1CO.10:3]], [[1"
+    },
+    {
+      "ot_context": "SNG",
+      "nt_target": "1CO.10:4",
+      "context_snippet": "And come: The Lord commands the sleeper to arise and join Him ([[EPH.5:14]]). The dove is a symbol of fidelity and chastity. The rock is Christ ([[1CO"
+    },
+    {
+      "ot_context": "WIS",
+      "nt_target": "1CO.10:4",
+      "context_snippet": "), who is also called the Theologian, the Knower of God. 8:7 Jesus said, \"Seek first the kingdom of God and His righteousness\" ([[MAT.6:33]]). The vir"
+    },
+    {
+      "ot_context": "EXO",
+      "nt_target": "1CO.10:6",
+      "context_snippet": "These words were written to warn everyone to beware of spiritual arrogance, for anyone can fall into sin if he fails to guard against temptation ([[1C"
+    },
+    {
+      "ot_context": "NUM",
+      "nt_target": "1CO.10:6",
+      "context_snippet": "; Lv 16:1-34; 23:1-44; [[NUM.28:16]]-29:38), to (5) the sabbatical year ([[EXO.23:10]], [[EXO.23:11]]; Lv 25:1-7), and eventually to (6) the Year of R"
+    },
+    {
+      "ot_context": "EXO",
+      "nt_target": "1CO.10:7",
+      "context_snippet": "These words were written to warn everyone to beware of spiritual arrogance, for anyone can fall into sin if he fails to guard against temptation ([[1C"
+    }
+  ],
+  "book_connectivity_top20": {
+    "REV": {
+      "total_outbound": 1143,
+      "top_targets": {
+        "EXO": 198,
+        "EZK": 149,
+        "MAT": 93,
+        "JOH": 79,
+        "DEU": 49
+      }
+    },
+    "MAT": {
+      "total_outbound": 721,
+      "top_targets": {
+        "LUK": 176,
+        "JOH": 87,
+        "1CO": 62,
+        "1JN": 33,
+        "EPH": 29
+      }
+    },
+    "EXO": {
+      "total_outbound": 571,
+      "top_targets": {
+        "EXO": 151,
+        "JOH": 79,
+        "HEB": 63,
+        "NUM": 54,
+        "MAT": 35
+      }
+    },
+    "LUK": {
+      "total_outbound": 497,
+      "top_targets": {
+        "MAT": 103,
+        "JOH": 95,
+        "MRK": 42,
+        "1CO": 40,
+        "LUK": 22
+      }
+    },
+    "SIR": {
+      "total_outbound": 439,
+      "top_targets": {
+        "GEN": 73,
+        "MAT": 60,
+        "ROM": 54,
+        "2KI": 40,
+        "1PE": 25
+      }
+    },
+    "LEV": {
+      "total_outbound": 399,
+      "top_targets": {
+        "HEB": 61,
+        "LEV": 60,
+        "ROM": 37,
+        "JOH": 31,
+        "ISA": 22
+      }
+    },
+    "JOH": {
+      "total_outbound": 374,
+      "top_targets": {
+        "EXO": 68,
+        "MAT": 66,
+        "LUK": 35,
+        "GEN": 34,
+        "ROM": 22
+      }
+    },
+    "NUM": {
+      "total_outbound": 362,
+      "top_targets": {
+        "EXO": 77,
+        "NUM": 66,
+        "DAN": 32,
+        "HEB": 32,
+        "GEN": 29
+      }
+    },
+    "GEN": {
+      "total_outbound": 341,
+      "top_targets": {
+        "HEB": 61,
+        "ROM": 41,
+        "LUK": 38,
+        "EPH": 25,
+        "GAL": 25
+      }
+    },
+    "EZK": {
+      "total_outbound": 336,
+      "top_targets": {
+        "REV": 56,
+        "LUK": 51,
+        "ACT": 40,
+        "DAN": 33,
+        "GEN": 29
+      }
+    },
+    "JER": {
+      "total_outbound": 319,
+      "top_targets": {
+        "1KI": 42,
+        "MAT": 40,
+        "JER": 33,
+        "LUK": 28,
+        "LAM": 22
+      }
+    },
+    "ACT": {
+      "total_outbound": 269,
+      "top_targets": {
+        "JOH": 41,
+        "LUK": 36,
+        "1CO": 32,
+        "MAT": 31,
+        "NUM": 23
+      }
+    },
+    "PSA": {
+      "total_outbound": 257,
+      "top_targets": {
+        "HEB": 43,
+        "JOH": 27,
+        "ACT": 26,
+        "MAT": 25,
+        "ROM": 19
+      }
+    },
+    "ISA": {
+      "total_outbound": 251,
+      "top_targets": {
+        "MAT": 63,
+        "LUK": 40,
+        "JOH": 28,
+        "ROM": 21,
+        "EPH": 17
+      }
+    },
+    "DEU": {
+      "total_outbound": 223,
+      "top_targets": {
+        "HEB": 50,
+        "ROM": 33,
+        "MAT": 26,
+        "JOH": 15,
+        "EXO": 12
+      }
+    },
+    "JOB": {
+      "total_outbound": 220,
+      "top_targets": {
+        "MAT": 21,
+        "EZK": 20,
+        "PSA": 18,
+        "ROM": 17,
+        "GEN": 16
+      }
+    },
+    "DAN": {
+      "total_outbound": 219,
+      "top_targets": {
+        "JOH": 46,
+        "REV": 41,
+        "MAT": 31,
+        "GEN": 23,
+        "DAN": 12
+      }
+    },
+    "HEB": {
+      "total_outbound": 211,
+      "top_targets": {
+        "MAT": 28,
+        "JOH": 27,
+        "GEN": 24,
+        "EXO": 23,
+        "PSA": 18
+      }
+    },
+    "MRK": {
+      "total_outbound": 198,
+      "top_targets": {
+        "MAT": 45,
+        "LUK": 44,
+        "ACT": 27,
+        "JOH": 27,
+        "EXO": 11
+      }
+    },
+    "1CO": {
+      "total_outbound": 192,
+      "top_targets": {
+        "EXO": 34,
+        "MAT": 26,
+        "GAL": 22,
+        "ROM": 20,
+        "EPH": 11
+      }
+    }
+  }
+}
